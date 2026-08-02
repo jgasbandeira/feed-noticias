@@ -452,7 +452,7 @@ def gerar_html(itens: list[dict]) -> str:
     fontes_presentes = sorted({item["source"] for item in itens})
 
     chips_fonte = " ".join(
-        f'<button type="button" class="chip active" data-value="{html.escape(f)}">'
+        f'<button type="button" class="chip" data-value="{html.escape(f)}">'
         f'{html.escape(f)}</button>'
         for f in fontes_presentes
     )
