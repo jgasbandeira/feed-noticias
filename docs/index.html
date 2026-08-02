@@ -27,7 +27,7 @@
   .header .sub { color: var(--muted); font-size: 0.85rem; }
 
   .controles { max-width: 720px; margin: 0 auto 20px; display: flex; flex-direction: column; gap: 12px; }
-  .tabs { display: flex; gap: 8px; }
+  .tabs { display: flex; gap: 8px; flex-wrap: wrap; }
   .tab-btn {
     background: none; border: none; color: var(--muted); font-size: 0.95rem;
     font-weight: 600; padding: 8px 4px; cursor: pointer; border-bottom: 2px solid transparent;
@@ -74,13 +74,14 @@
 <body>
   <div class="header">
     <h1>Feed de Notícias</h1>
-    <div class="sub">Atualizado em 02/08/2026 16:30</div>
+    <div class="sub">Atualizado em 02/08/2026 16:36</div>
   </div>
 
   <div class="controles">
     <div class="tabs">
       <button type="button" class="tab-btn active" data-tab="top">Top Picks</button>
       <button type="button" class="tab-btn" data-tab="todos">Todos</button>
+      <button type="button" class="tab-btn" data-tab="xp">Radar XP Asset</button>
     </div>
     <div class="filtros">
       <select id="filtro-periodo">
@@ -98,6 +99,21 @@
 
   <div class="feed" id="feed">
     
+            <article class="card" data-fonte="InfoMoney"
+                      data-temas="Politica"
+                      data-data="2026-08-02T19:34:20+00:00"
+                      data-relevancia="4">
+              <div class="meta">
+                <span class="fonte">InfoMoney</span>
+                <span class="data">02/08/2026 16:34</span>
+              </div>
+              <h2><a href="https://www.infomoney.com.br/politica/caiado-sobre-lula-e-flavio-bolsonaro-brasil-esta-sequestrado-pelos-dois-rejeitados/" target="_blank" rel="noopener">
+                Caiado sobre Lula e Flávio Bolsonaro: Brasil está ‘sequestrado pelos dois rejeitados’
+              </a></h2>
+              <p class="resumo">O governador Caiado criticou Lula e Flávio Bolsonaro, afirmando que o Brasil está &quot;sequestrado pelos dois rejeitados&quot;, referindo-se aos altos índices de rejeição de ambos nas pesquisas de intenção de voto.</p>
+              <div class="tags"><span class="tag">Política</span></div>
+            </article>
+            
             <article class="card" data-fonte="O Globo"
                       data-temas="Politica"
                       data-data="2026-08-02T19:09:42+00:00"
@@ -4601,21 +4617,6 @@ Pesquisa Quaest divulgada em 30 de julho mostra que Juliana Brizola (PDT) lidera
               <div class="tags"><span class="tag">Economia</span> <span class="tag">Fundos Imobiliários</span></div>
             </article>
             
-            <article class="card" data-fonte="CNBC"
-                      data-temas="Economia"
-                      data-data="2026-07-23T20:25:28+00:00"
-                      data-relevancia="8">
-              <div class="meta">
-                <span class="fonte">CNBC</span>
-                <span class="data">23/07/2026 17:25</span>
-              </div>
-              <h2><a href="https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html" target="_blank" rel="noopener">
-                Odds of Federal Reserve rate hike surge as oil prices rip higher
-              </a></h2>
-              <p class="resumo">Mercados precificam maior probabilidade de aumento de juros pelo Federal Reserve em setembro, conforme preços do petróleo sobem significativamente. A alta nos preços da energia reforça pressões inflacionárias que podem levar o banco central americano a manter política monetária mais restritiva.</p>
-              <div class="tags"><span class="tag">Economia</span></div>
-            </article>
-            
   </div>
   <p class="sem-resultado" id="sem-resultado">Nenhuma matéria encontrada com esses filtros.</p>
 
@@ -4672,11 +4673,13 @@ Pesquisa Quaest divulgada em 30 de julho mostra que Juliana Brizola (PDT) lidera
     feed.querySelectorAll('.card').forEach(function (card) {
       var fonteCard = card.dataset.fonte;
       var dataCard = new Date(card.dataset.data).getTime();
+      var temasCard = (card.dataset.temas || '').split(',');
 
       var passaFonte = fontesSel.length === 0 || fontesSel.indexOf(fonteCard) !== -1;
       var passaPeriodo = periodo === 'todos' || (agora - dataCard) <= PERIODO_MS[periodo];
+      var passaAba = abaAtual !== 'xp' || temasCard.indexOf('XP') !== -1;
 
-      var mostrar = passaFonte && passaPeriodo;
+      var mostrar = passaFonte && passaPeriodo && passaAba;
       card.style.display = mostrar ? '' : 'none';
       if (mostrar) algumVisivel = true;
     });
