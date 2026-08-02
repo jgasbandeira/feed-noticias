@@ -318,7 +318,7 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
 <body>
   <div class="header">
     <h1>Feed de Notícias</h1>
-    <div class="sub">Atualizado em __ATUALIZADO_EM__ · Economia, Política, Fundos Imobiliários, Mercado Financeiro, Asset, XP</div>
+    <div class="sub">Atualizado em __ATUALIZADO_EM__</div>
   </div>
 
   <div class="controles">
