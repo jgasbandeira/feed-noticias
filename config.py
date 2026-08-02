@@ -21,9 +21,10 @@ feed falha ou retorna zero itens, então dá para ir ajustando aos poucos.
 
 FEEDS = [
     {"source": "Brazil Journal", "url": "https://braziljournal.com/feed/", "verified": True},
-    {"source": "Metro Quadrado", "url": "https://braziljournal.com/metroquadrado/feed/", "verified": False},
-    {"source": "G1 - Economia", "url": "https://g1.globo.com/rss/g1/economia/", "verified": False},
-    {"source": "G1 - Política", "url": "https://g1.globo.com/rss/g1/politica/", "verified": False},
+    {"source": "Metro Quadrado", "url": "https://metroquadrado.com/feed", "verified": True},
+    {"source": "NeoFeed", "url": "https://neofeed.com.br/feed/", "verified": True},
+    {"source": "G1 - Economia", "url": "https://g1.globo.com/rss/g1/economia/", "verified": True},
+    {"source": "G1 - Política", "url": "https://g1.globo.com/rss/g1/politica/", "verified": True},
     {"source": "O Globo - Economia", "url": "https://oglobo.globo.com/rss/plantaoeconomia.xml", "verified": False},
     {"source": "Valor Econômico", "url": "https://valor.globo.com/rss/", "verified": False},
 ]
