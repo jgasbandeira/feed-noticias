@@ -16,13 +16,17 @@ Uso local:
 """
 from __future__ import annotations
 
+import difflib
 import html
 import json
 import os
 import re
+import smtplib
+import subprocess
 import sys
 import unicodedata
 from datetime import datetime, timedelta, timezone
+from email.mime.text import MIMEText
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
@@ -34,6 +38,7 @@ from config import (
     FEEDS,
     KEYWORDS,
     MAX_ITENS_PAGINA,
+    NOTA_MINIMA_ALERTA,
 )
 
 BASE_DIR = Path(__file__).parent
@@ -100,8 +105,9 @@ def salvar_itens(itens: list[dict]) -> None:
     )
 
 
-def buscar_novas_materias(links_ja_vistos: set[str]) -> list[dict]:
+def buscar_novas_materias(links_ja_vistos: set[str]) -> tuple[list[dict], list[dict]]:
     novas = []
+    falhas: list[dict] = []
     for feed_cfg in FEEDS:
         fonte = feed_cfg["source"]
         url = feed_cfg["url"]
@@ -109,6 +115,7 @@ def buscar_novas_materias(links_ja_vistos: set[str]) -> list[dict]:
             parsed = feedparser.parse(url)
         except Exception as exc:  # feedparser raramente levanta, mas por via das dúvidas
             print(f"FEED FALHOU [{fonte}] ({url}): {exc}")
+            falhas.append({"source": fonte, "url": url, "motivo": str(exc)})
             continue
 
         if parsed.bozo and not parsed.entries:
@@ -116,10 +123,14 @@ def buscar_novas_materias(links_ja_vistos: set[str]) -> list[dict]:
                 f"FEED COM ERRO [{fonte}] ({url}): {parsed.bozo_exception}. "
                 "Verifique a URL em config.py."
             )
+            falhas.append(
+                {"source": fonte, "url": url, "motivo": str(parsed.bozo_exception)}
+            )
             continue
 
         if not parsed.entries:
             print(f"FEED SEM ITENS [{fonte}] ({url}). Verifique a URL em config.py.")
+            falhas.append({"source": fonte, "url": url, "motivo": "feed retornou zero itens"})
             continue
 
         for entry in parsed.entries:
@@ -153,7 +164,7 @@ def buscar_novas_materias(links_ja_vistos: set[str]) -> list[dict]:
             )
             links_ja_vistos.add(link)
 
-    return novas
+    return novas, falhas
 
 
 def _extrair_relevancia(texto: str, padrao: str) -> int | None:
@@ -245,6 +256,140 @@ def gerar_relevancia_backfill(cliente, item: dict) -> int:
         return 5
 
 
+def _titulo_chave(titulo: str) -> str:
+    """Normaliza o título para comparação de duplicidade: sem acento,
+    minúsculo, sem pontuação, palavras em ordem alfabética (para tolerar
+    diferenças de ordem entre fontes diferentes cobrindo o mesmo fato)."""
+    t = normalizar(titulo)
+    t = re.sub(r"[^a-z0-9\s]", " ", t)
+    palavras = sorted(t.split())
+    return " ".join(palavras)
+
+
+def _sao_duplicatas(item_a: dict, item_b: dict) -> bool:
+    """Heurística simples: mesma janela de tempo, pelo menos um tema em
+    comum e título muito parecido (mesmo fato, fontes diferentes)."""
+    if item_a["source"] == item_b["source"]:
+        return False
+    dt_a = datetime.fromisoformat(item_a["published"])
+    dt_b = datetime.fromisoformat(item_b["published"])
+    if abs((dt_a - dt_b).total_seconds()) > 4 * 24 * 3600:
+        return False
+    if not set(item_a["themes"]) & set(item_b["themes"]):
+        return False
+    ratio = difflib.SequenceMatcher(
+        None, _titulo_chave(item_a["title"]), _titulo_chave(item_b["title"])
+    ).ratio()
+    return ratio >= 0.6
+
+
+def agrupar_duplicatas(itens: list[dict]) -> list[dict]:
+    """Detecta matérias muito parecidas (mesmo fato) reportadas por fontes
+    diferentes e as agrupa num único card, guardando as demais em
+    item['related'] (fonte + link) em vez de duplicar no feed."""
+    itens_ordenados = sorted(itens, key=lambda i: i["published"])
+    mantidos: list[dict] = []
+    for item in itens_ordenados:
+        principal_encontrado = None
+        for principal in mantidos:
+            if _sao_duplicatas(item, principal):
+                principal_encontrado = principal
+                break
+        if principal_encontrado is None:
+            mantidos.append(item)
+            continue
+
+        principal_encontrado.setdefault("related", [])
+        candidatas = [{"source": item["source"], "link": item["link"]}]
+        candidatas.extend(item.get("related", []))
+        for candidata in candidatas:
+            if not any(
+                r["link"] == candidata["link"] for r in principal_encontrado["related"]
+            ):
+                principal_encontrado["related"].append(candidata)
+    return mantidos
+
+
+def notificar_feeds_com_erro(falhas: list[dict]) -> None:
+    """Abre (ou reaproveita) uma issue no repositório do GitHub avisando
+    sobre feeds que falharam nesta execução. Usa o GITHUB_TOKEN padrão do
+    Actions (via GitHub CLI), sem precisar de credencial extra."""
+    repo = os.environ.get("GITHUB_REPOSITORY")
+    token = os.environ.get("GITHUB_TOKEN")
+    if not repo or not token:
+        print("Sem GITHUB_REPOSITORY/GITHUB_TOKEN; pulando abertura de issue de erro.")
+        return
+
+    titulo = "Feed(s) RSS com problema"
+    linhas = ["Os seguintes feeds falharam na última execução:", ""]
+    for f in falhas:
+        linhas.append(f"- **{f['source']}** ({f['url']}): {f['motivo']}")
+    corpo = "\n".join(linhas)
+    env = {**os.environ, "GH_TOKEN": token}
+
+    try:
+        busca = subprocess.run(
+            [
+                "gh", "issue", "list", "--repo", repo, "--state", "open",
+                "--search", titulo, "--json", "number,title",
+            ],
+            capture_output=True, text=True, env=env, timeout=30,
+        )
+        ja_existe = False
+        if busca.returncode == 0:
+            try:
+                abertas = json.loads(busca.stdout or "[]")
+                ja_existe = any(i["title"] == titulo for i in abertas)
+            except json.JSONDecodeError:
+                pass
+        if ja_existe:
+            print("Issue de feed com erro já está aberta; não vou duplicar.")
+            return
+
+        criacao = subprocess.run(
+            ["gh", "issue", "create", "--repo", repo, "--title", titulo, "--body", corpo],
+            capture_output=True, text=True, env=env, timeout=30,
+        )
+        if criacao.returncode == 0:
+            print("Issue aberta avisando sobre feed(s) com erro.")
+        else:
+            print(f"AVISO: falha ao criar issue de erro: {criacao.stderr}")
+    except Exception as exc:
+        print(f"AVISO: falha ao notificar feeds com erro: {exc}")
+
+
+def enviar_alerta_relevancia(itens_alerta: list[dict]) -> None:
+    """Envia um e-mail (via Gmail SMTP) avisando sobre matérias de
+    relevância muito alta. Requer os secrets GMAIL_USER e
+    GMAIL_APP_PASSWORD; se não estiverem definidos, só pula com um aviso."""
+    remetente = os.environ.get("GMAIL_USER")
+    senha = os.environ.get("GMAIL_APP_PASSWORD")
+    if not remetente or not senha:
+        print("Sem GMAIL_USER/GMAIL_APP_PASSWORD; pulando alerta por e-mail.")
+        return
+
+    linhas = ["Notícias de alta relevância nesta atualização:", ""]
+    for item in itens_alerta:
+        linhas.append(f"[{item['relevance']}/10] {item['source']}: {item['title']}")
+        linhas.append(item["link"])
+        linhas.append("")
+    corpo = "\n".join(linhas)
+
+    msg = MIMEText(corpo, _charset="utf-8")
+    msg["Subject"] = f"Feed de Notícias: {len(itens_alerta)} matéria(s) de alta relevância"
+    msg["From"] = remetente
+    msg["To"] = remetente
+
+    try:
+        with smtplib.SMTP("smtp.gmail.com", 587, timeout=30) as smtp:
+            smtp.starttls()
+            smtp.login(remetente, senha)
+            smtp.send_message(msg)
+        print(f"Alerta de relevância enviado por e-mail para {remetente}.")
+    except Exception as exc:
+        print(f"AVISO: falha ao enviar alerta por e-mail: {exc}")
+
+
 PAGINA_TEMPLATE = """<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -282,6 +427,12 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
   .tab-btn.active { color: var(--text); border-bottom-color: var(--accent); }
 
   .filtros { display: flex; flex-direction: column; gap: 8px; }
+  input#busca-texto {
+    background: var(--chip-off); color: var(--text); border: 1px solid #23262e;
+    border-radius: 8px; padding: 8px 12px; font-size: 0.85rem; width: 100%;
+    font-family: inherit;
+  }
+  input#busca-texto::placeholder { color: var(--muted); }
   select#filtro-periodo {
     background: var(--chip-off); color: var(--text); border: 1px solid #23262e;
     border-radius: 8px; padding: 6px 10px; font-size: 0.82rem; align-self: flex-start;
@@ -298,17 +449,31 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
     background: var(--card); border-radius: 10px; padding: 16px 18px;
     border: 1px solid #23262e;
   }
-  .meta { display: flex; justify-content: space-between; font-size: 0.78rem; color: var(--muted); margin-bottom: 6px; }
+  .meta { display: flex; justify-content: space-between; align-items: center; font-size: 0.78rem; color: var(--muted); margin-bottom: 6px; gap: 8px; }
   .fonte { font-weight: 600; color: var(--accent); }
+  .relevancia {
+    background: var(--tag-bg); color: var(--muted); font-size: 0.72rem;
+    padding: 2px 8px; border-radius: 999px; white-space: nowrap;
+  }
+  .relevancia.alta { background: var(--accent); color: #061421; font-weight: 600; }
   h2 { margin: 0 0 8px; font-size: 1.05rem; line-height: 1.35; }
   h2 a { color: var(--text); text-decoration: none; }
   h2 a:hover { text-decoration: underline; }
   .resumo { margin: 0 0 10px; color: #d3d3d3; font-size: 0.92rem; line-height: 1.5; }
-  .tags { display: flex; gap: 6px; flex-wrap: wrap; }
+  .tags { display: flex; gap: 6px; flex-wrap: wrap; align-items: center; }
   .tag {
     background: var(--tag-bg); color: var(--muted); font-size: 0.72rem;
     padding: 3px 8px; border-radius: 999px;
   }
+  .btn-compartilhar {
+    margin-left: auto; background: none; border: 1px solid #23262e; color: var(--muted);
+    border-radius: 999px; padding: 3px 10px; font-size: 0.72rem; cursor: pointer;
+    font-family: inherit;
+  }
+  .btn-compartilhar:hover { border-color: var(--accent); color: var(--accent); }
+  .relacionadas { margin-top: 8px; font-size: 0.75rem; color: var(--muted); }
+  .relacionadas a { color: var(--muted); text-decoration: underline; }
+  .relacionadas a:hover { color: var(--accent); }
   .sem-resultado { text-align: center; color: var(--muted); padding: 24px 0; display: none; }
   .rodape {
     max-width: 720px; margin: 32px auto 0; padding-top: 16px;
@@ -331,6 +496,7 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
       <button type="button" class="tab-btn" data-tab="xp">Radar XP Asset</button>
     </div>
     <div class="filtros">
+      <input type="search" id="busca-texto" placeholder="Buscar por palavra-chave...">
       <select id="filtro-periodo">
         <option value="todos">Todos os períodos</option>
         <option value="24h">Últimas 24h</option>
@@ -361,7 +527,15 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
   var tabButtons = document.querySelectorAll('.tab-btn');
   var chipFontes = document.querySelectorAll('#chips-fonte .chip');
   var selectPeriodo = document.getElementById('filtro-periodo');
+  var inputBusca = document.getElementById('busca-texto');
   var abaAtual = 'top';
+
+  function normalizarBusca(texto) {
+    return (texto || '')
+      .toLowerCase()
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '');
+  }
 
   var PERIODO_MS = {
     '24h': 24 * 60 * 60 * 1000,
@@ -396,6 +570,7 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
   function aplicarFiltros() {
     var fontesSel = chipsAtivos(chipFontes);
     var periodo = selectPeriodo.value;
+    var termoBusca = normalizarBusca(inputBusca.value.trim());
     var agora = Date.now();
     var algumVisivel = false;
 
@@ -403,12 +578,14 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
       var fonteCard = card.dataset.fonte;
       var dataCard = new Date(card.dataset.data).getTime();
       var temasCard = (card.dataset.temas || '').split(',');
+      var textoCard = card.dataset.busca || '';
 
       var passaFonte = fontesSel.length === 0 || fontesSel.indexOf(fonteCard) !== -1;
       var passaPeriodo = periodo === 'todos' || (agora - dataCard) <= PERIODO_MS[periodo];
       var passaAba = abaAtual !== 'xp' || temasCard.indexOf('XP') !== -1;
+      var passaBusca = termoBusca === '' || textoCard.indexOf(termoBusca) !== -1;
 
-      var mostrar = passaFonte && passaPeriodo && passaAba;
+      var mostrar = passaFonte && passaPeriodo && passaAba && passaBusca;
       card.style.display = mostrar ? '' : 'none';
       if (mostrar) algumVisivel = true;
     });
@@ -433,6 +610,24 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
     });
   });
   selectPeriodo.addEventListener('change', aplicarFiltros);
+  inputBusca.addEventListener('input', aplicarFiltros);
+
+  document.querySelectorAll('.btn-compartilhar').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var texto = btn.dataset.titulo + '\\n' + btn.dataset.resumo + '\\n' + btn.dataset.link;
+      var original = btn.textContent;
+      function marcarCopiado() {
+        btn.textContent = 'Copiado!';
+        setTimeout(function () { btn.textContent = original; }, 1500);
+      }
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(texto).then(marcarCopiado, function () {
+          btn.textContent = 'Erro ao copiar';
+          setTimeout(function () { btn.textContent = original; }, 1500);
+        });
+      }
+    });
+  });
 
   reordenar();
   aplicarFiltros();
@@ -453,21 +648,43 @@ def gerar_html(itens: list[dict]) -> str:
             f'<span class="tag">{html.escape(ROTULO_TEMA.get(t, t))}</span>'
             for t in item["themes"]
         )
+        relevancia = item.get("relevance", 5)
+        relevancia_classe = " alta" if relevancia >= 8 else ""
+        busca_texto = html.escape(normalizar(f"{item['title']} {item['summary']}"))
+        relacionadas = item.get("related") or []
+        relacionadas_html = ""
+        if relacionadas:
+            links_relacionados = ", ".join(
+                f'<a href="{html.escape(r["link"])}" target="_blank" rel="noopener">'
+                f'{html.escape(r["source"])}</a>'
+                for r in relacionadas
+            )
+            relacionadas_html = (
+                f'<div class="relacionadas">Também: {links_relacionados}</div>'
+            )
         linhas.append(
             f"""
             <article class="card" data-fonte="{html.escape(item['source'])}"
                       data-temas="{html.escape(','.join(item['themes']))}"
                       data-data="{html.escape(item['published'])}"
-                      data-relevancia="{item.get('relevance', 5)}">
+                      data-relevancia="{relevancia}"
+                      data-busca="{busca_texto}">
               <div class="meta">
                 <span class="fonte">{html.escape(item['source'])}</span>
+                <span class="relevancia{relevancia_classe}">Relevância {relevancia}/10</span>
                 <span class="data">{data_fmt}</span>
               </div>
               <h2><a href="{html.escape(item['link'])}" target="_blank" rel="noopener">
                 {html.escape(item['title'])}
               </a></h2>
               <p class="resumo">{html.escape(item['summary'])}</p>
-              <div class="tags">{temas_html}</div>
+              <div class="tags">{temas_html}
+                <button type="button" class="btn-compartilhar"
+                        data-titulo="{html.escape(item['title'])}"
+                        data-resumo="{html.escape(item['summary'])}"
+                        data-link="{html.escape(item['link'])}">Copiar resumo</button>
+              </div>
+              {relacionadas_html}
             </article>
             """
         )
@@ -511,6 +728,9 @@ def main() -> None:
 
     itens_existentes = carregar_itens_existentes()
     links_ja_vistos = {item["link"] for item in itens_existentes}
+    for item in itens_existentes:
+        for relacionada in item.get("related", []):
+            links_ja_vistos.add(relacionada["link"])
 
     # Itens antigos (de antes desse recurso existir) não têm nota de
     # relevância. Preenche uma vez, sem regerar o resumo já salvo.
@@ -523,13 +743,20 @@ def main() -> None:
         for item in sem_relevancia:
             item["relevance"] = gerar_relevancia_backfill(cliente, item)
 
-    novas_materias = buscar_novas_materias(links_ja_vistos)
+    novas_materias, falhas = buscar_novas_materias(links_ja_vistos)
     print(f"{len(novas_materias)} matéria(s) nova(s) encontradas após filtro de tema.")
+
+    if falhas:
+        notificar_feeds_com_erro(falhas)
 
     for item in novas_materias:
         resumo, nota = gerar_resumo_e_relevancia(cliente, item)
         item["summary"] = resumo
         item["relevance"] = nota
+
+    itens_alerta = [i for i in novas_materias if i["relevance"] >= NOTA_MINIMA_ALERTA]
+    if itens_alerta:
+        enviar_alerta_relevancia(itens_alerta)
 
     todos_itens = itens_existentes + novas_materias
 
@@ -537,6 +764,7 @@ def main() -> None:
     todos_itens = [
         i for i in todos_itens if datetime.fromisoformat(i["published"]) >= limite
     ]
+    todos_itens = agrupar_duplicatas(todos_itens)
     todos_itens.sort(key=lambda i: i["published"], reverse=True)
     todos_itens = todos_itens[:MAX_ITENS_PAGINA]
 

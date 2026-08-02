@@ -84,3 +84,8 @@ DIAS_RETENCAO = 21
 
 # Máximo de itens mostrados na página final.
 MAX_ITENS_PAGINA = 300
+
+# Nota mínima de relevância (1-10) para disparar um alerta por e-mail.
+# Só dispara se os secrets GMAIL_USER e GMAIL_APP_PASSWORD estiverem
+# configurados no repositório (ver README).
+NOTA_MINIMA_ALERTA = 9
