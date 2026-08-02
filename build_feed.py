@@ -415,8 +415,12 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
     font-family: -apple-system, Segoe UI, Roboto, Arial, sans-serif;
   }
   .header { max-width: 720px; margin: 0 auto 16px; }
+  .header-top { display: flex; align-items: center; gap: 12px; }
+  .header-top .logo {
+    width: 40px; height: 40px; border-radius: 10px; flex-shrink: 0;
+  }
   .header h1 { margin: 0 0 4px; font-size: 1.5rem; }
-  .header .sub { color: var(--muted); font-size: 0.85rem; }
+  .header .sub { color: var(--muted); font-size: 0.85rem; margin-left: 52px; }
 
   .controles { max-width: 720px; margin: 0 auto 20px; display: flex; flex-direction: column; gap: 12px; }
   .tabs { display: flex; gap: 8px; flex-wrap: wrap; }
@@ -485,7 +489,10 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
 </head>
 <body>
   <div class="header">
-    <h1>Feed de Notícias</h1>
+    <div class="header-top">
+      <img src="apple-touch-icon.png" alt="Logo Feed de Notícias" class="logo">
+      <h1>Feed de Notícias</h1>
+    </div>
     <div class="sub">Atualizado em __ATUALIZADO_EM__</div>
   </div>
 
