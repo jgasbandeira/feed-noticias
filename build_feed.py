@@ -582,12 +582,14 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
     var algumVisivel = false;
 
     feed.querySelectorAll('.card').forEach(function (card) {
-      var fonteCard = card.dataset.fonte;
+      var fontesCard = (card.dataset.fontesTodas || card.dataset.fonte || '').split(',');
       var dataCard = new Date(card.dataset.data).getTime();
       var temasCard = (card.dataset.temas || '').split(',');
       var textoCard = card.dataset.busca || '';
 
-      var passaFonte = fontesSel.length === 0 || fontesSel.indexOf(fonteCard) !== -1;
+      var passaFonte = fontesSel.length === 0 || fontesSel.some(function (f) {
+        return fontesCard.indexOf(f) !== -1;
+      });
       var passaPeriodo = periodo === 'todos' || (agora - dataCard) <= PERIODO_MS[periodo];
       var passaAba = abaAtual !== 'xp' || temasCard.indexOf('XP') !== -1;
       var passaBusca = termoBusca === '' || textoCard.indexOf(termoBusca) !== -1;
@@ -669,9 +671,15 @@ def gerar_html(itens: list[dict]) -> str:
             relacionadas_html = (
                 f'<div class="relacionadas">Também: {links_relacionados}</div>'
             )
+        # Fontes "filtráveis" do card: a principal + as que foram absorvidas
+        # pela deduplicação. Assim um veículo cujas matérias sempre acabam
+        # mescladas em outra fonte não desaparece dos filtros.
+        fontes_card = [item["source"]] + [r["source"] for r in relacionadas]
+        fontes_card = list(dict.fromkeys(fontes_card))  # remove duplicatas, preserva ordem
         linhas.append(
             f"""
             <article class="card" data-fonte="{html.escape(item['source'])}"
+                      data-fontes-todas="{html.escape(','.join(fontes_card))}"
                       data-temas="{html.escape(','.join(item['themes']))}"
                       data-data="{html.escape(item['published'])}"
                       data-relevancia="{relevancia}"
@@ -698,7 +706,10 @@ def gerar_html(itens: list[dict]) -> str:
 
     atualizado_em = datetime.now(timezone.utc).astimezone(FUSO_BR).strftime("%d/%m/%Y %H:%M")
 
-    fontes_presentes = sorted({item["source"] for item in itens})
+    fontes_presentes = sorted(
+        {item["source"] for item in itens}
+        | {r["source"] for item in itens for r in item.get("related", [])}
+    )
 
     chips_fonte = " ".join(
         f'<button type="button" class="chip" data-value="{html.escape(f)}">'
