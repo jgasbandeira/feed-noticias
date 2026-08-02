@@ -307,6 +307,12 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
     padding: 3px 8px; border-radius: 999px;
   }
   .sem-resultado { text-align: center; color: var(--muted); padding: 24px 0; display: none; }
+  .rodape {
+    max-width: 720px; margin: 32px auto 0; padding-top: 16px;
+    border-top: 1px solid #23262e; color: var(--muted); font-size: 0.78rem;
+    line-height: 1.6; text-align: center;
+  }
+  .rodape p { margin: 0 0 4px; }
 </style>
 </head>
 <body>
@@ -338,6 +344,11 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
     __CARDS__
   </div>
   <p class="sem-resultado" id="sem-resultado">Nenhuma matéria encontrada com esses filtros.</p>
+
+  <div class="rodape">
+    <p>Fonte das notícias: __FONTES_RODAPE__.</p>
+    <p>Desenvolvido por jgbandeira.</p>
+  </div>
 
 <script>
 (function () {
@@ -465,6 +476,9 @@ def gerar_html(itens: list[dict]) -> str:
         for f in fontes_presentes
     )
 
+    fontes_configuradas = sorted({feed_cfg["source"] for feed_cfg in FEEDS})
+    fontes_rodape = html.escape(", ".join(fontes_configuradas))
+
     cards_html = (
         "".join(linhas)
         if linhas
@@ -474,6 +488,7 @@ def gerar_html(itens: list[dict]) -> str:
     return (
         PAGINA_TEMPLATE.replace("__ATUALIZADO_EM__", atualizado_em)
         .replace("__CHIPS_FONTE__", chips_fonte)
+        .replace("__FONTES_RODAPE__", fontes_rodape)
         .replace("__CARDS__", cards_html)
     )
 
