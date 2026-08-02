@@ -274,7 +274,7 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
   .header .sub { color: var(--muted); font-size: 0.85rem; }
 
   .controles { max-width: 720px; margin: 0 auto 20px; display: flex; flex-direction: column; gap: 12px; }
-  .tabs { display: flex; gap: 8px; }
+  .tabs { display: flex; gap: 8px; flex-wrap: wrap; }
   .tab-btn {
     background: none; border: none; color: var(--muted); font-size: 0.95rem;
     font-weight: 600; padding: 8px 4px; cursor: pointer; border-bottom: 2px solid transparent;
@@ -328,6 +328,7 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
     <div class="tabs">
       <button type="button" class="tab-btn active" data-tab="top">Top Picks</button>
       <button type="button" class="tab-btn" data-tab="todos">Todos</button>
+      <button type="button" class="tab-btn" data-tab="xp">Radar XP Asset</button>
     </div>
     <div class="filtros">
       <select id="filtro-periodo">
@@ -401,11 +402,13 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
     feed.querySelectorAll('.card').forEach(function (card) {
       var fonteCard = card.dataset.fonte;
       var dataCard = new Date(card.dataset.data).getTime();
+      var temasCard = (card.dataset.temas || '').split(',');
 
       var passaFonte = fontesSel.length === 0 || fontesSel.indexOf(fonteCard) !== -1;
       var passaPeriodo = periodo === 'todos' || (agora - dataCard) <= PERIODO_MS[periodo];
+      var passaAba = abaAtual !== 'xp' || temasCard.indexOf('XP') !== -1;
 
-      var mostrar = passaFonte && passaPeriodo;
+      var mostrar = passaFonte && passaPeriodo && passaAba;
       card.style.display = mostrar ? '' : 'none';
       if (mostrar) algumVisivel = true;
     });
