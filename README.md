@@ -38,9 +38,7 @@ cronologicamente via GitHub Pages.
 ### 4. Ativar o GitHub Pages
 1. No repositório, vá em **Settings → Pages**.
 2. Em **Source**, escolha **Deploy from a branch**.
-3. Branch: `main`, pasta: `/news-feed/docs` (se o GitHub não deixar escolher
-   uma subpasta de nível 2, mova a pasta `docs/` para a raiz do repositório e
-   ajuste o caminho no workflow `.github/workflows/update-feed.yml` de acordo).
+3. Branch: `main`, pasta: `/docs`.
 4. Salve. O GitHub vai te dar uma URL tipo
    `https://SEU_USUARIO.github.io/meu-feed-noticias/`.
 
@@ -91,7 +89,6 @@ Em `config.py`:
 ## Rodando localmente (para testar antes de subir)
 
 ```
-cd news-feed
 pip install -r requirements.txt
 export ANTHROPIC_API_KEY=sk-ant-...
 python build_feed.py
