@@ -2,8 +2,8 @@
 """
 Agregador de notícias: lê os feeds RSS configurados em config.py, filtra por
 tema, gera um resumo com IA (+nota de relevância) para cada matéria nova e
-publica uma página HTML estática com duas visões (Geral / Curadoria) e
-filtros por tema, veículo e período.
+publica uma página HTML estática com duas visões (Top Picks / Todos) e
+filtros por veículo e período.
 
 Pensado para rodar a cada 30 minutos via GitHub Actions (ver
 .github/workflows/update-feed.yml), mas roda igual em qualquer máquina com
@@ -309,8 +309,8 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
 
   <div class="controles">
     <div class="tabs">
-      <button type="button" class="tab-btn active" data-tab="geral">Geral</button>
-      <button type="button" class="tab-btn" data-tab="curadoria">Curadoria</button>
+      <button type="button" class="tab-btn active" data-tab="top">Top Picks</button>
+      <button type="button" class="tab-btn" data-tab="todos">Todos</button>
     </div>
     <div class="filtros">
       <select id="filtro-periodo">
@@ -320,9 +320,6 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
         <option value="7d">Últimos 7 dias</option>
         <option value="30d">Últimos 30 dias</option>
       </select>
-      <div class="chips" id="chips-tema">
-        __CHIPS_TEMA__
-      </div>
       <div class="chips" id="chips-fonte">
         __CHIPS_FONTE__
       </div>
@@ -339,10 +336,9 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
   var feed = document.getElementById('feed');
   var semResultado = document.getElementById('sem-resultado');
   var tabButtons = document.querySelectorAll('.tab-btn');
-  var chipTemas = document.querySelectorAll('#chips-tema .chip');
   var chipFontes = document.querySelectorAll('#chips-fonte .chip');
   var selectPeriodo = document.getElementById('filtro-periodo');
-  var abaAtual = 'geral';
+  var abaAtual = 'top';
 
   var PERIODO_MS = {
     '24h': 24 * 60 * 60 * 1000,
@@ -362,7 +358,7 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
   function reordenar() {
     var cards = Array.prototype.slice.call(feed.querySelectorAll('.card'));
     cards.sort(function (a, b) {
-      if (abaAtual === 'curadoria') {
+      if (abaAtual === 'top') {
         var relA = parseInt(a.dataset.relevancia, 10) || 0;
         var relB = parseInt(b.dataset.relevancia, 10) || 0;
         if (relB !== relA) return relB - relA;
@@ -375,24 +371,19 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
   }
 
   function aplicarFiltros() {
-    var temasSel = chipsAtivos(chipTemas);
     var fontesSel = chipsAtivos(chipFontes);
     var periodo = selectPeriodo.value;
     var agora = Date.now();
     var algumVisivel = false;
 
     feed.querySelectorAll('.card').forEach(function (card) {
-      var temasCard = (card.dataset.temas || '').split(',');
       var fonteCard = card.dataset.fonte;
       var dataCard = new Date(card.dataset.data).getTime();
 
-      var passaTema = temasSel.length === 0 || temasCard.some(function (t) {
-        return temasSel.indexOf(t) !== -1;
-      });
       var passaFonte = fontesSel.length === 0 || fontesSel.indexOf(fonteCard) !== -1;
       var passaPeriodo = periodo === 'todos' || (agora - dataCard) <= PERIODO_MS[periodo];
 
-      var mostrar = passaTema && passaFonte && passaPeriodo;
+      var mostrar = passaFonte && passaPeriodo;
       card.style.display = mostrar ? '' : 'none';
       if (mostrar) algumVisivel = true;
     });
@@ -410,12 +401,6 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
     });
   });
 
-  chipTemas.forEach(function (chip) {
-    chip.addEventListener('click', function () {
-      chip.classList.toggle('active');
-      aplicarFiltros();
-    });
-  });
   chipFontes.forEach(function (chip) {
     chip.addEventListener('click', function () {
       chip.classList.toggle('active');
@@ -464,14 +449,8 @@ def gerar_html(itens: list[dict]) -> str:
 
     atualizado_em = datetime.now(timezone.utc).astimezone(FUSO_BR).strftime("%d/%m/%Y %H:%M")
 
-    temas_presentes = list(ROTULO_TEMA.keys())
     fontes_presentes = sorted({item["source"] for item in itens})
 
-    chips_tema = " ".join(
-        f'<button type="button" class="chip active" data-value="{html.escape(t)}">'
-        f'{html.escape(ROTULO_TEMA.get(t, t))}</button>'
-        for t in temas_presentes
-    )
     chips_fonte = " ".join(
         f'<button type="button" class="chip active" data-value="{html.escape(f)}">'
         f'{html.escape(f)}</button>'
@@ -486,7 +465,6 @@ def gerar_html(itens: list[dict]) -> str:
 
     return (
         PAGINA_TEMPLATE.replace("__ATUALIZADO_EM__", atualizado_em)
-        .replace("__CHIPS_TEMA__", chips_tema)
         .replace("__CHIPS_FONTE__", chips_fonte)
         .replace("__CARDS__", cards_html)
     )
