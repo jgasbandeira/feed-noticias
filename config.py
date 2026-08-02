@@ -25,7 +25,7 @@ FEEDS = [
     {"source": "NeoFeed", "url": "https://neofeed.com.br/feed/", "verified": True},
     {"source": "G1 - Economia", "url": "https://g1.globo.com/rss/g1/economia/", "verified": True},
     {"source": "G1 - Política", "url": "https://g1.globo.com/rss/g1/politica/", "verified": True},
-    {"source": "O Globo - Economia", "url": "https://oglobo.globo.com/rss/plantaoeconomia.xml", "verified": False},
+    {"source": "O Globo", "url": "https://oglobo.globo.com/rss/oglobo", "verified": False},
     {"source": "Valor Econômico", "url": "https://valor.globo.com/rss/valor", "verified": False},
 ]
 
