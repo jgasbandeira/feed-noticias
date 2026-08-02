@@ -63,12 +63,18 @@
     padding: 3px 8px; border-radius: 999px;
   }
   .sem-resultado { text-align: center; color: var(--muted); padding: 24px 0; display: none; }
+  .rodape {
+    max-width: 720px; margin: 32px auto 0; padding-top: 16px;
+    border-top: 1px solid #23262e; color: var(--muted); font-size: 0.78rem;
+    line-height: 1.6; text-align: center;
+  }
+  .rodape p { margin: 0 0 4px; }
 </style>
 </head>
 <body>
   <div class="header">
     <h1>Feed de Notícias</h1>
-    <div class="sub">Atualizado em 02/08/2026 15:33 · Economia, Política, Fundos Imobiliários, Mercado Financeiro, Asset, XP</div>
+    <div class="sub">Atualizado em 02/08/2026 15:58 · Economia, Política, Fundos Imobiliários, Mercado Financeiro, Asset, XP</div>
   </div>
 
   <div class="controles">
@@ -92,6 +98,51 @@
 
   <div class="feed" id="feed">
     
+            <article class="card" data-fonte="Valor Econômico"
+                      data-temas="Politica"
+                      data-data="2026-08-02T18:35:45+00:00"
+                      data-relevancia="4">
+              <div class="meta">
+                <span class="fonte">Valor Econômico</span>
+                <span class="data">02/08/2026 15:35</span>
+              </div>
+              <h2><a href="https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/02/cenrio-eleitoral-em-mg-uma-mistura-de-polarizao-com-oportunismo-diz-simes.ghtml" target="_blank" rel="noopener">
+                Cenário eleitoral em MG é uma &#x27;mistura de polarização com oportunismo&#x27;, diz Simões
+              </a></h2>
+              <p class="resumo">O governador de Minas Gerais Mateus Simões (PSD), candidato à reeleição, criticou o cenário eleitoral mineiro como uma &quot;mistura de polarização com oportunismo&quot;, referindo-se indiretamente ao ex-secretário Marcelo Aro que negociou sua candidatura ao governo em Brasília e depois rompeu com a aliança. Simões também atacou o retorno de figuras como Eduardo Cunha às eleições e questionou decisões sobre candidatos serem tomadas fora de Minas Gerais.</p>
+              <div class="tags"><span class="tag">Política</span></div>
+            </article>
+            
+            <article class="card" data-fonte="O Globo"
+                      data-temas="Politica"
+                      data-data="2026-08-02T18:23:42+00:00"
+                      data-relevancia="6">
+              <div class="meta">
+                <span class="fonte">O Globo</span>
+                <span class="data">02/08/2026 15:23</span>
+              </div>
+              <h2><a href="https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/02/analiselula-revela-angustia-com-necessidade-de-apresentar-novidades-ao-lancar-candidatura-mas-deixa-propostas-concretas-de-lado.ghtml" target="_blank" rel="noopener">
+                Análise: Lula revela em convenção angústia com necessidade de apresentar novidades, mas deixa propostas concretas de lado
+              </a></h2>
+              <p class="resumo">Lula discursou de improviso na convenção do PT deixando transparecer angústia sobre a necessidade de apresentar novidades, mas evitou propostas concretas, adiando detalhes do programa para 16 de agosto. O presidente reconheceu a necessidade de &quot;dizer ao povo o que vai fazer&quot; e manifestar preocupação em sinalizador um legado futuro para combater a fadiga eleitoral.</p>
+              <div class="tags"><span class="tag">Política</span></div>
+            </article>
+            
+            <article class="card" data-fonte="O Globo"
+                      data-temas="Politica"
+                      data-data="2026-08-02T18:20:15+00:00"
+                      data-relevancia="2">
+              <div class="meta">
+                <span class="fonte">O Globo</span>
+                <span class="data">02/08/2026 15:20</span>
+              </div>
+              <h2><a href="https://oglobo.globo.com/mundo/noticia/2026/08/02/peru-investiga-queda-de-aviao-que-matou-13-turistas.ghtml" target="_blank" rel="noopener">
+                Peru investiga queda de avião que matou 13 turistas
+              </a></h2>
+              <p class="resumo">Uma Cessna Caravan caiu no Peru matando 13 pessoas, sendo 7 italianos, 2 alemães, 2 espanhóis e 2 peruanos da tripulação que transportavam turistas para as Linhas de Nasca. O Ministério Público peruano investiga as causas do acidente ocorrido no sábado.</p>
+              <div class="tags"><span class="tag">Política</span></div>
+            </article>
+            
             <article class="card" data-fonte="O Globo"
                       data-temas="Politica"
                       data-data="2026-08-02T18:12:40+00:00"
@@ -4237,6 +4288,11 @@ Pesquisa Quaest divulgada em 30 de julho mostra que Juliana Brizola (PDT) lidera
             
   </div>
   <p class="sem-resultado" id="sem-resultado">Nenhuma matéria encontrada com esses filtros.</p>
+
+  <div class="rodape">
+    <p>Fonte das notícias: Brazil Journal, G1 - Economia, G1 - Política, Metro Quadrado, NeoFeed, O Globo, Valor Econômico.</p>
+    <p>Desenvolvido por jgbandeira.</p>
+  </div>
 
 <script>
 (function () {
