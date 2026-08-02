@@ -60,13 +60,13 @@
 <body>
   <div class="header">
     <h1>Feed de Notícias</h1>
-    <div class="sub">Atualizado em 02/08/2026 14:57 · Economia, Política, Fundos Imobiliários, Mercado Financeiro, Asset, XP</div>
+    <div class="sub">Atualizado em 02/08/2026 15:08 · Economia, Política, Fundos Imobiliários, Mercado Financeiro, Asset, XP</div>
   </div>
 
   <div class="controles">
     <div class="tabs">
-      <button type="button" class="tab-btn active" data-tab="geral">Geral</button>
-      <button type="button" class="tab-btn" data-tab="curadoria">Curadoria</button>
+      <button type="button" class="tab-btn active" data-tab="top">Top Picks</button>
+      <button type="button" class="tab-btn" data-tab="todos">Todos</button>
     </div>
     <div class="filtros">
       <select id="filtro-periodo">
@@ -76,9 +76,6 @@
         <option value="7d">Últimos 7 dias</option>
         <option value="30d">Últimos 30 dias</option>
       </select>
-      <div class="chips" id="chips-tema">
-        <button type="button" class="chip active" data-value="Economia">Economia</button> <button type="button" class="chip active" data-value="Politica">Política</button> <button type="button" class="chip active" data-value="Fundos Imobiliarios">Fundos Imobiliários</button> <button type="button" class="chip active" data-value="Mercado Financeiro">Mercado Financeiro</button> <button type="button" class="chip active" data-value="Asset">Asset</button> <button type="button" class="chip active" data-value="XP">XP</button>
-      </div>
       <div class="chips" id="chips-fonte">
         <button type="button" class="chip active" data-value="Brazil Journal">Brazil Journal</button> <button type="button" class="chip active" data-value="G1 - Economia">G1 - Economia</button> <button type="button" class="chip active" data-value="G1 - Política">G1 - Política</button> <button type="button" class="chip active" data-value="Metro Quadrado">Metro Quadrado</button> <button type="button" class="chip active" data-value="NeoFeed">NeoFeed</button> <button type="button" class="chip active" data-value="O Globo">O Globo</button> <button type="button" class="chip active" data-value="Valor Econômico">Valor Econômico</button>
       </div>
@@ -4193,10 +4190,9 @@ Pesquisa Quaest divulgada em 30 de julho mostra que Juliana Brizola (PDT) lidera
   var feed = document.getElementById('feed');
   var semResultado = document.getElementById('sem-resultado');
   var tabButtons = document.querySelectorAll('.tab-btn');
-  var chipTemas = document.querySelectorAll('#chips-tema .chip');
   var chipFontes = document.querySelectorAll('#chips-fonte .chip');
   var selectPeriodo = document.getElementById('filtro-periodo');
-  var abaAtual = 'geral';
+  var abaAtual = 'top';
 
   var PERIODO_MS = {
     '24h': 24 * 60 * 60 * 1000,
@@ -4216,7 +4212,7 @@ Pesquisa Quaest divulgada em 30 de julho mostra que Juliana Brizola (PDT) lidera
   function reordenar() {
     var cards = Array.prototype.slice.call(feed.querySelectorAll('.card'));
     cards.sort(function (a, b) {
-      if (abaAtual === 'curadoria') {
+      if (abaAtual === 'top') {
         var relA = parseInt(a.dataset.relevancia, 10) || 0;
         var relB = parseInt(b.dataset.relevancia, 10) || 0;
         if (relB !== relA) return relB - relA;
@@ -4229,24 +4225,19 @@ Pesquisa Quaest divulgada em 30 de julho mostra que Juliana Brizola (PDT) lidera
   }
 
   function aplicarFiltros() {
-    var temasSel = chipsAtivos(chipTemas);
     var fontesSel = chipsAtivos(chipFontes);
     var periodo = selectPeriodo.value;
     var agora = Date.now();
     var algumVisivel = false;
 
     feed.querySelectorAll('.card').forEach(function (card) {
-      var temasCard = (card.dataset.temas || '').split(',');
       var fonteCard = card.dataset.fonte;
       var dataCard = new Date(card.dataset.data).getTime();
 
-      var passaTema = temasSel.length === 0 || temasCard.some(function (t) {
-        return temasSel.indexOf(t) !== -1;
-      });
       var passaFonte = fontesSel.length === 0 || fontesSel.indexOf(fonteCard) !== -1;
       var passaPeriodo = periodo === 'todos' || (agora - dataCard) <= PERIODO_MS[periodo];
 
-      var mostrar = passaTema && passaFonte && passaPeriodo;
+      var mostrar = passaFonte && passaPeriodo;
       card.style.display = mostrar ? '' : 'none';
       if (mostrar) algumVisivel = true;
     });
@@ -4264,12 +4255,6 @@ Pesquisa Quaest divulgada em 30 de julho mostra que Juliana Brizola (PDT) lidera
     });
   });
 
-  chipTemas.forEach(function (chip) {
-    chip.addEventListener('click', function () {
-      chip.classList.toggle('active');
-      aplicarFiltros();
-    });
-  });
   chipFontes.forEach(function (chip) {
     chip.addEventListener('click', function () {
       chip.classList.toggle('active');
