@@ -23,6 +23,7 @@ import sys
 import unicodedata
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import feedparser
 
@@ -37,6 +38,10 @@ from config import (
 BASE_DIR = Path(__file__).parent
 DATA_PATH = BASE_DIR / "data" / "items.json"
 OUTPUT_HTML_PATH = BASE_DIR / "docs" / "index.html"
+
+# O GitHub Actions roda em UTC. Sem isso, os horários mostrados na página
+# ficam ~3h à frente do horário de Brasília.
+FUSO_BR = ZoneInfo("America/Sao_Paulo")
 
 
 def normalizar(texto: str) -> str:
@@ -165,7 +170,7 @@ def gerar_html(itens: list[dict]) -> str:
     linhas = []
     for item in itens:
         dt = datetime.fromisoformat(item["published"])
-        dt_local = dt.astimezone()  # horário local de quem builda (UTC no Actions)
+        dt_local = dt.astimezone(FUSO_BR)
         data_fmt = dt_local.strftime("%d/%m/%Y %H:%M")
         temas_html = " ".join(
             f'<span class="tag">{html.escape(t)}</span>' for t in item["themes"]
@@ -186,7 +191,7 @@ def gerar_html(itens: list[dict]) -> str:
             """
         )
 
-    atualizado_em = datetime.now(timezone.utc).astimezone().strftime("%d/%m/%Y %H:%M")
+    atualizado_em = datetime.now(timezone.utc).astimezone(FUSO_BR).strftime("%d/%m/%Y %H:%M")
 
     return f"""<!DOCTYPE html>
 <html lang="pt-BR">
