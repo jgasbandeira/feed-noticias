@@ -26,7 +26,7 @@ FEEDS = [
     {"source": "G1 - Economia", "url": "https://g1.globo.com/rss/g1/economia/", "verified": True},
     {"source": "G1 - Política", "url": "https://g1.globo.com/rss/g1/politica/", "verified": True},
     {"source": "O Globo - Economia", "url": "https://oglobo.globo.com/rss/plantaoeconomia.xml", "verified": False},
-    {"source": "Valor Econômico", "url": "https://valor.globo.com/rss/", "verified": False},
+    {"source": "Valor Econômico", "url": "https://valor.globo.com/rss/valor", "verified": False},
 ]
 
 # Palavras-chave por tema (comparadas sem acento e em minúsculas, com \b de
