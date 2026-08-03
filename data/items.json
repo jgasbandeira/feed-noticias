@@ -466,7 +466,13 @@
       "Politica"
     ],
     "summary": "A Justiça de São Paulo rejeitou ação judicial da família do ministro Moraes contra o senador Alessandro Vieira por fala que associava o PCC a negócios de familiares do ministro. A decisão derruba a tentativa de processar o parlamentar por suas declarações.",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/08/03/justica-de-sao-paulo-rejeita-acao-da-familia-de-alexandre-de-moraes-contra-alessandro-vieira.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
