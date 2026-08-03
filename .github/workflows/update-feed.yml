@@ -2,9 +2,10 @@ name: Atualizar feed de notícias
 
 on:
   schedule:
-    # A cada 30 minutos. O GitHub Actions não garante o minuto exato (pode
-    # atrasar alguns minutos em horários de pico), mas roda com essa cadência.
-    - cron: "*/30 * * * *"
+    # A cada 30 minutos, nos minutos 03 e 33 (evita rodar exatamente em :00
+    # e :30, horário de pico de agendamentos no GitHub Actions, que pode
+    # causar atrasos grandes ou a execução ficar "engasgada" na fila).
+    - cron: "3,33 * * * *"
   workflow_dispatch: {}  # permite rodar manualmente pela aba Actions
 
 permissions:
