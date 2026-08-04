@@ -189,7 +189,13 @@
       "Mercado Financeiro"
     ],
     "summary": "A possibilidade de uma reabertura do Estreito de Ormuz nos próximos dias impulsionou os índices Dow Jones e S&amp;P 500 a renovarem suas máximas de fechamento nesta terça-feira (4), juntamente com o suporte de resultados trimestrais positivos de Palantir, McDonald's e Caterpillar",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-alta-e-sp-500-segue-dow-jones-em-recorde-com-ormuz/"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
