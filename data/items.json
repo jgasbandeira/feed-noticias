@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "Lula e Alcolumbre têm reunião mediada por ministro do STF",
+    "link": "https://www.poder360.com.br/poder-governo/lula-e-alcolumbre-tem-reuniao-mediada-por-ministro-do-stf/",
+    "description": "Relação entre eles estava tensionada desde rejeição de Jorge Messias à Suprema Corte; encontro foi na casa de Alexandre de Moraes",
+    "published": "2026-08-05T18:09:07+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Relação entre eles estava tensionada desde rejeição de Jorge Messias à Suprema Corte; encontro foi na casa de Alexandre de Moraes",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Tesouro Direto em alta: veja como começar com guia gratuito",
     "link": "https://www.infomoney.com.br/minhas-financas/tesouro-direto-em-alta-veja-como-comecar-com-guia-gratuito/",
@@ -33,7 +45,13 @@
       "Economia"
     ],
     "summary": "Poucas tecnologias provocaram uma transformação tão acelerada no ambiente de negócios quanto a inteligência artificial. Em poucos anos, ela deixou de ser um recurso restrito às grandes empresas de tecnologia para influenciar decisões estratégicas, aumentar a produtividade e mudar",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/08/05/como-a-ia-esta-redesenhando-setores-da-economia-brasileira-1.ghtml"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
@@ -949,7 +967,13 @@
       "Politica"
     ],
     "summary": "A ala progressista do Partido Democrata conquistou uma vitória de destaque com a vitória de Abdul El-Sayed nas eleições primárias para o Senado dos Estados Unidos em Michigan, segundo projeções divulgadas nesta quarta-feira. O resultado fortalece o discurso antiestablishment do p",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/mundo/noticia/2026/08/05/progressista-vence-primaria-para-o-senado-dos-eua-em-michigan-e-fortalece-ala-a-esquerda-do-partido-democrata.ghtml"
+      }
+    ]
   },
   {
     "source": "InfoMoney",
@@ -3876,19 +3900,6 @@
       "Economia"
     ],
     "summary": "O banco central da Índia manteve as taxas de juros inalteradas novamente nesta quarta-feira, enquanto continua a avaliar os desdobramentos econômicos do conflito no Oriente Médio.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Lucro da Toyota está cada vez mais atrelado ao mercado dos EUA e às oscilações de Trump",
-    "link": "https://valor.globo.com/empresas/noticia/2026/08/05/lucro-da-toyota-est-cada-vez-mais-atrelado-ao-mercado-dos-eua-e-s-oscilaes-de-trump.ghtml",
-    "description": "A Toyota Motor está se tornando cada vez mais dependente do mercado americano para manter as vendas estáveis, o que, por sua vez, expõe a montadora japonesa ao risco de mudanças repentinas nas políticas do presidente dos Estados Unidos, Donald Trump.\n\nO volume global de vendas de veículos Toyota e Lexus caiu 3% em relação ao ano anterior, no trimestre de abril a junho, para 2,55 milhões de unidades, informou a Toyota nesta terça-feira. As vendas na China, um dos maiores mercados, caíram 28%, para 320 mil unidades.\n\nA América do Norte e o Japão ajudaram a sustentar as vendas. A Toyota vendeu 670 mil unidades nos Estados Unidos, um aumento de 1% em relação ao ano anterior. O volume de vendas no Japão saltou 18%, para 410 mil veículos.\n\n\"Embora tenha havido algumas regiões com queda nas vendas, as regiões com crescimento deram um suporte maior do que o esperado\", disse Takanori Azuma, diretor do Grupo de Contabilidade da Toyota.\n\nA eliminação gradual dos subsídios para veículos elétricos em Washington forçou as montadoras a mudarem suas estratégias. No trimestre de abril a junho, o volume de vendas nos Estados Unidos da General Motors e da Ford Motor caiu 4% e 10%, respectivamente, em comparação com o ano anterior. Os números da Tesla não são divulgados oficialmente, mas o volume aparentemente caiu 13%, segundo pesquisa da empresa de inteligência de mercado americana Cox Automotive.\n\nA estratégia da Toyota abrange uma ampla gama de veículos, desde carros a gasolina até híbridos e elétricos. Essa abordagem tem se mostrado eficaz nos Estados Unidos.\n\nOs novos modelos do sedã Camry e do utilitário esportivo RAV4 mantiveram seu ritmo no mercado. A força da Toyota em híbridos a torna menos suscetível à concorrência de preços nos Estados Unidos, contribuindo para altas margens de lucro.\n\n\"Mesmo com as preocupações sobre uma desaceleração econômica, o poder de compra dos Estados Unidos permanece forte\", disse Seiji Sugiura, analista sênior do Tokai Tokyo Intelligence Laboratory.\n\nA desvalorização do iene contribui para o avanço dos lucros da Toyota. Para o atual ano fiscal, que termina em março de 2027, a depreciação da moeda japonesa deverá impulsionar o lucro em 480 bilhões de ienes (US$ 3,04 bilhões) em comparação com a previsão inicial.\n\nO impacto do conflito no Oriente Médio parece estar diminuindo. Inicialmente, a Toyota projetou recuo de 670 bilhões de ienes nos lucros devido aos cortes na produção e aos altos custos das matérias-primas. Essa previsão agora é de 510 bilhões de ienes.\n\nA Toyota projeta um impacto negativo de 60 bilhões de ienes devido a fatores como a descontinuação do desenvolvimento de sua próxima geração de veículos elétricos Lexus, o LF-ZC.\n\nA montadora japonesa registrou crescimento de lucro no período de abril a junho, enquanto a GM e a Tesla apresentaram quedas.\n\nOs Estados Unidos contribuem cada vez mais para o volume de vendas globais da Toyota, passando de 23% para 26%. Mas esse crescimento traz desvantagens. Uma delas é a instabilidade da taxa de câmbio: o iene se valorizou recentemente devido à intervenção das autoridades japonesas e americanas.\n\n\"Seria desejável que a taxa de câmbio permanecesse estável\", disse Azuma.\n\nRiscos políticos também pairam sobre o mercado americano. A primeira revisão conjunta do Acordo Estados Unidos-México-Canadá (USMCA), realizada em 1º de julho, resultou na decisão de Washington de não renovar o acordo comercial.\n\nWashington propõe aumentar a exigência de componentes de veículos produzidos na América do Norte para 82% do valor, ante os atuais 75%. Pelo menos 50% das peças teriam origem nos Estados Unidos.\n\nO cumprimento dessas revisões do USMCA aumentaria os custos em até US$ 1.200 por veículo, segundo a consultoria americana AlixPartners. Grande parte do custo adicional viria da certificação de origem e da fabricação de aço e alumínio na América do Norte.\n\nEm julho, a Toyota anunciou que transferiria parte da produção de sua picape Tacoma, atualmente fabricada em instalações mexicanas, para os Estados Unidos até 2030. A empresa investirá US$ 3,6 bilhões na construção de uma nova linha de produção em sua fábrica no Texas.\n\n\"Levando em consideração a logística simplificada e o impacto das tarifas, exploramos um sistema de produção que entrega veículos aos nossos clientes ao menor preço possível\", disse Azuma.\n\nA Toyota anunciou em novembro que investiria até US$ 10 bilhões nos Estados Unidos ao longo de cinco anos, buscando aumentar a produção de veículos elétricos, incluindo os populares híbridos, bem como componentes essenciais.\n\nCom as tarifas, custos trabalhistas e a necessidade de adequação ao USMCA elevando os custos, uma proporção de vendas persistentemente maior nos Estados Unidos poderia prejudicar a capacidade da Toyota de responder a crises.\n\nOs fortes resultados financeiros da empresa têm gerado pouco interesse na compra de ações da Toyota. Desde o final de 2025, o preço das ações da montadora caiu 13%. No mesmo período, o índice “Nikkei Asia” subiu 27%. A fabricante japonesa de memórias Kioxia Holdings quase quintuplicou o preço de suas ações.\n\nEnquanto o dinheiro dos investidores flui para ações de inteligência artificial, os participantes do mercado relutam em investir no setor automotivo devido a incertezas como o aumento dos custos de matéria-prima e a concorrência nas exportações com as empresas chinesas.",
-    "published": "2026-08-05T05:08:25+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "A Toyota Motor está se tornando cada vez mais dependente do mercado americano para manter as vendas estáveis, o que, por sua vez, expõe a montadora japonesa ao risco de mudanças repentinas nas políticas do presidente dos Estados Unidos, Donald Trump.\n\nO volume global de vendas de",
     "relevance": 5
   }
 ]
