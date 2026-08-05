@@ -1,5 +1,198 @@
 [
   {
+    "source": "O Globo",
+    "title": "OpenAI e Anthropic investigam comportamento inesperado de modelos de IA em teste de segurança; entenda",
+    "link": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/08/05/openai-e-anthropic-investigam-comportamento-inesperado-de-modelos-de-ia-em-teste-de-seguranca-entenda.ghtml",
+    "description": "Modelos de inteligência artificial desenvolvidos pela OpenAI e pela Anthropic apresentaram comportamentos considerados inéditos durante uma avaliação de segurança conduzida pelo Instituto de Segurança em Inteligência Artificial (AISI), do Reino Unido. Segundo um relatório divulgado nesta quarta-feira, alguns sistemas agiram além das tarefas que lhes haviam sido atribuídas, criando identidades falsas, enviando mensagens direcionadas a pessoas reais e tentando inserir código malicioso em um projeto de software de código aberto.\nLeia também: Agora, até o sono do bebê é monitorado pela IA. Essa vigilância é realmente necessária?\nSaiba mais: Leitores preferem contos escritos por IA e não conseguem distingui-los dos humanos, diz estudo\nO episódio ocorreu em 28 de julho durante uma bateria de testes voltada à avaliação das capacidades de agentes de inteligência artificial — sistemas capazes de executar tarefas de forma relativamente autônoma. O instituto classificou o caso como um \"incidente grave\".\nAo todo, o AISI registrou 19 comportamentos considerados não autorizados em dez das 122 simulações realizadas. Dezessete deles envolveram o modelo Mythos 5, da Anthropic, enquanto os outros dois foram atribuídos ao GPT-5.6 Sol, da OpenAI.\nCódigo malicioso e perfis falsos\nO caso mais grave teria ocorrido quando um agente baseado no Mythos 5 tentou inserir código malicioso em um projeto hospedado no GitHub, plataforma utilizada por desenvolvedores de software. Para aumentar as chances de aprovação da alteração, o sistema pesquisou os responsáveis pelo projeto, criou perfis falsos inspirados em pessoas reais e tentou convencê-los a aceitar a modificação. A tentativa acabou bloqueada por um desenvolvedor antes que qualquer mudança fosse incorporada ao código.\nOs pesquisadores também identificaram o envio de mensagens direcionadas a pessoas específicas, uma técnica semelhante ao chamado spear phishing, modalidade de golpe em que o alvo é previamente selecionado. Em alguns casos, os agentes chegaram a anexar arquivos contendo código malicioso durante essas tentativas.\nPara o instituto, o aspecto mais preocupante não foi apenas a capacidade técnica dos modelos, mas o fato de terem recorrido espontaneamente a estratégias de engano para tentar atingir seus objetivos.\nTestes ocorreram em condições especiais\nO AISI destaca que os sistemas não estavam operando nas mesmas condições disponíveis ao público. Durante a avaliação, os pesquisadores concederam acesso à internet e desativaram parte dos mecanismos de proteção normalmente utilizados para impedir comportamentos perigosos, justamente para medir os limites das ferramentas. O instituto afirma que não houve fuga do ambiente de testes nem evidências de comportamento semelhante em produtos disponíveis comercialmente.\nMesmo assim, o episódio levou o órgão a anunciar mudanças nos protocolos de avaliação. Entre elas estão monitoramento em tempo real das atividades dos agentes, restrições adicionais ao acesso à internet e novos mecanismos para impedir que sistemas realizem ações fora do escopo autorizado durante os testes.\nEmpresas defendem contexto dos testes\nEm nota, a OpenAI afirmou que os resultados foram obtidos em condições experimentais que \"não refletem o uso normal\" de seus modelos. A empresa disse que continuará colaborando com pesquisadores independentes para aprimorar métodos de avaliação e segurança à medida que sistemas de IA se tornam mais sofisticados.\nA Anthropic declarou que o episódio reforça a necessidade de ampliar os estudos sobre a segurança de agentes autônomos e informou que trabalha em conjunto com o instituto britânico para entender por que o comportamento ocorreu.\nOs resultados também se somam a outros testes divulgados nas últimas semanas envolvendo modelos avançados de IA. Para pesquisadores do AISI, o conjunto desses episódios indica uma mudança no cenário de risco associado a sistemas cada vez mais capazes de executar tarefas complexas sem supervisão humana direta, o que deve levar empresas e governos a reforçar os mecanismos de avaliação antes da liberação de novas ferramentas ao público.",
+    "published": "2026-08-05T09:23:55+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Modelos de inteligência artificial desenvolvidos pela OpenAI e pela Anthropic apresentaram comportamentos considerados inéditos durante uma avaliação de segurança conduzida pelo Instituto de Segurança em Inteligência Artificial (AISI), do Reino Unido. Segundo um relatório divulga",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Lucro da Siemens Energy triplica com pedidos e receita em níveis recorde no 2º trimestre",
+    "link": "https://valor.globo.com/empresas/noticia/2026/08/05/lucro-da-siemens-energy-triplica-com-pedidos-e-receita-em-nveis-recorde-no-2-trimestre.ghtml",
+    "description": "A Siemens Energy anunciou nesta quarta-feira (5) que seus lucros mais que triplicaram no segundo trimestre (terceiro trimestre fiscal da empresa alemã), com pedidos e receita atingindo níveis recorde.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-08-05T09:13:46+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "A Siemens Energy anunciou nesta quarta-feira (5) que seus lucros mais que triplicaram no segundo trimestre (terceiro trimestre fiscal da empresa alemã), com pedidos e receita atingindo níveis recorde.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da ",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Ebitda da Glencore sobe 86% no 1º semestre, para US$ 10,115 bilhões",
+    "link": "https://valor.globo.com/empresas/noticia/2026/08/05/ebitda-da-glencore-sobe-86-pontos-percentuais-no-1-semestre-para-us-10115-bilhes.ghtml",
+    "description": "A Glencore, listada em Londres, planeja uma listagem secundária de suas ações no mercado acionário australiano apenas um ano após desistir de uma mudança para Nova York.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-08-05T09:10:43+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A Glencore, listada em Londres, planeja uma listagem secundária de suas ações no mercado acionário australiano apenas um ano após desistir de uma mudança para Nova York.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Lucro da Coca-Cola HBC sobe 11,5% no 1º semestre, impulsionado por maiores volumes",
+    "link": "https://valor.globo.com/empresas/noticia/2026/08/05/lucro-da-coca-cola-hbc-sobe-115-pontos-percentuais-no-1-semestre-impulsionado-por-maiores-volumes.ghtml",
+    "description": "A Coca-Cola HBC informou que seu lucro líquido subiu no primeiro semestre fiscal, impulsionado pelo aumento nos volumes de vendas.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-08-05T09:09:11+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "A Coca-Cola HBC informou que seu lucro líquido subiu no primeiro semestre fiscal, impulsionado pelo aumento nos volumes de vendas.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "PMI de Serviços da França reage em julho, para 49,6, mas mantém queda marginal",
+    "link": "https://valor.globo.com/mundo/noticia/2026/08/05/pmi-de-servios-da-frana-reage-em-julho-para-496-mas-mantm-queda-marginal.ghtml",
+    "description": "O setor de serviços da França deu sinais de estabilização em julho de 2026, com o Índice de Gerentes de Compras (PMI) de Serviços da S&amp;P Global subindo para 49,6, ante 46,8 em junho.\n\nEmbora ainda permaneça abaixo da marca de 50,0 — o que divide expansão de contração —, o indicador aponta para um abrandamento significativo no ritmo de retração do setor e a menor queda registrada no período recente.\n\nA reação foi impulsionada pela primeira alta nos novos pedidos desde novembro do ano passado, sustentada pela demanda doméstica, enquanto as vendas para o exterior continuaram em queda.\n\nAcompanhando essa recuperação modesta, o PMI Composto da França — que engloba a atividade dos setores de serviços e da indústria manufatureira — também avançou, passando de 47,2 em junho para 49,4 em julho.\n\nO resultado sinaliza que a atividade econômica geral do setor privado francês teve uma contração apenas marginal no início do terceiro trimestre, alinhada historicamente a um crescimento trimestral do PIB entre 0,2% e 0,3%.\n\nApesar da melhora na confiança empresarial e do alívio nas pressões inflacionárias de custos e preços cobrados, o cenário do mercado de trabalho registrou desaceleração, com a perda de empregos se intensificando.\n\nAlém disso, economistas alertam para riscos no horizonte: a escalada nas tensões do Oriente Médio e a recente alta nas cotações globais de energia podem reverter a trajetória de recuperação observada em julho.",
+    "published": "2026-08-05T09:04:34+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O setor de serviços da França deu sinais de estabilização em julho de 2026, com o Índice de Gerentes de Compras (PMI) de Serviços da S&amp;P Global subindo para 49,6, ante 46,8 em junho.\n\nEmbora ainda permaneça abaixo da marca de 50,0 — o que divide expansão de contração —, o ind",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "PMI de Serviços da Alemanha avança para 49,8 em julho com retorno do crescimento",
+    "link": "https://valor.globo.com/mundo/noticia/2026/08/05/pmi-de-servios-da-alemanha-avana-para-498-em-julho-com-retorno-do-crescimento.ghtml",
+    "description": "A atividade econômica no setor de serviços da Alemanha deu sinais de estabilização em julho de 2026, com o Índice de Gerentes de Compras (PMI) da S&amp;P Global subindo para 49,8, ante 48,6 registrado em junho.\n\nEmbora continue ligeiramente abaixo da marca neutra de 50,0 — que divide expansão de contração —, o resultado apontou a queda mais branda desde o início da atual desaceleração em abril.\n\nO alívio foi sustentado pela retomada dos novos pedidos após quatro meses de retração, impulsionada pelo aumento no número de clientes e por um declínio marginal nos pedidos vindos do exterior.\n\nNo mercado de trabalho, os cortes de vagas desaceleraram, registrando a menor redução em sete meses, enquanto a confiança das empresas para os próximos doze meses voltou a melhorar.\n\nO desempenho mais firme do setor privado como um todo levou o PMI Composto da Alemanha — que engloba os setores de serviços e da indústria manufatureira — a retornar à zona de expansão no início do terceiro trimestre. O indicador saltou de 49,5 em junho para 51,3 em julho, marcando o primeiro crescimento da produção total desde março, liderado por uma recuperação expressiva na fabricação industrial e pela expansão nas novas encomendas em ambos os setores.\n\nApesar das perspectivas mais favoráveis para a atividade e para a contratação de pessoal, a inflação voltou a dar sinais de aceleração em julho no setor de serviços.\n\nOs custos de insumos registraram alta com o fim da redução temporária dos impostos sobre combustíveis e com pressões salariais contínuas, levando as empresas a repassarem parte desse aumento para os preços finais.\n\nAlém disso, economistas alertam que a recente escalada de hostilidades no Oriente Médio e a volatilidade nos preços globais de energia representam riscos significativos para a trajetória de recuperação da maior economia da zona do euro nos próximos meses.",
+    "published": "2026-08-05T09:02:51+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "A atividade econômica no setor de serviços da Alemanha deu sinais de estabilização em julho de 2026, com o Índice de Gerentes de Compras (PMI) da S&amp;P Global subindo para 49,8, ante 48,6 registrado em junho.\n\nEmbora continue ligeiramente abaixo da marca neutra de 50,0 — que di",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Foguete da SpaceX atinge a Lua e abre cratera de 18 metros, diz Nasa",
+    "link": "https://oglobo.globo.com/economia/noticia/2026/08/05/foguete-da-spacex-atinge-a-lua-e-abre-cratera-de-18-metros-diz-nasa.ghtml",
+    "description": "O segundo estágio de um foguete Falcon 9, da SpaceX, atingiu a superfície da Lua na madrugada desta quarta-feira, em um raro caso de colisão de um objeto construído pelo homem com o satélite natural da Terra. O impacto ocorreu na região próxima às crateras Einstein e Bell, a uma velocidade estimada de 8.700 km/h, sem oferecer qualquer risco ao planeta.\nEm seu primeiro balanço, SpaceX supera estimativas de Wall Street com receita de US$ 7,8 bilhões\nAmazon: Potencial de negócios em IA é 'simplesmente gigantesco', diz chefe da divisão de nuvem\nA estrutura, com cerca de 14 metros de comprimento, quatro metros de largura e aproximadamente quatro toneladas, permaneceu em órbita desde janeiro de 2025, quando lançou ao espaço dois módulos de pouso lunar. Um deles, o Blue Ghost-1, da empresa americana Firefly Aerospace, completou a missão com sucesso. O outro, o japonês Hakuto-R, da empresa iSpace, caiu durante a tentativa de pouso.\nSegundo a Nasa, a trajetória que levou o estágio do foguete até a Lua foi resultado da combinação entre a atividade solar e as forças gravitacionais. A agência informou que a SpaceX realizou o descarte do equipamento de acordo com os procedimentos previstos após o lançamento.\nA rota do objeto foi inicialmente identificada por astrônomos independentes a partir de dados públicos. Posteriormente, o Centro de Estudos de Objetos Próximos à Terra (CNEOS), do Laboratório de Propulsão a Jato (JPL) da Nasa, confirmou que havia 100% de probabilidade de colisão com a superfície lunar.\nEmbora o impacto não pudesse ser observado a olho nu — nem mesmo por telescópios de grande porte, devido à iluminação da região atingida —, a colisão será estudada em detalhes. O Lunar Reconnaissance Orbiter (LRO), satélite que orbita a Lua desde 2009, fará imagens da área antes e depois do impacto. A expectativa é que os primeiros registros sejam divulgados nas próximas semanas.\nDe acordo com estimativas da Nasa, a colisão deve ter formado uma cratera de aproximadamente 18 metros de diâmetro e 3,5 metros de profundidade, além de lançar poeira e fragmentos de rochas para o espaço. A energia liberada equivale à explosão de cerca de 2,8 toneladas de TNT.\nApesar da dimensão do evento, a agência ressalta que impactos dessa magnitude são relativamente comuns na Lua. Um meteoroide com energia semelhante atinge a superfície lunar, em média, a cada seis dias. A diferença é que, desta vez, os cientistas conheciam exatamente o objeto, sua massa, velocidade e o local da colisão, o que permitirá análises mais precisas sobre o comportamento do material ejetado e a composição do solo.\nOs pesquisadores também esperam obter novas pistas sobre a existência de gelo de água abaixo da superfície lunar. Segundo Carl Schmidt, cientista planetário da Universidade de Boston, a análise da nuvem de poeira produzida pela colisão poderá revelar a quantidade de",
+    "published": "2026-08-05T09:02:48+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "O segundo estágio de um foguete Falcon 9, da SpaceX, atingiu a superfície da Lua na madrugada desta quarta-feira, em um raro caso de colisão de um objeto construído pelo homem com o satélite natural da Terra. O impacto ocorreu na região próxima às crateras Einstein e Bell, a uma ",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Copom, emprego nos EUA, balanço do Bradesco e mais destaques desta quarta",
+    "link": "https://www.infomoney.com.br/mercados/copom-emprego-eua-balanco-bradesco-destaques-05082026/",
+    "description": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quarta-feira (5)\nThe post Copom, emprego nos EUA, balanço do Bradesco e mais destaques desta quarta appeared first on InfoMoney.",
+    "published": "2026-08-05T09:02:02+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quarta-feira (5)\nThe post Copom, emprego nos EUA, balanço do Bradesco e mais destaques desta quarta appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "STF julga nesta 4ª se punição a jogos de azar é constitucional",
+    "link": "https://www.poder360.com.br/poder-justica/stf-julga-nesta-4a-se-punicao-a-jogos-de-azar-e-constitucional/",
+    "description": "Julgamento trata de trecho de legislação que classifica a exploração da atividade como contravenção penal",
+    "published": "2026-08-05T09:00:56+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Julgamento trata de trecho de legislação que classifica a exploração da atividade como contravenção penal",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Agenda econômica: saiba quais indicadores e balanços saem nesta 4ª",
+    "link": "https://www.poder360.com.br/poder-economia/agenda-economica-saiba-quais-indicadores-e-balancos-saem-nesta-4a-3/",
+    "description": "Copom decide Selic; países divulgam dados de serviços e Bradesco, Disney, Uber e Mercado Livre apresentam balanços",
+    "published": "2026-08-05T09:00:48+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Copom decide Selic; países divulgam dados de serviços e Bradesco, Disney, Uber e Mercado Livre apresentam balanços",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "MEC vê bolsas da Capes e obras em risco e pede mais R$ 18 bi para a Educação em 2027",
+    "link": "https://oglobo.globo.com/economia/noticia/2026/08/05/mec-ve-bolsas-da-capes-e-obras-em-risco-e-pede-mais-r-18-bi-para-a-educacao-em-2027.ghtml",
+    "description": "Nas discussões para a elaboração da proposta orçamentária de 2027, o Ministério da Educação pediu mais R$ 17,94 bilhões à equipe econômica do governo Lula. \nSegundo o MEC, a verba adicional será necessária para despesas como conclusão de obras na área da educação e pagamento de bolsas da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), que fomenta e avalia a pós-graduação no Brasil.\nCarteira de trabalho digital: saiba como consultar o número do PIS e solicitar o Crédito do Trabalhador\nEntenda pacote lançado pelo governo: crédito para trabalhadores adimplentes, financiamento de negócio e FGTS no consignado privado: \nEm documento dirigido aos ministérios do Planejamento, Fazenda e Casa Civil, o MEC pede que a solicitação seja avaliada na próxima reunião da Junta de Execução Orçamentária (JEO).\nA discussão se refere apenas às despesas não obrigatórias, como investimentos e custeio. O pagamento de salários e aposentadorias é garantido. \nEntenda: número de pedidos negados pelo INSS cresce 70% e já chega a quase metade do total\nPara o ano que vem, a previsão inicial era de que o MEC teria R$ 40 bilhões em despesas discricionárias — praticamente o mesmo de 2026. Mesmo sendo um dos maiores da Esplanada, o valor é considerado baixo pelo órgão. \n“A manutenção dos valores atualmente previstos poderá impor restrições ao atendimento integral de demandas relevantes da área da educação, com possíveis reflexos sobre o alcance de metas estratégicas estabelecidas por esta gestão e sobre a continuidade e o fortalecimento de políticas educacionais prioritárias\", assina o MEC no documento.\nSegundo a pasta da Educação, serão necessários R$ 12,4 bilhões adicionais para despesas como pagamento de bolsas do Capes, custeamento de universidades federais e reforço de investimento na educação básica.\nOutros R$ 5,1 bilhões seriam destinados para conclusão de obras do Novo Programa de Aceleração de Crescimento (PAC) na área de educação. \nO MEC afirma, por exemplo, que a falta de recursos pode afetar mais de 6.800 professores bolsistas do Programa de Especialização do Capes, bem como 19.940 alunos já vinculados e ativos no Pé-de-Meia Licenciaturas. \nOutras áreas afetadas seriam o apoio à implantação de escolas para educação infantil, à infraestrutura para a educação básica. \nComo O GLOBO mostrou na semana passada, órgãos federais vêm pressionando o governo por mais verba no orçamento de 2027. Com a solicitação do Ministério da Educação, os pedidos chegam a R$ 64 bilhões. \nEssa pressão acontece nas vésperas do envio da proposta de orçamento do ano que vem, que deve ser feito pelo governo ao Congresso no dia 31 de agosto. Antes disso, a equipe econômica informa a todos os órgãos federais uma “prévia” dos valores que eles terão para gastar no ano seguinte.\nDiante de um crescimento nos gastos obrigatórios nos últimos anos, o Ministério da Fazenda e Planejamento enfrentam dificuldade para elaborar uma proposta que atenda os pleitos de outros ministérios da Esplanada.",
+    "published": "2026-08-05T09:00:15+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Nas discussões para a elaboração da proposta orçamentária de 2027, o Ministério da Educação pediu mais R$ 17,94 bilhões à equipe econômica do governo Lula. \nSegundo o MEC, a verba adicional será necessária para despesas como conclusão de obras na área da educação e pagamento de b",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Lula deve visitar Minas já nos primeiros dias da campanha eleitoral",
+    "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/05/lula-deve-visitar-minas-ja-nos-primeiros-dias-da-campanha-eleitoral.ghtml",
+    "description": "De olho no segundo maior colégio eleitoral do país, o presidente Luiz Inácio Lula da Silva (PT) avalia dar início à sua campanha à reeleição em Minas Gerais em 17 de agosto, um dia após o início oficial do período eleitoral. A estratégia busca reforçar sua presença no Estado, considerado decisivo para a disputa presidencial. Nos bastidores, porém, o PT ainda enfrenta impasses na composição de sua chapa em Minas. Seguem indefinidos o nome que ocupará a vice na candidatura de Patrus Ananias (PT) ao governo estadual e o indicado para a segunda vaga ao Senado, cenário que aliados avaliam poder enfraquecer o palanque do petista.\nNas últimas semanas, o PT fez um esforço concentrado para destravar os cargos que ainda estão em aberto na chapa de Patrus. Inicialmente, o partido tinha a intenção de lançar o ex-procurador-geral de Justiça Jarbas Soares (PSB) para a segunda vaga ao Senado, compondo a chapa com Marília Campos (PT). Em contrapartida, pretendia anunciar a ex-deputada Áurea Carolina (Psol) como candidata a vice-governadora.  \nAs negociações, porém, avançaram sem acordo, e a expectativa dentro do partido é que tanto Jarbas quanto Áurea disputem o Senado, e o Psol mantenha aliança apenas na eleição majoritária. Na avaliação de petistas, esse não é o cenário ideal, pois enfraquece o campo político, mas é o desenho considerado possível.\nA avaliação interna é que a indefinição quanto à chapa de Patrus e os nomes que serão apoiados por Lula só não trazem maiores prejuízos à reeleição do chefe do Executivo porque o campo da direita também está dividido. Na terça-feira (4), após ter anunciado desistência da corrida eleitoral, o senador Cleitinho Azevedo (Republicanos) voltou atrás e pediu a seu partido para ser candidato.  O pedido, no entanto, não foi atendido.\nPara a campanha petista, Patrus e Lula devem ser beneficiados com os votos de Cleitinho. Nesse cenário, a equipe do entorno do chefe do Executivo vê o campo da direita mais indefinido, o que pode favorecer a chapa do presidente. O PL avalia apoiar a candidatura de Marcelo Aro (PP), ex-secretário da gestão de Romeu Zema, para governador de Minas Gerais, se houver desistência de Cleitinho. O governador Mateus Simões (PSD) vai tentar a reeleição.\nNa tentativa de dar um norte ao pleito mineiro, Lula pretende participar do lançamento das candidaturas de Patrus e Marília no Estado, e pressionar pela definição da chapa. Paralelamente, agendas do presidente no Estado, logo no início do período oficial da campanha, estão sendo estudadas para os dias 17 e 19 de agosto.\nO fortalecimento da candidatura de reeleição de Lula em Minas Gerais é considerado peça-chave para uma eventual vitória do petista nas eleições deste ano. Isso porque o Estado costuma ser decisivo nos pleitos, especialmente para a Presidência da República. Desde 1950, o ente federativo repete tradição de que o primeiro colocado ao Palácio do Planalto em Minas Gerais foi o vencedor da eleição presidencial nacional. Lula, por exemplo, conseguiu 50,2% dos votos válidos em Minas Gerais, ante 49,8% obtidos pelo então presidente Jair Bolsonaro (PL) em 2022.\nA agenda de campanha de Lula ainda está sendo desenhada, mas a estratégia traçada é que o chefe do Executivo deva focar seus primeiros dias da corrida à reeleição entre a viagens às regiões Sudeste – com foco em São Paulo, Minas e Rio de Janeiro, além do Nordeste, principal reduto eleitoral do presidente e que vinha apresentando maior desaprovação ao chefe do Executivo nas pesquisas eleitorais.  \nA avaliação é que, a 60 dias do pleito presidencial, o petista precisa focar suas visitas a locais considerados estratégicos para alavancar votos. Por outro lado, para contornar a ausência física, Lula deve gravar vídeos a aliados reforçando apoio público em diversos Estados.",
+    "published": "2026-08-05T09:00:13+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "De olho no segundo maior colégio eleitoral do país, o presidente Luiz Inácio Lula da Silva (PT) avalia dar início à sua campanha à reeleição em Minas Gerais em 17 de agosto, um dia após o início oficial do período eleitoral. A estratégia busca reforçar sua presença no Estado, con",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Dark Horse: Ancine detecta irregularidade e indica multa para produtora",
+    "link": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/08/dark-horse-ancine-detecta-irregularidade-e-indica-multa-para-produtora.ghtml",
+    "description": "Responsável pela regulação e fiscalização do mercado audiovisual brasileiro, a Agência Nacional do Cinema (Ancine) decidiu autuar a produtora Go Up Entertainment por irregularidades na gravação do polêmico longa-metragem “Dark Horse”, que retrata a trajetória política do ex-presidente Jair Bolsonaro. O filme abriu uma crise na campanha de Flávio Bolsonaro (PL-RJ) à Presidência da República após virem à tona mensagens do senador cobrando dinheiro do dono do Banco Master, Daniel Vorcaro, supostamente para o financiamento da produção. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-08-05T09:00:09+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Responsável pela regulação e fiscalização do mercado audiovisual brasileiro, a Agência Nacional do Cinema (Ancine) decidiu autuar a produtora Go Up Entertainment por irregularidades na gravação do polêmico longa-metragem “Dark Horse”, que retrata a trajetória política do ex-presi",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "PMI de serviços na zona do euro acelera para 51,7 em julho, ao maior ritmo em 8 meses",
+    "link": "https://valor.globo.com/mundo/noticia/2026/08/05/pmi-de-servios-na-zona-do-euro-acelera-para-517-em-julho-ao-maior-ritmo-em-8-meses.ghtml",
+    "description": "A atividade econômica no setor privado da zona do euro registrou forte recuperação em julho de 2026, impulsionada pelo retorno da expansão no setor de serviços e por um desempenho mais firme da indústria transformadora.\n\nO Índice de Gerentes de Compras (PMI) de Serviços da S&amp;P Global subiu para 51,7 em julho, superando a marca neutra de 50,0 e revertendo a leitura de 49,4 observada em junho. O resultado encerrou uma sequência de três meses seguidos de contração no setor e marcou a taxa de crescimento mais rápida desde fevereiro.\n\nAcompanhando essa melhora generalizada no ambiente de negócios e na demanda interna, o PMI Composto da Zona do Euro — que consolida a produção dos setores industrial e de serviços — saltou de 50,0 em junho para 52,0 em julho.\n\nO avanço levou o indicador de atividade ao maior nível em oito meses, sinalizando uma aceleração no crescimento do Produto Interno Bruto (PIB) do bloco para um ritmo estimado de 0,3% no trimestre.\n\nEntre as principais economias do bloco, a expansão foi liderada por Espanha, Itália e pela volta da Alemanha à zona de crescimento, enquanto a França permaneceu como exceção ao registrar retração, embora em ritmo mais brando.\n\nAlém da reação nas novas encomendas, a pesquisa apontou estagnação nos cortes de empregos, avanço na confiança das empresas para o horizonte de doze meses e um alívio nas pressões inflacionárias, com a desaceleração na alta dos custos de insumos e dos preços cobrados aos clientes.\n\nApesar da leitura favorável no início do terceiro trimestre, economistas ressaltam que o cenário ainda carrega incertezas geopolíticas, sobretudo em relação aos desdobramentos dos conflitos no Oriente Médio e à volatilidade nos preços de energia.",
+    "published": "2026-08-05T08:59:56+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "A atividade econômica no setor privado da zona do euro registrou forte recuperação em julho de 2026, impulsionada pelo retorno da expansão no setor de serviços e por um desempenho mais firme da indústria transformadora.\n\nO Índice de Gerentes de Compras (PMI) de Serviços da S&amp;",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Crise na Fifa: plano para enfraquecer Infantino nasce dentro da própria Fifa; entenda",
+    "link": "https://oglobo.globo.com/esportes/noticia/2026/08/05/crise-na-fifa-plano-para-enfraquecer-infantino-nasce-dentro-da-propria-fifa.ghtml",
+    "description": "A pressão sobre Gianni Infantino atingiu um novo patamar nos bastidores da Fifa. Após meses de desgaste provocado pela aproximação com o presidente dos Estados Unidos, Donald Trump, e pela proposta de criar uma empresa para administrar e comercializar os torneios da entidade, o dirigente suíço agora enfrenta resistência de aliados históricos e vê crescer um movimento interno que ameaça seus planos de permanecer no comando do futebol mundial.\nDez anos da Rio-2016: Deodoro, exemplo dos contrastes no legado esportivo\nVeja quais clubes europeus mais arrecadaram nesta temporada, em que o Real Madrid bateu recorde histórico\nO descontentamento começou ainda antes da Copa do Mundo de 2026, mas ganhou força durante o torneio. Nos bastidores da Fifa, dirigentes passaram a questionar o protagonismo dado a Trump ao longo da competição, desde a cerimônia de abertura até aparições frequentes em eventos oficiais. A avaliação de parte das federações é de que a imagem institucional da entidade acabou excessivamente associada ao presidente americano.\nOutro fator que aprofundou a crise foi o vazamento de informações confidenciais de dentro da própria Fifa. Entre os episódios mais sensíveis está a divulgação de uma ligação telefônica em que Trump teria solicitado a reversão da expulsão do atacante americano Folarin Balogun durante o Mundial. Segundo relatos, apenas um grupo restrito de dirigentes tinha conhecimento do contato, o que levantou suspeitas sobre uma articulação interna para enfraquecer politicamente Infantino.\nA repercussão foi imediata. Poucas horas depois do episódio, a Uefa voltou a endurecer o discurso contra o presidente da Fifa. O dirigente da entidade europeia, Aleksander Ceferin, que já vinha criticando decisões recentes da administração de Infantino, liderou uma nova ofensiva política. O caso também gerou desconforto pela decisão do Comitê Disciplinar da Fifa de tratar o episódio sem consultar todos os seus integrantes, aumentando as críticas sobre a condução dos processos internos.\nNos bastidores, também chamou atenção a revelação do projeto para vender parte dos direitos comerciais das principais competições organizadas pela Fifa, incluindo a Copa do Mundo. A proposta prevê a criação de uma empresa responsável pela gestão desses ativos, com a possibilidade de venda de participação a investidores privados. Embora a entidade tenha afirmado posteriormente que não pretende abrir mão do controle da governança nem vender o futebol, a iniciativa provocou forte reação de federações nacionais e confederações continentais.\nO movimento acelerou o afastamento de dirigentes que até então sustentavam politicamente o presidente. Segundo interlocutores, Infantino tem buscado conversas individuais para entender o motivo da mudança de postura de antigos aliados. A avaliação interna é de que os próximos meses serão decisivos para definir sua capacidade de reunir apoio suficiente para disputar um novo mandato.\nEnquanto isso, projetos considerados prioritários pela atual gestão, como a ampliação da Copa do Mundo para 64 seleções na edição de 2030 e a consolidação do novo formato do Mundial de Clubes, perderam espaço na agenda política da entidade. A principal preocupação passou a ser a preservação da estabilidade institucional da Fifa e da liderança de Infantino.\nEntre os dirigentes, cresce a percepção de que Aleksander Ceferin pode exercer papel central na reorganização do cenário político internacional do futebol. O presidente da Uefa mantém influência significativa sobre diversas federações europeias e aparece como uma das principais vozes de oposição à condução da atual administração da Fifa.\nEm meio ao ambiente de tensão, o secretário-geral da entidade, Mattias Grafström, divulgou uma carta defendendo a preservação da estabilidade institucional da Fifa e reafirmando o compromisso com os princípios que, segundo ele, sustentaram o crescimento da organização nos últimos anos.",
+    "published": "2026-08-05T08:55:31+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "A pressão sobre Gianni Infantino atingiu um novo patamar nos bastidores da Fifa. Após meses de desgaste provocado pela aproximação com o presidente dos Estados Unidos, Donald Trump, e pela proposta de criar uma empresa para administrar e comercializar os torneios da entidade, o d",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "PMI  de serviços do Reino Unido volta a crescer em julho, para 52,1",
+    "link": "https://valor.globo.com/mundo/noticia/2026/08/05/pmi-de-servios-do-reino-unido-volta-a-crescer-em-julho-para-521.ghtml",
+    "description": "O setor de serviços do Reino Unido retomou a trajetória de expansão em julho de 2026, impulsionado pela recuperação nos novos pedidos e pelo alívio nas pressões inflacionárias.\n\nO índice de gerentes de compras (PMI) dos negócios do S&amp;P Global subiu para 52,1 pontos em julho, superando a marca neutra de 50,0 pontos e avançando em relação aos 48,8 pontos registrados em junho.\n\nA alta interrompe dois meses consecutivos de contração e marca o patamar mais elevado do indicador desde abril, embora permaneça abaixo da média histórica de longo prazo de 54,2 pontos.\n\nO movimento de recuperação também se refletiu no Índice Composto, que mede a atividade combinada da economia britânica (serviços e indústria de transformação). O PMI Composto avançou de 49,3 pontos em junho para 52,2 pontos em julho, sinalizando o retorno do setor privado ao campo de expansão pela primeira vez em três meses.\n\nA melhora no cenário operacional dos serviços foi impulsionada pelo aumento nos volumes de novos negócios — que interrompeu uma sequência de quatro meses de queda —, suportado pela demanda aquecida no setor de tecnologia e por uma modesta reação nos gastos dos consumidores.\n\nAs pressões de custos recuaram pelo terceiro mês consecutivo, atingindo o menor nível de inflação de insumos desde fevereiro, beneficiadas pela queda nos preços dos combustíveis.\n\nContudo, o mercado de trabalho continuou mostrando fragilidade: o nível de emprego no setor voltou a cair, completando 22 meses consecutivos de demissões, igualando a maior sequência de corte de vagas em 30 anos de dados históricos.\n\nApesar das incertezas geopolíticas associadas ao conflito no Oriente Médio e do impacto do cenário internacional nos novos negócios externos, as expectativas das empresas para os próximos doze meses atingiram o nível mais otimista desde fevereiro, sustentadas por projeções de maior estabilidade econômica global e novos investimentos previstos.",
+    "published": "2026-08-05T08:53:39+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O setor de serviços do Reino Unido retomou a trajetória de expansão em julho de 2026, impulsionado pela recuperação nos novos pedidos e pelo alívio nas pressões inflacionárias.\n\nO índice de gerentes de compras (PMI) dos negócios do S&amp;P Global subiu para 52,1 pontos em julho, ",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Dow Jones Futuro sobe com esperança de acordo entre EUA e Irã e otimismo com IA",
     "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-com-esperanca-de-acordo-entre-eua-e-ira-e-otimismo-com-ia/",
@@ -3706,216 +3899,5 @@
     ],
     "summary": "As bolsas europeias encerraram em forte alta, nesta terça-feira (4), com os índices CAC 40, de Paris, DAX, de Frankfurt, e o Stoxx 600 renovando recordes de fechamento, impulsionados por fortes resultados trimestrais e pelo alívio nos preços do petróleo. \nA perspectiva de uma rea",
     "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Vitória anunciada pela Belo Sun não encerra disputas sobre maior mina de ouro do país, no Xingu",
-    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/08/vitoria-anunciada-pela-belo-sun-nao-encerra-disputas-sobre-maior-mina-de-ouro-do-pais-no-xingu.ghtml",
-    "description": "A mineradora canadense Belo Sun anunciou aos investidores na semana passada que obteve uma importante vitória judicial no Projeto Volta Grande, no Pará. O que não foi esclarecido publicamente até agora é que a decisão apenas arquivou uma ação por entender que ela tratava dos mesmos fatos já discutidos em outro processo, sem analisar o mérito da causa.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-08-04T16:16:08+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A mineradora canadense Belo Sun anunciou aos investidores na semana passada que obteve uma importante vitória judicial no Projeto Volta Grande, no Pará. O que não foi esclarecido publicamente até agora é que a decisão apenas arquivou uma ação por entender que ela tratava dos mesm",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Escândalos de Flávio levaram Republicanos a recuar de chapa com senador, diz Caiado",
-    "link": "https://www.infomoney.com.br/politica/escandalos-de-flavio-levaram-republicanos-a-recuar-de-chapa-com-senador-diz-caiado/",
-    "description": "A declaração foi dada em entrevista coletiva, ao comentar a decisão do Republicanos de permanecer neutro na disputa pelo Palácio do Planalto\nThe post Escândalos de Flávio levaram Republicanos a recuar de chapa com senador, diz Caiado appeared first on InfoMoney.",
-    "published": "2026-08-04T16:15:57+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A declaração foi dada em entrevista coletiva, ao comentar a decisão do Republicanos de permanecer neutro na disputa pelo Palácio do Planalto\nThe post Escândalos de Flávio levaram Republicanos a recuar de chapa com senador, diz Caiado appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Itália colocará 27 cidades em alerta máximo com intensificação da onda de calor",
-    "link": "https://valor.globo.com/mundo/noticia/2026/08/04/itlia-colocar-27-cidades-em-alerta-mximo-com-intensificao-da-onda-de-calor.ghtml",
-    "description": "A Itália colocará, na quinta-feira, todas as suas 27 principais cidades no nível máximo de alerta para calor, à medida que a quarta onda de calor do verão se intensifica, informou o Ministério da Saúde nesta terça-feira.\nLeia também:\nOnda de calor extremo castiga Europa com seca e incêndios\nPresidente da Coreia do Sul classifica onda de calor como desastre nacional; mortes chegam a 19\n\nVinte e cinco cidades já estão em alerta vermelho nesta terça e quarta-feira. As duas únicas que permaneciam em nível laranja — Messina e Reggio Calabria, no extremo sul do país — passarão ao alerta máximo na quinta-feira.\n\nO alerta vermelho indica potencial emergência de saúde pública, com temperaturas elevadas e prolongadas que representam risco grave para toda a população, incluindo jovens e pessoas saudáveis.\n\nAutoridades locais orientaram os moradores das áreas afetadas a evitar exposição ao calor e à luz solar direta entre 11h e 18h, permanecer em ambientes fechados sempre que possível e ingerir bastante líquido.\n\nUm porta-voz do Ministério da Saúde afirmou que esta é a primeira vez neste ano que as 27 cidades entram simultaneamente em alerta vermelho, mas não soube informar se isso já havia ocorrido em anos anteriores.\n\nAs temperaturas chegaram a 40°C em algumas regiões da Itália e a previsão é de pouco alívio antes do fim de semana. Meteorologistas afirmam que a onda de calor é alimentada por um anticiclone vindo do norte da África, que se fortaleceu sobre o Mediterrâneo e se estendeu por grande parte da Europa.",
-    "published": "2026-08-04T16:15:04+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A Itália colocará, na quinta-feira, todas as suas 27 principais cidades no nível máximo de alerta para calor, à medida que a quarta onda de calor do verão se intensifica, informou o Ministério da Saúde nesta terça-feira.\nLeia também:\nOnda de calor extremo castiga Europa com seca ",
-    "relevance": 5
-  },
-  {
-    "source": "CNBC",
-    "title": "Jeff Bezos just filed to sell $4 billion in Amazon. The shares are falling",
-    "link": "https://www.cnbc.com/2026/08/04/jeff-bezos-just-filed-to-sell-4-billion-in-amazon-the-shares-are-falling.html",
-    "description": "The filing came after Amazon climbed to an all-time high on Monday, extending gains sparked by last week's quarterly results.",
-    "published": "2026-08-04T16:14:49+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "The filing came after Amazon climbed to an all-time high on Monday, extending gains sparked by last week's quarterly results.",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Em telefonema, Lula e Putin falam em aumentar comércio bilateral e discutem guerra da Ucrânia",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/04/em-telefonema-lula-e-putin-falam-em-aumentar-comercio-bilateral-e-discutem-guerra-da-ucrania.ghtml",
-    "description": "O presidente Luiz Inácio Lula da Silva (PT) telefonou, na manhã desta terça-feira (4), para o presidente da Rússia, Vladimir Putin. A ligação teve iniciativa do presidente Lula. \nDe acordo com uma nota divulgada pelo governo russo, a conversa abordou maneiras de ampliar o comércio bilateral e temas da agenda internacional, como a guerra na Ucrânia.\nAinda de acordo com o governo russo, Putin agradeceu a Lula pelos esforços do Brasil em busca de uma solução política e diplomática para o conflito.\nA nota afirma ainda que os presidentes destacaram que entre Brasil e Rússia tem a mesma posição em temas relevantes da agenda internacional e concordaram em manter uma coordenação estreita na Organização das Nações Unidas (ONU) e em outros fóruns multilaterais.\nAgora no g1\n- Esta reportagem está em atualização\nLula encontra Putin na Rússia.\nRicardo Stuckert/ Presidência da República",
-    "published": "2026-08-04T16:09:37+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O presidente Luiz Inácio Lula da Silva (PT) telefonou, na manhã desta terça-feira (4), para o presidente da Rússia, Vladimir Putin. A ligação teve iniciativa do presidente Lula. \nDe acordo com uma nota divulgada pelo governo russo, a conversa abordou maneiras de ampliar o comérci",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Vou cortar muito incentivo fiscal, mas há modelos que funcionam, diz Renan Santos",
-    "link": "https://www.infomoney.com.br/politica/vou-cortar-muito-incentivo-fiscal-mas-ha-modelos-que-funcionam-diz-renan-santos/",
-    "description": "Segundo ele, o agro consegue, no Brasil, ser muito mais competitivo do que em outros países, mas com menos incentivos fiscais\nThe post Vou cortar muito incentivo fiscal, mas há modelos que funcionam, diz Renan Santos appeared first on InfoMoney.",
-    "published": "2026-08-04T16:09:36+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Segundo ele, o agro consegue, no Brasil, ser muito mais competitivo do que em outros países, mas com menos incentivos fiscais\nThe post Vou cortar muito incentivo fiscal, mas há modelos que funcionam, diz Renan Santos appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Líder do PL critica neutralidade de partidos em eleição de 2026",
-    "link": "https://www.poder360.com.br/poder-eleicoes-2026/lider-do-pl-critica-neutralidade-de-partidos-em-eleicao-de-2026/",
-    "description": "Sóstenes Cavalcante, deputado do PL, questiona valor eleitoral de legendas sem lado; comentário é feito depois de decisão do Republicanos",
-    "published": "2026-08-04T16:05:55+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Sóstenes Cavalcante, deputado do PL, questiona valor eleitoral de legendas sem lado; comentário é feito depois de decisão do Republicanos",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Membro do Fed alerta para alta da inflação e diz estar de ‘mente aberta’ sobre juros",
-    "link": "https://www.infomoney.com.br/economia/membro-do-fed-alerta-para-alta-da-inflacao-e-diz-estar-de-mente-aberta-sobre-juros/",
-    "description": "Paulson comentou que é necessária uma política monetária moderadamente restritiva \nThe post Membro do Fed alerta para alta da inflação e diz estar de &#8216;mente aberta&#8217; sobre juros appeared first on InfoMoney.",
-    "published": "2026-08-04T16:04:58+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "Paulson comentou que é necessária uma política monetária moderadamente restritiva \nThe post Membro do Fed alerta para alta da inflação e diz estar de &#8216;mente aberta&#8217; sobre juros appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Efeito do El Niño nos resultados da BB Seguridade deve ser limitado, diz diretor",
-    "link": "https://valor.globo.com/financas/noticia/2026/08/04/efeito-do-el-nino-nos-resultados-da-bb-seguridade-deve-ser-limitado-diz-diretor.ghtml",
-    "description": "Os efeitos do El Niño nos resultados da BB Seguridade neste ano devem ser limitados e concentrados na carteira de danos, disse nesta terça-feira (4) o diretor financeiro da companhia, Rafael Sperendio.\n\n“Para 2026, o excesso de chuvas pode afetar a carteira de danos e mais concentrada na carteira do Centro-Sul do país”, explicou ele a analistas durante teleconferência. \nConfira os resultados e indicadores da BB Seguridade e das demais companhias de capital aberto no portal Valor Empresas 360\n\nPara eventuais impactos no segmento agrícola, ele disse que é preciso olhar para um horizonte mais longo. \n“A principio, vemos pouco impacto em 2026, uma vez que a safra de verão já foi colhida. Podemos ter aumento de sinistralidade, mas pequeno e pontual na safra verão”, afirmou.\n\nO que preocupa é um eventual impacto no calendário das próximas safras. “Dependendo do nível de chuvas de setembro a novembro, [o El Niño] pode deslocar o plantio de soja e de milho no ano que vem. Se o plantio da soja for atrasado, provavelmente o milho safrinha será plantado tardiamente e sofrerá com possíveis geadas”, disse.\n\nTodo esse cenário pode ter reflexos nos resultados do 2° ou 3° trimestre de 2027, mas, segundo o executivo, o impacto é bastante limitado para o conglomerado dado alguns fatores, como a diversificação das exposições. \n“A seguradora acaba sendo mais sensível à La Niña do que ao El Niño”, disse.\n\nOs efeitos do El Niño foram um dos principais temas de questionamento na conversa entre a administração da BB Seguridade e analistas. \n\nOutro pronto levantado foram eventuais mudanças feitas na gestão de risco e na política de resseguro neste ano. Sobre isso, Sperendio disse que “nada mudou” e que os níveis de retenção de risco foram definidos para um espaço de tempo mais amplo. Da mesma forma, a demanda não teve mudança significativa.\n\nO executivo ressaltou que o El Niño é um “evento já dado” e que já tem efeitos em algumas regiões, mas que ainda não é claro qual será a intensidade dos impactos. \n\nOutro tema levantado por analistas foi o comportamento do seguro prestamista, que desde o ano passado afetou negativamente os resultados da companhia, mas que no segundo trimestre mostrou recuperação.\n\nSegundo Sperandio, a melhora vista em maio e junho é explicada por dois fatores. O primeiro foi a alteração no prazo máximo do crédito consignado do servidor federal, vigente desde maio, que abriu espaço para crescimento nas vendas.\n\nO segundo fator foi a criação de um seguro prestamista “parcial”, que é parametrizável em termos de prazo de cobertura. “Dado o ambiente econômico mais restritivo, colocamos uma alternativa de flexibilização de prazo de cobertura pra ter mais sucesso na venda”, afirmou.\n\nSede do Banco do Brasil (BB), em Brasília\nBloomberg",
-    "published": "2026-08-04T16:03:04+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "Os efeitos do El Niño nos resultados da BB Seguridade neste ano devem ser limitados e concentrados na carteira de danos, disse nesta terça-feira (4) o diretor financeiro da companhia, Rafael Sperendio.\n\n“Para 2026, o excesso de chuvas pode afetar a carteira de danos e mais concen",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "CNJ aprova fim da aposentadoria compulsória como punição máxima a juízes; demissão passa a ser prevista",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/04/cnj-aprova-fim-da-aposentadoria-compulsoria-como-punicao-maxima-para-juizes-demissao-passa-a-ser-prevista.ghtml",
-    "description": "CNJ aprova fim da aposentadoria compulsória como punição máxima a juízes; demissão passa a ser prevista\nO Conselho Nacional de Justiça (CNJ) aprovou, por unanimidade nesta terça-feira (4), a proposta de resolução que acaba com a aposentadoria compulsória como a sanção disciplinar mais grave a juízes.\n A resolução aprovada segue entendimento da Primeira Turma do Supremo Tribunal Federal (STF) e também prevê a possibilidade da demissão como uma das hipóteses de punição.\nCom a aprovação da proposta que extingue a aposentadoria compulsória como sanção disciplinar, as penas aplicáveis aos magistrados passarão a ser:\nadvertência;\ncensura;\nremoção compulsória (transferência forçada) e disponibilidade;\ndisponibilidade com proposta de perda do cargo;\ndemissão.\n🔎Disponibilidade é uma punição disciplinar que afasta temporariamente um juiz de suas funções, sem romper o vínculo com o cargo. Durante o afastamento, o magistrado fica proibido de exercer outras atividades, como advocacia ou cargos públicos, com exceção do magistério superior.\nFachin entrega ao CNJ proposta com regras para evitar conflito de interesses de juízes\nJornal Nacional/ Reprodução\nNo texto, o relator Ulisses Rabaneda, incluiu especificações sobre a parte previdenciária, por entender que ela não deveria estar em um ato normativo do CNJ. \nEle defendeu que fossem garantidas as contribuições previdenciárias aos magistrados que perderem o cargo. \n“Não me parece justo ou constitucional que alguém que, por um determinado desvio praticado ao longo da sua vida, perca as contribuições previdenciárias que recolheu ao longo de toda uma trajetória profissional. Aquilo que precisa ser punido merece ser punido. Aquilo que precisa ser garantido, merece ser garantido, contudo, compreendemos que esta questão previdenciária não deva estar em um ato normativo”, afirmou. \nA aposentadoria compulsória é alvo recorrente de críticas porque permite que o magistrado deixe o cargo, mas continue recebendo salário proporcional ao tempo de serviço.\nPor isso, a penalidade muitas vezes é vista como insuficiente e até como uma espécie de “prêmio”, já que o juiz deixa de exercer a função sem perder totalmente a remuneração.\nDecisão do STF\nA resolução acompanha o entendimento da Primeira Turma do Supremo Tribunal Federal (STF) que, neste ano, a partir de uma decisão do ministro Flávio Dino, que estabeleceu o fim da aposentadoria compulsória remunerada como a sanção disciplinar mais grave aplicável a magistrados.\nOs ministros entenderam que a Reforma da Previdência, promulgada em 2019, extinguiu essa modalidade de punição.",
-    "published": "2026-08-04T16:00:56+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "CNJ aprova fim da aposentadoria compulsória como punição máxima a juízes; demissão passa a ser prevista\nO Conselho Nacional de Justiça (CNJ) aprovou, por unanimidade nesta terça-feira (4), a proposta de resolução que acaba com a aposentadoria compulsória como a sanção disciplinar",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Mobiliza nega candidatura presidencial de Cabo Daciolo e prevê neutralidade na disputa nacional",
-    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/04/mobiliza-nega-candidatura-presidencial-de-cabo-daciolo-e-preve-neutralidade-na-disputa-nacional.ghtml",
-    "description": "A direção nacional do Mobiliza negou candidatura à Presidência do ex-deputado federal Cabo Daciolo, filiado ao partido, e afirmou que não apoiará nenhum outro nome na disputa ao Planalto. A decisão foi comunicada nesta terça-feira ao parlamentar, que relata não ter sido informado previamente sobre a realização da convenção do partido, ocasião em que os dirigentes decidiram não lançar seu nome na corrida presidencial. \nAmiga de Lulinha e contrato com ‘Careca do INSS’: Saiba quem é a empresária que fez pagamentos a ex-assessor de Lula\nDisputa presidencial: Campanha de Flávio vê brecha para atacar Lula sobre ex-chefe de gabinete e atenuar desgastes de crises internas\nEm abril deste ano, Daciolo veio a público para anunciar a filiação ao Mobiliza. Em uma postagem no Instagram, o ex-deputado escreveu o lema \"Cabo Daciolo 2026\" e fez referência a um versículo bíblico que diz \"quando os justos governam, o povo se alegra\". Na mesma ocasião, ele posou ao lado do ex-jogador de futebol da Seleção Brasileira Ricardo Rocha e afirmou que, caso eleito, o escolheria para assumir o Ministério dos Esportes. O anúncio aconteceu oito anos após ele ter sido candidato ao Planalto em 2018, durante o pleito que elegeu o ex-presidente Jair Bolsonaro (PL). \nAo GLOBO, o presidente nacional da sigla, Antonio Carlos Bosco Massarollo, disse nesta terça-feira, no entanto, que o partido \"em nenhum momento anunciou candidatura própria à Presidência da República\". Questionado se a legenda apoiará outro nome na disputa para o Planalto, o dirigente partidário respondeu \"nenhum\".\n— O partido tentou, desde janeiro de 2025, formatar um projeto político de cunho nacional e de defesa da soberania, mas não logrou êxito. Um projeto coletivo de defesa do interesse nacional. Mas em nenhum momento lançamos nenhum nome — disse. \nEm resposta, Daciolo disse ter se surpreendido com a posição do dirigente partidário e relatou não ter sido comunicado sobre a realização da convenção nacional do Mobiliza.\n— Eu nunca esperava isso dele [Massarollo] e sinto uma decepção muito grande com esse posicionamento — disse. — Me notificaram que já houve a convenção no final do mês passado e eu nunca tive a chance de lutar pela minha candidatura.\nDaciolo também afirmou que, desde o início do ano, participou de uma série de reuniões com o comando da sigla para discutir a candidatura e disse que, na corrida presidencial, o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro são \"lados da mesma moeda\". O ex-deputado, no entanto, relatou que neste momento não tem interesse em se candidatar a nenhum outro cargo e disse que ficará \"em paz\" com a decisão do partido. \n*Estagiário sob supervisão de Cibelle Brito.",
-    "published": "2026-08-04T15:56:29+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A direção nacional do Mobiliza negou candidatura à Presidência do ex-deputado federal Cabo Daciolo, filiado ao partido, e afirmou que não apoiará nenhum outro nome na disputa ao Planalto. A decisão foi comunicada nesta terça-feira ao parlamentar, que relata não ter sido informado",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/politica/mobiliza-barra-candidatura-de-cabo-daciolo-e-desiste-de-disputar-a-presidencia/"
-      },
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/04/mobiliza-fica-neutro-na-disputa-presidencial-e-nega-candidatura-a-cabo-daciolo.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Há pelo menos 3 frutas podres no STF que precisam ser eliminadas, afirma Zema",
-    "link": "https://www.infomoney.com.br/politica/ha-pelo-menos-3-frutas-podres-no-stf-que-precisam-ser-eliminadas-afirma-zema/",
-    "description": "Ex-governador de Minas evitou citar nomes que considera ruins na Suprema Corte\nThe post Há pelo menos 3 frutas podres no STF que precisam ser eliminadas, afirma Zema appeared first on InfoMoney.",
-    "published": "2026-08-04T15:52:19+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Ex-governador de Minas evitou citar nomes que considera ruins na Suprema Corte\nThe post Há pelo menos 3 frutas podres no STF que precisam ser eliminadas, afirma Zema appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Áustria registra 41°C e bate recorde histórico de temperatura mais alta no país, superando marca após 13 anos",
-    "link": "https://oglobo.globo.com/esportes/noticia/2026/08/04/messi-doa-cerca-de-meio-milhao-de-reais-para-reconstrucao-de-madri-apos-incendios.ghtml",
-    "description": "A Áustria quebrou seu recorde histórico de calor, com 41°C registrados em Viena, anunciou nesta terça-feira (4) o serviço meteorológico GeoSphere Austria. A medição foi feita na estação de Viena-Stammersdorf, no noroeste da capital, explicou a agência meteorológica austríaca em um comunicado, superando os 40,8°C registrados poucas horas antes.\nNa Espanha: Messi doa cerca de meio milhão de reais para reconstrução de Madri após incêndios\nUm dia após incêndio, um dos maiores zoológicos da Inglaterra confirma que animais morreram no fogo\nEsses números ultrapassam o recorde nacional anterior de 40,5°C, estabelecido em 8 de agosto de 2013 na estação de Bad Deutsch-Altenburg, no leste do país.\nEm Viena, o proprietário de um restaurante disse à AFP que pouquíssimas pessoas estavam visitando seu estabelecimento, descrevendo o clima como uma \"catástrofe\".\n— Estamos apenas esperando esse calor passar. O que podemos fazer? Nada... Ninguém quer comer ou beber nada. Tudo o que as pessoas querem é ficar trancadas em casa — disse Nasir Dis, de 60 anos.\nEssa recente elevação das temperaturas ocorre após um período já marcado por calor excepcional e baixa pluviosidade nos últimos meses, com vários recordes locais sendo quebrados. O país europeu registrou seu quarto mês de julho mais quente da história e, \"em algumas estações de monitoramento, o déficit de chuvas chegou a 90%\", segundo a GeoSphere Austria.\nIncêndios no noroeste dos EUA: suspeito de iniciar um dos três focos é preso\nPara evitar trânsito: Idoso vai de helicóptero a loja de caça e pesca para evitar viagem de carro nos EUA\nOs damascos começaram a amadurecer cerca de 20 dias antes da média observada no período de 1961–1991 — ilustrando o impacto do aquecimento global nas culturas agrícolas, observou o serviço meteorológico. O ministro da Agricultura, Norbert Totschnig, alertou que está se tornando \"cada vez mais difícil\" para os agricultores alimentar seu gado, à medida que a seca resseca as pastagens.\nO calor extremo — que os cientistas atribuem às mudanças climáticas causadas pela atividade humana — ressecou a vegetação e o solo em toda a Europa, aumentando o risco de incêndios florestais.\nGalerias Relacionadas",
-    "published": "2026-08-04T15:50:20+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "A Áustria quebrou seu recorde histórico de calor, com 41°C registrados em Viena, anunciou nesta terça-feira (4) o serviço meteorológico GeoSphere Austria. A medição foi feita na estação de Viena-Stammersdorf, no noroeste da capital, explicou a agência meteorológica austríaca em u",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "CNJ analisa regras para viagens e presentes no Judiciário propostas por Fachin",
-    "link": "https://www.infomoney.com.br/politica/cnj-analisa-regras-para-viagens-e-presentes-no-judiciario-propostas-por-fachin/",
-    "description": "Proposta também prevê mecanismos de transparência, consultas preventivas, ações de formação continuada e gestão de riscos \nThe post CNJ analisa regras para viagens e presentes no Judiciário propostas por Fachin appeared first on InfoMoney.",
-    "published": "2026-08-04T15:47:43+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Proposta também prevê mecanismos de transparência, consultas preventivas, ações de formação continuada e gestão de riscos \nThe post CNJ analisa regras para viagens e presentes no Judiciário propostas por Fachin appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Lula conversa com Putin sobre guerra na Ucrânia e relação comercial",
-    "link": "https://valor.globo.com/brasil/noticia/2026/08/04/lula-conversa-com-putin-sobre-guerra-na-ucrania-e-relacao-comercial.ghtml",
-    "description": "O presidente Luiz Inácio Lula da Silva conversou por telefone, na manhã desta terça-feira (4), com o presidente da Rússia, Vladimir Putin. Na ligação, feita a pedido do governo brasileiro, os dois discutiram o fortalecimento da relação bilateral e trocaram opiniões sobre temas da agenda internacional, entre eles a guerra em curso na Ucrânia.\n\nSegundo nota divulgada pelo Kremlin, Putin agradeceu a Lula pelos esforços do Brasil para ajudar a encontrar uma solução política e diplomática para o conflito.\n\nInterlocutores do Palácio do Planalto já haviam informado que o presidente da Ucrânia, Volodymyr Zelensky, pediu a Lula, durante a Cúpula de Líderes do G7, na França, que conversasse com Putin para destravar as negociações sobre a guerra. O governo brasileiro defende uma negociação para encerrar o conflito, iniciado em fevereiro de 2022.\n\nDe acordo com o governo russo, Lula e Putin reafirmaram que Brasil e Rússia mantêm \"posições idênticas ou semelhantes em muitas questões globais importantes\" e concordaram em manter estreita coordenação na Organização das Nações Unidas (ONU) e em outros fóruns multilaterais.\n\nOs dois presidentes também trataram da agenda econômica bilateral. Ainda segundo o Kremlin, eles deram continuidade às discussões iniciadas na 8ª reunião da Comissão Brasil-Rússia de Alto Nível de Cooperação (CAN), realizada em fevereiro deste ano, e manifestaram interesse em ampliar e diversificar o comércio entre os dois países.",
-    "published": "2026-08-04T15:46:52+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O presidente Luiz Inácio Lula da Silva conversou por telefone, na manhã desta terça-feira (4), com o presidente da Rússia, Vladimir Putin. Na ligação, feita a pedido do governo brasileiro, os dois discutiram o fortalecimento da relação bilateral e trocaram opiniões sobre temas da",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Cúpula do PT discute situação de ex-chefe de gabinete de Lula após revelação de repasse de empresária",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/08/04/cupula-do-pt-discute-situacao-de-ex-chefe-de-gabinete-de-lula-apos-revelacao-de-repasse-de-empresaria.ghtml",
-    "description": "Reunida na manhã desta terça-feira em Brasília, a executiva nacional do PT discute a situação do ex-chefe de gabinete da Presidência Marco Aurélio Santana Ribeiro, o Marcola, que recebeu repasse da empresária  Roberta Luchsinger. A avaliação é que para o assessor do presidente Luiz Inácio Lula da Silva continuar na equipe de coordenação da campanha à reeleição será necessário apresentar comprovantes de que quitou o suposto empréstimo.\nDurante o encontro, Romênio Pereira, secretário de assuntos internacionais, criticou a conduta do ex-chefe de gabinete de Lula. Mas, de acordo com membros da executiva, comentários que colocavam em xeque a permanência de Marcola na coordenação na campanha à reeleição foram feitos mais nos bastidores da reunião, que acontece na sede do partido em Brasília.\nHá um entendimento também na cúpula do PT que o caso será explorado pela campanha de Flávio Bolsonaro, candidato do PL, e abrirá um flanco para tentar vincular Lula a esquemas de corrupção em seu governo.  A reunião da executiva havia sido convocada antes de vir à tona a informação sobre o repasse vir à tona.\nA transferência financeira feita por Roberta a Marcola está sendo investigada pela Polícia Federal. A empresária é apontada como lobista que participação no esquema de fraudes do INSS.\nEm nota, o ex-chefe de gabinete da Presidência confirmou que recebeu os valores de Roberta, sem especificar quanto, na forma de um empréstimo que teria sido posteriormente quitado. \nO GLOBO mostrou que integrantes do governo admitem constrangimento com o caso e cobram que o ex-auxiliar do presidente mostre os comprovantes dessa transação para estancar a crise. \nAos 40 anos, Marcola é um dos auxiliares mais jovens de Lula e manteve forte relação com o petista na última década, com acesso ao presidente em momentos privados e atento inclusive aos hábitos do petista. Cuida da agenda do presidente desde a época do Instituto Lula, onde ingressou em 2015. Foi um dos coordenadores executivos da caravana de Lula pelo Brasil em 2017 e mudou-se para Curitiba quando o presidente esteve preso na Superintendência da Polícia Federal, entre 2018 e 2019. No fim de julho, deixou a chefia de gabinete de Lula para integrar a pré-campanha de Lula à reeleição, onde cuidará da agenda do petista, ao lado do ex-ministro Gilberto Carvalho.",
-    "published": "2026-08-04T15:41:47+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Reunida na manhã desta terça-feira em Brasília, a executiva nacional do PT discute a situação do ex-chefe de gabinete da Presidência Marco Aurélio Santana Ribeiro, o Marcola, que recebeu repasse da empresária  Roberta Luchsinger. A avaliação é que para o assessor do presidente Lu",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "G1 - Política",
-        "link": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/08/04/pf-identifica-transferencia-de-empresaria-amiga-de-lulinha-para-marcola-ex-chefe-de-gabinete-do-presidente-da-republica.ghtml"
-      }
-    ]
   }
 ]
