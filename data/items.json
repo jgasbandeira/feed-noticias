@@ -26,6 +26,18 @@
     "relevance": 5
   },
   {
+    "source": "O Globo",
+    "title": "Vasco: Justiça reduz para um número administradores judiciais e nomeia 'watchdog' para fiscalizar recuperação",
+    "link": "https://oglobo.globo.com/blogs/ancelmo-gois/post/2026/08/vasco-justica-reduz-para-um-numero-administradores-judiciais-e-nomeia-watchdog-para-fiscalizar-recuperacao.ghtml",
+    "description": "A 4ª Vara Empresarial do Rio determinou mudanças na recuperação judicial do Vasco. A juíza Simone Gastesi Chevrand reduziu de dois para um o número de administradores judiciais do processo, mantendo apenas a Wald.AJ e dispensando a K2 Consultoria. A decisão atendeu a pedido do Ministério Público. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-08-07T20:09:30+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A 4ª Vara Empresarial do Rio determinou mudanças na recuperação judicial do Vasco. A juíza Simone Gastesi Chevrand reduziu de dois para um o número de administradores judiciais do processo, mantendo apenas a Wald.AJ e dispensando a K2 Consultoria. A decisão atendeu a pedido do Mi",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Política",
     "title": "ESPECIAL: Natuza Nery e Andréia Sadi entrevistam Ronaldo Caiado - O Assunto #1778",
     "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/08/07/especial-natuza-nery-e-andreia-sadi-entrevistam-ronaldo-caiado-o-assunto-1778.ghtml",
@@ -510,6 +522,10 @@
       {
         "source": "InfoMoney",
         "link": "https://www.infomoney.com.br/politica/trump-segue-com-tentativa-de-demitir-diretora-do-fed-apos-decisao-da-suprema-corte/"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/noticia/2026/08/07/trump-retoma-ofensiva-para-demitir-lisa-cook-e-reacende-disputa-sobre-a-autonomia-do-fed.ghtml"
       }
     ]
   },
@@ -3876,17 +3892,5 @@
         "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/08/06/grupo-cyrela-e-reconhecido-como-empresa-proetica-20252026-1.ghtml"
       }
     ]
-  },
-  {
-    "source": "O Globo",
-    "title": "Índice Big Mac: na América Latina, Brasil só está atrás de Guatemala e Venezuela em moeda mais desvalorizada frente ao dólar, mostra ranking da The Economist",
-    "link": "https://oglobo.globo.com/economia/noticia/2026/08/06/indice-big-mac-na-america-latina-brasil-so-esta-atras-de-guatemala-e-venezuela-em-moeda-mais-desvalorizada-frente-ao-dolar-mostra-ranking-da-the-economist.ghtml",
-    "description": "A revista britânica The Economist divulgou o Índice Big Mac de julho deste ano, com o real brasileiro figurando como a terceira moeda com a maior subvalorização frente ao dólar na América Latina, depois do quetzal da Guatemala e do bolíver da Venezuela. O preço local do hambúrguer-ícone do McDonald’s, gigante americana multinacional de fast-food, é usado para medir a variação de divisas de diversos países na comparação com o dólar.\nNo Brasil, o sanduíche custa R$ 23,90, contra US$ 6,22 nos Estados Unidos, aponta o levantamento. Por este parâmetro, a taxa de câmbio fica em R$ 3,84 por dólar. Considerando a diferença entre este valor e a taxa real, de R$ 5,08, a moeda brasileira apresenta uma subvalorização de 24,4% na comparação com o dólar americano.\nA posição das moedas latino-americanas\nGuatemala (Quetzal) -28,3\nVenezuela (Bolíver) -27,5\nBrasil (Real) -24,4%\nPeru (Sol) -19,7%\nNicaragua (Córdoba) -17,9%\nHonduras (Lempira) -16,5%\nChile (Peso chileno) -13,1%\nArgentina (Peso argentino) -5%\nEUA (US$) base de comparação\nMéxico (Peso mexicano) 0,8%\nCosta Rica (Colón) 12,5%\nColômbia (Peso colombiano) 28,7%\nUruguai (Peso uruguaio) 43,7%\nO ranking, divulgado no fim de julho, integra o chamado Índice Big Mac, criado pela The Economist em 1986. Ele foi construído com base na teoria da paridade de poder de compra (PPC) para funcionar como um indicador mais acessível ao consumidor de forma geral sobre como está variando o câmbio das diversas moedas. A comparação considera os preços nacionais para um mesmo produto ou serviço — neste caso para o hambúrger — medidos em uma mesma moeda, o dólar americano, sem contar custos de transação e barreiras comerciais.\nNo ranking completo, fica clara também a perda de valor da moeda americana de um ano para o outro. Em julho de 2025, havia sete moedas sobrevalorizadas na comparação com o dólar tomando o hambúrger como referência. Em julho deste ano, essa lista cresceu para 12 moedas, encabeçadas pelo franco suíço e o peso uruguaio.",
-    "published": "2026-08-06T21:47:26+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "A revista britânica The Economist divulgou o Índice Big Mac de julho deste ano, com o real brasileiro figurando como a terceira moeda com a maior subvalorização frente ao dólar na América Latina, depois do quetzal da Guatemala e do bolíver da Venezuela. O preço local do hambúrgue",
-    "relevance": 5
   }
 ]
