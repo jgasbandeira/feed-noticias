@@ -45,7 +45,13 @@
       "Politica"
     ],
     "summary": "Líder nas pesquisas ao governo do Paraná, o senador e ex-juiz Sérgio Moro (PL) anunciou que se ausentará do primeiro debate entre os candidatos desta eleição, realizado na noite de domingo pela TV Band. Em publicação em seu perfil nas redes, a poucas horas do encontro, Moro citou",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/noticia/2026/08/09/moro-desiste-de-participar-de-primeiro-debate-ao-governo-do-parana.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -2264,7 +2270,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Quase quatro anos após se enfrentarem nas urnas pela primeira vez, Tarcísio de Freitas (Republicanos) e Fernando Haddad (PT) vão reeditar a disputa de 2022 ao governo paulista — desta vez, em um cenário quase de “antecipação” de segundo turno. O atual governador e o ex-ministro d",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/noticia/2026/08/09/tarcisio-e-haddad-fazem-primeiro-confronto-em-debate-na-disputa-pelo-governo-de-s.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
