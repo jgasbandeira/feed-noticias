@@ -1,5 +1,18 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Bolsas das Ásia fecham em direções variadas com IA e inflação dos EUA",
+    "link": "https://valor.globo.com/financas/noticia/2026/08/14/bolsas-das-asia-fecham-em-direcoes-variadas-com-ia-e-inflacao-dos-eua.ghtml",
+    "description": "O entusiasmo renovado por inteligência artificial impulsionou uma forte alta nas ações de tecnologia asiáticas, com o índice Kospi, da Coreia do Sul, entrando em um mercado de alta (bull market) técnico. O índice de referência fechou em alta de 2,4%, aos 6.977,94 pontos.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-08-14T09:43:43+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "O entusiasmo renovado por inteligência artificial impulsionou uma forte alta nas ações de tecnologia asiáticas, com o índice Kospi, da Coreia do Sul, entrando em um mercado de alta (bull market) técnico. O índice de referência fechou em alta de 2,4%, aos 6.977,94 pontos.\n Matéria",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Varejo nos EUA, PIB na Europa, desemprego no Brasil e mais destaques nesta sexta",
     "link": "https://www.infomoney.com.br/mercados/varejo-eua-pib-europa-desemprego-brasil-14082026/",
@@ -1216,7 +1229,13 @@
       "Politica"
     ],
     "summary": "O senador e candidato à Presidência Flávio Bolsonaro (PL) declarou ao Tribunal Superior Eleitoral (TSE) um patrimônio de R$ 8,18 milhões, um aumento de 200% em relação ao R$ 1,7 milhão registrado na última eleição em que concorreu, em 2018. As informações constam no registro de c",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/13/flavio-bolsonaro-alfredo-gaspar-bens-declarados-tse.ghtml"
+      }
+    ]
   },
   {
     "source": "InfoMoney",
@@ -2256,7 +2275,13 @@
       "Politica"
     ],
     "summary": "Gustavo Mendanha durante entrevista em Goiânia, Goiás\nFábio Lima/O Popular\nO candidato do PRD ao Senado em Goiás Gustavo Mendanha declarou um patrimônio de R$ 2,3 milhões à Justiça Eleitoral. Os dados estão no pedido de registro da chapa feito ao Tribunal Superior Eleitoral (TSE)",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/13/flvio-registra-candidatura-no-tse-e-declara-patrimnio-de-r-81-milhes.ghtml"
+      }
+    ]
   },
   {
     "source": "G1 - Economia",
@@ -3925,17 +3950,5 @@
         "link": "https://valor.globo.com/politica/noticia/2026/08/13/cmara-aprova-pl-que-reduz-a-carga-tributria-de-resseguradoras.ghtml"
       }
     ]
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Senado aprova aval da União a empréstimos de SP que abriram crise com Tarcísio e Nunes",
-    "link": "https://valor.globo.com/politica/noticia/2026/08/13/senado-aprova-aval-da-uniao-a-emprestimos-de-sp-que-abriram-crise-com-tarcisio-e-nunes.ghtml",
-    "description": "Em sessão extraordinária realizada nesta quinta-feira (13), o Plenário do Senado aprovou projetos de resolução que autorizam aval da União a três empréstimos da Prefeitura de São Paulo e do Governo de São Paulo. Os recursos, captados por meio de operações com bancos multilaterais, serão utilizados para a eletrificação da frota de ônibus da capital paulista e para melhorias no serviço de saúde.\nAs três operações somam cerca de R$ 3,5 bilhões e envolvem financiamentos contratados com o Banco Interamericano de Desenvolvimento (BID) e o Banco Internacional para Reconstrução e Desenvolvimento (Bird), instituição do Banco Mundial.\nDuas financiam o Programa de Redução da Emissão de Gases Poluentes por meio da Eletrificação da Frota de Ônibus da capital. Uma delas foi contratada com o BID e a outra com o Bird. O terceiro financiamento, junto ao BID, destina-se ao Avança Saúde II, programa de reestruturação da rede hospitalar municipal.\nA aprovação pelo Senado encerra uma etapa que havia provocado atrito entre a Prefeitura de São Paulo e o governo federal. No mês passado, o prefeito Ricardo Nunes (MDB) enviou ofícios ao Senado e ao Tribunal de Contas da União (TCU) reclamando da demora no encaminhamento das operações e afirmando que os processos estavam parados na Casa Civil.\nSegundo a prefeitura, os financiamentos já haviam recebido aval técnico do Tesouro e da Procuradoria-Geral da Fazenda Nacional (PGFN), e o Ministério da Fazenda havia assinado as exposições de motivos necessárias para o envio dos pedidos ao presidente Luiz Inácio Lula da Silva. Nunes alegava que a demora colocava em risco as operações, que tinham prazo para obtenção da garantia federal.\nÀ época, o Ministério da Fazenda e a Casa Civil negaram irregularidades na tramitação e afirmaram que os pedidos seguiam os procedimentos técnicos e administrativos regulares.\nAs mensagens presidenciais com os pedidos de autorização foram publicadas em edição extra do Diário Oficial da União de ontem. O presidente do Senado, Davi Alcolumbre (União-AP), convocou então a sessão extraordinária desta quinta-feira especificamente para analisar as operações.",
-    "published": "2026-08-13T15:00:47+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Em sessão extraordinária realizada nesta quinta-feira (13), o Plenário do Senado aprovou projetos de resolução que autorizam aval da União a três empréstimos da Prefeitura de São Paulo e do Governo de São Paulo. Os recursos, captados por meio de operações com bancos multilaterais",
-    "relevance": 5
   }
 ]
