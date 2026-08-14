@@ -24,6 +24,18 @@
     "relevance": 5
   },
   {
+    "source": "Valor Econômico",
+    "title": "Auditoria mantém ressalva sobre balanço da Marisa e indica incerteza de continuidade operacional",
+    "link": "https://valor.globo.com/empresas/noticia/2026/08/14/auditoria-mantm-ressalva-sobre-balano-da-marisa-e-indica-incerteza-de-continuidade-operacional.ghtml",
+    "description": "A auditoria independente da Marisa, que aprovou as contas de segundo trimestre da companhia, apresentou ressalvas no seu parecer e fez uma ênfase a respeito de incertezas relevantes sobre a capacidade da empresa de se manter em operação. O mesmo havia acontecido nos últimos resultados da varejista.\n\nSegundo o parecer emitido pela BDO, a base para a conclusão da ressalva envolve a controlada indireta M Serviços, antiga M Cartões, que enfrenta processos administrativos e judiciais referentes à cobrança de imposto de renda e contribuição social por suposta omissão de receitas nos anos de 2011 e 2012.\nLeia mais: \nMarisa reverte lucro e tem prejuízo de R$ 68,4 milhões no 2º trimestre\n\nA administração da Marisa classificou o risco de perda como “possível” e optou por não contabilizar o passivo. No entanto, o contador Roberto Camargo, da BDO, discorda dessa avaliação e afirma em seu parecer que, em 14 de setembro de 2022 e em 17 de maio de 2023, a M Serviços foi notificada das decisões desfavoráveis com relação aos autos de infração.\n\nAlém disso, a própria Superintendência de Relações com Empresas (SEP) da Comissão de Valores Mobiliários (CVM) chegou a determinar, no fim de 2025, o refazimento de balanços anteriores exigindo a constituição dessa provisão. A companhia recorreu da decisão e obteve inicialmente efeito suspensivo, mas, posteriormente, a SEP manteve seu entendimento e encaminhou o caso ao colegiado da autarquia.\n\nEm 30 de dezembro de 2025, o colegiado da CVM, ao apreciar recurso interposto pela Marisa em outubro de 2025, deliberou sobre aspectos relacionados à necessidade de refazimento ou republicação das demonstrações contábeis, manifestando-se, de forma geral, sobre a existência de incertezas inerentes a julgamentos finais em tribunais superiores em matéria tributária. Mas, na avaliação de Roberto Camargo, “tal deliberação não tratou de forma específica sobre o critério contábil aplicável à avaliação e ao reconhecimento da obrigação nas demonstrações contábeis, nem altera nossa avaliação quanto à adequação do tratamento contábil adotado pela administração”.\n\nA auditoria concluiu que a classificação dessas contingências como de “perda possível” não é apropriada nas circunstâncias e que deveria ter sido reconhecida provisão nas demonstrações contábeis. Caso isso tivesse sido feito, o patrimônio líquido da Marisa, o saldo de investimentos e o total de seu ativo não circulante estariam superavaliados em R$ 245,7 milhões. Além disso, o prejuízo consolidado do segundo trimestre estaria subavaliado em cerca de R$ 34,9 milhões.\n\nAlém da ressalva, o auditor destacou uma incerteza relevante sobre a continuidade operacional da varejista. A Marisa acumulou prejuízo de R$ 164,2 milhões no primeiro semestre de 2026 e encerrou junho com passivo circulante superior ao ativo circulante em aproximadamente R$ 257 milhões. Ou seja, as obrigações de curto prazo estão acima dos recursos disponíveis para pagá-las.\n\nLoja de rua da Marisa\nDivulgação/Marisa",
+    "published": "2026-08-14T22:43:46+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A auditoria independente da Marisa, que aprovou as contas de segundo trimestre da companhia, apresentou ressalvas no seu parecer e fez uma ênfase a respeito de incertezas relevantes sobre a capacidade da empresa de se manter em operação. O mesmo havia acontecido nos últimos resul",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "As empresas que mais perderam valor de mercado nos últimos nove pregões",
     "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/08/as-empresas-que-mais-perderam-valor-de-mercado-nos-ultimos-nove-pregoes.ghtml",
@@ -3915,24 +3927,5 @@
     ],
     "summary": "A britânica Hayley Dowell, de 38 anos, morreu em 3 de outubro de 2023, após sofrer complicações durante uma lipoaspiração na clínica BHT, do hospital Istanbul Tema, na Turquia. Mãe de três filhos e moradora de Eastleigh, em Hampshire, ela havia viajado ao país para realizar uma a",
     "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Bolsas das Ásia fecham em direções variadas com IA e inflação dos EUA",
-    "link": "https://valor.globo.com/financas/noticia/2026/08/14/bolsas-das-asia-fecham-em-direcoes-variadas-com-ia-e-inflacao-dos-eua.ghtml",
-    "description": "O entusiasmo renovado por inteligência artificial impulsionou uma forte alta nas ações de tecnologia asiáticas, com o índice Kospi, da Coreia do Sul, entrando em um mercado de alta (bull market) técnico. O índice de referência fechou em alta de 2,4%, aos 6.977,94 pontos.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-08-14T09:43:43+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "O entusiasmo renovado por inteligência artificial impulsionou uma forte alta nas ações de tecnologia asiáticas, com o índice Kospi, da Coreia do Sul, entrando em um mercado de alta (bull market) técnico. O índice de referência fechou em alta de 2,4%, aos 6.977,94 pontos.\n Matéria",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/mercados/bolsas-de-ny-fecham-em-leve-baixa-olhando-perspectivas-para-inflacao-e-gastos-com-ia/"
-      }
-    ]
   }
 ]
