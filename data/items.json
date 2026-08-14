@@ -119,7 +119,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O Ibovespa encerrou a sexta-feira com queda de 3,23% na semana, em meio à forte saída de recursos estrangeiros. Foram nove pregões consecutivos de queda, algo que não era registrado desde agosto de 2023. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link d",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/mercados/as-10-empresas-que-perderam-mais-valor-de-mercado-em-9-pregoes-de-queda-do-ibovespa/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
