@@ -1,6 +1,30 @@
 [
   {
     "source": "Poder360",
+    "title": "Eleição 2026 registra recorde de candidatos com ensino superior",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/eleicao-2026-registra-recorde-de-candidatos-com-ensino-superior/",
+    "description": "Entre os partidos, PRTB e PT são os que têm a maior taxa com faculdade; prazo para envio de registros terminou neste sábado (15.ago)",
+    "published": "2026-08-15T23:29:33+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Entre os partidos, PRTB e PT são os que têm a maior taxa com faculdade; prazo para envio de registros terminou neste sábado (15.ago)",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Vivara diz que fundos sob gestão da Guepardo Investimentos compraram ações",
+    "link": "https://www.infomoney.com.br/mercados/vivara-diz-que-fundos-sob-gestao-da-guepardo-investimentos-compraram-acoes/",
+    "description": "De acordo com a empresa, a Guepardo informou que a referida participação não tem por escopo a aquisição do controle da companhia\nThe post Vivara diz que fundos sob gestão da Guepardo Investimentos compraram ações appeared first on InfoMoney.",
+    "published": "2026-08-15T23:06:23+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "De acordo com a empresa, a Guepardo informou que a referida participação não tem por escopo a aquisição do controle da companhia\nThe post Vivara diz que fundos sob gestão da Guepardo Investimentos compraram ações appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
     "title": "Candidaturas femininas são 34,8% nas Eleições de 2026",
     "link": "https://www.poder360.com.br/poder-eleicoes-2026/candidaturas-femininas-sao-348-nas-eleicoes-de-2026/",
     "description": "Dado representa um novo recorde proporcional; cadastros femininos cresceram 27,5 pontos percentuais desde 1994",
@@ -260,6 +284,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/15/com-quatro-fortunas-acima-de-r-50-milhoes-veja-o-patrimonio-de-todos-os-candidatos-a-presidencia-da-republica.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/15/inelegivel-pablo-marcal-registra-candidatura-a-presidencia-pelo-prtb.ghtml"
       }
     ]
   },
@@ -3870,30 +3898,5 @@
         "link": "https://valor.globo.com/brasil/noticia/2026/08/14/lula-diz-que-quer-falar-com-trump-sobre-negocios-e-eleicao-que-ele-nao-se-meta.ghtml"
       }
     ]
-  },
-  {
-    "source": "O Globo",
-    "title": "Por que Michelle Bolsonaro ainda não registrou sua candidatura",
-    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/08/por-que-michelle-bolsonaro-ainda-nao-registrou-sua-candidatura.ghtml",
-    "description": "A um dia do fim do prazo, Michelle Bolsonaro ainda não registrou sua candidatura ao Senado pelo Distrito Federal. É a única da família - entre os que vão disputar as eleições deste ano - que ainda não o fez.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-08-14T15:02:08+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A um dia do fim do prazo, Michelle Bolsonaro ainda não registrou sua candidatura ao Senado pelo Distrito Federal. É a única da família - entre os que vão disputar as eleições deste ano - que ainda não o fez.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o l",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Debêntures perdem espaço e fundos imobiliários e ações crescem em julho",
-    "link": "https://www.infomoney.com.br/onde-investir/debentures-perdem-espaco-e-fundos-imobiliarios-e-acoes-crescem-em-julho/",
-    "description": "Emissões de FIIs voltaram a crescer e tiveram o melhor mês do ano, junto com outros fundos estruturados, como Fiagros e FIDCs\nThe post Debêntures perdem espaço e fundos imobiliários e ações crescem em julho appeared first on InfoMoney.",
-    "published": "2026-08-14T15:01:00+00:00",
-    "themes": [
-      "Fundos Imobiliarios",
-      "Mercado Financeiro"
-    ],
-    "summary": "Emissões de FIIs voltaram a crescer e tiveram o melhor mês do ano, junto com outros fundos estruturados, como Fiagros e FIDCs\nThe post Debêntures perdem espaço e fundos imobiliários e ações crescem em julho appeared first on InfoMoney.",
-    "relevance": 5
   }
 ]
