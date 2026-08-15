@@ -1,5 +1,17 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Economia no 2º trimestre: indústria e serviços crescem, mas comércio fica no campo negativo",
+    "link": "https://valor.globo.com/brasil/artigo/economia-no-2o-trimestre-industria-e-servicos-crescem-mas-comercio-fica-no-campo-negativo.ghtml",
+    "description": "O segundo trimestre de 2026 fechou com uma desaceleração forte do crescimento da indústria brasileira e o varejo – tanto o restrito quanto o ampliado, que inclui veículos, material de construção e atacarejo – em queda. O setor de serviços foi o único dos três principais termômetros da atividade econômica que mostrou desempenho melhor no segundo trimestre que no primeiro.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-08-15T18:10:48+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O segundo trimestre de 2026 fechou com uma desaceleração forte do crescimento da indústria brasileira e o varejo – tanto o restrito quanto o ampliado, que inclui veículos, material de construção e atacarejo – em queda. O setor de serviços foi o único dos três principais termômetr",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Política",
     "title": "Quaest: os grupos em que a disputa entre Lula e Flávio Bolsonaro está mais apertada",
     "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/08/15/quaest-segmentos-lula-flavio-bolsonaro-2o-turno.ghtml",
@@ -2920,7 +2932,13 @@
       "Politica"
     ],
     "summary": "O processo ordinário de adoção de medidas de reciprocidade do Brasil contra o tarifaço dos Estados Unidos, iniciado nesta quinta-feira, tem várias etapas, que envolvem desde a análise da Câmara de Comércio Exterior (Camex) sobre o enquadramento do pleito nos critérios da lei apro",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/mercados/lula-se-apequenou-em-processo-diz-flavio-sobre-tarifas-de-reciprocidade-contra-eua/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3880,18 +3898,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Para marcar a data de 5 anos do programa, os ex-apresentadores do Liga de FIIs relembraram momentos da história da indústria e da atração \nThe post Liga de FIIs completa 5 anos: o que o investidor aprendeu – e ainda precisa aprender appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Missão aponta falhas no sistema do TSE e pede investigação sobre filiação de Flávio Bolsonaro ao partido",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/14/renan-santos-aciona-tse.ghtml",
-    "description": "TSE diz que credenciado do Missão filiou Flávio ao partido e nega ataque hacker\nO candidato à Presidência da República pelo Missão, Renan Santos, enviou uma representação em nome do partido ao Tribunal Superior Eleitoral (TSE), no qual afirma que falhas no sistema da Corte Eleitoral permitiram a filiação indevida de Flávio Bolsonaro (PL-RJ) à legenda, e pede uma investigação do caso.\n➡️Nessa quinta-feira (13), o senador Flávio Bolsonaro não conseguiu registrar sua candidatura à Presidência da República ao aparecer filiado ao partido Missão nos registros da Justiça Eleitoral.\n➡️Em nota, o TSE negou que os sitemas da Corte Eleitoral tenham sido alvos de um ataque hacker, e afirmou que uma pessoa com credencial do Missão filiou Flávio Bolsonaro. \n➡️Horas depois, o presidente do TSE, ministro Kassio Nunes Marques, determinou o restabelecimento da filiação ao PL e decidiu que deve ser excluído do histórico partidário o vínculo com o Partido Missão. Ele também suspendeu o sistema de filiação partidária. \nRenan Santos durante ato de lançamento da candidatura à Presidência, em SP\nReprodução\nAinda na quinta-feira (13), o Missão compartilhou com jornalistas um documento feito pela área de tecnologia do partido. Nele, informou os dados que foram usados pela pessoa, ainda desconhecida, que filiou Flávio ao Missão. Consta o endereço do candidato como \"Rua Dos Bandidos, n° 666, Bairro Miliciano, Rio de Janeiro/RJ\".\nNesta sexta-feira (14), Renan Santos enviou a representação ao TSE. No documento, a legenda afirma que considera ter sido vítima de fraude, já que a filiação de Flávio teria sido realizada sem autorização ou confirmação da legenda.\nDe acordo com o Missão, dados falsos e divergentes foram inseridos no sistema de filiação partidária e, posteriormente, validados pelo sistema do TSE.\nNa representação, a legenda reconhece que houve uma falha em seu sistema de filiação, mas afirma que não houve conduta dolosa (com intenção) por parte de seus membros ou dirigentes autorizados a processar filiações junto à Justiça Eleitoral. \nSegundo o partido, uma sucessão de falhas nos mecanismos de controle permitiu que criminosos se aproveitassem do sistema.\nBoletim de ocorrência\nO Missão também destacou no documento que, assim que soube do ocorrido, adotou medidas para apurar a alteração e comunicou os fatos à Corte eleitoral. Além disso, registrou um boletim de ocorrência junto à Polícia Federal.\nNo documento, também alega que o setor técnico do partido conseguiu recuperar os dados utilizados no cadastro da filiação de Flávio. Segundo a representação, o CPF e o endereço registrados no sistema foram adulterados.\nO TSE também afirmou que identificou tentativas de alteração de partido de outros candidatos à Presidencia, como o presidente Luiz Inácio Lula da Silva (PT), mas a troca não chegou a ser efetivada.\n🗓️O prazo para que os candidatos às eleições gerais de outubro se filiassem ao partido pelo qual vão concorrer ao pleito terminou em 4 de abril. A exigência é uma das condições de elegibilidade previstas na legislação eleitoral e se aplica tanto para cargos majoritários, como presidente e senador, quanto para proporcionais, como deputados e vereadores.",
-    "published": "2026-08-14T14:27:33+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "TSE diz que credenciado do Missão filiou Flávio ao partido e nega ataque hacker\nO candidato à Presidência da República pelo Missão, Renan Santos, enviou uma representação em nome do partido ao Tribunal Superior Eleitoral (TSE), no qual afirma que falhas no sistema da Corte Eleito",
     "relevance": 5
   }
 ]
