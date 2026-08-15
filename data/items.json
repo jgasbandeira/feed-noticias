@@ -1,5 +1,17 @@
 [
   {
+    "source": "G1 - Política",
+    "title": "Discord pede revogação da suspensão de lives e diz não conseguir cumprir prazo da ANPD",
+    "link": "https://g1.globo.com/politica/noticia/2026/08/15/discord-pede-revogacao-da-suspensao-de-lives-e-diz-nao-conseguir-cumprir-prazo-da-anpd.ghtml",
+    "description": "A plataforma Discord enviou um ofício à Agência Nacional de Proteção de Dados (ANPD) no qual pediu ao órgão federal que revogue a determinação de suspensão da ferramenta que permite transmissões ao vivo na rede. \nNo documento enviado nesta sexta-feira (14), a empresa afirma que não consegue cumprir o prazo, de três dias úteis, para suspender transmissões ao vivo.\nA decisão da ANPD foi tomada em meio à repercussão do caso em que uma menina de 13 anos cometeu suicídio em uma transmissão vivo na plataforma, o que gerou reações por parte do governo federal e até uma operação policial de combate a crimes contra crianças e adolescentes.\nApós aviso da polícia, Discord demorou 25 minutos para derrubar live que vitimou menina\n\"A plataforma vem sendo utilizado de forma recorrente como ambiente para a prática de graves violações contra crianças e adolescentes, episódios nos quais as lives têm sido reiteradamente empregadas em práticas de violência, assédio, indução à automutilação e ao suicídio”, alegou a ANPD ao tomar a medida.\n➡️Na última quarta-feira (12), a ANPD determinou a suspensão das transmissões ao vivo do Discord em território brasileiro. Isso não significa a suspensão da plataforma, a decisão atingiu apenas a ferramenta de 'lives'.\nEm um dos documentos enviados à agência, o Discord pediu à ANPD que “reconsidere o Despacho Decisório nº 3/2026/SFI e revogue a medida preventiva, à luz dos elementos ora juntados aos autos, inclusive a Resposta ao Ofício nº 16/2026 protocolada nesta data, sem prejuízo do prosseguimento da instrução deste processo de fiscalização, no qual a Discord seguirá cooperando integralmente”\nO despacho citado pela plataforma “determina [...] a suspensão, em relação aos usuários localizados no território nacional, da funcionalidade 'Go Live' e de quaisquer outros recursos de transmissão e compartilhamento de vídeo funcionalmente equivalentes”.\n💻O Discord é uma plataforma de comunicação amplamente utilizada por jogadores de games online e também por adolescentes. A empresa tem sido alvo de críticas e investigações relacionadas a falhas na moderação de conteúdo e na verificação da idade dos usuários.\nNa noite desta sexta (14), a plataforma enviou à ANPD os esclarecimentos demandados pela agência após a determinação de suspensão das transmissões ao vivo da plataforma no Brasil.\nDiscord\nIvan Radic/Flickr\nNo documento, o aplicativo afirma que atua continuamente para que o ambiente digital seja seguro e saudável, rechaçando qualquer prática de violência, automutilação ou incitação a atos lesivos\".\nEntre os argumentos apresentados à agência, o Discord alega que a criptografia impediu bloqueio de conteúdo, e diz que análises técnicas apontam que o \"ato final de suicídio não ocorreu na plataforma\", sobre o caso da adolescente de 13 anos.",
+    "published": "2026-08-15T20:19:16+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A plataforma Discord enviou um ofício à Agência Nacional de Proteção de Dados (ANPD) no qual pediu ao órgão federal que revogue a determinação de suspensão da ferramenta que permite transmissões ao vivo na rede. \nNo documento enviado nesta sexta-feira (14), a empresa afirma que n",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Jucá registra candidatura a deputado federal após decisões judiciais",
     "link": "https://www.poder360.com.br/poder-eleicoes-2026/juca-registra-candidatura-a-deputado-federal-apos-decisoes-judiciais/",
@@ -121,7 +133,13 @@
       "Mercado Financeiro"
     ],
     "summary": "TRE leva urna eletrônica para shoppings de São Luís para realizar simulações das eleições\nA declaração de bens dos candidatos à Presidência da República ao Tribunal Superior Eleitoral (TSE) mostra um cenário de extremos financeiros entre os postulantes. No topo da lista, o estrea",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/15/com-quatro-fortunas-acima-de-r-50-milhoes-veja-o-patrimonio-de-todos-os-candidatos-a-presidencia-da-republica.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3890,18 +3908,6 @@
       "Mercado Financeiro"
     ],
     "summary": "O Tribunal Superior Eleitoral (TSE) vai discutir na terça-feira (18) uma possível proibição ampla do uso de deepfakes na campanha eleitoral e as punições para casos de descumprimento das regras. \nO encontro chegou a ser marcado para quinta-feira (13) a pedido do presidente da Cor",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "OpenAI dobra receita e ultrapassa US$ 40 bilhões, se preparando para IPO",
-    "link": "https://www.infomoney.com.br/mundo/openai-dobra-receita-e-ultrapassa-us-40-bilhoes-se-preparando-para-ipo/",
-    "description": "Impulsionada por software de programação com IA e assinaturas, empresa acelera crescimento e reforça planos de estreia em Wall Street\nThe post OpenAI dobra receita e ultrapassa US$ 40 bilhões, se preparando para IPO appeared first on InfoMoney.",
-    "published": "2026-08-14T14:45:09+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Impulsionada por software de programação com IA e assinaturas, empresa acelera crescimento e reforça planos de estreia em Wall Street\nThe post OpenAI dobra receita e ultrapassa US$ 40 bilhões, se preparando para IPO appeared first on InfoMoney.",
     "relevance": 5
   }
 ]
