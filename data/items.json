@@ -523,7 +523,13 @@
       "Politica"
     ],
     "summary": "Os candidatos a governador em Minas Gerais Patrus Ananias (PT) e Flávio Roscoe (PL) decidiram apoiar os candidatos à presidência da República no primeiro dia de campanha eleitoral.\n\nPatrus participa do evento de lançamento de campanha do presidente Luiz Inácio Lula da Silva (PT),",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/08/16/candidatos-ao-governo-de-goias-iniciam-campanha-eleitoral-veja-como-foi-o-primeiro-dia.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
