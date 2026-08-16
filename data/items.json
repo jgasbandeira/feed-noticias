@@ -1,6 +1,33 @@
 [
   {
     "source": "O Globo",
+    "title": "Fitch eleva nota de crédito do município do Rio de Janeiro a ‘AAA’",
+    "link": "https://oglobo.globo.com/economia/noticia/2026/08/15/fitch-eleva-nota-de-credito-do-municipio-do-rio-de-janeiro-a-aaa.ghtml",
+    "description": "A Fitch Ratings, agência de classificação de risco, elevou a nota de crédito nacional de longo prazo do município do Rio de Janeiro para “AAA”, o grau de investimento de mais alta qualidade. Anteriormente, a classificação era “AA+”. A perspectiva é estável. Já a pontuação do Perfil de Crédito Individual (PCI) — indicador de saúde financeira sem considerar apoios externos  — avançou de “BB” para “BB+”, de risco  “médio a baixo”, também com perspectiva estável.\nA agência destacou que o Rio de Janeiro apresenta, nos últimos anos, “melhoras consistentes na gestão fiscal”, que trouxe “sólidas margens operacionais e robustos indicadores de liquidez”. Na avaliação da Fitch, a dívida municipal será gradualmente reduzida, apontando que pagamentos de amortizações serão provavelmente “um pouco mais elevados” do que novos empréstimos contratados.\nA nota de crédito funciona como uma espécie de termômetro das contas públicas, apontando a capacidade do município de honrar seus compromissos financeiros, considerando a comparação com outros entes dentro do Brasil. É uma referência central para atração de investidores estrangeiros.\nRio e São Paulo\n“No Brasil, o par mais próximo do Rio é o Estado de São Paulo (São Paulo, IDRs BB e Rating Nacional de Longo Prazo AAA(bra), todos com Perspectiva Estável), uma vez que ambos apresentam perfil de risco ‘Médio a Baixo’ e perfil financeiro ‘a’”, diz a Fitch. No entanto, acrescenta a agência, o índice de payback (o prazo para o retorno de um investimento inicial) do Rio, “que é menos pressionado e situa-se no patamar superior da categoria ‘AA’, explica por que seu PCI está um grau acima do de São Paulo”.\nEm paralelo, a agência afirmou os ratings de inadimplência em moeda estrangeira e local (IDRs) em “BB”, com perspectiva estável, no longo prazo, e “B”, no curto prazo. Neste último caso, sinaliza uma capacidade elevada de pagamento, embora com maior vulnerabilidade a mudanças desfavoráveis na economia.\nA classificação nacional de curto prazo é  F1+(bra), também mais alto grau na escala nacional do país. Ela reflete a capacidade do Rio pagar dívidas e outros compromissos em até 12 meses. No Brasil, a nota dos governos locais e regionais tem a limitação de não poder ficar acima do rating soberano do Brasil, que é de “BB”, com perspectiva estável.\nPerfil de risco ‘médio a baixo’\nA avaliação do perfil de risco ‘médio a baixo’ tem algumas componentes. Pesa a favor do município, a autonomia fiscal moderada, com baixa dependência de transferências do governo federal e exposição a receitas voláteis, a exemplo de royalties de petróleo e gás.\nAs receitas operacionais do Rio têm origem tributária, somando 42,3$ do total no ano passado. Mais de três quartos (77%) da arrecadação de 2025 vieram via ISS e IPTU. “Enquanto o ISS está fortemente vinculado à atividade econômica e tem crescido acima da inflação nos últimos anos, o IPTU é mais estável, por incidir sobre a propriedade de imóveis urbanos e ser pago anualmente”, diz a Fitch.",
+    "published": "2026-08-16T01:06:33+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "A Fitch Ratings, agência de classificação de risco, elevou a nota de crédito nacional de longo prazo do município do Rio de Janeiro para “AAA”, o grau de investimento de mais alta qualidade. Anteriormente, a classificação era “AA+”. A perspectiva é estável. Já a pontuação do Perf",
+    "relevance": 5
+  },
+  {
+    "source": "Brazil Journal",
+    "title": "Em Minas, o PIB já tem candidato. Agora faltam os votos",
+    "link": "https://braziljournal.com/em-minas-o-pib-ja-tem-candidato-agora-faltam-os-votos/",
+    "description": "Não é de hoje que a eleição para o governo de Minas promete uma disputa rasteira, com foco nos arranjos nacionais e o futuro do estado em segundo plano – mas o senador Cleitinho Azevedo levou a coisa a um outro patamar. Líder nas pesquisas de intenção de voto, o político do Republicanos sequestrou o [&#8230;]\nThe post Em Minas, o PIB já tem candidato. Agora faltam os votos appeared first on Brazil Journal.",
+    "published": "2026-08-16T01:00:04+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Não é de hoje que a eleição para o governo de Minas promete uma disputa rasteira, com foco nos arranjos nacionais e o futuro do estado em segundo plano – mas o senador Cleitinho Azevedo levou a coisa a um outro patamar. Líder nas pesquisas de intenção de voto, o político do Repub",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
     "title": "Inelegível, Pablo Marçal pode repetir candidatura relâmpago de Silvio Santos em 1989",
     "link": "https://oglobo.globo.com/blogs/bernardo-mello-franco/post/2026/08/inelegivel-pablo-marcal-pode-repetir-candidatura-relampago-de-silvio-santos-em-1989.ghtml",
     "description": "Pablo Marçal está de volta. O coach que sacudiu a última eleição para prefeito de São Paulo agora quer ser presidente da República. Registrou sua candidatura neste sábado, sem aviso prévio e a poucas horas do fim do prazo legal. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
@@ -1125,7 +1152,13 @@
       "Politica"
     ],
     "summary": "Diferentes gerações se enfrentam nas eleições deste ano no Rio de Janeiro. A candidata mais nova ao cargo de deputada estadual, Quezia Souza (Avante), tem 20 anos, enquanto o concorrente ao mesmo cargo, Jorge Coutinho (DC), soma 91 anos e propõe usar a experiência da idade para d",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-eleicoes-2026/eleicoes-de-2026-tem-20-438-candidatos-no-fim-do-registro/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3403,7 +3436,13 @@
       "Politica"
     ],
     "summary": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), apontou \"interferência indevida\" do senador Weverton Rocha (PDT-MA) em um processo relacionado ao assassinato de um empresário em São Luís, capital do Maranhão. A decisão cita trocas de mensagens, telefonemas e reuniões d",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/08/14/inquerito-relatado-por-dino-apura-se-senador-weverton-rocha-atrapalhou-investigacao-de-homicidio.ghtml"
+      }
+    ]
   },
   {
     "source": "InfoMoney",
@@ -3874,30 +3913,6 @@
       "Economia"
     ],
     "summary": "Brasil abre processo de reciprocidade contra tarifaço dos EUA\nA Federação das Indústrias do Estado de Minas Gerais (FIEMG) alertou nesta sexta-feira (14) que uma escalada de retaliações comerciais entre Brasil e Estados Unidos pode aumentar os custos de produção, afetar investime",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Retaliar os EUA não faz sentido do ponto de vista econômico, comercial nem eleitoral, diz Graça Lima, ex-negociador do Brasil",
-    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/08/retaliar-os-eua-nao-faz-sentido-do-ponto-de-vista-economico-comercial-nem-eleitoral-diz-graca-lima-ex-negociador-do-brasil.ghtml",
-    "description": "Retaliar os Estados Unidos não faz sentido do ponto de vista econômico, comercial nem eleitoral, avalia o ex-embaixador José Alfredo Graça Lima, principal negociador comercial do Brasil entre 1998 e 2002. Na avaliação dele, não há ganho eleitoral se a medida causar prejuízos adicionais às empresas brasileiras, além dos já provocados pelas tarifas americanas. Acionar a Lei da Reciprocidade Econômica, no entanto, não significa, neste primeiro momento, retaliar os Estados Unidos, explica Graça Lima. Na sua visão, a medida pode ser uma estratégia para abrir um novo caminho de negociação e mostrar à opinião pública que o governo não está parado. No entanto, pode ser inócua. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-08-14T15:09:10+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Retaliar os Estados Unidos não faz sentido do ponto de vista econômico, comercial nem eleitoral, avalia o ex-embaixador José Alfredo Graça Lima, principal negociador comercial do Brasil entre 1998 e 2002. Na avaliação dele, não há ganho eleitoral se a medida causar prejuízos adic",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Lula promete 'salto de qualidade' no país, com foco nos investimentos em educação",
-    "link": "https://valor.globo.com/politica/noticia/2026/08/14/lula-promete-salto-de-qualidade-no-pais-com-foco-nos-investimentos-em-educacao.ghtml",
-    "description": "O presidente Luiz Inácio Lula da Silva (PT) afirmou, nesta sexta-feira (14), que será candidato à Presidência da República para “dar um salto de qualidade no Brasil”, com foco nos investimentos em educação. O petista disse ainda estar “muito otimista” com o próximo mandato, que pode ser seu quarto à frente do Palácio do Planalto.\n“Eu sou candidato à Presidência da República porque acho que temos que dar um salto de qualidade no Brasil. Eu quero agora levar o Brasil ao padrão dos países altamente desenvolvidos e [isso] começa pela educação. Não há exemplo no mundo de qualquer país que tenha se desenvolvido, sem antes investir na educação. Esse é um sonho meu e uma coisa que eu quero fazer”, disse Lula, em entrevista aos podcasts Não Inviabilize e As Cunhãs.\nComo segunda prioridade, Lula citou o fortalecimento da soberania e da defesa nacional. Segundo o presidente, o cenário internacional está “muito nervoso” e há “muita encrenca no mundo”. Ele afirmou que o Brasil precisa proteger suas fronteiras marítimas e terrestres, além de ampliar a atenção sobre terras raras e minerais críticos.\nSobre a exploração de terras raras, Lula afirmou que o Brasil não deve se limitar a extrair os recursos e vendê-los como commodities. “Queremos transformá-las, não queremos vendê-las, queremos fazer as coisas aqui para colocar valor agregado”, disse.\nAs terras raras e os minerais críticos ganharam relevância estratégica diante da disputa comercial e tecnológica entre Estados Unidos e China, países que buscam ampliar o controle sobre cadeias de fornecimento desses recursos.",
-    "published": "2026-08-14T15:07:57+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O presidente Luiz Inácio Lula da Silva (PT) afirmou, nesta sexta-feira (14), que será candidato à Presidência da República para “dar um salto de qualidade no Brasil”, com foco nos investimentos em educação. O petista disse ainda estar “muito otimista” com o próximo mandato, que p",
     "relevance": 5
   }
 ]
