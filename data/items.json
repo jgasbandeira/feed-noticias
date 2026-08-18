@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "Caiado anuncia Afif para ministério de pequenos negócios",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/caiado-anuncia-afif-para-ministerio-de-pequenos-negocios/",
+    "description": "Ex-ministro de Dilma e atual secretário de Tarcísio aceitou convite para integrar eventual governo do candidato do PSD",
+    "published": "2026-08-18T23:36:06+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Ex-ministro de Dilma e atual secretário de Tarcísio aceitou convite para integrar eventual governo do candidato do PSD",
+    "relevance": 5
+  },
+  {
     "source": "CNBC",
     "title": "What Chinese liquor maker Moutai's slump says about the country's economy",
     "link": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html",
@@ -160,7 +172,13 @@
       "Politica"
     ],
     "summary": "O presidente Luiz Inácio Lula da Silva (PT) divulgou nesta terça-feira (18) um vídeo em que faz um apelo ao Congresso Nacional para que aprove a medida provisória (MP) que acaba com o imposto de importação de 20% sobre compras internacionais de até US$ 50, a chamada taxa das blus",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/18/lula-pressiona-congresso-e-diz-estar-convencido-que-fim-da-taxa-das-blusinhas-sera-aprovado.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -469,7 +487,13 @@
       "Politica"
     ],
     "summary": "Juiz é afastado pelo CNJ após beber vinho e fumar durante julgamento\nO Conselho Nacional de Justiça (CNJ) ratificou a decisão do Corregedor Nacional de Justiça, Mauro Campbell, que afastou o juiz Milton Lívio Lemos Salles, flagrado bebendo vinho e fumando durante uma sessão virtu",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/08/18/cnj-confirma-afastamento-de-juiz-que-bebeu-e-fumou-durante-sesso-de-julgamento.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3906,18 +3930,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Arte/Valor\nA elite das empresas que adotam inovação como parte da estratégia vem reforçando seu empenho nessa área. Entre as 20 companhias mais inovadoras do país, a parcela que investe mais de 5% da receita líquida no setor passou de 45% para 80%, das contas apuradas em 2025 par",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "A ciência dos resultados das empresas inovadoras",
-    "link": "https://valor.globo.com/inovacao/noticia/2026/08/18/a-ciencia-dos-resultados-das-empresas-inovadoras.ghtml",
-    "description": "Amanda Graciano, economista, socia e CEO da consultoriaTrama e professora da Fundação Dom Cabral: \"Empresas brasileiras sabem operar em contextos de restrição. Bem direcionada, essa habilidade vira vantagem”\nFlavio Ferreira/Divulgação\nO conhecimento básico sobre inovação e suas vantagens estão bem difundidos pelo mercado — mas colocá-lo em prática permanece um desafio. Hoje, o que separa as empresas que avançam em inovação das demais é a capacidade de transformar o conhecimento em resultados concretos. Essa característica marca as primeiras colocadas na edição 2026  da pesquisa Valor Inovação Brasil, uma iniciativa do Valor e de Época Negócios, em parceria com a consultoria Strategy&, da PwC. Segundo os jurados que participam do projeto, as companhias bem avaliadas contam com uma estrutura organizacional sólida e processos bem estabelecidos. Chegar a um estágio assim exige persistência, experimentação, erros e correções. “A evolução fez com que essas companhias pudessem deixar para trás iniciativas pontuais ou intuitivas para consolidar a inovação como capacidade estratégica, sustentada por visão de longo prazo, governança, orçamento dedicado e mecanismos claros de medição de valor”, afirma Hugo Tadeu, diretor de inovação e IA da Fundação Dom Cabral (FDC). “A visão romântica cedeu espaço a um modelo de gestão baseado na ambidestria organizacional, que combina busca por eficiência com retorno econômico de curto prazo”, diz.\nA análise decorre da avaliação do conjunto de casos e dados apresentados pelas companhias participantes da pesquisa. Pela metodologia de Valor Inovação Brasil, essa avaliação fica a cargo de um júri, composto por quatro especialistas em inovação, com visões complementares. Em 2026, esse grupo é formado por Amanda Graciano, sócia e CEO da Trama; Dora Kaufman, professora da PUC-SP; Hugo Tadeu, da FDC; e Luiz Serafim,  sócio-diretor da Inspira Move e professor da FGV.\nOutro aspecto observado pelos especialistas é que o tema da inovação, no universo avaliado, deixou de ser associado estritamente a tecnologia (um equívoco antigo e persistente no mercado). Essas organizações, hoje, associam o esforço inovador a iniciativas em geral voltadas a questões variadas, como eficiência operacional, sustentabilidade, experiência do cliente, desenvolvimento de novos produtos e transformação do modelo operacional — nenhuma delas dependente da adoção ou criação de novas tecnologias.\nDora Kaufman, engenheira e economista, pós doutora em tecnologias de inteligência e design digital e professora da PUC-SP: \"IA acelera os processos de P&amp;D, mas esses sistemas requerem monitoramento contínuo dos riscos”\nDivulgação\nA maturidade observada nas vencedoras da pesquisa, no entanto, ainda está longe de representar a realidade da maioria das grandes companhias brasileiras — e o quadro piora no universo das médias e pequenas. Na visão da jurada Amanda Graciano, da Trama, há mais consciência sobre o assunto, repertório tecnológico e pressão competitiva. Ainda assim, muitas encontram dificuldades para converter intenção em execução consistente. “O Brasil tem forças importantes: mercado interno forte, boa base científica, instrumentos de fomento e setores com capacidade de resolver problemas complexos. Mas existe uma distância entre falar em disrupção e fazer com que ela chegue à essência do negócio”, diz. Para a consultora, as organizações dispostas a mudar precisam abandonar o hábito de tratar inovações como projetos complementares ou laterais. Em vez disso, precisam embutir o esforço em seus processos, como uma capacidade permanente.\nPara o jurado Luiz Serafim, da FGV, existe uma dicotomia no cenário empresarial brasileiro. “De um lado, há corporações com atuação internacional que promovem mudanças relevantes em seus mercados, competindo em setores vitais como sistema financeiro, agropecuária de precisão, serviços públicos digitais e saúde”, afirma o especialista. Esse ecossistema, diz, encontra apoio num ecossistema com venture capital e instituições de ensino e pesquisa de boa qualidade. Por outro lado, prossegue Serafim, persistem desafios estruturais muito básicos. “Tendo em mente que a inovação é um processo de criação de valor, é frustrante perceber os baixos índices de produtividade da economia, a persistência da burocracia, os custos elevados para empreender, as estratégias ainda frágeis das companhias e a dependência do país de atores externos, em relação a tecnologias críticas para o futuro. Há um longo caminho a percorrer”, afirma.\nEntre as tecnologias que vêm transformando a agenda de inovação, poucas tiveram tanto impacto quanto a inteligência artificial (IA). “A IA acelera os processos de P&amp;D, permite análise de grandes volumes de dados, simulações e descobertas de padrões que os humanos levariam muito tempo para identificar, ou nem conseguiriam”, afirma a jurada Dora Kaufman, da PUC-SP.\nLuiz Serafim, administrador de empresas, sócio-diretor da Inspira Move e professor da FGV: “Cultura inovadora não é um tema abstrato. É incentivo,  orçamento e governança”\nDivulgação\nDe acordo com a especialista, esse avanço ficou evidente nas empresas analisadas na edição 2026 da pesquisa. Em comparação com o ano anterior, elas demonstraram maior maturidade no uso de IA, com aplicações mais alinhadas aos desafios do negócio e resultados mais consistentes. A tendência é que a tecnologia se incorpore à cadeia operacional, independentemente do setor de atividade. O movimento, porém, exige mudanças profundas na gestão. “Com a IA, passamos a trabalhar com sistemas programados para operar com modelos probabilísticos, que aprendem continuamente a partir de novos dados. Isso requer monitoramento contínuo dos riscos, já que o comportamento desses sistemas pode mudar à medida que recebem novas informações”, alerta. \nPara tirar proveito desses modelos, diz a especialista, é necessário investir em dados de qualidade, infraestrutura adequada, capacitação, revisão de processos, definição de estruturas de governança e incorporação desses investimentos às análises de retorno sobre o investimento (ROI).\nApesar dos desafios estruturais, os quatro jurados avaliam que as empresas brasileiras participantes da pesquisa se destacam pela capacidade de resolver problemas complexos em ambientes adversos. Para Graciano, o principal diferencial está na velocidade da adaptação. “As corporações brasileiras sabem operar em contextos de restrição, volatilidade e complexidade regulatória. Quando bem direcionada, essa habilidade vira vantagem competitiva. O desafio é usar essa criatividade com método, escala e resultado recorrente”, afirma. Na visão de Serafim, a combinação entre adaptabilidade e criatividade pode ajudar a posicionar bem o país em áreas estratégicas como bioeconomia, segurança alimentar, engenharia de alta complexidade e saúde pública.\nHugo Tadeu,engenheiro, diretor de inovação  e IA da Fundação Dom Cabral  e pesquisador na  Universidade da  Colúmbia Britânica: “A evolução fez essas companhias consolidarem inovação como capacidade estratégica”\nFernando Braz/Divulgação\n“A inovação, cada vez mais, reflete processos estruturados e equipes preparadas para transformar ideias em soluções que gerem valor para a organização e a sociedade”, diz Tadeu, da FDC. Na prática, os melhores resultados vêm da combinação entre comprometimento, conhecimento técnico e colaboração, diz o especialista. Passam também pela capacidade das empresas em desenvolver uma cultura favorável ao intraempreendedorismo, à tolerância ao erro e ao desenvolvimento permanente de competências. \nSegundo Graciano, é nesse ponto que muitos negócios se perdem. “Querem inovar sem mudar a forma como decidem, medem e lideram. Buscam novidades, mas mantêm processos pensados para evitar qualquer tipo de risco. Isso trava a experimentação, ponto crucial para inovar. “Cultura, nesse caso, não é um tema abstrato. É incentivo, orçamento e governança.” \nPara estabelecer esse tipo de cultura, diz Serafim, os líderes devem entender que o retorno virá quando houver orientação estratégica e aprendizagem contínua, aliadas à orquestração de capacidades tecnológicas e gerenciais. “Um líder inovador não é necessariamente quem tem a ideia mais brilhante. É quem cria as condições para a organização aprender mais rápido, sabe fazer boas perguntas, escolhe problemas relevantes, protege o aprendizado e conecta inovação ao core do negócio”, completa Amanda.",
-    "published": "2026-08-18T08:12:34+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Amanda Graciano, economista, socia e CEO da consultoriaTrama e professora da Fundação Dom Cabral: \"Empresas brasileiras sabem operar em contextos de restrição. Bem direcionada, essa habilidade vira vantagem”\nFlavio Ferreira/Divulgação\nO conhecimento básico sobre inovação e suas v",
     "relevance": 5
   }
 ]
