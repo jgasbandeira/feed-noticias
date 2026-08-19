@@ -1546,7 +1546,13 @@
       "Politica"
     ],
     "summary": "O ex-ministro da Fazenda e candidato ao governo de São Paulo, Fernando Haddad (PT), estreou como entrevistado de uma série de sabatinas do GLOBO, CBN e Valor na manhã desta quarta-feira (19), em São Paulo. O postulante defendeu a continuidade das investigações contra Fábio Luís, ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/19/veja-o-que-e-fato-ou-fake-na-entrevista-de-fernando-haddad-ao-globo-valor-e-cbn.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
