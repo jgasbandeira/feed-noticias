@@ -1,5 +1,17 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "China endurece controles de fronteira após compra de startup de IA pela Meta",
+    "link": "https://valor.globo.com/mundo/noticia/2026/08/19/china-endurece-controles-de-fronteira-aps-compra-de-startup-de-ia-pela-meta.ghtml",
+    "description": "O governo da China reforçou os controles de entrada e saída para evitar vazamentos de dados, inteligência artificial (IA) e outras tecnologias avançadas, com regras previstas para entrar em vigor em 15 de setembro.\n\nO Conselho de Estado, principal órgão administrativo da China, anunciou regulamentações mais rígidas sobre o controle de imigração, inclusive para cidadãos que deixam o país.\n\nAs normas permitem que as autoridades impeçam a saída de cidadãos caso violem controles de exportação de tecnologia ou outros produtos, ou se a sua partida representar um risco para a segurança industrial ou tecnológica do país.\n\nEstrangeiros também enfrentarão controles de entrada mais rigorosos. A entrada pode ser negada a indivíduos provenientes de países sujeitos a restrições destinadas a contrapor sanções impostas por outras nações.\n\nEspera-se também que as autoridades possam restringir a emissão de vistos ou a entrada de pessoas associadas a empresas constantes na lista de \"entidades não confiáveis\" de Pequim.\n\nAs autoridades de imigração poderão exigir documentação, incluindo dados eletrônicos, durante as fiscalizações.\n\nEm maio, dois funcionários japoneses do grupo Fuji Electric foram detidos em Dalian, na província de Liaoning, sob suspeita de violar regulamentos relacionados à exportação de terras raras, o que gerou preocupação entre cidadãos japoneses que fazem negócios no país.\n\nO governo também estabeleceu regras para investimentos no exterior, que entraram em vigor em 1º de julho. As normas proíbem investidores de utilizar ou levar consigo tecnologias ou dados sujeitos a restrições de exportação e incluem disposições para a criação de um sistema de análise desses investimentos.\n\nAcredita-se que esse endurecimento das medidas seja, em parte, uma resposta a uma iniciativa da Meta Platforms (empresa controladora do Facebook), que anunciou a intenção de adquirir a Manus, uma desenvolvedora chinesa de inteligência artificial.\n\nA Manus foi fundada em Pequim em 2022, mas transferiu-se para Cingapura em 2025. Menos de um ano depois, a Meta, sediada nos Estados Unidos, anunciou a aquisição da empresa especializada em inteligência artificial de agentes autônomos por cerca de US$ 2 bilhões.\n\nEm março, o governo chinês proibiu os fundadores e executivos da Manus de deixar o país, segundo reportagem do “Financial Times”. Em abril, o governo ordenou o desfazimento da aquisição.\n\nO caso da Manus parece ter sido um exemplo do que vem sendo chamado de \"Singapore washing\" (lavagem de origem via Cingapura, em tradução livre) para contornar o controle chinês. Uma série de casos semelhantes parece ter levado o governo a impor restrições mais severas relacionadas à tecnologia de inteligência artificial e a dados.\n\nO mais recente plano quinquenal da China, finalizado em março, visa tornar o país mais forte e autossuficiente em ciência e tecnologia. O plano envolve acelerar o desenvolvimento em áreas como inteligência artificial, chips e terras raras, incluindo a criação de cadeias de suprimentos imunes a sanções dos Estados Unidos.\n\nA China tem atualizado continuamente sua lista de tecnologias sujeitas a restrições e proibições de exportação — instituída originalmente em 2001 —, incluindo a adição de elementos de terras raras e inteligência artificial. O governo busca eliminar brechas que dependam de pessoas e capital.",
+    "published": "2026-08-19T03:19:23+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "O governo da China reforçou os controles de entrada e saída para evitar vazamentos de dados, inteligência artificial (IA) e outras tecnologias avançadas, com regras previstas para entrar em vigor em 15 de setembro.\n\nO Conselho de Estado, principal órgão administrativo da China, a",
+    "relevance": 5
+  },
+  {
     "source": "Metro Quadrado",
     "title": "RJ da Casas Bahia: a fatura também chegou para os FIIs",
     "link": "https://metroquadrado.com/comercial/rj-da-casas-bahia-a-fatura-tambem-chegou-para-os-fiis",
@@ -9,6 +21,19 @@
       "Fundos Imobiliarios"
     ],
     "summary": "A recuperação judicial da Casas Bahia está respingando no mercado de fundos imobiliários. Há pelo menos 10 FIIs na lista de credores da varejista, com dívidas que variam entre R$ 673 mil e R$ 9 milhões, segundo apurou o Metro Quadrado.",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Risco de Super El Niño exige mais presteza dos governos estaduais",
+    "link": "https://oglobo.globo.com/opiniao/editorial/coluna/2026/08/risco-de-super-el-nino-exige-mais-presteza-dos-governos-estaduais.ghtml",
+    "description": "Expirou em 7 de agosto o prazo para que os estados enviassem ao governo federal seus planos de prevenção contra a temporada de incêndios florestais deste ano, que promete ser forte como resultado do Super El Niño que se anuncia. Apenas Pará e Amazonas enviaram o planejamento ao Ministério do Meio Ambiente (MMA). Apesar de outros estados já terem anunciado medidas preventivas relacionadas ao fenômeno climático — caso de Acre, Espírito Santo, Rio Grande do Sul e Rio de Janeiro —, a omissão na comunicação dificulta o alinhamento das ações federais com o resto do país. Mais uma vez, o poder público reage de forma lenta para se prevenir. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-08-19T03:09:08+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Expirou em 7 de agosto o prazo para que os estados enviassem ao governo federal seus planos de prevenção contra a temporada de incêndios florestais deste ano, que promete ser forte como resultado do Super El Niño que se anuncia. Apenas Pará e Amazonas enviaram o planejamento ao M",
     "relevance": 5
   },
   {
@@ -3918,30 +3943,6 @@
       "Politica"
     ],
     "summary": "O Estreito de Ormuz permanecerá fechado até que os Estados Unidos cumpram as condições de um acordo provisório firmado com o Irã em junho, afirmou o principal negociador iraniano, Mohammad Baqer Qalibaf, em declarações divulgadas pela mídia estatal nesta terça-feira.\nLeia também:",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Orizon aumenta participação na Ecourbis para 69,1% após operação de R$ 69,2 mi",
-    "link": "https://valor.globo.com/empresas/noticia/2026/08/18/orizon-aumenta-participacao-na-ecourbis-para-691percent-apos-operacao-de-r-692-mi.ghtml",
-    "description": "A Orizon anunciou nesta terça-feira (18) que aumentou sua participação na Ecourbis, empresa que detém os serviços de coleta, transporte e destinação final de resíduos sólidos urbanos na cidade de São Paulo, de 63,3% para 69,1%.\n\nO valor atribuído à participação adquirida é de R$ 69,2 milhões, pago de forma parcelada e corrigido pelo IPCA, com a Marquise Ambiental e a S/A Paulista permanecendo como acionistas na Ecourbis após a operação.\n\nEm 2025, a Ecourbis registrou receita líquida de R$ 1,31 bilhão, Ebitda de R$ 542,7 milhões e lucro líquido de R$ 386,9 milhões, com posição de caixa líquido de R$ 442,1 milhões, afirma a Orizon.\n\n“A transação insere-se na estratégia de simplificação da estrutura societária da OrizonVR e amplia a exposição da companhia a um de seus ativos mais relevantes”, diz, em comunicado.\nEcourbis\nReprodução/Facebook Ecourbis",
-    "published": "2026-08-18T11:26:30+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "A Orizon anunciou nesta terça-feira (18) que aumentou sua participação na Ecourbis, empresa que detém os serviços de coleta, transporte e destinação final de resíduos sólidos urbanos na cidade de São Paulo, de 63,3% para 69,1%.\n\nO valor atribuído à participação adquirida é de R$ ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "LinqAlpha, apoiada pela Samsung, quer sanar desconfiança em IA",
-    "link": "https://valor.globo.com/empresas/noticia/2026/08/18/linqalpha-apoiada-pela-samsung-quer-sanar-desconfiana-em-ia.ghtml",
-    "description": "A LinqAlpha, startup de pesquisa de investimentos em inteligência artificial, aposta que seu novo centro público pode combater o viés de investimento entre os principais modelos de IA, enfrentando um dos desafios mais difíceis dos investidores. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-08-18T11:26:26+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A LinqAlpha, startup de pesquisa de investimentos em inteligência artificial, aposta que seu novo centro público pode combater o viés de investimento entre os principais modelos de IA, enfrentando um dos desafios mais difíceis dos investidores. Matéria exclusiva para assinantes. ",
     "relevance": 5
   }
 ]
