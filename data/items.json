@@ -1,5 +1,30 @@
 [
   {
+    "source": "NeoFeed",
+    "title": "Com Redata empacado no Senado, “sobra” de R$ 5,2 bilhões pode virar alívio para a meta fiscal",
+    "link": "https://neofeed.com.br/poder/poder-poder/com-redata-empacado-no-senado-sobra-de-r-52-bilhoes-pode-virar-alivio-para-a-meta-fiscal/",
+    "description": "Brasília &#8211; A lentidão do Congresso em aprovar uma lei que cria o Regime Especial de Tributação para Serviços de Data Center (Redata) levou o governo a praticamente desistir do programa em 2026. Em pleno ano de eleição e com uma janela mais apertada para a votação, o projeto está parado no Senado. O Orçamento [&#8230;]\nO post Com Redata empacado no Senado, &#8220;sobra&#8221; de R$ 5,2 bilhões pode virar alívio para a meta fiscal apareceu primeiro em NeoFeed.",
+    "published": "2026-08-19T21:59:43+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Brasília &#8211; A lentidão do Congresso em aprovar uma lei que cria o Regime Especial de Tributação para Serviços de Data Center (Redata) levou o governo a praticamente desistir do programa em 2026. Em pleno ano de eleição e com uma janela mais apertada para a votação, o projeto",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Fusão da Warner e Paramount ameaça 4.500 empregos em LA, diz governo",
+    "link": "https://www.poder360.com.br/poder-midia/fusao-da-warner-e-paramount-ameaca-4-500-empregos-em-la-diz-governo/",
+    "description": "Segundo relatório, US$ 8 bilhões em salários, valor econômico, produção total de negócios e receita também estão ameaçados",
+    "published": "2026-08-19T21:56:24+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Segundo relatório, US$ 8 bilhões em salários, valor econômico, produção total de negócios e receita também estão ameaçados",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "TCU destrava R$ 5 bi em subsídios à conta de luz do Norte e Nordeste",
     "link": "https://www.poder360.com.br/poder-energia/tcu-destrava-r-5-bi-em-subsidios-a-conta-de-luz-do-norte-e-nordeste/",
@@ -3889,35 +3914,5 @@
         "link": "https://oglobo.globo.com/politica/noticia/2026/08/19/luis-felipe-salomao-toma-posse-como-presidente-do-stj.ghtml"
       }
     ]
-  },
-  {
-    "source": "O Globo",
-    "title": "Falta de acordo adia para depois das eleições votação de reajuste no limite do MEI",
-    "link": "https://oglobo.globo.com/economia/noticia/2026/08/19/falta-de-acordo-adia-para-depois-das-eleicoes-votacao-de-reajuste-no-limite-do-mei.ghtml",
-    "description": "A votação do projeto que eleva o limite de faturamento do programa do microempreendedor individual (MEI) de R$ 81 mil para R$ 140 mil deverá ficar para depois das eleições de outubro.  \nA Câmara fará um esforço concentrado na semana entre 31 de agosto e 4 e setembro, mas não há acordo entre os parlamentares, que insistem em incluir na proposta revisão das faixas do Simples Nacional, alvo de resistência do Ministério da Fazenda. \nHoje, o Simples é para empresas com faturamento bruto de até R$ 4,8 milhões por ano e a ideia de parlamentares é subir o valor para até R$ 8 milhões. A Fazenda é contra. \nA previsão inicial do presidente da Câmara, Hugo Motta (Republicanos-PB), era votar o projeto até julho. Mas, após o fim do recesso parlamentar, ainda não foi possível fechar um acordo. Segundo estimativas da equipe econômica, as mudanças no Simples Nacional defendidas pelo Congresso terão impacto da ordem de R$ 50 bilhões nas contas públicas. \nPela proposta, o limite de faturamento do MEI valor sobe de R$ 81 mil para R$ 110 mil em 2026 e para R$ 140 mil no ano seguinte.\nA Fazenda estima que o aumento no teto terá teria um impacto de R$ 8,1 bilhões até 2029. \nO aumento do limite do faturamento do MEI foi contrapartida do goveno federal na votação da Proposta de Emenda Constitucional (PEC) que acaba com a jornada 6 por 1 na Câmara dos Deputados, no final de maio.  A PEC aguarda votação no Senado.",
-    "published": "2026-08-19T09:00:31+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A votação do projeto que eleva o limite de faturamento do programa do microempreendedor individual (MEI) de R$ 81 mil para R$ 140 mil deverá ficar para depois das eleições de outubro.  \nA Câmara fará um esforço concentrado na semana entre 31 de agosto e 4 e setembro, mas não há a",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/politica/falta-de-acordo-adia-para-depois-das-eleicoes-votacao-de-reajuste-no-limite-do-mei/"
-      }
-    ]
-  },
-  {
-    "source": "Poder360",
-    "title": "Candidaturas com termos religiosos na urna caem 42%",
-    "link": "https://www.poder360.com.br/poder-eleicoes-2026/candidaturas-com-termos-religiosos-na-urna-caem-42/",
-    "description": "Levantamento do Poder360 identifica 381 registros com referências à fé, ante 657 nas eleições de 2022",
-    "published": "2026-08-19T09:00:21+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Levantamento do Poder360 identifica 381 registros com referências à fé, ante 657 nas eleições de 2022",
-    "relevance": 5
   }
 ]
