@@ -1,5 +1,66 @@
 [
   {
+    "source": "InfoMoney",
+    "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta",
+    "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-20082026/",
+    "description": "Índices futuros dos EUA operam mistos com guerra em foco\nThe post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney.",
+    "published": "2026-08-20T10:59:21+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Índices futuros dos EUA operam mistos com guerra em foco\nThe post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quinta appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Talvez após a eleição possamos retomar curso normal diplomático com EUA, diz Durigan",
+    "link": "https://www.infomoney.com.br/politica/talvez-apos-a-eleicao-possamos-retomar-curso-normal-diplomatico-com-eua-diz-durigan/",
+    "description": "Durigan afirmou que o início do processo de aplicação da Lei da Reciprocidade Econômica não vai atrapalhar o curso das negociações com os EUA\nThe post Talvez após a eleição possamos retomar curso normal diplomático com EUA, diz Durigan appeared first on InfoMoney.",
+    "published": "2026-08-20T10:55:22+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Durigan afirmou que o início do processo de aplicação da Lei da Reciprocidade Econômica não vai atrapalhar o curso das negociações com os EUA\nThe post Talvez após a eleição possamos retomar curso normal diplomático com EUA, diz Durigan appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Marcopolo, TIM, BB, Smart Fit, Petrobras e mais ações para acompanhar hoje",
+    "link": "https://www.infomoney.com.br/mercados/marcopolo-tim-bb-smart-fit-petrobras-e-mais-acoes-para-acompanhar-hoje/",
+    "description": "Veja os principais destaques do noticiário corporativo desta quinta-feira \nThe post Marcopolo, TIM, BB, Smart Fit, Petrobras e mais ações para acompanhar hoje appeared first on InfoMoney.",
+    "published": "2026-08-20T10:51:36+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Veja os principais destaques do noticiário corporativo desta quinta-feira \nThe post Marcopolo, TIM, BB, Smart Fit, Petrobras e mais ações para acompanhar hoje appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Marcopolo (POMO4) aprova pagamento de dividendos e recompra de ações",
+    "link": "https://www.infomoney.com.br/mercados/marcopolo-pomo4-aprova-pagamento-de-dividendos-e-recompra-de-acoes/",
+    "description": "Dividendos serão pagos a partir do dia 09 de setembro de 2026\nThe post Marcopolo (POMO4) aprova pagamento de dividendos e recompra de ações appeared first on InfoMoney.",
+    "published": "2026-08-20T10:47:19+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Dividendos serão pagos a partir do dia 09 de setembro de 2026\nThe post Marcopolo (POMO4) aprova pagamento de dividendos e recompra de ações appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Investidor do Botafogo quer clube como o melhor das Américas",
+    "link": "https://www.poder360.com.br/poder-sportsmkt/investidor-do-botafogo-quer-clube-como-o-melhor-das-americas/",
+    "description": "Gabriel de Alba diz que pretende investir e estruturar a SAF para disputar títulos no Brasil e no continente",
+    "published": "2026-08-20T10:30:47+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Gabriel de Alba diz que pretende investir e estruturar a SAF para disputar títulos no Brasil e no continente",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Lula pede que deputado deixe função de vice-líder do governo",
     "link": "https://www.poder360.com.br/poder-governo/lula-pede-que-deputado-deixe-funcao-de-vice-lider-do-governo/",
@@ -147,7 +208,13 @@
       "Economia"
     ],
     "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quinta-feira (20)\nThe post Desemprego nos EUA, juros na China, Walmart, leilão do Tesouro e mais destaques hoje appeared first on InfoMoney.",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/financas/noticia/2026/08/20/agenda-do-dia-pedidos-de-seguro-desemprego-e-leilao-nos-eua-sao-destaque.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -392,6 +459,18 @@
       "Politica"
     ],
     "summary": "A prefeitura assina hoje convênios com a Light, a 99 e a empresa Gabriel, para desenvolver bases de dados que ajudem os órgãos de Segurança Pública na investigação e no combate a crimes no Rio. O acordo operacional será com a Central de Inteligência, Vigilância e Tecnologia em Ap",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Desemprego vira ameaça eleitoral para Milei",
+    "link": "https://valor.globo.com/mundo/noticia/2026/08/20/desemprego-vira-ameaca-eleitoral-para-milei.ghtml",
+    "description": "O presidente da Argentina, Javier Milei, reduziu a inflação e a pobreza no país, além de eliminar o déficit orçamentário. Mas o mercado de trabalho continua mergulhado na crise que ele foi eleito para enfrentar. Pelo segundo ano consecutivo, a economia está crescendo, mas o emprego no setor formal está caindo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-08-20T08:02:10+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O presidente da Argentina, Javier Milei, reduziu a inflação e a pobreza no país, além de eliminar o déficit orçamentário. Mas o mercado de trabalho continua mergulhado na crise que ele foi eleito para enfrentar. Pelo segundo ano consecutivo, a economia está crescendo, mas o empre",
     "relevance": 5
   },
   {
@@ -3800,87 +3879,6 @@
       "Economia"
     ],
     "summary": "A Lifetime, que nasceu como um escritório de agentes autônomos de investimentos ligado à rede XP, recebeu licença do Banco Central (BC) para estruturar a sua corretora em sociedade com o BTG Pactual. O acordo foi selado em 2020, quando a regulação ainda não permitia sócios capita",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Bolsas da Europa fecham sem direção única com alívio nos juros e alta do petróleo",
-    "link": "https://valor.globo.com/financas/noticia/2026/08/19/bolsas-da-europa-fecham-sem-direcao-unica-com-alivio-nos-juros-e-alta-do-petroleo.ghtml",
-    "description": "As bolsas europeias encerraram próximas da estabilidade e sem direção única nesta quarta-feira (19), revertendo as perdas do início da sessão ao passo que os juros de longo prazo registraram uma forte descompressão, em linha com o movimento visto nos Estados Unidos após o anúncio de aumento da recompra de Treasuries pelo Tesouro americano. A alta nos preços do petróleo, porém, conteve os ganhos dos índices.\n\nO índice pan-europeu Stoxx 600 fechou estável (-0,02%), aos 651,77 pontos . O DAX de Frankfurt caiu 0,14%, aos 26.091,33 pontos; o FTSE 100 de Londres ganhou 0,14%, aos 10.743,35 pontos; e o CAC 40 de Paris também ficou perto da estabilidade (+0,09%), aos 8.501,91 pontos.\n\nO Tesouro americano anunciou que está pelo menos dobrando o volume das operações de recompra dos títulos de 10 a 30 anos, o que gerou uma forte descompressão nos juros dos Treasuries de longo prazo. O movimento também gerou alívio nos mercados de renda fixa europeus, com o título alemão (bund) de 30 anos recuando mais de 80 pontos-base e o britânico (gilt) com mesmo vencimento cedendo mais de 40 pb.\n\nOs preços do petróleo avançam e a referência global, o Brent, opera acima da faixa de US$ 92 por barril. Estados Unidos e Irã seguem distantes de um acordo para reabertura do Estreito de Ormuz, o que sustenta os valores da commodity em patamares elevados. A aceleração de hoje foi causada, em parte, pelos dados de estoques de petróleo nos EUA que, apesar do aumento inesperado, mostraram uma redução nas reservas estratégicas para o menor nível desde 1982.\n\n\nRalph Orlowski/Bloomberg",
-    "published": "2026-08-19T16:03:02+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "As bolsas europeias encerraram próximas da estabilidade e sem direção única nesta quarta-feira (19), revertendo as perdas do início da sessão ao passo que os juros de longo prazo registraram uma forte descompressão, em linha com o movimento visto nos Estados Unidos após o anúncio",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/mercados/bolsas-da-europa-fecham-sem-direcao-unica-com-oriente-medio-e-ata-do-fed-no-radar/"
-      }
-    ]
-  },
-  {
-    "source": "Poder360",
-    "title": "Ao vivo: STF julga validade da lei que regulamenta licenciamento ambiental",
-    "link": "https://www.poder360.com.br/poder-justica/ao-vivo-stf-julga-validade-da-lei-que-regulamenta-licenciamento-ambiental/",
-    "description": "Legislação simplificou as regras de licenciamento para alguns tipos de atividades econômicas",
-    "published": "2026-08-19T16:00:56+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Legislação simplificou as regras de licenciamento para alguns tipos de atividades econômicas",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Morar na Alemanha: veja salários, custo de vida e o cartão que deixa o brasileiro procurar emprego por um ano no país",
-    "link": "https://oglobo.globo.com/mundo/noticia/2026/08/19/morar-na-alemanha-veja-salarios-custo-de-vida-e-o-cartao-que-deixa-o-brasileiro-procurar-emprego-por-um-ano-no-pais.ghtml",
-    "description": "Esta reportagem faz parte do Guia Viver pelo Mundo, que reúne informações sobre 36 países como salários, vistos, segurança e custo de vida para quem quer morar fora. Acesse a ferramenta.\nUma das portas de entrada mais estruturadas da Europa para profissionais qualificados, a Alemanha combina salários altos, sistema de saúde eficiente e um dos processos de imigração mais organizados do continente, ainda mais depois das reformas migratórias de 2024. O principal ponto de atenção é o idioma. Embora alguns vistos não exijam fluência inicial, o alemão é indispensável para a integração no mercado de trabalho e no dia a dia.\nQUER MORAR FORA? VEJA GUIA INTERATIVO QUE REÚNE INFORMAÇÕES SOBRE 36 PAÍSES\nAmplamente considerada um dos países mais seguros do mundo, a Alemanha ocupa a 28ª posição no Global Peace Index 2026, ainda que tenha caído algumas posições nos últimos anos por tensões geopolíticas e manifestações internas. Sua qualidade de vida está entre as mais altas do planeta, com IDH de 0,95. \nO seguro de saúde (GKV) é obrigatório para todos os residentes e cobre consultas, hospitalização, exames e medicamentos. Ele é pago a partir de uma contribuição de 14,6% referente ao salário bruto no sistema público, dividida entre empregador e empregado.\nViver pelo mundo: Alemanha\nSalário mínimo é alto, e gastos variam por região \nO salário mínimo alemão, cerca de US$ 2.900 mensais (quase R$ 15 mil), é um dos mais altos da Europa. No entanto, o custo de vida é considerado alto. Para uma pessoa solteira em uma cidade de médio porte, os gastos giram entre € 1.500 e € 2.000 mensais (cerca de R$ 9 mil a R$ 12 mil), com o sul do país, sobretudo Baviera e Baden-Württemberg, sendo a região mais cara.\nInitial plugin text\nO salário médio anual, segundo dados ajustados pela Paridade de Poder de Compra (PPC), é de $ 58.700, e o mensal é de $ 4.900. Os órgãos internacionais (Banco Mundial, FMI, OIT e OCDE) que calculam o salário médio utilizam a PPC para garantir uma comparação justa do custo de vida. Em vez de usar o câmbio comercial flutuante, a PPC ajusta o salário à realidade local de cada país. Na prática, o número revela o seu verdadeiro padrão de consumo, mostrando o equivalente ao que essa renda conseguiria comprar nos Estados Unidos.\nArgentina: veja quanto custa morar no país e como funciona a imigração facilitada para brasileiros via Mercosul\nAluguel é o maior gasto mensal\nO custo de vida para uma pessoa solteira em uma cidade de médio porte gira em torno de €1.500 a €2.000 (entre R$ 9 mil e R$ 12 mil) por mês. Esse valor varia significativamente dependendo da região, sendo o sul (Baviera e Baden-Württemberg) a área mais cara do país.\nNa Alemanha, diferencia-se o \"aluguel frio\" (Kaltmiete) do \"aluguel quente\" (Warmmiete), que já inclui aquecimento e algumas taxas. A média nacional para um apartamento de 1 quarto no centro é aproximadamente de € 865 a € 886 (cerca de R$ 5.300).\nMorar na Bélgica: conheça salários, custo de vida e regras para brasileiros emigrarem para o país\nApesar da recomendação ser a bicicleta, que é o meio de transporte mais usado no país, o sistema de transporte público na Alemanha é altamente integrado. O bilhete mensal ilimitado para transporte regional e urbano em todo o país custa cerca de €63 (R$ 380 aproximadamente). \nPara uma pessoa solteira, o custo médio com alimentação gira entre € 220 e € 400 (entre R$ 1.300 e R$ 2.400). Para quem cozinha todas as refeições em casa, os relatos indicam uma média de € 320. Uma compra completa semanal para uma pessoa em redes de desconto (como Aldi ou Lidl) custa, em média, entre € 30 e € 50 (entre R$ 180 e R$ 300). \nQuais países têm a melhor qualidade de vida para morar? Spoiler: Chile está entre eles\nNas universidades públicas de muitos estados alemães, o ensino é gratuito para todos os estudantes, inclusive estrangeiros. A única cobrança comum são as taxas administrativas, que variam de acordo com a instituição e localização. \nProcesso de imigração foi reformulado e organizado\nDesde as reformas de 2024, a Alemanha ampliou os caminhos de entrada. A novidade é a Chancenkarte (Cartão de Oportunidades), que permite morar no país por até um ano para procurar emprego sem oferta prévia, com base em um sistema de pontos que avalia idade, experiência e idioma. \nPara quem já tem emprego, a principal rota é o visto de Trabalhador Qualificado, voltado a profissionais com formação técnica ou acadêmica, que dispensa o reconhecimento do diploma em profissões não regulamentadas quando o salário atinge pelo menos € 43.470 anuais.\nO caminho mais vantajoso para altamente qualificados é o EU Blue Card, que exige diploma reconhecido e salário anual acima de € 50.700 (ou € 45.934 para profissões em falta e recém-formados) e oferece a via mais rápida para a residência permanente, entre 21 e 27 meses conforme o nível de alemão. \nMorar no Japão: veja salários, custo de vida e como funciona a imigração antes de decidir se mudar\nHá ainda o Ausbildung, a formação profissional dual, que combina estudo e prática remunerada e leva à residência permanente após dois anos de trabalho na área; o visto de estudante, que permite trabalhar até 140 dias por ano; e o Working Holiday, exclusivo para brasileiros de 18 a 30 anos, com mil vagas anuais.\nAcesse o Guia Viver pelo Mundo para ver informações de 36 países mais procurados por brasileiros\nApuração de Leonardo Marchetti. Colaboraram Júlia Vidotti, aluna do Curso Jornalismo do Futuro, e a estagiária Letícia Guimarães.",
-    "published": "2026-08-19T16:00:16+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Esta reportagem faz parte do Guia Viver pelo Mundo, que reúne informações sobre 36 países como salários, vistos, segurança e custo de vida para quem quer morar fora. Acesse a ferramenta.\nUma das portas de entrada mais estruturadas da Europa para profissionais qualificados, a Alem",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Pesquisa mostra mais convergência do que divergência entre brasileiros na economia, apesar da polarização política",
-    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/08/pesquisa-mostra-mais-convergencia-do-que-divergencia-entre-brasileiros-na-economia-apesar-da-polarizacao-politica.ghtml",
-    "description": "Num país polarizado como o Brasil, uma pesquisa mostra que, quando o assunto é economia, há mais pontos de convergência do que divergências. A principal concordância é a percepção de que o sistema econômico brasileiro beneficia principalmente os ricos e poderosos, avaliação compartilhada por 58% dos brasileiros. Essa visão pode ajudar a explicar por que 47% dos entrevistados são favoráveis a um governo forte, que invista no desenvolvimento de longo prazo e oriente o crescimento econômico, independentemente de serem classificados como consistentemente pró-PT, consistentemente contra o PT ou como parte do grupo considerado inconsistente, que reúne outras posições políticas, ou se aprovam ou desaprovam o governo.\nRioPrevidência fará primeira prestação de contas após escândalo de investimentos no Banco Master\nNa estação das escolhas: É fundamental lutar contra o desalento das generalizações indevidas. Há pessoas que querem sinceramente servir ao país\nTambém há apoio majoritário à manutenção do controle estatal sobre empresas estratégicas (59%) e à atuação do governo sobre os preços dos combustíveis (66%). Além disso, 43% consideram que o governo deveria ter o poder de obrigar o Banco Central a reduzir os juros. A concordância chega a 49% entre os que aprovam o governo e 41% no grupo que desaprova;\nA pesquisa “Percepções da Economia Brasileira”, a qual o blog teve acesso em primeira mão, foi realizada pela Ipsos para o Global Fund for a New Economy (GFNE). Foram feitas consultas on-line a duas mil pessoas de 18 anos ou mais, das classes ABC, entre junho e julho. Os resultados apontam convergência em temas que vão além das agendas tradicionalmente associadas à esquerda e à direita.\nCandidaturas LGBT+ aumentam 57%, em relação a 2022, e chegam a 27 partidos nas eleições, mostra levantamento inédito\n— A pesquisa mostra que há uma insatisfação com a forma como a economia funciona, de maneira geral. Existe o entendimento de que os ricos são sempre os beneficiados e uma defesa de um Estado mais intervencionista, antiliberal, que atue pelo desenvolvimento, mas que também controle preços e proteja o cidadão — explica Pedro Rossi, economista-chefe do Global Fund for a New Economy (GFNE).\nSegundo Rossi, a polarização aparece de forma mais clara quando são apresentados programas com vinculação mais direta a um dos lados do espectro político. É o caso do Bolsa Família, que registra maior desaprovação entre os entrevistados classificados como consistentemente contra o PT. Entre os inconsistentes e os pró-PT, o programa é bem avaliado.\nMaioria de mulheres e jovens acompanharão campanha eleitoral exclusivamente pela TV, mostra pesquisa\nOutro dado revelado pelo levantamento é que 73% apoiam o fim da escala 6x1, com jornada de 40 horas semanais e sem redução salarial. O índice permanece elevado, em 60%, mesmo entre os entrevistados que se opõem ao governo.\nA isenção do Imposto de Renda para quem ganha até R$ 5 mil é considerada importante ou muito importante por 69% da amostra. Mais da metade dos entrevistados também considera que o governo deve priorizar aquilo que acredita ser melhor para os brasileiros, independentemente da posição do mercado.\n— É interessante que, quando a pergunta é sobre o arcabouço fiscal, implementado pela atual gestão, enquanto 58% dos que aprovam o governo defendem sua flexibilização, 50% defendem o respeito aos limites para evitar o crescimento da dívida — pontua Rossi.\nConteúdos políticos de IA viralizam antes do início oficial da campanha. Má notícia para o eleitor: ferramentas de detecção falham\nO economista chama atenção ainda para a maior adesão dos brasileiros a propostas econômicas mais identificadas com a centro-esquerda. A plataforma tradicional da esquerda, que prioriza o salário mínimo, o Bolsa Família e a ampliação do acesso a programas de renegociação de dívidas, obteve 46% de preferência, contra 39% da plataforma de direita.\nJá a plataforma classificada como “nova economia”, focada em medidas contra aumentos excessivos de preços em setores essenciais, na tributação de indivíduos extremamente ricos e no reconhecimento do trabalho de cuidado, teve 59% de preferência, contra 27% da plataforma de direita.\n— Há uma adesão maior a uma visão econômica mais alinhada à centro-esquerda, que poderia ser encampada também por uma direita não liberal. Isso mostra que a convergência em relação à economia escapa da polarização política — destaca Rossi.",
-    "published": "2026-08-19T16:00:08+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "Num país polarizado como o Brasil, uma pesquisa mostra que, quando o assunto é economia, há mais pontos de convergência do que divergências. A principal concordância é a percepção de que o sistema econômico brasileiro beneficia principalmente os ricos e poderosos, avaliação compa",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Da poupança de R$ 0,13 ao CDB bilionário: como investem os candidatos à Presidência",
-    "link": "https://www.infomoney.com.br/onde-investir/da-poupanca-de-r-013-ao-cdb-bilionario-como-investem-os-candidatos-a-presidencia/",
-    "description": "Declarações de bens entregues ao TSE mostram carteiras concentradas em participações societárias, imóveis e renda fixa pós-fixada, com exposição mínima à Bolsa\nThe post Da poupança de R$ 0,13 ao CDB bilionário: como investem os candidatos à Presidência appeared first on InfoMoney.",
-    "published": "2026-08-19T16:00:00+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Declarações de bens entregues ao TSE mostram carteiras concentradas em participações societárias, imóveis e renda fixa pós-fixada, com exposição mínima à Bolsa\nThe post Da poupança de R$ 0,13 ao CDB bilionário: como investem os candidatos à Presidência appeared first on InfoMoney",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Operação recupera mais de 6 mil celulares roubados ou furtados em 10 dias, diz Ministério da Justiça",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/19/operacao-recupera-mais-de-6-mil-celulares-roubados-ou-furtados-em-10-dias-diz-ministerio-da-justica.ghtml",
-    "description": "Mais de 6 mil celulares roubados ou furtados foram entregues às polícias estaduais desde o início da Operação Última Chamada, ação nacional coordenada pelo Ministério da Justiça e Segurança Pública (MJSP) para combater roubos, furtos e a receptação de aparelhos.\nSegundo balanço divulgado pelo ministério nesta quarta-feira (19), 6.052 celulares foram devolvidos por pessoas que estavam com os aparelhos após receberem mensagens de alerta das autoridades. Desse total, 1.125 já foram restituídos aos proprietários.\nA operação mobilizou mais de 4 mil policiais em 23 das 27 unidades da federação. As ações começaram em 10 de agosto e incluem investigações, fiscalizações em estabelecimentos comerciais, recuperação de aparelhos e prisões.\nDe acordo com o governo federal, 33.606 mensagens de texto foram enviadas a usuários identificados com aparelhos que possuem registro de roubo ou furto.\nAgora no g1\nO secretário nacional de Segurança Pública, Chico Lucas, afirmou que, após o recebimento da notificação, a pessoa passa a ter conhecimento da origem ilícita do celular e pode responder por receptação caso não devolva o aparelho.\nBanco nacional reúne 3,3 milhões de celulares com restrição\nAs ações da operação utilizam informações do Banco Nacional de Celulares com Restrição (BNCR), criado em junho deste ano.\nSegundo o Ministério da Justiça, a ferramenta reúne atualmente cerca de 3,3 milhões de registros de celulares roubados ou furtados em todo o país.\nO banco também pode ser consultado pela população antes da compra de um aparelho usado, por meio do número de identificação do celular.\nAlém disso, as forças de segurança poderão utilizar a base de dados durante abordagens policiais para verificar a situação dos aparelhos.\n382 celulares foram recuperados por meio da Operação Última Chamada\nMichele Ferreira/Rede Amazônica\nRoubo e furto de celulares\nDados do Anuário Brasileiro de Segurança Pública mostram que 95 celulares são roubados ou furtados por hora no Brasil. O problema é mais frequente em capitais e regiões metropolitanas.\nDurante a Operação Última Chamada, estados adotaram medidas específicas para localizar aparelhos e identificar suspeitos de receptação.\nEm Sergipe, a Polícia Civil apreendeu 600 celulares ao longo de sete dias de operação.\nNo Espírito Santo, policiais cumpriram quatro mandados de busca e apreensão contra suspeitos de furtos de celulares e fiscalizaram estabelecimentos que comercializam aparelhos usados.\nJá no Ceará, 498 celulares foram entregues por usuários após as notificações enviadas pelas autoridades. Os aparelhos passarão por identificação para serem devolvidos aos donos.\nA operação segue sem data pra acabar e os números ainda serão atualizados.",
-    "published": "2026-08-19T15:58:12+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Mais de 6 mil celulares roubados ou furtados foram entregues às polícias estaduais desde o início da Operação Última Chamada, ação nacional coordenada pelo Ministério da Justiça e Segurança Pública (MJSP) para combater roubos, furtos e a receptação de aparelhos.\nSegundo balanço d",
     "relevance": 5
   }
 ]
