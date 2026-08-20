@@ -274,7 +274,13 @@
       "Politica"
     ],
     "summary": "Trump diz que não há perspectiva de negociações com o Irã\nO presidente dos Estados Unidos, Donald Trump, anunciou nesta quarta-feira (19) que está lançando uma \"guerra econômica\" contra o Irã. Ele também ameaçou punir qualquer país que ajudar a manter a economia iraniana funciona",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/mundo/noticia/2026/08/19/trump-anuncia-guerra-economica-contra-ira-e-ameaca-parceiros-com-represalias.ghtml"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
