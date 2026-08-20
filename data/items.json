@@ -14,6 +14,20 @@
     "relevance": 5
   },
   {
+    "source": "Valor Econômico",
+    "title": "Clima econômico deve registrar volatilidade no 2º semestre com eleições, diz FGV",
+    "link": "https://valor.globo.com/brasil/noticia/2026/08/20/clima-economico-deve-registrar-volatilidade-no-2o-semestre-com-eleicoes-diz-fgv.ghtml",
+    "description": "O Índice de Clima Econômico (ICE) do Brasil, mapeado pela Sondagem Econômica da América Latina da Fundação Getulio Vargas (FGV), subiu 4,7 pontos, para 76,9 pontos entre o primeiro e o segundo trimestre, informou nesta quinta-feira (20) a fundação. Para Livio Ribeiro, pesquisador associado da FGV e sócio da consultoria econômica BRCG, foi uma melhora discreta, impulsionada, principalmente, por uma avaliação mais favorável presente entre analistas em relação à economia brasileira.\n\nPorém, mesmo com melhora observada até junho, ele não descartou momentos de volatilidade no ICE do país, no segundo semestre. Isso porque os próximos meses contarão com fatores que podem dificultar previsões quanto à economia brasileira, como eleições, exemplificou.\n\nA sondagem é publicação da FGV que monitora e antecipa tendências econômicas nos países latino-americanos. Desde 1994, centenas de especialistas são consultados trimestralmente em mais de 10 países da América Latina, a gerar informações que subsidiam a sondagem. O ICE da América Latina, indicador-síntese da pesquisa, subiu 10,7 pontos, para 83,7 pontos, entre primeiro e segundo trimestre desse ano.\n\nAo falar do resultado do ICE brasileiro, Ribeiro lembrou que o índice é composto por dois tópicos. Enquanto o Índice de Situação Atual (ISA) subiu 22,2 pontos, para 100 pontos, entre primeiro e segundo trimestres, o Índice de Expectativas (IE) caiu 11,1 pontos, para 55,6 pontos, no mesmo período, disse.\n“Tivemos uma diminuição de pessimismo com o Brasil [no momento presente]”, comentou ele. No entanto, o mesmo não pode ser dito em relação às projeções relacionadas à economia brasileira, admitiu.\n\nEmbora a sondagem não mapeie razões específicas para o recuo do IE brasileiro, Ribeiro citou alguns motivos que podem ter contribuído para piora em relação à economia brasileira. Há o fator de transição política, notou. Com eleições presidenciais, há sempre possibilidade de troca de condução de política econômica. Também existem dúvidas, na mente dos analistas, quanto ao arcabouço macroeconômico do país, sobre patamar de juros e de política fiscal, para próximos meses.\n\nOutro ponto lembrado por ele é o da reforma tributária. No entendimento do pesquisador, há falta de clareza sobre as mudanças no regime tributário futuro. Isso impede investidores, especialmente estrangeiros, de planejar investimentos de médio e longo prazo, comentou. \n\n“O processo de mudança [do regime tributário] está sendo muito lento e muito desorganizado”, disse.\n\nTodos esses fatores reunidos levam a muitas incertezas em relação à cadência da economia brasileira, nos próximos meses, na mente dos analistas, ponderou ele.\n\nAssim, o técnico não descartou que o ICE do Brasil, na Sondagem, opere com certa volatilidade, nos últimos meses do ano. “Não é uma garantia, mas é uma boa hipótese pensar que teremos período mais volátil, não necessariamente conturbado, mas de volatilidade [nas previsões econômicas relacionadas ao Brasil]”, disse.\n\nPara o economista Livio Ribeiro, vários fatores reunidos levam a muitas incertezas em relação à cadência da economia brasileira, nos próximos meses\nLeo Pinheiro/Valor",
+    "published": "2026-08-20T16:52:01+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "O Índice de Clima Econômico (ICE) do Brasil, mapeado pela Sondagem Econômica da América Latina da Fundação Getulio Vargas (FGV), subiu 4,7 pontos, para 76,9 pontos entre o primeiro e o segundo trimestre, informou nesta quinta-feira (20) a fundação. Para Livio Ribeiro, pesquisador",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Política",
     "title": "Veja plano de governo de Luciana Amorim (UP), candidata ao governo de Goiás",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/20/veja-plano-de-governo-de-luciana-amorim-up-candidata-ao-governo-de-goias.ghtml",
@@ -1549,7 +1563,13 @@
       "Politica"
     ],
     "summary": "José Roberto Arruda em 6 de agosto de 2026, em Brasília\nMarcella Rodrigues/g1\nO Ministério Público Federal do Distrito Federal impugna ao registro de candidatura de Arruda ao governo do Distrito Federal. A Justiça Eleitoral deve analisar o pedido.\nDe acordo com o documento, Arrud",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-eleicoes-2026/mpf-pede-que-justica-barre-candidatura-de-arruda-ao-governo-do-df/"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -3823,19 +3843,6 @@
       "Politica"
     ],
     "summary": "Fernando Haddad participa de sabatina dos jornais O Globo e Valor Econômico e da rádio CBN.\nMaria Isabel Oliveira/O Globo\nO candidato ao governo de São Paulo Fernando Haddad (PT) defendeu nesta quarta-feira (19) que as suspeitas envolvendo Fábio Luís Lula da Silva, o Lulinha, fil",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Bitcoin sobe quase 7% e atinge US$ 69 mil com baixa dos juros dos EUA e apoio de Trump a marco cripto",
-    "link": "https://valor.globo.com/financas/criptomoedas/noticia/2026/08/19/bitcoin-sobe-quase-7-pontos-percentuais-e-atinge-us-69-mil-com-baixa-dos-juros-dos-eua-e-apoio-de-trump-a-marco-cripto.ghtml",
-    "description": "O bitcoin (BTC) surpreende e opera em forte alta na noite desta quarta-feira (19), em meio à queda dos juros longos nos Estados Unidos, ao enfraquecimento do dólar e a novos sinais de apoio político à regulação de criptoativos no país. Hoje, o presidente Donald Trump defendeu que o Congresso aprove  o Clarity Act, projeto que busca dar mais clareza às regras do setor.\n\nPor volta das 18h40, o bitcoin era negociado a US$ 69.473,95, em alta de 6,9% nas últimas 24 horas. Em reais, a criptomoeda também subia 6,9%, cotada a R$ 361.393,52, segundo o CoinTrader Monitor.\n\nSegundo Henry Oyama, diretor de Investimentos e Estratégia da Hashdex, o principal gatilho foi a intervenção do Tesouro americano, que anunciou uma ampliação do volume de operações de recompra de títulos de longo prazo, de US$ 2 bilhões para pelo menos US$ 4 bilhões. A reação do mercado foi rápida, com recuo dos juros longos americanos, que haviam atingido os maiores níveis desde 2007, e perda de força do dólar. “Esse conjunto acaba aliviando as condições financeiras e favorecendo ativos de risco, entre eles o bitcoin”, afirma.\n\nPara além da manifestação de Trump em favor do Clarity Act no dia de hoje, o mercado já vem acompanhando discussões sobre a estrutura regulatória dos criptoativos nos EUA. Oyama pondera, porém, que esse pano de fundo regulatório não parece ter sido o gatilho principal da alta. O avanço institucional do setor ajuda a melhorar a percepção dos investidores, mas o movimento do dia foi mais diretamente ligado ao alívio nos ativos em geral, citando o ouro como exemplo. “O bitcoin pode responder tanto à melhora do apetite por risco e das condições de liquidez, quanto, em determinados momentos, à busca dos investidores por ativos escassos e não soberanos”, afirma. \n\nO movimento de alta também é visto nas principais altcoins. O ether (ETH) subia 15,7% nas últimas 24 horas, cotado a US$ 2.268,12. O XRP avançava 9,8%, a US$ 1,11, enquanto a solana (SOL) tinha alta de 8,8%, a US$ 86,22. O BNB subia 3,5%, a US$ 628,27.",
-    "published": "2026-08-19T22:06:21+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "O bitcoin (BTC) surpreende e opera em forte alta na noite desta quarta-feira (19), em meio à queda dos juros longos nos Estados Unidos, ao enfraquecimento do dólar e a novos sinais de apoio político à regulação de criptoativos no país. Hoje, o presidente Donald Trump defendeu que",
     "relevance": 5
   }
 ]
