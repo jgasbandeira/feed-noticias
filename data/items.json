@@ -1,5 +1,29 @@
 [
   {
+    "source": "Poder360",
+    "title": "Tebet critica gestão Tarcísio por falta de verba para delegacias da mulher",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/tebet-critica-gestao-tarcisio-por-falta-de-verba-para-delegacias-da-mulher/",
+    "description": "Candidata afirma que governo de São Paulo não demonstra vontade política para garantir funcionamento 24h das unidades",
+    "published": "2026-08-20T00:56:19+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Candidata afirma que governo de São Paulo não demonstra vontade política para garantir funcionamento 24h das unidades",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Anvisa inicia regulamentação de apps de delivery para entrega de medicamentos",
+    "link": "https://www.infomoney.com.br/brasil/anvisa-inicia-regulamentacao-de-apps-de-delivery-para-entrega-de-medicamentos/",
+    "description": "Colegiado se posicionou a favor de atribuir a iniciativa ao Congresso Nacional\nThe post Anvisa inicia regulamentação de apps de delivery para entrega de medicamentos appeared first on InfoMoney.",
+    "published": "2026-08-20T00:32:09+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Colegiado se posicionou a favor de atribuir a iniciativa ao Congresso Nacional\nThe post Anvisa inicia regulamentação de apps de delivery para entrega de medicamentos appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Palmeiras vence o Cerro Porteño no Paraguai e avança às quartas de final da Libertadores",
     "link": "https://oglobo.globo.com/esportes/noticia/2026/08/19/palmeiras-vence-o-cerro-porteno-no-paraguai-e-avanca-as-quartas-de-final-da-libertadores.ghtml",
@@ -96,7 +120,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Em meio a críticas sobre a trajetória explosiva da dívida pública e das contas do país, o ministro da Fazenda, Dario Durigan, tenta se reunir com dois dos principais expoentes da política econômica na gestão do ex-presidente Fernando Henrique Cardoso: o ex-ministro da Fazenda Ped",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/economia/ministro-da-fazenda-busca-reuniao-com-pedro-malan-e-arminio-fraga-sobre-agenda-fiscal/"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -188,6 +218,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/19/ministerio-publico-eleitoral-pede-ao-tse-que-barre-candidatura-de-pablo-marcal-a-presidencia-e-o-impeca-de-participar-de-debates.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/19/mp-eleitoral-pede-que-tse-rejeite-registro-de-candidatura-de-pablo-maral.ghtml"
       }
     ]
   },
@@ -3915,30 +3949,6 @@
       "Mercado Financeiro"
     ],
     "summary": "De acordo com dados da prefeitura de Niterói, mais de 500 veículos em situação de abandono foram retirados das ruas da cidade desde 2025. A ação, realizada pela NitTrans, busca liberar vagas e áreas de circulação ocupadas irregularmente e também reduzir problemas associados a acú",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Guerra contra o Irã já custa à \neconomia global um PIB da Argentina",
-    "link": "https://valor.globo.com/opiniao/assis-moreira/coluna/guerra-contra-o-ira-ja-custa-a-economia-global-um-pib-da-argentina.ghtml",
-    "description": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-08-19T10:00:11+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "As ações e os setores que foram destaques – positivos e negativos – no 2T, segundo XP",
-    "link": "https://www.infomoney.com.br/mercados/as-acoes-e-os-setores-que-foram-destaques-positivos-e-negativos-no-2t-segundo-xp/",
-    "description": "Na avaliação da XP, o setor de óleo, gás e petroquímicos foi o grande destaque positivo do trimestre\nThe post As ações e os setores que foram destaques &#8211; positivos e negativos &#8211; no 2T, segundo XP appeared first on InfoMoney.",
-    "published": "2026-08-19T10:00:00+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Na avaliação da XP, o setor de óleo, gás e petroquímicos foi o grande destaque positivo do trimestre\nThe post As ações e os setores que foram destaques &#8211; positivos e negativos &#8211; no 2T, segundo XP appeared first on InfoMoney.",
     "relevance": 5
   }
 ]
