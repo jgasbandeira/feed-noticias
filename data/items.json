@@ -1,5 +1,55 @@
 [
   {
+    "source": "CNBC",
+    "title": "Labubu maker Pop Mart shares fall as key ex-China sales data drop, Citi cuts price target",
+    "link": "https://www.cnbc.com/2026/08/21/labubu-maker-pop-mart-shares-fall-after-sales-drop-in-asia-americas-.html",
+    "description": "Pop Mart shares fall after announcing first-half earnings.",
+    "published": "2026-08-21T07:18:33+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Pop Mart shares fall after announcing first-half earnings.",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Casas Bahia negocia com credores e fornecedores para tentar manter estoques e lojas abertas",
+    "link": "https://oglobo.globo.com/economia/negocios/noticia/2026/08/21/casas-bahia-negocia-com-credores-e-fornecedores-para-tentar-manter-estoques-e-lojas-abertas.ghtml",
+    "description": "Enquanto aguarda uma decisão da Justiça de São Paulo sobre seu pedido de recuperação judicial, o Grupo Casas Bahia já deu início a negociações com grupos de credores. Com dívidas de R$ 17,3 bilhões, a varejista tem concentrado esforços, segundo pessoas a par das discussões, na manutenção dos estoques e na continuidade das suas operações para manter as lojas abertas. Há relatos de fornecedores suspendendo a entrega de mercadorias e de ações de despejo em imóveis alugados onde há unidades da companhia. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-08-21T07:01:03+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Enquanto aguarda uma decisão da Justiça de São Paulo sobre seu pedido de recuperação judicial, o Grupo Casas Bahia já deu início a negociações com grupos de credores. Com dívidas de R$ 17,3 bilhões, a varejista tem concentrado esforços, segundo pessoas a par das discussões, na ma",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Interlocutor econômico da campanha de Lula, Durigan tenta sinalizar com compromisso fiscal do governo",
+    "link": "https://oglobo.globo.com/economia/noticia/2026/08/21/interlocutor-economico-da-campanha-de-lula-durigan-tenta-sinalizar-com-compromisso-fiscal-do-governo.ghtml",
+    "description": "O ministro da Fazenda, Dario Durigan, tem intensificado as reuniões com o mercado financeiro, economistas e formadores de opinião e reforçado as sinalizações de que o governo pretende ter maior contenção fiscal, em caso de reeleição do presidente Luiz Inácio Lula da Silva (PT).  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-08-21T07:00:44+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "O ministro da Fazenda, Dario Durigan, tem intensificado as reuniões com o mercado financeiro, economistas e formadores de opinião e reforçado as sinalizações de que o governo pretende ter maior contenção fiscal, em caso de reeleição do presidente Luiz Inácio Lula da Silva (PT).  ",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Novo investidor alinha suporte financeiro ao Botafogo e divide responsabilidades, mas não mexe no futebol; bastidores",
+    "link": "https://oglobo.globo.com/blogs/diogo-dantas/coluna/2026/08/novo-investidor-alinha-suporte-financeiro-ao-botafogo-e-divide-responsabilidades-mas-nao-mexe-no-futebol-bastidores.ghtml",
+    "description": "A primeira passagem de Gabriel de Alba pelo Rio de Janeiro desde que a GDA avançou para assumir o controle da SAF do Botafogo serviu para o empresário conhecer de perto a estrutura do clube e, principalmente, alinhar como funcionará a operação neste período de transição. Nesta sexta-feira, ele deixa a cidade, e a volta está programada para setembro. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-08-21T07:00:18+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A primeira passagem de Gabriel de Alba pelo Rio de Janeiro desde que a GDA avançou para assumir o controle da SAF do Botafogo serviu para o empresário conhecer de perto a estrutura do clube e, principalmente, alinhar como funcionará a operação neste período de transição. Nesta se",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "'Pergunta da semana': Qual o impacto das revelações sobre Lulinha na campanha do presidente à reeleição?",
     "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/21/pergunta-da-semana-qual-o-impacto-das-revelacoes-sobre-lulinha-na-campanha-do-presidente-a-reeleicao.ghtml",
@@ -3758,7 +3808,13 @@
       "Politica"
     ],
     "summary": "A Procuradoria-Geral da República (PGR) pediu ao ministro André Mendonça, do Supremo Tribunal Federal (STF), que os inquéritos que investigam Fábio Luís Lula da Silva, o Lulinha, sejam remetidos à Justiça de primeira instância. Lulinha é o filho mais velho do presidente Luís Inác",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/08/20/pgr-pede-que-caso-lulinha-deixe-stf-e-va-pra-1a-instancia-diz-defesa.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3770,55 +3826,6 @@
       "Economia"
     ],
     "summary": "Os juros futuros avançam no início do pregão desta quinta-feira, seguindo o movimento das taxas dos Treasuries (títulos do Tesouro americano), que voltam a subir após um alívio pouco duradouro causado pela decisão do Departamento do Tesouro de dobrar o limite de operações de reco",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "'Efeito Bessent' dura pouco e dólar e juros voltam a subir em meio à escalada do petróleo",
-    "link": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
-    "description": "'Efeito Bessent' dura pouco e dólar e juros voltam a subir em meio à escalada do petróleo Rendimentos dos Treasuries avançam após alívio causado pela decisão do Departamento do Tesouro americano de dobrar o limite de operações de recompra de títulos de longo prazo Manhã no mercado: Alta das taxas dos Treasuries e do petróleo mantêm cautela nos ativos globais",
-    "published": "2026-08-20T12:21:51+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "'Efeito Bessent' dura pouco e dólar e juros voltam a subir em meio à escalada do petróleo Rendimentos dos Treasuries avançam após alívio causado pela decisão do Departamento do Tesouro americano de dobrar o limite de operações de recompra de títulos de longo prazo Manhã no mercad",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Por que a alta histórica das ações da Moderna traz uma lição para os mercados",
-    "link": "https://valor.globo.com/empresas/noticia/2026/08/20/por-que-a-alta-historica-das-acoes-da-moderna-traz-uma-licao-para-os-mercados.ghtml",
-    "description": "Não é todo dia que uma ação do S&amp;P 500 sobe mais de 100%. Na verdade, isso aconteceu apenas duas vezes nos últimos 25 anos.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-08-20T12:21:01+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Não é todo dia que uma ação do S&amp;P 500 sobe mais de 100%. Na verdade, isso aconteceu apenas duas vezes nos últimos 25 anos.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Caso Lulinha: o jogo de empurra sobre acesso de lobista ao governo e a preocupação com desgaste para a campanha de Lula",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/08/20/caso-lulinha-bastidores-governo-campanha-lula.ghtml",
-    "description": "Lula e Lulinha\nReprodução\nHá um jogo de empurra dentro do PT e do governo Lula para definir de quem é a responsabilidade por explicar o trânsito que a lobista Roberta Luchsinger tinha dentro da administração federal.\nUma ala do partido avalia que a crise está, antes de tudo, no colo de Lulinha, filho do presidente Lula. O argumento é que Roberta se apresentava como alguém que falava em nome do filho do presidente e, portanto, caberia a ele explicar qual era, de fato, a relação entre os dois e se ela tinha autorização para representá-lo.\nDo ponto de vista eleitoral, há preocupação com o tamanho do desgaste para o próprio presidente Lula na campanha pela reeleição. Interlocutores do PT reconhecem que o episódio recoloca no debate eleitoral um tema especialmente sensível para o partido: suspeitas de corrupção, tráfico de influência e investigações envolvendo pessoas próximas ao poder.\nAgora no g1\nUma fonte com acesso à cúpula do Planalto afirma que Roberta se apresentava como “a pessoa do Lulinha” e falava em nome dele como se fosse representante ou advogada dele. A avaliação desse interlocutor é que, naquele momento, integrantes do governo entendiam que estavam recebendo uma pessoa ligada ao filho do presidente — e não uma lobista que posteriormente apareceria no centro de uma investigação.\nÉ justamente essa explicação que agora está sob escrutínio: até onde ia essa suposta representação, quem dentro do governo sabia dela e, principalmente, se a proximidade alegada com Lulinha abriu portas na administração federal.\nA empresária e lobista Roberta Luchsinger\nReprodução/Instagram\nNa Polícia Federal, investigadores ouvidos pelo blog classificam o caso como sério e dizem que pretendem aprofundar a apuração. Para esses investigadores, as versões apresentadas até aqui são insuficientes e frágeis diante do material já reunido.\nO problema político para o Planalto, portanto, vai além de saber se houve ou não irregularidade. A investigação tenta esclarecer se o nome do filho do presidente funcionou, na prática, como uma credencial de acesso ao governo — e quem permitiu que isso acontecesse.",
-    "published": "2026-08-20T12:20:27+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Lula e Lulinha\nReprodução\nHá um jogo de empurra dentro do PT e do governo Lula para definir de quem é a responsabilidade por explicar o trânsito que a lobista Roberta Luchsinger tinha dentro da administração federal.\nUma ala do partido avalia que a crise está, antes de tudo, no c",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "PF mira grupo suspeito de movimentar quase R$ 200 milhões em esquema de câmbio clandestino",
-    "link": "https://g1.globo.com/politica/noticia/2026/08/20/pf-mira-grupo-suspeito-de-movimentar-quase-r-200-milhoes-em-esquema-de-cambio-clandestino.ghtml",
-    "description": "A Polícia Federal (PF) deflagrou, nesta quinta-feira (20), a Operação Câmbio Sombrio para investigar um grupo suspeito de fazer operações clandestinas de câmbio e movimentar quase R$ 200 milhões.\nOs investigados são suspeitos de oferecer moeda estrangeira fora dos canais oficiais, além de exercer atividade de instituição financeira sem autorização. Eles escondiam e falsificavam documentos sobre esses valores, segundo a Polícia Federal.\nA PF cumpre nesta manhã quatro mandados de busca e apreensão, expedidos pela Justiça Federal.\n Também foram determinadas medidas de bloqueio de bens, incluindo veículos, um imóvel e R$ 10 milhões em contas dos investigados.\nAgora no g1\nAs investigações começaram após a identificação da oferta sistemática de moeda estrangeira fora dos canais oficiais. Segundo a apuração, os clientes eram atraídos pela promessa de comprar moeda estrangeira a cotações inferiores às praticadas no mercado formal.\nO esquema previa o pagamento antecipado pelos clientes, com a entrega da moeda comprada depois, de acordo com a PF.\nA investigação identificou ainda que empresas formalmente constituídas no ramo de confecções eram usadas para receber e movimentar os recursos dos clientes. Embora não atuassem no mercado financeiro ou cambial, as empresas teriam sido utilizadas como canais financeiros pelo grupo investigado.\nOs investigados poderão responder, em tese, pelos crimes de gestão fraudulenta, funcionamento de instituição financeira sem autorização, operação irregular de câmbio, evasão de divisas e lavagem de dinheiro.",
-    "published": "2026-08-20T12:16:25+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "A Polícia Federal (PF) deflagrou, nesta quinta-feira (20), a Operação Câmbio Sombrio para investigar um grupo suspeito de fazer operações clandestinas de câmbio e movimentar quase R$ 200 milhões.\nOs investigados são suspeitos de oferecer moeda estrangeira fora dos canais oficiais",
     "relevance": 5
   }
 ]
