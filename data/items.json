@@ -1,6 +1,18 @@
 [
   {
     "source": "O Globo",
+    "title": "Resultado da enquete: trânsito é o principal problema de Botafogo",
+    "link": "https://oglobo.globo.com/rio/bairros/zona-sul/noticia/2026/08/22/resultado-da-enquete-transito-e-o-principal-problema-de-botafogo.ghtml",
+    "description": "A entrada e saída das escolas, o movimento nos hospitais, trabalhadores saindo de empresas e consultórios, moradores tentando chegar em casa ou a seus compromissos, motoristas que apenas precisam passar pelo bairro para chegar a seu destino. O movimento sempre intenso das ruas do bairro levou a alternativa \"trânsito\" a vencer a enquete \"Qual o principal problema de Botafogo?\", promovida pelo GLOBO e encerrada nesta sexta-feira (21).\nApós três décadas sem eleições: Degradado, Clube Federal, no Leblon, tem nova direção \nCaiçaras: Clube diz que leilão atinge apenas um terço de sua área e indica que pode exercer direito de preferência na compra\nO levantamento foi composto de sete alternativas, elaboradas a partir de queixas recorrentes de quem mora no bairro ou o frequenta, e pôde ser respondida pelo site ou pelo canal de WhatsApp da editoria Rio. O trânsito foi a opção preferida entre os leitores, obtendo 44,12% dos votos, seguido de roubos e furtos em ruas e estabelecimentos comerciais (21,50%), população em situação de rua (16,75%),  ocupação irregular de calçadas (6,20%), barulho provocado por bares e restaurantes (5,07%), pouca iluminação pública (3,30%) e cobertura vegetal (3,06%).\nO tema vencedor será abordado numa reportagem a ser publicada no GLOBO-Zona Sul no próximo sábado, 29 de agosto, mostrando as principais queixas de trabalhadores, moradores e visitantes do bairro e as propostas de especialistas e do poder público para resolver o problema.\nPresidente da Associação de Moradores e Amigos de Botafogo (Amab), Regina Chiaradia diz que o resultado da enquete reflete uma dificuldade vivida diariamente pelos moradores, especialmente nos horários de entrada e saída dos colégios. Segundo ela, o estacionamento irregular de veículos e a falta de fiscalização e de educação no trânsito contribuem para os congestionamentos nas principais vias do bairro.\n— Para mim, não é surpresa nenhuma que o trânsito tenha ganhado a enquete de pior problema de Botafogo. Quem mora aqui sabe disso. É só tentar atravessar São Clemente, a Real Grandeza, na hora dos colégios, que você vai ver que tudo fica parado. A quantidade de escolas e de pais que levam seus filhos até a porta e estacionam, até mesmo em local proibido, transforma essas ruas e a Sorocaba num caos. É uma dificuldade muito grande, porque a gente não tem nenhuma repressão e nenhuma educação de trânsito. Cada um acha que pode fazer o que quer — diz. \nInitial plugin text",
+    "published": "2026-08-22T12:00:22+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A entrada e saída das escolas, o movimento nos hospitais, trabalhadores saindo de empresas e consultórios, moradores tentando chegar em casa ou a seus compromissos, motoristas que apenas precisam passar pelo bairro para chegar a seu destino. O movimento sempre intenso das ruas do",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
     "title": "Gabriela Duarte tenta impedir que a mãe, Regina Duarte, fale sobre política: 'Para de querer responder'",
     "link": "https://oglobo.globo.com/cultura/noticia/2026/08/22/gabriela-duarte-tenta-impedir-que-a-mae-regina-duarte-fale-sobre-politica-para-de-querer-responder.ghtml",
     "description": "Regina Duarte e sua filha, Gabriela Duarte, juntas em cartaz na comédia \"A Filha da...\", que estreia nesta quinta, em São Paulo, evitaram falar sobre política durante uma entrevista dada à Folha, na quinta-feira (20). Após Regina ser questionada sobre seu papel no governo de Jair Bolsonaro, a filha tentou impedir que a mãe entrasse no tema: \"Não, a gente não vai falar sobre isso\", disse Gabriela.\nRegina foi apoiadora do ex-presidente e chegou a ocupar o cargo de Secretária Especial da Cultura durante 74 dias, de março a maio de 2020. Em um ano eleitoral, a atriz tem evitado se posicionar sobre o assunto, mas durante a entrevista, a atriz foi questionada se teve algum custo ter feito parte do governo Bolsonaro.\nMesmo com a intervenção da filha, Regina respondeu. \"Deixa eu falar só isso. Não teve custo nenhum. Saí de lá depois de 74 dias, voltei para minha vida e segui magnificamente bem. Tem gente que não me perdoa até hoje por ter ido. Tem gente que não me perdoa por ter voltado. Então, agora acabou. Morreu esse assunto\", respondeu Regina.\nA pergunta seguinte permaneceu no tema. Regina foi questionada se nutre a mesma admiração por Flávio Bolsonaro que tinha por Jair Bolsonaro, a atriz disse que não iria responder, já que seria o mesmo que declarar voto no candidato. Ao ver que a mãe daria seguimento no assunto, Gabriela se manifestou. \"Deixa ele fazer as perguntas, só que você tem direito de não responder\", disse.\nNo entanto, Regina retornou à política mais uma vez, contrariando a filha. Ao responder se aceitaria um novo cargo público, ela disse: \"Não, definitivamente não. Senão, teria ficado mais lá. Lutado para proporcionar alguma coisa para a classe artística, para o povo brasileiro\".\nEm protesto, Gabriela interrompeu. \"Não responde, para de querer responder\", criticou. \"Não aguento, Gabi\", respondeu Regina. \"Aguenta, você é adulta\", Gabriela retrucou, por fim.",
@@ -732,7 +744,13 @@
       "Politica"
     ],
     "summary": "O governo federal decidiu ampliar a linha de financiamento para a aquisição de automóveis dentro do Move Brasil. Os motoristas de táxi e de aplicativos cadastrados poderão agora financiar veículos que custem até R$ 200 mil na nota fiscal — antes, o teto era R$ 150 mil. A nova por",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/minhas-financas/move-brasil-veja-quais-carros-entram-apos-teto-de-credito-subir-para-r-200-mil/"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
@@ -3999,24 +4017,5 @@
     ],
     "summary": "PGR e ministro aposentado do Supremo falam sobre democracia e desenvolvimento no Rio de Janeiro",
     "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Debandada de estrangeiros e desaceleração à vista: é hora de sair da Bolsa?",
-    "link": "https://www.infomoney.com.br/onde-investir/debandada-de-estrangeiros-e-desaceleracao-a-vista-e-hora-de-sair-da-bolsa/",
-    "description": "Gestores dizem que a debandada reflete realização de lucro e incerteza fiscal e eleitoral, e não aposta em recessão, e recomendam o que investidor deve fazer agora\nThe post Debandada de estrangeiros e desaceleração à vista: é hora de sair da Bolsa? appeared first on InfoMoney.",
-    "published": "2026-08-21T14:00:00+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Gestores dizem que a debandada reflete realização de lucro e incerteza fiscal e eleitoral, e não aposta em recessão, e recomendam o que investidor deve fazer agora\nThe post Debandada de estrangeiros e desaceleração à vista: é hora de sair da Bolsa? appeared first on InfoMoney.",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/financas/intraday/post/2026/08/debandada-de-estrangeiros-da-bolsa-ja-e-a-terceira-maior-desde-2008-e-pode-nao-ter-acabado.ghtml"
-      }
-    ]
   }
 ]
