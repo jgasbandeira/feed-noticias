@@ -2699,7 +2699,13 @@
       "Politica"
     ],
     "summary": "Pesquisa Datafolha: colunistas do GLOBO analisam resultados da corrida presidencial e nos estados Instituto divulga nessa sexta-feira os números mais recentes para a disputa pelo Planalto e em eleições locais, como São Paulo, Rio, Minas e Pernambuco",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/22/eleicoes-2026-veja-como-esta-a-corrida-presidencial-em-sp-rj-df-mg-pe-e-pi-segundo-o-datafolha.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
