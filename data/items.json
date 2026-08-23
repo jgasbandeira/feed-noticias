@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "Dino determina anulação de emendas indicadas por presidentes de siglas",
+    "link": "https://www.poder360.com.br/poder-justica/dino-determina-anulacao-de-emendas-indicadas-por-presidentes-de-siglas/",
+    "description": "Ministro do STF diz que dirigentes sem mandato não podem interferir na destinação de recursos parlamentares; Podemos e Solidariedade não informaram à Corte sobre cotas de emendas",
+    "published": "2026-08-23T19:01:53+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Ministro do STF diz que dirigentes sem mandato não podem interferir na destinação de recursos parlamentares; Podemos e Solidariedade não informaram à Corte sobre cotas de emendas",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "MPE impugna candidatura de Yale Fernandes, vice de Renan Filho ao governo de Alagoas",
     "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/23/mpe-impugna-candidatura-de-yale-fernandes-vice-de-renan-filho-ao-governo-de-alagoas.ghtml",
@@ -3829,31 +3841,5 @@
     ],
     "summary": "A tarifa real média paga pelo brasileiro para voar em julho foi de R$ 703,52 por trecho, uma queda de 5,2% em relação a julho de 2025 e um aumento de 1,1% ante julho de 2024. Os dados foram divulgados pela Agência Nacional de Aviação Civil (Anac) nesta sexta-feira (21) e são ajus",
     "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Ministro brasileiro e representante dos EUA retomam conversas após telefonema de Lula e Trump",
-    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/08/21/ministro-brasileiro-e-americano-reabrem-conversas-apos-telefonema-de-lula-e-trump.ghtml",
-    "description": "O ministro Márcio Elias Rosa afirmou ao blog nesta sexta-feira (21) que Brasil e Estados Unidos devem retomar, na próxima semana, as negociações técnicas sobre o tarifaço americano. A movimentação ocorreu logo após a conversa por telefone entre os presidentes Luiz Inácio Lula da Silva e Donald Trump.\nSegundo Elias Rosa, o representante comercial dos Estados Unidos, Jamieson Greer, entrou em contato com ele nesta sexta-feira para propor uma reunião.",
-    "published": "2026-08-21T20:51:11+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O ministro Márcio Elias Rosa afirmou ao blog nesta sexta-feira (21) que Brasil e Estados Unidos devem retomar, na próxima semana, as negociações técnicas sobre o tarifaço americano. A movimentação ocorreu logo após a conversa por telefone entre os presidentes Luiz Inácio Lula da ",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "G1 - Economia",
-        "link": "https://g1.globo.com/economia/blog/ana-flor/post/2026/08/21/apos-retomar-conversas-com-os-eua-prioridade-do-brasil-e-ampliar-lista-de-excecoes-ao-tarifaco-diz-ministro.ghtml"
-      },
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/politica/ministro-brasileiro-se-reunira-com-representante-dos-eua-apos-ligacao-de-lula-e-trump/"
-      },
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/economia/noticia/2026/08/22/tarifaco-apos-conversa-entre-lula-e-trump-brasil-e-eua-retomam-negociacoes-entenda.ghtml"
-      }
-    ]
   }
 ]
