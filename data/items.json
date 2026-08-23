@@ -1,5 +1,17 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Dino diz que emendas indicadas por presidentes de partidos são nulas e podem gerar punição",
+    "link": "https://valor.globo.com/politica/noticia/2026/08/23/dino-diz-que-emendas-indicadas-por-presidentes-de-partidos-so-nulas-e-podem-gerar-punio.ghtml",
+    "description": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino determinou neste domingo (23) que a Câmara e o Senado devem considerar nulo qualquer ato, tabela, expediente, comunicação, planilha, ofício ou solicitação que permita que os presidentes de partidos políticos ou ex-parlamentares indiquem emendas. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-08-23T15:03:07+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino determinou neste domingo (23) que a Câmara e o Senado devem considerar nulo qualquer ato, tabela, expediente, comunicação, planilha, ofício ou solicitação que permita que os presidentes de partidos políticos ou ex-parlament",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Dino ameaça multar Podemos e Solidariedade em R$ 100 mil por falta de resposta em relação a emendas",
     "link": "https://oglobo.globo.com/politica/noticia/2026/08/23/dino-ameaca-multar-podemos-e-solidariedade-em-r-100-mil-por-falta-de-resposta-em-relacao-a-emendas-indicadas-por-partidos.ghtml",
@@ -9,7 +21,13 @@
       "Politica"
     ],
     "summary": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), deu prazo de cinco dias úteis para que Podemos e Solidariedade prestem informações sobre a eventual participação das direções dos partidos na definição, gestão, distribuição ou indicação de emendas parlamentares. Caso per",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/mercados/dino-cobra-podemos-e-solidariedade-sobre-emendas-e-ameaca-multa-de-r-100-mil/"
+      }
+    ]
   },
   {
     "source": "InfoMoney",
@@ -3827,19 +3845,6 @@
       "Politica"
     ],
     "summary": "O governo Trump informou ao Congresso que pretende pagar US$ 725 milhões às Nações Unidas, segundo uma notificação ao Legislativo vista pela Reuters, em uma medida que especialistas em ajuda humanitária classificaram como um passo bem-vindo para o pagamento de bilhões de dólares ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Ibovespa retoma os 171 mil pontos com maior apetite por risco global e eleições no radar",
-    "link": "https://valor.globo.com/financas/noticia/2026/08/21/ibovespa-retoma-os-171-mil-pontos-com-maior-apetite-por-risco-global-e-eleicoes-no-radar.ghtml",
-    "description": "O maior apetite por risco global impulsionou o Ibovespa desde os primeiros minutos desta sexta-feira, em linha com o dia mais positivo em bolsas emergentes. Além do cenário internacional mais favorável, a expectativa de uma disputa eleitoral mais apertada do que o que está incorporado aos preços atualmente contribuiu para o desempenho das ações, segundo gestores e estrategistas.  \n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-08-21T20:35:09+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O maior apetite por risco global impulsionou o Ibovespa desde os primeiros minutos desta sexta-feira, em linha com o dia mais positivo em bolsas emergentes. Além do cenário internacional mais favorável, a expectativa de uma disputa eleitoral mais apertada do que o que está incorp",
     "relevance": 5
   }
 ]
