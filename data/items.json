@@ -313,7 +313,13 @@
       "Politica"
     ],
     "summary": "O primeiro debate na TV aberta com os candidatos à Presidência será realizado neste domingo, às 20h pela TV Band. Os presidenciáveis se encontrarão em São Paulo, e segundo a emissora, o presidente Lula (PT) e o senador Flávio Bolsonaro (PL) não confirmaram presença e não devem es",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/noticia/2026/08/23/candidatos-presidncia-participam-de-primeiro-debate-desde-o-incio-da-campanha.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -576,6 +582,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/23/lula-de-chapeu-na-urna-ministerio-publico-eleitoral-defende-liberar-foto-de-presidente-com-acessorio.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/noticia/2026/08/23/chapu-usado-por-lula-em-foto-na-urna-eletrnica-est-dentro-da-regra-diz-ministrio-pblico-eleitoral.ghtml"
       }
     ]
   },
@@ -3626,6 +3636,18 @@
     "relevance": 5
   },
   {
+    "source": "G1 - Política",
+    "title": "Datafolha em MG para o Senado: Marília, 11%; Viana, 8%; Sávio, 6%; Aro, 5%; Ana Luiza, 4%; Superman, 3%",
+    "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/21/datafolha-mg-senado-21-agosto.ghtml",
+    "description": "Pesquisa Datafolha sobre as eleições em Minas\nPesquisa Datafolha divulgada nesta sexta-feira (21) mostra como está a corrida pelo Senado em Minas Gerais. Serão duas vagas em disputa nas eleições de outubro. \nNa pesquisa espontânea — em que os nomes dos candidatos não são mostrados aos eleitores —, 84% estão indecisos.\nJá na pesquisa estimulada, em que os nomes são mostrados aos entrevistados, Marília Campos (PT) aparece com 11%; Carlos Viana (PSD) tem 8%; Domingos Sávio (PL), 6%;  Marcelo Aro (PP), 5%; Ana Luiza do MLB (UP), 4%; e Marco Antônio Superman (Novo), 3%.\nO levantamento foi encomendado pela Globo e pelo jornal Folha de S.Paulo. Foram entrevistados 1.204 eleitores de 16 anos ou mais entre os dias 18 e 20 de agosto. A margem de erro é de três pontos percentuais, para mais ou para menos. O nível de confiança é de 95%. A pesquisa foi registrada na Justiça Eleitoral sob o número MG-00446/2026.\nDuas vagas para o Senado: saiba como votar e evite erros\nCandidatos ao Senado por Minas Gerais.\nReprodução\nPesquisa estimulada - total para as duas vagas\nMarília Campos (PT): 11%\nCarlos Viana (PSD): 8%\nDomingos Sávio (PL): 6%\nMarcelo Aro (PP): 5%\nAna Luiza do MLB (UP): 4%\nMarco Antônio Superman (Novo): 3%\nÁurea Carolina (PSOL): 2%\nManoel Carvalho (MDB): 2%\nGustavo Galassi (PSDB): 2%\nTião Pessoa (PCO): 2%\nMarcelo Heringer (PDT): 2%\nVictória Mello Vic (PSTU): 2%\nCarlin Moura (Avante): 1%\nJuiz Ramon Moreira (DC): 1%\nArcanjo Pimenta (MDB): 1%\nFidélis Alcântara (UP): 1%\nJordano Metalúrgico (PSTU): 1%\nIndecisos: 24%\nEm branco/ nulo/ nenhum: 21%\nIntenção de voto para senador (estimulada) - Votos totais combinados\nArte/g1\nLEITA TAMBÉM\nDatafolha em MG: Cleitinho, 32%; Patrus, 12%; Kalil, 12%\nDatafolha em MG: 41% aprovam governo Simões, e 32% desaprovam\nPesquisa estimulada - primeira vaga\nMarília Campos (PT): 17%\nCarlos Viana (PSD): 11%\nDomingos Sávio (PL): 7%\nMarcelo Aro (PP): 6%\nAna Luiza do MLB (UP): 3%\nMarco Antônio Superman (Novo): 3%\nManoel Carvalho (MDB): 2%\nTião Pessoa (PCO): 2%\nJuiz Ramon Moreira (DC): 2%\nGustavo Galassi (PSDB): 1%\nVictória Mello Vic (PSTU): 1%\nMarcelo Heringer (PDT): 1%\nFidélis Alcântara (UP): 1%\nÁurea Carolina (PSOL): 1%\nArcanjo Pimenta (MDB): 1%\nCarlin Moura (Avante): 1%\nJordano Metalúrgico (PSTU): 0%\nEm branco/ nulo/ nenhum: 19%\nIndecisos: 20%\nPesquisa estimulada - segunda vaga\nMarília Campos (PT): 6%\nCarlos Viana (PSD): 6%\nDomingos Sávio (PL): 5%\nMarcelo Aro (PP): 4%\nAna Luiza do MLB (UP): 4%\nÁurea Carolina (PSOL): 4%\nGustavo Galassi (PSDB): 3%\nMarco Antônio Superman (Novo): 3%\nManoel Carvalho (MDB): 3%\nMarcelo Heringer (PDT): 2%\nTião Pessoa (PCO): 2%\nCarlin Moura (Avante): 2%\nVictória Mello Vic (PSTU): 2%\nArcanjo Pimenta (MDB): 1%\nJuiz Ramon Moreira (DC): 1%\nJordano Metalúrgico (PSTU): 1%\nFidélis Alcântara (UP): 1%\nEm branco/ nulo/ nenhum: 24%\nIndecisos: 27%\nVídeos mais vistos do g1 Minas",
+    "published": "2026-08-21T22:05:07+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Pesquisa Datafolha sobre as eleições em Minas\nPesquisa Datafolha divulgada nesta sexta-feira (21) mostra como está a corrida pelo Senado em Minas Gerais. Serão duas vagas em disputa nas eleições de outubro. \nNa pesquisa espontânea — em que os nomes dos candidatos não são mostrado",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Brasil e EUA devem retomar negociações na próxima semana, diz Mdic",
     "link": "https://valor.globo.com/brasil/noticia/2026/08/21/brasil-e-eua-devem-retomar-negociacoes-na-proxima-semana-diz-mdic.ghtml",
@@ -3800,18 +3822,6 @@
       "Politica"
     ],
     "summary": "Candidato pela terceira vez ao governo do Rio, o ex-prefeito da capital Eduardo Paes (PSD) lidera com folga a corrida eleitoral deste ano. É o que mostra pesquisa Datafolha, encomendada pela TV Globo e pelo jornal Folha de S. Paulo, divulgada nesta sexta-feira. O aliado do presid",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Datafolha em MG: Cleitinho, 32%; Patrus, 12%; Kalil, 12%",
-    "link": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/08/21/datafolha-mg-governador-21-agosto.ghtml",
-    "description": "Pesquisa Datafolha sobre as eleições em Minas\nPesquisa Datafolha divulgada nesta sexta-feira (21) mostra como está a disputa para o governo de Minas Gerais. Cleitinho (Republicanos) lidera com 32% das intenções de voto no primeiro turno, seguido por Patrus Ananias (PT) e Alexandre Kalil (PDT), ambos com 12%.\nVeja os números: \n1º turno (estimulada)\nCleitinho Azevedo (Republicanos): 32%\nPatrus Ananias (PT): 12%\nAlexandre Kalil (PDT): 12%\nMateus Simões (PSD): 4%\nFlávio Roscoe (PL): 4%\nGabriel (MDB): 4%\nProfessor Túlio Lopes (PCB): 2%\nRafael Duda (PSTU): 1%\nBen Mendes (Missão): 1%\nIndira Xavier (UP): 1%\nHenrique Áreas (PCO): 0%\nEm branco/nulo/nenhum: 14%\nIndecisos: 13%\nIntenção de voto para governador no 1º turno em MG (estimulada)\nArte/g1\nO levantamento foi encomendado pela Globo e pelo jornal Folha de S.Paulo. Foram entrevistados 1.204 eleitores de 16 anos ou mais entre os dias 18 e 20 de agosto. A margem de erro é de três pontos percentuais, para mais ou para menos. O nível de confiança é de 95%. A pesquisa foi registrada na Justiça Eleitoral sob o número MG-00446/2026.\nMontagem de fotos com os candidatos ao governo de MG\nDivulgação\nLEIA TAMBÉM\nDatafolha em MG para o Senado: Marília, 11%; Viana, 8%; Sávio, 6%; Aro, 5%; Ana Luiza, 4%; Superman, 3%\n1º turno (espontânea)\nCleitinho Azevedo (Republicanos): 15% \nPatrus Ananias (PT): 3% \nAlexandre Kalil (PDT): 3% \nZema (Novo): 2% \nMateus Simões (PSD): 1% \nOutras respostas: 6% \nIndecisos: 64% \nEm branco/nulo/nenhum: 6% \nAgora no g1\nÍndice de rejeição dos candidatos  \nPatrus Ananias (PT): 29% \nAlexandre Kalil (PDT): 23% \nFlávio Roscoe (PL): 17% \nCleitinho Azevedo (Republicanos): 14% \nMateus Simões (PSD): 14% \nBen Mendes (Missão): 13% \nRafael Duda (PSTU): 12% \nGabriel (MDB): 12% \nHenrique Áreas (PCO): 11% \nIndira Xavier (UP): 11% \nProfessor Túlio Lopes (PCB): 11% \nVotaria em qualquer um/não rejeita nenhum: 4%  \nRejeita todos/não votaria em nenhum: 7% \nNão sabe: 17% \nAprovação do governo Mateus Simões\nAprovam: 41% \nDesaprovam: 32%\nNão sabem: 27%\nAvaliação do governo Mateus Simões \nÓtimo/bom: 23% \nRegular: 37% \nRuim/péssimo: 15% \nNão sabe: 25% \nVídeos mais vistos do g1 Minas",
-    "published": "2026-08-21T21:35:19+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Pesquisa Datafolha sobre as eleições em Minas\nPesquisa Datafolha divulgada nesta sexta-feira (21) mostra como está a disputa para o governo de Minas Gerais. Cleitinho (Republicanos) lidera com 32% das intenções de voto no primeiro turno, seguido por Patrus Ananias (PT) e Alexandr",
     "relevance": 5
   }
 ]
