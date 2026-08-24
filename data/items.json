@@ -1,6 +1,18 @@
 [
   {
     "source": "InfoMoney",
+    "title": "Oncoclínicas (ONCO3): por que ação dispara mais de 40% nesta segunda",
+    "link": "https://www.infomoney.com.br/mercados/oncoclinicas-onco3-por-que-acao-dispara-mais-de-40-nesta-segunda/",
+    "description": "A expectativa do mercado é de uma decisão favorável à OPA pelo colegiado da CVM\nThe post Oncoclínicas (ONCO3): por que ação dispara mais de 40% nesta segunda appeared first on InfoMoney.",
+    "published": "2026-08-24T14:52:59+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A expectativa do mercado é de uma decisão favorável à OPA pelo colegiado da CVM\nThe post Oncoclínicas (ONCO3): por que ação dispara mais de 40% nesta segunda appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
     "title": "Tesouro IPCA+ retorna aos 8% após Focus e à espera de discurso de Warsh",
     "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abre-fecha-24082026/",
     "description": "Boletim Focus manteve o IPCA de 2026 em 5,02%, mas elevou a projeção para 2027 e reduziu a estimativa de PIB deste ano; investidores aguardam a estreia de Kevin Warsh em Jackson Hole na sexta-feira\nThe post Tesouro IPCA+ retorna aos 8% após Focus e à espera de discurso de Warsh appeared first on InfoMoney.",
@@ -10,6 +22,18 @@
       "Mercado Financeiro"
     ],
     "summary": "Boletim Focus manteve o IPCA de 2026 em 5,02%, mas elevou a projeção para 2027 e reduziu a estimativa de PIB deste ano; investidores aguardam a estreia de Kevin Warsh em Jackson Hole na sexta-feira\nThe post Tesouro IPCA+ retorna aos 8% após Focus e à espera de discurso de Warsh a",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Operadora de data centers RUM Group fecha contrato de chips de IA de US$ 13,7 bi",
+    "link": "https://valor.globo.com/empresas/noticia/2026/08/24/operadora-de-data-centers-rum-group-fecha-contrato-de-chips-de-ia-de-us-137-bi.ghtml",
+    "description": "A operadora de data centers RUM Group, que hospeda a plataforma Truth Social do presidente dos Estados Unidos, Donald Trump, afirmou que assinou um contrato com um cliente norte-americano não identificado, no valor de cerca de US$ 13,7 bilhões, para o fornecimento de chips de IA.\nA Rumble começou a operar como RUM Group em junho, após concluir a aquisição da empresa alemã de nuvem de inteligência artificial Northern Data, criando um novo negócio de infraestrutura de IA enquanto busca capitalizar a crescente demanda neste segmento.\nSob o acordo, o cliente terá acesso a unidades de processamento gráfico (GPUs) e serviços relacionados a partir da unidade do RUM Group em Maysville, Geórgia, que atualmente está em desenvolvimento.\nO RUM Group informou que está oferecendo ao cliente não identificado a opção de comprar cerca de 51 milhões de ações de sua empresa por apenas um US$ 0,01 cada, de acordo com um arquivo regulatório.\nA opção ficará disponível para o cliente gradualmente ao longo de seis anos, conforme o cliente cumpra os acordos de compra.\nO cliente comprará US$ 13,7 bilhões em serviços de GPU ao longo de seis anos em três partes, sendo a última parcela contingente a uma data de entrega aprovada pelo cliente.\nO RUM Group não respondeu imediatamente a um pedido de comentário da Reuters sobre o cliente.\nA empresa afirmou que atualmente não possui os fundos necessários e planeja captar capital por meio de dívida ou ações para cumprir este contrato.\nImagem ilustrativa para destilação de modelos de IA\nPexels/Pachon in Motion",
+    "published": "2026-08-24T14:25:38+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A operadora de data centers RUM Group, que hospeda a plataforma Truth Social do presidente dos Estados Unidos, Donald Trump, afirmou que assinou um contrato com um cliente norte-americano não identificado, no valor de cerca de US$ 13,7 bilhões, para o fornecimento de chips de IA.",
     "relevance": 5
   },
   {
@@ -158,7 +182,13 @@
       "Economia"
     ],
     "summary": "O presidente do Banco Central, Gabriel Galípolo, disse nesta segunda-feira (24) que o crescimento do endividamento das famílias impulsionado pelo cartão de crédito e linhas sem garantia preocupa mais a autoridade monetária do que o avanço do crédito imobiliário. \nDurante apresent",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/financas/noticia/2026/08/24/nao-da-para-ficar-contente-com-credito-maior-e-depois-reclamar-do-endividamento-diz-galipolo.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -237,6 +267,10 @@
       {
         "source": "Valor Econômico",
         "link": "https://valor.globo.com/mundo/noticia/2026/08/24/trump-ameaa-canad-com-tarifas-de-50-pontos-percentuais-sobre-automveis-e-ao.ghtml"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-internacional/trump-anuncia-tarifa-de-50-sobre-carros-e-aco-do-canada-em-2027/"
       }
     ]
   },
@@ -3908,32 +3942,6 @@
       "Politica"
     ],
     "summary": "Esta promete ser uma eleição com baixíssima renovação no Congresso. Dos 513 deputados federais em exercício, 438 vão tentar a reeleição – ou mais de 85% deles, de acordo com um levantamento do Diap, o Departamento Intersindical de Assessoria Parlamentar. É um número recorde desde",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Tentativa de polir credenciais fiscais de Lula é frustrante",
-    "link": "https://oglobo.globo.com/opiniao/editorial/coluna/2026/08/tentativa-de-polir-credenciais-fiscais-de-lula-e-frustrante.ghtml",
-    "description": "O ministro da Fazenda, Dario Durigan, foi destacado pelo presidente Luiz Inácio Lula da Silva como interlocutor econômico da campanha pela reeleição. Durigan não tem perdido tempo em circular pela Faria Lima para convencer o mercado financeiro das novas credenciais de Lula no campo fiscal, caso seja reeleito. Tem tentado acalmar bancos e gestoras de fundos e se mostrado aberto às críticas. A julgar, porém, pela ansiedade na flutuação de indicadores como dólar, ações e, principalmente, títulos do governo, o fracasso da iniciativa é patente. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-08-23T03:10:15+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O ministro da Fazenda, Dario Durigan, foi destacado pelo presidente Luiz Inácio Lula da Silva como interlocutor econômico da campanha pela reeleição. Durigan não tem perdido tempo em circular pela Faria Lima para convencer o mercado financeiro das novas credenciais de Lula no cam",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "A barbárie que une García Lorca, Victor Jara e Honestino",
-    "link": "https://oglobo.globo.com/opiniao/dorrit-harazim/coluna/2026/08/a-barbarie-que-une-garcia-lorca-victor-jara-e-honestino.ghtml",
-    "description": "Três gerações depois do sombrio 18 de agosto de 1936, ainda é proibido esquecer. Passaram 90 anos desde o fuzilamento do poeta Federico García Lorca por falangistas de Granada. Seu corpo nunca foi encontrado. Segunda-feira passada, dia 17, a homenagem mais vibrante e desempoeirada ocorreu nas ruas de Madri, quando uma ruidosa centena de jovens artistas emergiu do Palácio de Velázquez carregando (com autorização do Ministério da Igualdade) uma pequena estátua de Lorca sorridente. Num misto de “procissão laica” com flashmob a que foram se juntando cidadãos comuns, o cortejo seguiu até a Plaza de Santa Ana, no Barrio de las Letras. Ali, cantaram, declamaram e dançaram aos pés da estátua oficial, em bronze e tamanho natural, do cultuado dramaturgo de “La Casa de Bernarda Alba”. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-08-23T03:05:15+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Três gerações depois do sombrio 18 de agosto de 1936, ainda é proibido esquecer. Passaram 90 anos desde o fuzilamento do poeta Federico García Lorca por falangistas de Granada. Seu corpo nunca foi encontrado. Segunda-feira passada, dia 17, a homenagem mais vibrante e desempoeirad",
     "relevance": 5
   }
 ]
