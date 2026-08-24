@@ -1,5 +1,18 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Ásia: Preço do petróleo recua com mercado à espera de anúncio de sanções dos EUA contra Irã",
+    "link": "https://valor.globo.com/financas/noticia/2026/08/24/sia-preo-do-petrleo-recua-com-mercado-espera-de-anncio-de-sanes-dos-eua-contra-ir.ghtml",
+    "description": "Os contratos futuros de petróleo bruto recuaram no início das negociações na Ásia, antes da entrevista coletiva do secretário do Tesouro americano, Scott Bessent, sobre as sanções planejadas pelos Estados Unidos contra o Irã, prevista para segunda-feira. \n\nEspera-se que os americanos anunciem novas sanções, uma vez que o impasse sobre o Estreito de Ormuz persiste sem sinais de acordo entre Washington e Teerã. \n\nAs medidas representariam a maior campanha de \"isolamento econômico coordenado da história mundial\", disse Bessent à CNBC na semana passada. \n\n\"O petróleo provavelmente será o principal canal pelo qual sanções mais rigorosas afetarão os mercados, com os investidores observando atentamente se uma fiscalização mais rígida restringirá as exportações iranianas ou complicará a logística dos embarques de petróleo\", afirmou James Ooi, estrategista de mercado da Tiger Brokers, em uma nota. \n\nOs contratos futuros de petróleo bruto West Texas Intermediate (WTI) para entrega em setembro caíram 1,6%, para US$ 85,67 o barril, enquanto os contratos futuros de petróleo Brent para entrega em setembro recuaram 1,4%, para US$ 93,05 o barril, segundo dados da ICE.",
+    "published": "2026-08-24T04:34:31+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Os contratos futuros de petróleo bruto recuaram no início das negociações na Ásia, antes da entrevista coletiva do secretário do Tesouro americano, Scott Bessent, sobre as sanções planejadas pelos Estados Unidos contra o Irã, prevista para segunda-feira. \n\nEspera-se que os americ",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Cotado para disputar comando da Fifa com Infantino, presidente da Uefa nega candidatura: 'Não estou interessado'",
     "link": "https://oglobo.globo.com/esportes/futebol-internacional/noticia/2026/08/24/cotado-para-disputar-comando-da-fifa-com-infantino-presidente-da-uefa-nega-candidatura-nao-estou-interessado.ghtml",
@@ -425,6 +438,18 @@
       "Mercado Financeiro"
     ],
     "summary": "O presidente do Federal Reserve (Fed) dos Estados Unidos, Kevin Warsh, tentará acalmar o nervosismo dos investidores nesta semana, em meio ao aumento dos sinais de pressão sobre a economia e enquanto autoridades se preparam para se reunir no simpósio anual de Jackson Hole, em um ",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Quando é o próximo debate presidencial nas eleições 2026?",
+    "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/23/quando-e-o-proximo-debate-presidencial-nas-eleicoes-2026.ghtml",
+    "description": "Os primeiros confrontos na TV entre os candidatos a presidente nas eleições 2026 já começaram.  O debate da Band deste domingo (23) reuniu uma parte dos 13 candidatos registrados ao cargo de presidente da República no Tribunal Superior Eleitoral (TSE). \nOutros debates irão acontecer antes da votação de 4 de outubro. Os candidatos à Presidência ainda se enfrentarão em confrontos transmitidos por diferentes emissoras e plataformas até a realização do primeiro turno. Confira abaixo:\nDebate Hora da Decisão \nO próximo debate presidencial será realizado por um consórcio formado por 11 meios de comunicação e será transmitido na segunda-feira, 14 de setembro, a partir das 22h. Fazem parte desse grupo: CNN Brasil, Exame, Metrópoles, SBT, SBT News, Nova Brasil FM, Rádio Itatiaia, Rede Vida, Terra, VEJA+ TV e RedeTV!. \nCada meio de comunicação fara sua própria transmissão em seus canais oficiais, que podem variar entre televisão aberta, por assinatura, rádio, plataformas de streaming e portais de notícia. \nDebate na Record\nO terceiro debate dos candidatos à Presidência da República será realizado pela Record no domingo, dia 27 de setembro, às 21h. \nA transmissão começa após o Domingo Espetacular e poderá ser acompanhada pelo canal de televisão da emissora, pelo site do R7 e também no RecordPlay. \nDebate na Globo\nO último debate acontece na semana do primeiro turno das eleições. Na quarta-feira, 1° de outubro, a TV Globo transmite o encontro dos candidatos à presidência logo depois do Jornal Nacional, no horário da novela das 21h. \nO encontro será transmitido também pelo g1 e pela GloboNews. \nDebates para candidatos a presidente no 1º turno das eleições 2026\n*Estagiário sob supervisão de Diogo Max",
+    "published": "2026-08-23T23:30:16+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Os primeiros confrontos na TV entre os candidatos a presidente nas eleições 2026 já começaram.  O debate da Band deste domingo (23) reuniu uma parte dos 13 candidatos registrados ao cargo de presidente da República no Tribunal Superior Eleitoral (TSE). \nOutros debates irão aconte",
     "relevance": 5
   },
   {
@@ -1016,7 +1041,13 @@
       "Mercado Financeiro"
     ],
     "summary": "A Alibaba Group pretende levantar cerca de  US$ 10,2 bilhões com uma oferta de ações, em mais um movimento para disputar a liderança global em inteligência artificial. A gigante do varejo on-line que se transformou em uma empresa de IA está oferecendo 710 milhões de ações a HK$ 1",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/empresas/noticia/2026/08/24/alibaba-captar-us-10-bilhes-com-novas-aes-em-hong-kong-para-financiar-ia.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3781,30 +3812,6 @@
       "Politica"
     ],
     "summary": "Saiba como foi o dia do candidato André Luís ao governo do Maranhão\nOs candidatos ao governo do Maranhão cumpriram agendas de campanha nesta sexta-feira (21). As atividades incluíram entrevistas, reuniões políticas, panfletagem e conversas com eleitores.\nEntre os compromissos, os",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Cristo Redentor adota certificação climática e terá plano para reduzir emissões de gases de efeito estufa",
-    "link": "https://oglobo.globo.com/rio/noticia/2026/08/21/cristo-redentor-adota-certificacao-climatica-e-tera-plano-para-reduzir-emissoes-de-gases-de-efeito-estufa.ghtml",
-    "description": "O Cristo Redentor será submetido a um processo de certificação climática para medir o impacto ambiental das atividades turísticas realizadas no monumento e estabelecer medidas para reduzir as emissões de gases de efeito estufa. O acordo foi assinado nesta sexta-feira pelo reitor do Santuário Cristo Redentor, padre Omar, e pela diretora da Green Initiative International para a América Latina, Luciana Visnevski. \nLeia mais: Terceiro suspeito de envolvimento na morte de ciclista espancado em Copacabana se entrega à polícia\nBarbárie em Copacabana: Em seis minutos, vítima de espancamento levou 57 pauladas, além de pisões, chutes e socos\nComo parte da celebração, o monumento recebeu iluminação verde entre 20h e 21h. O processo de certificação será realizado entre 2026 e 2028, com ciclos anuais de avaliação.\nA primeira etapa prevê o levantamento das emissões associadas à atividade turística no Santuário, além da análise da capacidade de captura de carbono das áreas florestais do entorno. Os dados serão usados para elaborar um diagnóstico climático e, posteriormente, um Plano de Ação Climática, com metas e medidas de curto e médio prazo.\nA proposta é reduzir as emissões e avançar na descarbonização das operações turísticas do Santuário. A Green Initiative ficará responsável pelo suporte técnico e pela mobilização de recursos para a implementação das ações previstas, sem custos para o Cristo Redentor.\nAo fim de cada ciclo, de acordo com os resultados alcançados, o Santuário poderá receber as certificações Climate Positive ou Carbon Neutral.\nCompromisso internacional\nA iniciativa dá continuidade à adesão do Santuário Cristo Redentor à \"Declaração de Glasgow\" sobre Ação Climática no Turismo, formalizada em novembro de 2025, durante a COP30, em Belém. O documento, lançado em 2021 na COP26, estabelece compromissos voluntários para empresas e organizações do setor turístico em relação à redução das emissões e à adaptação às mudanças climáticas.\nEntre os compromissos assumidos pelos signatários estão a meta de reduzir as emissões pela metade até 2030 e alcançar emissões líquidas zero até, no máximo, 2050. A declaração também prevê a elaboração de planos de ação climática, a adoção de medidas em cinco frentes — medir, descarbonizar, regenerar, colaborar e financiar — e a divulgação anual dos avanços.\nSegundo o Santuário, os ciclos anuais de certificação permitirão acompanhar e divulgar periodicamente os resultados das ações, com verificação baseada em padrões internacionais.\nInitial plugin text",
-    "published": "2026-08-21T23:59:40+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "O Cristo Redentor será submetido a um processo de certificação climática para medir o impacto ambiental das atividades turísticas realizadas no monumento e estabelecer medidas para reduzir as emissões de gases de efeito estufa. O acordo foi assinado nesta sexta-feira pelo reitor ",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Eleições 2026: quando acontece o segundo turno",
-    "link": "https://oglobo.globo.com/politica/eleicoes-2026/guia/eleicoes-2026-quando-acontece-o-segundo-turno.ghtml",
-    "description": "No segundo turno das eleições 2026, o eleitor poderá escolher, eventualmente, representantes para os cargos de presidente da República e governador. A nova data será usada, nesses cargos, em locais onde não houve maioria de votos em um dos candidatos (mais de 50%, sem a contabilização de votos brancos e nulos). O pleito está marcado para o dia 25 de outubro. \nEsquerda, direita ou centro? Teste indica sua posição política\nCom qual candidato a presidente você mais se identifica? Responda às perguntas e descubra qual candidato tem a visão mais parecida com a sua\nO que levar no dia da votação?\nNo segundo turno, as regras são as mesmas da primeira data de votação. Eleitoras e eleitores deverão apresentar, na seção eleitoral, um documento oficial com foto para se identificar e exercer o direito ao voto. A apresentação do título de eleitor no dia da eleição, no entanto, não é obrigatória. Confira quais documentos podem ser apresentados para confirmação da identidade:\nCarteira de identidade (RG); \nCarteira Nacional de Habilitação (CNH); \nCertificado de reservista; \nCarteira de trabalho; \nPassaporte; e  \nCarteira de categoria profissional reconhecida por lei.  \nEsses documentos poderão ser usados ainda que a data de validade esteja vencida. As certidões de nascimento ou de casamento não valem como prova de identidade na hora de votar.\nAplicativo e-Título \nTambém é possível se identificar perante a mesária ou o mesário apresentando o e-Título com foto. O aplicativo móvel da Justiça Eleitoral funciona como uma versão digital do título de eleitor.  \nVale ressaltar que a fotografia no app só estará disponível para quem já realizou o cadastramento biométrico na Justiça Eleitoral. Caso a fotografia não apareça na versão digital, será necessário levar também um documento oficial com foto para votar.  \nCalendário das eleições 2026: 2º turno\n9 a 23 de outubro: Veiculação da propaganda eleitoral gratuita no rádio e na TV.\n10 de outubro: Candidatos participantes do 2º turno não podem ser presos, exceto em flagrante.\n19 de outubro: Eleitores não podem ser presos, exceto em flagrante, por crime inafiançável ou quebra de salvo-conduto.\n24 a 26 de outubro: Nova restrição de porte e transporte de armas de fogo para CACs em território nacional.\n25 de outubro: 2º turno das Eleições 2026",
-    "published": "2026-08-21T23:59:01+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "No segundo turno das eleições 2026, o eleitor poderá escolher, eventualmente, representantes para os cargos de presidente da República e governador. A nova data será usada, nesses cargos, em locais onde não houve maioria de votos em um dos candidatos (mais de 50%, sem a contabili",
     "relevance": 5
   }
 ]
