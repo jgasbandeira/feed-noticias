@@ -1,5 +1,18 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Flávio Bolsonaro justifica ausência no debate dizendo que só confronto com Lula interessa",
+    "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/23/flvio-bolsonaro-justifica-ausncia-no-debate-dizendo-que-s-confronto-com-lula-interessa.ghtml",
+    "description": "O candidato à Presidência Flávio Bolsonaro (PL) justificou a ausência no debate entre presidenciáveis organizado pela TV Band, neste domingo (23), e afirmou que pretende confrontar diretamente o presidente Luiz Inácio Lula da Silva (PT), a quem apontou como seu principal adversário na eleição.\n\nEm vídeo divulgado nas redes sociais, Flávio disse respeitar os demais presidenciáveis, mas argumentou que eles não representam o projeto político que pretende enfrentar. “Os que vão debater hoje não são meus adversários. Eu respeito todos eles, mas eles definitivamente não são meus adversários. O meu adversário é quem está no poder e está destruindo o Brasil”, afirmou.\n\nFlávio disse que quer debater com quem considera responsável pela perda do poder de compra da população, pelo endividamento das famílias e pelas dificuldades enfrentadas pelas empresas. “Eu quero debater, eu quero debater sim, mas eu quero debater com quem está destruindo o Brasil e piorando a sua vida”, declarou.\n\nFlávio fez críticas à atual gestão do governo e citou o fechamento das Casas Bahia, o aumento da inflação e a investigação da Polícia Federal (PF) que apura suposto tráfico de influência praticado pelo filho de Lula, Fábio Luís da Silva, o Lulinha.\n\nO debate deste domingo não contou com as presenças de Luiz Inácio Lula da Silva (PT), Flávio Bolsonaro e Romeu Zema (Novo). Participaram apenas os presidenciáveis Ronaldo Caiado (PSD), Renan Santos (Missão) e Augusto Cury (Avante).",
+    "published": "2026-08-24T01:28:02+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O candidato à Presidência Flávio Bolsonaro (PL) justificou a ausência no debate entre presidenciáveis organizado pela TV Band, neste domingo (23), e afirmou que pretende confrontar diretamente o presidente Luiz Inácio Lula da Silva (PT), a quem apontou como seu principal adversár",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Debate presidencial 2026 na Band: colunistas do GLOBO avaliam quem ganhou o duelo entre os candidatos",
     "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/23/debate-presidencial-2026-na-band-colunistas-do-globo-avaliam-quem-ganhou-o-duelo-entre-os-candidatos.ghtml",
@@ -2521,6 +2534,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/23/sem-confirmar-presenca-em-debate-flavio-bolsonaro-e-lula-nao-tem-agendas-neste-domingo.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/23/o-que-lula-e-flavio-bolsonaro-fizeram-durante-debate-presidencial-da-band.ghtml"
       }
     ]
   },
@@ -3812,18 +3829,6 @@
       "Economia"
     ],
     "summary": "Polícia Federal apura se juros em vendas parceladas foram omitidos para diminuir bônus de funcionários",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "EUA dizem que STF usou registro falso para prender Filipe Martins",
-    "link": "https://www.poder360.com.br/poder-justica/eua-dizem-que-stf-usou-registro-falso-para-prender-filipe-martins/",
-    "description": "Em 2024, o STF decretou prisão preventiva contra o ex-assessor especial para assuntos internacionais do governo de Jair Bolsonaro por suspeita de fuga no julgamento da trama golpista",
-    "published": "2026-08-21T22:21:30+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Em 2024, o STF decretou prisão preventiva contra o ex-assessor especial para assuntos internacionais do governo de Jair Bolsonaro por suspeita de fuga no julgamento da trama golpista",
     "relevance": 5
   }
 ]
