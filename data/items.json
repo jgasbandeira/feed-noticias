@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "Clariana Barão, do DC, defende reforma no STF e fim da 6 X 1",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/clariana-barao-do-dc-defende-reforma-no-stf-e-fim-da-6-x-1/",
+    "description": "Candidata do DC à Presidência defendeu uma revisão dos processos do 8 de Janeiro e disse que a política de transferência de renda é o maior acerto do governo do PT",
+    "published": "2026-08-25T23:34:50+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Candidata do DC à Presidência defendeu uma revisão dos processos do 8 de Janeiro e disse que a política de transferência de renda é o maior acerto do governo do PT",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "TSE: Mendonça propõe tese para definir deepfake nas eleições",
     "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/25/tse-mendona-prope-tese-para-definir-deepfake-nas-eleies.ghtml",
@@ -9,7 +21,13 @@
       "Politica"
     ],
     "summary": "O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), propôs nesta terça-feira (25) uma tese para definir que deepfake são conteúdos gerados por inteligência artificial (IA) que emulam a voz e a imagem de pessoas reais ou fictícias. A prática é vedada. \n\nA proposta se ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/25/mendonca-propoe-que-tse-discuta-tese-que-flexibiliza-uso-de-deepfake-nas-eleicoes.ghtml"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
@@ -60,6 +78,18 @@
       "Politica"
     ],
     "summary": "Angelynn “Angie” Mock , de 48 anos, ex-âncora de telejornal da Fox News, se declarou culpada na última sexta-feira (21) pelo assassinato de sua mãe de 80 anos, em um ataque a facadas que ocorreu no Halloween do ano passado.\n'Messi do xadrez', argentino de 12 anos volta a vencer M",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Quaest no TO: 61% aprovam e 21% desaprovam governo de Wanderlei Barbosa",
+    "link": "https://g1.globo.com/to/tocantins/eleicoes/2026/noticia/2026/08/25/uaest-to-avaliacao-governo-25-agosto.ghtml",
+    "description": "Quaest divulga avaliação do governo de Wanderlei Barbosa\nPesquisa Quaest divulgada nesta terça-feira (25) mostra como está a avaliação do governo de Wanderlei Barbosa (Republicanos) e os índices de aprovação e desaprovação. O levantamento foi encomendado pela TV Anhanguera. \n📱 Clique aqui para seguir o canal do g1 TO no WhatsApp \nAprovação do governo \nDesaprovam:  21%\nAprovam: 61%\nNão sabe/não respondeu: 18%\nAvaliação do governo \nPositivo: 46%\nRegular: 37%\nNegativo: 11%\nNão sabe/não respondeu: 6%\nGovernador do Tocantins, Wanderlei Barbosa\nAntonio Gonçalves/Governo do Tocantins\nWanderlei Barbosa merece ser reeleito ou merece eleger um sucessor? \nSim, merece: 51%\nNão: 33%\nNão sabe/não respondeu: 16%\nRumos do governo estadual \n23% dos eleitores dizem que o governador a ser eleito deve continuar o trabalho que vem sendo feito. \n41% defendem mudar apenas o que não está bom.\n31% consideram que é necessário mudar totalmente.\nNão sabe/não respondeu: 5%\nPrincipal problema do estado \nA Quaest perguntou aos eleitores qual é o principal problema do estado. Veja os temas mais citados. \nSaúde: 41%\nViolência: 8%\nInfraestrutura: 7%\nCorrução: 6%\nEconomia: 6%\nDesemprego: 5%\nEducação: 5%\nPobreza/Desigualdade: 1%\nOutros: 3%\nNenhum problema/não tem: 2%\nNão sabe/não respondeu: 16%\nA Quaest ouviu 804 pessoas de 16 anos ou mais entre os dias 21 e 24 de agosto. A margem de erro é de 3 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro no TSE é TO-02161/2026.\nVeja mais notícias da região no g1 Tocantins.",
+    "published": "2026-08-25T23:03:10+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Quaest divulga avaliação do governo de Wanderlei Barbosa\nPesquisa Quaest divulgada nesta terça-feira (25) mostra como está a avaliação do governo de Wanderlei Barbosa (Republicanos) e os índices de aprovação e desaprovação. O levantamento foi encomendado pela TV Anhanguera. \n📱 Cl",
     "relevance": 5
   },
   {
@@ -2106,7 +2136,13 @@
       "Politica"
     ],
     "summary": "Daniel Perez, já aprovado pelo Senado dos EUA, ainda aguarda aval do governo Lula para assumir a embaixada em Brasília\nThe post Futuro embaixador dos EUA diz que não interferirá na eleição brasileira appeared first on InfoMoney.",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/25/apontado-por-trump-para-ser-embaixador-no-brasil-diz-que-nao-ira-interferir-nas-eleicoes.ghtml"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
@@ -3870,30 +3906,6 @@
       "Politica"
     ],
     "summary": "O governo do presidente americano, Donald Trump, planeja impor uma taxa de US$ 103 mil (R$ 531,4 no câmbio atual) para a emissão de vistos da categoria H-1B, destinados a profissionais estrangeiros qualificados. Uma proposta regulatória apresentada pelas autoridades na segunda-fe",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Estádio se nega a receber Kanye West e coloca apresentações do cantor na Rússia em dúvida",
-    "link": "https://oglobo.globo.com/cultura/noticia/2026/08/25/estadio-se-nega-a-receber-kanye-west-e-coloca-apresentacoes-do-cantor-na-russia-em-duvida.ghtml",
-    "description": "Os shows Kanye West, legalmente identificado como Ye, entraram em dúvida na Rússia depois que a Gazprom Arena, em São Petersburgo, afirmou que não assinou contrato para receber as apresentações. Os eventos estavam previstos para 10 e 11 de outubro e, segundo as informações divulgadas, tinham ingressos esgotados. A produtora responsável, Say Agency, porém, afirma que os shows não foram cancelados e tenta resolver a situação com o estádio.\n'NAZA': Documentário sobre Gaza que aborda assassinato de civis por Israel será lançado no Festival de Cinema de Veneza\nPrimeira viagem com a filha e 'zero medo de avião': Como Lito Sousa ajudou famosos a superar desafios\nEm uma publicação nas redes sociais, a Gazprom Arena informou que nenhum contrato de aluguel havia sido assinado com os organizadores.\n\"Consequentemente, o show não pode acontecer em nossas instalações\", informou o estádio.\nA arena afirmou ainda que os eventos foram organizados pela Say Agency, com sede em Moscou.\nProdutora diz que foi surpreendida\nA Say Agency afirmou que soube da posição da Gazprom Arena pela imprensa.\n\"Ficamos sabendo [disso] ao mesmo tempo que vocês, pela imprensa\", afirmou a produtora.\nPosteriormente, a agência reforçou que não considerava as apresentações canceladas.\n\"Até o momento, o show de Ye não foi cancelado\", declarou.\nA empresa disse que tentava entrar em contato com o estádio para entender o motivo da publicação e resolver o impasse.\n\"Estamos tentando entrar em contato com o local para descobrir o motivo da publicação e resolver a questão. Manteremos vocês informados\", afirmou a Say Agency.\nSegundo a produtora, os shows haviam sido anunciados no início de agosto com base “em uma carta oficial que foi aprovada pela” Gazprom Arena. Posteriormente, segundo a empresa, o estádio enviou um contrato de aluguel.\nA própria agência reconhece que o documento ainda não havia sido assinado, mas afirma que o prazo para a assinatura só terminaria mais tarde naquela semana.\nA BBC diz ter procurado o assessor de imprensa de West para pedir um posicionamento sobre a situação, mas não recebeu resposta.\nEstádio havia elogiado Kanye\nA Gazprom Arena afirmou que recebeu reclamações sobre as apresentações planejadas e destacou que “não era e não é” responsável pela contratação de Ye.\nA posição contrasta com uma publicação feita pelo próprio estádio na semana anterior, quando as apresentações haviam sido divulgadas de forma positiva nas redes sociais. Na ocasião, a arena chamou Ye de “o artista musical mais influente de nosso tempo”.\nAté o momento, não há uma decisão final sobre a realização dos shows.\nPossível primeira grande apresentação ocidental na Rússia desde 2022\nCaso as apresentações ocorram, Ye seria, segundo as informações apresentadas, o primeiro grande artista ocidental a se apresentar na Rússia desde a invasão da Ucrânia pelo país, em 2022.\nOs shows também acontecem em meio à tentativa do rapper de recuperar a imagem pública depois de anos de comentários antissemitas. Não há indicação, nas informações apresentadas, de interferência direta de autoridades russas na organização das apresentações, embora alguns políticos tenham criticado a contratação.\nEntre eles está Vitaly Milonov, parlamentar russo descrito como conservador, que sugeriu que o rapper apresentasse músicas tradicionais russas em vez do repertório planejado.\n— Talvez depois disso ele pare com suas atitudes repugnantes e se torne uma pessoa normal — afirmou Milonov.\nFãs reagem ao impasse\nA indefinição provocou reações entre fãs que acompanham a Say Agency no Telegram. Um deles escreveu:\n\"Esse foi o show mais curto da minha vida\", comentou o usuário.\nOutro afirmou:\n\"É uma pena que o governo esteja colocando obstáculos no caminho de vocês\", escreveu.\nA Say Agency reconheceu a controvérsia em torno do histórico de Ye e, na semana anterior, publicou uma mensagem defendendo a decisão de levá-lo para se apresentar na Rússia.\n\"Nem tudo o que Kanye West disse deve ser esquecido\", afirmou a agência.\nA empresa acrescentou: \"Muitas pessoas estão falando sobre Kanye hoje. Muitos estão tentando criticá-lo por palavras ditas durante momentos difíceis\", escreveu. \"É fácil julgar com base em uma única declaração. É mais difícil ouvir uma pessoa que vem transformando a indústria há décadas. Nós ouvimos, e queremos lembrar vocês disso\".\nHistórico de controvérsias\nOs comentários antissemitas de West começaram em 2022, quando ele publicou uma série de declarações ofensivas nas redes sociais. As publicações levaram à suspensão de suas contas, enquanto empresas como Adidas e Balenciaga encerraram relações comerciais com o artista.\nWest chegou a afirmar que era “um nazista”. Também lançou a música Heil Hitler e vendeu camisetas com uma suástica.\nEm janeiro deste ano, publicou um pedido de desculpas em um anúncio de página inteira no Wall Street Journal.\n— Não sou nazista nem antissemita — afirmou West.\nNo texto, descreveu um “episódio maníaco de quatro meses de comportamento psicótico, paranoico e impulsivo” e afirmou estar “profundamente envergonhado” por suas ações.\nWest também relacionou o comportamento ao transtorno bipolar e escreveu que isso fazia com que “você fique maníaco [e] não pense que está doente”.\nO momento do pedido de desculpas foi questionado por algumas pessoas porque coincidiu com o lançamento do álbum Bully e com o início de sua turnê mundial.\nShows anteriores foram cancelados\nWest voltou a se apresentar em Los Angeles no início deste ano. Segundo as informações apresentadas, os shows evitaram em grande parte referências aos episódios controversos dos últimos seis anos.\nEm abril, ele realizou em Los Angeles seu primeiro grande show nos Estados Unidos em mais de cinco anos. Apresentações planejadas na Inglaterra, França, Itália e Polônia foram canceladas por causa de seu comportamento no passado.\nEnquanto isso, permanece a divergência entre a Gazprom Arena e a Say Agency. O estádio afirma que, sem contrato assinado, os shows não podem ocorrer no local. A produtora diz que as apresentações seguem de pé e que tenta solucionar a questão. Até o momento, não foi informada uma decisão definitiva sobre os eventos.",
-    "published": "2026-08-25T11:04:51+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Os shows Kanye West, legalmente identificado como Ye, entraram em dúvida na Rússia depois que a Gazprom Arena, em São Petersburgo, afirmou que não assinou contrato para receber as apresentações. Os eventos estavam previstos para 10 e 11 de outubro e, segundo as informações divulg",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Paquistão e Irã discutem retomada de acordo para encerrar a guerra, diz ministro",
-    "link": "https://www.infomoney.com.br/mundo/paquistao-e-ira-discutem-retomada-de-acordo-para-encerrar-a-guerra-diz-ministro/",
-    "description": "Segundo o ministro paquistanês, \"progresso significativo foi alcançado\", e a reunião terminou em uma \"nota altamente positiva\"\nThe post Paquistão e Irã discutem retomada de acordo para encerrar a guerra, diz ministro appeared first on InfoMoney.",
-    "published": "2026-08-25T11:02:24+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Segundo o ministro paquistanês, \"progresso significativo foi alcançado\", e a reunião terminou em uma \"nota altamente positiva\"\nThe post Paquistão e Irã discutem retomada de acordo para encerrar a guerra, diz ministro appeared first on InfoMoney.",
     "relevance": 5
   }
 ]
