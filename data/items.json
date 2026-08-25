@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "Zema diz que tribunais fazem “mais política do que justiça”",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/zema-diz-que-tribunais-fazem-mais-politica-do-que-justica/",
+    "description": "Candidato defende anistia para condenados pelo 8 de Janeiro e afirma confiar nas urnas eletrônicas",
+    "published": "2026-08-25T02:44:34+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Candidato defende anistia para condenados pelo 8 de Janeiro e afirma confiar nas urnas eletrônicas",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Janja repudia fala de Renan Santos e diz ver padrão de desrespeito às mulheres",
     "link": "https://valor.globo.com/noticia/2026/08/24/janja-repudia-fala-de-renan-santos-e-diz-ver-padro-de-desrespeito-s-mulheres.ghtml",
@@ -100,6 +112,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/fato-ou-fake/noticia/2026/08/24/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-romeu-zema-a-globo.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/24/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-romeu-zema-a-globo.ghtml"
       }
     ]
   },
@@ -306,7 +322,13 @@
       "Politica"
     ],
     "summary": "O Supremo Tribunal Federal (STF) criou uma nova gratificação para servidores que ocupam os principais cargos comissionados da Corte, incluindo assessores e chefes de gabinete de ministros. O adicional poderá chegar a 22,5% da remuneração e deve alcançar 276 servidores, com pagame",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/08/24/stf-d-gratificao-de-at-225-pontos-percentuais-a-servidores-em-meio-a-discusses-sobre-limitao-de-penduricalhos.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -4024,20 +4046,6 @@
       "Mercado Financeiro"
     ],
     "summary": "A Sequoia Logística precisou primeiro encolher para poder pensar em crescer. A companhia deu início ao seu processo de reestruturação financeira e operacional em 2023, abandonou a logística B2C para o e-commerce, vendeu ativos, reduziu estruturas, renegociou passivos e converteu ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Bolsas da Ásia fecham em queda com tensão entre EUA e Irã e oferta de ações da Alibaba",
-    "link": "https://valor.globo.com/financas/noticia/2026/08/24/bolsas-da-asia-fecham-em-queda-com-tensao-entre-eua-e-ira-e-oferta-de-acoes-da-alibaba.ghtml",
-    "description": "As bolsas da Ásia fecharam em queda nesta segunda-feira, enquanto os investidores aguardavam detalhes das ameaças de sanções dos Estados Unidos contra o Irã, e uma vez que uma oferta de ações inesperada da gigante de tecnologia chinesa Alibaba reacendeu preocupações sobre os gastos com inteligência artificial (IA) e pressionou o setor de tecnologia.\n\nO índice Nikkei 225, de Tóquio, recuou 0,74%, a 65.528,09 pontos, e o índice Kospi, de Seul, caiu 3,12%, a 6.696,96 pontos. Em Hong Kong, o índice Hang Seng diminuiu 1,89%, a 25.517,33 pontos e, na China continental, o índice Xangai Composto registrou desvalorização de 0,59% a 3.882,00 pontos.\n\nO secretário do Tesouro dos Estados Unidos, Scott Bessent, deve realizar uma coletiva de imprensa ainda nesta segunda-feira para detalhar as sanções contra o Irã, que não demonstra qualquer intenção de abrir mão do controle sobre o crucial Estreito de Ormuz. Os contratos futuros de petróleo caíram mais de 1% antes do anúncio, com alguns operadores realizando lucros após os grandes ganhos da semana passada. \n\nO setor de tecnologia estava em alerta para os resultados da Nvidia na quarta-feira. Os investidores sabem o quão difícil será para a fabricante de chips atender às expectativas altíssimas. “A grande notícia desta semana será o balanço da Nvidia. O tom disso pode influenciar o sentimento no mercado Nasdaq”, disse Mark Ellis, diretor de investimentos da Nutshell Asset Management. \n\nAnalistas geralmente esperam que a receita trimestral quase dobre, chegando a cerca de US$ 92 bilhões, com a projeção de lucros para o ano inteiro variando entre US$ 103 bilhões e US$ 105 bilhões.\n\nOs participantes do mercado também esperam alguma clareza sobre as perspectivas para as taxas de juros dos Estados Unidos quando o presidente do Federal Reserve (Fed), Kevin Warsh, discursar em Jackson Hole, Wyoming, na sexta-feira, embora sua conhecida aversão a orientações futuras possa levar à decepção.\n\nNa China, as ações da gigante de mercado Alibaba caíram até 10,5%, registrando a mínima de um mês, após a empresa anunciar uma oferta de ações de 80 bilhões de dólares de Hong Kong (US$ 10,2 bilhões) com desconto de 8,4% em relação ao preço de fechamento de sexta-feira, a maior oferta subsequente (follow-on) primária da história da cidade, para financiar seu desenvolvimento em IA. \n\n“Essa oferta surpreendeu bastante o mercado, tanto pelo tamanho quanto pelo desconto”, disse Jason Chan, estrategista do Bank of East Asia. “Haverá certa pressão de diluição sobre as ações, e os mercados voltarão a questionar o retorno que a intensa concorrência em IA pode gerar”, acrescentou ele. \n\nNa Coreia do Sul, as ações da Samsung Electronics cederam mais de 8% após um plano recorde de retorno aos acionistas decepcionar os investidores, que esperavam uma parcela maior dos lucros extraordinários impulsionados pela inteligência artificial.\n\nEugene Hoshiko, File/AP Photo",
-    "published": "2026-08-24T10:48:44+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro",
-      "Asset"
-    ],
-    "summary": "As bolsas da Ásia fecharam em queda nesta segunda-feira, enquanto os investidores aguardavam detalhes das ameaças de sanções dos Estados Unidos contra o Irã, e uma vez que uma oferta de ações inesperada da gigante de tecnologia chinesa Alibaba reacendeu preocupações sobre os gast",
     "relevance": 5
   }
 ]
