@@ -1,5 +1,41 @@
 [
   {
+    "source": "Poder360",
+    "title": "MP Eleitoral pede a impugnação de 557 candidaturas em São Paulo",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/mp-eleitoral-pede-a-impugnacao-de-557-candidaturas-em-sao-paulo/",
+    "description": "Os partidos Agir, DC e Mobiliza são alvo de ações por descumprimento da cota de gênero para deputado estadual",
+    "published": "2026-08-27T01:10:38+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Os partidos Agir, DC e Mobiliza são alvo de ações por descumprimento da cota de gênero para deputado estadual",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "CVM diz que OPA bilionária da Oncoclínicas tem que ocorrer em até 60 dias e vai beneficiar todos os acionistas",
+    "link": "https://oglobo.globo.com/blogs/capital/post/2026/08/cvm-diz-que-opa-bilionaria-da-oncoclinicas-tem-que-ocorrer-em-ate-60-dias-e-vai-beneficiar-todos-os-acionistas.ghtml",
+    "description": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-08-27T01:08:58+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Renan diz que não vai desrespeitar STF, mas defende descumprir decisões “ilegais”",
+    "link": "https://www.infomoney.com.br/politica/renan-diz-que-nao-vai-desrespeitar-stf-mas-defende-descumprir-decisoes-ilegais/",
+    "description": "Candidato do Missão afirma que qualquer cidadão tem o dever de não cumprir decisões que considerar ilegais\nThe post Renan diz que não vai desrespeitar STF, mas defende descumprir decisões “ilegais” appeared first on InfoMoney.",
+    "published": "2026-08-27T01:00:55+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Candidato do Missão afirma que qualquer cidadão tem o dever de não cumprir decisões que considerar ilegais\nThe post Renan diz que não vai desrespeitar STF, mas defende descumprir decisões “ilegais” appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Renan Santos diz que fará cortes de gastos para estabilizar dívida pública",
     "link": "https://www.infomoney.com.br/politica/renan-santos-diz-que-fara-cortes-de-gastos-para-estabilizar-divida-publica/",
@@ -404,7 +440,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O lucro da Nvidia no segundo trimestre deste ano dobrou para US$ 59,68 bilhões, avanço de 126% na comparação com igual período de 2025, segundo dados divulgados nesta quarta-feira pela companhia. A receita mais que dobrou, subindo 106%, a US$ 96,2 bilhões.\nJulgamento histórico: M",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Economia",
+        "link": "https://g1.globo.com/tecnologia/noticia/2026/08/26/lucro-nvidia.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3310,6 +3352,19 @@
     "relevance": 5
   },
   {
+    "source": "G1 - Economia",
+    "title": "Bill Gates alerta para perigos da IA e quer discutir regras com Xi Jinping, presidente da China",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/08/26/bill-gates-alerta-para-perigos-da-ia-e-quer-discutir-regras-com-xi-jinping-presidente-da-china.ghtml",
+    "description": "Na China, seu rosto já pode ser alugado ou vendido para a IA\nBill Gates, cofundador da Microsoft, pretende se encontrar com o presidente da China, Xi Jinping, ainda neste ano para discutir formas de reduzir os riscos provocados pelo avanço da inteligência artificial (IA).\nEm entrevista à agencia Reuters, Gates afirmou que acredita que a China poderia concordar em restringir o lançamento de modelos de IA potencialmente perigosos caso os Estados Unidos tomassem a iniciativa primeiro.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\n\"O mundo inteiro concordaria com isso\", disse Gates.\nA equipe do bilionário trabalha para finalizar uma reunião com Xi durante sua próxima viagem à China, prevista para novembro, segundo um porta-voz. Gates já havia se encontrado com o presidente chinês em 2023.\nGates também quer propor que os países monitorem a capacidade da inteligência artificial de criar moléculas e contribuir para ataques biológicos. Segundo ele, esse tipo de acompanhamento não impediria o desenvolvimento da indústria de tecnologia.\nPara o bilionário, poucos líderes mundiais estão agindo com a rapidez necessária para antecipar os possíveis danos provocados pela IA.\n\"Sim, no passado, a tecnologia nunca fazia isso. Desta vez é diferente\", afirmou. \"Isso é como um marco evolutivo que precisa de uma incrível gestão de políticas por parte da sociedade como um todo.\"\nO Ministério das Relações Exteriores da China não respondeu imediatamente ao pedido de comentário da Reuters.\nGates se preocupa com segurança da IA\nGates adotou uma postura mais otimista sobre a inteligência artificial no início deste ano, mas afirma que passou a se preocupar com a possibilidade de a tecnologia ser usada para realizar ataques, substituir trabalhadores e manipular usuários.\nIA da OpenAI furou testes e atacou outra empresa: ela se tornou poderosa demais para ser controlada?\nEle citou como exemplo recentes testes de segurança envolvendo sistemas de inteligência artificial da OpenAI, Anthropic e Meta. Durante avaliações de cibersegurança, os modelos conseguiram realizar ataques contra sites reais.\n\"Esses incidentes de segurança são chocantes e deveriam impressionar as pessoas\", disse Gates\nEm um texto publicado em seu blog nesta quarta-feira (26), o bilionário defendeu a criação de uma organização internacional para administrar questões relacionadas à inteligência artificial.\nA proposta teria elementos de modelos já utilizados em outras áreas, como as inspeções internacionais relacionadas a armas nucleares, as regras da aviação e os acordos para proteção da camada de ozônio.\nGates concorda que os Estados Unidos devem liderar as discussões sobre segurança da IA, mas defende que sejam estabelecidos critérios claros para determinar quais medidas devem ser adotadas.\nImpacto no mercado de trabalho\nAlém dos riscos relacionados à segurança, Gates também demonstrou preocupação com os efeitos da inteligência artificial sobre o mercado de trabalho.\nO bilionário afirmou que considera a possibilidade de criar impostos sobre empresas que utilizem IA para substituir trabalhadores. Segundo ele, a arrecadação poderia ajudar a financiar uma rede de proteção social.\nGates também disse que a sociedade deveria considerar reservar até 40% dos empregos atuais para seres humanos.\nComo exemplo, citou os cuidados que seu pai recebeu durante o período em que teve Alzheimer. Para Gates, atividades relacionadas ao cuidado de pessoas possuem características que não podem ser substituídas pela tecnologia.\nO bilionário também criticou protestos comunitários contra a construção de data centers voltados à inteligência artificial. Segundo ele, essas manifestações deixam de lado uma questão maior: os efeitos da IA sobre o mercado de trabalho.\n\"Espere até realmente estragar o mercado de trabalho\", afirmou.\nFundação Gates\nA Fundação Gates pretende gastar US$ 200 bilhões até 2045, com uma atenção crescente ao uso da inteligência artificial.\nA organização trabalha com a Anthropic no desenvolvimento de exames de saúde para a gravidez com uso de IA e com a OpenAI em projetos voltados a profissionais de saúde em Ruanda.\nGates afirmou ainda que pretende conversar com funcionários das duas empresas sobre projetos de impacto social.\nPara o bilionário, garantir que a inteligência artificial não aumente a desigualdade e não prejudique pessoas vulneráveis deve ser uma das principais prioridades do mundo.\nBill Gates durante o Fórum Econômico Mundial, em maio de 2022\nReuters/Arnd Wiegmann",
+    "published": "2026-08-26T12:36:28+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Na China, seu rosto já pode ser alugado ou vendido para a IA\nBill Gates, cofundador da Microsoft, pretende se encontrar com o presidente da China, Xi Jinping, ainda neste ano para discutir formas de reduzir os riscos provocados pelo avanço da inteligência artificial (IA).\nEm entr",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Inflação nos EUA: núcleo do PCE sobe 0,2% em julho, dentro do esperado",
     "link": "https://www.infomoney.com.br/economia/inflacao-nos-eua-nucleo-do-pce-sobe-02-em-julho-dentro-do-esperado/",
@@ -3868,56 +3923,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Esta reportagem faz parte do Guia Viver pelo Mundo, que reúne informações sobre 36 países como salários, vistos, segurança e custo de vida para quem quer morar fora. Acesse a ferramenta.\nCusto de vida entre os mais acessíveis da América do Sul, economia dolarizada e um dos proces",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta",
-    "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-26082026/",
-    "description": "Índices futuros dos EUA operam mistos à espera do PCE \nThe post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta appeared first on InfoMoney.",
-    "published": "2026-08-26T10:59:45+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Índices futuros dos EUA operam mistos à espera do PCE \nThe post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Oncoclínicas, Hapvida, Bradesco, Azzas, Taesa e mais ações para acompanhar hoje",
-    "link": "https://www.infomoney.com.br/mercados/oncoclinicas-hapvida-bradesco-azzas-taesa-e-mais-acoes-para-acompanhar-hoje/",
-    "description": "Veja os principais destaques do noticiário corporativo desta quarta-feira (26)\nThe post Oncoclínicas, Hapvida, Bradesco, Azzas, Taesa e mais ações para acompanhar hoje appeared first on InfoMoney.",
-    "published": "2026-08-26T10:58:05+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Veja os principais destaques do noticiário corporativo desta quarta-feira (26)\nThe post Oncoclínicas, Hapvida, Bradesco, Azzas, Taesa e mais ações para acompanhar hoje appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "União Pet diz à B3 que R$ 8 bi de faturamento em 2026 não é estimativa oficial",
-    "link": "https://www.infomoney.com.br/mercados/uniao-pet-diz-a-b3-que-r-8-bi-de-faturamento-em-2026-nao-e-estimativa-oficial/",
-    "description": "Valor foi obtido pela anualização da receita bruta de aproximadamente R$ 4,1 bilhões registrada no primeiro semestre\nThe post União Pet diz à B3 que R$ 8 bi de faturamento em 2026 não é estimativa oficial appeared first on InfoMoney.",
-    "published": "2026-08-26T10:56:38+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Valor foi obtido pela anualização da receita bruta de aproximadamente R$ 4,1 bilhões registrada no primeiro semestre\nThe post União Pet diz à B3 que R$ 8 bi de faturamento em 2026 não é estimativa oficial appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "NeoFeed",
-    "title": "“O problema do Brasil não é o endividamento. São os juros”, diz José Dirceu",
-    "link": "https://neofeed.com.br/videos/eleicoes-2026/o-problema-do-brasil-nao-e-o-endividamento-sao-os-juros-diz-jose-dirceu/",
-    "description": "José Dirceu pediu desculpas pela voz, afetada pela mais recente sessão de quimioterapia. Só falta mais uma para que o ex-ministro da Casa Civil do governo Lula 1 se considere curado do câncer do sistema linfático, descoberto no dia 10 de maio. Naquele período, ele já era pré-candidato a deputado federal pelo PT e não [&#8230;]\nO post “O problema do Brasil não é o endividamento. São os juros&#8221;, diz José Dirceu apareceu primeiro em NeoFeed.",
-    "published": "2026-08-26T10:52:54+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "José Dirceu pediu desculpas pela voz, afetada pela mais recente sessão de quimioterapia. Só falta mais uma para que o ex-ministro da Casa Civil do governo Lula 1 se considere curado do câncer do sistema linfático, descoberto no dia 10 de maio. Naquele período, ele já era pré-cand",
     "relevance": 5
   }
 ]
