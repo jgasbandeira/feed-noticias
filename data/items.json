@@ -131,7 +131,13 @@
       "Politica"
     ],
     "summary": "Augusto Jorge Cury é candidato a presidente da República pelo Avante. O médico psiquiatra e escritor, de 67 anos, não possui carreira política e busca ser uma terceira alternativa diante da polarização de Luiz Inácio Lula da Silva versus Flávio Bolsonaro. \nDenominando-se como “me",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/eleicoes-2026/guia/quem-sao-todos-os-candidatos-a-presidencia-da-republica-em-2026-1.ghtml"
+      }
+    ]
   },
   {
     "source": "G1 - Economia",
