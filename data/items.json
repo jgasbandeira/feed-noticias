@@ -1,5 +1,18 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Trump não pode deportar estudantes por criticarem Israel, decide juíza",
+    "link": "https://valor.globo.com/mundo/noticia/2026/08/29/trump-nao-pode-deportar-estudantes-por-criticarem-israel-decide-juiza.ghtml",
+    "description": "Uma juíza federal da Califórnia afirmou que o governo do presidente Donald Trump está silenciando de forma inconstitucional críticos da guerra de Israel em Gaza ao ameaçar deportar estrangeiros que, segundo o governo, provocaram distúrbios em campi universitários ao expressar suas opiniões.\nLeia também:\nColonos de Israel fazem novo ataque contra casas na Cisjordânia\nFT/Análise: Visão de Trump como grande estrategista não sobreviverá ao fiasco no Irã\nA juíza Noël Wise, em decisão divulgada na sexta-feira, deu ganho de causa ao jornal estudantil da Universidade Stanford, que afirmou que alguns estudantes estrangeiros tinham medo de se manifestar devido à ameaça de deportação.\nA decisão se baseia em grande medida nas conclusões apresentadas há quase um ano por um juiz federal de primeira instância em Boston, que determinou que o governo Trump violou a Constituição ao tentar deportar não cidadãos exclusivamente por apoiarem os palestinos e criticarem Israel.\nWise escreveu que as liberdades de expressão e de imprensa são “fundamentais para a continuidade da democracia nos Estados Unidos”. Nesse contexto, a magistrada apontou violações da Primeira e da Quinta Emendas relacionadas à liberdade de expressão e à falta de precisão das normas ao anular partes das disposições usadas pelo governo federal em processos de deportação.\nA juíza também mencionou as represálias adotadas em março de 2025 pelas autoridades de imigração dos EUA contra pessoas que participaram de manifestações de apoio aos palestinos e contra as ações de Israel, que um número crescente de especialistas, incluindo integrantes de uma comissão criada por um órgão da Organização das Nações Unidas (ONU), afirmaram equivaler a genocídio. Wise ainda citou represálias contra pessoas que criticaram Charlie Kirk depois que o cofundador da Turning Point USA foi assassinado em setembro do ano passado.\n“Amanhã, ou talvez até hoje, o alvo poderá ser qualquer pessoa nos Estados Unidos que exerça sua liberdade de expressão simplesmente para manifestar opiniões das quais o governo não gosta”, afirmou a magistrada em San José.\n“Essa espiral descendente é contrária à nossa Constituição, que reconhece nosso direito de falar livremente”, acrescentou. “Aqui, é possível odiar o conteúdo do discurso de uma pessoa e, ao mesmo tempo, amar o país que valoriza a liberdade de permitir que ela se expresse. A defesa zelosa de nosso direito constitucional à liberdade de expressão é uma demonstração contundente da poderosa ausência de medo de nosso país.”\nAté sábado, o Departamento de Justiça não havia respondido a um pedido de comentário sobre a decisão.\nConor Fitzpatrick, advogado da Fundação para os Direitos Individuais e a Expressão, que entrou com a ação, elogiou a decisão.\n“Nos Estados Unidos, a liberdade de expressão não pertence apenas às pessoas que dizem coisas com as quais o governo concorda”, afirmou em comunicado.",
+    "published": "2026-08-29T20:23:41+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Uma juíza federal da Califórnia afirmou que o governo do presidente Donald Trump está silenciando de forma inconstitucional críticos da guerra de Israel em Gaza ao ameaçar deportar estrangeiros que, segundo o governo, provocaram distúrbios em campi universitários ao expressar sua",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Chevron negocia ampliar operações na Venezuela, em vitória potencial para Trump",
     "link": "https://oglobo.globo.com/economia/noticia/2026/08/29/chevron-negocia-ampliar-operacoes-na-venezuela-em-vitoria-potencial-para-trump.ghtml",
@@ -96,6 +109,18 @@
       "Politica"
     ],
     "summary": "O presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, disse que, enquanto for presidente, nenhum governo estrangeiro vai intervir no país.\n\n\"Enquanto eu for presidente, nenhum governo estrangeiro vai meter o bedelho neste país\", disse em discurso durante evento Mulh",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Flávio Bolsonaro diz apostar em 'Nordeste grande' e fala em concluir Angra 3 com iniciativa privada",
+    "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/29/flvio-bolsonaro-cumpre-agenda-em-angra-dos-reis-ao-lado-do-candidato-ao-governo-do-rj-douglas-ruas.ghtml",
+    "description": "O candidato do PL à Presidência da República, senador Flávio Bolsonaro, cumpriu agenda neste sábado (29) em Angra dos Reis, no Rio de Janeiro, onde participou de uma carreata e uma barqueata. Em discurso a apoiadores, ele defendeu o desenvolvimento econômico da região Nordeste do país e falou em buscar o apoio da iniciativa privada, caso seja eleito, para concluir as obras da usina nuclear de Angra 3. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-08-29T18:50:20+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O candidato do PL à Presidência da República, senador Flávio Bolsonaro, cumpriu agenda neste sábado (29) em Angra dos Reis, no Rio de Janeiro, onde participou de uma carreata e uma barqueata. Em discurso a apoiadores, ele defendeu o desenvolvimento econômico da região Nordeste do",
     "relevance": 5
   },
   {
@@ -588,7 +613,13 @@
       "Politica"
     ],
     "summary": "Discord\nIvan Radic/Flickr\nA Justiça Federal do Distrito Federal marcou para a próxima quarta-feira (2) uma audiência de conciliação entre o governo federal e o Discord depois de o governo mover uma ação pedindo que a plataforma seja obrigada a cumprir determinadas medidas para da",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/justica-marca-audiencia-de-conciliacao-entre-governo-e-discord/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3966,32 +3997,6 @@
       "Politica"
     ],
     "summary": "Trump fala com a imprensa na Casa Branca após assinar ordem executiva renomeando o Lago Ontário como Lago América\nEvan Vucci/Reuters\nO presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (28) que está preparando uma ordem para permitir que pecuaristas e agricul",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Aliados veem Lula sob pressão no caso Lulinha e estratégia de terceirizar a ministros debate sobre ajuste fiscal",
-    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/28/aliados-veem-lula-sob-pressao-no-caso-lulinha-e-estrategia-de-terceirizar-a-ministros-debate-sobre-ajuste-fiscal.ghtml",
-    "description": "Aliados do presidente Luiz Inácio Lula da Silva avaliam que a entrevista ao Jornal Nacional expôs que ele se sente sob pressão diante das investigações envolvendo Fábio Luís Lula da Silva, o Lulinha, seu filho, e que evitou se comprometer com o ajuste fiscal em um eventual quarto mandato. Interlocutores próximos a Lula dizem que ele levou adiante na sabatina a estratégia de terceirizar aos ministros da área econômica as conversas que sinalizam uma disposição de corte de gastos.\nLula disse na sabatina não se preocupar com a atual trajetória da dívida pública, que já chegou ao patamar de 80% do Produto Interno Bruto (PIB), e a atribuiu a taxas de juros herdadas da antiga gestão do Banco Central, chefiada por Roberto Campos Neto. Apesar da fala de Lula, a taxa básica de juros do início de seu mandato, que estava em 13,75%, é inferior à taxa atual, de 14%.\n— A mim, não preocupa a dívida pública. Parte dessa dívida é por causa da taxa de juros. Eu entrei e fiquei dois anos com o presidente do Banco Central do Bolsonaro — argumentou Lula. — Quando eu voltei, o país estava destruído. O déficit (primário) era de 2,8% do PIB. No último ano, fizemos 0,8%, e agora vamos fazer superávit primário.\nAliados viram equívoco em Lula ao não reconhecer que há um problema fiscal no país. Um interlocutor frequente do presidente afirma que esse é um tema caro aos eleitores indecisos, que estão em disputa nessas eleições e são cobiçados pela campanha petista. Segundo esse político, apesar de o presidente ter destacado o ministro da Fazenda, Dario Durigan, para ser seu porta-voz na área econômica, é preciso que ele próprio dê atenção ao assunto de forma mais incisiva. Ele diz ainda que a campanha não pode pregar só para convertidos e é preciso voltar as atenções para esse eleitor indeciso.\nLula, no entanto, ainda resiste em fazer esses movimentos.  Integrantes do governo e da campanha ouvidos pelo GLOBO afirmam que, para o grande público, Lula falará sobre o cuidado com as contas públicas do seu jeito: usando o exemplo de economia doméstica adotado pela mãe, dona Lindu, numa tentativa de se conectar diretamente com eleitor, que também sofre com endividamento. Há uma defesa interna da necessidade de um encontro direto de Lula com agentes do mercado e grandes empresários. A agenda está no radar da campanha, mas depende de um aval de Lula para sair do papel. \nPetistas afirmam que o chefe do Executivo está disposto, nesse momento, a fazer críticas mais fortes sobre a taxa de juros e a adotar a estratégia de comparação com o estado das contas deixado pelo ex-presidente Jair Bolsonaro, especialmente com o calote dos precatórios. \nEm paralelo, Lula deixará as sinalizações ao mercado a cargo de Dario Durigan, que tem intensificado as reuniões com o mercado financeiro, economistas e formadores de opinião e reforçado as sinalizações de que Lula, em eventual quarto mandato, segurará as contas. Durigan tem reconhecido a necessidade de adoção de medidas para controlar, sobretudo, o crescimento das despesas obrigatórias. Por orientação de Lula, no entanto, tem evitado se comprometer com detalhes das propostas.\nNa quinta-feira, Lula chegou à entrevista acompanhado de Durigan, considerado hoje um dos principais interlocutores do presidente junto ao mercado, junto com o ministro do Planejamento, Bruno Moretti. Durigan tem se esforçado para deixar claro que há diversas opções em aberto para ajustes e tem indicado a intenção de reduzir o limite de aumento anual de despesas do arcabouço fiscal, atualmente em 2,5%, para algo próximo de 1,5%.\nEssa proposta, no entanto, incomodou setores do PT e do governo, que temem engessar o Orçamento e colide com o pensamento do coordenador do programa de governo, Sergio Gabrielli, que tem defendido que o aumento da dívida não pode ser \"atribuído exclusivamente à suposta irresponsabilidade fiscal\", mas sofre influência de juros, \"inflação esperada, atividade econômica, liquidez, composição da dívida e percepção de risco\".\nDiscurso em teste e deslize com lobista\nO entorno de Lula reconhece que o petista enfrenta hoje o momento mais delicado na sua campanha, pressionado com as revelações das investigações que citam Lulinha e seu ex-chefe de gabinete Marco Aurélio Santana Ribeiro, o Marcola. \nInterlocutores afirmam que Lula testou uma mudança de tom ao ser questionado sobre os dois durante a sabatina do Jornal Nacional, chamando a empresária Roberta Luchsinger de “pilantra” e falando que Marcola cometeu um erro e que é “inadequado” e “totalmente errado” o diálogo dele com a lobista. Lula também afirmou que a Presidência não moverá \"um milímetro\" para beneficiar o filho. Esses trechos, foram recortados para redes sociais de Lula e estão sendo distribuídos para militância. Num momento, ao tratar das revelações sobre Marcola, Lula se disse “deprimido e chateado” pelo caso, falando que o considerava como quase um filho. Ao mesmo tempo, no entanto, expôs sentimento pessoal de contrariedade com os fatos, chamou de “ilações” as suspeitas envolvendo o filho e disse ter certeza que Lulinha será inocentado.\nAliados, no entanto, viram com preocupação a fala de Lula de que não conhece nem nunca esteve com a lobista. A avaliação é que foi um deslize e que nenhum político deve dizer isso, diante do fato que todos estão expostos a eventos públicos, atos de campanha, e que foge do controle de cada um saber com quem esteve ou não. Eles reforçam que o presidente não mantém nenhuma relação de proximidade com Roberta e tampouco tratou temas de governo com ela. Na manhã desta sexta, a campanha do presidente divulgou nota para reforçar essa visão, buscando conter desgaste após a oposição explorar fotografias de Lula com a lobista. \"A existência desses registros não significa relação pessoal, profissional ou política\", diz o texto.",
-    "published": "2026-08-28T16:13:04+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Aliados do presidente Luiz Inácio Lula da Silva avaliam que a entrevista ao Jornal Nacional expôs que ele se sente sob pressão diante das investigações envolvendo Fábio Luís Lula da Silva, o Lulinha, seu filho, e que evitou se comprometer com o ajuste fiscal em um eventual quarto",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Exclusivo: Ploa de 2027 terá aumento de cerca de 20% da despesa discricionária, diz Moretti",
-    "link": "https://valor.globo.com/brasil/noticia/2026/08/28/exclusivo-ploa-de-2027-tera-aumento-de-cerca-de-20percent-da-despesa-discricionaria-diz-moretti.ghtml",
-    "description": "O Projeto de Lei de Orçamentária Anual (PLOA) de 2027 chegará ao Congresso Nacional com as despesas obrigatórias sujeitas ao limite de gastos crescendo um pouco abaixo de 7%, menos do que a correção do teto, que será de 7,7%. Com isso, o governo conseguirá preservar todas as políticas públicas na proposta e vai prever um aumento da base da despesa discricionária, que inclui investimentos públicos, de mais ou menos 20% em relação ao patamar atual. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-08-28T16:12:21+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O Projeto de Lei de Orçamentária Anual (PLOA) de 2027 chegará ao Congresso Nacional com as despesas obrigatórias sujeitas ao limite de gastos crescendo um pouco abaixo de 7%, menos do que a correção do teto, que será de 7,7%. Com isso, o governo conseguirá preservar todas as polí",
     "relevance": 5
   }
 ]
