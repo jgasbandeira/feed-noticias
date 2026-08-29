@@ -1,5 +1,17 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Lula cumpre agenda de campanha em Minas Gerais",
+    "link": "https://valor.globo.com/politica/noticia/2026/08/29/lula-cumpre-agenda-de-campanha-em-minas-gerais.ghtml",
+    "description": "O presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), cumpre agenda de campanha na manhã deste sábado (29) em Belo Horizonte. A partir das 10h, está prevista sua participação no ato político \"Mulheres com Lula\", na Serraria Souza Pinto, no centro da capital mineira.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-08-29T12:54:06+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O presidente da República e candidato à reeleição, Luiz Inácio Lula da Silva (PT), cumpre agenda de campanha na manhã deste sábado (29) em Belo Horizonte. A partir das 10h, está prevista sua participação no ato político \"Mulheres com Lula\", na Serraria Souza Pinto, no centro da c",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Família de Marielle repudia entrevista em que Lessa disse estar ‘entorpecido pelo dinheiro’",
     "link": "https://oglobo.globo.com/rio/noticia/2026/08/29/familia-de-marielle-repudia-entrevista-em-que-lessa-disse-estar-entorpecido-pelo-dinheiro.ghtml",
@@ -991,7 +1003,13 @@
       "Politica"
     ],
     "summary": "O ministro do Tribunal Superior Eleitoral (TSE) Floriano de Azevedo Marques concedeu, na noite desta sexta-feira, uma liminar autorizando o ex-governador Anthony Garotinho (Republicanos) a retomar atividades de campanha. Na véspera, Garotinho havia sido impedido pela Justiça Elei",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/29/tse-concede-liminar-a-garotinho-e-autoriza-ex-governador-a-retomar-atividades-de-campanha-no-rio.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3997,17 +4015,5 @@
         "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/08/28/sobre-duas-rodas-cicloturismo-nas-estancias-paulistas-1.ghtml"
       }
     ]
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Quando o crescimento de um FII vira risco? Especialistas explicam os sinais de alerta",
-    "link": "https://www.infomoney.com.br/onde-investir/quando-o-crescimento-de-um-fii-vira-risco-especialistas-explicam-os-sinais-de-alerta/",
-    "description": "A mudança abrupta no perfil de risco de um fundo imobiliário pode se tornar um problema para os cotistas\nThe post Quando o crescimento de um FII vira risco? Especialistas explicam os sinais de alerta appeared first on InfoMoney.",
-    "published": "2026-08-28T14:00:00+00:00",
-    "themes": [
-      "Fundos Imobiliarios"
-    ],
-    "summary": "A mudança abrupta no perfil de risco de um fundo imobiliário pode se tornar um problema para os cotistas\nThe post Quando o crescimento de um FII vira risco? Especialistas explicam os sinais de alerta appeared first on InfoMoney.",
-    "relevance": 5
   }
 ]
