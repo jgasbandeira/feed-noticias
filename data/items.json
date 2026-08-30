@@ -1,5 +1,17 @@
 [
   {
+    "source": "O Globo",
+    "title": "Vasco vence o Cruzeiro com autoridade e dorme fora da zona de rebaixamento do Brasileirão",
+    "link": "https://oglobo.globo.com/esportes/futebol/vasco/noticia/2026/08/29/vasco-vence-o-cruzeiro-com-autoridade-e-deixa-a-zona-de-rebaixamento-do-brasileirao.ghtml",
+    "description": "O Vasco venceu o Cruzeiro, neste sábado, em São Januário, por 3 a 1 e vai dormir fora da zona de rebaixamento. O time cruz-maltino teve uma atuação dominante durante grande parte dos 90 minutos e conseguiu uma vitória para dar esperança de dias melhores para os seus torcedores. Tchê Tchê, Lucas Freitas e David fizeram os gols dos mandantes, e Felipe Morais descontou.\nNa primeira etapa, o time cruz-maltino dominou as ações e conseguiu abrir o placar com Tchê Tchê, aos 33 minutos. O goleiro Otávio, do Cruzeiro, que a desvantagem fosse ainda maior na primeira etapa, com grandes defesas.\nNos 45 minutos finais, o Vasco conseguiu o segundo gol cedo. Lucas Freitas aproveitou cruzamento de Lucas Piton, aos 10, e marcou o segundo. Com o resultado encaminhado, a equipe de Pedro Emanuel administrou o placar e pouco sofreu. No fim, ainda deu tempo de dois gols: David marcou o terceiro do Vasco e Felipe Morais descontou para o Cruzeiro. Ambos nos acréscimos.\nCom o resultado, o Vasco salta para 16ª colocação, com 25 pontos somados, saindo da zona de rebaixamento. O Cruzeiro segue na quinta colocação com 39 somados. Na próxima rodada, o time carioca encara o Fluminense, no Maracanã, enquanto a equipe mineira receberá o Athletico, no Mineirão.",
+    "published": "2026-08-30T02:22:29+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "O Vasco venceu o Cruzeiro, neste sábado, em São Januário, por 3 a 1 e vai dormir fora da zona de rebaixamento. O time cruz-maltino teve uma atuação dominante durante grande parte dos 90 minutos e conseguiu uma vitória para dar esperança de dias melhores para os seus torcedores. T",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Política",
     "title": "Cury propõe ministério da IA, drones contra feminicídios e treinar embaixadores para serem influencers",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/08/29/entrevista-augusto-cury-ministerio-da-ia-drones-contra-feminicidios.ghtml",
@@ -233,7 +245,13 @@
       "Politica"
     ],
     "summary": "O candidato Augusto Cury (Avante)  é o último entrevistado da série que a TV Globo dedica aos candidatos à Presidência nas eleições de 2026. A entrevista vai ao ar ao vivo, neste sábado, dia 29, direto dos Estúdios Globo, no Rio de Janeiro, às 21h20 (horário de Brasília). O \"Jorn",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/29/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-augusto-cury-a-globo.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -4014,18 +4032,6 @@
       "Politica"
     ],
     "summary": "A governadora de Pernambuco, Raquel Lyra (PSD), fez uma crítica indireta às gestões do PSB, partido de seu principal adversário, João Campos, na estreia do horário eleitoral na televisão nesta sexta-feira. Em um programa centrado em sua própria trajetória e nas entregas do govern",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Walmart fecha acordo em processo do governo dos EUA sobre opioides",
-    "link": "https://valor.globo.com/empresas/noticia/2026/08/28/walmart-fecha-acordo-em-processo-do-governo-dos-eua-sobre-opioides.ghtml",
-    "description": "O Walmart chegou a um acordo em um processo movido pelo governo dos Estados Unidos que acusava a maior varejista do país de alimentar uma epidemia nacional de opioides ao dispensar ilegalmente receitas médicas em suas farmácias.\nO Departamento de Justiça dos Estados Unidos e o Walmart confirmaram o acordo em comunicados separados nesta sexta-feira (28), sem divulgar os termos.\nEm uma ação apresentada em 2020, o Departamento de Justiça acusou o Walmart, com sede em Bentonville, Arkansas, de violar repetidamente a Lei de Substâncias Controladas federal desde 2013. Na época, o departamento afirmou que o Walmart poderia enfrentar bilhões de dólares em multas civis.\nMais de 905 mil pessoas nos Estados Unidos morreram de overdose de opioides entre 1999 e 2025, segundo os Centros de Controle e Prevenção de Doenças dos Estados Unidos. O número anual de mortes começou a cair após 2022, informou a agência.\n“O departamento está satisfeito por ter chegado a um acordo com o Walmart para resolver as alegações de que suas farmácias não cumpriram obrigações previstas na Lei de Substâncias Controladas ao dispensar [de receita] opioides e outras substâncias controladas”, disse um porta-voz do Departamento de Justiça.\nO Walmart afirmou em comunicado: “Estamos satisfeitos por resolver esta questão e continuaremos apoiando o trabalho excepcional que nossos farmacêuticos realizam todos os dias para oferecer um atendimento de excelência aos pacientes.”\nUm acordo conjunto para encerrar o processo foi apresentado na quinta-feira (27) ao tribunal federal de Wilmington, Delaware.\nO processo era um dos casos mais significativos movidos pelo Departamento de Justiça contra uma única empresa em relação à epidemia de opioides.\nOutras empresas alvo de ações relacionadas a opioides incluíram a Purdue Pharma, que se declarou culpada de acusações criminais em 2020 relacionadas ao analgésico OxyContin, após pedir proteção contra falência, e a distribuidora de medicamentos Cencora, anteriormente conhecida como AmerisourceBergen.\nEm março de 2024, o juiz federal Colm Connolly restringiu o escopo do processo contra o Walmart, rejeitando alegações de que a empresa não havia comunicado receitas suspeitas à Agência de Combate às Drogas dos Estados Unidos e de que farmacêuticos do Walmart não haviam documentado “sinais de alerta” associados às prescrições.\nConnolly permitiu que o governo prosseguisse com uma alegação de que farmacêuticos forneceram medicamentos com base em receitas que funcionários de “compliance” do Walmart sabiam ser inválidas. Uma quarta alegação, de que farmacêuticos dispensaram medicamentos com base em receitas que sabiam ser inválidas, também continuou pendente.\nEm 2022, o Walmart concordou em pagar US$ 3,1 bilhões para encerrar milhares de processos movidos por governos estaduais e locais sobre o papel de suas farmácias na crise dos opioides. CVS e Walgreens chegaram a acordos semelhantes, de valores maiores.\n\n\nCharles Krupa/AP",
-    "published": "2026-08-28T17:03:04+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "O Walmart chegou a um acordo em um processo movido pelo governo dos Estados Unidos que acusava a maior varejista do país de alimentar uma epidemia nacional de opioides ao dispensar ilegalmente receitas médicas em suas farmácias.\nO Departamento de Justiça dos Estados Unidos e o Wa",
     "relevance": 5
   }
 ]
