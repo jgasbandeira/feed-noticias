@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "STF debate democracia e IA com especialistas de Itália e Espanha",
+    "link": "https://www.poder360.com.br/poder-justica/stf-debate-democracia-e-ia-com-especialistas-de-italia-e-espanha/",
+    "description": "A programação reúne 2 eventos internacionais consecutivos; vai de 1º a 3 de setembro",
+    "published": "2026-08-30T11:55:35+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A programação reúne 2 eventos internacionais consecutivos; vai de 1º a 3 de setembro",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Projeto para Orçamento de 2027 prevê superávit, mas insuficiente para conter dívida",
     "link": "https://valor.globo.com/brasil/noticia/2026/08/30/projeto-para-oramento-de-2027-prev-supervit-mas-insuficiente-para-conter-dvida.ghtml",
@@ -3021,6 +3033,10 @@
       {
         "source": "G1 - Economia",
         "link": "https://g1.globo.com/mundo/noticia/2026/08/30/venezuela-acordo-petrolifero-com-os-eua.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/noticia/2026/08/30/acordo-do-petroleo-com-trump-irrita-os-dois-lados-da-politica-venezuelana.ghtml"
       }
     ]
   },
@@ -3954,23 +3970,5 @@
     ],
     "summary": "Votorantim receberá 7% das ações da Boliden; conclusão é prevista para o 1º trimestre de 2027, após aprovações regulatórias",
     "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Imobiliárias do Grupo Cyrela celebram Dia do Corretor",
-    "link": "https://valor.globo.com/patrocinado/dino/noticia/2026/08/28/imobiliarias-do-grupo-cyrela-celebram-dia-do-corretor-1.ghtml",
-    "description": "Para celebrar o Dia Nacional do Corretor de Imóveis, comemorado em 27 de agosto, as houses de vendas do Grupo Cyrela promoveram, ao longo desta semana, uma programação especial dedicada aos profissionais que estão diariamente em contato com os clientes das marcas Cyrela, Living e Vivaz. As iniciativas chegaram aos estandes e escritórios, com atividades, dinâmicas, momentos de integração e entrega de brindes. A proposta foi aproximar a homenagem da rotina dos corretores e reconhecer profissionais que acompanham diariamente clientes em uma das decisões mais importantes de suas vidas: a escolha de um imóvel.\nUma celebração presente nas três marcas\nNa Cyrela, a programação percorreu os estandes Green Garden, La Galerie e Escape, com ações de relacionamento, dinâmicas e momentos de integração entre os profissionais. Na Living, as iniciativas chegaram aos estandes Wellness, Leven, Full Eldorado e The Grand Residence, com uma programação também dedicada à celebração e ao reconhecimento dos corretores. Já na Vivaz, as ações foram realizadas no Dia do Corretor nos estandes Vivaz Estação Vila Sônia e Vivaz Parque Barra Funda, reunindo os profissionais em atividades preparadas especialmente para a data. A programação contemplou ainda ações nos escritórios e entrega de brindes, ampliando a celebração para diferentes equipes de vendas das três marcas.\nPara Orlando Pereira, Diretor de Vendas do Grupo Cyrela, a data carrega também um significado pessoal. O executivo iniciou sua trajetória na companhia como corretor de imóveis, em 2002, e passou por diferentes posições na área comercial ao longo de sua carreira. \"Comecei minha trajetória na Cyrela como corretor e sei o que significa estar no estande, ouvir o cliente e entender a responsabilidade de acompanhá-lo em uma decisão tão importante. Por isso, essa celebração tem um significado muito especial para mim\", afirma.\nConfiança e escuta no centro da relação com o cliente\nMais do que marcar uma data no calendário, as iniciativas reforçam o reconhecimento ao papel do corretor na relação com o cliente. São esses profissionais que exercitam diariamente a escuta, compreendem diferentes necessidades e ajudam cada pessoa a encontrar a melhor escolha para seu momento de vida, uma atuação alinhada ao compromisso do Grupo Cyrela de Ser mais para o Cliente. Esse papel ganha ainda mais relevância diante das transformações do mercado imobiliário. A tecnologia ampliou o acesso à informação, criou novas ferramentas e modificou diferentes etapas da busca e da compra de um imóvel. Ao mesmo tempo, a dimensão humana permanece essencial em uma decisão que envolve expectativas, planejamento e projetos de vida. Nesse cenário, o corretor assume uma atuação cada vez mais consultiva, combinando conhecimento sobre produtos e mercado com a capacidade de ouvir, orientar e compreender o que faz sentido para cada cliente.\n\"O mercado evoluiu, a tecnologia transformou a jornada de compra e o cliente está cada vez mais informado, mas a confiança continua sendo essencial. O corretor é quem combina conhecimento, escuta e sensibilidade para compreender o que cada pessoa busca e ajudá-la a fazer a melhor escolha. Celebrar esses profissionais é reconhecer a importância que eles têm para nossos clientes e para tudo o que construímos\", completa Orlando.\nCom a programação, as houses de vendas do Grupo Cyrela reforçam a valorização dos corretores que representam Cyrela, Living e Vivaz e contribuem diariamente para construir relações de confiança entre as marcas e seus clientes.",
-    "published": "2026-08-28T19:47:33+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Para celebrar o Dia Nacional do Corretor de Imóveis, comemorado em 27 de agosto, as houses de vendas do Grupo Cyrela promoveram, ao longo desta semana, uma programação especial dedicada aos profissionais que estão diariamente em contato com os clientes das marcas Cyrela, Living e",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/08/28/imobiliarias-do-grupo-cyrela-celebram-dia-do-corretor-1.ghtml"
-      }
-    ]
   }
 ]
