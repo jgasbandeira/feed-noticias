@@ -1,5 +1,29 @@
 [
   {
+    "source": "InfoMoney",
+    "title": "Rock in Rio: veja os esquemas de BRT, metrô, VLT e trânsito para o festival",
+    "link": "https://www.infomoney.com.br/consumo/rock-in-rio-veja-os-esquemas-de-brt-metro-vlt-e-transito-para-o-festival/",
+    "description": "Orientação é priorizar o transporte público. Evento tem expectativa de movimentar R$ 3,3 bilhões na economia da cidade, segundo estudo da FGV, além de gerar 33,9 mil empregos\nThe post Rock in Rio: veja os esquemas de BRT, metrô, VLT e trânsito para o festival appeared first on InfoMoney.",
+    "published": "2026-08-30T13:00:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Orientação é priorizar o transporte público. Evento tem expectativa de movimentar R$ 3,3 bilhões na economia da cidade, segundo estudo da FGV, além de gerar 33,9 mil empregos\nThe post Rock in Rio: veja os esquemas de BRT, metrô, VLT e trânsito para o festival appeared first on In",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Corpo de brasileiro é encontrado em carro abandonado no Paraguai; vítima tinha marca marca de tiro na cabeça",
+    "link": "https://oglobo.globo.com/brasil/noticia/2026/08/30/corpo-de-brasileiro-e-encontrado-em-carro-abandonado-no-paraguai-vitima-tinha-marca-marca-de-tiro-na-cabeca.ghtml",
+    "description": "Autoridades paraguaias informaram que encontraram o corpo de um brasileiro em um veículo abandonado, na tarde de sábado (29), em uma estrada rural no município de Presidente Franco. A vítima foi identificada como Matheus Silva Souza Teles, de 30 anos, e apresentava um ferimento de bala na cabeça, de acordo com a imprensa paraguaia.\nSegundo o portal Trece, esposa de Matheus, Ingryd Marighetti Ribeiro Cavalin Teles, relatou que seu marido foi baleado na cabeça por um homem chamado Lucas Homes Couto, também brasileiro, que foi preso perto do Shopping Lago, na Avenida Monsenhor Rodríguez.\nA mulher teria pedido ajuda, na noite de sexta-feira (28), a policiais da Ciudad del Este, a mais ou menos 9 km de onde o carro foi encontrado. O ataque teria ocorrido por volta das 21h30.\nAinda de acordo com Ingryd, ela, Matheus, Lucas, e sua companheira, que também se chama Ingrid, estavam dentro do veículo. Em um vídeo que circula nas redes sociais, a esposa da vítima conta que estava indo jantar com o marido quando o Lucas teria reconhecido os dois no carro e pedido uma carona, porque sua moto havia quebrado. \n— Então a gente deu a volta. Conversamos normal e [o Lucas perguntou] \"Pode deixar a gente em casa?\" [Falamos que] tudo bem, a gente está indo jantar. Meu marido falou, \"posso te deixar no meio do caminho?\" E aí ele respondeu, \"não, não há problema, você já vai me ajudar muito assim\". Fomos conversando, não tinha nada, estava normal. Quando meu esposo parou, ele perguntou se estava tudo bem, ele disse que sim, \"obrigado\". E então eu só senti um quente, até me arrepio, no meu corpo. Na hora que eu olho, eu estava toda ensanguentada — relembra.\nAinda de acordo com Ingryd, o atirador estava sentado atrás dela e a mulher dele, Ingrid, atrás de Matheus. Ela lembra de ter perguntado o que estava acontecendo e pedido \"socorro\".\n— Ele falou \"Vai, Ingrid, esfaqueia ela\". Lucas puxou meu cabelo e a Ingrid tentando me esfaquear. Estou toda roxa na perna. Eu estava tentando abrir a porta e o carro andando. Consegui abrir, e eles me puxando. Eu tinha certeza que ia morrer. Um caminhoneiro me ajudou, e foi então que chamei a polícia — continuou. \nA esposa da vítima acrescenta que, após Matheus ter sido baleado, a mulher de Lucas assumiu a direção e fugiu do local. Matheus foi encontrado no banco do passageiro por agentes da 56ª Subdelegacia de Polícia, que patrulhavam o local. O carro era da marca Jetour, modelo T2 Luxury, acrescentou o portal ABC. \nIngryd disse que não entende o motivo para o assassinato e desmentiu perguntas de repórteres sobre eles serem sócios, além de suposto envolvimento com armas e drogas. Ela acrescenta que Matheus deixou dois filhos, um de três anos e outro de dois.\n— Ele era meu companheiro. Só vivíamos nós dois e nossos filhos — afirmou.\nO caso está sendo investigado pelo Ministério Público, pelos agentes da Divisão de Investigação de Crimes Puníveis, pela Criminalística, e pelo Comando Tripartite, informou o portal Ponta Porã Informa.",
+    "published": "2026-08-30T12:56:47+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Autoridades paraguaias informaram que encontraram o corpo de um brasileiro em um veículo abandonado, na tarde de sábado (29), em uma estrada rural no município de Presidente Franco. A vítima foi identificada como Matheus Silva Souza Teles, de 30 anos, e apresentava um ferimento d",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Nepal corre contra o tempo para encontrar desaparecidos em meio a ameaças de novas inundações",
     "link": "https://valor.globo.com/mundo/noticia/2026/08/30/nepal-corre-contra-o-tempo-para-encontrar-desaparecidos-em-meio-a-ameacas-de-novas-inundacoes.ghtml",
@@ -204,7 +228,13 @@
       "Politica"
     ],
     "summary": "Nova função mostrará ao eleitor as etapas de votação: para quais cargos ele já votou e quais ainda faltam",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/30/urna-eletronica-tera-barra-de-progresso-nas-eleicoes-de-2026-veja-como-vai-funcionar.ghtml"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -3951,30 +3981,5 @@
         "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/29/augusto-cury-e-de-direita-ou-de-esquerda-veja-o-que-ele-ja-falou-sobre-o-tema.ghtml"
       }
     ]
-  },
-  {
-    "source": "O Globo",
-    "title": "Em primeiras inserções, Flávio usa família para acenar a mulheres, cita pai e evita ataque direto a Lula",
-    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/28/em-primeiras-insercoes-flavio-usa-familia-para-acenar-a-mulheres-cita-pai-e-evita-ataque-direto-a-lula.ghtml",
-    "description": "O candidato do PL à Presidência, Flávio Bolsonaro, usou suas primeiras inserções no rádio e na televisão nesta sexta-feira para se apresentar ao eleitorado, explorar referências à própria família e fazer um aceno direto às mulheres. Em duas das três peças de 30 segundos que foram ao ar, e que também serão exibidas na televisão, o senador menciona a mulher, Fernanda, e as filhas, Luiza e Carol. O ex-presidente Jair Bolsonaro também aparece como referência, embora sem ser citado nominalmente. Flávio faz críticas à situação do país, sobretudo nas áreas de segurança e economia, mas evita ataques diretos ao presidente Luiz Inácio Lula da Silva (PT). A estratégia contrasta com a adotada pelo petista, que levou ao ar uma inserção dedicada a atacar nominalmente o adversário e classificá-lo como “o pior dos Bolsonaros”.\nAs peças de Flávio mostram uma tentativa de apresentar o candidato para além da condição de filho do ex-presidente e reforçam um movimento da campanha para reduzir resistências entre o eleitorado feminino. Na inserção mais voltada às mulheres, o candidato menciona também a mãe ao falar sobre as figuras que ajudaram a moldar sua personalidade.\n— Todo mundo conhece o meu pai, né? Mas, ó, minhas filhas, minha esposa, minha mãe também me fizeram ser assim, do jeito que eu sou. Então, gente, lá em casa quem manda são elas. Ainda bem que é assim — afirma.\nNa sequência, Flávio associa o aceno ao slogan “O Brasil vai vencer”, adotado por sua campanha.\n— O Brasil só vai ser melhor, só vai vencer, se as mulheres forem mais fortes e vencerem cada vez mais.\nA tentativa de aproximação com as mulheres é considerada estratégica pela campanha diante da dificuldade de Flávio nesse segmento do eleitorado. O entorno do candidato tem discutido formas de reduzir sua rejeição entre as eleitoras e de construir uma imagem própria, com características diferentes das associadas ao pai.\nOutra das inserções é dedicada à apresentação pessoal do candidato. Flávio começa com uma mensagem dirigida também a quem não está no campo político bolsonarista e faz uma crítica à situação atual do país, sem responsabilizar nominalmente Lula ou seu governo.\n— Você pode estar de um lado ou de outro, mas todo mundo concorda que o Brasil não está bom do jeito que está. A gente pode mudar essa história. Eu vou mostrar como a gente vai fazer isso. Vencer o crime e vencer esse sufoco que ninguém aguenta mais.\nEm seguida, o senador apresenta informações pessoais:\n— O meu nome é Flávio Bolsonaro. Tenho 45 anos. Sou advogado e empresário. Casado com a Fernanda, pai da Luiza e da Carol. E candidato à Presidência da República.\nA terceira inserção é a que faz a referência mais explícita a Jair Bolsonaro. O ex-presidente, novamente, não é mencionado pelo nome.\n— Você conhece meu pai, mas sabe de quem eu também sou filho? Eu sou filho do Brasil. Somos todos irmãos — diz Flávio.\nNa mesma peça, o candidato concentra as críticas em dois dos temas que a campanha pretende explorar na disputa: segurança pública e situação financeira das famílias. Flávio fala em “facções livres nas ruas”, contrapõe a situação ao “povo preso dentro de casa” e menciona o endividamento.\n— E, assim como eu, você também não está satisfeito? Um Brasil da violência, das facções livres nas ruas e o povo preso dentro de casa e todo mundo endividado. Eu quero ser o presidente para a gente vencer tudo isso juntos.\nEmbora as críticas à situação do país atinjam indiretamente o governo, as três primeiras inserções de Flávio não citam Lula nem trazem ataques diretos ao presidente. Também ficaram de fora, neste primeiro momento, temas que a campanha do candidato do PL pretende usar para desgastar o petista ao longo da disputa, como as investigações envolvendo Fábio Luís Lula da Silva, o Lulinha.\nCampanha de Lula chama Flávio de 'pior dos Bolsonaros'\nDo outro lado da disputa, a campanha de Lula adotou uma estratégia mais agressiva já nas primeiras inserções. Uma das peças levadas ao ar pelo petista é inteiramente dedicada a Flávio e enumera episódios da trajetória do candidato do PL para questionar sua confiabilidade.\n— Conheça o currículo de Flávio Bolsonaro. Iniciou carreira como funcionário fantasma de um gabinete em Brasília. Denunciado por lavagem de dinheiro e organização criminosa no escândalo da rachadinha. Homenageou o líder do maior grupo de matadores de aluguel do Rio de Janeiro. Foi flagrado pela Polícia Federal pedindo R$ 134 milhões no escândalo do Banco Master. Não dá para confiar nesse sujeito. Flávio, o pior dos Bolsonaros — diz a inserção da campanha petista.\nA escolha de Flávio segue a estratégia traçada pela campanha para a largada da propaganda eleitoral, com uma apresentação mais leve do candidato e a tentativa de fixar sua biografia antes de ampliar o confronto direto com o adversário petista. Segurança pública e dificuldades econômicas aparecem como os principais problemas citados nas primeiras peças, enquanto a família é usada para humanizar a imagem do candidato e sustentar o aceno ao eleitorado feminino.",
-    "published": "2026-08-28T20:07:48+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O candidato do PL à Presidência, Flávio Bolsonaro, usou suas primeiras inserções no rádio e na televisão nesta sexta-feira para se apresentar ao eleitorado, explorar referências à própria família e fazer um aceno direto às mulheres. Em duas das três peças de 30 segundos que foram",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Inadimplência é sinal de alerta para dificuldades de empresas e consumidores, avalia CNC",
-    "link": "https://oglobo.globo.com/conteudo-de-marca/cnc-noticias/noticia/2026/08/28/inadimplencia-e-sinal-de-alerta-para-dificuldades-de-empresas-e-consumidores-avalia-cnc.ghtml",
-    "description": "A notícia recentemente divulgada sobre o recorde de 9,1 milhões de empresas inadimplentes no País, segundo dados da Serasa Experian, é mais um sinal de alerta para as dificuldades que vêm atingindo empresas e famílias, avalia a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC).\nDados do Banco Central também apontam que a inadimplência entre as empresas atingiu, em junho, o maior patamar para o mês em nove anos. A maior parte dos CNPJs negativados pertence a micro e pequenas empresas, justamente as que têm menor margem para suportar um ambiente econômico adverso.\nAo mesmo tempo, a Pesquisa de Endividamento e Inadimplência do Consumidor (Peic), da CNC, vem registrando, neste ano, níveis elevados de endividamento e, especialmente, de inadimplência entre os consumidores. Em julho, 82% das famílias estavam endividadas, o que significa menos espaço no orçamento para o consumo além das necessidades básicas.\n“Para o empresário, é um alerta direto: há menos demanda, crédito caro e margens mais apertadas”, avalia o presidente do Sistema CNC-Sesc-Senac, José Roberto Tadros. “Quando consumidores e empresas enfrentam dificuldades ao mesmo tempo, fica evidente que o ambiente para consumir, investir e empreender já vem se estreitando há bastante tempo.”\nSegundo Tadros, medidas como a renegociação de dívidas dos consumidores, embora possam trazer alívio momentâneo, não resolvem o problema por si só. “Essas iniciativas precisam estar coordenadas com ações que permitam ao Banco Central promover a queda dos juros, para que sejam dadas as condições de equilíbrio para quem consome, produz, investe e gera empregos”, afirma.",
-    "published": "2026-08-28T20:06:08+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "A notícia recentemente divulgada sobre o recorde de 9,1 milhões de empresas inadimplentes no País, segundo dados da Serasa Experian, é mais um sinal de alerta para as dificuldades que vêm atingindo empresas e famílias, avalia a Confederação Nacional do Comércio de Bens, Serviços ",
-    "relevance": 5
   }
 ]
