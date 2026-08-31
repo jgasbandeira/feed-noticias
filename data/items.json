@@ -34,7 +34,13 @@
       "Politica"
     ],
     "summary": "A ministra Estela Aranha, do Tribunal Superior Eleitoral (TSE), decidiu neste domingo suspender a veiculação de uma propaganda da campanha do presidente Luiz Inácio Lula da Silva que apresenta o que chama de \"currículo” de Flávio Bolsonaro. O pedido foi feito pelo candidato do PL",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/tse-manda-lula-suspender-comercial-com-curriculo-de-flavio/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3506,7 +3512,13 @@
       "Mercado Financeiro"
     ],
     "summary": "A TV Globo realiza, nesta semana, uma série de entrevistas diárias com os candidatos à Presidência da República, transmitidas ao vivo sempre após a exibição do Jornal Nacional. Até sábado, os seis mais bem colocados na última pesquisa Quaest serão sabatinados pelos jornalistas Re",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/08/28/veja-o-que-e-fato-e-o-que-e-fake-na-entrevista-de-flavio-bolsonaro-a-globo.ghtml"
+      }
+    ]
   },
   {
     "source": "InfoMoney",
