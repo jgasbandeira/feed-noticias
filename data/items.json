@@ -1,6 +1,54 @@
 [
   {
     "source": "Poder360",
+    "title": "Ao vivo: Lula promove reunião sobre bets",
+    "link": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-promove-reuniao-sobre-bets/",
+    "description": "Presidente discute bets em evento no Planalto; setor de apostas virtuais não foi convidado",
+    "published": "2026-09-01T18:57:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Presidente discute bets em evento no Planalto; setor de apostas virtuais não foi convidado",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Brasil fica em 5º em ranking de alta do PIB com avanço de 0,5%",
+    "link": "https://www.poder360.com.br/poder-economia/brasil-fica-em-5o-em-ranking-de-alta-do-pib-com-avanco-de-05/",
+    "description": "Economia nacional cresce acima da mediana global de 0,2%, impulsionada por alta de gastos do governo no 2º trimestre",
+    "published": "2026-09-01T18:48:23+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Economia nacional cresce acima da mediana global de 0,2%, impulsionada por alta de gastos do governo no 2º trimestre",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Vorcaro aprovou cartões de crédito para filhos de Moraes, diz jornal",
+    "link": "https://www.poder360.com.br/poder-justica/vorcaro-aprovou-cartoes-de-credito-para-filhos-de-moraes-diz-jornal/",
+    "description": "Giuliana e Alexandre, filhos do ministro, tiveram cartões autorizados pelo próprio banqueiro, com limite de R$ 300 mil",
+    "published": "2026-09-01T18:48:18+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Giuliana e Alexandre, filhos do ministro, tiveram cartões autorizados pelo próprio banqueiro, com limite de R$ 300 mil",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Justiça proíbe que candidato a deputado use foto de Jair Bolsonaro em propaganda eleitoral",
+    "link": "https://g1.globo.com/sp/ribeirao-preto-franca/eleicoes/2026/noticia/2026/09/01/justica-candidato-deputado-foto-jair-bolsonaro-propaganda-eleitoral.ghtml",
+    "description": "Propaganda eleitoral em que o candidato a deputado aparece ao lado de foto de Jair Bolsonaro\nArquivo pessoal\nA Justiça Eleitoral de São Paulo proibiu um candidato a deputado estadual de usar a imagem do ex-presidente Jair Bolsonaro (PL) em propaganda política durante sua campanha eleitoral.\nLucas Bove, do PL, aparece em banner na cidade de Ribeirão Preto ao lado de Jair Bolsonaro, além de também apresentar os candidatos Tarcísio de Freitas (Republicanos), governador que tenta a reeleição, e Flávio Bolsonaro (PL), que disputa a Presidência, na parte inferior da imagem.\n📱Baixe o app do g1 para ver notícias em tempo real e de graça\nO juiz Ronnie Hebert Barros Soares avaliou material após representação da também candidata a deputada estadual Duda Hidalgo (PT), que alegou uso irregular tanto da imagem de Bolsonaro quanto da presença da propaganda em praças públicas.\nO magistrado considerou que a pena recebida por Bolsonaro no julgamento da trama golpista no Supremo Tribunal Federal (STF) inclui a proibição de \"divulgar manifestações ou pronunciamentos político-eleitorais (...) inclusive por intermédio de terceiros\".\nAgora no g1\nBarros Soares proibiu que Lucas Bove reutilize a mesma imagem durante a campanha eleitoral, sob pena de multa de R$ 2 mil a R$ 8 mil. Ele não acatou o pedido de impedir que os banners sejam colocados em praça pública, pois não impediriam a passagem das pessoas.\nNa defesa à Justiça Eleitoral, Bove alegou que a reprodução da imagem de Bolsonaro \"não equivale à participação pessoal, atual e voluntária da pessoa retratada na propaganda\" em sua campanha.\nOs advogados de Bove afirmaram que a decisão do STF com a suspensão dos direitos políticos não \"restringe a liberdade de expressão nem impede terceiros de utilizarem a imagem pública de determinada liderança como referência política\". No entanto, a tese não foi acolhida pelo magistrado.\nLEIA TAMBÉM\nDefesa de Renan Santos pede ao TSE revogação de decisão de Toffoli que restringiu campanha\nToffoli suspende campanha digital do Wilson Grassi, candidato à Presidência da República\nFato ou Fake: veja checagens das entrevistas de Zema, Caiado, Renan Santos, Lula, Flávio Bolsonaro e Augusto Cury à Globo",
+    "published": "2026-09-01T18:44:02+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Propaganda eleitoral em que o candidato a deputado aparece ao lado de foto de Jair Bolsonaro\nArquivo pessoal\nA Justiça Eleitoral de São Paulo proibiu um candidato a deputado estadual de usar a imagem do ex-presidente Jair Bolsonaro (PL) em propaganda política durante sua campanha",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
     "title": "Relatório da CPI do INSS pedia para investigar mulher de Moraes",
     "link": "https://www.poder360.com.br/poder-congresso/relatorio-da-cpi-do-inss-pedia-para-investigar-mulher-de-moraes/",
     "description": "Barrado por governistas, o texto recomendava a apuração de contrato do escritório de Viviane Barci com o Banco Master",
@@ -121,6 +169,18 @@
       "Mercado Financeiro"
     ],
     "summary": "A defesa de Renan Santos (Missão) pediu ao Tribunal Superior Eleitoral (TSE) a revogação da decisão do ministro Dias Toffoli que suspendeu parte da campanha digital do candidato e determinou uma série de restrições à chapa presidencial. \nOs advogados classificam a medida cautelar",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Investigação sobre Moraes depende de aval do Plenário do STF; PGR tem cinco dias para se manifestar e data de julgamento será agendada por Fachin",
+    "link": "https://oglobo.globo.com/politica/noticia/2026/09/01/investigacao-sobre-moraes-depende-de-aval-do-plenario-do-stf-pgr-tem-cinco-dias-para-se-manifestar-e-data-de-julgamento-sera-agendada-por-fachin.ghtml",
+    "description": "A investigação sobre o envolvimento do ministro Alexandre de Moraes, do Supremo Tribunal Federal, com o ex-banqueiro Daniel Vorcaro, ex-dono do Banco Master, depende de um aval do Plenário da Corte máxima. Conforme o regimento interno do STF, compete ao colegiado principal do Tribunal, composto pelos onze ministros, processar e julgar uma série de autoridades, entre elas os próprios integrantes da Corte. Atualmente, as informações que ligam Vorcaro a Moraes são analisadas pela Procuradoria-Geral da República. Depois, caberá ao presidente do Tribunal, Edson Fachin, agendar a data do julgamento.\nEm despacho assinado nesta segunda-feira, o relator do caso, ministro André Mendonça, deu cinco dias para que a Procuradoria-Geral da República se manifeste sobre relatório em que a Polícia Federal detalha as mensagens trocadas entre Moraes e Vorcaro. Ao retirar o sigilo do caso, Mendonça destacou que \"independentemente\" da manifestação da PGR, o \"caminho inevitável\" do caso leva ao Plenário do STF. Segundo o relator, o colegiado é a \"instância soberana para analisar, de modo técnico e estritamente jurídico, os novos elementos trazidos\" pela Polícia Federal. \nO que pode acabar analisado pelo Plenário do STF é um relatório entregue a Mendonça na quinta-feira passada. Parte dos diálogos citados no documento já havia sido identificado durante as investigações sobre o banco Master, mas o interlocutor do ex-banqueiro era tido como uma \"pessoa não identificada\" pelos investigadores. Segundo Mendonça, as conversas comprovam que Daniel Vorcaro teve conhecimento da investigação que embasou sua ordem de prisão em novembro do ano passado com \"significativa antecedência\".\nNa segunda-feira passada, Mendonça determinou que a Polícia Federal apresentasse, em 24 horas, informações atualizadas sobre a \"identificação dos integrantes da suposta rede de influência e monitoramento gerenciada\" por Vorcaro. No despacho, Mendonça frisou que as informações requisitadas deveriam contemplar a identificação de todos os mencionados nas mensagens de Vorcaro, inclusive \"detentoras de foro por prerrogativa de função\".\n\"Uma vez identificados os destinatários e demais mencionados nas referidas mensagens, devem ser igualmente fornecidas a íntegra de todas mensagens e interações existentes que envolvam as mesmas pessoas\", frisou o ministro. A partir desta determinação, a PF entregou ao STF o relatório implicando Moraes e sua esposa, a advogada Viviane Barci.\nO relatório da Polícia Federal teve como ponto de partida mensagens identificadas no celular de Vorcaro, apreendido durante as primeiras diligências da Operação Compliance Zero, que apura as fraudes bilionárias envolvendo o Master. \nO banqueiro usava imagens de visualização única para mandar mensagens no Whatsapp, com prints de aplicativo do bloco de notas. A PF cruzou informações do bloco, as capturas de tela do aparelho e a primeira interação no aplicativo de mensagens logo em seguida. Com isso, chegou à indicação de que os prints foram enviados a um terminal salvo no aparelho como 'Alexandre de Moraes BRASÍLIA'.\nA partir de então, os investigadores analisaram interações entre Vorcaro e o contato, pesquisando no aparelho termos associados ao ministro. A PF ainda procurou interações entre o ex-banqueiro e outros interlocutores que faziam referência a episódios “envolvendo” a figura de “Alexandre de Moraes Brasília”.",
+    "published": "2026-09-01T18:27:58+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A investigação sobre o envolvimento do ministro Alexandre de Moraes, do Supremo Tribunal Federal, com o ex-banqueiro Daniel Vorcaro, ex-dono do Banco Master, depende de um aval do Plenário da Corte máxima. Conforme o regimento interno do STF, compete ao colegiado principal do Tri",
     "relevance": 5
   },
   {
@@ -3365,6 +3425,10 @@
       {
         "source": "Valor Econômico",
         "link": "https://valor.globo.com/politica/noticia/2026/09/01/mendonca-pede-sessao-publica-do-stf-para-analisar-mensagens-entre-vorcaro-e-alexandre-de-moraes.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/09/01/moraes-e-mendonca-batem-boca-em-reuniao-tensa-sobre-mensagens-de-vorcaro.ghtml"
       }
     ]
   },
@@ -3889,70 +3953,6 @@
       "Politica"
     ],
     "summary": "O ministro do TSE Dias Toffoli restringiu a veiculação de propaganda eleitoral de Renan Santos, candidato do Missão à Presidência, na internet. A decisão foi tomada após o ministro, relator do registro da candidatura de Renan no TSE, verificar utilização irregular de perfis nas r",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Cautela e renda fixa marcam fase pré-eleição",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/01/cautela-e-renda-fixa-marcam-fase-pre-eleicao.ghtml",
-    "description": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-09-01T08:02:31+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Sem ajuste fiscal, dólar pode testar novos picos",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/01/sem-ajuste-fiscal-dolar-pode-testar-novos-picos.ghtml",
-    "description": "Com incertezas sobre o rumo da política fiscal num eventual governo Lula 4, o dólar pode experimentar novos picos nos próximos 60 dias, segundo Stefan Darakdjian, diretor da  Meraki Capital. Com a inflação ameaçada por essa dinâmica, ele não descarta a hipótese de a moeda americana bater R$ 6,00 ou R$ 6,50 até o desfecho das urnas no fim de outubro. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-09-01T08:02:29+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "Com incertezas sobre o rumo da política fiscal num eventual governo Lula 4, o dólar pode experimentar novos picos nos próximos 60 dias, segundo Stefan Darakdjian, diretor da  Meraki Capital. Com a inflação ameaçada por essa dinâmica, ele não descarta a hipótese de a moeda america",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Ibovespa sobe 1% com cenário político",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/01/ibovespa-sobe-1-com-cenario-politico.ghtml",
-    "description": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-09-01T08:02:27+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Tensões no Oriente Médio pesam sobre NY",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/01/tensoes-no-oriente-medio-pesam-sobre-ny.ghtml",
-    "description": "O clima nos mercados internacionais foi de maior aversão a risco nesta segunda, com a retomada de ataques entre os Estados Unidos e o Irã no fim de semana. Os preços do petróleo terminaram o dia em alta, e a curva de rendimentos dos Treasuries ampliou a inclinação. O aumento da dívida pública segue no radar dos investidores. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-09-01T08:02:21+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "O clima nos mercados internacionais foi de maior aversão a risco nesta segunda, com a retomada de ataques entre os Estados Unidos e o Irã no fim de semana. Os preços do petróleo terminaram o dia em alta, e a curva de rendimentos dos Treasuries ampliou a inclinação. O aumento da d",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Celcoin compra Vert e amplia atuação no mercado de capitais",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/01/celcoin-compra-vert-e-amplia-atuacao-no-mercado-de-capitais.ghtml",
-    "description": "A Celcoin, fintech que atua principalmente como prestador de serviços de “banking as a service” (BaaS), anunciou a aquisição da Vert Capital, tradicional no mercado de securitização e que mais recentemente se expandiu também para gestão e administração de fundos. O valor da transação não foi revelado, mas o fundador e CEO da Celcoin, Marcelo França, diz que essa é a oitava e maior aquisição feita pela companhia.\nA operação amplia a atuação da Celcoin no mercado de capitais e crédito estruturado, que passa a ir além da infraestrutura de tecnologia financeira ao integrar, em um único ecossistema, capacidades de originação, “funding” e movimentação financeira. Como parte dessa estratégia, a Celcoin investirá R$ 500 milhões nos próximos três anos, sendo R$ 200 milhões destinados exclusivamente ao desenvolvimento de tecnologia. Com a aquisição, a empresa deve alcançar R$ 800 milhões de receita recorrente anualizada no fim de 2026.\n“Construímos a Celcoin acreditando que a infraestrutura financeira precisava ser cada vez mais aberta, tecnológica e acessível. A chegada da Vert representa um novo capítulo dessa estratégia”, afirma França. “As soluções continuarão sendo oferecidas de forma modular e independente, permitindo que cada cliente decida que partes da infraestrutura quer utilizar. Como parte da Celcoin, ganharemos capacidade de investimento para acelerar tecnologia, inovação, segurança e crescimento”, afirma Fernanda Mello, CEO da Vert.\nFundada há dez anos, a Vert já emitiu mais de R$ 142 bilhões em operações, administra aproximadamente R$ 97 bilhões em ativos e participou de mais de 490 operações envolvendo fundos de direitos creditórios (FIDCs), do agronegócio (Fiagro), imobiliários (FII), certificados de recebíveis imobiliários (CRIs) e do agronegócio (CRAs), debêntures e outros instrumentos. Desde 2024, também atua como distribuidora de títulos e valores mobiliários (DTVM), frente que soma mais de R$ 16 bilhões sob administração em FIDCs. A aquisição pela Celcoin da licença de DTVM da Vert precisará da aprovação do Banco Central (BC). “Na área de serviços fiduciários ainda temos muito a fazer. Entramos bem em FIDCs, mas no geral mal começamos na indústria de fundos. A parte de fundos estruturados é uma que podemos olhar”, diz Mello.\nA Celcoin recebeu um aporte de R$ 650 milhões em 2024 em rodada liderada pela Summit Partners. Segundo França, boa parte desse dinheiro ainda está em caixa e outras operações de fusões e aquisições (M&amp;A, na sigla em inglês) são possíveis. “Sempre olhamos oportunidades de novos produtos e de ganhos de participação de mercado. No segmento de BaaS, muitos players não conseguiram escalar, e vivemos um momento em que a demanda tem crescido muito.”\nSem abrir detalhes, ele diz que a Celcoin atingiu o “breakeven” em 2022 e tem registrado crescimento orgânico no faturamento de quase 45% nos últimos anos. A empresa obteve em fevereiro uma licença de sociedade de crédito direto (SCD), quando o BC aprovou a compra da Via Capital, e França afirma que, com a DTVM, terá o leque completo para oferecer todos os produtos aos clientes.\nA fintech abriu em 2023 um escritório no Chile, que tem regulação de open finance parecida com a do Brasil. O CEO diz que o foco agora não é expandir para fora. “Temos acompanhado outros países da América Latina, se eles vão adotar uma tecnologia semelhante à do Brasil, mas a demanda aqui tem sido tão forte que não prevemos novas expansões por enquanto”.\nA fintech também tem entre seus investidores a Innova Capital, e França diz que uma oferta inicial de ações (IPO) seria um caminho natural, mas não no curto prazo. “Não estamos pensando nisso agora. Estamos muito focados na execução, no crescimento. Não temos nenhuma pressão dos investidores para fazer IPO.”\nMarcelo França, fundador e CEO da Celcoin\nDivulgação",
-    "published": "2026-09-01T08:02:15+00:00",
-    "themes": [
-      "Economia",
-      "Fundos Imobiliarios",
-      "Mercado Financeiro"
-    ],
-    "summary": "A Celcoin, fintech que atua principalmente como prestador de serviços de “banking as a service” (BaaS), anunciou a aquisição da Vert Capital, tradicional no mercado de securitização e que mais recentemente se expandiu também para gestão e administração de fundos. O valor da trans",
     "relevance": 5
   }
 ]
