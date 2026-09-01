@@ -24,6 +24,18 @@
     "relevance": 5
   },
   {
+    "source": "O Globo",
+    "title": "Vídeo mostra praia paradisíaca da Grécia tomada por turistas: ‘Inferno na Terra’",
+    "link": "https://oglobo.globo.com/mundo/epoca/noticia/2026/08/31/video-mostra-praia-paradisiaca-da-grecia-tomada-por-turistas-inferno-na-terra.ghtml",
+    "description": "Uma das praias mais famosas e fotografadas da Grécia virou assunto nas redes sociais por um motivo bem diferente de suas águas azul-turquesa. Imagens da praia de Balos, na ilha de Creta, mostram centenas de turistas amontoados em uma estreita passarela metálica e ao longo da faixa de areia durante o pico da temporada de verão. O vídeo já ultrapassou 950 mil visualizações no Instagram.\nMarius Borg Høiby: Condenado por estupro, filho da nova rainha consorte da Noruega é autorizado a ir ao funeral rei Harald V\nEntenda: Elevador de 288 metros reduz trajeto de estudantes com ‘ônibus escolar aéreo’ na China\nLocalizada na região de Chania, no noroeste de Creta, Balos é conhecida por sua lagoa de águas rasas, areia clara e cenário considerado um dos cartões-postais da ilha. No entanto, a gravação publicada pelo usuário Julien, no Instagram, revela uma situação bem diferente das imagens normalmente associadas ao destino.\nInitial plugin text\nNa legenda, o autor ironiza a situação: “Chegando à maravilha natural da praia de Balos em agosto”. Nos comentários, uma pessoa resumiu a impressão causada pelas imagens com a frase “isto é um inferno”. Outros usuários atribuíram a superlotação ao chamado \"overtourism\", ou turismo excessivo, e ao impacto de redes sociais como Instagram e TikTok na popularização de destinos antes menos movimentados.\nAs imagens mostram principalmente a área de desembarque dos barcos. Turistas que chegam à praia se encontram com aqueles que aguardam para embarcar, formando um gargalo na estreita passagem. Moradores e frequentadores, porém, ponderaram que o ponto de maior concentração registrado no vídeo não representa necessariamente toda a extensão da praia.\nGalerias Relacionadas\nDestino recebe milhares de visitantes\nA pressão sobre Balos não é recente. Segundo Giorgos Koukourakis, consultor ambiental da prefeitura de Kissamos, município que abrange a região, Balos chega a receber entre 4 mil e 5 mil visitantes por dia durante o verão.\nLagoa de Balos\nWikimedia Commons\nA área faz parte da rede Natura 2000, da União Europeia, que reúne locais de importância ambiental e biodiversidade. A elevada quantidade de turistas dificulta a fiscalização e a adoção de medidas de proteção ambiental.\nDiante do problema, autoridades locais estudam a adoção de um sistema de reservas on-line, no qual os visitantes teriam de escolher previamente a data e o horário da visita. A proposta também prevê estabelecer uma capacidade máxima de visitantes para Balos e outros destinos turísticos da região, como Elafonisi e Falassarna. O plano ainda não está em vigor e depende de articulação entre o Ministério do Meio Ambiente da Grécia, o governo regional de Creta e a prefeitura de Kissamos. A previsão é que um plano de ação seja elaborado em 2027.",
+    "published": "2026-09-01T01:14:57+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Uma das praias mais famosas e fotografadas da Grécia virou assunto nas redes sociais por um motivo bem diferente de suas águas azul-turquesa. Imagens da praia de Balos, na ilha de Creta, mostram centenas de turistas amontoados em uma estreita passarela metálica e ao longo da faix",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Chega dessa história de bandido preso hoje e solto amanhã, diz Haddad na TV",
     "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/31/chega-dessa-histria-de-bandido-preso-hoje-e-solto-amanh-diz-haddad-na-tv.ghtml",
@@ -1686,7 +1698,13 @@
       "Politica"
     ],
     "summary": "Da esq. para a dir:  Romeu Zema, Ronaldo Caiado, Renan Santos, Lula, Flávio Bolsonaro e Augusto Cury, candidatos à presidência entrevistados pelo Jornal Nacional no 1º turno\nReprodução/ Jornal Nacional\nEntre 24 e 29 de agosto, os candidatos à Presidência da República Romeu Zema (",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/31/lula-aciona-tse-por-supostos-fatos-descontextualizados-e-inveridicos-ditos-por-flavio-bolsonaro-em-entrevista-a-globo.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -1844,7 +1862,13 @@
       "Politica"
     ],
     "summary": "O presidente do Senado, Davi Alcolumbre (União-AP), deve pautar na quarta-feira a indicação do ex-presidente da Casa Rodrigo Pacheco (PSB-MG) para a vaga aberta no Tribunal de Contas da União (TCU) com a renúncia de Bruno Dantas. A intenção é aproveitar o esforço concentrado dest",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/politica/noticia/2026/08/31/alcolumbre-indica-pacheco-para-vaga-no-tcu-apos-saida-de-bruno-dantas.ghtml"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
@@ -3993,19 +4017,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Boletim Focus reduziu as projeções de inflação e crescimento para 2026; mercado passou a ver quase 60% de chance de alta de juros nos EUA em setembro e aguarda o PIB do segundo trimestre nesta terça\nThe post Prefixados lideram queda no Tesouro Direto com Focus mais brando e PIB à",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Economia",
-    "title": "'Não há tema proibido', diz Alckmin sobre negociação com os EUA para reduzir tarifas e atrair investimentos",
-    "link": "https://g1.globo.com/economia/noticia/2026/08/31/alckmin-macro-day-btg.ghtml",
-    "description": "Durante o Macro Day, evento promovido pelo BTG Pactual em São Paulo, o vice-presidente Geraldo Alckmin afirmou nesta segunda-feira (31) que \"não tem tema proibido\" nas negociações entre Brasil e Estados Unidos. Segundo ele, o governo está disposto a colocar na mesa tanto questões tarifárias quanto não tarifárias na tentativa de reduzir o chamado \"tarifaço\" americano e ampliar investimentos no Brasil.\nA declaração foi feita horas antes da videoconferência entre representantes dos dois países para discutir as tarifas impostas sobre produtos brasileiros. De acordo com Alckmin, a orientação do presidente Luiz Inácio Lula da Silva é manter abertas as negociações para buscar um entendimento com Washington.\n\"Nós não vamos sair da mesa de negociação. Essa é a orientação do presidente Lula\", afirmou o vice-presidente.\nEntre os temas que podem ser apresentados aos americanos está o projeto Redata, que prevê incentivos para a instalação de data centers no Brasil. Segundo Alckmin, a proposta pode atrair até R$ 1 trilhão em investimentos, aproveitando a oferta de energia renovável e abundante no país.\n\"Não tem tema proibido. Todos os temas tarifários e não tarifários podem e devem ser colocados. Nós temos tudo para ir para um ganha-ganha\", declarou.\nO vice-presidente destacou que, embora a China seja o maior parceiro comercial do Brasil, os Estados Unidos continuam sendo o principal destino das exportações brasileiras de produtos manufaturados e o maior investidor estrangeiro no país, com cerca de 4 mil empresas instaladas em território nacional.\nAlckmin voltou a classificar como \"injusta\" a decisão dos Estados Unidos de elevar tarifas sobre produtos brasileiros. Segundo ele, os produtos americanos pagam, em média, 3,1% de imposto de importação para entrar no Brasil, enquanto 76% das mercadorias exportadas pelos EUA ao mercado brasileiro entram com tarifa zero. O vice-presidente também ressaltou que os Estados Unidos acumulam superávit comercial na relação com o Brasil.\n*Reportagem em atualização",
-    "published": "2026-08-31T12:49:39+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Durante o Macro Day, evento promovido pelo BTG Pactual em São Paulo, o vice-presidente Geraldo Alckmin afirmou nesta segunda-feira (31) que \"não tem tema proibido\" nas negociações entre Brasil e Estados Unidos. Segundo ele, o governo está disposto a colocar na mesa tanto questões",
     "relevance": 5
   }
 ]
