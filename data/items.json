@@ -2301,24 +2301,6 @@
     "relevance": 5
   },
   {
-    "source": "Poder360",
-    "title": "Grupo Refit tem falência decretada por decisão judicial",
-    "link": "https://www.poder360.com.br/poder-justica/grupo-refit-tem-falencia-decretada-por-decisao-judicial/",
-    "description": "Juiz ordenou bloqueio de contas e bens após investigações indicarem fraude fiscal e descumprimento de parcelamentos",
-    "published": "2026-08-31T20:58:35+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Juiz ordenou bloqueio de contas e bens após investigações indicarem fraude fiscal e descumprimento de parcelamentos",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/impresso/noticia/2026/09/01/refit-tem-a-falencia-decretada.ghtml"
-      }
-    ]
-  },
-  {
     "source": "InfoMoney",
     "title": "Série de 11 perdas e 9 vitórias seguidas marcam agosto negativo para Ibovespa",
     "link": "https://www.infomoney.com.br/mercados/ibovespa-fechamento-agosto-2026/",
@@ -3664,6 +3646,29 @@
     ],
     "summary": "Enquanto boa parte do mercado ainda debate se vale a pena adotar inteligência artificial no dia a dia corporativo, a Visus já colhe resultados concretos de um processo estruturado de implementação. A empresa, especializada em gestão de ativos e engenharia, decidiu tratar a IA não",
     "relevance": 5
+  },
+  {
+    "source": "G1 - Economia",
+    "title": "Refit: Justiça decreta falência das empresas do grupo no RJ",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/08/31/refit-justica-decreta-falencia-das-empresas-do-grupo-no-rj.ghtml",
+    "description": "Refit\nReprodução/TV Globo\nA Justiça do Rio de Janeiro decretou nesta segunda-feira (31) a falência das empresas que compõem o Grupo Refit, dono da antiga Refinaria de Manguinhos, na Zona Norte do Rio. O grupo é considerado um dos maiores devedores de impostos do país.\nA decisão é do juiz Arthur Ferreira, da 5ª Vara Empresarial, que converteu em falência a recuperação judicial de quatro empresas: Gasdiesel Serviços, Distribuidora S.A., Química S/A e Refinaria de Petróleos Manguinhos.\nO processo de recuperação judicial tramitava desde 2015. Segundo o Tribunal de Justiça do Rio (TJRJ), a conversão em falência havia sido pedida pelo Governo do Estado do Rio de Janeiro e pelo Ministério Público do Rio (MPRJ), por meio do Grupo de Atuação Especializada e de Defesa da Integridade e Repressão à Sonegação Fiscal (Gaesf).\nNa decisão, o magistrado afirma que investigações e operações realizadas contra empresas do grupo apontaram irregularidades e indicariam que o modelo de negócio estava baseado em práticas reiteradas de sonegação e fraude fiscal.\nVeja abaixo reportagem do RJ2 sobre investigações contra a Refit:\nRefit: veja o histórico de investigações no grupo empresarial\nJuiz cita operação da PF\nArthur Ferreira cita, entre outras, as operações Cadeia de Carbono, Carbono Oculto, Poço de Lobato e Sem Refino, além de uma interdição administrativa feita pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP).\nA mais recente dessas investigações é a Operação Sem Refino, da Polícia Federal, que apura suspeitas de fraudes fiscais, evasão de recursos públicos e favorecimento ilegal ao Grupo Refit. O ex-governador Cláudio Castro é um dos investigados.\nA investigação também apura se agentes públicos atuaram para beneficiar a empresa. Entre os órgãos citados pela PF estão a Secretaria Estadual de Fazenda, a Procuradoria-Geral do Estado, o Instituto Estadual do Ambiente (Inea) e o Tribunal de Justiça do Rio.\nO empresário Ricardo Magro, controlador da Refit, teve a prisão decretada pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF). Segundo a PF, ele mora em Miami, nos Estados Unidos, e passou a ser considerado foragido. O STF também determinou a inclusão do nome dele na lista da Interpol.\nNo âmbito da Operação Sem Refino, Moraes determinou ainda o bloqueio de R$ 52 bilhões em ativos e a suspensão das atividades das empresas investigadas.\nAo decretar a falência, o juiz Arthur Ferreira afirmou que a operação: \"evidenciou que o verdadeiro modelo de negócio empreendido pela Refit e suas empresas coligadas é baseado, intrinsecamente, em atos reiterados de sonegação fiscal e fraude fiscal estruturada, por meio de ocultação patrimonial e esvaziamento econômico da empresa deliberadamente para fins de não pagamento de tributos\".\nLeia também:\nEx-funcionários da Refit dizem que não receberam verbas rescisórias; grupo acumula R$ 52 bilhões em dívidas\nCláudio Castro é alvo de buscas da PF na Operação Sem Refino 2, sobre fraude em licenças ambientais da Refit\nEntenda as investigações contra Cláudio Castro e Ricardo Magro\nContas bloqueadas\nCom a decretação da falência, o juiz determinou o bloqueio de todas as contas bancárias das empresas.\nAs companhias também terão prazo máximo de cinco dias para apresentar a relação nominal de seus credores e fornecer informações ao administrador judicial.\nO magistrado ainda solicitou à Receita Federal as últimas declarações de Imposto de Renda das empresas e informações sobre operações imobiliárias.\nA decisão atinge:\nGasdiesel Serviços, em Duque de Caxias, na Baixada Fluminense;\nDistribuidora S.A., em Manguinhos, na Zona Norte do Rio;\nRefinaria de Petróleos Manguinhos, na Avenida Brasil;\nQuímica S/A, localizada na Rodovia Anhanguera, em Campinas (SP).\nO g1 tenta contato com o Grupo Refit para comentar a decisão.",
+    "published": "2026-08-31T17:30:31+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Refit\nReprodução/TV Globo\nA Justiça do Rio de Janeiro decretou nesta segunda-feira (31) a falência das empresas que compõem o Grupo Refit, dono da antiga Refinaria de Manguinhos, na Zona Norte do Rio. O grupo é considerado um dos maiores devedores de impostos do país.\nA decisão é",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/grupo-refit-tem-falencia-decretada-por-decisao-judicial/"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/impresso/noticia/2026/09/01/refit-tem-a-falencia-decretada.ghtml"
+      }
+    ]
   },
   {
     "source": "G1 - Economia",
