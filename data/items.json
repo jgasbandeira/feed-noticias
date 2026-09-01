@@ -48,6 +48,25 @@
     "relevance": 5
   },
   {
+    "source": "O Globo",
+    "title": "Câmara aprova MP que liberou empréstimo para compra de carro por motoristas de aplicativo e taxistas",
+    "link": "https://oglobo.globo.com/economia/noticia/2026/08/31/camara-aprova-mp-que-liberou-emprestimo-para-compra-de-carro-por-motoristas-de-aplicativo-e-taxistas.ghtml",
+    "description": "A Câmara aprovou nesta segunda-feira a medida provisória (MP) que regulamenta uma linha de crédito de R$ 30 bilhões para compra de carros por motoristas de aplicativo e taxistas. A iniciativa faz parte de um pacote eleitoral do presidente Luiz Inácio Lula da Silva, que é candidato à reeleição, e foi editada como um aceno para socorrer financeiramente a categoria. \nA MP ainda precisa passar por votação no plenário do Senado para ter efeito permanente. A validade dela acaba somente em outubro, mas a previsão é que o Congresso fique esvaziado nas próximas semanas. \nPor conta das eleições, a semana que começa nesta segunda deve ser o último período de votações antes do primeiro turno, que acontecerá no dia 4 de outubro. \nA MP foi aprovada na comissão mista na última sexta-feira, fora dessa semana de esforço concentrado e após movimentos de aproximação entre o presidente Lula e os presidentes do Senado, Davi Alcolumbre (União-AP), e da Câmara, Hugo Motta (Republicanos-PB). \nA linha de financiamento é direcionada a motoristas de aplicativos e taxistas. Na quinta-feira, o governo ampliou de 72 para até 84 meses o prazo máximo de reembolso das operações, mantendo até seis meses de carência de principal. \nAlém disso, foi elevado de R$ 150 mil para R$ 200 mil o valor máximo do automóvel que poderá ser financiado pelo programa. \nOs R$ 30 bilhões do Tesouro são repassados ao Banco Nacional de Desenvolvimento Econômico e Social (BNDES) que fará as operações de forma indireta, por meio da rede bancária. \nO montante será contabilizado como despesa financeira do governo, ou seja, não afeta a meta de resultado primário. \nA relatora da MP, deputada Amanda Gentil (PP-MA), manteve o principal escopo do texto do governo, mas fez alguns ajustes. \nEm comum acordo com a base governistas, ela acatou emendas para incluir transporte escolar na linha de financiamento e estabeleceu que o comitê gestor responsável pelo benefício deverá encaminhar ao Congresso relatórios de “avaliação de impacto social, econômico e ambiental das linhas de financiamento”. \nO avanço da medida acontece dois dias após Lula se reunir com os presidentes do Senado e da Câmara e acertar o avanço de outras medidas consideradas prioritárias pelo petista, como a proposta de emenda à Constituição (PEC) que dá fim a escala de trabalho 6x1 e a MP que acaba com a chamada “taxa das blusinhas”, a cobrança de 20% sobre compras internacionais de até US$ 50. \nNas últimas semanas, Lula se reconciliou com o presidente do Senado. Os dois estavam afastados desde a rejeição pelo Senado da indicação do advogado-geral da União, Jorge Messias, para o Supremo Tribunal Federal (STF).",
+    "published": "2026-09-01T00:15:50+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "A Câmara aprovou nesta segunda-feira a medida provisória (MP) que regulamenta uma linha de crédito de R$ 30 bilhões para compra de carros por motoristas de aplicativo e taxistas. A iniciativa faz parte de um pacote eleitoral do presidente Luiz Inácio Lula da Silva, que é candidat",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/politica/noticia/2026/08/31/camara-aprova-mp-com-linhas-de-credito-para-taxistas-e-motoristas-de-aplicativo-adquirirem-veiculos-novos-e-sustentaveis.ghtml"
+      }
+    ]
+  },
+  {
     "source": "Poder360",
     "title": "Governo usa R$ 64,7 bi em deduções para cumprir meta fiscal de 2027",
     "link": "https://www.poder360.com.br/poder-economia/governo-usa-r-647-bi-em-deducoes-para-cumprir-meta-fiscal-de-2027/",
@@ -820,7 +839,13 @@
       "Politica"
     ],
     "summary": "A equipe econômica do governo do presidente Luiz Inácio Lula da Silva (PT) informou que não está sendo proposto reajuste no valor pago nos benefícios do Bolsa Família no projeto de orçamento para 2027, encaminhado ao Congresso Nacional nesta segunda-feira (31).\nDesde que foi rela",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-economia/governo-lula-deixara-bolsa-familia-sem-reajuste-em-2027/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -1011,7 +1036,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O mercado reagiu ao ataque dos Estados Unidos contra o Irã; investidores também aguardam o Projeto de Lei Orçamentária Anual de 2027",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/financas/ao-vivo/ibovespa-hoje-acompanhe-bolsa-e-dolar.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3975,18 +4006,6 @@
       "Asset"
     ],
     "summary": "A SLB comprou a empresa de gestão térmica Kelvion de fundos de private equity por US$ 4,1 bilhões. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Inflação da Alemanha sobe para 2,9% em agosto, indica estimativa",
-    "link": "https://www.poder360.com.br/poder-economia/inflacao-da-alemanha-sobe-para-29-em-agosto-indica-estimativa/",
-    "description": "Dado preliminar divulgado nesta 2ª feira (31.ago) aponta a energia como principal vetor de pressão",
-    "published": "2026-08-31T12:43:27+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Dado preliminar divulgado nesta 2ª feira (31.ago) aponta a energia como principal vetor de pressão",
     "relevance": 5
   }
 ]
