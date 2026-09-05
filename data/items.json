@@ -1,5 +1,41 @@
 [
   {
+    "source": "Poder360",
+    "title": "Caiado diz que Moraes deveria se “auto-afastar” do STF",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/caiado-diz-que-moraes-deveria-se-auto-afastar-do-stf/",
+    "description": "Candidato do PSD disse que \"problemas individuais\" não podem atingir STF, Congresso, Senado nem a Presidência",
+    "published": "2026-09-05T22:07:29+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Candidato do PSD disse que \"problemas individuais\" não podem atingir STF, Congresso, Senado nem a Presidência",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Flávio promete proteger o STF e diz que Moraes é “laranja podre”",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-promete-proteger-o-stf-e-diz-que-moraes-e-laranja-podre/",
+    "description": "O candidato à Presidência pelo PL afirmou que pretende “resgatar a credibilidade das instituições” se for eleito",
+    "published": "2026-09-05T21:59:32+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O candidato à Presidência pelo PL afirmou que pretende “resgatar a credibilidade das instituições” se for eleito",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Zanin aciona STF e Justiça eleitoral após Deltan incluir dados sigilosos do ministro em registro de candidatura",
+    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/05/zanin-aciona-stf-e-justica-eleitoral-apos-deltan-incluir-dados-sigilosos-do-ministro-em-registro-de-candidatura.ghtml",
+    "description": "O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), pediu neste sábado providências da presidência da Corte, do Tribunal Superior Eleitoral (TSE) e do Tribunal Regional Eleitoral do Paraná (TRE-PR) sobre o suposto vazamento de seus dados bancários e fiscais que aparecem no registro de candidatura do ex-deputado Deltan Dallagnol (Novo), ex-procurador da Operação Lava Jato. \nZaniz fez os despachos após o caso ser revelado pelo portal Metrópoles. Os documentos foram retirados de um dos processos que tramita contra Deltan no Conselho Nacional do Ministério Públicos e incluídos na íntegra pela equipe do ex-procurador no sistema do TRE paranaense. \n\"Solicito a vossa excelência providências a fim de sanar essa afirmada ilegalidade bem como o envio das comunicações devidas objetivando a responsabilização dos envolvidos, inclusive no âmbito criminal\", diz o ofício de Zanin. \nA defesa de Deltan afirma que anexou cópias dos procedimentos para \"responder às impugnações de sua candidatura\" e com o intuito de não omitir nenhuma informação para a avaliação de \"forma transparente e zelosa\". \n\"Entre esses procedimentos está a reclamação disciplinar proposta por Cristiano Zanin contra Deltan e outros procuradores, que tinha milhares de páginas. Os dados fiscais e bancários do então advogado estavam incluídos como parte dessa reclamação\", explicou a defesa do ex-procurador, que completou: \n\"As cópias das reclamações foram apresentadas de forma integral pelos advogados para não omitir nenhum dado ou informação que pudesse ser relevante para a avaliação de seu conteúdo, de forma transparente e zelosa\". \nO ex-procurador da Lava-Jato é candidato ao Senado pelo Paraná nas eleições deste ano.",
+    "published": "2026-09-05T21:56:15+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O ministro Cristiano Zanin, do Supremo Tribunal Federal (STF), pediu neste sábado providências da presidência da Corte, do Tribunal Superior Eleitoral (TSE) e do Tribunal Regional Eleitoral do Paraná (TRE-PR) sobre o suposto vazamento de seus dados bancários e fiscais que aparece",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Zanin aciona STF, TSE e TJ-PR após suposta quebra de sigilo por Deltan Dallagnol",
     "link": "https://valor.globo.com/politica/noticia/2026/09/05/zanin-aciona-stf-tse-e-tj-pr-aps-suposta-quebra-de-sigilo-por-deltan-dallagnol.ghtml",
@@ -139,7 +175,13 @@
       "Politica"
     ],
     "summary": "O ministro Gilmar Mendes, do Supremo Tribunal Federal (STF) formalizou neste sábado (5) uma proposta para proibir que policiais e militares sejam proibidos de atuar nos gabinetes dos ministros, como servidores cedidos.\nComo mostrou o blog do jornalista Valdo Cruz, Mendes já havia",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/gilmar-formaliza-proposta-para-proibir-policiais-em-gabinetes-do-stf/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -265,7 +307,13 @@
       "Politica"
     ],
     "summary": "Ministro do STF cobrou providências do TRE-PR; candidato do Novo contesta tentativa de impugnação de sua candidatura",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/politica/politico/noticia/2026/09/05/zanin-pede-que-deltan-dallagnoll-seja-responsabilizado-por-abrir-seu-sigilo-fiscal.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3842,47 +3890,5 @@
     ],
     "summary": "Declaração ocorre em meio a crise institucional no STF com novas informações no inquérito que apura a fraude no Banco Master\nThe post Temos todos que defender projeto constitucional de 1988, diz advogado-geral da União appeared first on InfoMoney.",
     "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Se eu for eleito, as regras do STF serão outras, afirma Caiado",
-    "link": "https://www.infomoney.com.br/politica/se-eu-for-eleito-as-regras-do-stf-serao-outras-afirma-caiado/",
-    "description": "Candidato à Presidência voltou a defender idade mínima de 60 anos para ministros assumirem vaga na Suprema Corte\nThe post Se eu for eleito, as regras do STF serão outras, afirma Caiado appeared first on InfoMoney.",
-    "published": "2026-09-04T16:26:45+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Candidato à Presidência voltou a defender idade mínima de 60 anos para ministros assumirem vaga na Suprema Corte\nThe post Se eu for eleito, as regras do STF serão outras, afirma Caiado appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "EUA sancionam instituições turcas por laços com Irã; Bessent promete novas ações",
-    "link": "https://www.infomoney.com.br/mundo/eua-sancionam-instituicoes-turcas-por-lacos-com-ira-bessent-promete-novas-acoes/",
-    "description": "Secretário do Tesouro americano, Scott Bessent, confirmou as novas medidas em entrevista \nThe post EUA sancionam instituições turcas por laços com Irã; Bessent promete novas ações appeared first on InfoMoney.",
-    "published": "2026-09-04T16:24:02+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Secretário do Tesouro americano, Scott Bessent, confirmou as novas medidas em entrevista \nThe post EUA sancionam instituições turcas por laços com Irã; Bessent promete novas ações appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "The Ocean Race vai movimentar Itajaí em 2027",
-    "link": "https://valor.globo.com/patrocinado/dino/noticia/2026/09/04/the-ocean-race-vai-movimentar-itajai-em-2027-1.ghtml",
-    "description": "Em apenas 19 dias, Itajaí poderá receber um fluxo de até 500 mil visitantes e movimentar R$ 271 milhões com a passagem da The Ocean Race 2027. A cidade catarinense sediará, entre 31 de março e 18 de abril, a quinta escala consecutiva da maior regata de volta ao mundo. Os primeiros veleiros são esperados a partir de 31 de março, depois da travessia entre Auckland, na Nova Zelândia, e o litoral brasileiro, incluindo a passagem pelo desafiador Cabo Horn. A lista definitiva de inscritos ainda não foi anunciada, mas o regulamento abriu inicialmente dez vagas para os IMOCA 60 — configuração que representaria 40 atletas, quatro por barco, além de um repórter embarcado em cada equipe.\nO cenário-base prevê 420 mil visitantes, com possibilidade de alcançar meio milhão durante o funcionamento da Vila da Regata. Caso a estimativa máxima se confirme, o fluxo será 31% superior às 381 mil pessoas registradas em 2023. O avanço também aparece na economia: há três anos, o impacto da competição foi calculado em R$ 195,6 milhões; para 2027, a projeção é quase 39% maior, com efeitos diretos sobre hotelaria, gastronomia, comércio, transportes, prestação de serviços, geração de empregos e indústria náutica.\nAntes de chegar a Itajaí, única parada brasileira da regata, os competidores enfrentarão um dos percursos mais exigentes dos 53 anos da The Ocean Race. A largada será em 17 de janeiro de 2027, em Alicante, na Espanha, seguida por uma travessia de aproximadamente 14 mil milhas náuticas até Auckland — a mais longa etapa de abertura da história da prova. De lá, a frota seguirá pelo Oceano Sul, contornará o Cabo Horn e avançará até Santa Catarina. Os atletas competirão a bordo dos IMOCA 60, veleiros equipados com foils e capazes de \"voar sobre as águas\", superando uma velocidade de 30 nós, cerca de 55 quilômetros por hora. Cada tripulação terá quatro velejadores de pelo menos duas nacionalidades e deverá contar, obrigatoriamente, com ao menos uma mulher.\nA realização da etapa brasileira conta com a participação de Carlos Gayoso de Oliveira, diretor da Marina Itajaí. Na edição de 2023, quando também atuou como gerente náutico da The Ocean Race no Brasil, o executivo acompanhou a largada em Alicante e auxiliou, ao lado da prefeitura, na organização da parada latino-americana.\n\"Receber até 500 mil visitantes em 19 dias mostra que a The Ocean Race ultrapassou o esporte e se tornou uma plataforma de desenvolvimento para Itajaí. A chegada dos veleiros mobiliza toda uma cadeia, da hotelaria e da gastronomia aos estaleiros e prestadores de serviços náuticos. O principal legado é apresentar ao mundo uma cidade preparada para receber grandes competições, embarcações e investimentos\", comenta Carlos.\nA relação da Marina Itajaí com a regata atravessa diferentes edições. Em 2018, o complexo recebeu cerca de 90 embarcações de visitantes, alcançou 100% de ocupação das vagas molhadas e registrou aproximadamente 5 mil pessoas durante o evento. Também foi ponto de embarque e desembarque de torcidas, equipes de apoio, jornalistas e navegadores. Em 2023, participou como patrocinadora oficial, criou tarifas especiais e abriu reservas limitadas para quem chegou à cidade pelo mar. A escala de 2027 marcará a 11ª passagem da The Ocean Race pelo Brasil e reforçará a posição de Itajaí entre os principais destinos da vela oceânica e do turismo náutico na América Latina.",
-    "published": "2026-09-04T16:21:01+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Em apenas 19 dias, Itajaí poderá receber um fluxo de até 500 mil visitantes e movimentar R$ 271 milhões com a passagem da The Ocean Race 2027. A cidade catarinense sediará, entre 31 de março e 18 de abril, a quinta escala consecutiva da maior regata de volta ao mundo. Os primeiro",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/09/04/the-ocean-race-vai-movimentar-itajai-em-2027-1.ghtml"
-      }
-    ]
   }
 ]
