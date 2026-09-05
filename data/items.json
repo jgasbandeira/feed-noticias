@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "Malafaia cita “império do mal” ao criticar Moraes, Lula e Alcolumbre",
+    "link": "https://www.poder360.com.br/poder-gente/malafaia-cita-imperio-do-mal-ao-criticar-moraes-lula-e-alcolumbre/",
+    "description": "Pastor sai em defesa de Mendonça no caso Master e convoca ato de 7 de Setembro contra o governo e o STF",
+    "published": "2026-09-05T01:46:09+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Pastor sai em defesa de Mendonça no caso Master e convoca ato de 7 de Setembro contra o governo e o STF",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Renan Santos acusa bolsonarismo de hipocrisia na crise do STF",
     "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/04/renan-santos-acusa-bolsonarismo-de-hipocrisia-na-crise-do-stf.ghtml",
@@ -3956,23 +3968,5 @@
     ],
     "summary": "Uma campanha dos EUA para estrangular a economia do Irã, bloqueando suas exportações de petróleo e impedindo a evasão de sanções, está se tornando cada vez mais difícil de resistir, disseram três fontes iranianas de alto escalão.\nLeia também:\nVeja o que se sabe sobre suposto ataq",
     "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Eleições 2026: TSE conclui assinatura digital e lacra sistemas das urnas eletrônicas",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/09/04/eleicoes-2026-tse-conclui-assinatura-digital-e-lacra-sistemas-das-urnas-eletronicas.ghtml",
-    "description": "O Tribunal Superior Eleitoral (TSE) encerrou nesta sexta-feira (4) a cerimônia de assinatura digital e a lacração dos sistemas eleitorais que serão utilizados nas eleições deste ano.\nOs sistemas foram assinados pelo presidente do TSE, ministro Kassio Nunes Marques, e por autoridades presentes. \nEm seguida, foram lacrados digitalmente, fisicamente e armazenados na sala-cofre do tribunal.\n🔎A assinatura digital funciona como um selo eletrônico de autenticidade. Ela cria uma identificação única para cada programa usado na eleição, permitindo verificar posteriormente se o sistema é exatamente o mesmo que foi aprovado pelo tribunal.\nAgora no g1\n🔎Na prática, a lacração marca o encerramento do desenvolvimento dos programas. Depois dessa etapa, qualquer alteração nos sistemas invalida a assinatura digital e pode ser detectada pelos mecanismos de fiscalização e auditoria.\nEntre as autoridades presentes estavam o diretor da Polícia Federal (PF), Andrei Rodrigues, representantes da Ordem dos Advogados do Brasil (OAB), do Ministério Público e do próprio TSE.\n“Todo o procedimento é acompanhado por entidades fiscalizadoras, que podem verificar a integridade dos sistemas e participar de mais essa oportunidade de auditoria e fiscalização do processo eletrônico de votação\", informou o TSE.\n\"Na mesma ocasião, as entidades que desenvolveram sistemas próprios para verificação de assinatura digital também terão esses sistemas compilados, assinados digitalmente e adicionados à cópia física, também guardada na sala-cofre”, complementou.\nA assinatura e lacração fazem parte de uma das etapas finais do ciclo de verificação dos programas que serão usados nas votações do primeiro e do segundo turnos das eleições, marcados para 4 e 25 de outubro, respectivamente.\nSegundo o presidente do TSE, ministro Kassio Nunes Marques, \"a partir da aposição das assinaturas digitais, não é mais possível efetuar alterações nos sistemas\". \nAinda de acordo com ele, os mecanismos de segurança passam a assegurar \"a autenticidade e a integridade das versões ora lacradas\".\nDepois que os sistemas são assinados digitalmente e lacrados, qualquer modificação nos arquivos altera a \"impressão digital\" eletrônica do programa e é identificada pelos mecanismos de controle. \nIsso permite confirmar que o software instalado nas urnas é o mesmo que foi inspecionado e aprovado pelo TSE.\nA próxima fase é a geração de mídias, na qual os dados dos candidatos serão inseridos nas urnas. Na véspera do pleito, ocorre a verificação dos sistemas usados na totalização e envio dos dados.\nDe acordo com o TSE, os processos garantem ao eleitor que o voto registrado na urna será computado de forma totalmente segura.",
-    "published": "2026-09-04T12:26:13+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O Tribunal Superior Eleitoral (TSE) encerrou nesta sexta-feira (4) a cerimônia de assinatura digital e a lacração dos sistemas eleitorais que serão utilizados nas eleições deste ano.\nOs sistemas foram assinados pelo presidente do TSE, ministro Kassio Nunes Marques, e por autorida",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/politica/tse-conclui-lacracao-dos-sistemas-eleitorais-que-serao-usados-nas-eleicoes-de-2026/"
-      }
-    ]
   }
 ]
