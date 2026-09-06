@@ -1,5 +1,29 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "FT/ANÁLISE: O clima está esquentando nos mercados",
+    "link": "https://valor.globo.com/financas/noticia/2026/09/06/ftanlise-o-clima-est-esquentando-nos-mercados.ghtml",
+    "description": "Há um ano, nesta mesma época, analistas e investidores de Wall Street mantinham-se em um silêncio cauteloso, extremamente relutantes em fazer críticas públicas sobre as ações do governo dos EUA em relação a tarifas, à degradação institucional do país ou a qualquer outro assunto.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-06T14:42:34+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Há um ano, nesta mesma época, analistas e investidores de Wall Street mantinham-se em um silêncio cauteloso, extremamente relutantes em fazer críticas públicas sobre as ações do governo dos EUA em relação a tarifas, à degradação institucional do país ou a qualquer outro assunto.\n",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Reforma tributária encarece passagens aéreas em 16,1%, diz associação",
+    "link": "https://www.poder360.com.br/poder-economia/reforma-tributaria-encarece-passagens-aereas-em-161-diz-associacao/",
+    "description": "Estudo diz que aumento dos tributos pode reduzir a demanda e desacelerar a expansão da malha aérea",
+    "published": "2026-09-06T14:31:21+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Estudo diz que aumento dos tributos pode reduzir a demanda e desacelerar a expansão da malha aérea",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Flávio se apequena para outros países, diz Lula",
     "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-se-apequena-para-outros-paises-diz-lula/",
@@ -623,7 +647,17 @@
       "Politica"
     ],
     "summary": "Ex-primeira-dama diz que ministro do Supremo é “escolhido e ungido do Senhor” e que a Igreja o ama",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/09/06/michelle-bolsonaro-publica-mensagem-de-apoio-a-mendonca-em-meio-a-crise-no-stf-ungido-do-senhor.ghtml"
+      },
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/politica/em-meio-a-crise-no-stf-michelle-bolsonaro-sai-em-defesa-de-mendonca/"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -3810,37 +3844,6 @@
       {
         "source": "G1 - Economia",
         "link": "https://g1.globo.com/tecnologia/noticia/2026/09/06/por-que-o-acordo-de-us-18-bilhoes-da-meta-importa-alem-dos-estados-unidos.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "O ano em que o brasileiro passou a usar o próprio carro para se desendividar",
-    "link": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/09/04/o-ano-em-que-o-brasileiro-passou-a-usar-o-proprio-carro-para-se-desendividar-1.ghtml",
-    "description": "As operações de crédito com garantia de veículo cresceram 17,83% no primeiro semestre de 2026 na comparação com o mesmo período de 2025, segundo o Índice PO27 de Crédito com Garantia Veicular. O avanço ocorreu em quatro das cinco regiões do país: Centro-Oeste (+32,12%), Sul (+24,17%), Sudeste (+18,03%) e Nordeste (+14,10%). O Norte foi a única região com retração, de 2,71%.\nNo mesmo período, o indicador de endividamento das famílias seguiu na direção oposta. A PEIC (Pesquisa de Endividamento e Inadimplência do Consumidor), da CNC (Confederação Nacional do Comércio), registrou 82% das famílias com dívidas a vencer em julho, sexto recorde seguido da série iniciada em 2010 e 3,5 pontos percentuais acima de julho de 2025. O percentual de famílias com mais da metade da renda comprometida subiu para 19%.\nA leitura conjunta das duas curvas é o dado relevante para o mercado de crédito. O crescimento do produto com garantia de veículo não está sendo puxado apenas pela compra de carros, já que parte relevante das operações tem como destino a substituição de dívida cara contratada em linhas sem garantia.\nA diferença de preço explica boa parte do movimento. Enquanto a taxa média do crédito pessoal não consignado oscilou entre 8,4% e 8,6% ao mês no primeiro semestre, segundo o Banco Central, operações com veículo quitado em garantia partem de patamares promocionais próximos de 1,09% ao mês mais IPCA, podendo chegar a 2,8% ao mês dependendo do perfil do tomador e das condições do bem, segundo levantamento do comparador CalculaFinanciamento em julho de 2026.\nA exigência central do produto é objetiva: o veículo oferecido em garantia precisa ter até 17 anos de fabricação e documentação regular, podendo ainda estar parcialmente financiado, desde que parte do novo crédito seja destinada a quitar o saldo remanescente.\n\"Quem procura crédito com garantia de veículo hoje não é quem não tem alternativa, é quem já fez a conta e percebeu que estava pagando caro por um dinheiro que o próprio carro poderia baratear\", afirma João Viríssimo, diretor da Nexus Credi, correspondente bancária de Belo Horizonte especializada em operações com garantia de imóvel e de veículo.\nUm diferencial frequentemente ignorado na comparação com o crédito imobiliário é a agilidade de formalização. Enquanto a garantia de imóvel depende de avaliação, verificação de matrícula e registro em cartório (etapas em que custo e prazo variam entre comarcas), a garantia de veículo é registrada eletronicamente como gravame no SNG (Sistema Nacional de Gravames) vinculado ao Detran, o que tende a reduzir o tempo entre a contratação e a liberação do crédito.\nO contraponto é o valor médio das operações, naturalmente menor do que o de créditos com garantia de imóvel, e prazos mais curtos (de 12 a 60 meses, contra até 240 meses nas operações imobiliárias). Para dívidas de valor médio e horizonte de pagamento mais curto, a modalidade tende a fazer mais sentido do que comprometer um imóvel por mais de uma década.\nO crescimento de 17,83% no primeiro semestre, puxado sobretudo pelo Centro-Oeste e pelo Sul, sugere que a substituição de dívida via garantia de veículo deixou de ser instrumento de nicho regional para se espalhar pelo país, acompanhando, na direção inversa, a curva de endividamento que a PEIC segue registrando recorde após recorde.",
-    "published": "2026-09-04T20:16:12+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "As operações de crédito com garantia de veículo cresceram 17,83% no primeiro semestre de 2026 na comparação com o mesmo período de 2025, segundo o Índice PO27 de Crédito com Garantia Veicular. O avanço ocorreu em quatro das cinco regiões do país: Centro-Oeste (+32,12%), Sul (+24,",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Empresários articulam novo manifesto para cobrar código de conduta no STF",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/09/04/empresarios-articulam-novo-manifesto-para-cobrar-codigo-de-conduta-no-stf.ghtml",
-    "description": "O setor privado começa a se organizar para divulgar um novo manifesto pedindo que o presidente do Supremo Tribunal Federal (STF), Edson Fachin, avance na adoção de um código de conduta para os magistrados. A revelação de conversas entre o ministro Alexandre de Moraes e o banqueiro Daniel Vorcaro, dono do banco Master, segundo investigação da Polícia Federal, causou indignação entre empresários, já que traz um sentimento de desconfiança sobre a mais alta corte do país, cuja função é garantir o cumprimento da Constituição.\nO pronunciamento mais contundente até agora veio do fundador e presidente do conselho do Grupo Petz Cobasi, Sergio Zimerman. Durante o evento Fórum Negócios Brasil, realizado esta semana em São Paulo, o empresário criticou duramente a crise no STF e os fatos revelados da PF.  Ele afirmou que a população deve ir às ruas caso as investigações envolvendo Moraes e Vorcaro não tiverem punições.\n— Se acontecer de não dar em nada, vamos para a rua. Vamos para a rua acabar com a sem-vergonhice — disse o empresário, que foi aplaudido de pé pela plateia e classificou como \"estarrecedores\" os fatos tornados públicos pela PF.\nO empresário criticou ainda o pedido da Procuradoria-Geral da República para anular o relatório da PF sobre o caso.\n— Imagina, por exemplo, que fosse uma investigação que não tivesse autorização, mas tivesse flagrado uma pessoa, sei lá, praticando pedofilia. Não interessa o que foi feito, interessa que não podia ser feito daquela forma. Não é a primeira vez que anulam processos no Brasil pelo mesmo motivo. Outros processos, como todos sabem, muito importantes foram anulados, as pessoas foram descondenadas porque o jeito de fazer não seguiu um determinado rito — declarou no mesmo evento.\nO GLOBO apurou entre representantes do setor produtivo e empresários que existe o início de uma mobilização para que seja um manifesto pedido decoro no STF. As conversas ocorrem em grupos de WhatsApp. Um documento similar, com 200 assinaturas, entre empresários, economistas e representantes da sociedade civil, já havia sido divulgado em dezemb0ro passado, pedindo que o STF adote um código de conduta para os ministros da corte.\nAssinaram o manifesto nomes como Arminio Fraga, economista e ex-presidente do Banco Central, João Amoêdo, um dos fundadores e ex-presidente do Partido Novo, e Antonio Luiz Seabra, fundador da Natura, além de acadêmicos como Pablo Ortellado, professor de gestão de políticas públicas da USP, e Hélio Zylberstajn, professor da faculdade de economia da USP.\nO documento pedia transparência \"sobre os limites éticos que devem orientar magistrados\" como condição para a preservação da autoridade moral e credibilidade do Judiciário. O manifesto foi divulgado após revelações de que o ministro Dias Toffoli viajou a Lima, no Peru, durante a final da Taça Libertadores, em um jato particular ao lado de um dos advogados envolvidos no caso Master, cujas investigações estavam sob a supervisão do magistrado. Também O GLOBO havia revelado que o Banco Master contratou o escritório de Mulher de Alexandre de Moares, Viviane Barsi, por R$ 3,6 milhões mensais, num valor que totalizava R$ 130 milhões.\nUm empresário que prefere não se identificar confirma a mobilização para que seja divulgada uma nova carta à sociedade cobrando a liderança do STF por um código de conduta.\n— Há conversas para um novo documento, que deve sair logo. Há um sentimento de desconfiança e revolta em relação a determinadas posturas de ministros do STF, que criam um ambiente de total descrédito da instituição, que tem o poder de garantir o cumprimento da Constituição. Isso afeta a credibilidade do país, afasta investimentos porque não se pode viver sempre nessa insegurança — diz o empresário.",
-    "published": "2026-09-04T20:15:25+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O setor privado começa a se organizar para divulgar um novo manifesto pedindo que o presidente do Supremo Tribunal Federal (STF), Edson Fachin, avance na adoção de um código de conduta para os magistrados. A revelação de conversas entre o ministro Alexandre de Moraes e o banqueir",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/politica/empresarios-articulam-novo-manifesto-para-cobrar-codigo-de-conduta-no-stf/"
       }
     ]
   }
