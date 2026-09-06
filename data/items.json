@@ -118,7 +118,13 @@
       "Economia"
     ],
     "summary": "O Pix, sistema de pagamentos instantâneos do Banco Central (BC), registrou recorde diário de transações liquidadas na sexta-feira (4), com 318.073.816 operações. Em valores, foram R$ 186,89 bilhões. A estatísticas são do Sistema de Pagamentos Instantâneos (SPI).\n\nO pico anterior ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/noticia/2026/09/05/pix-bate-recorde-de-transacoes-liquidadas-em-um-unico-dia.ghtml"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -390,6 +396,10 @@
       {
         "source": "Valor Econômico",
         "link": "https://valor.globo.com/politica/noticia/2026/09/05/aps-visita-a-filipe-martins-flvio-bolsonaro-chama-moraes-de-laranja-podre-mas-preserva-suprema-corte.ghtml"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-visita-filipe-martins-na-prisao-e-critica-moraes/"
       }
     ]
   },
