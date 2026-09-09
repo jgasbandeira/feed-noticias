@@ -1,5 +1,65 @@
 [
   {
+    "source": "InfoMoney",
+    "title": "Petróleo, eleições e crise no STF: o que movimenta os mercados nesta quarta",
+    "link": "https://www.infomoney.com.br/mercados/petroleo-trade-eleitoral-crise-stf-09092026/",
+    "description": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quarta-feira (9)\nThe post Petróleo, eleições e crise no STF: o que movimenta os mercados nesta quarta appeared first on InfoMoney.",
+    "published": "2026-09-09T09:06:07+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quarta-feira (9)\nThe post Petróleo, eleições e crise no STF: o que movimenta os mercados nesta quarta appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Saiba quais indicadores e balanços saem nesta 4ª feira",
+    "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-4a-feira-5/",
+    "description": "Produção industrial na França, balança comercial em Portugal e inflação no México movimentam o cenário global",
+    "published": "2026-09-09T09:00:47+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Produção industrial na França, balança comercial em Portugal e inflação no México movimentam o cenário global",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Impasse entre Mendonça e PGR trava investigações contra Lulinha",
+    "link": "https://www.poder360.com.br/poder-justica/impasse-entre-mendonca-e-pgr-trava-investigacoes-contra-lulinha/",
+    "description": "Relator atrasa decisão sobre pedido para levar o caso para a 1ª instância; novas diligências da PF correm risco de não terem parecer do Ministério Público",
+    "published": "2026-09-09T09:00:07+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Relator atrasa decisão sobre pedido para levar o caso para a 1ª instância; novas diligências da PF correm risco de não terem parecer do Ministério Público",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Afastado da chefia da PF, Andrei Rodrigues não limpou as gavetas e trabalha para retornar ao posto",
+    "link": "https://oglobo.globo.com/blogs/bela-megale/post/2026/09/afastado-da-chefia-da-pf-andrei-rodrigues-nao-limpou-as-gavetas-e-trabalha-para-retornar-ao-posto.ghtml",
+    "description": "O chefe da Polícia Federal, Andrei Rodrigues, deixou a sua sala na sede da corporação em Brasília, após ser afastado do cargo pelo ministro André Mendonça, do Supremo Tribunal Federal (STF). O delegado, porém, ainda não limpou as gavetas. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-09T09:00:01+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O chefe da Polícia Federal, Andrei Rodrigues, deixou a sua sala na sede da corporação em Brasília, após ser afastado do cargo pelo ministro André Mendonça, do Supremo Tribunal Federal (STF). O delegado, porém, ainda não limpou as gavetas. Matéria exclusiva para assinantes. Para t",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Lula é aconselhado a 'soltar a mão' de Moraes",
+    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/09/lula-e-aconselhado-a-soltar-a-mao-de-moraes.ghtml",
+    "description": "Lula está sendo aconselhado por aliados próximos a \"soltar a mão de Alexandre de Moraes\". Ou seja, a pedir publicamente que Moraes peça licença do STF para se defender das revelações recentes sobre sua proximidade excessiva com Daniel Vorcaro.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-09T08:53:01+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Lula está sendo aconselhado por aliados próximos a \"soltar a mão de Alexandre de Moraes\". Ou seja, a pedir publicamente que Moraes peça licença do STF para se defender das revelações recentes sobre sua proximidade excessiva com Daniel Vorcaro.  Matéria exclusiva para assinantes. ",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Morre aos 89 anos Tung Chee-hwa, primeiro líder de Hong Kong após retorno ao domínio da China",
     "link": "https://oglobo.globo.com/mundo/noticia/2026/09/09/morre-aos-89-anos-tung-chee-hwa-primeiro-lider-de-hong-kong-apos-retorno-ao-dominio-da-china.ghtml",
@@ -3111,7 +3171,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Petróleo bate em US$ 100 com ataque de houthis a navios sauditas\nOs preços do petróleo atingiram o maior nível em seis semanas nesta terça-feira (8), após os houthis, grupo apoiado pelo Irã no Iêmen, atacarem instalações de energia na Arábia Saudita.\nOs contratos futuros do Brent",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/noticia/2026/09/09/petroleo-bate-us-100-pela-primeira-vez-desde-julho-apos-ataques-na-arabia-saudita.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3767,72 +3833,5 @@
     ],
     "summary": "A Justiça de São Paulo entendeu que a ocorrência de um ciclone extratropical em 9 e 10 de dezembro de 2025 no Estado de São Paulo com consequências na prestação de serviços da distribuidora de eletricidade Enel São Paulo não afasta a responsabilidade da companhia no apagão ocorri",
     "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Base do governo vê intervenção 'grave e ilegal' e bolsonaristas elogiam afastamento de Rodrigues da PF",
-    "link": "https://valor.globo.com/politica/noticia/2026/09/08/base-do-governo-ve-intervencao-grave-e-ilegal-e-bolsonaristas-elogiam-afastamento-de-rodrigues-da-pf.ghtml",
-    "description": "A decisão do ministro André Mendonça, do Supremo Tribunal Federal (STF), de afastar o diretor-geral da Polícia Federal, Andrei Rodrigues, repercutiu no Congresso Nacional e dividiu parlamentares governistas e de oposição. Integrantes da ala bolsonarista elogiaram a atuação do ministro e afirmaram que a medida é uma defesa da \"autonomia e da independência da corporação\". Já os governistas trataram a decisão como “uma intervenção grave e ilegal”, que usurpa prerrogativa do Poder Executivo. \n\nEm nota divulgada nesta terça-feira (8) a bancada do PT na Câmara manifestou repúdio à decisão de Mendonça. “Trata-se de uma intervenção grave e ilegal na autonomia administrativa e funcional da Polícia Federal, que invade atribuições do Poder Executivo com fins político-eleitorais”, afirma o documento, assinado pelo líder, Pedro Uczai (SC). Os deputados petistas enfatizam no texto que a PF é um órgão de Estado, subordinado administrativamente ao Poder Executivo e que a nomeação do diretor-geral é uma atribuição do presidente da República.\n\n“Ao afastar diretamente o dirigente máximo da instituição, substituindo-se ao chefe do Executivo na definição do comando da PF, o ministro André Mendonça ultrapassa os limites próprios da jurisdição e usurpa prerrogativa presidencial. Não cabe a um ministro do Supremo, por decisão individual, reorganizar a cúpula de um órgão do Executivo e, na prática, decidir quem pode ou não permanecer à frente da Polícia Federal”, diz a nota.\n\nSegundo o texto, a gravidade aumenta porque a decisão ocorre justamente quando a Polícia Federal conduz investigações de grande repercussão política, a exemplo do Banco Master. “Afastar a direção da PF nesse contexto constitui interferência direta sobre a instituição responsável pelas investigações e, objetivamente, beneficia o campo político da família Bolsonaro. Não pode passar despercebido que André Mendonça foi indicado ao Supremo por Jair Bolsonaro e que sua decisão é celebrada justamente pelos setores políticos que vêm atacando a Polícia Federal e tentando desacreditar investigações que atingem o bolsonarismo”, afirma o texto.\n\nJá parlamentares bolsonaristas celebraram o afastamento de Andrei Rodrigues. Para eles, a decisão de André Mendonça é vista como uma reação a uma suposta “politização” da Polícia Federal. Eles defendem a autonomia da PF e avaliam que a cúpula da corporação vinha agindo de forma subordinada ao governo.\n\n“A Polícia Federal é uma instituição de Estado e precisa estar acima de qualquer projeto político. Quando há indícios de interferência ou uso político da máquina pública, é dever das autoridades competentes agir para preservar a independência e a credibilidade da corporação”, afirmou o deputado bolsonarista Sargento Gurgel (PL-RJ).\n\nPara o deputado Rodrigo Valadares (PL-SE), havia “subserviência” da PF ao governo. “A atuação recente da cúpula da corporação indicava subserviência a interesses partidários. Nenhuma autoridade ou órgão público está acima da legislação republicana. Parabéns ao ministro André Mendonça\", afirmou Valadares.\n\nNo Senado, o senador Carlos Viana (PSD-MG) afirmou ter protocolado uma representação com pedido de prisão preventiva de Andrei Rodrigues, além do afastamento, e cobrou uma investigação criminal sobre o que classificou como “suposto uso da estrutura de inteligência da PF para monitorar André Mendonça, com a identificação de quem ordenou, executou e recebeu os relatórios”.\n\n“Agora protocolei representação para apuração criminal imediata e prisão preventiva, presentes os requisitos legais. Quero saber quem deu a ordem, quem executou, quem recebeu os relatórios e para que foram utilizados. Se a estrutura de inteligência da Polícia Federal foi usada ilegalmente, afastamento não encerra o caso. É preciso chegar aos responsáveis. Ninguém está acima da lei, nem quem tem o poder de investigar”, declarou o senador.\n\nDeputado Rodrigo Valadares (PL-SE)\nKayo Magalhães/Câmara dos Deputados",
-    "published": "2026-09-08T18:55:05+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A decisão do ministro André Mendonça, do Supremo Tribunal Federal (STF), de afastar o diretor-geral da Polícia Federal, Andrei Rodrigues, repercutiu no Congresso Nacional e dividiu parlamentares governistas e de oposição. Integrantes da ala bolsonarista elogiaram a atuação do min",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "‘Sabor direita’ x ‘sabor derrota’: candidato ao governo de Goiás pelo PL e prefeito de Anápolis escancaram rompimento",
-    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/08/sabor-direita-x-sabor-derrota-candidato-ao-governo-de-goias-pelo-pl-e-prefeito-de-anapolis-escancaram-rompimento.ghtml",
-    "description": "A troca de acusações entre o senador Wilder Morais (PL) e o prefeito de Anápolis, Márcio Corrêa (PL), subiu mais um degrau e escancarou o distanciamento entre os dois políticos em meio à campanha para o governo de Goiás. Depois de ser chamado de “sabor direita” pelo candidato do PL ao Palácio das Esmeraldas, Corrêa respondeu com uma sequência de ataques e, no domingo (6), inaugurou em Anápolis um comitê voltado à campanha de Flávio Bolsonaro, sem a presença de Wilder e com material de candidatos que fazem oposição ao senador dentro da própria direita.\nSão Paulo: Tarcísio defende afastamento de Andrei e afirma que Mendonça 'representa uma esperança' para o país\nDe ataques contra Paes a elogio a Mendonça: Veja seis pontos da sabatina de Douglas Ruas ao GLOBO, Extra, Valor e CBN\nO novo capítulo da disputa começou em uma sabatina promovida pelo Mais Goiás, na qual Wilder classificou Corrêa como “sabor direita”, numa referência ao apoio declarado pelo prefeito a Daniel Vilela (MDB), principal adversário do senador na corrida pelo governo e sucessor de Ronaldo Caiado (PSD). Corrêa reagiu nas redes sociais. Em vídeo, devolveu a provocação com uma série de adjetivos dirigidos ao senador.\n— O senhor tem sabor Moraes, sabor Messias, sabor rabo preso e sabor derrota — afirmou o prefeito.\nA referência a Alexandre de Moraes remete a um episódio de 2017, quando Wilder organizou em seu iate, no Lago Paranoá, uma reunião de senadores para receber Moraes, então indicado pelo presidente Michel Temer para uma vaga no Supremo Tribunal Federal (STF). Hoje, o ministro é um dos principais alvos de críticas do bolsonarismo.\nCorrêa também citou a ausência de Wilder na votação que rejeitou a indicação de Jorge Messias, advogado-geral da União, ao STF. O senador não participou da sessão. Nos bastidores, aliados de Corrêa afirmam que a ausência ocorreu depois de Wilder receber o contato de um empresário ligado ao PT para que se abstivesse da votação.\nO prefeito ainda acusou Wilder de dedicar parte de sua campanha a atacá-lo, apesar de Corrêa não ser candidato na eleição deste ano.\n— Nem candidato eu sou, mas o senhor está gastando dinheiro de fundo partidário para impulsionar ataques contra mim — afirmou.\nComitê para Bolsonaro\nA disputa ganhou um componente simbólico no domingo, quando Corrêa inaugurou, em Anápolis, um comitê de campanha ao lado do deputado federal Gustavo Gayer (PL) e do vereador Major Vitor Hugo (PL).\nO espaço distribui material de campanha dos dois políticos, candidatos ao Senado e à Câmara Federal, respectivamente, e do presidenciável Flávio Bolsonaro (PL). Durante a inauguração, os participantes fizeram questão de destacar que se trata do único comitê dedicado à campanha de Bolsonaro em Goiás.\nWilder não foi convidado para o evento e seu material não será distribuído no local.\nA escolha do comitê reforça a disputa pelo espólio político do bolsonarismo em Goiás. Wilder tenta se consolidar como o candidato da direita ao governo, mas enfrenta dissidências dentro do próprio PL desde que Corrêa e o prefeito de Novo Gama, Carlinhos do Mangão, declararam apoio a Daniel Vilela.\nNo caso de Anápolis, o conflito é ainda mais sensível. Corrêa foi eleito prefeito em 2024 pelo PL, com apoio da legenda e do ex-presidente Jair Bolsonaro, mas passou a defender a candidatura de Vilela, sucessor do governador Ronaldo Caiado (PSD). A posição levou a direção estadual do PL a abrir processo disciplinar contra o prefeito, com possibilidade de expulsão.\nMDB sinaliza reaproximação\nEnquanto Wilder e Corrêa aprofundam a ruptura, o MDB passou a sinalizar que as portas estão abertas para o prefeito. Presidente estadual da legenda, Haroldo Naves afirmou ao site Folha Z que Corrêa “será muito bem-vindo” caso decida retornar ao partido. O dirigente acrescentou que o prefeito “tem história no MDB”.\nCorrêa construiu sua trajetória política no MDB de Daniel Vilela e só deixou a sigla em abril de 2024, quando se filiou ao PL para disputar a prefeitura de Anápolis. A mudança ocorreu no contexto da aproximação de Corrêa com o bolsonarismo e foi parte da articulação que levou à sua vitória eleitoral na cidade, onde o eleitorado tem forte identificação com a direita.\nO conflito ocorre num momento em que Wilder tenta recuperar espaço na disputa pelo governo. Na pesquisa mais recente da Quaest, divulgada no fim de agosto, Daniel Vilela apareceu com 37% das intenções de voto, seguido por Marconi Perillo (PSDB), com 20%, e Wilder, com 12%. Luis Cesar Bueno (PT) tinha 4%, enquanto 20% não souberam ou não quiseram responder.\nO resultado deixou Wilder oito pontos atrás de Marconi e 25 pontos distante de Vilela. A estratégia do senador tem sido se apresentar como a alternativa da direita à disputa entre Vilela e Marconi. O conflito com Corrêa, no entanto, expõe justamente uma dificuldade para consolidar essa posição: parte dos políticos do próprio PL não está acompanhando sua candidatura.\nA tensão já havia provocado manifestações públicas de Gayer e Vitor Hugo em defesa de Corrêa. Os dois argumentaram que outros prefeitos do partido também apoiam Vilela e questionaram a decisão de tratar o prefeito de Anápolis de forma isolada.",
-    "published": "2026-09-08T18:52:30+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A troca de acusações entre o senador Wilder Morais (PL) e o prefeito de Anápolis, Márcio Corrêa (PL), subiu mais um degrau e escancarou o distanciamento entre os dois políticos em meio à campanha para o governo de Goiás. Depois de ser chamado de “sabor direita” pelo candidato do ",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Ala no STF defende análise de informações sobre crise entre Moraes e Mendonça somente após as eleições",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/08/ala-no-stf-defende-analise-de-informacoes-sobre-crise-entre-moraes-e-mendonca-somente-apos-as-eleicoes.ghtml",
-    "description": "Todas as informações solicitadas pelo presidente do Supremo Tribunal Federal (STF), Edson Fachin, sobre a crise entre os ministros Alexandre de Moraes e André Mendonça devem ser prestadas até o dia 21 de setembro, informou nesta terça-feira (8) a assessoria da Corte. \nEsses dados podem impactar a definição das próximas medidas a serem tomadas por Fachin e serão entregues às vésperas do primeiro turno da eleição presidencial. \nUma ala do Supremo vem defendendo que a discussão sobre a abertura, ou não, de investigação contra os ministros Alexandre de Moraes e André Mendonça deve ficar para depois das eleições. Essa posição é apoiada por ministros mais alinhados ao ministro Alexandre de Moraes. \nNos bastidores, esses integrantes da Corte, ouvidos sob reserva, apontam que as manifestações de 7 de setembro, com críticas a Moraes e defesa de Mendonça, reforçam o tom eleitoral que o caso ganhou.\nGerson Camarotti comenta repercussão no STF da decisão de Mendonça\nEsses ministros do Supremo dizem que os casos também devem andar de forma conjunta. Auxiliares de Fachin afirmam que o presidente não decidiu ainda o que vai fazer, mas que considera os fatos envolvendo Moraes, vice-presidente da Corte, graves e que demandam uma resposta.\nPortanto, para o entorno de Fachin, não daria para a Corte continuar ignorando as suspeitas lançadas. \nO presidente do STF vem dizendo que vai adotar medidas necessárias no tempo certo. Moraes ainda não se manifestou publicamente. \nPrazos definidos por Fachin\nFachin abriu dois prazos diferentes: \nRelatório da Polícia Federal sobre as mensagens de Daniel Vorcaro para Alexandre de Moraes\nPodem se manifestar até o dia 14 de setembro: Mendonça, Moraes, o procurador-geral da República (PGR), Paulo Gonet, e o diretor afastado da PF, Andrei Rodrigues. \nFachin questionou, por exemplo, se foram observadas as regras para apuração envolvendo pessoa com foro privilegiado na Corte. E, ainda, se houve algum acesso indevido ao relatório sigiloso da PF sobre Moraes, indicando que pode ter ocorrido vazamento de informações.\nPedido de investigação de Mendonça após relatório de inteligência sem valor probatório \nMoraes apontou que o material indica que houve improbidade administrativa, abuso de autoridade, crime de responsabilidade e favorecimento a determinados grupos políticos no exercício da relatoria dos casos Master e INSS por Mendonça.\nA PGR terá que se manifestar, entre outros pontos sobre a legalidade do material. Após a Procuradoria, Mendonça terá até o dia 21 de setembro pra prestar as informações, se quiser.\nMendonça e Moraes\nLUIZ SILVEIRA/STF",
-    "published": "2026-09-08T18:49:06+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Todas as informações solicitadas pelo presidente do Supremo Tribunal Federal (STF), Edson Fachin, sobre a crise entre os ministros Alexandre de Moraes e André Mendonça devem ser prestadas até o dia 21 de setembro, informou nesta terça-feira (8) a assessoria da Corte. \nEsses dados",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Messi chega a acordo para compra de time da segunda divisão da Espanha",
-    "link": "https://oglobo.globo.com/esportes/futebol-internacional/noticia/2026/09/08/messi-chega-a-acordo-para-compra-de-time-da-segunda-divisao-da-espanha.ghtml",
-    "description": "Lionel Messi chegou a um princípio de acordo para a compra de 100% das ações do CD Eldense, time da segunda divisão da Espanha. Assim, o jogador reforça sua posição como empresário no futebol espanhol meses após ter adquirido o UE Cornellà, da Terceira Federação catalã. As informações são do jornal Marca.\nA iniciativa de Messi, aos 39 anos e aposentado da seleção argentina, responde ao seu desejo de investir seu legado no futebol. O Eldense é um time recém-promovido à segunda divisão e tem sede em Elda, próximo da Catalunnha, onde o jogador pretende morar quando deixar o Inter Miami, dos Estados Unidos. \nSe a operação for concluída, poderá ser formalizada nos próximos dias quando os últimos trâmites legais e contratuais estiverem finalizados.  \nO Eldense, segundo o Marca, foi comprado há algum tempo por um grupo de investidores de origem colombiana liderado pelo empresário Juan Carlos Trujillo. Com apenas dois pontos em quatro rodadas na segunda divisão, o clube demitiu o técnico na última segunda-feira Claudio Barragán e segue em busca de um novo treinador.",
-    "published": "2026-09-08T18:48:47+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Lionel Messi chegou a um princípio de acordo para a compra de 100% das ações do CD Eldense, time da segunda divisão da Espanha. Assim, o jogador reforça sua posição como empresário no futebol espanhol meses após ter adquirido o UE Cornellà, da Terceira Federação catalã. As inform",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "STF mantém teto de taxas do vale-refeição após ação de empresas de benefícios",
-    "link": "https://valor.globo.com/empresas/noticia/2026/09/08/stf-mantm-teto-de-taxas-do-vale-refeio-aps-ao-de-empresas-de-benefcios.ghtml",
-    "description": "O Supremo Tribunal Federal (STF) manteve em vigor as regras do Decreto 12.712/2025 que limitam as taxas cobradas no mercado de vale-refeição e vale-alimentação. O decreto estabelece teto de 3,6% para o desconto cobrado de restaurantes e outros estabelecimentos, limita a 2% a tarifa de intercâmbio e determina que o pagamento aos estabelecimentos seja feito em até 15 dias. Também prevê a abertura dos arranjos de pagamento que atendem a mais de 500 mil trabalhadores.\n\nA decisão é da ministra Cármen Lúcia, relatora do caso, e foi tomada em 1º de setembro. Ela rejeitou uma ação apresentada pela Associação Brasileira das Empresas de Benefícios ao Trabalhador (ABBT), que representa as empresas facilitadoras de benefícios. Com isso, as regras do decreto continuam valendo.\n\nCármen Lúcia, no entanto, não analisou se as regras são ou não constitucionais. Segundo a ministra, a discussão levantada pela ABBT é sobre os limites do governo para regulamentar a lei que criou o Programa de Alimentação do Trabalhador (PAT), e não diretamente sobre a Constituição. Por isso, entendeu que o caso não poderia ser analisado por esse tipo de ação no STF.\n\nA ABBT argumentava que o decreto criou regras que deveriam estar previstas em lei, como a obrigação de abertura dos arranjos de pagamento, e que o governo interferiu nas taxas cobradas pelas empresas sem autorização do Congresso.\n\nEm nota, a Câmara Brasileira de Benefícios ao Trabalhador (CBBT), entidade que reúne operadoras de benefícios do lado oposto da disputa e defende a abertura dos arranjos, afirmou que a decisão representa um passo para a segurança jurídica, o aumento da concorrência e a modernização do mercado. A CBBT disse ainda que um mercado mais aberto e competitivo é positivo para toda a cadeia. \n\nA decisão é individual e foi tomada pela relatora. Em dois julgamentos anteriores sobre o Decreto 10.854/2021, que também regulamenta o Programa de Alimentação do Trabalhador (PAT), o plenário do STF tomou decisão semelhante e não entrou no mérito das ações. Na ocasião, os ministros entenderam que as regras questionadas apenas regulamentavam a lei que criou o PAT, e não valiam por si. \n\nO Valor procurou a ABBT para saber se pretende recorrer da decisão. Também foram procuradas a Associação Nacional de Restaurantes (ANR) e a Associação Brasileira de Bares e Restaurantes (Abrasel), que representam os estabelecimentos sujeitos ao teto das taxas, para saber se as regras vêm sendo cumpridas. O Ministério do Trabalho e Emprego, responsável pela fiscalização do PAT, foi questionado sobre como acompanha o cumprimento das normas. Nenhum deles respondeu até a publicação desta nota.\n\nFernando Frazão/Agência Brasil",
-    "published": "2026-09-08T18:48:44+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O Supremo Tribunal Federal (STF) manteve em vigor as regras do Decreto 12.712/2025 que limitam as taxas cobradas no mercado de vale-refeição e vale-alimentação. O decreto estabelece teto de 3,6% para o desconto cobrado de restaurantes e outros estabelecimentos, limita a 2% a tari",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/economia/noticia/2026/09/08/carmen-lucia-mantem-teto-para-taxas-do-vale-refeicao-em-acao-no-stf.ghtml"
-      }
-    ]
   }
 ]
