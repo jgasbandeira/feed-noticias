@@ -1,5 +1,18 @@
 [
   {
+    "source": "G1 - Política",
+    "title": "Eleições 2026: Wilder Morais afirma que não irá criar novos impostos estaduais",
+    "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/08/eleicoes-2026-agenda-de-wilder-morais-de-terca-feira-8.ghtml",
+    "description": "Eleições 2026: Wilder Morais afirma que não irá criar novos impostos estaduais\nWilder Morais (PL), candidato ao governo de Goiás, fez uma caminhada no Jardim Nova Esperança nesta terça-feira (8) e cumprimentou os comerciantes da região. O político falou sobre propostas para os empresários e assumiu o compromisso de não criar novos impostos estaduais. \n✅ Clique e siga o canal do g1 GO no WhatsApp\nAcompanhado da candidata a vice-governadora Ana Paula Rezende, Wilder cumprimentou comerciantes na Avenida Central do setor. O candidato disse que vai trabalhar para que os empresários possam prosperar. \nEntre as propostas para a economia, Wilder defendeu o investimento em infraestrutura e na ampliação da rede de energia para estimular a industrialização e aumentar a produção do agronegócio. O candidato também apontou a necessidade de incentivar o setor de mineração em Goiás. \nEleições 2026: Wilder Morais afirma que não irá criar novos impostos estaduais\nReprodução/TV Anhanguera\nSegundo o candidato, o fortalecimento dos setores produtivos é o caminho para valorizar os trabalhadores e movimentar a economia goiana.  \nLEIA TAMBÉM:\nPL lança Wilder Morais como candidato ao governo de Goiás\nVeja quem são os candidatos a governador em Goiás em 2026\nWilder Morais (PL) declara R$ 65,1 milhões ao TSE; vice informa R$ 7,3 milhões\n\"Nós não vamos criar nenhum tipo de imposto. Nós vamos trabalhar para que exatamente eles possam prosperar. Nós vamos fazer com que o estado comece a industrializar, fazendo investimento em infraestrutura, colocando energia para que o agro possa produzir mais\", declarou. \nDe acordo com a reportagem, a proposta do candidato na área da saúde prevê a contratação de hospitais da rede privada e de instituições filantrópicas para atuar de maneira complementar aos serviços do estado. \n📱 Veja outras notícias da região no g1 Goiás.\nVÍDEOS: últimas notícias de Goiás",
+    "published": "2026-09-08T23:54:11+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Eleições 2026: Wilder Morais afirma que não irá criar novos impostos estaduais\nWilder Morais (PL), candidato ao governo de Goiás, fez uma caminhada no Jardim Nova Esperança nesta terça-feira (8) e cumprimentou os comerciantes da região. O político falou sobre propostas para os em",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "CVM absolve Pedro Moll, acionista da Rede D’Or, por manipulação de preços de cotas de FII ligado ao Master",
     "link": "https://valor.globo.com/financas/noticia/2026/09/08/cvm-absolve-pedro-moll-acionista-da-rede-dor-por-manipulacao-de-precos-de-cotas-de-fii-ligado-ao-master.ghtml",
@@ -135,6 +148,18 @@
     ]
   },
   {
+    "source": "Poder360",
+    "title": "AGU pede que Fachin restitua Andrei Rodrigues para a chefia da PF",
+    "link": "https://www.poder360.com.br/poder-justica/agu-pede-que-fachin-restitua-andrei-rodrigues-para-a-chefia-da-pf/",
+    "description": "Em recurso apresentado ao STF, Jorge Messias diz que relatório da PF já estava sob analise do presidente do Tribunal e defende que a competência para analisar o caso é do plenário",
+    "published": "2026-09-08T22:34:36+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Em recurso apresentado ao STF, Jorge Messias diz que relatório da PF já estava sob analise do presidente do Tribunal e defende que a competência para analisar o caso é do plenário",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "CVM condena Daniel Vorcaro e parentes por fraude em fundo",
     "link": "https://oglobo.globo.com/economia/financas/noticia/2026/09/08/cvm-condena-daniel-vorcaro-e-parentes-por-fraude-em-fundo.ghtml",
@@ -254,7 +279,13 @@
       "Mercado Financeiro"
     ],
     "summary": "CVM condena Vorcaro e o Banco Master por fraudes no mercado de capitais\nA Comissão de Valores Mobiliários (CVM) condenou, por unanimidade, nesta terça-feira (8), Daniel Vorcaro e o Banco Master por operação fraudulenta no mercado de capitais envolvendo um fundo imobiliário.\nVorca",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-economia/cvm-multa-vorcaro-e-master-em-r-2015-milhoes-por-fraude/"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
@@ -1469,7 +1500,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O Supremo Tribunal Federal (STF) manteve em vigor as regras do Decreto 12.712/2025 que limitam as taxas cobradas no mercado de vale-refeição e vale-alimentação. O decreto estabelece teto de 3,6% para o desconto cobrado de restaurantes e outros estabelecimentos, limita a 2% a tari",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/noticia/2026/09/08/carmen-lucia-mantem-teto-para-taxas-do-vale-refeicao-em-acao-no-stf.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -1747,25 +1784,6 @@
   },
   {
     "source": "Valor Econômico",
-    "title": "Análise: Afastamento de Andrei Rodrigues gera uma arapuca para Lula",
-    "link": "https://valor.globo.com/politica/noticia/2026/09/08/analise-afastamento-de-andrei-rodrigues-gera-uma-arapuca-para-lula.ghtml",
-    "description": "O ministro André Mendonça, do Supremo Tribunal Federal (STF), afastou o diretor-geral da Polícia Federal (PF), Andrei Rodrigues, numa conjuntura em que a opinião pública se mostra mais favorável a si no duelo que trava com o ministro Alexandre Moraes.\n\nA decisão cria uma arapuca para o presidente Luiz Inácio Lula da Silva. A Advocacia-Geral da União (AGU) já anunciou que recorrerá da decisão sob o pressuposto de que a prerrogativa é do presidente da República. O titular da AGU, Jorge Messias, teve o apoio de Lula para não ceder à pressão do próprio Andrei Rodrigues quando o diretor-geral pediu formalmente a contestação da decisão de Mendonça que requereu pleno acesso aos dados obtidos pela PF em investigações que estão sob sua relatoria no STF.\nLeia mais:\nDepois de enfrentar desgastes internos junto a alas do governo que veem interesse eleitoral na atuação de Mendonça em benefício da candidatura Flávio Bolsonaro (PL), Messias não poderia deixar de recorrer da decisão. Nunca esteve em questão, porém, o não-cumprimento da decisão. A PF já foi assumida, interinamente, por William Murad. O afastamento de Rodrigues se deu em caráter preventivo, por 90 dias, mas é improvável que ele volte ao cargo.\n\nLula se restringirá a acionar a AGU, seu braço, por previsão constitucional, no embate jurídico, ou se manifestará no debate público e eleitoral em defesa de Rodrigues, seu colaborador de longa data? O risco aí é o de Lula ser identificado como partidário de Moraes, principal alvo de Mendonça.\n\nO Palácio do Planalto tem a informação de que o “relatório de inteligência” da PF, que é o eixo da decisão de Mendonça, foi produzido a pedido de Moraes e enviado por sua chefia de gabinete ao ministro. No entorno no presidente, e também no STF, não há dúvida de que o verdadeiro alvo de Mendonça é Moraes de quem Rodrigues, na avaliação interna no governo, se aproximou mais do que deveria.\n\nA decisão de Mendonça também pressionará o presidente do Supremo Tribunal Federal, Edson Fachin, que vinha emitindo sinais de que sancionaria Moraes, estender uma reprimenda a ambos. Ao pedir vista na sessão virtual da Segunda Turma requerida por Mendonça para chancelar sua decisão, o ministro Gilmar Mendes evitou que a maioria rapidamente formada pró-Mendonça se consolidasse.\n\nFachin já tem um procedimento aberto para deliberar sobre a querela dos dois ministros, o pedido de informações a Moraes, Mendonça, ao procurador-geral da República, Paulo Gonet, e a Andrei Rodrigues. Se, ao fim da vista, Gilmar Mendes pedir que o afastamento do diretor-geral seja levado a plenário, a decisão pode vir a confrontar aquela do presidente do STF, Edson Fachin, sobre os dois ministros.\n\nCom a decisão desta terça-feira, André Mendonça cria um inquérito das Fake News para chamar de seu, uma vez que, na sua decisão, se diz alvo de “monitoramento sistemático” por parte da inteligência da PF. Aquele relatado por Alexandre de Moraes foi aberto, também de ofício, em 2019, originalmente para investigar a quebra do sigilo fiscal das mulheres dos ministros que advogam.\n\nO “monitoramento sistemático” ao qual Mendonça faz referência, no entanto, não é uma investigação policial clássica, mas uma análise das decisões que tomou, com o cotejamento de dados como o tempo para tomar decisões em processos relativos a políticos de diversas denominações políticas. É apócrifo e não tem validade probatória.\n\nEm sua decisão, Mendonça se escuda em decisões anteriores do STF. Cita expressamente a ADPF 722, que foi ajuizada pela Rede Sustentabilidade contra investigação sigilosa do Ministério da Justiça em 2020, ainda sob a gestão do senador Sergio Moro (PL-PR), sobre um grupo de 579 servidores e três professores universitários participantes do “movimento antifascismo”.\nAndré Mendonça diz ter sido monitorado ilegalmente pela PF\nAla do STF diz que Mendonça atropelou Fachin ao determinar afastamento de chefe da PF\n\nAlém da relatora desta ADPF, ministra Carmen Lúcia, cujo voto na querela Mendonça-Moraes está em disputa, o ministro cita os votos de Moraes e Fachin, todos contrários à produção de relatórios de inteligência sobre quaisquer cidadãos por motivação política.\n\nO afastamento do diretor de inteligência da PF, Leandro Almada, ainda traz uma consequência potencialmente beneficiária ao bolsonarismo relativa à ADPF das Favelas. Foi no âmbito desta ADPF, cujas investigações são conduzidas por Almada, que todo o grupo de Flávio Bolsonaro caiu: do governador Claudio de Castro ao ex-presidente da Alerj, Rodrigo Bacelar.\n\nFoi o desfecho dessas investigações que levou à posse do desembargador Ricardo Couto. O governador interino se mantém no poder graças a um pedido de vista do ministro Flávio Dino. Couto, hoje cotado para a vaga do ex-ministro Luís Roberto Barroso, tem ganho apoio da população graças ao saneamento do Estado e o combate à corrupção.\n\nSe Lula está sendo aconselhado a não se precipitar em suas manifestações sobre o caso, sob pena de ser identificado como defensor de Moraes e, com isso, fazer minguar sua chances em outubro, por outro, a percepção dominante no Palácio do Planalto é a de que Mendonça age para provocar esta derrota.\n\nO risco é o de que, em quaisquer desses cenários, Lula, que se manteve no poder, na trama golpista, graças à intervenção do Supremo, possa vir a perdê-lo pela extrapolação de prerrogativas do mesmo tribunal.",
-    "published": "2026-09-08T17:52:31+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O ministro André Mendonça, do Supremo Tribunal Federal (STF), afastou o diretor-geral da Polícia Federal (PF), Andrei Rodrigues, numa conjuntura em que a opinião pública se mostra mais favorável a si no duelo que trava com o ministro Alexandre Moraes.\n\nA decisão cria uma arapuca ",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/09/o-pt-e-o-afastamento-de-andrei-rodrigues.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "Valor Econômico",
     "title": "Ouro encerra em queda com cautela antes de dados de inflação",
     "link": "https://valor.globo.com/financas/noticia/2026/09/08/ouro-encerra-em-queda-com-cautela-antes-de-dados-de-inflacao.ghtml",
     "description": "Os contratos futuros de ouro encerraram esta terça-feira em queda, penalizados pelos receios inflacionários causados pelos preços do petróleo elevados. Embora o barril tenha entregado grande parte do avanço hoje, há um certo grau de cautela entre os investidores antes da divulgação do índice de preços ao produtor (PPI) e consumidor (CPI) na quinta-feira e sexta-feira, visto que os indicadores podem definir o rumo da política monetária do Federal Reserve (Fed) na semana que vem.\n\nNa Comex, a divisão de metais da New York Mercantile Exchange (Nymex), os contratos futuros de ouro com entrega para setembro encerraram em queda de 0,81%, cotado a US$ 4.393,90.\n\n“Caso a inflação venha acima do esperado, os mercados consolidarão as expectativas de um aumento das taxas de juros em setembro, o que poderia exercer nova pressão sobre as perspectivas de curto prazo para o ouro”, observa Fawad Razaqzada, analista de mercados do Forex.com.\n\nApós o “payroll” muito acima do esperado na semana passada, as apostas por uma alta nos juros pelo Fed chegaram a 60,4%, enquanto 39,6% esperam uma manutenção, segundo dados compilados pelo CME Group.",
@@ -1895,26 +1913,18 @@
     "relevance": 5
   },
   {
-    "source": "O Globo",
-    "title": "Diretores da PF saem em defesa de Andrei Rodrigues e colocam ‘cargos à disposição’",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/09/08/diretores-da-pf-saem-em-defesa-de-andrei-rodrigues-e-colocam-cargos-a-disposicao.ghtml",
-    "description": "Diretores da Polícia Federal divulgaram na tarde desta terça-feira uma nota em defesa do chefe da corporação, Andrei Rodrigues, e colocaram seus cargos à disposição após decisão do ministro André Mendonça, do Supremo Tribunal Federal (STF), de afastar Rodrigues do cargo. \nNo documento, eles falam em “injustificados ataques sofridos” pela PF nesta terça e afirmam que “narrativas marcadamente influenciadas por interesses político-eleitorais não têm o poder de apagar a história, a reputação e a trajetória profissional de quem quer que seja”. \nNuma escalada da crise institucional no Supremo, Mendonça determinou nesta terça o afastamento de Rodrigues e do diretor de Inteligência da PF, Leandro Almada. De acordo com Mendonça, o afastamento de Rodrigues é uma medida necessária para que os integrantes da Corte, o advogado-geral da União, Jorge Messias, e os servidores da Polícia Federal “exerçam suas atribuições sem constrangimentos ilegais”. \nNa nota divulgada conjuntamente, os diretores da PF dizem que o chefe da corporação tem, “em sua história e feitos, a razão de sólida admiração dos brasileiros”. Eles também afirmam que Rodrigues conta com um “percurso profissional dedicado à defesa da PF, com atuação técnica, isenta e responsável”. \n“Assim, cumprindo nosso dever de defender a Instituição de ataques e tentativas de usurpação de funções, e assegurando o interesse público na manutenção de uma Polícia Federal capaz de promover justiça e assegurar o Estado Democrático de Direito, tornamos público nosso apoio aos diretores”, diz o texto. \nOs diretores afirmam ainda que repudiam \"toda e qualquer tentativa de imputar a eles ou à Polícia Federal uma atuação não republicana”.  “Tais acusações, desprovidas de fundamento, afrontam a história, a credibilidade e o compromisso institucional que sempre pautaram suas condutas. Neste ato, colocamos nossos cargos à disposição do diretor-geral substituto.”\nA Segunda Turma do STF formou maioria para manter a decisão de Mendonça. O ministro Gilmar Mendes, no entanto, pediu vista (mais tempo de análise) e interrompeu a análise no plenário virtual. A decisão de Mendonça segue valendo enquanto o caso está paralisado. Com a saída de Rodrigues, assume temporariamente a chefia da PF William Marcel Murad, que era diretor-executivo da corporação. \nAssinaram a nota 11 diretores da PF, dos 14 que integram a cúpula da corporação. Só não assinaram Almada, Murad e Aletea Vega Marona Kunde, corregedora-geral da PF. A decisão de Mendonça que levou ao afastamento de Rodrigues desta terça determina que a Corregedoria da corporação apure a conduta do diretor-geral.\nAssinam a manifestação conjunta: Dennis Cali (diretor de investigação e combate ao crime organizado e à corrupção); Fabrício Schommer Kerber (diretor de polícia administrativa); Otavio Margonari Russo (diretor de combate a crimes cibernéticos); Felipe Tavares Seixas (diretor de cooperação internacional); Helena de Rezende (diretora de gestão de pessoas); Roberto Reis Monteiro Neto (diretor técnico-científico); André Luis Lima Carmo (diretor de administração e logística); Christiane Correa Machado (diretora da academia nacional de polícia); Alexssander Castro de Oliveira (diretor de proteção à pessoa); Ademir Dias Cardoso Júnior (diretor de tecnologia da informação e inovação); Humberto Freire de Barros (diretor da Amazônia e meio ambiente).",
-    "published": "2026-09-08T17:11:52+00:00",
+    "source": "Valor Econômico",
+    "title": "Ibovespa dispara e dólar e juros futuros despencam com eleição e alta do petróleo no foco",
+    "link": "https://valor.globo.com/financas/ao-vivo/2023/03/15/acoes-do-credit-suisse-derretem-e-ampliam-temores-sobre-o-setor-bancario-acompanhe-a-reacao-dos-mercados.ghtml",
+    "description": "Ibovespa dispara e dólar e juros futuros despencam com eleição e alta do petróleo no foco Maior chance de vitória da oposição na corrida presidencial impulsiona mercado local Petróleo sobe com tensões no Oriente Médio, enquanto cenário eleitoral pode apoiar ativos locais",
+    "published": "2026-09-08T17:10:49+00:00",
     "themes": [
-      "Politica"
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
     ],
-    "summary": "Diretores da Polícia Federal divulgaram na tarde desta terça-feira uma nota em defesa do chefe da corporação, Andrei Rodrigues, e colocaram seus cargos à disposição após decisão do ministro André Mendonça, do Supremo Tribunal Federal (STF), de afastar Rodrigues do cargo. \nNo docu",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Poder360",
-        "link": "https://www.poder360.com.br/poder-justica/diretores-da-pf-colocam-cargos-a-disposicao-apos-afastamento-de-andrei/"
-      },
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/politica/noticia/2026/09/08/diretores-da-pf-manifestam-total-apoio-a-rodrigues-e-colocam-cargos-disposio.ghtml"
-      }
-    ]
+    "summary": "Ibovespa dispara e dólar e juros futuros despencam com eleição e alta do petróleo no foco Maior chance de vitória da oposição na corrida presidencial impulsiona mercado local Petróleo sobe com tensões no Oriente Médio, enquanto cenário eleitoral pode apoiar ativos locais",
+    "relevance": 5
   },
   {
     "source": "Valor Econômico",
@@ -2018,24 +2028,6 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/economia/noticia/2026/09/08/bndes-financia-projeto-de-terras-raras-da-viridis-com-r-775-mi.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "O Globo",
-    "title": "STF cancela sessão da Segunda Turma após Mendonça determinar afastamento de Andrei e pedido de vista de Gilmar",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/09/08/stf-cancela-sessao-da-segunda-turma-apos-mendonca-determinar-afastamento-de-andrei-e-pedido-de-vista-de-gilmar.ghtml",
-    "description": "BRASÍLIA — A Segunda Turma do Supremo Tribunal Federal (STF) cancelou nesta terça-feira a primeira sessão após o ministro André Mendonça determinar o afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues, e submeter a decisão ao colegiado, em um julgamento que chegou a formar maioria para referendar a medida logo após ser interrompido por um pedido de vista do ministro Gilmar Mendes.\nA sessão estava marcada desde a semana passada, e tinha como pauta apenas um caso tributário. O caso envolvendo Andrei não estava entre os temas que seriam analisados presencialmente pela Turma. A Segunda Turma é presidida pelo ministro Luiz Fux. \nAlém de Fux, Mendonça e Gilmar, integram a Segunda Turma os ministros Kassio Nunes Marques e Dias Toffoli. Fux e Kassio acompanharam Mendonça no julgamento virtual, formando maioria para manter a decisão do relator. Gilmar pediu vista e interrompeu a análise. Toffoli ainda não havia apresentado voto.\nMendonça determinou o afastamento de Andrei em meio aos desdobramentos das investigações relacionadas ao Banco Master. A medida ampliou a tensão entre o ministro e a cúpula da Polícia Federal e acrescentou um novo capítulo à crise que já havia chegado ao Supremo após a divulgação de mensagens atribuídas ao banqueiro Daniel Vorcaro com referências a autoridades.\nDepois de determinar o afastamento, Mendonça submeteu sua decisão à Segunda Turma para referendo em julgamento virtual. O próprio relator votou pela manutenção da medida e foi acompanhado por Fux e Kassio, garantindo três dos cinco votos do colegiado.\nO placar mostrou que Mendonça conseguiu formar maioria dentro da Turma para sustentar sua decisão, apesar das críticas à medida e da repercussão política do afastamento do diretor-geral da PF.\nO julgamento, porém, não foi concluído. Gilmar Mendes apresentou pedido de vista, suspendendo a análise antes do encerramento. Com isso, embora já exista maioria de votos pela manutenção da decisão de Mendonça, o julgamento permanece formalmente paralisado. A liminar que afastou Andrei segue em vigor.",
-    "published": "2026-09-08T16:49:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "BRASÍLIA — A Segunda Turma do Supremo Tribunal Federal (STF) cancelou nesta terça-feira a primeira sessão após o ministro André Mendonça determinar o afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues, e submeter a decisão ao colegiado, em um julgamento que chegou ",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Poder360",
-        "link": "https://www.poder360.com.br/poder-justica/2a-turma-cancela-sessao-presencial-depois-de-afastamento-de-andrei/"
       }
     ]
   },
@@ -2878,6 +2870,10 @@
       {
         "source": "InfoMoney",
         "link": "https://www.infomoney.com.br/politica/agu-pede-ao-presidente-do-stf-suspensao-de-decisao-que-afastou-diretor-geral-da-pf/"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/09/08/associacao-de-delegados-critica-decisao-de-mendonca-e-diz-que-afastamento-do-diretor-geral-so-poderia-ter-sido-determinada-pelo-plenario-do-supremo.ghtml"
       }
     ]
   },
@@ -3193,18 +3189,6 @@
   },
   {
     "source": "Valor Econômico",
-    "title": "AGU deve contestar decisão de Mendonça de afastar diretor da PF",
-    "link": "https://valor.globo.com/politica/noticia/2026/09/08/agu-deve-contestar-decisao-de-mendonca-de-afastar-diretor-da-pf.ghtml",
-    "description": "A Advocacia-Geral da União (AGU) deve contestar ainda nesta terça-feira (8) a decisão do ministro André Mendonça do Supremo Tribunal Federal (STF), que afastou do cargo o diretor-geral da Polícia Federal (PF), Andrei Rodrigues. Segundo fontes, a AGU argumentará que a decisão, tomada de forma monocrática, invade uma competência exclusiva da Presidência da República.\n\nA AGU deve sustentar que a determinação invade competência constitucional do presidente da República, responsável pela direção superior da administração federal, conforme o artigo 84, inciso II, da Constituição.\n\nSegundo decisão de Mendonça desta terça-feira, o motivo do afastamento seriam \"irregularidades e potenciais ilicitudes\" nos relatórios usados pelo ministro Alexandre de Moraes. O conteúdo foi usado pelo magistrado para pedir a investigação de Mendonça na quinta-feira (3).\n\nMendonça afirma ter sido monitorado pela PF por cerca de um mês. \"Ao menos há mais de 30 dias este relator tem sido monitorado pela Polícia Federal. Trata-se de monitoramento ilícito de ministro da Suprema Corte do país, o que por si só revela a gravidade da situação”, informa na decisão.\n\nAlém de Andrei Rodrigues, Mendonça também determinou o afastamento do diretor de inteligência da Polícia Federal, Leandro Almada da Cost",
-    "published": "2026-09-08T13:47:42+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A Advocacia-Geral da União (AGU) deve contestar ainda nesta terça-feira (8) a decisão do ministro André Mendonça do Supremo Tribunal Federal (STF), que afastou do cargo o diretor-geral da Polícia Federal (PF), Andrei Rodrigues. Segundo fontes, a AGU argumentará que a decisão, tom",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
     "title": "Bolsas em NY abrem em queda com pressão da alta do petróleo",
     "link": "https://valor.globo.com/financas/noticia/2026/09/08/bolsas-em-ny-abrem-em-queda-com-pressao-da-alta-do-petroleo.ghtml",
     "description": "No retorno do feriado prolongado nos Estados Unidos,  os principais índices de ações de Nova York abriram em queda nesta terça-feira, pressionadas pelo avanço nos preços do petróleo, após novos ataques no Oriente Médio ao longo do fim de semana. O setor de tecnologia dá certo suporte ao S&amp;P 500 e ao Nasdaq, minimizando parte das perdas.\n\nPor volta das 10h35 (de Brasília), o índice Dow Jones apresentava queda de 0,88%, aos 52.948,43 pontos, o S&amp;P 500 cedia 0,23%, aos 7.701,02 pontos, enquanto o Nasdaq recuava 020%, aos 26.453,379 pontos. Entre os destaques, o setor de energia (+1,54%) tinha firme alta, em linha com a valorização do petróleo vista nesta terça-feira, e tecnologia subia 0,25%. \n\nApós novos ataques entre os Estados Unidos e o Irã neste fim de semana, os preços do petróleo operam em alta nesta manhã, pressionando o desempenho das bolsas. Na medida em que não há perspectiva de um acordo de paz, o contrato futuro do Brent, a referência mundial, volta a se aproximar do nível de US$ 100 por barril. O Bank of America (BofA), inclusive, aumentou sua projeção para US$ 83 por barril no segundo semestre de 2026 e US$ 75 por barril em 2027. No entanto, o banco americano acredita que, caso os confrontos que restringem os fluxos de petróleo continuarem até o fim do ano, o Brent poderá ser negociado em uma faixa entre US$ 95 e US$ 120.\n\nO dia é de agenda de indicadores esvaziada, enquanto investidores aguardam dados de inflação na sexta-feira e a decisão de política monetária do Federal Rreserve (Fed) na semana que vem. Os preços elevados de petróleo impulsionam os rendimentos dos Treasuries curtos nesta terça-feira e contribuem para reforçar os temores inflacionários nos Estados Unidos.",
@@ -3300,25 +3284,6 @@
     "relevance": 5
   },
   {
-    "source": "Valor Econômico",
-    "title": "Ibovespa tem forte alta com disputa eleitoral acirrada  e preços do petróleo no radar",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/08/ibovespa-tem-forte-alta-com-disputa-eleitoral-acirrada-e-precos-do-petroleo-no-radar.ghtml",
-    "description": "O Ibovespa opera em forte alta no início dos negócios desta terça-feira, repercutindo a corrida eleitoral mais acirrada e o avanço dos preços do petróleo. Embora as tensões no Oriente Médio provoquem alguma aversão a risco no exterior, as notícias locais se sobrepõem ao cenário externo, à medida que os investidores incorporam aos preços a possibilidade de uma alternância de poder em outubro. \n\nPor volta das 10h30, o Ibovespa avançava 1,54%, aos 187.980 pontos, enquanto a máxima foi de 188.680 pontos. No mesmo horário, o futuro S&amp;P 500 caía 0,25% e o Stoxx 600 rondava a estabilidade (+0,03%). O volume financeiro projetado para o índice é de R$ 21,5 bilhões. \n\nAs ações ON da Vale subiam 2,05% e os papéis ordinários e preferenciais da Petrobras avançavam 1,38% e 1,46%, respectivamente. Entre os bancos, as units do BTG Pactual tinham alta de 2,43% e a ação preferencial do Itaú ganhava 2,03%. \n\nEm meio à queda dos juros futuros, Magazine Luiza ON avançava 4,15%, liderando as altas do pregão.",
-    "published": "2026-09-08T13:36:19+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "O Ibovespa opera em forte alta no início dos negócios desta terça-feira, repercutindo a corrida eleitoral mais acirrada e o avanço dos preços do petróleo. Embora as tensões no Oriente Médio provoquem alguma aversão a risco no exterior, as notícias locais se sobrepõem ao cenário e",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/mercados/alem-do-trade-eleitoral-commodities-reforcam-rali-do-ibovespa/"
-      }
-    ]
-  },
-  {
     "source": "O Globo",
     "title": "Nepal cobra US$ 20 milhões em compensação climática e diz que grandes poluidores precisam ‘acordar’ após enchentes",
     "link": "https://oglobo.globo.com/mundo/noticia/2026/09/08/nepal-cobra-us-20-milhoes-em-compensacao-climatica-e-diz-que-grandes-poluidores-precisam-acordar-apos-enchentes.ghtml",
@@ -3355,18 +3320,6 @@
         "link": "https://oglobo.globo.com/politica/noticia/2026/09/08/mendonca-afasta-diretor-da-pf-relembre-quando-stf-barrou-escolha-de-bolsonaro-para-comandar-corporacao.ghtml"
       }
     ]
-  },
-  {
-    "source": "O Globo",
-    "title": "Andrei Rodrigues ainda não foi notificado da decisão de Mendonça",
-    "link": "https://oglobo.globo.com/blogs/miriam-leitao/coluna/2026/09/andrei-rodrigues-ainda-nao-foi-notificado-da-decisao-de-mendonca.ghtml",
-    "description": "Andrei Rodrigues não foi notificado da decisão do ministro André Mendonça de afastá-lo. Portanto, até agora as 10h20, permanece diretor- geral da Policia Federal.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-09-08T13:26:44+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Andrei Rodrigues não foi notificado da decisão do ministro André Mendonça de afastá-lo. Portanto, até agora as 10h20, permanece diretor- geral da Policia Federal.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "relevance": 5
   },
   {
     "source": "Poder360",
@@ -3474,18 +3427,6 @@
     ]
   },
   {
-    "source": "O Globo",
-    "title": "Dólar hoje: moeda cai abaixo de R$ 5,10, com pesquisas eleitorais no radar",
-    "link": "https://oglobo.globo.com/economia/financas/ao-vivo/ibovespa-hoje-acompanhe-bolsa-e-dolar.ghtml",
-    "description": "Dólar hoje: moeda cai abaixo de R$ 5,10, com pesquisas eleitorais no radar Cenário no exterior é adverso, com petróleo perto dos US$ 100",
-    "published": "2026-09-08T13:14:53+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Dólar hoje: moeda cai abaixo de R$ 5,10, com pesquisas eleitorais no radar Cenário no exterior é adverso, com petróleo perto dos US$ 100",
-    "relevance": 5
-  },
-  {
     "source": "InfoMoney",
     "title": "Líder mais bem pago do mundo terá aumento de 60% e vai doar tudo",
     "link": "https://www.infomoney.com.br/mundo/lider-mais-bem-pago-do-mundo-tera-aumento-de-60-e-vai-doar-tudo/",
@@ -3545,44 +3486,6 @@
       {
         "source": "Valor Econômico",
         "link": "https://valor.globo.com/patrocinado/dino/noticia/2026/09/08/ype-amplia-promocao-com-eliana-e-influenciadores-1.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "O Globo",
-    "title": "Gilmar pede vista e suspende julgamento de decisão de Mendonça que determinou afastamento de Andrei Rodrigues da chefia da PF",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/09/08/gilmar-pede-vista-e-suspende-julgamento-de-decisao-de-mendonca-que-determinou-afastamento-de-andrei-rodrigues-da-chefia-da-pf.ghtml",
-    "description": "O ministro Gilmar Mendes pediu vista e interrompeu o julgamento da Segunda Turma sobre a decisão do ministro André Mendonça que determinou o afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues. Mendonça havia votado para manter a própria decisão.\nIntegram a Segunda Turma, além de Mendonça, os ministros Luiz Fux, presidente do colegiado, Gilmar Mendes, Dias Toffoli e Nunes Marques.\nMendonça afirmou ter sido alvo de um “monitoramento sistemático” e ilegal realizado pela área de inteligência da Polícia Federal por mais de um mês. O magistrado listou seis relatórios produzidos entre os dias 3 e 31 de agosto com análises sobre sua atuação e sobre sua relação com o advogado-geral da União, Jorge Messias. Mendonça determinou o afastamento do diretor-geral da PF, Andrei Rodrigues, em decisão tomada a partir de pedido do partido Novo.\nA afirmação consta de decisão na qual Mendonça analisa documentos de inteligência produzidos dentro da PF. O ministro sustenta que o material revela a realização de “monitoramento e coleta dirigida” tanto sobre ele quanto sobre Messias. Para Mendonça, a prática configura um “monitoramento ilícito de Ministro da Suprema Corte do país”.\n\"Em segundo lugar, importa registrar que este relator foi submetido a monitoramento sistemático por parte da inteligência da polícia federal. Conforme consta do já mencionado Ofício 40/2026/GAB/PF, subscrito pelo Diretor-Geral da Polícia Federal, houve a produção de ao menos seis relatórios de inteligência produzidos pela UADIP/CINQ/CGRC/DICOR/PF, os quais teriam sido recebidos por referida autoridade entre os dias 3 e 31 de agosto de 2026. Ou seja, ao menos há mais de 30 dias este relator tem sido monitorado pela Polícia Federal. Trata-se de monitoramento ilícito de Ministro da Suprema Corte do país, o que por si só revela a gravidade da situação\", escreveu Mendonça.\nMendonça também afirma que Moraes já tinha conhecimento da existência dos relatórios antes de eles serem formalmente encaminhados. Segundo o ministro, Andrei enviou o material a Moraes em 1º de setembro. Mendonça associa essa comunicação à sua inclusão no inquérito das fake news.\n“E mais, conforme depreende da própria decisão do Ministro Alexandre de Moraes, previamente, este teria tido ‘notícias da existência’ desses relatórios. Isso significa que, ademais da produção ilícita dos ‘documentos’, foi dada ciência das suas existências a outro Ministro para que este subscritor fosse incluído no Inquérito das Fake News. Registro que o encaminhamento do material correspondente foi feito senhor Andrei Rodrigues, conforme ofício subscrito às 18h45 do dia 01/09/2026”, escreveu Mendonça.\nSegundo Mendonça, o relatório levantou como hipótese que Messias teria deixado de recorrer para preservar sua “relação política com o relator”. O próprio documento, porém, classificava como baixa a confiança agregada na cadeia de inferências utilizada para sustentar essa hipótese. Ainda assim, registrava expressamente que as informações autorizavam “monitoramento e coleta dirigida”.\nÉ a partir dessa passagem que Mendonça conclui que houve efetivamente coleta direcionada de informações sobre ele e sobre o chefe da AGU. O ministro observa ainda que o relatório fazia referência a elementos “ainda não registrados em relatórios anteriores” e retomava avaliações anteriores sobre a relação entre os dois, o que, em sua avaliação, reforçaria o caráter continuado do acompanhamento.\n“Verifica-se que o monitoramento e coleta dirigida de informações deste Ministro relator e do Advogado-Geral da União ocorria ao menos há mais de um mês”, escreveu Mendonça.\nEntenda crise no STF\nA crise no Supremo Tribunal Federal escalou na quinta-feira com um pedido apresentado por Alexandre Moraes para que André Mendonça seja investigado pelo que classificou como “indícios de crimes” cometidos pelo colega de Corte na condução de inquéritos sob sua relatoria, em especial o relativo ao escândalo do Master.\nO despacho surgiu dois dias após Mendonça retirar o sigilo de um relatório da Polícia Federal que revelou mensagens de Daniel Vorcaro, dono do banco, ao próprio Moraes.\nAo demandar a PF, Moraes determinou o envio de documentos que citassem integrantes da Corte em razão de “diversas informações sobre condutas de autoridades tendentes a afastar a independência” dos magistrados.\nDiante do conflito, Fachin disse sexta-feira em evento no Palácio do Planalto que a resposta será “firme e rigorosa”, mas sem “precipitação”. Ele afirmou que a “gravidade” dos fatos não “autoriza atalhos”.\n— As instituições precisam ser preservadas, sobretudo nos momentos de maior tensão. Nenhuma autoridade está acima da Constituição. Nenhum Poder está acima da lei. Nenhum interesse circunstancial pode se sobrepor à integridade do Estado democrático de direito — afirmou o presidente do STF.\nFachin abriu prazo para que Moraes e Mendonça se manifestem. Também vão prestar esclarecimentos o procurador-geral da República, Paulo Gonet, e o diretor-geral da Polícia Federal, Andrei Rodrigues, ambos citados em mensagens de Vorcaro.",
-    "published": "2026-09-08T13:03:46+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O ministro Gilmar Mendes pediu vista e interrompeu o julgamento da Segunda Turma sobre a decisão do ministro André Mendonça que determinou o afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues. Mendonça havia votado para manter a própria decisão.\nIntegram a Segunda ",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Mendonça vota para manter decisão em que determinou afastamento de Andrei Rodrigues da chefia da PF",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/09/08/stf-julgamento-andrei.ghtml",
-    "description": "A Segunda Turma do Supremo Tribunal Federal (STF) começou a julgar, em sessão virtual, a decisão do ministro André Mendonça que determinou o afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues. A análise vai até as 23h59 desta terça-feira. O ministro André Mendonça votou para manter a própria decisão.\nIntegram a Segunda Turma, além de Mendonça, os ministros Luiz Fux, presidente do colegiado, Gilmar Mendes, Dias Toffoli e Nunes Marques.\nMendonçaafirmou ter sido alvo de um “monitoramento sistemático” e ilegal realizado pela área de inteligência da Polícia Federal por mais de um mês. O magistrado listou seis relatórios produzidos entre os dias 3 e 31 de agosto com análises sobre sua atuação e sobre sua relação com o advogado-geral da União, Jorge Messias. Mendonça determinou o afastamento do diretor-geral da PF, Andrei Rodrigues, em decisão tomada a partir de pedido do partido Novo.\nA afirmação consta de decisão na qual Mendonça analisa documentos de inteligência produzidos dentro da PF. O ministro sustenta que o material revela a realização de “monitoramento e coleta dirigida” tanto sobre ele quanto sobre Messias. Para Mendonça, a prática configura um “monitoramento ilícito de Ministro da Suprema Corte do país”.\n\"Em segundo lugar, importa registrar que este relator foi submetido a monitoramento sistemático por parte da inteligência da polícia federal. Conforme consta do já mencionado Ofício 40/2026/GAB/PF, subscrito pelo Diretor-Geral da Polícia Federal, houve a produção de ao menos seis relatórios de inteligência produzidos pela UADIP/CINQ/CGRC/DICOR/PF, os quais teriam sido recebidos por referida autoridade entre os dias 3 e 31 de agosto de 2026. Ou seja, ao menos há mais de 30 dias este relator tem sido monitorado pela Polícia Federal. Trata-se de monitoramento ilícito de Ministro da Suprema Corte do país, o que por si só revela a gravidade da situação\", escreveu Mendonça.\nMendonça também afirma que Moraes já tinha conhecimento da existência dos relatórios antes de eles serem formalmente encaminhados. Segundo o ministro, Andrei enviou o material a Moraes em 1º de setembro. Mendonça associa essa comunicação à sua inclusão no inquérito das fake news.\n“E mais, conforme depreende da própria decisão do Ministro Alexandre de Moraes, previamente, este teria tido ‘notícias da existência’ desses relatórios. Isso significa que, ademais da produção ilícita dos ‘documentos’, foi dada ciência das suas existências a outro Ministro para que este subscritor fosse incluído no Inquérito das Fake News. Registro que o encaminhamento do material correspondente foi feito senhor Andrei Rodrigues, conforme ofício subscrito às 18h45 do dia 01/09/2026”, escreveu Mendonça.\nSegundo Mendonça, o relatório levantou como hipótese que Messias teria deixado de recorrer para preservar sua “relação política com o relator”. O próprio documento, porém, classificava como baixa a confiança agregada na cadeia de inferências utilizada para sustentar essa hipótese. Ainda assim, registrava expressamente que as informações autorizavam “monitoramento e coleta dirigida”.\nÉ a partir dessa passagem que Mendonça conclui que houve efetivamente coleta direcionada de informações sobre ele e sobre o chefe da AGU. O ministro observa ainda que o relatório fazia referência a elementos “ainda não registrados em relatórios anteriores” e retomava avaliações anteriores sobre a relação entre os dois, o que, em sua avaliação, reforçaria o caráter continuado do acompanhamento.\n“Verifica-se que o monitoramento e coleta dirigida de informações deste Ministro relator e do Advogado-Geral da União ocorria ao menos há mais de um mês”, escreveu Mendonça.\nEntenda crise no STF\nA crise no Supremo Tribunal Federal escalou na quinta-feira com um pedido apresentado por Alexandre Moraes para que André Mendonça seja investigado pelo que classificou como “indícios de crimes” cometidos pelo colega de Corte na condução de inquéritos sob sua relatoria, em especial o relativo ao escândalo do Master.\nO despacho surgiu dois dias após Mendonça retirar o sigilo de um relatório da Polícia Federal que revelou mensagens de Daniel Vorcaro, dono do banco, ao próprio Moraes.\nAo demandar a PF, Moraes determinou o envio de documentos que citassem integrantes da Corte em razão de “diversas informações sobre condutas de autoridades tendentes a afastar a independência” dos magistrados.\nDiante do conflito, Fachin disse sexta-feira em evento no Palácio do Planalto que a resposta será “firme e rigorosa”, mas sem “precipitação”. Ele afirmou que a “gravidade” dos fatos não “autoriza atalhos”.\n— As instituições precisam ser preservadas, sobretudo nos momentos de maior tensão. Nenhuma autoridade está acima da Constituição. Nenhum Poder está acima da lei. Nenhum interesse circunstancial pode se sobrepor à integridade do Estado democrático de direito — afirmou o presidente do STF.\nFachin abriu prazo para que Moraes e Mendonça se manifestem. Também vão prestar esclarecimentos o procurador-geral da República, Paulo Gonet, e o diretor-geral da Polícia Federal, Andrei Rodrigues, ambos citados em mensagens de Vorcaro.",
-    "published": "2026-09-08T13:00:29+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A Segunda Turma do Supremo Tribunal Federal (STF) começou a julgar, em sessão virtual, a decisão do ministro André Mendonça que determinou o afastamento do diretor-geral da Polícia Federal, Andrei Rodrigues. A análise vai até as 23h59 desta terça-feira. O ministro André Mendonça ",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/politica/noticia/2026/09/08/agu-pode-driblar-mendonca-em-recurso-contra-afastamento-do-chefe-da-pf.ghtml"
-      },
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/politica/noticia/2026/09/08/ala-do-stf-diz-que-mendonca-atropelou-fachin-ao-determinar-afastamento-de-chefe-da-pf.ghtml"
-      },
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/politica/noticia/2026/09/08/lula-ignora-afastamento-de-andrei-da-pf-em-1o-evento-apos-decisao-de-mendonca.ghtml"
       }
     ]
   },
@@ -3731,19 +3634,6 @@
     "relevance": 5
   },
   {
-    "source": "O Globo",
-    "title": "André Mendonça usa precedentes de Moraes e Dino para afastar Andrei Rodrigues da chefia da PF",
-    "link": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/09/andre-mendonca-usa-precedentes-de-moraes-e-dino-para-afastar-andrei-rodrigues-da-chefia-da-pf.ghtml",
-    "description": "Ao determinar o afastamento preventivo de Andrei Rodrigues do cargo de diretor-geral da Polícia Federal, o ministro André Mendonça, do Supremo Tribunal Federal (STF), usou precedentes de Alexandre de Moraes, Flávio Dino e do plenário do STF na época da Lava-Jato para embasar a decisão de 33 páginas que escalou a crise que abala o STF e opõe, de um lado, Mendonça, e de outro, Moraes, Dino e a cúpula da PF.\n“A jurisprudência desta Corte revela orientação coerente: a suspensão cautelar de função pública é constitucionalmente admissível quando fundada em elementos concretos, submetida à proporcionalidade e destinada a neutralizar risco efetivo à persecução penal ou de utilização indevida das prerrogativas funcionais”, ressaltou Mendonça.\nUm dos precedentes mencionados por Mendonça é a decisão de Alexandre de Moraes, confirmada pelo plenário do STF, que afastou o governador Ibaneis Rocha (MDB) do Palácio do Buriti na esteira dos atos golpistas de 8 de Janeiro que culminaram com a invasão e a depredação da sede dos três poderes, em Brasília.\n“O plenário referendou medida de afastamento do então governador do Distrito Federal, evidenciando que a relevância institucional da função pública, inclusive quando situada no ápice do Poder Executivo local, não exclui, por si só, a possibilidade de controle jurisdicional cautelar diante de situação excepcional e concretamente fundamentada”, frisou Mendonça.\nMendonça ainda lembra uma outra decisão de Moraes, de maio de 2021, em que ele determinou a quebra de sigilos bancário e fiscal do então ministro do Meio Ambiente, Ricardo Salles, e o afastamento de Eduardo Bim do cargo de presidente do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (Ibama).\nA decisão foi tomada por conta de uma investigação contra os dois por conta de uma operação policial que apura um esquema de facilitação ao contrabando de produtos florestais. Assim como Mendonça afastou Andrei da chefia da PF ao analisar um pedido do Novo, Moraes tomou a decisão há cinco anos após quatro parlamentares de oposição ao governo Bolsonaro acionarem o STF.\nAndré Mendonça ainda citou a decisão de Flávio Dino, de agosto deste ano, que afastou por 180 dias Daniel Brandão do cargo de presidente do Tribunal de Contas do Maranhão. A determinação foi tomada no âmbito de um processo que apura a tentativa de obstrução de Justiça no assassinato do empresário maranhense João Bosco Sobrinho, em 2022.\nNa ocasião, Dino justificou o afastamento pelo fato do órgão não poder ser presidido por alguém “que figura no epicentro de investigações sobre homicídio, mau uso de recursos públicos, cobrança de propinas e pagamentos fraudulentos\".\nLava-Jato\nO relator do caso Master e INSS também lembra a decisão do então relator da Lava-Jato no STF, Teori Zavascki, que determinou o afastamento de Eduardo Cunha da presidência da Câmara dos Deputados em maio de 2016. A decisão, que atendeu a um pedido da Procuradoria-Geral da República (PGR), foi confirmada por unanimidade pelo plenário da Corte.\n\"Naquela ocasião, o Tribunal reputou a providência necessária exatamente para impedir interferências em investigações criminais, tendo o Plenário afastado expressamente a alegação de ingerência indevida do Poder Judiciário no Poder Legislativo, porquanto a autonomia dos Poderes não é ilimitada e todos permanecem submetidos à Constituição\", destacou Mendonça.",
-    "published": "2026-09-08T12:37:18+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "Ao determinar o afastamento preventivo de Andrei Rodrigues do cargo de diretor-geral da Polícia Federal, o ministro André Mendonça, do Supremo Tribunal Federal (STF), usou precedentes de Alexandre de Moraes, Flávio Dino e do plenário do STF na época da Lava-Jato para embasar a de",
-    "relevance": 5
-  },
-  {
     "source": "Valor Econômico",
     "title": "Moody’s vê Movida com perfil sólido de negócios e reitera nota de crédito",
     "link": "https://valor.globo.com/empresas/noticia/2026/09/08/moodys-v-movida-com-perfil-slido-de-negcios-e-reitera-nota-de-crdito.ghtml",
@@ -3796,19 +3686,6 @@
       "Politica"
     ],
     "summary": "A canadense Aclara Resources anunciou nesta terça-feira (8) a assinatura de acordo de joint venture contratual com a Organização Japonesa para Metais e Segurança Energética (Jogmec, na sigla em inglês) para explorar e desenvolver depósitos de terras raras pesadas em argilas iônic",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Dólar à vista recua de olho em quadro eleitoral e alta do petróleo",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/08/dolar-a-vista-recua-de-olho-em-quadro-eleitoral-e-alta-do-petroleo.ghtml",
-    "description": "O dólar comercial recua no início do pregão no mercado à vista nesta terça-feira, volta do feriado de Independência. O real vai na contramão de várias de suas moedas pares e se valoriza à medida que o mercado embute nos preços uma chance maior de vitória da oposição nas eleições de outubro, após a pesquisa Quaest mostrar o presidente Lula (PT) e o senador Flávio Bolsonaro (PL-RJ) numericamente empatados com 41% das intenções de voto em simulação de segundo turno.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-09-08T12:31:15+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O dólar comercial recua no início do pregão no mercado à vista nesta terça-feira, volta do feriado de Independência. O real vai na contramão de várias de suas moedas pares e se valoriza à medida que o mercado embute nos preços uma chance maior de vitória da oposição nas eleições ",
     "relevance": 5
   },
   {
@@ -3960,18 +3837,6 @@
     ]
   },
   {
-    "source": "InfoMoney",
-    "title": "Ibovespa Futuro sobe com pesquisas eleitorais no foco; petróleo se aproxima de US$100",
-    "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-sobe-com-pesquisas-eleitorais-no-foco-petroleo-se-aproxima-de-us100/",
-    "description": "Na véspera, pesquisa Quaest mostrou que o presidente Lula (PT) e o senador Flávio Bolsonaro (PL) estão empatados com 41% das intenções de voto\nThe post Ibovespa Futuro sobe com pesquisas eleitorais no foco; petróleo se aproxima de US$100 appeared first on InfoMoney.",
-    "published": "2026-09-08T12:05:12+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Na véspera, pesquisa Quaest mostrou que o presidente Lula (PT) e o senador Flávio Bolsonaro (PL) estão empatados com 41% das intenções de voto\nThe post Ibovespa Futuro sobe com pesquisas eleitorais no foco; petróleo se aproxima de US$100 appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
     "source": "O Globo",
     "title": "Mendonça diz em decisão que afastou Andrei Rodrigues ter sido alvo de 'monitoramento iilícito' da PF por mais de um mês",
     "link": "https://oglobo.globo.com/politica/noticia/2026/09/08/mendonca-diz-em-decisao-que-afastou-andrei-rodrigues-ter-sido-alvo-de-monitoramento-iilicito-da-pf-por-mais-de-um-mes.ghtml",
@@ -3986,6 +3851,10 @@
       {
         "source": "G1 - Política",
         "link": "https://g1.globo.com/politica/noticia/2026/09/08/diretor-da-pf-afastado-veja-os-principais-argumentos-de-mendonca-na-decisao-contra-andrei-rodrigues.ghtml"
+      },
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/politica/noticia/2026/09/08/quem-e-andrei-rodrigues-diretor-geral-da-pf-afastado-por-decisao-de-andre-mendonca.ghtml"
       }
     ]
   },
@@ -4013,6 +3882,42 @@
     ],
     "summary": "Quando o novo diretor-presidente da Apple, John Ternus, apresentar os mais recentes lançamentos da companhia nesta quarta-feira (9), Wall Street espera que o executivo demonstre que a gigante de tecnologia ainda é capaz de entregar inovações revolucionárias em hardware e uma assi",
     "relevance": 5
+  },
+  {
+    "source": "G1 - Economia",
+    "title": "Dólar cai a R$ 5,08 e Ibovespa sobe, com petróleo e cenário eleitoral no radar",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/08/dolar-ibovespa.ghtml",
+    "description": "Entenda o que faz o preço do dólar subir ou cair\nO dólar fechou em queda nesta terça-feira (8), recuando 0,86%, a R$ 5,0857. Já o Ibovespa, principal índice da bolsa brasileira, subiu 1,20%, aos 187.367 pontos.\nA intenção de voto no Brasil segue no radar dos investidores, conforme se aproximam as eleições presidenciais. Na segunda-feira (7), uma pesquisa da Quaest apontou Lula (PT) com 36% das intenções de voto no 1º turno da eleição presidencial, contra 29% de Flávio Bolsonaro (PL) no cenário com 13 candidatos, que inclui o candidato Pablo Marçal (PRTB), que está inelegível. Veja mais.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\n▶️ No exterior, as preocupações com o conflito no Oriente Médio continuam a se refletir nos preços do petróleo.  Nesta terça-feira, os houthis do Iêmen, apoiados por Teerã, atacaram instalações de energia e cidades na Arábia Saudita, aliada dos EUA, ferindo mais de 70 pessoas e ressaltando o risco de o conflito com o Irã se transformar em uma guerra regional mais ampla.\nEm meio às tensões, os preços do petróleo viveram um dia de alta e atingiram nova máxima em seis semanas. No fechamento, o barril do Brent, referência internacional, subiu 0,92%, cotado a US$ 97,92. Já o West Texas Intermediate (WTI), referência nos EUA, avançou 1,71%, a US$ 93,03 o barril.\n▶️ Na agenda econômica da semana, investidores seguem na expectativa por novos dados de inflação no Brasil e nos EUA, além da decisão de política monetária do Banco Central Europeu (BCE).\nVeja abaixo mais detalhes do dia no mercado.\n💲Dólar\n\na\nAcumulado da semana: -0,86%;\nAcumulado do mês: -1,81%;\nAcumulado do ano: -7,34%.\n📈Ibovespa\n\nAcumulado da semana: +1,20%;\nAcumulado do mês: +5,65%;\nAcumulado do ano: +16,29%.\nPesquisa eleitoral\nPesquisa Quaest divulgada na segunda-feira (7) mostra como está o cenário da eleição presidencial no Dia da Independência do Brasil, a menos de um mês do 1º turno -- que acontecerá em 4 de outubro.\nVeja os números da pesquisa estimulada, em que a Quaest mostra aos eleitores entrevistados os nomes dos candidatos. Entre parênteses, o resultado da pesquisa anterior, do dia 2 de setembro.\nVeja, abaixo, os números do cenário de 1º turno sem Pablo Marçal:\nLula (PT): 36% (eram 37% em 2 de setembro)\nFlávio Bolsonaro (PL): 29% (eram 29%)\nAugusto Cury (Avante): 8% (eram 10%)\nRenan Santos (Missão): 3% (eram 3%)\nRonaldo Caiado (PSD): 3% (eram 1%)\nRomeu Zema (Novo): 2% (eram 1%)\nSamara Martins (UP): 1% (era 1%)\nEdmilson Costa (PCB): 0 (era zero)\nRui Costa Pimenta (PCO): 0 (era zero)\nVeterinário Wilson Grassi (Democrata): 0 (era zero)\nClariana Barão (DC): 0 (era zero)\nHertz Dias (PSTU): 0 (era zero)\nEm branco/nulo/nenhum: 8% (eram 7%)\nIndecisos: 10% (eram 11%)\nContratada pela Globo e pelo jornal O Globo, a Quaest entrevistou 2.004 pessoas de 16 anos ou mais em todo o país, entre os dias 3 e 6 de setembro. A margem de erro é de dois pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. A pesquisa foi registrada no Tribunal Superior Eleitoral (TSE) sob o número BR-01720/2026.\nTensões no Oriente Médio\nA escalada do conflito no Oriente Médio continua a trazer preocupações para os preços do petróleo no mercado internacional. \nNesta terça-feira, os Houthis, grupo extremista do Iêmen realizaram ataques contra cidades e instalações de energia da Arábia Saudita nesta terça-feira (8), deixando ao menos 73 pessoas feridas e provocando incêndios que interromperam temporariamente operações em estruturas energéticas do reino, segundo autoridades sauditas.\nApós os ataques, um porta-voz militar dos Houthis afirmou que o grupo anunciará uma ampla operação militar em território saudita, sinalizando uma possível escalada do conflito.\nDe acordo com o Ministério da Energia da Arábia Saudita, algumas instalações no sul do país foram atingidas e tiveram as atividades suspensas. Equipes de bombeiros e de emergência foram mobilizadas para controlar os incêndios e avaliar os danos.\nAlém disso, a marinha da Guarda Revolucionária do Irã afirmou ter capturado um drone subaquático dos Estados Unidos no Estreito de Ormuz nesta terça-feira (8). Uma fonte do governo americano disse à Reuters que o equipamento militar já apresentava problemas há mais de um dia enquanto monitorava as águas da região.\nApós a captura do drone, os militares iranianos publicaram em seus meios de comunicação que o 'submarino inteligente' incorpora \"a tecnologia mais avançada do mundo no campo da exploração submarina e foi entregue à frota do exército terrorista norte-americano em 2025\".\nBolsas globais\nNos Estados Unidos, os três principais índices de Wall Street fecharam em queda, conforme investidores avaliavam a escalada das tensões no Oriente Médio e aguardavam os novos dados de inflação, previstos para esta semana.\nO Dow Jones caiu 1,16%, o S&amp;P 500 teve perdas de 0,58% e o Nasdaq Composite desvalorizou 0,31%.\nNa Europa, as bolsas as bolsas fecharam mistas, em meio a preocupações com a alta nos preços do petróleo. O índice pan-europeu STOXX 600 caiu 0,05%, aos 649,6 pontos.\nEntre os principais índices da região, o DAX, da Alemanha, fechou estável, enquanto o CAC-40, da França, subiu 0,14% e o FTSE 100, do Reino Unido, caiu 0,10%.\nAs bolsas asiáticas tiveram desempenho misto. Em Xangai, um ligeiro avanço foi impulsionado pelos setores agrícola, de energia e de ouro. As ações de tecnologia, no entanto, fizeram pressão de baixa. \nO SSEC, índice de Xangai subiu 0,2%, enquanto o CSI300, que reúne as maiores empresas das bolsas de Xangai e Shenzhen, recuou 0,36%. Já o Hang Seng, de Hong Kong, caiu 0,38%. \nEntre os demais mercados da região, o índice Nikkei, do Japão, teve perdas de 1,70%, enquanto o Kospi, da Coreia do Sul, teve desvalorização de 0,58%.\n* Com informações da agência de notícias Reuters.\nNotas de dólar.\nRick Wilking/Reuters",
+    "published": "2026-09-08T12:00:14+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Entenda o que faz o preço do dólar subir ou cair\nO dólar fechou em queda nesta terça-feira (8), recuando 0,86%, a R$ 5,0857. Já o Ibovespa, principal índice da bolsa brasileira, subiu 1,20%, aos 187.367 pontos.\nA intenção de voto no Brasil segue no radar dos investidores, conform",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-sobe-com-pesquisas-eleitorais-no-foco-petroleo-se-aproxima-de-us100/"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/financas/noticia/2026/09/08/dolar-a-vista-recua-de-olho-em-quadro-eleitoral-e-alta-do-petroleo.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/financas/ao-vivo/ibovespa-hoje-acompanhe-bolsa-e-dolar.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/financas/noticia/2026/09/08/ibovespa-tem-forte-alta-com-disputa-eleitoral-acirrada-e-precos-do-petroleo-no-radar.ghtml"
+      },
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/mercados/alem-do-trade-eleitoral-commodities-reforcam-rali-do-ibovespa/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -4052,6 +3957,80 @@
     "relevance": 5
   },
   {
+    "source": "G1 - Política",
+    "title": "Mendonça determina afastamento de diretor-geral da PF, Andrei Rodrigues",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/08/mendonca-afastamento-de-diretor-geral-da-pf-andrei-rodrigues.ghtml",
+    "description": "Mendonça determina afastamento do diretor-geral da PF, Andrei Rodrigues\nO ministro André Mendonça, do Supremo Tribunal Federal (STF), determinou nesta terça-feira (8) o afastamento preventivo do diretor-geral da Polícia Federal, Andrei Rodrigues, e do diretor de Inteligência Policial da corporação, Leandro Almada da Costa. \nA decisão impõe ainda a abertura imediata de procedimentos investigatórios criminais e administrativo-disciplinares na Corregedoria da PF para apurar as circunstâncias de produção de relatórios de inteligência que monitoravam autoridades.\nMendonça determinou também a suspensão de qualquer produção ou compartilhamento de relatórios de inteligência voltados a analisar a atuação funcional de magistrados, da advocacia pública ou da atividade de polícia judiciária. \nO ministro solicitou a convocação de uma sessão virtual extraordinária da Segunda Turma do STF para referendar a decisão ainda nesta terça.\nAgora no g1\n'Monitoramento sistemático e coleta dirigida'\nDe acordo com a decisão de André Mendonça, o diretor-geral da PF encaminhou ao ministro Alexandre de Moraes, no âmbito do Inquérito das Fake News, ao menos seis \"relatórios de inteligência\" produzidos de forma sigilosa entre 3 e 31 de agosto de 2026.\nA peça processual revela que o próprio ministro relator vinha sendo submetido a um monitoramento ilícito e sistemático por parte da inteligência policial há mais de 30 dias.\nAlém de Mendonça, o advogado-geral da União (AGU), Jorge Messias, também foi alvo de monitoramento e de \"coleta dirigida\" de informações. \nOs relatórios elucubravam que a atuação de Messias em não recorrer de decisões judiciais nas operações \"Sem Desconto\" e \"Compliance Zero\" visava preservar \"relação política com o relator\". \nO documento da PF classificava a confiança daquela análise de cenário como \"baixa\", mas justificava que o caso \"autoriza monitoramento e coleta dirigida\".\nLEIA MAIS: Em meio à crise no STF, desfile de 7 de Setembro tem conversas reservadas e encontros entre autoridades\nMontagem com fotos do diretor-geral da Polícia Federal, Andrei Rodrigues, e do ministro do STF André Mendonça\nAndressa Anholete/Agência Senado e Gustavo Moreno/STF\nAnálises sob 'matriz religiosa comum' e críticas internas\nMendonça descreveu como \"surreal\" e \"abjeta\" a acusação de que a conduta do advogado-geral da União e do relator de não acatar solicitações da PF poderia ser explicada pelo fato de possuírem \"matriz religiosa comum\" e terem tido apoio de igrejas evangélicas em suas candidaturas ao STF.\nOs relatórios também continham o que o ministro qualificou como \"escancarada realização de juízo correicional\" sobre as decisões jurisdicionais do STF, sobre o mérito técnico da AGU e até mesmo sobre o trabalho investigativo de outros delegados e agentes da própria Polícia Federal. \nSegundo a decisão, uma das unidades de inteligência (UADIP) realizava um rigoroso escrutínio crítico do trabalho de delegados em investigações ativas.\nRELEMBRE: PF diz a Moraes em relatório que Mendonça manifestou intenção de afastar diretor da corporação\nDocumentos apócrifos e manifestação de entidades\nA fragilidade técnica dos relatórios foi apontada pelo ministro como \"autoevidente\". \nAndré Mendonça registrou que os documentos eram apócrifos, não tinham timbre, brasão, assinatura ou numeração, o que os tornava um \"nada jurídico\" que descumpria a Doutrina Nacional de Inteligência de Segurança Pública (DNISP). \nOs próprios autores do material inseriram advertências de que as análises eram \"sem valor probatório\" e possuíam \"confiança agregada baixa\".\nA produção do material provocou reações imediatas de categorias técnicas. \nA União dos Profissionais de Inteligência de Estado da Abin (Intelis) publicou nota esclarecendo que a Inteligência de Estado \"não se confunde com investigação criminal, tampouco com a elaboração de peças destinadas à formação de juízo acusatório\".\nPor sua vez, o presidente da Associação de Delegados da Polícia Federal (ADPF) declarou que a circulação do documento fora da corporação era \"totalmente irregular\" e manifestou estranheza com o fato de uma unidade de inteligência fazer esse tipo de análise.\nVazamento de investigações sigilosas\nOutro ponto considerado de extrema gravidade pelo relator foi o vazamento de informações sigilosas decorrente da publicização desses relatórios. \nO material continha detalhes sobre investigações em andamento e pendentes de decisão judicial envolvendo os políticos Antonio Rueda e ACM Neto. \nMendonça enfatizou que a divulgação prévia revelou as potenciais medidas cautelares aos alvos, \"frustrando completamente a sua eficácia e prejudicando efetivamente as investigações\".\nAs suspeitas contra o diretor-geral\nA crise que culminou no afastamento de Andrei Rodrigues começou a se desenhar no início de setembro de 2026. \nEm 2 de setembro, o Partido Novo acionou o STF solicitando providências para preservar a independência de investigações contra o diretor-geral da PF. \nNo dia seguinte, a legenda pediu a prisão preventiva de Andrei Rodrigues, alegando indícios de sua participação em uma suposta rede de influência criminosa liderada por Daniel Vorcaro. \nMensagens telefônicas do aparelho celular de Vorcaro faziam referências diretas ao nome \"Andrei\", identificado pela PF como o diretor-geral.\nA decisão de Mendonça também transcreve uma fala da jornalista Monica Waldvogel, da GloboNews, veiculada em 3 de setembro de 2026. \nSegundo a jornalista, o próprio Andrei Rodrigues teria lhe confirmado que a PF elaborou cerca de cinco ou seis relatórios de inteligência para \"consumo próprio e acervo\" sobre o que consideravam irregularidades na condução de provas pelo ministro André Mendonça. \nConforme o relato, esses relatórios foram posteriormente solicitados por Alexandre de Moraes e embasaram a denúncia.\nPrecedentes\nPara dar respaldo jurídico ao afastamento da cúpula da PF, André Mendonça justificou que a medida não é inédita e relembrou decisões históricas do próprio STF. \nEntre os precedentes, o ministro citou a suspensão do mandato do então presidente da Câmara dos Deputados, Eduardo Cunha, em 2016, e o afastamento temporário do governador do Distrito Federal, Ibaneis Rocha, em 2023.\nSegundo Mendonça, a jurisprudência da Corte estabelece que nenhuma função pública — por mais alta que seja — está imune ao controle da Justiça. \nO argumento central é proporcional: quanto maior o poder político ou a posição hierárquica do investigado, maior é o seu potencial de usar a estrutura pública para interferir nos rumos de uma investigação.\nO que dizem o citados\nAté a última atualização desta reportagem, nem Andrei Rodrigues nem Leandro Almada da Costa tinham se manifestado sobre a decisão de Mendonça.",
+    "published": "2026-09-08T11:52:51+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Mendonça determina afastamento do diretor-geral da PF, Andrei Rodrigues\nO ministro André Mendonça, do Supremo Tribunal Federal (STF), determinou nesta terça-feira (8) o afastamento preventivo do diretor-geral da Polícia Federal, Andrei Rodrigues, e do diretor de Inteligência Poli",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/09/andre-mendonca-usa-precedentes-de-moraes-e-dino-para-afastar-andrei-rodrigues-da-chefia-da-pf.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/09/08/stf-julgamento-andrei.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/09/08/agu-pode-driblar-mendonca-em-recurso-contra-afastamento-do-chefe-da-pf.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/09/08/ala-do-stf-diz-que-mendonca-atropelou-fachin-ao-determinar-afastamento-de-chefe-da-pf.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/09/08/lula-ignora-afastamento-de-andrei-da-pf-em-1o-evento-apos-decisao-de-mendonca.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/09/08/gilmar-pede-vista-e-suspende-julgamento-de-decisao-de-mendonca-que-determinou-afastamento-de-andrei-rodrigues-da-chefia-da-pf.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/blogs/miriam-leitao/coluna/2026/09/andrei-rodrigues-ainda-nao-foi-notificado-da-decisao-de-mendonca.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/09/08/agu-deve-contestar-decisao-de-mendonca-de-afastar-diretor-da-pf.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/09/08/stf-cancela-sessao-da-segunda-turma-apos-mendonca-determinar-afastamento-de-andrei-e-pedido-de-vista-de-gilmar.ghtml"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/2a-turma-cancela-sessao-presencial-depois-de-afastamento-de-andrei/"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/09/08/diretores-da-pf-saem-em-defesa-de-andrei-rodrigues-e-colocam-cargos-a-disposicao.ghtml"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/diretores-da-pf-colocam-cargos-a-disposicao-apos-afastamento-de-andrei/"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/09/08/diretores-da-pf-manifestam-total-apoio-a-rodrigues-e-colocam-cargos-disposio.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/09/08/analise-afastamento-de-andrei-rodrigues-gera-uma-arapuca-para-lula.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/09/o-pt-e-o-afastamento-de-andrei-rodrigues.ghtml"
+      }
+    ]
+  },
+  {
     "source": "Valor Econômico",
     "title": "EBay abre investigação após venda ilegal de testes para descobrir sexo do bebê na Índia",
     "link": "https://valor.globo.com/empresas/noticia/2026/09/08/ebay-abre-investigao-aps-venda-ilegal-de-testes-para-descobrir-sexo-do-beb-na-ndia.ghtml",
@@ -4087,6 +4066,92 @@
       "Politica"
     ],
     "summary": "Um homem casado com várias mulheres em seu país de origem não pode solicitar o reagrupamento familiar para levar à Europa os filhos nascidos dessas uniões poligâmicas, avaliou nesta terça-feira o Tribunal Europeu de Direitos Humanos (TEDH).\nQuatro jovens morrem após carro despenc",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Economia",
+    "title": "Mercado financeiro reduz estimativa de inflação para 5% e eleva projeção de crescimento da economia em 2026",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/08/mercado-financeiro-reduz-estimativa-de-inflacao-para-5percent-e-eleva-projecao-de-crescimento-da-economia-em-2026.ghtml",
+    "description": "O mercado financeiro reduziu sua estimativa de inflação, mas, ao mesmo tempo, elevou sua projeção de crescimento do Produto Interno Bruto (PIB) em 2026.\nAs informações fazem parte do \"Boletim Focus\", divulgado nesta terça-feira (8) pelo Banco Central (BC), com base em pesquisa realizada na última semana com mais de 100 instituições financeiras.\nPara o comportamento da inflação, os economistas do mercado financeiro baixaram sua projeção, relativa ao ano de 2026, de 5,01% para 5%.\nA queda na estimativa de inflação acontece apesar da retomada da guerra no Oriente Médio, que elevou o preço do petróleo, com potencial de pressionar a inflação brasileira (via aumento dos combustíveis). \nAgora no g1\nO presidente norte-americano, Donald Trump, prometeu novas rodadas de negociações. Entretanto, o Irã impõe condições. \n➡️ Para 2026, a estimativa de inflação caiu de 5,01% para 5%;\n➡️ Para 2027, a expectativa subiu de 4,28% para 4,29%;\n➡️ Para 2028, a previsão continuou em 3,80%;\n➡️ Para 2029, a estimativa ficou estável em 3,50%.\nDesde o início de 2025, com a adoção do sistema de meta contínua, o objetivo é manter a inflação em 3%, sendo considerada dentro da meta se variar entre 1,50% e 4,50%.\n🔎 Por que isso importa? Quanto maior a inflação, menor é o poder de compra da população — especialmente entre quem recebe salários mais baixos. Isso ocorre porque os preços sobem, enquanto os salários não acompanham esse aumento.\nProduto Interno Bruto\nPara o crescimento do Produto Interno Bruto (PIB) deste ano, o mercado financeiro elevou sua projeção de 1,92% para 1,93% na semana passada.\nCom isso, os analistas estimam desaceleração da economia neste ano, visto que, em 2025, o PIB cresceu 2,3%, conforme divulgação oficial do Instituto Brasileiro de Geografia e Estatística (IBGE).\n➡️ O Produto Interno Bruto (PIB) é a soma de todos os bens e serviços produzidos no país e serve para medir o desempenho da economia.\n🔎Se o PIB cresce, significa que a economia vai bem e produz mais. Se o PIB cai, quer dizer que a economia está encolhendo. Entretanto, nem sempre crescimento do PIB equivale a bem-estar social.\nPara 2027, a projeção do mercado de crescimento do PIB permaneceu estável em 1,5%.\nEm um ano eleitoral, o governo tem adotado ações para estimular a economia e reduzir o endividamento da população, o que impulsiona a demanda por produtos e serviços.\nA estratégia do governo, porém, dificulta o controle da inflação. O BC tem dito claramente que uma desaceleração, ou seja, um ritmo menor de crescimento da economia, faz parte da estratégia de conter as pressões inflacionárias.\nInflação de junho é a menor para o mês em 3 anos, mas ainda está acima do teto da meta estabelecida pelo Banco Central\nJornal Nacional/ Reprodução\nCorte dos juros\nO mercado financeiro também continuou prevendo corte de juros neste ano e nos próximos.\n Atualmente, a taxa está em 14% ao ano — após quatro cortes neste ano.\nA estimativa do mercado para a taxa Selic ao fim de 2026 permaneceu em 13,75% ao ano na última semana, embutindo uma última redução da taxa neste ano.\nPara o fechamento de 2027, a projeção do mercado permaneceu em 12% ao ano.\nPara o fim de 2028, a estimativa dos analistas continuou em 10,50% ao ano.\nTaxa de câmbio\nO mercado financeiro manteve sua estimativa para a taxa de câmbio ao fim deste ano em R$ 5,20 por dólar. \nPara o fechamento de 2027, a projeção dos economistas dos bancos continuou em R$ 5,30 por dólar.",
+    "published": "2026-09-08T11:30:39+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "O mercado financeiro reduziu sua estimativa de inflação, mas, ao mesmo tempo, elevou sua projeção de crescimento do Produto Interno Bruto (PIB) em 2026.\nAs informações fazem parte do \"Boletim Focus\", divulgado nesta terça-feira (8) pelo Banco Central (BC), com base em pesquisa re",
+    "relevance": 5
+  },
+  {
+    "source": "Brazil Journal",
+    "title": "OPINIÃO. Quando o Leão quer tributar um dinheiro que não existe",
+    "link": "https://braziljournal.com/opiniao-mais-uma-inovacao-da-fazenda-tributar-um-dinheiro-que-nao-existe/",
+    "description": "“Não há crise. Você que nos assiste, que às vezes vê uma loja sendo fechada, vai seguir tendo opções para comprar os seus produtos, seja em outras lojas concorrentes, seja pelo mercado digital” – Dario Durigan, ministro da Fazenda.   Apesar da peculiar visão do Ministro, a crise pela qual passa o varejo está na [&#8230;]\nThe post OPINIÃO. Quando o Leão quer tributar um dinheiro que não existe appeared first on Brazil Journal.",
+    "published": "2026-09-08T09:50:06+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "“Não há crise. Você que nos assiste, que às vezes vê uma loja sendo fechada, vai seguir tendo opções para comprar os seus produtos, seja em outras lojas concorrentes, seja pelo mercado digital” – Dario Durigan, ministro da Fazenda.   Apesar da peculiar visão do Ministro, a crise ",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Economia",
+    "title": "Tarifas do Canadá sobre produtos dos EUA entram em vigor nesta terça-feira; entenda a disputa",
+    "link": "https://g1.globo.com/economia/noticia/2026/09/08/canada-tarifas-eua-entenda.ghtml",
+    "description": "Após tarifas de Trump, Canadá anuncia retaliação de até 50% contra os EUA\nO Canadá começa a aplicar nesta terça-feira (8) novas tarifas de 15%, 25% e 50% sobre produtos importados dos Estados Unidos, acirrando a disputa comercial entre os dois países.\nAs novas medidas atingem mercadorias americanas avaliadas em 27,6 bilhões de dólares canadenses, cerca de US$ 20 bilhões ou R$ 103 bilhões na cotação atual. \n➡️ A lista inclui aço, alumínio, laticínios, eletrodomésticos, equipamentos agrícolas, papel e celulose, plásticos e componentes eletrônicos. (veja abaixo as alíquotas por produto) \nAs tarifas foram impostas em retaliação as taxas impostas pelos EUA sobre produtos canadenses. Em alguns casos, elas chegam a 50%.\nA medida ocorre depois do fracasso de uma série de rodadas de negociações entre os governos de Donald Trump e Mark Carney, primeiro-ministro do Canadá, em agosto. \n'Basta': Trump reage a tarifas de retaliação do Canadá e aumenta tensão na guerra comercial\nTarifas do Canadá aos EUA: veja a alíquota por produto\nO que muda a partir desta terça\nAs novas tarifas canadenses foram desenhadas para atingir mercadorias americanas dos mesmos setores afetados pelas barreiras impostas recentemente pelos EUA. A ideia é fazer uma retaliação proporcional.\nOu seja, quando Washington aplica uma determinada tarifa a um produto canadense, Ottawa cobra uma taxa equivalente sobre mercadorias americanas correspondentes.\nAs medidas não atingem mercadorias americanas que já estavam em trânsito para o Canadá quando as tarifas entraram em vigor. Além disso, a cobrança vale apenas para produtos considerados de origem americana.\nO Canadá também mantém as tarifas de retaliação que já estavam em vigor sobre automóveis americanos.\nComo a disputa comercial começou\nO presidente dos EUA, Donald Trump, recebe o primeiro-ministro do Canadá, Mark Carney, na Casa Branca em Washington, D.C., EUA, 7 de outubro de 2025.\nREUTERS/Evelyn Hockstein/Foto de arquivo\nA disputa começou no início de 2025, quando Trump, em seu segundo mandato, anunciou tarifas sobre produtos canadenses. Entre as justificativas apresentadas pelo governo americano estavam o combate ao tráfico de fentanil e a redução do déficit comercial dos EUA.\nA entrada em vigor chegou a ser adiada por 30 dias após negociações entre os dois governos. Em março, porém, Washington colocou em vigor uma tarifa de 25% sobre diversos produtos canadenses e uma taxa de 10% sobre parte das importações de energia.\nOttawa respondeu com sua primeira grande lista de retaliação, que incluía alimentos, bebidas, eletrodomésticos, roupas e outros bens de consumo.\nPouco depois, o conflito ganhou um novo foco. Os EUA passaram a cobrar 25% sobre aço e alumínio importados, e o Canadá respondeu com novas tarifas sobre produtos americanos, entre eles aço, alumínio, computadores, servidores, monitores e equipamentos esportivos.\nO setor automotivo entrou na disputa na sequência.\nTambém em março de 2025, Trump anunciou uma tarifa de 25% sobre automóveis importados. As regras estabeleciam um tratamento diferente para veículos que cumprissem as exigências do acordo comercial entre Estados Unidos, Canadá e México, conhecido pela sigla USMCA.\nEm abril, o Canadá respondeu com tarifas sobre veículos americanos que não se enquadravam nas regras do acordo e sobre determinados componentes produzidos fora da América do Norte.\nMesmo com a escalada, os governos continuaram tentando chegar a um acordo. Em maio, Carney se reuniu com Trump na Casa Branca. No mês seguinte, os dois países estabeleceram um prazo de 30 dias para tentar avançar nas negociações.\nA tentativa não prosperou. Em junho, as conversas foram interrompidas após uma disputa envolvendo o imposto canadense sobre serviços digitais. O Canadá posteriormente retirou a medida na tentativa de reabrir as negociações.\nAinda em 2025, Washington elevou essas tarifas para 50%. Ottawa, por sua vez, retirou em setembro a maior parte das tarifas de retaliação que havia imposto sobre produtos americanos. As cobranças sobre aço, alumínio e automóveis foram mantidas.\nA redução das barreiras não encerrou a disputa. Ao longo de 2026, novas medidas voltaram a aumentar a pressão sobre o comércio entre os dois países.\nO que aconteceu em 2026\nEm julho deste ano, os EUA anunciaram uma tarifa de 10% sobre produtos canadenses relacionada a uma investigação sobre trabalho forçado. Mercadorias que cumprem as regras do USMCA ficaram isentas.\nNo mesmo mês, ocorreu a primeira revisão obrigatória do acordo comercial entre EUA, Canadá e México. Washington decidiu não estender o tratado em sua forma atual, acionando o mecanismo de revisões anuais previsto no próprio acordo. O USMCA, porém, continua em vigor.\nTambém em julho, o governo americano recorreu à chamada Seção 338 da legislação comercial dos EUA para anunciar tarifas adicionais de até 50% sobre cerca de 27,6 bilhões de dólares canadenses em produtos do Canadá.\nEntre os itens atingidos estavam vinho, móveis, laticínios, cimento, roupas e equipamentos esportivos.\nAs novas barreiras levaram os governos a intensificar as negociações. O objetivo de Ottawa era evitar outra rodada de tarifas e preservar o acesso de empresas canadenses ao mercado americano.\nAs conversas fracassaram em agosto. No dia 22, os EUA colocaram em vigor as tarifas de 50% sobre os produtos canadenses. O governo de Carney anunciou que responderia com medidas equivalentes a partir deste 8 de setembro.\nDois dias depois, Trump anunciou ainda uma tarifa de 50% sobre carros, caminhões e peças automotivas canadenses a partir de janeiro de 2027.\nPor que a disputa é tão importante\nCanadá e Estados Unidos têm uma das relações comerciais mais integradas do mundo. Empresas dos dois países dependem umas das outras para obter matérias-primas, peças e componentes.\nIsso é especialmente evidente na indústria automotiva. Um componente pode ser fabricado nos Estados Unidos, enviado ao Canadá para a montagem de um veículo e depois atravessar novamente a fronteira como parte de um produto acabado.\nPor isso, uma tarifa pode afetar muito mais do que o exportador estrangeiro. O importador paga o imposto diretamente à alfândega, mas o custo pode ser dividido entre empresas ao longo da cadeia e, dependendo do produto e das condições do mercado, chegar ao consumidor.\nA ameaça de novas tarifas sobre veículos é particularmente sensível por causa dessa integração.\nMontadoras instaladas no Canadá dependem de fornecedores de diferentes partes da América do Norte. Toyota e Honda, por exemplo, respondem juntas por mais de três quartos dos veículos produzidos no país.\nUma tarifa de 50% sobre carros e peças canadenses pode, portanto, atingir não apenas empresas canadenses, mas também companhias estrangeiras que utilizam o Canadá como base de produção.\nBombardier vira novo ponto de tensão\nA disputa também começou a alcançar decisões sobre onde as empresas devem produzir seus produtos.\nNa segunda-feira (7), um dia antes da entrada em vigor das tarifas canadenses, Trump afirmou que a fabricante canadense de jatos executivos Bombardier deveria fabricar seus aviões nos Estados Unidos para continuar vendendo no mercado americano.\nCaso contrário, segundo o presidente, a empresa poderia ser impedida de vender seus produtos no país.\nA Bombardier tem cerca de 3,5 mil funcionários nos Estados Unidos, centros de serviços e uma cadeia de fornecedores americanos. A empresa também gasta mais de US$ 2,5 bilhões por ano com fornecedores do país, e muitos de seus jatos utilizam motores fabricados nos Estados Unidos.\nA ameaça mostra como o conflito deixou de ser apenas uma discussão sobre tarifas e passou a envolver também investimentos, localização de fábricas e cadeias de fornecedores.\nO próprio Canadá já anunciou medidas para incentivar a produção doméstica.\nO governo destinou 4,7 bilhões de dólares canadenses para produzir e manter 313 vagões da VIA Rail no país. O projeto deve sustentar quase 700 empregos. Os equipamentos, que antes eram produzidos nos EUA, passarão a ser fabricados no Canadá.\nEfeitos já aparecem na economia canadense\nA dimensão do conflito também pode ser observada nos dados mais recentes do comércio canadense.\nEm julho, o superávit comercial de bens do país caiu para 769 milhões de dólares canadenses, ante 4,2 bilhões de dólares canadenses em junho.\nNo mesmo mês, as exportações canadenses para os Estados Unidos recuaram 6,6%, enquanto as importações de produtos americanos cresceram 1,8%.\nEm agosto, o Canadá perdeu cerca de 42 mil empregos, enquanto a taxa de desemprego ficou em 6,4%. Os números não podem ser atribuídos exclusivamente às tarifas, mas mostram o ambiente de maior incerteza enfrentado pela economia canadense.",
+    "published": "2026-09-08T06:00:00+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Após tarifas de Trump, Canadá anuncia retaliação de até 50% contra os EUA\nO Canadá começa a aplicar nesta terça-feira (8) novas tarifas de 15%, 25% e 50% sobre produtos importados dos Estados Unidos, acirrando a disputa comercial entre os dois países.\nAs novas medidas atingem mer",
+    "relevance": 5
+  },
+  {
+    "source": "Metro Quadrado",
+    "title": "Os avanços (e as dores) da PPP de habitação, um modelo que ainda engatinha",
+    "link": "https://metroquadrado.com/cidades/os-avancos-e-as-dores-da-ppp-de-habitacao-um-modelo-que-ainda-engatinha",
+    "description": "O Residencial Ipê, na Mooca, vive dias agitados com a chegada de caminhões de mudança das famílias que realizam o sonho da casa própria. Nem todas sabem, mas elas fazem parte de um modelo que ainda engatinha e busca reforçar a longa batalha do País contra o déficit habitacional.",
+    "published": "2026-09-08T03:11:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O Residencial Ipê, na Mooca, vive dias agitados com a chegada de caminhões de mudança das famílias que realizam o sonho da casa própria. Nem todas sabem, mas elas fazem parte de um modelo que ainda engatinha e busca reforçar a longa batalha do País contra o déficit habitacional.",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "VÍDEO: O que você não pode ganhar dos candidatos?",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/videos/noticia/2026/09/08/video-o-que-voce-nao-pode-ganhar-dos-candidatos.ghtml",
+    "description": "Guia do eleitor: o que não posso ganhar de um candidato?\nCandidatos à eleição são proibidos de distribuir camisetas, bonés, chaveiros, canetas ou qualquer outra coisa que possa proporcionar um presente ao eleitor.  \nAlém de não poder oferecer brindes, tem uma situação ainda mais grave: oferecer alguma vantagem em troca do voto.     \nE a punição não vale só para quem tenta comprar o voto. Quem pede ou aceita uma vantagem para votar em determinado candidato também pode responder pelo crime. A pena pode chegar a quatro anos de prisão, além de multa.   \nVEJA TAMBÉM\n50 Vídeos para entender as Eleições de 2026\nOu seja, você não deve aceitar dinheiro, cesta básica, nem combustível, por exemplo. E a regra também vale, mesmo que o presente não seja um bem material. Uma consulta médica, uma cirurgia ou até a promessa de um emprego também podem entrar na lista de proibidos.\nCasos assim, podem ficar configurados o crime de corrupção eleitoral. E nem é preciso que a troca chegue a acontecer.  \nPelo código eleitoral, dar, oferecer ou até prometer uma vantagem com essa finalidade pode configurar crime, mesmo que a oferta não seja aceita.  \n📍 Em uma série de 50 vídeos, o g1 vai explicar os principais temas das eleições de 2026. Os conteúdos mostram como funcionam as pesquisas, explicam o papel dos cargos em disputa e o funcionamento do Congresso, e trazem orientações práticas para votar. A série também aborda o impacto das novas tecnologias na campanha, como inteligência artificial, deepfakes e influenciadores.",
+    "published": "2026-09-08T03:00:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Guia do eleitor: o que não posso ganhar de um candidato?\nCandidatos à eleição são proibidos de distribuir camisetas, bonés, chaveiros, canetas ou qualquer outra coisa que possa proporcionar um presente ao eleitor.  \nAlém de não poder oferecer brindes, tem uma situação ainda mais ",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Quaest 1º turno: veja intenção de voto por região, gênero, idade, identificação política, cor e religião no cenário com Pablo Marçal",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/08/quaest-1o-turno-segmentos-cenario-2.ghtml",
+    "description": "Quaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 29%; Cury, 8%; Renan, 3%; Caiado, 3%; Zema, 2%\nPesquisa Datafolha divulgada nesta segunda-feira (7) mostra Lula (PT) com 36% das intenções de voto no 1º turno da eleição presidencial, contra 29% de Flávio Bolsonaro (PL) no cenário com 13 candidatos, que inclui o candidato Pablo Marçal (PRTB), que está inelegível.\nA pesquisa mostra Augusto Cury (Avante) em terceiro, com 8%. Na sequência, Renan Santos (Missão) e Ronaldo Caiado (PSD) com 3%, Romeu Zema (Novo) com 2% e Marçal com 1%. \nContratada pela Globo e pelo jornal O Globo, a Quaest entrevistou 2.004 pessoas de 16 anos ou mais em todo o país, entre os dias 3 e 6 de setembro. A margem de erro é de dois pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. A pesquisa foi registrada no Tribunal Superior Eleitoral (TSE) sob o número BR-01720/2026.\nVeja, a seguir, as intenções de voto em cada segmento:\nIdentificação política\nRegião\nGênero\nIdade\nEscolaridade\nRenda familiar\nReligião\nCor\nIdentificação política\nQuaest, 1º turno: identificação política\nArte/g1\nVolte ao topo\nRegião\nQuaest, 1º tempo: região\nArte/g1\nVolte ao topo\nGênero\nQuaest, 1º turno: gênero\nArte/g1\nVolte ao topo\nIdade\nQuaest, 1º turno: idade\nArte/g1\nVolte ao topo\nEscolaridade\nQuaes, 1º turno: escolaridade\nArte/g1\nVolte ao topo\nRenda familiar\nQuaest, 1º turno: renda\nArte/g1\nVolte ao topo\nReligião\nQuaest, 1º turno: religião\nArte/g1\nVolte ao topo\nCor\nQuaest, 1º turno: cor\nArte/g1\nVolte ao topo\nMais destaques da pesquisa Quaest\nQuaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 29%; Cury, 8%; Renan, 3%; Caiado, 3%; Zema, 2%\nQuaest, 2º turno: Lula, 41%; Flávio Bolsonaro, 41%\nQuaest: 50% desaprovam e 43% aprovam governo Lula\nQuaest: 32% dizem que Lula e PT vencerem é o melhor resultado da eleição presidencial; para 24%, a volta da família Bolsonaro\nUrna eletrônica para votação nas eleições brasileiras\nMarcelo Camargo/Agência Brasil",
+    "published": "2026-09-08T03:00:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Quaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 29%; Cury, 8%; Renan, 3%; Caiado, 3%; Zema, 2%\nPesquisa Datafolha divulgada nesta segunda-feira (7) mostra Lula (PT) com 36% das intenções de voto no 1º turno da eleição presidencial, contra 29% de Flávio Bolsonaro (PL) no cenário co",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Quaest 1º turno: veja intenção de voto por região, gênero, idade, identificação política, cor e religião no cenário sem Pablo Marçal",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/09/08/quaest-1o-turno-segmentos-cenario-1.ghtml",
+    "description": "Quaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 29%; Cury, 8%; Renan, 3%; Caiado, 3%; Zema, 2%\nPesquisa Datafolha divulgada nesta segunda-feira (7) mostra Lula (PT) com 36% das intenções de voto no 1º turno da eleição presidencial, contra 29% de Flávio Bolsonaro (PL) no cenário com 12 candidatos, que não inclui o candidato Pablo Marçal (PRTB), que está inelegível.\nA pesquisa mostra Augusto Cury (Avante) em terceiro, com 8%. Na sequência, Renan Santos (Missão) e Ronaldo Caiado (PSD) com 3%, e Romeu Zema (Novo) com 2%. \nContratada pela Globo e pelo jornal O Globo, a Quaest entrevistou 2.004 pessoas de 16 anos ou mais em todo o país, entre os dias 3 e 6 de setembro. A margem de erro é de dois pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. A pesquisa foi registrada no Tribunal Superior Eleitoral (TSE) sob o número BR-01720/2026.\nVeja, a seguir, as intenções de voto em cada segmento:\nIdentificação política\nRegião\nGênero\nIdade\nEscolaridade\nRenda familiar\nReligião\nCor\nIdentificação política\nQuaest, 1º turno: identificação política\nArte/g1\nVolte ao topo\nRegião\nQuaest, 1º turno: região\nArte/g1\nVolte ao topo\nGênero\nQuaest, 1º turno: gênero\nArte/g1\nVolte ao topo\nIdade\nQuaest, 1º turno: idade\nArte/g1\nVolte ao topo\nEscolaridade\nQuaest, 1º turno: escolaridade\nArte/g1\nVolte ao topo\nRenda familiar\nQuaest, 1º turno: renda\nArte/g1\nVolte ao topo\nReligião\nQuaest, 1º turno: religião\nArte/g1\nVolte ao topo\nCor\nQuaest, 1º turno: cor\nArte/g1\nVolte ao topo\nMais destaques da pesquisa Quaest\nQuaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 29%; Cury, 8%; Renan, 3%; Caiado, 3%; Zema, 2%\nQuaest, 2º turno: Lula, 41%; Flávio Bolsonaro, 41%\nQuaest: 50% desaprovam e 43% aprovam governo Lula\nQuaest: 32% dizem que Lula e PT vencerem é o melhor resultado da eleição presidencial; para 24%, a volta da família Bolsonaro\nUrna eletrônica para votação nas eleições brasileiras\nMarcelo Camargo/Agência Brasil",
+    "published": "2026-09-08T03:00:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Quaest, 1º turno: Lula, 36%; Flávio Bolsonaro, 29%; Cury, 8%; Renan, 3%; Caiado, 3%; Zema, 2%\nPesquisa Datafolha divulgada nesta segunda-feira (7) mostra Lula (PT) com 36% das intenções de voto no 1º turno da eleição presidencial, contra 29% de Flávio Bolsonaro (PL) no cenário co",
     "relevance": 5
   }
 ]
