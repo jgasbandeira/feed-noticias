@@ -1,5 +1,18 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Trump promete dar US$ 5 mil a cada adulto se republicanos mantiverem maioria no Congresso",
+    "link": "https://valor.globo.com/mundo/noticia/2026/09/10/trump-promete-dar-us-5-mil-a-cada-adulto-se-republicanos-mantiverem-maioria-no-congresso.ghtml",
+    "description": "O presidente dos EUA, Donald Trump, afirmou na quarta-feira que pagará a cada adulto americano um \"dividendo de Trump\" de US$ 5 mil caso os republicanos mantenham o controle do Congresso nas eleições de meio de mandato de novembro, em uma tentativa extraordinária de persuadir os eleitores a apoiarem seu partido.\n\nTrump apresentou a proposta na primeira convenção de meio de mandato da história do Partido Republicano, embora não tenha ficado imediatamente claro como os pagamentos funcionariam ou se seriam legais. Com aproximadamente 270 milhões de adultos nos EUA, a ideia custaria cerca de US$ 1,35 trilhão. Durante um discurso em horário nobre que durou uma hora e 45 minutos, Trump gabou-se de completar \"os dois melhores anos da história da presidência\", colocando-se firmemente no centro das eleições, apesar de sua impopularidade crescente.\n\nNo entanto, não ficou claro se seu discurso com tom de campanha atrairá os eleitores independentes cruciais que, segundo pesquisas de opinião, se distanciaram do partido de Trump, em meio à insatisfação com o custo de vida e a guerra contra o Irã. \"Entregamos o futuro da América aos democratas da esquerda radical, e nossa nação passará a próxima década apenas se recuperando\", declarou.\n\nO evento de dois dias em Dallas, onde Trump também fará o encerramento na quinta-feira após o discurso principal do vice-presidente JD Vance, sublinha o quanto a sorte dos republicanos está atrelada a Trump e serve de vitrine para sua estratégia antes das eleições de 3 de novembro. A ênfase no risco político é alta: pesquisas mostram os índices de aprovação de Trump em mínimas históricas e eleitores democratas mais motivados para votar.\n\nEnquanto oficiais republicanos tentavam destacar as políticas econômicas do partido e atacar os democratas como \"socialistas\" e \"comunistas\", tópicos prementes como a guerra com o Irã e a inflação dominaram as preocupações dos eleitores. Trump defendeu os ataques a Teerã para impedir armas nucleares e prometeu que os preços do petróleo cairão assim que o conflito terminar, embora analistas apontem que a guerra de mais de seis meses mostra poucos sinais de encerramento.",
+    "published": "2026-09-10T04:38:15+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O presidente dos EUA, Donald Trump, afirmou na quarta-feira que pagará a cada adulto americano um \"dividendo de Trump\" de US$ 5 mil caso os republicanos mantenham o controle do Congresso nas eleições de meio de mandato de novembro, em uma tentativa extraordinária de persuadir os ",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Suspeitos de assassinato de candidato à presidência do Equador serão extraditados para os EUA",
     "link": "https://oglobo.globo.com/mundo/noticia/2026/09/10/suspeitos-de-assassinato-de-candidato-a-presidencia-do-equador-serao-extraditados-para-os-eua.ghtml",
@@ -606,6 +619,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/economia/noticia/2026/09/09/petrobras-aumento-de-r-019-na-gasolina-entenda.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/empresas/noticia/2026/09/09/petrobras-aumenta-preo-da-gasolina-aps-novo-subsdio.ghtml"
       }
     ]
   },
@@ -4045,18 +4062,6 @@
       "Politica"
     ],
     "summary": "O primeiro-ministro da Alemanha, Friedrich Merz, acusou nesta quarta-feira a Alternativa para a Alemanha (AfD) de apoiar a Rússia em detrimento dos interesses alemães e de defender políticas antimigração que equivaleriam a uma “limpeza étnica”.\nLeia também:\nVitória da ultradireit",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Meio/Ideia: Lula é desaprovado por 48% dos eleitores; 46% aprovam o presidente",
-    "link": "https://www.infomoney.com.br/politica/meio-ideia-lula-e-desaprovado-por-48-dos-eleitores-46-aprovam-o-presidente/",
-    "description": "Imagem do presidente oscilou dentro da margem de erro, reforçando a estabilidade a um mês da eleição\nThe post Meio/Ideia: Lula é desaprovado por 48% dos eleitores; 46% aprovam o presidente appeared first on InfoMoney.",
-    "published": "2026-09-09T12:15:07+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Imagem do presidente oscilou dentro da margem de erro, reforçando a estabilidade a um mês da eleição\nThe post Meio/Ideia: Lula é desaprovado por 48% dos eleitores; 46% aprovam o presidente appeared first on InfoMoney.",
     "relevance": 5
   }
 ]
