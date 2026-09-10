@@ -1,5 +1,17 @@
 [
   {
+    "source": "O Globo",
+    "title": "Suspeitos de assassinato de candidato à presidência do Equador serão extraditados para os EUA",
+    "link": "https://oglobo.globo.com/mundo/noticia/2026/09/10/suspeitos-de-assassinato-de-candidato-a-presidencia-do-equador-serao-extraditados-para-os-eua.ghtml",
+    "description": "Um ex-policial e um ex-empresário equatorianos, supostamente envolvidos no assassinato do candidato à presidência Fernando Villavicencio em 2023, serão extraditados para os Estados Unidos, anunciou a Procuradoria-Geral da República nesta quarta-feira. Daniel Salcedo e o ex-agente de inteligência identificado como R.P.H.R. fazem parte da investigação sobre os mentores do assassinato de Villavicencio.\nRelembre: Quem é Fernando Villavicencio? Quem o matou? Veja perguntas e respostas sobre o assassinato do presidenciável no Equador\nLeia mais: Assassinato de candidato à Presidência do Equador foi planejado na prisão pela gangue Los Lobos, diz promotora\nO então candidato foi morto a tiros por um pistoleiro colombiano ao sair de um comício em Quito, uma semana antes das eleições antecipadas de agosto de 2023. Cinco pessoas já foram condenadas a penas de até 34 anos de prisão pelo crime.\nEm depoimento pré-julgamento, R.P.H.R. detalhou a vigilância que realizou sobre o candidato à presidência, supostamente a pedido do ex-ministro José Serrano, que está atualmente preso no Equador após ser deportado dos Estados Unidos. A Procuradoria-Geral da República acusa Serrano de planejar o assassinato.\nCandidato à presidência do Equador é assassinado em Quito\nNesta quarta-feira, segundo a Procuradoria, o ex-policial \"consentiu com o pedido das autoridades americanas\" para ser extraditado, assim como Salcedo, um empresário que cumpre pena por corrupção na venda de suprimentos hospitalares e com ligações com o narcotráfico. O processo de extradição levará aproximadamente 30 dias.\nTambém estão sob investigação o empresário Xavier Jordán, residente nos Estados Unidos, e o ex-parlamentar Ronny Aleaga, que, assim como Serrano, é um apoiador do ex-presidente de esquerda Rafael Correa (2007-2017), duramente criticado por Villavicencio, um jornalista investigativo que deixou seu cargo na Assembleia Nacional para se candidatar à presidência.\nUm colombiano que realizou o atentado foi morto pelos seguranças do candidato à presidência. Outros seis homens da mesma nacionalidade, supostamente ligados à tentativa de assassinato, foram mortos na prisão. Após o crime, os Estados Unidos ofereceram uma recompensa de até cinco milhões de dólares para encontrar os responsáveis.",
+    "published": "2026-09-10T03:50:57+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Um ex-policial e um ex-empresário equatorianos, supostamente envolvidos no assassinato do candidato à presidência Fernando Villavicencio em 2023, serão extraditados para os Estados Unidos, anunciou a Procuradoria-Geral da República nesta quarta-feira. Daniel Salcedo e o ex-agente",
+    "relevance": 5
+  },
+  {
     "source": "Brazil Journal",
     "title": "O México abriu sua economia. Por que não ficou rico?",
     "link": "https://braziljournal.com/o-mexico-abriu-sua-economia-por-que-nao-ficou-rico/",
@@ -338,7 +350,13 @@
       "Politica"
     ],
     "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, tomou uma série de decisões nesta quarta-feira para tentar contornar a crise institucional enfrentada pelos ministros da Corte. Entre as determinações, Fachin suspendeu novas investigações contra ministros do Supremo s",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/09/10/mendonca-moraes-dino-e-fachin-o-stf-em-rota-de-colisao-o-assunto-1801.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -1056,6 +1074,19 @@
     "relevance": 5
   },
   {
+    "source": "Valor Econômico",
+    "title": "Ibovespa fecha em forte queda e dólar e juros avançam em meio à disparada do petróleo",
+    "link": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
+    "description": "Ibovespa fecha em forte queda e dólar e juros avançam em meio à disparada do petróleo Cenário eleitoral no Brasil fica em segundo plano diante de receios inflacionários por conta da escalada da commodity Bolsas de NY caem com petróleo acima de US$ 101 e avanço dos juros longos. Juros futuros têm forte alta em dia de pressão externa e realização de lucros. Dólar avança e real é pior entre 33 moedas com ajustes e cenário externo adverso. Ibovespa cede 0,9% com piora da aversão a risco e queda de blue chips. Petróleo supera US$ 101 com conflito entre EUA e Irã; bolsas de NY caem e juros sobem",
+    "published": "2026-09-09T21:33:44+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Ibovespa fecha em forte queda e dólar e juros avançam em meio à disparada do petróleo Cenário eleitoral no Brasil fica em segundo plano diante de receios inflacionários por conta da escalada da commodity Bolsas de NY caem com petróleo acima de US$ 101 e avanço dos juros longos. J",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "AGU é quem prestará informações sobre Andrei Rodrigues a Fachin",
     "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/09/agu-e-quem-prestara-informacoes-sobre-andrei-rodrigues-a-fachin.ghtml",
@@ -1094,18 +1125,6 @@
     "relevance": 5
   },
   {
-    "source": "O Globo",
-    "title": "Alexandre de Moraes sai perdendo mais que Mendonça com pacote de decisões de Fachin",
-    "link": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/09/alexandre-de-moraes-sai-perdendo-mais-que-mendonca-com-pacote-de-decisoes-de-fachin.ghtml",
-    "description": "O “pacote” de decisões anunciado nesta quarta-feira (9) pelo presidente do Supremo Tribunal Federal (STF), Edson Fachin, marca dois duros reveses ao ministro Alexandre de Moraes, que não só perdeu a relatoria do inquérito das fake news, como se viu confrontado com o agendamento do julgamento na próxima terça-feira (15) que vai analisar o explosivo relatório da Polícia Federal que se debruçou sobre as mensagens trocadas entre Moraes e o dono do Banco Master, Daniel Vorcaro.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-09-09T21:11:12+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O “pacote” de decisões anunciado nesta quarta-feira (9) pelo presidente do Supremo Tribunal Federal (STF), Edson Fachin, marca dois duros reveses ao ministro Alexandre de Moraes, que não só perdeu a relatoria do inquérito das fake news, como se viu confrontado com o agendamento d",
-    "relevance": 5
-  },
-  {
     "source": "Poder360",
     "title": "Políticos cobram fim do sigilo de caso Banco Master e INSS",
     "link": "https://www.poder360.com.br/poder-justica/politicos-cobram-fim-do-sigilo-de-caso-banco-master-e-inss/",
@@ -1127,18 +1146,6 @@
       "Politica"
     ],
     "summary": "O ministro Edson Fachin assume, com as decisões tomadas hoje, o poder da Presidência do STF. A mais importante das decisões desta quarta-feira foi ele ter assumirdoa condução do inquérito das fake news. Fachin estabeleceu que o “estoque” do processo será mantido com Alexandre de ",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "STF: Fachin convoca plenário para decidir futuro de apuração sobre Moraes",
-    "link": "https://www.infomoney.com.br/politica/fachin-convoca-plenario-para-decidir-destino-de-apuracao-sobre-moraes/",
-    "description": "Ministros analisarão no dia 15 a validade do relatório da PF, o pedido da PGR para anular a apuração e a eventual abertura de uma investigação contra Alexandre de Moraes\nThe post STF: Fachin convoca plenário para decidir futuro de apuração sobre Moraes appeared first on InfoMoney.",
-    "published": "2026-09-09T20:56:03+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Ministros analisarão no dia 15 a validade do relatório da PF, o pedido da PGR para anular a apuração e a eventual abertura de uma investigação contra Alexandre de Moraes\nThe post STF: Fachin convoca plenário para decidir futuro de apuração sobre Moraes appeared first on InfoMoney",
     "relevance": 5
   },
   {
@@ -1383,6 +1390,28 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/politica/noticia/2026/09/09/entenda-o-inquerito-das-fake-news-que-sai-das-maos-de-moraes-apos-sete-anos-e-sera-relatado-por-fachin.ghtml"
+      }
+    ]
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Fachin convoca plenário do STF para analisar decisão de Mendonça sobre suposta relação de Moraes com Vorcaro",
+    "link": "https://g1.globo.com/politica/noticia/2026/09/09/fachin-convoca-plenario-do-stf-para-analisar-decisao-de-mendonca-sobre-suposta-relacao-de-moraes-com-vorcaro.ghtml",
+    "description": "Edson Fachin na abertura dos trabalhos do segundo semestre no STF\nGustavo Moreno/STF\nO presidente do Supremo Tribunal Federal (STF), Edson Fachin, convocou o plenário da Corte para discutir na próxima terça-feira (15) o relatório da Polícia Federal (PF) que apontou uma suposta relação entre o ministro Alexandre de Moraes e o ex-banqueiro preso Daniel Vorcaro.\nNa sessão, os ministros vão discutir a validade do documento da PF feito a pedido do ministro André Mendonça. O documento sofreu críticas de alguns ministros da Corte. Na avaliação deles, Mendonça pediu para investigar um colega sem autorização do plenário. \nOutras decisões de Fachin nesta quarta-feira (9):\nsuspendeu a decisão de Mendonça de afastar o diretor-geral da Polícia Federal (PF), Andrei Rodrigues, e o diretor de Inteligência, Leandro Almada;\nsuspendeu a decisão de Flávio Dino que os reintegrou aos cargos;\nassumiu a relatoria do inquérito das Fake News, que estava sob comando de Moraes.\nNa sessão do dia 15, os ministros também vão decidir sobre o pedido de nulidade da Procuradoria-Geral da República (PGR) e devem definir se será aberta ou arquivada investigação contra Moraes.  \nA PGR argumentou que Mendonça não deveria ter solicitado apuração sobre o destinatário das mensagens do ex-banqueiro, sem um pedido do Ministério Público ou da própria PF, e também que a competência para decidir sobre a eventual apuração envolvendo Moraes é do plenário do STF. \n\nNa manifestação, a PGR não disse, entretanto, se as condutas apontadas pela PF poderiam representar indícios de crimes ou não.\nA crise no STF envolvendo Mendonça e Moraes começou a partir de decisões nas investigações sobre o Banco Master. Envolveu também o procurador-geral da República, Paulo Gonet, o diretor-geral da Polícia Federal, Andrei Rodrigues, e, posteriormente, o ministro Flávio Dino.\n🔎 Mendonça é relator de apurações relacionadas ao banco e de um inquérito sobre repasses para a produção de um filme sobre a trajetória do ex-presidente Jair Bolsonaro (PL).\nDiálogos no celular de Vorcaro\nAs conversas de Vorcaro com interlocutores ocorreram por meio do aplicativo WhatsApp entre março de 2024 e agosto de 2025. O celular do ex-banqueiro foi apreendido pela PF na Operação Compliance Zero.\nO relatório da PF se tornou público na terça-feira (1º) após Mendonça retirar o sigilo do documento. \nOs registros estavam em um capítulo do relatório da PF dedicado a \"outros encontros entre DANIEL VORCARO e ALEXANDRE DE MORAES\", parte de um inquérito policial que investiga as relações e a atuação do banqueiro.\nO documento apresentava 52 mensagens enviadas por Vorcaro a Moraes. Como o material foi produzido a partir de dados extraídos do celular de Vorcaro, as respostas do ministro não apareciam no relatório.",
+    "published": "2026-09-09T20:20:09+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Edson Fachin na abertura dos trabalhos do segundo semestre no STF\nGustavo Moreno/STF\nO presidente do Supremo Tribunal Federal (STF), Edson Fachin, convocou o plenário da Corte para discutir na próxima terça-feira (15) o relatório da Polícia Federal (PF) que apontou uma suposta re",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/politica/fachin-convoca-plenario-para-decidir-destino-de-apuracao-sobre-moraes/"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/09/alexandre-de-moraes-sai-perdendo-mais-que-mendonca-com-pacote-de-decisoes-de-fachin.ghtml"
       }
     ]
   },
@@ -4028,20 +4057,6 @@
       "Politica"
     ],
     "summary": "Imagem do presidente oscilou dentro da margem de erro, reforçando a estabilidade a um mês da eleição\nThe post Meio/Ideia: Lula é desaprovado por 48% dos eleitores; 46% aprovam o presidente appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Clientes voltaram ao Starbucks; agora, investidores querem margens maiores",
-    "link": "https://valor.globo.com/empresas/noticia/2026/09/09/clientes-voltaram-ao-starbucks-agora-investidores-querem-margens-maiores.ghtml",
-    "description": "Os primeiros dois anos de Brian Niccol à frente dos cafés Starbucks foram um sucesso relativo, uma vez que o foco em melhorias nas lojas e em marketing trouxe os clientes de volta à maior rede de cafeterias do mundo. A estratégia de reestruturação “Back to Starbucks”, no entanto, elevou os custos e pressionou as margens.\n\nPara Niccol, que completa dois anos como diretor-presidente nesta quarta-feira, os próximos dois anos poderão determinar se ele conseguirá transformar essa recuperação nos lucros sustentáveis exigidos pelos investidores.\n\nO Starbucks havia registrado três trimestres consecutivos de queda nas vendas comparáveis quando Niccol assumiu o comando, em setembro de 2024, evidenciando a insatisfação dos clientes com os longos tempos de espera, as promoções que não tiveram o resultado esperado e um cardápio complicado.\n\nAs quedas continuariam por mais três trimestres antes que as vendas começassem a se recuperar, com alta de 7,9% no terceiro trimestre fiscal, encerrado em 28 de junho, marcando o quarto trimestre consecutivo de melhora.\n\nEm vez de priorizar as margens de curto prazo, Niccol tem enfatizado a satisfação dos clientes, uma filosofia que fundamentou a decisão do Starbucks de gastar centenas de milhões de dólares na contratação de funcionários adicionais para reduzir os tempos de espera e em melhorias nas lojas destinadas a restaurar o ambiente de cafeteria que ajudou a transformar o Starbucks em uma marca global.\n\nA estratégia remete ao método adotado por Niccol em seu emprego anterior como diretor-presidente da Chipotle Mexican Grill. Lá, ele reconheceu as deficiências da rede e recuperou as vendas após a crise de segurança alimentar, reforçando sua reputação como um executivo focado na marca.\n\nSob sua liderança, o Starbucks também intensificou os esforços de marketing, como a recente inserção de produtos da empresa no filme “O diabo veste Prada 2”.\n\nAs ações dispararam 24% no dia em que a contratação de Niccol foi anunciada. Desde então, acumulam alta de 30%, abaixo do avanço de aproximadamente 40% do índice S&amp;P 500, mas com desempenho melhor do que as quedas registradas por concorrentes como McDonald’s e Chipotle no mesmo período.\n\n“É possível analisar todos os tipos de indicadores das ações, mas, se o cliente não estiver satisfeito, isso não é relevante”, disse Jake Dollarhide, diretor-presidente da Longbow Asset Management, investidora do Starbucks.\n\nDollarhide afirmou que ainda estava cético quanto à recuperação há apenas seis meses, mas foi convencido pelas melhorias no tempo de atendimento.\n\nEsses avanços, no entanto, tiveram um custo. O Starbucks gastou pelo menos US$ 500 milhões em investimentos em mão de obra como parte da reestruturação, contribuindo para a queda da margem operacional após Niccol assumir o comando.\n\nNo terceiro trimestre fiscal, a margem operacional ficou em 12,9%, abaixo dos 15,8% registrados no mesmo trimestre dois anos antes, segundo dados da LSEG.\n\nA queda foi mais acentuada na América do Norte — seu maior mercado —, onde a margem recuou de 21% para 13,6% nesses períodos.\n\n“Teremos que ver se esses investimentos darão retorno”, disse Brian Jacobsen, estrategista-chefe de economia da Annex Wealth Management.\n\nUm porta-voz do Starbucks afirmou, em comunicado, que os investimentos da recuperação nos funcionários estão “sustentando o impulso contínuo dos negócios”.\n\nNiccol já começou a preparar as bases para a próxima fase, oferecendo aos executivos remuneração em ações vinculada a metas de redução de custos até o ano fiscal de 2027.\n\nO Starbucks fechou centenas de lojas, incluindo sua antes celebrada torrefação em Seattle, e cortou postos de trabalho em seus escritórios corporativos.\n\nNa China, o Starbucks vendeu neste ano o controle de suas operações para reativar o crescimento em um mercado no qual concorrentes de baixo custo, incluindo a Luckin, ganharam participação.\n\nO acordo na China é um exemplo da reestruturação corporativa do Starbucks sob a liderança de Niccol, que deixa a marca “bem posicionada para converter o crescimento orgânico mais forte das vendas em crescimento dos lucros”, disse Jim Sanderson, analista da Northcoast Research.\n\nMas ainda existem desafios significativos. O Starbucks ainda não conseguiu fechar um primeiro contrato de trabalho com o sindicato de seus baristas nos Estados Unidos, que convocou um boicote de consumidores em agosto.\n\nA empresa também enfrentou questionamentos sobre suas relações trabalhistas e abandonou um sistema de inteligência artificial para gestão de estoques que deveria ajudar a resolver problemas persistentes relacionados aos produtos, embora isso não tenha desanimado Wall Street.\n\n“Estou impressionado com a forma como ele assume total responsabilidade por seus erros e não tem medo de mudar de rumo”, disse Dollarhide.\n\nO Starbucks gastou pelo menos US$ 500 milhões em investimentos em mão de obra como parte da reestruturação, contribuindo para a queda da margem operacional após Niccol assumir o comando\nReuters/Mohammad Khursheed/Foto de Arquivo",
-    "published": "2026-09-09T12:14:38+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro",
-      "Asset"
-    ],
-    "summary": "Os primeiros dois anos de Brian Niccol à frente dos cafés Starbucks foram um sucesso relativo, uma vez que o foco em melhorias nas lojas e em marketing trouxe os clientes de volta à maior rede de cafeterias do mundo. A estratégia de reestruturação “Back to Starbucks”, no entanto,",
     "relevance": 5
   }
 ]
