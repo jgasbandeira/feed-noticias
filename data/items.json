@@ -1,5 +1,31 @@
 [
   {
+    "source": "O Globo",
+    "title": "Trump diz que EUA e Canadá provavelmente chegarão a um acordo 'em breve'",
+    "link": "https://oglobo.globo.com/economia/noticia/2026/09/12/trump-diz-que-eua-e-canada-provavelmente-chegarao-a-um-acordo-em-breve.ghtml",
+    "description": "O presidente Donald Trump demonstrou otimismo quanto à possibilidade de encerrar a guerra comercial com o Canadá e afirmou que um acordo entre os dois países pode ser alcançado “em breve”. Ele, no entanto, não deu detalhes sobre uma eventual retomada das negociações formais entre as duas economias.\nTrump foi questionado neste sábado, durante um encontro com o primeiro-ministro irlandês, Micheál Martin, em Dublin, sobre se pretendia retirar os Estados Unidos do Acordo Estados Unidos-México-Canadá (USMCA).\nO presidente americano evitou responder diretamente e afirmou que o Canadá quer chegar a um entendimento com Washington. Segundo Trump, seu objetivo é obter condições melhores para os agricultores americanos.\n— O Canadá precisa tratar melhor os nossos agricultores e não pode cobrar tarifas deles. Eles estão cobrando tarifas de 400% dos nossos agricultores, além de muitas outras coisas. Quando essas medidas forem eliminadas, eles estarão dispostos a acabar com tudo — afirmou Trump. \nEm seguida, acrescentou: \n— Provavelmente veremos um acordo com o Canadá em breve.\nEstados Unidos e Canadá estão envolvidos em uma disputa que se expandiu muito além das tarifas e ameaça romper cadeias de abastecimento transfronteiriças das quais dependem setores importantes, como o automobilístico.\nAs negociações realizadas em agosto para um acordo comercial mais amplo fracassaram na última hora, levando Trump a cumprir a ameaça de impor tarifas de 50% sobre bilhões de dólares em produtos canadenses. \nO primeiro-ministro do Canadá, Mark Carney, reagiu em 8 de setembro com tarifas próprias, atingindo uma série de bens de consumo americanos e elevando de 25% para 50% as tarifas sobre diversos produtos de aço dos Estados Unidos. Trump respondeu com novas medidas contra o Canadá, incluindo a proibição de determinados produtos e o aumento das tarifas sobre outros itens.\nA troca de retaliações transformou uma disputa econômica entre os Estados Unidos e um de seus aliados mais próximos em um confronto mais amplo. Trump tem atacado repetidamente o Canadá, chegando a ameaçar transformar o país no 51º estado americano e a se referir a Carney como um simples “governador”. \nOs comentários alimentaram o sentimento contrário a Trump no Canadá e permitiram que Carney se apresentasse como defensor da soberania canadense. Trump também determinou que, nos mapas americanos, o nome do Lago Ontário fosse alterado para “Lago América”.\nA disputa tem grandes implicações políticas para Trump, cujo Partido Republicano enfrenta dificuldades para manter o controle do Congresso nas eleições legislativas de novembro. A popularidade do presidente está em níveis historicamente baixos, em meio ao descontentamento dos eleitores com sua condução da economia e da guerra com o Irã.\nA guerra comercial com o Canadá também pode agravar a alta dos preços, que se tornou uma das principais preocupações do eleitorado. Republicanos em estados importantes da fronteira, como Michigan, onde haverá uma disputa decisiva pelo Senado, podem sofrer as consequências políticas.\nHá ainda o risco de uma escalada adicional do conflito, sem qualquer indicação clara de quando os dois países poderão retomar as negociações formais. Trump ameaçou suspender as vendas nos Estados Unidos de jatos da canadense Bombardier Inc. e também colocou em dúvida o valor da moeda canadense.",
+    "published": "2026-09-12T11:35:39+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O presidente Donald Trump demonstrou otimismo quanto à possibilidade de encerrar a guerra comercial com o Canadá e afirmou que um acordo entre os dois países pode ser alcançado “em breve”. Ele, no entanto, não deu detalhes sobre uma eventual retomada das negociações formais entre",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Fica mais caro entrar com ação e recurso na Justiça federal, a partir do ano que vem",
+    "link": "https://valor.globo.com/legislacao/noticia/2026/09/12/fica-mais-caro-entrar-com-acao-e-recurso-na-justica-federal-a-partir-do-ano-que-vem.ghtml",
+    "description": "A partir do ano que vem fica mais caro propor ações e recursos na Justiça Federal. O presidente da República Luiz Inácio Lula da Silva sancionou a Lei nº 15.498, de 2026, que aumenta as custas devidas no ajuizamento das ações cíveis e previdenciárias, por exemplo. Advogados criticam a medida, enquanto o Poder Judiciário comemora. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-12T11:30:00+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "A partir do ano que vem fica mais caro propor ações e recursos na Justiça Federal. O presidente da República Luiz Inácio Lula da Silva sancionou a Lei nº 15.498, de 2026, que aumenta as custas devidas no ajuizamento das ações cíveis e previdenciárias, por exemplo. Advogados criti",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Ex-presidente do BRB procurou PGR três dias após prisão para negociar colaboração",
     "link": "https://valor.globo.com/financas/noticia/2026/09/12/ex-presidente-do-brb-procurou-pgr-trs-dias-aps-priso-para-negociar-colaborao.ghtml",
@@ -71,7 +97,13 @@
       "Politica"
     ],
     "summary": "A Polícia Federal (PF) encontrou um contrato firmado por Daniel Vorcaro e uma produtora para a execução de um documentário sobre o escândalo do Banco Master. O documento, obtido durante o cumprimento de um mandado na residência do publicitário Thiago Miranda, um dos nomes vincula",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/09/12/contrato-apreendido-pela-pf-mostra-que-vorcaro-assinou-acordo-na-prisao-para-produzir-documentario-sobre-escandalo-do-master.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -755,7 +787,13 @@
       "Politica"
     ],
     "summary": "A inflação deu um sossego no mês passado. O IPCA, índice oficial, recuou 0,32%, a maior deflação mensal em quatro anos, desde agosto de 2022, informou ontem o IBGE. O resultado foi melhor do que o previsto pelo mercado (-0,28%) e foi puxado por um fato pontual, um desconto na con",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/economia/deflacao-em-agosto-aumenta-apostas-em-mais-uma-reducao-dos-juros-na-semana-que-vem/"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -1636,7 +1674,13 @@
       "Politica"
     ],
     "summary": "Ministro disse ter uma cópia de segurança lacrada dos dados extraídos do aparelho do fundador do Banco Master",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/politica/mendonca-nega-acesso-a-celular-de-vorcaro-e-que-medida-poderia-afetar-investigacao/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3899,36 +3943,6 @@
       "Politica"
     ],
     "summary": "O Fundo Garantidor de Créditos (FGC) alertou o Banco Central em 12 de agosto de 2025 de que havia um limite para sua atuação junto ao Banco Master e frisou que, a partir de determinado momento, prolongar o apoio poderia se tornar desvantajoso em comparação com alternativas de liq",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Candidatos a governador no Ceará (CE): veja a lista completa das eleições 2026",
-    "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/candidatos-a-governador-no-ceara-ce-veja-a-lista-completa-das-eleicoes-2026.ghtml",
-    "description": "O Ceará (CE) tem 9 candidatos a governador registrados para disputar a preferência do eleitor nas eleições 2026, conforme dados do Tribunal Superior Eleitoral (TSE). A votação do primeiro turno acontece no dia 4 de outubro, das 8h às 17h, no horário de Brasília.\nNo Ceará há 6.998.494 eleitores aptos a votar. Caso nenhum candidato alcance mais da metade dos votos válidos, os dois mais votados concorrem juntos no segundo turno, marcado para o dia 25 de outubro. \nAté o início da votação, pode haver mudanças nas listas dos candidatos, com indeferimento de candidaturas por diversas razões. As situações de candidatura possíveis são:\nAguardando julgamento: Candidatura cujo o pedido ainda não foi apreciado pela Justiça Eleitoral\nCancelado em prazo recursal ou com recurso: Candidatura cujo registro foi cancelado pelo partido; no entanto, há recurso interposto contra essa decisão e aguarda julgamento por instância superior\nDeferido: Candidatura regular, com dados e documentação completos, que atendeu aos requisitos para concorrer e cujo pedido já foi julgado pela Justiça Eleitoral\nDeferido com recurso: Candidatura regular e com pedido de registro julgado deferido; no entanto, há recurso interposto contra essa decisão e aguarda julgamento por instância superior\nIndeferido em prazo recursal ou com recurso: Candidatura não regular e com pedido de registro julgado indeferido; no entanto, há recurso interposto contra essa decisão e aguarda julgamento por instância superior\nPedido não conhecido em prazo recursal ou com recurso: Candidatura cujo pedido de registro não foi conhecido por não ter preenchido os requisitos mínimos para ser admitido à apreciação; no entanto há recurso interposto contra essa decisão e aguarda julgamento por instância superior \nPendente de julgamento: Candidatura cujo pedido inicial ainda não foi apreciado pela Justiça Eleitoral, inclusive em decorrência de substituição da candidatura ou anulação de convenção, mas concorre ao pleito e consta da urna eletrônica\nCancelado: Candidatura cujo registro foi cancelado pelo partido\nIndeferido: Candidatura que não reuniu as condições necessárias para o deferimento do pedido de registro ou que está vinculado a DRAP (partido, federação ou coligação) indeferido, com pedido já julgado pela Justiça Eleitoral\nFalecido: Candidatura com registro cancelado pela Justiça Eleitoral logo após a comprovação do falecimento\nPedido não conhecido: Pedido de registro que não preenche os requisitos mínimos para ser admitido à apreciação, conforme decisão já proferida pela Justiça Eleitoral\nRenúncia: Candidatura para a qual foi apresentada desistência e cuja renúncia já se encontra homologada pela Justiça Eleitoral \nVeja abaixo a lista de todos os candidatos com os nomes, seus vices, partidos, números de urna e situação das candidaturas: \nLista de candidatos a governador no Ceará",
-    "published": "2026-09-11T16:08:09+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O Ceará (CE) tem 9 candidatos a governador registrados para disputar a preferência do eleitor nas eleições 2026, conforme dados do Tribunal Superior Eleitoral (TSE). A votação do primeiro turno acontece no dia 4 de outubro, das 8h às 17h, no horário de Brasília.\nNo Ceará há 6.998",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "G1 - Política",
-        "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-veja-como-foi-a-agenda-de-candidatos-ao-governo-de-goias-nesta-sexta-feira-11.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "O Globo",
-    "title": "Após Moraes apontar seletividade de Mendonça, Zanin pede a Fachin acesso a íntegra de mensagens de Vorcaro apreendidas pela PF",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/09/11/apos-moraes-apontar-seletividade-de-mendonca-zanin-pede-a-fachin-acesso-a-integra-de-mensagens-de-vorcaro-apreendidas-pela-pf.ghtml",
-    "description": "O ministro Cristiano Zanin, do Supremo Tribunal Federal, pediu ao presidente da Corte, Edson Fachin, acesso à íntegra do conteúdo do celular do ex-banqueiro Daniel Vorcaro, que contém as mensagens do ex-dono do Banco Master que devem ser analisadas durante julgamento na próxima terça-feira. Os dados foram extraídos de um iPhone 17 Pro apreendido na primeira fase da Operação Compliance Zero e que, segundo o documento, encontra-se à disposição do gabinete do ministro André Mendonça.\nO pedido consta de ofício encaminhado a Fachin nesta sexta-feira, logo após o presidente do STF também ser acionado pelo ministro Alexandre de Moraes. No centro do julgamento da próxima semana, Moraes defendeu que o Plenário não só discuta as mensagens que lhe foram enviadas por Vorcaro, mas também os relatórios de inteligência da Polícia Federal que atribuem a André Mendonça suposta \"parcialidade\" na condução do caso Master.\nNo mesmo documento, Moraes ainda acusa Mendonça de ter feito uma seleção do material que teve o sigilo retirado na noite de quinta-feira e afirma que 180 documentos relacionados às investigações que tiveram o sigilo derrubado permaneceram sem publicidade.\nAo presidente da Corte, Zanin sustentou que, em sua avaliação, os dados do celular de Vorcaro tem de ser públicos porque já estão abrangidos pela derrubada do sigilo das informações e procedimentos que estão relacionados, de alguma forma, à petição que será analisada na próxima terça-feira, no plenário do STF. Este procedimento foi aberto por Mendonça justamente a partir das mensagens encontradas no celular do ex-banqueiro.\nSegundo Zanin, a obtenção da íntegra do celular de Vorcaro visa permitir a \"apreciação completa e necessária\" do parecer emitido pela Procuradoria-Geral da República sobre o relatório que identificou Moraes como interlocutor de Vorcaro. O chefe do Ministério Púlico Federal, Paulo Gonet, defendeu a anulação do documento, sob o argumento de que Mendonça não poderia ter determinado, sozinho, a elaboração do mesmo.",
-    "published": "2026-09-11T16:08:01+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O ministro Cristiano Zanin, do Supremo Tribunal Federal, pediu ao presidente da Corte, Edson Fachin, acesso à íntegra do conteúdo do celular do ex-banqueiro Daniel Vorcaro, que contém as mensagens do ex-dono do Banco Master que devem ser analisadas durante julgamento na próxima t",
     "relevance": 5
   }
 ]
