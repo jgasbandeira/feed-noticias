@@ -1735,7 +1735,13 @@
       "Politica"
     ],
     "summary": "Presidente Luiz Inácio Lula da Silva em ato de campanha no centro de Porto Alegre\nFernanda Canofre/Valor\nEm ato de campanha no centro de Porto Alegre, nesta sexta (11), o presidente Luiz Inácio Lula da Silva (PT) mandou recado ao presidente dos Estados Unidos, Donald Trump, sobre",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/politica/lula-trump-sabe-que-eu-ja-falei-para-ele-nao-se-meter-nas-eleicoes-do-brasil/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3964,6 +3970,12 @@
       "Politica"
     ],
     "summary": "O Mato Grosso (MT) tem 7 candidatos a governador registrados para disputar a preferência do eleitor nas eleições 2026, conforme dados do Tribunal Superior Eleitoral (TSE). A votação do primeiro turno acontece no dia 4 de outubro, das 8h às 17h, no horário de Brasília.\nNo Mato Gro",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-veja-como-foi-a-agenda-de-candidatos-ao-governo-de-goias-nesta-sexta-feira-11.ghtml"
+      }
+    ]
   }
 ]
