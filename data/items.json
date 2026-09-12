@@ -1,5 +1,17 @@
 [
   {
+    "source": "O Globo",
+    "title": "Correios vão ao TST contra greve de trabalhadores",
+    "link": "https://oglobo.globo.com/economia/noticia/2026/09/11/correios-vao-ao-tst-contra-greve-de-trabalhadores.ghtml",
+    "description": "A direção dos Correios entrou com pedido de dissídio coletivo para que o Tribunal Superior do Trabalho (TST) declare a greve dos funcionários da estatal como abusiva e determine a continuidade dos serviços, com urgência. A greve da categoria foi deflagrada na  quinta-feira à noite devido à falta de acordo sobre o reajuste salarial. \nComo o TST já vinha fazendo tentativas de mediar o acordo, sem êxito, o aumento salarial e as cláusulas sociais serão arbitradas pela corte. \nEm meio à negociação com um grupo de  bancos para obter um empréstimo de R$ 7 bilhões, a direção dos Correios teme que a paralisação afete a qualidade do serviço e os planos da empresa. O empréstimo faz parte do processo de reestruturação da estatal e deve contar com garantia do Tesouro Nacional.\nOs Correios comunicaram que reforçaram a operação para manter os serviços em todo o país e reduzir eventuais impactos da paralisação. \nSegundo a estatal, a rede de atendimento permanece aberta ao público. Entre as medidas adotadas está a mobilização de empregados administrativos para apoio às atividades operacionais, o remanejamento de veículos e a realização de mutirões para preservar o fluxo logístico.\n\"A empresa ressalta, no entanto, que a paralisação ocorre em um momento especialmente sensível.  empresa segue diante de uma situação econômico-financeira desafiadora e mantém o foco na redução de despesas, no aumento da eficiência, na modernização da operação e na geração de novas receitas\", diz a estatal em nota. \nPara situações específicas, os clientes podem entrar em contato pelos telefones 4003-8210 e 0800-881-8210 ou utilizar os canais digitais de atendimento, informou a empresa. \nSegundo representantes do movimento sindical, houve avanço em relação ao reajuste salarial de 4,35% a contar de agosto deste ano, mas o impasse se mantém em relação a outras reivindicações da categoria, sobretudo, o plano de saúde.",
+    "published": "2026-09-11T23:55:08+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "A direção dos Correios entrou com pedido de dissídio coletivo para que o Tribunal Superior do Trabalho (TST) declare a greve dos funcionários da estatal como abusiva e determine a continuidade dos serviços, com urgência. A greve da categoria foi deflagrada na  quinta-feira à noit",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Correção: Fundo acionista da Oncoclínicas, Josephina entra com pedido de arbitragem contra Latache sobre obrigatoriedade de OPA",
     "link": "https://valor.globo.com/empresas/noticia/2026/09/11/correcao-fundo-acionista-da-oncoclinicas-josephina-entra-com-pedido-de-arbitragem-contra-latache-sobre-obrigatoriedade-de-opa.ghtml",
@@ -84,7 +96,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O ministro André Mendonça, do Suprempo Tribunal Federal (STF), decidiu nesta sexta-feira derrubar o sigilo de casos com grande repercussão política derivados do escândalo do Master.  Após pedido da Procuradoria-Geral da República (PGR), o magistrado decidiu tornar disponíveis inv",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/mendonca-derruba-sigilo-de-processos-sobre-dark-horse-ciro-e-castro/"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
@@ -595,7 +613,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O líder da oposição no Senado e coordenador da campanha de Flávio Bolsonaro (PL) à Presidência, Rogério Marinho (PL-RN), pediu nesta sexta-feira (11) para o presidente do Supremo Tribunal Federal (STF), Edson Fachin, que torne públicos os inquéritos conhecidos como das \"Fake News",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/coordenador-de-flvio-pede-a-fachin-fim-do-sigilo-dos-inquritos-das-fake-news-e-das-fraudes-no-inss.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3069,7 +3093,13 @@
       "Politica"
     ],
     "summary": "A Bahia (BA) tem 7 candidatos a governador registrados para disputar a preferência do eleitor nas eleições 2026, conforme dados do Tribunal Superior Eleitoral (TSE). A votação do primeiro turno acontece no dia 4 de outubro, das 8h às 17h, no horário de Brasília.\nNa Bahia há 11.32",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-veja-como-foi-a-agenda-de-candidatos-ao-governo-de-goias-nesta-sexta-feira-11.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3978,18 +4008,6 @@
       "Politica"
     ],
     "summary": "A campanha do presidente Luiz Inácio Lula da Silva (PT) montou uma força-tarefa para analisar os documentos do caso Banco Master que tiveram o sigilo retirado pelo Supremo Tribunal Federal (STF) e deve incluir novos ataques a Flávio Bolsonaro (PL) no horário eleitoral deste sábad",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Bitcoin opera perto da estabilidade, em US$ 77 mil, após inflação acelerar nos EUA",
-    "link": "https://valor.globo.com/financas/criptomoedas/noticia/2026/09/11/bitcoin-opera-perto-da-estabilidade-em-us-77-mil-apos-inflacao-acelerar-nos-eua.ghtml",
-    "description": "O bitcoin opera próximo da estabilidade nesta sexta-feira (11), na região dos US$ 77 mil, mesmo após a inflação ao consumidor dos Estados Unidos acelerar em agosto e manter no radar uma alta de juros pelo Federal Reserve (Fed) na próxima semana.\n\nPor volta das 10h50, o bitcoin avançava 0,1% em 24 horas, a US$ 77.866,76, segundo o CoinGecko. No Brasil, a criptomoeda era negociada a R$ 397.501,21, com alta de 0,12%, de acordo com o CoinTrader Monitor.\n\nA demanda institucional perdeu força nesta semana. Segundo dados citados pela Bitget, os ETFs à vista de bitcoin nos Estados Unidos acumulavam cerca de US$ 500 milhões em saídas líquidas até quinta-feira, depois de três semanas consecutivas de entradas.\n\nEntre as principais altcoins, o ether subia 1,8%, a US$ 2.525,89, enquanto a BNB avançava 0,9%, a US$ 722,04. A solana ganhava 0,4%, a US$ 101,87, e o XRP recuava 0,9%, a US$ 1,37.",
-    "published": "2026-09-11T14:00:17+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O bitcoin opera próximo da estabilidade nesta sexta-feira (11), na região dos US$ 77 mil, mesmo após a inflação ao consumidor dos Estados Unidos acelerar em agosto e manter no radar uma alta de juros pelo Federal Reserve (Fed) na próxima semana.\n\nPor volta das 10h50, o bitcoin av",
     "relevance": 5
   }
 ]
