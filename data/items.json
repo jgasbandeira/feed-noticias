@@ -1,5 +1,78 @@
 [
   {
+    "source": "Poder360",
+    "title": "STF decidirá se crise humanitária dispensa visto para reunião familiar",
+    "link": "https://www.poder360.com.br/poder-justica/stf-decidira-se-crise-humanitaria-dispensa-visto-para-reuniao-familiar/",
+    "description": "Tribunal reconheceu repercussão geral da matéria; caso concreto envolve uma família de haitianos",
+    "published": "2026-09-12T12:54:56+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Tribunal reconheceu repercussão geral da matéria; caso concreto envolve uma família de haitianos",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Com petróleo em alta, BRICS têm o que os EUA não têm: o Irã à mesa de negociações",
+    "link": "https://www.infomoney.com.br/business/global/com-petroleo-em-alta-brics-tem-o-que-os-eua-nao-tem-o-ira-a-mesa-de-negociacoes/",
+    "description": "O primeiro-ministro indiano, Narendra Modi, está sediando o clube BRICS — nomeado em homenagem aos seus membros fundadores: Brasil, Rússia, Índia, China e África do Sul — que foi concebido como um contrapeso ao Ocidente\nThe post Com petróleo em alta, BRICS têm o que os EUA não têm: o Irã à mesa de negociações appeared first on InfoMoney.",
+    "published": "2026-09-12T12:49:59+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O primeiro-ministro indiano, Narendra Modi, está sediando o clube BRICS — nomeado em homenagem aos seus membros fundadores: Brasil, Rússia, Índia, China e África do Sul — que foi concebido como um contrapeso ao Ocidente\nThe post Com petróleo em alta, BRICS têm o que os EUA não tê",
+    "relevance": 5
+  },
+  {
+    "source": "CNBC",
+    "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+    "link": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+    "description": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
+    "published": "2026-09-12T12:49:15+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "In August, consumer prices rose 3.4% over the past year while wages increased just 3.1%.",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Mendonça levanta sigilo de quase 40 processos no STF",
+    "link": "https://www.poder360.com.br/poder-justica/mendonca-levanta-sigilo-de-quase-40-processos-no-stf/",
+    "description": "Entre os procedimentos estão investigações e petições relacionadas a políticos e apurações conduzidas pela Corte",
+    "published": "2026-09-12T12:45:57+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Entre os procedimentos estão investigações e petições relacionadas a políticos e apurações conduzidas pela Corte",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Extrema direita da Suécia surfa na onda nacionalista europeia e pode chegar ao governo",
+    "link": "https://valor.globo.com/mundo/noticia/2026/09/12/extrema-direita-da-suecia-surfa-na-onda-nacionalista-europeia-e-pode-chegar-ao-governo.ghtml",
+    "description": "A Suécia pode ver, pela primeira vez, um partido com raízes neonazistas entrar no governo após as eleições de domingo, em um momento decisivo para a conquista de um papel formal no Executivo depois de anos remodelando, de fora do poder, o debate sobre imigração e criminalidade. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-12T12:30:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A Suécia pode ver, pela primeira vez, um partido com raízes neonazistas entrar no governo após as eleições de domingo, em um momento decisivo para a conquista de um papel formal no Executivo depois de anos remodelando, de fora do poder, o debate sobre imigração e criminalidade. M",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Na Faria Lima, caso Master sugere que a volatilidade eleitoral mal começou",
+    "link": "https://valor.globo.com/financas/intraday/post/2026/09/na-faria-lima-caso-master-sugere-que-a-volatilidade-eleitoral-mal-comecou.ghtml",
+    "description": "O rali dos ativos domésticos, apoiado na percepção de que as chances de vitória de Flávio Bolsonaro (PL) na eleição presidencial aumentaram, deixou para trás a ideia inicial de que o pleito já estava embutido nos preços. A dinâmica dos mercados na sessão de sexta-feira, porém, dá pistas de que a volatilidade à frente pode aumentar, diante da correção leve registrada por bolsa, juros e câmbio após a determinação do presidente do Supremo Tribunal Federal (STF), Edson Fachin, de que o sigilo de todo o caso Master fosse retirado. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-12T12:27:58+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O rali dos ativos domésticos, apoiado na percepção de que as chances de vitória de Flávio Bolsonaro (PL) na eleição presidencial aumentaram, deixou para trás a ideia inicial de que o pleito já estava embutido nos preços. A dinâmica dos mercados na sessão de sexta-feira, porém, dá",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Líderes do BRICS se reúnem na Índia em meio a guerras e tensões com os EUA",
     "link": "https://www.infomoney.com.br/mundo/lideres-do-brics-se-reunem-na-india-em-meio-a-guerras-e-tensoes-com-os-eua/",
@@ -9,6 +82,31 @@
       "Politica"
     ],
     "summary": "O primeiro-ministro indiano Narendra Modi está hospedando o presidente russo Vladimir Putin, o presidente chinês Xi Jinping, o presidente iraniano Masoud Pezeshkian e colegas dos outros oito membros do BRICS\nThe post Líderes do BRICS se reúnem na Índia em meio a guerras e tensões",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Caso Cão Orelha: MP quer que ex-delegado-geral de SC pague até R$ 795 mil",
+    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/09/caso-cao-orelha-mp-quer-que-ex-delegado-geral-de-sc-pague-ate-r-795-mil.ghtml",
+    "description": "O Ministério Público de Santa Catarina pediu a condenação do ex-delegado-geral da Polícia Civil Ulisses Gabriel, candidato a deputado estadual pelo PL, por suposto uso da investigação do caso Cão Orelha para promoção pessoal.\nO órgão pleiteia uma indenização de R$ 200 mil por dano moral coletivo e o pagamento de uma multa de até 24 vezes sua remuneração, o que pode chegar a cerca de R$ 795 mil, valor atribuído à causa. O MP também quer que ele fique proibido de contratar com o poder público por quatro anos.\nOs pedidos foram feitos em uma ação de improbidade administrativa movida em abril e tornada pública recentemente.\nFlávio Bolsonaro estava alerta e se preparou para ação da PF contra o 'Dark Horse'\nViagens custeadas por Vorcaro a servidores do BC incluíam restaurantes de luxo em Paris e parques na Disney\nSegundo o MP, Ulisses Gabriel teria extrapolado o dever de comunicação institucional no caso Cão Orelha e utilizado a autoridade e a visibilidade do cargo de delegado-geral para construir uma imagem pessoal e política.  \nNo período do caso, foram mais de 40 publicações em redes sociais sobre a investigação, enquanto os perfis oficiais da Polícia Civil registraram sete. A ação afirma ainda que Ulisses ganhou cerca de 75 mil seguidores no Instagram na ocasião e lançou-se pré-candidato depois.\nA promotoria cita os slogans “aqui em SC o bambu ronca”, “linha dura contra o crime”, “#delegadoulisses” e “pau que bate em Chico, bate em Francisco”. Para o órgão, eles ultrapassariam a comunicação institucional e ajudariam a construir uma identidade pessoal perante o público. \nEm réplica, o MP rebateu os argumentos da defesa de que não haveria dolo e refutou a tese de que a candidatura posterior seria irrelevante para o caso. No entendimento do órgão, Ulisses já apresentava elementos associados a pautas políticas, como redução da maioridade penal e endurecimento das políticas de combate ao crime.",
+    "published": "2026-09-12T12:21:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O Ministério Público de Santa Catarina pediu a condenação do ex-delegado-geral da Polícia Civil Ulisses Gabriel, candidato a deputado estadual pelo PL, por suposto uso da investigação do caso Cão Orelha para promoção pessoal.\nO órgão pleiteia uma indenização de R$ 200 mil por dan",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Brics pede 'máxima prudência' no Oriente Médio, e presidente do Irã diz que região 'não precisa de um policial' em referência aos EUA",
+    "link": "https://oglobo.globo.com/mundo/noticia/2026/09/12/brics-pede-maxima-prudencia-no-oriente-medio-e-presidente-do-ira-diz-que-regiao-nao-precisa-de-um-policial-em-referencia-aos-eua.ghtml",
+    "description": "Os 11 países-membros do Brics, entre eles China, Rússia, Irã, Brasil e Índia, pediram calma no Oriente Médio em uma declaração conjunta divulgada neste sábado, no primeiro dia da cúpula do bloco de potências emergentes em Nova Délhi. Ao abrir a reunião, o primeiro-ministro da Índia, Narendra Modi, anfitrião do evento, afirmou que o grupo havia atingido a maturidade e que era hora de traduzir sua unidade e consenso em resultados concretos no cenário global.\n\"Expressamos nossa profunda preocupação com a escalada contínua das tensões no Oriente Médio/Ásia Ocidental e (...) pedimos a máxima prudência, além de evitar ações que possam agravar ainda mais a situação\", afirma o comunicado.\nContexto: Putin chega à Índia para cúpula do Brics marcada por tensões; Lula enviará Mauro Vieira\nQuer morar fora? Veja guia interativo com informações sobre 36 países\nQuer mais notícias de Mundo? Acompanhe o canal no WhatsApp\nÀs margens do encontro, o presidente do Irã, Masud Pezeshkian, afirmou que a região \"não precisa de um policial\", em referência aos Estados Unidos, país que entrou em guerra com Teerã no último dia de fevereiro. Em retaliação, a República Islâmica bloqueou o Estreito de Ormuz, por onde, antes da guerra, transitava cerca de 20% do petróleo e do gás natural liquefeito consumidos no mundo. O controle da via tornou-se desde então um dos principais pontos de atrito do conflito. \n— Não precisamos de um policial na região. A integridade territorial e a segurança regional só poderão ser garantidas por seus principais atores e pelos países que a integram — disse Pezeshkian, durante encontro com o primeiro-ministro da Malásia, Anwar Ibrahim. — Apesar de todas as injustiças sofridas por nosso povo, não desejamos a guerra nem seu prolongamento. A paz continua sendo nossa prioridade — acrescentou o presidente.\nNa cúpula, o presidente da China, Xi Jinping, disse que a guerra no Oriente Médio não atende aos \"interesses comuns\" da comunidade internacional.\n— À medida que a situação no Oriente Médio e no Golfo continua evoluindo, a guerra ali causou graves perdas aos povos da região.\nA presença do líder chinês é um dos destaques desta cúpula. Ele desembarcou na capital indiana neste sábado pela primeira vez desde 2019. A visita tem valor simbólico diante do histórico recente entre os dois países. Em 2020, soldados chineses e indianos se enfrentaram na disputada fronteira do Himalaia, em um confronto que deixou dezenas de mortos. Desde então, Pequim e Nova Délhi buscam reconstruir gradualmente o diálogo bilateral, embora o impasse territorial permaneça sem solução.\nAlém deles, participam da cúpula o russo Vladimir Putin, entre outros líderes do bloco. Nova Délhi, que mantém fortes laços com os EUA, Rússia, Israel, Irã e os Estados árabes do Golfo, está envolvida em um delicado jogo de equilíbrio diplomático, com Modi pressionando o bloco a impulsionar a cooperação comercial, reduzir barreiras e expandir as oportunidades de negócios.\n— Ao mesmo tempo que fortalecemos o Brics, também devemos determinar a direção da reforma global — disse Modi antes da cúpula. — Hoje, o Sul Global está na linha de frente quando se trata de crises, mas na retaguarda quando se trata de tomada de decisões. Temos que transformar essa pirâmide e esse privilégio em uma plataforma de parceria, onde cada país tenha voz.\nOuvidos pela agência Reuters, especialistas afirmaram que a cúpula, que busca superar as divisões entre o Irã e os Emirados Árabes Unidos sobre o conflito no Golfo, tem como desafio encontrar uma linguagem sobre a crise no Oriente Médio que seja aceitável tanto para Abu Dhabi quanto para Teerã. \nPara eles, essa declaração conjunta provavelmente não vai influenciar o atual cenário geopolítico, mas demonstra a unidade de um grupo de nações emergentes contra políticas economicamente debilitantes, como as sanções ocidentais. Em maio, por exemplo, os membros do Brics não conseguiram emitir uma declaração conjunta, devido às divergências entre o Irã e os Emirados Árabes Unidos.\nCom AFP",
+    "published": "2026-09-12T12:17:24+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Os 11 países-membros do Brics, entre eles China, Rússia, Irã, Brasil e Índia, pediram calma no Oriente Médio em uma declaração conjunta divulgada neste sábado, no primeiro dia da cúpula do bloco de potências emergentes em Nova Délhi. Ao abrir a reunião, o primeiro-ministro da Índ",
     "relevance": 5
   },
   {
@@ -1739,6 +1837,10 @@
       {
         "source": "InfoMoney",
         "link": "https://www.infomoney.com.br/politica/mendonca-nega-acesso-a-celular-de-vorcaro-e-que-medida-poderia-afetar-investigacao/"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/financas/noticia/2026/09/12/mendona-adiou-depoimento-de-vorcaro-cvm-sobre-ambipar-e-fundos.ghtml"
       }
     ]
   },
@@ -3840,126 +3942,6 @@
       "Politica"
     ],
     "summary": "O primeiro debate entre Renan Filho (MDB) e João Henrique Caldas, o JHC (PSDB), candidatos ao governo de Alagoas, foi marcado por uma sucessão de acusações, provocações e ataques pessoais, embora os dois tenham mantido a calma na maior parte do confronto. Realizado pela TV Gazeta",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "PF identifica seis diretores do BRB que teriam cometido suposta gestão fraudulenta no caso Master",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/11/pf-identifica-seis-diretores-do-brb-que-teriam-cometido-suposta-gesto-fraudulenta-no-caso-master.ghtml",
-    "description": "Além do ex-CEO Paulo Henrique Costa, a investigação da Polícia Federal (PF) identificou outros nomes da cúpula do Banco de Brasília (BRB) que teriam cometido gestão fraudulenta em operações relacionadas à compra de carteiras do Master. Costa é o único que está preso, suspeito de receber propina por meio de imóveis para atuar em favor do Master dentro do banco distrital.\n\nO possível envolvimento de outros diretores não é novidade. O Valor mostrou, em agosto, que a PF havia identificado novos suspeitos no BRB e pedido ao Supremo Tribunal Federal (STF) mais 60 dias para as investigações. O próprio BRB, em assembleia realizada também em agosto, aprovou o acionamento da Justiça contra ex-administradores suspeitos de operações irregulares com o Master e a Reag, sem revelar os nomes. \n\nSegundo o banco informou à época, a medida busca defender os interesses dos acionistas, “visando eventual ressarcimento de danos ao patrimônio da instituição”. \n\nCom a retirada do sigilo de parte das investigações sobre o Master, um laudo da PF mostra quem são os suspeitos, além de Costa: Cristiane Maria Lima Bukowitz, diretora executiva de gestão de pessoas do BRB; Dario Oswaldo Garcia Júnior, diretor executivo de finanças e controladoria; Luana de Andrade Ribeiro, diretora executiva de controle e riscos; Diogo Ilário de Araújo Oliveira, diretor executivo de atacado e governo; José Maria Correa Dias Junior, diretor executivo de tecnologia; e Jacques Mauricio Ferreira Veloso de Melo, diretor jurídico.\n\nA maioria deles tinha direito a voto nas deliberações que levaram à compra das carteiras do Master e aprovou o negócio. A exceção foi Melo, que, como diretor jurídico, participava das reuniões para fazer os registros das atas. Júnior, assim que a Operação Compliance Zero foi deflagrada, foi afastado do cargo, assim como Costa. \n\n“No plano da participação individual, Paulo Henrique Bezerra Rodrigues Costa, Cristiane Maria Lima Bukowitz, Dario Oswaldo Garcia Júnior, Luana de Andrade Ribeiro, Diogo Ilário de Araújo Oliveira e José Maria Correa Dias Junior estão documentalmente vinculados, nos limites de sua presença e direito de voto, às deliberações unânimes que mantiveram a estratégia nos quatro recortes examinados: insuficiência instrutória, racionamento de alçadas, decisões posteriores aos alertas de liquidez e decisões posteriores aos relatórios do GT (grupo de trabalho)”, diz o laudo.\n\n“Não foram registrados votos contrários ou abstenções. Jacques Mauricio Ferreira Veloso de Melo não pode ser individualizado como aprovador, pois as atas o registram sem direito a voto ou ausente”, continua.\n\nO documento aponta os vetores que, segundo a PF, indicam a ocorrência de gestão fraudulenta por parte dos administradores. “Há elementos técnicos e documentais suficientes, convergentes, materialmente relevantes e reiterados para concluir, sob a perspectiva pericial, que o processo de aquisição de carteiras do Banco Master foi conduzido mediante práticas de gestão fraudulenta.”\n\nSegundo a análise, o BRB não comprovou “’due diligence’ específica, independente, abrangente e rastreável da contraparte”, que mostrasse a origem dos ativos. Em vez disso, “produziu pareceres internos e consultou fontes externas que registravam sobre a contraparte crescimento acelerado, capitalização sensível, elevada alavancagem, baixo caixa, dependência de plataformas de distribuição, complexidade do modelo de negócios e risco de imagem”.\n\nO banco distrital, segundo a PF, fez “neutralização temporal” de controles, incluindo alguns pareceres somente após a liquidação da compra. “O efeito foi transformar pareceres destinados a prevenir, condicionar ou impedir a exposição em documentos predominantemente ratificadores e/ou regularizadores de operações já consumadas.”\n\nOutra questão teria sido a “dissociação entre a forma individual das deliberações e sua realidade econômica agregada”, visto que o banco fez diversas transações em um curto período de tempo para que elas ficassem dentro do limite que a diretoria poderia aprovar sem ter de passar pelo conselho de administração (Consad).\n\n“A segmentação manteve cada ato dentro da alçada formal da Diretoria, mas suprimiu do Consad a apreciação integrada de uma estratégia contínua.”\n\nA PF também identificou que a “posição do Banco Master alcançou 90,31% da exposição por cedente e R$ 19,78 bilhões no pico de junho de 2025, equivalendo a 9,32 vezes a soma de todos os demais cedentes”. “Esse desenho ampliou a dependência do BRB em relação à originação, documentação, cobrança, repasses, informações e capacidade operacional do mesmo ecossistema contratual.”\n\nO Valor entrou em contato com o BRB e aguarda posicionamento sobre o assunto.\nPaulo Henrique Costa, ex-presidente do BRB, é o único gestor do banco distrital preso\nAndre Coelho/Valor",
-    "published": "2026-09-11T16:36:03+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Além do ex-CEO Paulo Henrique Costa, a investigação da Polícia Federal (PF) identificou outros nomes da cúpula do Banco de Brasília (BRB) que teriam cometido gestão fraudulenta em operações relacionadas à compra de carteiras do Master. Costa é o único que está preso, suspeito de ",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Vorcaro fez pagamentos, organizou viagens e tinha grupo de WhatsApp com servidores do BC que fiscalizavam Master, aponta PF",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/09/11/vorcaro-fez-pagamentos-organizou-viagens-e-tinha-grupo-de-whatsapp-com-servidores-do-bc-que-fiscalizavam-master-aponta-pf.ghtml",
-    "description": "Investigação da Polícia Federal sobre o caso Master mostra que o banqueiro Daniel Vorcaro construiu relações com servidores do Banco Central, órgão que regula e fiscaliza instituições financeiras, conseguindo deles auxílio com assuntos relacionados aos negócios do Master. Inquérito mostra que eles tinham um grupo de Whatsapp pra falar de assuntos do banco e que Vorcaro chegou a custear viagens internacionais.  \nConforme a PF, servidores do BC, especificamente Paulo Sergio Neves de Souza, então chefe-adjunto do Departamento de Supervisão Bancária, e Belline Santana, ex-chefe do departamento, agiam como \"empregados\" de Vorcaro. Para uma reunião com o presidente do BC, mensagens mostram que Paulo enviou espontaneamente tópicos que deveriam ser destacados pelo banqueiro. A PF chama a ação de uma “consultoria”.\nOs documentos vieram a público com a retirada do sigilo de parte das investigações do caso Master, após determinação do presidente da Corte, Edson Fachin, ao relator dos inquéritos, André Mendonça.\nNas trocas de mensagens, Paulo Sérgio menciona ter um comprador para o Letsbank, instituição financeira ligada ao Master. Conforme a PF, ele atuou “como espécie de interlocutor dos interesses de Vorcaro nesse assunto”. O ex-servidor também presta o “serviço” de revisar documentos elaborados por Vorcaro.\nEm outro momento, ele passa orientações ao banqueiro antes de uma conversa com o diretor de fiscalização, Ailton Aquino, e alerta que deve ser perguntado sobre suas relações com a gestora Reag Investimentos e João Carlos Mansur, que fechou delação premiada com a Procuradoria-Geral da República (PGR) posteriormente.\nA relação fica clara em outros momentos, como no dia em Fabiano Zettel, cunhado do banqueiro, diz que tem algum compromisso com Paulo Sérgio no dia e pergunta a Vorcaro se há alguma recomendação. O banqueiro responde: “Tratar ele bem. Tá sendo um anjo na vida”. Já em relação a Belline, segundo  PF, havia uma atuação na mesma linha de “consultoria” prestada ao banqueiro. \nA PF identificou, ainda, a existência de um grupo de WhatsApp com os dois servidores e Vorcaro. O grupo foi criado em outubro do ano passado com o objetivo de facilitar a interlocução entre os envolvidos. \nEm nota, a defesa de Paulo Sérgio afirmou que em depoimento de quatro horas à PF, o servidor afastado esclareceu detalhadamente sua atuação no caso, \"demonstrando que a interação do supervisionado com as equipes do Banco Central era cotidiana e natural, inserindo-se em contexto de supervisão\". Segundo o advogado Odel Antun, foi a partir disso que \"foi possível a identificação, apuração e formalização de indícios de irregularidades na instituição supervisionada\".\nVantagem indevida\nA PF aponta que, para pagar Belline, Vorcaro “esquentou” pagamentos, simulando uma prestação de serviços em que o ele  era contratado para compor um grupo de desenvolvimento voltado à inserção de jovens no mercado financeiro. Depois de receber uma mensagem de Belline, manifestando acordo aos termos do contrato de prestação de serviços, Zettel encaminha a mensagem a Vorcaro, que comenta: ‘Que circo’. Zettel riu em resposta.\nEm outro episódio, Vorcaro pede a Zettel para realizar o pagamento a Belline por meio de um terceiro, ressaltando que o recurso não poderia sair o banco. \"Mesmo que indiretamente, não pode [sair do banco] de jeito nenhum\", escreveu.\nNo caso de Paulo Sérgio, a PF identificou que em 2020 ele aparece como vendedor de um sítio de R$ 4,8 milhões  Zettel. O próprio BC o questionou sobre a transação depois, e ele disse que só soube da relação com Vorcaro quando já havia vendido.\nViagens\nEm uma ocasião, os policiais identificaram que Vorcaro \"poderia estar ajudando o custeio de uma viagem à Disney para Paulo Sérgio e sua família\". No caso em questão, ele enviou a Vorcaro o roteiro da ida ao parque americano. O banqueiro encaminhou a mensagem para Leonardo Palhares, advogado apontado pela PF como operador de Vorcaro, e pediu a organização de um guia turístico para o grupo de Paulo Sérgio.\n\"Bom dia! Léo acabou de me mandar mensagem. Obrigado mais uma vez!!! Estamos embarcando daqui a pouco\", escreveu Paulo no dia 5 de fevereiro de 2024. Em seguida, ele diz ao banqueiro que ele terá uma reunião com Ailton de Aquino, diretor de Fiscalização do BC, e repassa algumas dicas.\n\"Vão perguntar de estratégia. Nos moldes da reunião com o Presi [presidente]. Me perguntaram porque o banco está comprando bancos sem viabilidade (Banif, Voiter, Will). Expliquei que no processo de compra os bancos são adquiridos, saneados e capitalizados\", escreveu. Vorcaro disse apenas \"ok, ótimo\".\nMensagens obtidas pela PF indicam, ainda, que ele organizou uma viagem de Belline e sua mulher para a França. Conforme a investigação, Vorcaro tratou \"com prestadores de serviços no exterior sobre reservas de restaurantes, recepção e logística\" para atender Belline.",
-    "published": "2026-09-11T16:33:11+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Investigação da Polícia Federal sobre o caso Master mostra que o banqueiro Daniel Vorcaro construiu relações com servidores do Banco Central, órgão que regula e fiscaliza instituições financeiras, conseguindo deles auxílio com assuntos relacionados aos negócios do Master. Inquéri",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Moraes pede para Fachin intimar todos o “juízes” citados no Master",
-    "link": "https://www.poder360.com.br/poder-justica/moraes-pede-para-fachin-intimar-todos-o-juizes-citados-no-master/",
-    "description": "Em ofício ao presidente do tribunal, Luiz Edson Fachin, o ministro diz que é necessário analisar todos os juízes que foram mencionados na investigação",
-    "published": "2026-09-11T16:30:01+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Em ofício ao presidente do tribunal, Luiz Edson Fachin, o ministro diz que é necessário analisar todos os juízes que foram mencionados na investigação",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "No MinC, operação sobre 'Dark Horse' é vista como 'quebra-cabeça se fechando'",
-    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/09/no-minc-operacao-sobre-dark-horse-e-vista-como-quebra-cabeca-se-fechando.ghtml",
-    "description": "A operação da Polícia Federal que apura o financiamento do filme “Dark Horse”, cinebiografia de Jair Bolsonaro, é vista no Ministério da Cultura como “um quebra-cabeça se fechando”. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-09-11T16:28:01+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A operação da Polícia Federal que apura o financiamento do filme “Dark Horse”, cinebiografia de Jair Bolsonaro, é vista no Ministério da Cultura como “um quebra-cabeça se fechando”. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Zanin pede que Fachin disponibilize acesso à integra de celular de Vorcaro",
-    "link": "https://valor.globo.com/politica/noticia/2026/09/11/zanin-pede-que-fachin-disponibilize-acesso-a-integra-de-celular-de-vorcaro.ghtml",
-    "description": "O ministro do Supremo Tribunal Federal (STF) Cristiano Zanin solicitou que o presidente da Corte, Edson Fachin, disponibilize em um HD específico a íntegra do celular do dono do Banco Master, Daniel Vorcaro.\nLeia mais\n\n\nO ofício foi enviado a Fachin na manhã desta sexta-feira (11), após o presidente do STF determinar que Mendonça retire o sigilo das investigações. Os documentos foram enviados aos gabinetes de todos os ministros da Corte.\n\nSegundo Zanin, no entanto, a disponibilização do aparelho celular de Vorcaro é necessária para \"otimizar a análise\".\n\nAo atender a ordem de Fachin, Mendonça liberou parte dos documentos produzidos pela investigação do caso Master, afirmando que manteria em segredo aqueles que seriam imprescindíveis para a continuidade das apurações.",
-    "published": "2026-09-11T16:27:22+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O ministro do Supremo Tribunal Federal (STF) Cristiano Zanin solicitou que o presidente da Corte, Edson Fachin, disponibilize em um HD específico a íntegra do celular do dono do Banco Master, Daniel Vorcaro.\nLeia mais\n\n\nO ofício foi enviado a Fachin na manhã desta sexta-feira (11",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/politica/noticia/2026/09/11/fachin-determina-que-mendonca-se-manifeste-sobre-pedido-de-zanin-para-acesso-integral-ao-celular-de-vorcaro.ghtml"
-      },
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/politica/noticia/2026/09/11/mendonca-diz-a-fachin-que-dados-do-celular-de-vorcaro-estao-lacrados-no-gabinete.ghtml"
-      },
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/politica/noticia/2026/09/11/zanin-insiste-em-acesso-de-ministros-a-dados-do-celular-de-vorcaro-antes-de-julgamento.ghtml"
-      },
-      {
-        "source": "Poder360",
-        "link": "https://www.poder360.com.br/poder-justica/zanin-rebate-mendonca-e-pede-de-novo-acesso-ao-celular-de-vorcaro/"
-      }
-    ]
-  },
-  {
-    "source": "O Globo",
-    "title": "PF avalia que delação pode turbinar pedido de cooperação aos EUA sobre fundo que repassou dinheiro para Dark Horse",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/09/11/pf-avalia-que-delacao-pode-turbinar-pedido-de-cooperacao-aos-eua-sobre-fundo-que-repassou-dinheiro-para-dark-horse.ghtml",
-    "description": "Com pouco avanço desde a abertura do inquérito, em julho, a investigação que mira em suspeitas envolvendo a participação do senador Flávio Bolsonaro, candidato do PL à Presidência, no financiamento do filme \"Dark Horse\" deve ganhar um novo fôlego a partir da delação do operador do mercado financeiro Antonio Carlos Freixo Júnior, o \"Mineiro\". Uma das medidas que a Polícia Federal pretende adotar, por exemplo, é um pedido de cooperação internacional aos Estados Unidos para mapear o fluxo de dinheiro envolvendo o fundo Havengate e a cinebiografia do ex-presidente Jair Bolsonaro. \nComo mostrou o GLOBO, o inquérito sob relatoria do ministro André Mendonça que mira em Flávio apura os supostos crimes de lavagem de dinheiro, evasão de divisas e corrupção. Ao pedir a abertura da investigação, a corporação afirmou que o senador não foi um mero \"terceiro\", mas um \"intelocutor direto\" de Vorcaro na negociação sobre o financiamento do filme Dark Horse. Entre os pontos que a investigação visa esclarecer está justamente a \"função desempenhada\" pelo fundo Havengate no financiamento do filme, assim como \"os beneficiários finais dos valores remetidos ao exterior\".\nÉ nesse contexto que o pedido de cooperação é discutido. A possibilidade foi aventada desde o pedido de abertura da investigação, já que não há como a PF acessar os dados do fundo Havengate, sediado nos Estados Unidos. Interlocutores dizem que não é possível, por exemplo, que Mendonça emita uma ordem direta para a quebra de sigilo do fundo porque ele não está sob jurisdição brasileira. \nAssim, para que a PF possa obter as informações, precisa encaminhar um pedido que deve passar pelo gabinete do ministro do STF e pelo Ministério da Justiça antes de ser remetido aos EUA.\nOs investigadores avaliam, contudo, que para formalizar um pedido às autoridades americanas é preciso levantar mais indícios sobre a prática de crime nos repasses da Havengate. Isso porque uma medida de quebra de sigilo bancário deve ser aprovada por um juiz federal dos Estados Unidos. É aí que a delação de Mineiro pode ajudar.\nUma solicitação formal de cooperação costuma ser feita pelo Departamento de Recuperação de Ativos e Cooperação Jurídica Internacional (DRCI), órgão vinculado ao Ministério da Justiça responsável por operacionalizar pedidos dessa natureza. O DRCI, então, faria a tramitação junto ao Departamento de Justiça dos Estados Unidos (DOJ), com base no tratado de assistência jurídica mútua em matéria penal firmado entre os dois países.\nA cooperação entre Brasil e Estados Unidos costuma ser fluída, sobretudo em investigações envolvendo o crime organizado e lavagem de dinheiro. Como a apuração envolve a atuação do clã Bolsonaro em território dos EUA, ainda é uma incógnita saber se as autoridades americanas irão cooperar.\nAs discussões iniciais sobre um eventual pedido de cooperação no caso Dark Horse giravam em torno das dificuldades de construção da solicitação. Os investigadores destacavam que, para montar um pedido robusto a ser encaminhado aos EUA, é necessário coletar um conjunto mais amplo de indícios de crimes para que só então se possa tentar convencer as autoridades dos EUA a fornecerem o detalhamento dos repasses.\nNesse sentido, esses interlocutores destacavam que esse compartilhamento depende do entendimento e de parâmetros dos representantes do país norte-americano, que podem ser diferentes daqueles traçados pelos brasileiros. Em ocasiões recentes, investigadores enfrentaram dificuldades em tentativas de cooperação internacional, como na tentativa de intimação do blogueiro Paulo Figueiredo, aliado do ex-deputado Eduardo Bolsonaro, em caso em que ele é acusado de coação em processo.\nDesde julho, os investigadores começaram a fazer diligências no inquérito, requisitando informações das empresas envolvidas na montagem do filme para tentar mapear o caminho do dinheiro usado para custear o longa.\nAo defender a abertura de inquérito sobre os repasses de Vorcaro ao filme Dark Horse, a Procuradoria-Geral da República apontou, por exemplo, que o ex-deputado Eduardo Bolsonaro \"orientou\" a gestão recursos do longa nos Estados Unidos. O órgão ainda chamou de \"aporte ilícito\" o dinheiro enviado por Vorcaro ao projeto audiovisual.\nSegundo a PGR, Eduardo coordenou a administração do dinheiro nos Estados Unidos, país onde ele mora desde março de 2025. Desde então, ele vem fazendo uma campanha junto à Casa Branca para articular ações que possam pressionar o Supremo a tirar o ex-presidente Jair Bolsonaro da prisão domiciliar.\nAssim, investigadores querem verificar, por exemplo, se os recursos financiaram o acesso do clã Bolsonaro junto a integrantes do governo do presidente americano Donald Trump por meio de escritórios de advocacia e lobistas, que atuam em Washington.\nAté agora, aliados de Flávio Bolsonaro tem sustentado que não há ilegalidades nos repasses, sob o argumento de que trata-se de dinheiro privado. Também alegam que, ainda que se identifique repasses ao ex-deputado Eduardo Bolsonaro, eles estariam relacionados a pagamentos pelo trabalho na produção do filme.\nÉ nesse cenário que a delação de \"Mineiro\" pode ajudar os investigadores a elaborarem o pedido de cooperação internacional. Dono da Entre Investimentos e Participações, o empresário apontou o caminho de repasses feitos ao fundo sediado no Texas. Ele confirmou à PGR ter realizado ao longo do ano passado sete transferências bancárias para o fundo Havengate que totalizam US$ 12,3 milhões (cerca de R$ 69 milhões no câmbio da época) a pedido de Vorcaro.\nNa delação, Mineiro diz como recebeu mensagens do banqueiro Daniel Vorcaro do fim de 2024 ao início de 2025 para fazer os pagamentos ao fundo americano. Aos procuradores, ele disse que não sabia que o montante seria usado na produção do longa. O empresário também disse ter sido contatado por Paulo Calixto, que é responsável pelo fundo e atuou como advogado de Eduardo Bolsonaro. \nPedido de compartilhamento pendente\nInterlocutores ressaltam que a investigação sobre o caso Dark Horse que tramita sob relatoria de Mendonça está em fase inicial. Até agora, a Polícia Federal não apresentou nenhum pedido de diligência a ser deferido pelo ministro do STF. Isso não significa, necessariamente, que o inquérito está parado, uma vez que a PF pode fazer uma série de diligências por conta própria. De outro lado, as mais robustas dependem de um aval da Justiça.\nUm pedido que está pendente de apreciação pelo gabinete, por exemplo, é de compartilhamento de informações da investigação da Polícia Civil de São Paulo. Este pedido, feito pela Polícia Federal, está com a Procuradoria-Geral da República para emissão de parecer. \nEm decisão nesta quinta-feira, o ministro Flávio Dino, do STF, determinou que o material produzido pela Polícia Civil seja remetido a seu gabinete. A avaliação entre investigadores é que será preciso entender para onde será enviado e, eventualmente, o compartilhamento das informações entre gabinetes.\nRecentemente, Mendonça compartilhou mensagens do senador Weverton Rocha, apreendidas durante a investigação sobre o Banco Master, com o inquérito sobre suposta obstrução à investigação de um assassinato ocorrido em 2022 no Maranhão.\nJá a outra frente de apuração sobre o caso Dark Horse, que está sob relatoria de Dino, teve desdobramentos nesta quinta-feira, com a abertura de uma operação que cumpriu 49 mandados de busca e apreensão. A investigação apura o suposto desvio de emendas parlamentares para a produtora do filme. O deputado federal Mario Frias (PL-SP) e a empresária Karina Gama foram alvo das diligências. Frias destinou R$ 2 milhões em emendas em 2024 ao Instituto Conhecer Brasil (ICB), presidido por Karina. Os valores foram pagos em fevereiro e outubro de 2025.",
-    "published": "2026-09-11T16:26:38+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Com pouco avanço desde a abertura do inquérito, em julho, a investigação que mira em suspeitas envolvendo a participação do senador Flávio Bolsonaro, candidato do PL à Presidência, no financiamento do filme \"Dark Horse\" deve ganhar um novo fôlego a partir da delação do operador d",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "México e EUA correm para fechar acordo comercial bilateral antes de eleições de meio de mandato",
-    "link": "https://valor.globo.com/mundo/noticia/2026/09/11/mexico-e-eua-correm-para-fechar-acordo-comercial-bilateral-antes-de-eleicoes-de-meio-de-mandato.ghtml",
-    "description": "O México e os Estados Unidos estão correndo contra o tempo para chegar a um acordo comercial bilateral antes das eleições de meio de mandato nos EUA, que ocorrerão em menos de oito semanas, segundo seis fontes de ambos os países, em um esforço que se tornou ainda mais urgente com o fracasso das negociações do Canadá com Washington.\n\n“Ambos queremos chegar a um acordo antes das eleições de meio de mandato”, disse uma fonte baseada no México, que falou sob condição de anonimato para discutir negociações privadas.\n\nAs negociações visam chegar a um acordo bilateral provisório, por meio do qual o México poderia obter isenção de algumas tarifas norte-americanas, ao mesmo tempo que atende às exigências dos EUA em áreas como conteúdo automotivo e investimentos chineses.\n\nEmbora não haja um prazo formal, autoridades de ambos os países enxergam benefícios políticos em chegar a um acordo antes das eleições de 3 de novembro, quando o partido Republicano do presidente dos EUA, Donald Trump, corre o risco de perder o controle do Congresso. Um acordo permitiria que ambos os líderes apresentassem isso como uma vitória, em um momento em que enfrentam desafios políticos internos.\n\n“O tempo é essencial para o governo mexicano”, disse a fonte mexicana, citando preocupações com a fraqueza da economia e a queda nas classificações de crédito de sua dívida. A fonte acrescentou que o governo da presidente mexicana Claudia Sheinbaum, que apresentou nesta semana seu orçamento para 2027, considera um acordo comercial com os EUA fundamental para tranquilizar os mercados e os investidores.\n\nUm porta-voz do Ministério da Economia do México afirmou: “Não há prazos específicos neste momento”, ressaltando o compromisso contínuo do governo com o diálogo com Washington.\n\nO Representante de Comércio dos EUA e a Casa Branca não responderam imediatamente a um pedido de comentário.\n\nA pressão do México para chegar a um acordo surge após o colapso das negociações comerciais entre os Estados Unidos e o Canadá no mês passado, o que mergulhou os aliados de longa data em uma acirrada disputa tarifária.\n\nWashington proibiu, na terça-feira, as importações de uma ampla gama de bebidas alcoólicas, motocicletas e laticínios canadenses, e Ottawa prometeu igualar as tarifas dos EUA dólar por dólar.\n\nO fracasso das negociações com o Canadá reforçou a estratégia do México de evitar o confronto direto com Washington, apostando que a cooperação resultará em alívio tarifário.\n\nA fonte mexicana descreveu a abordagem do país como “agir com boa vontade e continuar a cooperar”. O México destina mais de 80% de suas exportações ao seu vizinho do norte.\n\nJulio Lopez/Unsplash",
-    "published": "2026-09-11T16:25:16+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O México e os Estados Unidos estão correndo contra o tempo para chegar a um acordo comercial bilateral antes das eleições de meio de mandato nos EUA, que ocorrerão em menos de oito semanas, segundo seis fontes de ambos os países, em um esforço que se tornou ainda mais urgente com",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Master-BRB: Vorcaro tem depoimento à PF marcado para a próxima terça; defesa deve tentar adiamento",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/11/master-brb-vorcaro-tem-depoimento-a-pf-marcado-para-a-proxima-terca-defesa-deve-tentar-adiamento.ghtml",
-    "description": "O ex-banqueiro Daniel Vorcaro, do Master, tem depoimento marcado na Polícia Federal para a próxima terça-feira (15). A oitiva está inserida nas investigações que apuram supostas fraudes em operações financeiras e créditos repassados ao Banco de Brasília (BRB). \nA defesa do empresário, no entanto, deve solicitar o adiamento do depoimento sob o argumento de que ainda não teve acesso à íntegra dos documentos e laudos anexados aos autos.\nO depoimento está agendado para o mesmo dia em que o plenário do Supremo Tribunal Federal (STF) realizará uma sessão extraordinária. \nConvocada pelo presidente da Corte, ministro Luiz Edson Fachin, a reunião plenária de terça-feira analisará o relatório da PF que identificou 52 mensagens trocadas entre Vorcaro e o ministro Alexandre de Moraes entre o fim de outubro e meados de novembro de 2025, período que antecedeu a primeira prisão do ex-banqueiro. O plenário decidirá se autoriza a abertura de investigação formal a respeito dos fatos.\nAgora no g1\nO depoimento de Vorcaro também ocorre em meio à divulgação de relatórios periciais que aprofundam as suspeitas sobre as relações comerciais entre Master e BRB. \nEm laudo tornado público pelo ministro André Mendonça — relator dos principais inquéritos do caso no STF —, a PF apontou fortes indícios de irregularidades na cessão de R$ 7,15 bilhões em carteiras de crédito da empresa Tirreno Consultoria Promotoria de Créditos e Participações para o Banco Master entre 2024 e 2025.\nConforme a perícia da PF:\nfalta de capacidade e padrões artificiais: a Tirreno não detinha capacidade operacional compatível para a originação desses volumes financeiros, apresentando registros com padrões atípicos de repetição de valores e contratos.\nausência de liquidação financeira: não foram localizadas evidências de que o Banco Master tenha efetuado o pagamento efetivo pelas cessões; a única conta bancária da Tirreno no sistema financeiro só foi aberta em maio de 2025, após a realização das operações e sem movimentação registrada.\nrepasse ao BRB: Posteriormente, esses direitos creditórios foram transferidos à instituição pública do Distrito Federal.\nCrise no BRB\nA transferência de créditos podres e sem lastro culminou na crise que atinge a instituição financeira pública candanga. \nSegundo a administração do BRB, o rombo estimado chega a R$ 8,8 bilhões, composto por títulos inexistentes, fraudados ou de difícil liquidação adquiridos do Master.\nEmbora o BRB tenha submetido um plano de capitalização ao Banco Central para recompor seu patrimônio, as principais medidas anunciadas — como uma operação de empréstimo de R$ 6,6 bilhões mediada no STF e a venda de carteiras de ativos a fundos de investimento — enfrentam entraves e indefinições regulatórias. \nEm paralelo, investigações da Operação Compliance Zero já resultaram em medidas de bloqueio de bens de Vorcaro e na prisão preventiva de ex-gestores do banco estatal.\nEspionagem e acesso a sistemas sigilosos\nAlém das operações financeiras, relatórios da PF revelam a atuação de um braço operacional ligado a Daniel Vorcaro, denominado \"A Turma\" e chefiado por Luiz Phillipi Mourão, o \"Sicário\". \nMensagens interceptadas mostram que o grupo violava sistemas restritos para obter informações prévias de investigações do Ministério Público Federal (MPF) e da PF.\nUtilizando credenciais funcionais de servidores públicos, o grupo monitorava apurações que tinham como alvos o Banco Master, o BRB e o próprio Vorcaro. \nEm julho de 2025, diálogos indicam que Vorcaro ordenou levantamento detalhado das apurações, obtendo acesso antecipado à um documento no MPF que deu origem à deflagração da Operação Compliance Zero.\nCaso Master: Daniel Vorcaro em depoimento à PF em 2025\nJornal Nacional/ Reprodução",
-    "published": "2026-09-11T16:21:27+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O ex-banqueiro Daniel Vorcaro, do Master, tem depoimento marcado na Polícia Federal para a próxima terça-feira (15). A oitiva está inserida nas investigações que apuram supostas fraudes em operações financeiras e créditos repassados ao Banco de Brasília (BRB). \nA defesa do empres",
     "relevance": 5
   }
 ]
