@@ -160,7 +160,13 @@
       "Mercado Financeiro"
     ],
     "summary": "A OpenAI não abrirá seu capital neste ano, enquanto a empresa de inteligência artificial se concentra em lidar com questões relacionadas à segurança da tecnologia, disse o presidente-executivo Sam Altman em entrevista à Fortune.\nRiscos: Rivais, Altman e Musk dizem concordar com a",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/empresas/noticia/2026/09/12/altman-afirma-que-o-ipo-da-openai-no-acontecer-em-2026-por-preocupaes-com-segurana-da-ia.ghtml"
+      }
+    ]
   },
   {
     "source": "InfoMoney",
