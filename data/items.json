@@ -1,6 +1,42 @@
 [
   {
     "source": "Poder360",
+    "title": "Gonet diz que deve ir à sessão sobre Moraes no STF",
+    "link": "https://www.poder360.com.br/poder-justica/gonet-diz-que-deve-ir-a-sessao-sobre-moraes-no-stf/",
+    "description": "Procurador-geral da República aparece em conversas entre ministro Alexandre de Moraes e Vorcaro",
+    "published": "2026-09-12T13:21:31+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Procurador-geral da República aparece em conversas entre ministro Alexandre de Moraes e Vorcaro",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "STF restabelece condenação de ex-presidente da Assembleia de Rondônia",
+    "link": "https://www.poder360.com.br/poder-justica/stf-restabelece-condenacao-de-ex-presidente-da-assembleia-de-rondonia/",
+    "description": "Relatora entendeu que não havia motivo para anular julgamento feito pelo Tribunal de Justiça de Rondônia",
+    "published": "2026-09-12T13:10:11+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Relatora entendeu que não havia motivo para anular julgamento feito pelo Tribunal de Justiça de Rondônia",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Gilmar Mendes pede que Fachin libere dados do celular de Vorcaro",
+    "link": "https://www.poder360.com.br/poder-justica/gilmar-mendes-pede-que-fachin-libere-dados-do-celular-de-vorcaro/",
+    "description": "O ministro alega que os demais integrantes do Supremo devem ter conhecimento de todas as informações para o julgamento de 3ª feira (15.set)",
+    "published": "2026-09-12T12:59:03+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O ministro alega que os demais integrantes do Supremo devem ter conhecimento de todas as informações para o julgamento de 3ª feira (15.set)",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
     "title": "STF decidirá se crise humanitária dispensa visto para reunião familiar",
     "link": "https://www.poder360.com.br/poder-justica/stf-decidira-se-crise-humanitaria-dispensa-visto-para-reuniao-familiar/",
     "description": "Tribunal reconheceu repercussão geral da matéria; caso concreto envolve uma família de haitianos",
@@ -1005,7 +1041,13 @@
       "Politica"
     ],
     "summary": "Ministro argumenta que HD em seu gabinete é \"contraprova a ser utilizada apenas em caso de necessidade em decorrência da perda ou do extravio do material original\"",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/politica/gilmar-pede-a-fachin-acesso-ao-celular-de-vorcaro-antes-de-julgamento-de-moraes/"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -2095,7 +2137,13 @@
       "Politica"
     ],
     "summary": "O ministro André Mendonça, do Supremo Tribunal Federal (STF), afirmou nesta sexta-feira (11) que o aparelho celular de Daniel Vorcaro apreendido nas investigações não se encontra em seu gabinete, mas, sim, sob a custódia da Polícia Federal.\nA manifestação está em uma resposta de ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/09/12/gilmar-reforca-pedido-de-zanin-para-ter-acesso-a-conteudo-do-celular-de-vorcaro.ghtml"
+      }
+    ]
   },
   {
     "source": "InfoMoney",
@@ -3906,42 +3954,6 @@
       "Politica"
     ],
     "summary": "O tempo necessário para concluir o processo de obtenção da primeira Carteira Nacional de Habilitação (CNH) caiu 30% entre janeiro e agosto deste ano, na comparação com o mesmo período de 2025. Segundo dados divulgados pelo Ministério dos Transportes, o prazo passou de 210 para 14",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Vorcaro usava login de servidores do MPF para acessar processos sigilosos, aponta PF",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/09/11/vorcaro-usava-login-de-servidores-do-mpf-do-maranhao-para-acessar-processos-sigilosos-aponta-pf.ghtml",
-    "description": "A análise das conversas entre Daniel Vorcaro, dono do Banco Master, e Luiz Phillipi Machado de Moraes Mourão, o “Sicário”, mostra o uso recorrente de dados de servidores do Ministério Público Federal (MPF) para acessar processos sigilosos contra desafetos do banqueiro. As informações constam de relatórios da Polícia Federal (PF) encaminhados ao Supremo Tribunal Federal (STF), e fazem parte dos processos que tiveram o sigilo levantado nesta quinta-feira (10) após determinação do presidente Edson Fachin. \nConforme o GLOBO mostrou, “a turma” de Vorcaro, grupo do qual faziam parte o “Sicário” e o policial federal aposentado Marilson Roseno da Silva, monitorava e intimidava pessoas que consideravam desafetos — a lista de ameaçados ia de chef de cozinha e barqueiro até gestor de fundo de investimento que denunciou irregularidades do Master. E uma das táticas de monitoramento era o acesso a dados sigilosos de processos judiciais e investigações policiais desses desafetos, o que muitas vezes era feito usando o login de Alina Franco Boueres de Araújo, uma servidora do MPF lotada na procuradoria da República do Maranhão, ou de Daniel Souza Iost, do MPF do Rio Grande do Sul. \nA PF apontou que é necessário aprofundar as investigações para averiguar se a servidora havia passado seus dados para os aliados de Vorcaro voluntariamente, ou se sua conta profissional havia sido invadida por hackers. O GLOBO procurou o MPF do Maranhão e do Rio Grande do Sul e aguarda posicionamento. \nSegundo os investigadores, “documentos compartilhados por Mourão foram gerados pela usuária Alina Boueres, sendo relevante observar que há recorrência na utilização de seu usuário para consulta de processos, inclusive sigilosos, no âmbito do Ministério Público Federal”. Com o login dela, foram acessados procedimentos em diversos estados e sobre diversas pessoas, incluindo investigações sobre o próprio Vorcaro, sobre os empresários Nelson Tanure e Maurício Quadrado, e sobre o gestor Vladimir Joelsas Timmerman, fundador da Esh Capital, que fez diversas denúncias públicas contra o banqueiro.\nO uso do login dessa servidora era recorrente, aponta a PF. Em julho de 2024, por exemplo, surgiram notícias sobre a demissão de dois funcionários da Caixa Econômica Federal após se posicionarem contra a aquisição de R$ 500 milhões em letras financeiras do Master. Vorcaro então acionou \"a turma\" para tentar remover notícias sobre o tema. \nO caso, entretanto, acabou virando alvo de uma representação no MPF do Distrito Federal no dia 16 de julho. Apenas dois dias depois, a íntegra desse procedimento foi enviado por Mourão a Vorcaro. \n\"Mais uma vez, o documento encaminhado consiste em extrato processual gerado pela servidora Alina Boueres. Essa informação reforça a necessidade de averiguação, tendo em vista a possível circulação indevida de dados protegidos por sigilo. Assim, impõe-se esclarecer se a consulta foi realizada de forma regular, se o acesso foi ilegalmente obtido mediante invasão (“hackeado”) ou se houve franqueamento direto por parte da própria usuária”, ressalta a PF no relatório.\nJá o login de Daniel Iost foi usado em julho de 2024, segundo documentos obtidos pelos investigadores, quando Mourão consulta investigações contra Vorcaro. Neste caso, porém, a PF aponta que há indícios de que o servidor tentou ocultar o registro de seu acesso — foram consultados 15 documentos, dos quais 11 eram sigilosos. \n“Ao analisar o PDF, a equipe de investigação constatou que o servidor tentou ocultar sua identificação, aplicando um hachurado branco sobre o campo onde constavam seu nome e setor, de forma a simular a inexistência dessas informações. Contudo, os dados permaneceram no arquivo, sendo possível recuperá-los simplesmente selecionando, copiando e colando o trecho encoberto. Essa circunstância indica a intenção deliberada do servidor de ocultar sua identidade, possivelmente por ter ciência da irregularidade envolvida no compartilhamento de documento sigiloso”, afirmam os investigadores.\nA conta de Daniel Iost foi usada também para consultar procedimentos sigilosos a respeito da compra do Master pelo Banco BRB.\n“Verifica-se um padrão reiterado de obtenção e compartilhamento de documentos relacionados a Daniel Vorcaro, muitos deles de natureza reservada ou sensível, aos quais Mourão, em princípio, não teria acesso regular. A sucessão desses episódios indica possível utilização de meios indevidos para acesso a informações protegidas, com potencial comprometimento da legalidade, da integridade das investigações e do sigilo institucional, circunstâncias que reforçam a necessidade de apuração específica acerca da origem e da forma de obtenção desses documentos”, acrescentam os delegados.",
-    "published": "2026-09-11T16:39:47+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A análise das conversas entre Daniel Vorcaro, dono do Banco Master, e Luiz Phillipi Machado de Moraes Mourão, o “Sicário”, mostra o uso recorrente de dados de servidores do Ministério Público Federal (MPF) para acessar processos sigilosos contra desafetos do banqueiro. As informa",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Grupos ligados a Trump e Musk injetam milhões para impulsionar republicanos na eleição",
-    "link": "https://valor.globo.com/mundo/noticia/2026/09/11/grupos-ligados-a-trump-e-musk-injetam-milhes-para-impulsionar-republicanos-na-eleio.ghtml",
-    "description": "Os dois maiores financiadores de candidatos do Partido Republicano nas eleições legislativas de meio de mandato dos Estados Unidos em novembro — o presidente dos EUA, Donald Trump, e o bilionário Elon Musk — finalmente abriram os cofres, a menos de oito semanas do dia da votação.\nLeia também:\nAnunciado em campanha eleitoral, ‘dividendo Trump’ gera incertezas\nPreço do diesel nos EUA supera recorde de 2022 e chega a US$ 6 por galão\nÍndice de preços dos EUA sobe 0,4% em agosto, em linha com o esperado\nCom os republicanos diante da perspectiva de perder o controle de pelo menos uma das Casas do Congresso, e pesquisas indicando que eleitores democratas estão mais motivados a votar, um grupo ligado a Trump começou a gastar dezenas de milhões de dólares para reservar blocos de tempo para anúncios de TV em disputas acirradas para a manutenção de cadeiras no Congresso.\n\nTrump, cujo índice de aprovação está estagnado no nível mais baixo de sua carreira política, disse a repórteres na semana passada que planejava destinar entre US$ 400 milhões e US$ 500 milhões para impulsionar candidatos republicanos nas eleições legislativas de meio de mandato.\n\nO comitê de ação política republicano afiliado a Trump, “No Going Back”, garantiu US$ 24,9 milhões em tempo de propaganda em seis Estados decisivos — Alasca, Geórgia, Michigan, Carolina do Norte, New Hampshire e Ohio —, de acordo com a empresa de pesquisa de propaganda política AdImpact.\n\nAlém disso, o “Musk’s America PAC”, do empresário multibilionário, e o principal braço de arrecadação de fundos de Trump, a “MAGA Inc.”, injetaram nos últimos dias US$ 2,4 milhões e US$ 10 milhões, respectivamente, na disputa por uma vaga no Senado pelo Texas, onde o procurador-geral estadual, Ken Paxton, corre o risco de se tornar o primeiro republicano, em décadas, a perder para um democrata naquele Estado.\n\nCerca de US$ 7 milhões desse montante estão sendo gastos em anúncios de ataque contra o deputado estadual democrata James Talarico, que aparece 2,1 pontos percentuais à frente de Paxton na média das pesquisas para o Senado pelo Texas compiladas pelo “Silver Bulletin”, de Nate Silver.\n\n“Os republicanos agora precisam gastar dinheiro de verdade para defender um mapa eleitoral ampliado”, disse o estrategista republicano Brad Dayspring, da Purple Strategies, em Alexandria, Virgínia.\n\n“Quando você precisa investir milhões no Texas, o fato de o presidente Trump e Musk abrirem as carteiras dá aos republicanos a capacidade de reforçar disputas vulneráveis, sem esgotar recursos do restante do mapa”, acrescenta.\n\nO America PAC, de Musk, espera desempenhar um papel importante nos esforços republicanos para aumentar a participação eleitoral em Estados-chave, com gastos em campanhas de porta a porta, publicidade digital e mala direta antes da eleição de 3 de novembro.\n\nMusk já gastou mais de US$ 7 milhões em publicidade digital, mensagens de texto, ligações para eleitores, correspondências e outros materiais impressos, segundo registros federais. Um porta-voz do grupo se recusou a comentar.\n\nO fundo de campanha de Trump para as eleições de meio de mandato está apoiando o novo grupo de financiamento “No Going Back”, segundo uma pessoa a par do assunto que pediu para não ser identificada.\n\nEmbora a MAGA Inc. de Trump e o “No Going Back” ainda não estejam formalmente afiliados entre si, compartilham o mesmo tesoureiro, número de telefone e endereço na mesma empresa, em Massachusetts.  O New York Times informou que o “No Going Back” gastou US$ 49 milhões em reservas de publicidade na terça e quarta-feira desta semana.",
-    "published": "2026-09-11T16:37:14+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Os dois maiores financiadores de candidatos do Partido Republicano nas eleições legislativas de meio de mandato dos Estados Unidos em novembro — o presidente dos EUA, Donald Trump, e o bilionário Elon Musk — finalmente abriram os cofres, a menos de oito semanas do dia da votação.",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "‘Bíceps de IA’ e ‘cabelinho de boneca’: Renan Filho e JHC trocam farpas em debate pelo governo de Alagoas",
-    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/11/biceps-de-ia-e-cabelinho-de-boneca-renan-filho-e-jhc-trocam-farpas-em-debate-pelo-governo-de-alagoas.ghtml",
-    "description": "O primeiro debate entre Renan Filho (MDB) e João Henrique Caldas, o JHC (PSDB), candidatos ao governo de Alagoas, foi marcado por uma sucessão de acusações, provocações e ataques pessoais, embora os dois tenham mantido a calma na maior parte do confronto. Realizado pela TV Gazeta na noite desta quinta-feira (10), o encontro colocou em lados opostos o ex-governador e ex-ministro dos Transportes do governo Lula e o ex-prefeito de Maceió, que disputam a sucessão estadual em 2026.\n'Elo mais fraco': Ex-advogado de Bolsonaro cobra campanha de Flávio sobre apoio a produtora investigada por Dark Horse\nSão Paulo: Haddad defende tirar 'laranjas podres' do STF para fortalecer a instituição\nA segurança pública foi um dos destaques do confronto. Renan apresentou a proposta de utilizar inteligência artificial no combate ao crime e voltou a criticar JHC por, segundo ele, não apresentar uma resposta concreta para a área. O ex-prefeito defendeu investimentos em inteligência e prometeu ampliar o efetivo das forças de segurança.\nFoi justamente ao falar sobre redes sociais e segurança que o debate ganhou um dos momentos mais inusitados. Renan chamou JHC de “avatar” e afirmou que o adversário seria um “produto falso”, além de criticar sua presença nas redes. Em outro momento, disse que a criminalidade não se combate com “dancinha de TikTok”. As falas retomaram uma provocação que vinha sendo feita por Renan durante a campanha sobre imagens de JHC que, segundo o emedebista, teriam o bíceps aumentado por inteligência artificial.\nJHC decidiu então responder pelo mesmo caminho. Ao atacar a aparência de Renan, questionou se o cabelo do adversário seria resultado de implante ou inteligência artificial.\n— E se eu perguntasse: aquele cabelinho de boneca do Renanzinho Calheiros é IA, é implante? Na verdade, ele é careca. É implante, é IA, o que é? — provocou JHC.\nRenan devolveu a provocação:\n— Você pode até ser mais bonitinho do que eu, pode ter o cabelo mais lisinho do que eu, mas não é mais direito, mais sério nem mais trabalhador do que eu. A sua marca é a vaidade extrema: é o gel no cabelo e o bíceps por IA. \nOs dois chegaram a trocar os nomes pelos quais são conhecidos politicamente. Renan Filho chamou o adversário de “João Caldas”, referência ao nome de seu pai, o ex-deputado federal João Caldas. JHC, por sua vez, utilizou “Renanzinho Calheiros”, em referência ao pai do adversário, o senador Renan Calheiros.\nO confronto começou em torno da concessão dos serviços de água e esgotamento sanitário. JHC questionou Renan sobre a decisão tomada quando ele era governador e perguntou se o candidato se arrependia de ter “vendido a água dos alagoanos”. Renan rebateu afirmando que houve uma concessão dos serviços e acusou o adversário de fazer demagogia ao atacar uma decisão que envolveu uma outorga bilionária..\nNa educação, JHC defendeu a manutenção do Cartão Escola 10, ampliação de programas de qualificação profissional e expansão das creches conhecidas como “Gigantinhos”. Também afirmou que pretende atrair um data center para Alagoas como forma de gerar empregos. Renan apresentou o Cartão Escola 1000 e insistiu na defesa de uma política que combine educação e preparação dos jovens para o mercado de trabalho.\nA saúde foi outro dos principais campos de batalha. JHC questionou Renan sobre a permanência, em um eventual governo, do atual secretário estadual da área e levantou acusações relacionadas a investigações. Renan respondeu que não teria compromisso com integrantes da atual equipe e afirmou que escolheria pessoalmente os secretários das principais pastas.\nNa sequência, o emedebista voltou o ataque para a administração de Maceió e acusou o grupo político de JHC de utilizar a estrutura da prefeitura para fazer articulação eleitoral. A nomeação de integrantes ligados a aliados políticos também entrou na discussão. JHC rebateu defendendo sua gestão na capital e citando a compra do antigo Hospital do Coração, transformado no Hospital da Cidade, além de defender a criação de uma macrorregião de saúde no Sertão.\nEm outro momento, JHC acusou Renan de permitir um suposto esquema de “fura-fila” na saúde. O emedebista negou a acusação e devolveu a crítica ao adversário, afirmando que a estrutura da prefeitura de Maceió estaria sendo usada politicamente.\nAs contas públicas e o Banco Master também foram usados como munição. Renan questionou o endividamento da capital e cobrou de JHC explicações sobre cerca de R$ 97 milhões investidos pelo Instituto de Previdência dos Servidores Públicos de Maceió (Iprev) no banco. JHC respondeu atribuindo responsabilidades a integrantes do grupo adversário e citando relações políticas com o empresário Daniel Vorcaro.\nO funcionalismo público produziu mais uma rodada de ataques. JHC citou concursos e nomeações realizados durante sua gestão e afirmou que certames promovidos pelo governo estadual foram “fraudados”. Renan rebateu dizendo que JHC praticamente não realizou concursos em Maceió e questionou sua relação com servidores.\nNo encerramento, Renan apostou na própria experiência administrativa e na passagem pelo governo federal como argumento para a candidatura. JHC, por sua vez, destacou a trajetória como deputado estadual, deputado federal e prefeito de Maceió e apresentou a gestão da capital como vitrine para o projeto de chegar ao governo estadual.",
-    "published": "2026-09-11T16:37:02+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O primeiro debate entre Renan Filho (MDB) e João Henrique Caldas, o JHC (PSDB), candidatos ao governo de Alagoas, foi marcado por uma sucessão de acusações, provocações e ataques pessoais, embora os dois tenham mantido a calma na maior parte do confronto. Realizado pela TV Gazeta",
     "relevance": 5
   }
 ]
