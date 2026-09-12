@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "Dino diz ter dificuldades para dormir com “barulho” no STF",
+    "link": "https://www.poder360.com.br/poder-justica/dino-diz-ter-dificuldades-para-dormir-com-barulho-no-stf/",
+    "description": "Ministro disse durante palestra no Maranhão que “todo mundo sabe as dificuldades” vividas pela Corte",
+    "published": "2026-09-12T22:00:01+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Ministro disse durante palestra no Maranhão que “todo mundo sabe as dificuldades” vividas pela Corte",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Política",
     "title": "Os números milionários de 'Dark Horse' que Flávio Bolsonaro prometeu a Vorcaro: cachê de 'Oppenheimer', bilheteria da Zendaya",
     "link": "https://g1.globo.com/politica/noticia/2026/09/12/os-numeros-milionarios-de-dark-horse-que-flavio-bolsonaro-prometeu-a-vorcaro-cache-de-oppenheimer-bilheteria-da-zendaya.ghtml",
@@ -3938,6 +3950,10 @@
       {
         "source": "G1 - Política",
         "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/09/11/veja-o-que-e-fato-e-o-que-e-fake-no-debate-de-candidatos-ao-senado-pelo-distrito-federal-no-g1.ghtml"
+      },
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-veja-como-foi-a-agenda-de-candidatos-ao-governo-de-goias-nesta-sexta-feira-11.ghtml"
       }
     ]
   },
@@ -3997,19 +4013,6 @@
       "Mercado Financeiro"
     ],
     "summary": "O recente acordo fechado pela empresa Meta, controladora do Facebook e Instagram, no âmbito de ações movidas por dezenas de estados norte-americanos, deve ser analisado não pelo valor financeiro a ele atribuído, de até cerca de US$ 16 bilhões, mas pelo que representa sob a ótica ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "IA é usada por 92% das empresas do mercado de capitais, mostra pesquisa Anbima/Datafolha",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/11/ia-e-usada-por-92percent-das-empresas-do-mercado-de-capitais-mostra-pesquisa-anbimadatafolha.ghtml",
-    "description": "A inteligência artificial já é usada por 92% das empresas do mercado de capitais ligadas à Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais (Anbima), segundo pesquisa inédita da associação em parceria com o Datafolha. Porém, o levantamento também indicou que boa parte das instituições ainda está em estágio intermediário de maturidade, com o uso da IA ainda concentrado em ganhos de eficiência e processos internos.\n\nA pesquisa ouviu 177 empresas entre 21 de janeiro e 6 de abril deste ano, dentro de um universo de 1.500 instituições associadas à Anbima ou aderentes aos códigos de autorregulação da entidade. Do total de respondentes, 80% são gestoras e 20% são outras instituições, como securitizadoras, bancos, distribuidoras, corretoras e consultorias.\n\nSegundo Marcelo Billi, superintendente de Sustentabilidade, Inovação e Educação da Anbima, a maior presença de gestoras na amostra reflete a composição do quadro da associação. \n“A gente garante sempre que tenha uma proporção adequada de cada tipo de instituição para que, no conjunto, elas reflitam realmente o quadro de associados”, disse. Segundo ele, trata-se de “uma boa amostra para o mercado financeiro e de capitais do Brasil”.\n\nO levantamento nasceu de discussões anteriores da Anbima sobre o uso de IA no mercado. Billi afirma que, no ano passado, a associação fez um trabalho específico com gestoras de recursos para entender quais eram seus principais problemas e como a IA poderia ajudar a resolvê-las. A partir daí, a entidade decidiu ampliar a pesquisa para medir o grau de maturidade das instituições, mapear desafios e orientar a agenda da Anbima no tema.\n\nAplicações mais comuns da IA\nEntre as empresas que usam IA, as aplicações mais comuns são análise de dados, ou data science, citada por 72% dos respondentes, e IA generativa, mencionada por 67%. Também aparecem machine learning, com 48%, e processamento de linguagem natural, com 36%. Em geral, os casos relatados se concentram em atividades como processamento de informações, resumo de documentos, apoio a análises, organização de dados, automação de rotinas e revisão de processos.\n\nPara Billi, a pesquisa mostra uma divisão entre o uso atual da IA e o que as instituições esperam da tecnologia no futuro. “O uso de hoje é produtividade, eficiência, como eu pego esses processos repetitivos, como uso o dado de uma forma mais eficiente, como leio as coisas mais rápido”, afirmou. “O mundo do futuro, que ainda é muito incipiente, é uma agenda de transformação dos negócios.” \n\nEntre as empresas que adotam alguma prática de IA, 80% citam aumento de produtividade e 75% mencionam automação de tarefas. Apoio à tomada de decisão em áreas específicas e redução de riscos ou erros aparecem com 57% cada. Já efeitos mais diretamente ligados à transformação do negócio ainda são menos frequentes: 17% citam criação de novos produtos ou serviços, 14% mencionam vantagem competitiva e 6% apontam mudança no modelo de negócio.\n\nA própria Anbima avalia que a adoção da tecnologia ainda não significa maturidade homogênea. Entre as empresas que usam IA, 48% dizem estar em estágio intermediário, com aplicação em áreas-chave e melhoria de processos. Outros 25% relatam projetos isolados com ganhos pontuais. Só 11% afirmam ter IA integrada a processos críticos, com ganhos de produtividade e uso em novos negócios, e 3% dizem enxergar vantagem competitiva clara.\n\nEntre as empresas que usam IA, 52% dizem ter diretrizes informais ou políticas ainda em elaboração para o uso responsável da tecnologia. Apenas 9% afirmam ter política formal abrangente, com governança robusta, e 3% dizem estar em estágio avançado de maturidade.\n\nPara o executivo, é natural que a governança avance depois dos primeiros testes, mas ela passa a ser necessária quando as empresas tentam escalar o uso da tecnologia. “Quando eu quero isso fora do ambiente de experimentação, a gente precisa ter toda essa governança estruturada”, afirmou. “A gente não pode escalar um projeto de IA sem ter todas as políticas, todo o treinamento feito e tudo definido dentro da governança.”\n\nA transparência também aparece como ponto de atenção no relatório. Sete em cada dez empresas afirmam não ter políticas de transparência ou ter apenas políticas básicas sobre o uso de IA. Segundo a pesquisa, o tema tende a ganhar relevância à medida que a tecnologia se aproxima de processos críticos e de decisões com impacto sobre clientes, investidores e o mercado.\n\nA mensuração de resultados é outra lacuna. Entre as empresas que usam IA, 43% dizem perceber os resultados de forma subjetiva, sem métricas ou registros, e 28% usam indicadores apenas em projetos específicos. Só 3% afirmam ter mensuração corporativa integrada à estratégia da organização.\n\nSegundo Billi, a agenda da Anbima será ajudar as instituições, especialmente as menores, a avançar no uso da IA de forma mais estruturada. “A nossa missão é ajudar agora os nossos associados, especialmente os menores, que não têm tanta estrutura e tanto acesso a esse tipo de tecnologia, a avançar nessa agenda”, disse.\n\n\nFreepik",
-    "published": "2026-09-11T19:14:38+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "A inteligência artificial já é usada por 92% das empresas do mercado de capitais ligadas à Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais (Anbima), segundo pesquisa inédita da associação em parceria com o Datafolha. Porém, o levantamento também indicou ",
     "relevance": 5
   }
 ]
