@@ -1,5 +1,29 @@
 [
   {
+    "source": "Poder360",
+    "title": "Lula e Flávio focam inflação e segurança no horário eleitoral",
+    "link": "https://www.poder360.com.br/brasil/lula-e-flavio-focam-inflacao-e-seguranca-no-horario-eleitoral/",
+    "description": "Na TV e no rádio, candidatos falaram sobre preço dos alimentos e combate ao crime  organizado neste sábado (12.set.)",
+    "published": "2026-09-13T10:51:44+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Na TV e no rádio, candidatos falaram sobre preço dos alimentos e combate ao crime  organizado neste sábado (12.set.)",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Na TV, Lula reforça que não quer “blindar ninguém” ao se referir a Moraes",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/na-tv-lula-reforca-que-nao-quer-blindar-ninguem-ao-se-referir-a-moraes/",
+    "description": "Lula não cita verbalmente o ministro; a referência ao magistrado e a Daniel Vorcaro aparece só na legenda",
+    "published": "2026-09-13T10:34:44+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Lula não cita verbalmente o ministro; a referência ao magistrado e a Daniel Vorcaro aparece só na legenda",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "CDI de 14% ou FIIs com dividendo de 8%: faz sentido comparar os retornos?",
     "link": "https://www.infomoney.com.br/onde-investir/cdi-de-14-ou-fiis-com-dividendo-de-8-faz-sentido-comparar-os-retornos/",
@@ -955,6 +979,10 @@
       {
         "source": "InfoMoney",
         "link": "https://www.infomoney.com.br/politica/datafolha-76-afirmam-que-ha-poder-excessivo-no-stf/"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/datafolha-76-dos-brasileiros-veem-poder-excessivo-em-ministros-do-stf/"
       }
     ]
   },
@@ -3952,32 +3980,5 @@
         "link": "https://oglobo.globo.com/politica/noticia/2026/09/12/gilmar-reforca-pedido-de-zanin-para-ter-acesso-a-conteudo-do-celular-de-vorcaro.ghtml"
       }
     ]
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Ibovespa tem 4ª semana seguida em alta, mesmo com queda de hoje; Dólar sobe",
-    "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-11092026/",
-    "description": "Índices nos EUA fecham em alta, com petróleo e inflação no radar\nThe post Ibovespa tem 4ª semana seguida em alta, mesmo com queda de hoje; Dólar sobe appeared first on InfoMoney.",
-    "published": "2026-09-11T20:30:53+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Índices nos EUA fecham em alta, com petróleo e inflação no radar\nThe post Ibovespa tem 4ª semana seguida em alta, mesmo com queda de hoje; Dólar sobe appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Juros futuros ficam praticamente estáveis com IPCA e quebra de sigilo do caso Master",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/11/juros-futuros-ficam-praticamente-estaveis-com-ipca-e-quebra-de-sigilo-do-caso-master.ghtml",
-    "description": "Os juros futuros apagaram o recuo observado na maior parte do pregão desta sexta-feira e fecharam perto da estabilidade, com alguma pressão mais acentuada sobre as taxas de longo prazo, após o presidente do Supremo Tribunal Federal (STF), Edson Fachin, determinar a quebra total de sigilo das investigações do caso Master. O desdobramento da crise no Supremo acabou por apagar o bom desempenho que a renda fixa doméstica sustentava após o IPCA de agosto vir mais fraco do que o mercado esperava.\n\nA taxa do contrato de Depósito Interfinanceiro (DI) com vencimento de janeiro de 2027 ficou estável ante o ajuste da sessão de ontem, a 13,585%; a do DI de janeiro de 2028 oscilou de 13,63% para 13,625%; a do DI de janeiro de 2029 teve leve alta de 13,83% para 13,845%; e a do DI de janeiro de 2031 subiu de 14,03% a 14,05%.",
-    "published": "2026-09-11T20:30:31+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Os juros futuros apagaram o recuo observado na maior parte do pregão desta sexta-feira e fecharam perto da estabilidade, com alguma pressão mais acentuada sobre as taxas de longo prazo, após o presidente do Supremo Tribunal Federal (STF), Edson Fachin, determinar a quebra total d",
-    "relevance": 5
   }
 ]
