@@ -1,5 +1,29 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Split payment, da reforma tributária, começa de forma facultativa e só para empresas em 2027",
+    "link": "https://valor.globo.com/brasil/noticia/2026/09/13/split-payment-da-reforma-tributria-comea-de-forma-facultativa-e-s-para-empresas-em-2027.ghtml",
+    "description": "O split payment, sistema de arrecadação previsto na reforma tributária, estará disponível no segundo semestre de 2027, segundo a Receita Federal. Seu uso será opcional e apenas para transações entre empresas (B2B).\n\nUma série de informações equivocadas sobre o split tem sido divulgadas na internet nos últimos meses, como as afirmações de que ele vai atingir o faturamento de pequenas empresas do varejo.\n\n\"Durante o ano de 2027, o split payment será aplicável a operações comerciais entre empresas, com implementação gradual e facultativa, isto é, os contribuintes escolherão em quais operações desejam realizar o split ou não\", diz a Receita em resposta à reportagem.\n\nO fisco afirma não ser possível dizer neste momento se a obrigatoriedade começará a valer em 2028. Há também uma série de entraves técnicos para ampliar sua utilização nas vendas para pessoas físicas e para todos os meios de pagamento.\n\n\"Não é correto informar que a obrigatoriedade do split payment mudou para 2028. Em 2027 o split payment será disponibilizado, de maneira gradual e incremental, sendo inicialmente de uso opcional pelos agentes econômicos. No momento em que os meios de pagamento estiverem prontos para execução do split payment, ele passará a ser obrigatório.\"\n\nVenda para PF sem split\n\nA presidente da Fin (Confederação Nacional das Instituições Financeiras), Cristiane Coelho, afirma que o sistema em construção não permite o uso nas vendas para pessoas físicas. A separação dos tributos no momento do pagamento se aplica exclusivamente a operações em que tanto o pagador quanto o recebedor tenham CNPJ.\n\nLimitar o uso da ferramenta a algumas operações foi a forma encontrada para viabilizar a implementação no próximo ano.\n\nTambém estão fora da primeira fase do split os pagamentos com cartões (crédito, débito, vouchers etc.), criptomoedas e meios não eletrônicos, por exemplo. O sistema que será entregue no próximo ano só permite a utilização nas transferências (TEF e TED), boletos e Pix entre empresas, após manifestação dos interessados.\n\n\"Estamos focados nessa primeira entrega. Quando vai ser a segunda? Nem começamos a estudar\", afirma a presidente da Fin.\n\nMEI também de fora\n\nA separação só se aplica aos novos tributos sobre bens e serviços (CBS e IBS), que começam a substituir os atuais a partir de 2027. Nas transações sem esses impostos, não há o que ser separado. Isso ocorre, por exemplo, quando o fornecedor é um MEI (Microempreendedor Individual).\n\n\"O MEI não recolhe CBS e IBS sobre as suas vendas, não propaga crédito para o próximo elo da cadeia de consumo, isto é, não dá crédito para os seus clientes, portanto não há split a ser realizado\", diz a Receita.\n\nOperações com empresas do Simples Nacional podem ter split, mesmo para a microempresa que ficar no regime \"puro\", recolhendo todos os tributos em guia única, segundo o fisco. \"Essa medida garante a competitividade das empresas do Simples ‘puro’, pois permite que todo CBS e o IBS recolhidos se transformem em crédito para os seus clientes, quando eles forem contribuintes [dos novos tributos].\"\n\nTED e boleto\n\nPara utilizar o split, comprador ou vendedor precisam informar ao meio de pagamento os valores dos novos tributos em reais e o número do documento fiscal da operação. Se os campos não forem preenchidos, a transação prossegue sem a separação do tributo.\n\nSegundo o manual da nova ferramenta, há dois modelos previstos para conviver simultaneamente.\n\nPara meios de pagamento em que o preenchimento dos dados depende do comprador —transferências com TEF ou TED, e Pix chave ou QR Code estático—, será feito o split \"inteligente\".\n\nNessa modalidade, o imposto é recolhido de acordo com o valor informado na operação, sem consulta aos órgãos de governo. Caso haja retenção acima do devido, o ressarcimento ao fornecedor deve ser feito em até três dias úteis.\n\nApenas nos meios de pagamento em que o vendedor preenche os dados (boleto, Pix QR Code Dinâmico e Pix Automático) será utilizado o split \"super inteligente\".\n\nNessa modalidade, o banco consulta a Receita e o Comitê Gestor do IBS para saber se o tributo já foi quitado por outra modalidade (abatimento com créditos, por exemplo) e se é necessário fazer mesmo a separação.\n\nAceitação\n\nApesar de não ser obrigatório, o uso do split pode ser de interesse de alguns contribuintes. Atualmente, o crédito de tributos (PIS/Cofins e ICMS) é tomado pelo comprador com base no valor informado na nota fiscal, mesmo que o fornecedor não recolha o dinheiro. Para CBS e IBS, o crédito depende da quitação do imposto.\n\n\"O split é um instrumento para que o adquirente não fique dependendo da adimplência do fornecedor, para ter a garantia de que ele vai ter o crédito se o fornecedor ficar inadimplente\", afirma Bernard Appy, ex-secretário da Reforma Tributária.\n\nÂngelo de Angelis, ex-auditor da Receita de São Paulo e sócio da ACF Consultores, afirma que a ferramenta pode funcionar como um acelerador do crédito para as empresas. \"Em alguns casos, o split pode até favorecer o fluxo de caixa\", afirma.\n\nProdução assistida\n\nA Receita informa que a plataforma pública do split payment está em processo de desenvolvimento pelas equipes do fisco e do Comitê Gestor do IBS, formado por Estados e municípios. Os prestadores de serviços de pagamento também já estão construindo seus próprios sistemas, que se integrarão futuramente a essa plataforma.\n\nO split começará em um ambiente de \"produção assistida\", disponível para um grupo restrito de empresas, mas com transações reais e transferência efetiva de dinheiro.\n\nSegundo a Receita, serão testados primeiro a TEF e o Pix Chave Intrabancário (operações dentro da mesma instituição financeira), seguidos pela TED e, em seguida, boleto e Pix dinâmico e automático, ainda em produção assistida.\n\nSomente depois dessa etapa é que o sistema será disponibilizado para os demais CNPJs.",
+    "published": "2026-09-13T08:02:13+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O split payment, sistema de arrecadação previsto na reforma tributária, estará disponível no segundo semestre de 2027, segundo a Receita Federal. Seu uso será opcional e apenas para transações entre empresas (B2B).\n\nUma série de informações equivocadas sobre o split tem sido divu",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Boas práticas de governança renderam 224% a mais na América Latina, diz Morgan",
+    "link": "https://www.infomoney.com.br/mercados/boas-praticas-de-governanca-renderam-224-a-mais-na-america-latina-diz-morgan/",
+    "description": "Banco aponta que empresas melhor avaliadas em governança superaram pares de pior classificação em todos os países da região e destaca B3 (B3SA3), Vale (VALE3), Mercado Livre (MELI34) e Banorte entre suas preferidas\nThe post Boas práticas de governança renderam 224% a mais na América Latina, diz Morgan appeared first on InfoMoney.",
+    "published": "2026-09-13T08:00:00+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Banco aponta que empresas melhor avaliadas em governança superaram pares de pior classificação em todos os países da região e destaca B3 (B3SA3), Vale (VALE3), Mercado Livre (MELI34) e Banorte entre suas preferidas\nThe post Boas práticas de governança renderam 224% a mais na Amér",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "A liberdade que ficou sem crédito",
     "link": "https://oglobo.globo.com/ela/bruno-astuto/coluna/2026/09/a-liberdade-que-ficou-sem-credito.ghtml",
@@ -3660,7 +3684,13 @@
       "Politica"
     ],
     "summary": "O Rio de Janeiro (RJ) tem 17 candidatos a senador registrados para disputar a preferência do eleitor nas eleições de 2026, conforme dados do Tribunal Superior Eleitoral (TSE). A votação do primeiro turno acontece no dia 4 de outubro, das 8h às 17h, no horário de Brasília.  \nNo Ri",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/go/goias/eleicoes/2026/noticia/2026/09/11/eleicoes-2026-veja-como-foi-a-agenda-de-candidatos-ao-governo-de-goias-nesta-sexta-feira-11.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3963,31 +3993,5 @@
         "link": "https://www.poder360.com.br/poder-eleicoes-2026/tse-rejeita-registro-de-candidatura-de-marcal-a-presidencia/"
       }
     ]
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Candidatos a senador pelo Pará (PA): veja a lista das eleições 2026",
-    "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/11/candidatos-a-senador-pelo-para-pa-veja-a-lista-das-eleicoes-2026.ghtml",
-    "description": "O Pará (PA) tem 13 candidatos a senador registrados para disputar a preferência do eleitor nas eleições de 2026, conforme dados do Tribunal Superior Eleitoral (TSE). A votação do primeiro turno acontece no dia 4 de outubro, das 8h às 17h, no horário de Brasília.  \nNo Pará há 6.265.355 eleitores aptos a votar e duas vagas para o Senado Federal, em Brasília. Nestas eleições, cada eleitor vota em dois candidatos a senador na urna. Para este cargo, não é permitido votar na legenda (partidos ou federações).\nAté o início da votação, pode haver mudanças nas listas dos candidatos, com indeferimento de candidaturas por diversas razões. As situações de candidatura possíveis são:\nAguardando julgamento: Candidatura cujo o pedido ainda não foi apreciado pela Justiça Eleitoral\nCancelado em prazo recursal ou com recurso: Candidatura cujo registro foi cancelado pelo partido; no entanto, há recurso interposto contra essa decisão e aguarda julgamento por instância superior\nDeferido: Candidatura regular, com dados e documentação completos, que atendeu aos requisitos para concorrer e cujo pedido já foi julgado pela Justiça Eleitoral\nDeferido com recurso: Candidatura regular e com pedido de registro julgado deferido; no entanto, há recurso interposto contra essa decisão e aguarda julgamento por instância superior\nIndeferido em prazo recursal ou com recurso: Candidatura não regular e com pedido de registro julgado indeferido; no entanto, há recurso interposto contra essa decisão e aguarda julgamento por instância superior\nPedido não conhecido em prazo recursal ou com recurso: Candidatura cujo pedido de registro não foi conhecido por não ter preenchido os requisitos mínimos para ser admitido à apreciação; no entanto há recurso interposto contra essa decisão e aguarda julgamento por instância superior \nPendente de julgamento: Candidatura cujo pedido inicial ainda não foi apreciado pela Justiça Eleitoral, inclusive em decorrência de substituição da candidatura ou anulação de convenção, mas concorre ao pleito e consta da urna eletrônica\nCancelado: Candidatura cujo registro foi cancelado pelo partido\nIndeferido: Candidatura que não reuniu as condições necessárias para o deferimento do pedido de registro ou que está vinculado a DRAP (partido, federação ou coligação) indeferido, com pedido já julgado pela Justiça Eleitoral\nFalecido: Candidatura com registro cancelado pela Justiça Eleitoral logo após a comprovação do falecimento\nPedido não conhecido: Pedido de registro que não preenche os requisitos mínimos para ser admitido à apreciação, conforme decisão já proferida pela Justiça Eleitoral\nRenúncia: Candidatura para a qual foi apresentada desistência e cuja renúncia já se encontra homologada pela Justiça Eleitoral \nVeja abaixo a lista de todos os candidatos com os nomes, partidos, números de urna e situação das candidaturas: \nLista de candidatos ao Senado no Pará",
-    "published": "2026-09-11T20:19:10+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O Pará (PA) tem 13 candidatos a senador registrados para disputar a preferência do eleitor nas eleições de 2026, conforme dados do Tribunal Superior Eleitoral (TSE). A votação do primeiro turno acontece no dia 4 de outubro, das 8h às 17h, no horário de Brasília.  \nNo Pará há 6.26",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Bolsas de NY sobem, apesar do aumento nas apostas de alta nos juros",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/11/bolsas-de-ny-sobem-apesar-do-aumento-nas-apostas-de-alta-nos-juros.ghtml",
-    "description": "O alívio nos preços do petróleo, na esteira da realização de lucros dos investidores, deu suporte às bolsas americanas nesta sexta-feira (11), que encerraram a sessão em alta firme, apesar do aumento nas apostas de uma alta nos juros pelo Federal Reserve (Fed) na semana que vem. As leituras de inflação firmes para o mês de agosto, somadas à disparada no valor do barril de petróleo nesta semana, levaram os operadores a precificar a necessidade de uma política monetária mais restritiva.\n\nO índice Dow Jones encerrou em alta de 0,98%, aos 52.573,29 pontos; o S&amp;P 500 ganhou 0,86%, aos 7.656,98 pontos; e o Nasdaq teve avanço de 0,96%, aos 26.333,04 pontos. Na semana, porém, as bolsas acumularam perdas de 1,57%, 0,80% e 0,66%, respectivamente.\n\nA sessão também foi marcada pela volatilidade no mercado de renda fixa e um movimento de achatamento da curva de juros americana. As taxas de curto prazo avançaram, refletindo o aumento das apostas por uma alta de juros na reunião do Fed de setembro, enquanto os vértices de longo prazo chegaram a registrar descompressão, embora tenham retornado para perto da estabilidade ao longo do dia.\n\nO índice de preços ao consumidor (CPI) de agosto foi o principal direcionador da reprecificação dos juros de curto prazo. O indicador veio praticamente em linha com o consenso, com um leve avanço acima do esperado no núcleo. A leitura, somada aos números de preços ao produtor (PPI) e dos valores elevados do petróleo, sedimentaram as apostas por uma alta de juros do Fed em setembro.\n\n\nMichael Nagle/Bloomberg",
-    "published": "2026-09-11T20:19:03+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O alívio nos preços do petróleo, na esteira da realização de lucros dos investidores, deu suporte às bolsas americanas nesta sexta-feira (11), que encerraram a sessão em alta firme, apesar do aumento nas apostas de uma alta nos juros pelo Federal Reserve (Fed) na semana que vem. ",
-    "relevance": 5
   }
 ]
