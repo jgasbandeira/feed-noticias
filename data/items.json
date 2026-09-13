@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "Dino critica “morosidades inexplicáveis” em investigações",
+    "link": "https://www.poder360.com.br/poder-justica/dino-critica-morosidades-inexplicaveis-em-investigacoes/",
+    "description": "Ministro retirou neste domingo (13.set) o sigilo de investigação conduzida pela Polícia Civil de São Paulo sobre a Go Up Entertainment, produtora de \"Dark Horse\", a cinebiografia de Jair Bolsonaro",
+    "published": "2026-09-13T15:07:35+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Ministro retirou neste domingo (13.set) o sigilo de investigação conduzida pela Polícia Civil de São Paulo sobre a Go Up Entertainment, produtora de \"Dark Horse\", a cinebiografia de Jair Bolsonaro",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Paes participa de evento como 'time de Lula' na Baixada, mas aliado carrega colinha com apoio a Flávio Bolsonaro",
     "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/13/paes-participa-de-evento-como-time-de-lula-na-baixada-mas-aliado-carrega-colinha-com-apoio-a-flavio-bolsonaro.ghtml",
@@ -314,7 +326,13 @@
       "Politica"
     ],
     "summary": "Mensagens coletadas pela Polícia Federal (PF) e obtidas pela reportagem mostram conversas no WhatsApp atribuídas ao ministro André Mendonça, do Supremo Tribunal Federal (STF), com o ex-governador do Rio de Janeiro Cláudio Castro (PL), tratando de processos de seu interesse.\n\nNos ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/politica/claudio-castro-acionou-mendonca-antes-de-voto-sobre-soltura-de-sergio-cabral/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -2250,6 +2268,10 @@
       {
         "source": "Valor Econômico",
         "link": "https://valor.globo.com/politica/noticia/2026/09/12/fachin-assume-caso-das-mensagens-de-vorcaro-a-moraes-e-pede-processos-do-master-e-inss.ghtml"
+      },
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/politica/pf-diz-a-fachin-que-pode-compartilhar-dados-do-celular-de-vorcaro-com-ministros/"
       }
     ]
   },
@@ -3928,18 +3950,6 @@
       "Mercado Financeiro"
     ],
     "summary": "A Associação Brasileira de Fintechs (ABFintechs) anunciou, nesta sexta-feira (11), o lançamento de um hub de negócios com o objetivo de apoiar as associadas e fortalecer o ecossistema. A iniciativa permitirá que as fintechs compartilhem demandas e encontrem produtos e serviços pa",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Mendonça responde Zanin e afirma que HD com dados de Vorcaro está lacrado",
-    "link": "https://www.infomoney.com.br/politica/mendonca-responde-zanin-e-afirma-que-hd-com-dados-de-vorcaro-esta-lacrado/",
-    "description": "Ministro do STF diz que determinou que materiais originais apreendidos permanecessem sob custódia da Polícia Federal\nThe post Mendonça responde Zanin e afirma que HD com dados de Vorcaro está lacrado appeared first on InfoMoney.",
-    "published": "2026-09-11T21:40:20+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Ministro do STF diz que determinou que materiais originais apreendidos permanecessem sob custódia da Polícia Federal\nThe post Mendonça responde Zanin e afirma que HD com dados de Vorcaro está lacrado appeared first on InfoMoney.",
     "relevance": 5
   }
 ]
