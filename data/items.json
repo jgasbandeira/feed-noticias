@@ -1,5 +1,17 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Caiado anuncia mulheres que pretende indicar para Ministério da Saúde e STF",
+    "link": "https://valor.globo.com/noticia/2026/09/13/caiado-anuncia-mulheres-que-pretende-indicar-para-ministrio-da-sade-e-stf.ghtml",
+    "description": "O candidato do PSD à Presidência da República, Ronaldo Caiado, anunciou neste domingo que pretende nomear a cardiologista Ludhmila Hajjar para o Ministério da Saúde e a ex-procuradora-geral da República Raquel Dodge para o Supremo Tribunal Federal (STF), caso seja eleito.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-14T00:32:51+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O candidato do PSD à Presidência da República, Ronaldo Caiado, anunciou neste domingo que pretende nomear a cardiologista Ludhmila Hajjar para o Ministério da Saúde e a ex-procuradora-geral da República Raquel Dodge para o Supremo Tribunal Federal (STF), caso seja eleito.\n Matéri",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "'Da magia à sedução 2' lidera bilheterias americanas; ação com Rodrigo Santoro estreia na quarta posição",
     "link": "https://oglobo.globo.com/cultura/filmes/noticia/2026/09/13/da-magia-a-seducao-2-lidera-bilheterias-americanas-acao-com-rodrigo-santoro-estreia-na-quarta-posicao.ghtml",
@@ -563,7 +575,13 @@
       "Politica"
     ],
     "summary": "A perícia de São Paulo se recusou a periciar ao menos 17 dispositivos apreendidos com a empresária Karina Ferreira da Gama, dona do Instituto Conhecer Brasil (ICB), e em empresas que prestavam serviços ao instituto, entre celulares, notebooks e pen drives. Em uma das justificativ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/politica/noticia/2026/09/13/pericia-aponta-falha-em-lacre-de-27-dispositivos-apreendidos-em-operacao-contra-produtora-de-dark-horse.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3921,17 +3939,5 @@
         "link": "https://valor.globo.com/financas/noticia/2026/09/12/pf-encontrou-coleo-de-vinhos-avaliada-em-quase-r-1-milho-na-casa-de-investigado-no-caso-master.ghtml"
       }
     ]
-  },
-  {
-    "source": "O Globo",
-    "title": "'Bom dia Rio' vai estrear duas séries sobre as eleições 2026",
-    "link": "https://oglobo.globo.com/play/noticia/2026/09/12/bom-dia-rio-vai-estrear-duas-series-sobre-as-eleicoes-2026.ghtml",
-    "description": "Apresentadores do “Bom dia Rio”, Flávio Fachel e Silvana Ramiro deixarão o estúdio pela primeira vez e irão às ruas para fazer o quadro “Palanque”. A dupla vai percorrer a Região Metropolitana a fim de ouvir o que os moradores esperam dos próximos governantes. Serão três episódios. A exibição começará na terça-feira.\nLeia também: Sportv vai lançar série que conta a trajetória do futebol feminino no Brasil\nE mais: TV Brasil estreará série teen sobre futebol feminino criada pelos Irmãos Carvalho. Confira qual será a história\nNo dia 21, a repórter Anna Beatriz Lourenço estreará no telejornal a série “Mochilão Bom dia”, em que visitará diferentes regiões do estado com o objetivo de mostrar os desafios do novo governador. No roteiro da equipe estarão as cidades de Nova Friburgo, Angra dos Reis e Volta Redonda.\nTV e famosos: se inscreva no canal da coluna Play no WhatsApp\nInitial plugin text",
-    "published": "2026-09-12T06:25:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Apresentadores do “Bom dia Rio”, Flávio Fachel e Silvana Ramiro deixarão o estúdio pela primeira vez e irão às ruas para fazer o quadro “Palanque”. A dupla vai percorrer a Região Metropolitana a fim de ouvir o que os moradores esperam dos próximos governantes. Serão três episódio",
-    "relevance": 5
   }
 ]
