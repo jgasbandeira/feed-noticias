@@ -1,5 +1,18 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Dólar à vista avança com exterior negativo e eleições no radar",
+    "link": "https://valor.globo.com/financas/noticia/2026/09/14/dolar-a-vista-avanca-com-exterior-negativo-e-eleicoes-no-radar.ghtml",
+    "description": "O dólar à vista exibiu valorização frente ao real nesta segunda-feira, em um movimento alinhado ao observado na maioria dos mercados mais líquidos no exterior. A alta dos preços do petróleo voltou a preocupar os agentes, que temem que a pressão inflacionária mantenha as taxas de juros globais elevadas. \n\nDiante disso, o rendimento do título do Tesouro americano bateu a marca de 5% pela primeira vez desde 2023, o que bastou para um fortalecimento do dólar globalmente.\n\nPor aqui, a pesquisa Quaest mostrou o senador Flávio Bolsonaro (PL-RJ) à frente do presidente Luiz Inácio Lula da Silva (PT) pela primeira vez em um cenário de segundo turno, ainda que pela margem de erro eles estejam empatados. Isso ajudou a evitar uma depreciação maior do câmbio nesta manhã e começo de tarde. O mercado vê com bons olhos a alternância de poder por conta da gestão da dívida pública, por isso, quando Flávio ganha força, o prêmio de risco dos ativos se reduz.\n\nEncerradas as negociações desta segunda-feira, o dólar à vista fechou negociado em alta de 0,43%, cotado a R$ 5,1472, depois de ter batido na mínima de R$ 5,1415 e encostado na máxima de R$ 5,1823. Já o euro comercial teve queda de 0,01%, a R$ 5,9429.\n\nPerto das 17h05, o índice DXY, que mede a força do dólar contra uma cesta de seis moedas de mercados desenvolvidos, apreciava 0,40%, aos 99,517 pontos.",
+    "published": "2026-09-14T20:05:38+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O dólar à vista exibiu valorização frente ao real nesta segunda-feira, em um movimento alinhado ao observado na maioria dos mercados mais líquidos no exterior. A alta dos preços do petróleo voltou a preocupar os agentes, que temem que a pressão inflacionária mantenha as taxas de ",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Trump reposta promessa de pagar US$ 5 mil para adultos em caso de vitória na eleição",
     "link": "https://www.infomoney.com.br/mundo/trump-reposta-promessa-de-pagar-us-5-mil-para-adultos-em-caso-de-vitoria-na-eleicao/",
@@ -348,7 +361,13 @@
       "Politica"
     ],
     "summary": "O Supremo Tribunal Federal anunciou nesta segunda-feira, que as pessoas que tiverem acesso ao plenário da Corte para o julgamento sobre o ministro Alexandre de Moraes terão seus celulares lacrados em sacolas de segurança. Os aparelhos deverão permanecer desligados durante a sessã",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/politica/celulares-lacrados-e-detector-de-metal-as-regras-do-stf-para-o-julgamento-de-moraes/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -989,7 +1008,13 @@
       "Politica"
     ],
     "summary": "A Polícia Federal aponta que o deputado federal Cezinha de Madureira (PL-SP) buscou influência junto a ministros de tribunais superiores para tentar obter decisões favoráveis em processos de interesse de sua mulher, a advogada Valéria Rodrigues Linhares, e de Mariângela Fialek, c",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/politica/cezinha-buscou-membros-do-stf-por-interesses-de-mulher-e-ex-assessora-de-lira/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -2330,6 +2355,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/blogs/miriam-leitao/coluna/2026/09/como-sera-o-rito-da-sessao-sobre-o-julgamento-de-alexandre-de-moraes.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/09/14/saiba-como-sera-a-sessao-de-julgamento-de-alexandre-de-moraes-no-stf.ghtml"
       }
     ]
   },
@@ -3895,20 +3924,6 @@
     "published": "2026-09-14T08:00:00+00:00",
     "themes": [
       "Economia"
-    ],
-    "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Principal Asset rebaixa ações do Brasil por falta de clareza política",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/14/principal-asset-rebaixa-acoes-do-brasil-por-falta-de-clareza-politica.ghtml",
-    "description": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-09-14T08:00:00+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro",
-      "Asset"
     ],
     "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
     "relevance": 5
