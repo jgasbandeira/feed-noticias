@@ -1,5 +1,54 @@
 [
   {
+    "source": "G1 - Economia",
+    "title": "Criminosos criam site e app falsos do Mercado Livre para invadir celulares de vítimas",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/09/14/criminosos-criam-site-e-app-falsos-do-mercado-livre-para-invadir-celulares-de-vitimas.ghtml",
+    "description": "Operação logística do Mercado Livre\nMercado Livre\nGolpistas desenvolveram um site e um aplicativo falsos em nome do Mercado Livre Coleta para tentar invadir celulares e obter dados pessoais das vítimas. A ação foi descoberta pela empresa de segurança digital ESET. O g1 teve acesso aos links usados no golpe e confirmou a prática.\nO Mercado Livre Coleta é um serviço de logística voltado aos vendedores que usam a plataforma. Com ele, o próprio Mercado Livre retira os produtos no endereço dos lojistas e faz a entrega aos clientes que realizaram a compra.\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\nA empresa, no entanto, não oferece um aplicativo exclusivo para esse serviço. Por isso, o app apresentado pelos criminosos como parte do Mercado Livre Coleta não é oficial.\nO site que divulga o aplicativo também dá indícios de não ser oficial, já que termina em \"pages.dev\". Sites oficiais de grandes empresas costumam terminar em \".com.br\" ou \".com\".\nAgora no g1\nProcurado pelo g1, o Mercado Livre disse que tomou conhecimento do golpe e que está atuando para derrubar a URL maliciosa. \n\"A companhia reforça que não envia links para downloads de aplicativos fora das lojas oficiais, como Google Play e App Store\", completou. (leia a nota abaixo)\nComo os criminosos atuam\nCriminosos criam site e app falsos do Mercado Livre para invadir celulares de vítimas\nReprodução\nAo acessar o site falso, os criminosos tentam atrair a vítima com informações atrativas: \"Acumule pontos e aproveite! Troque por viagens, descontos na fatura, cashback ou até Pix direto na conta. Tudo pelo app!\", diz a mensagem.\nLogo abaixo, há um botão \"Baixar APK\". É ali que está o arquivo malicioso, disfarçado de aplicativo e capaz de infectar o celular da vítima.\nAPK é a sigla para \"Android Package Kit\", um formato de arquivo usado pelo Android para distribuir e instalar aplicativos no celular. Normalmente, os apps são baixados pela Google Play Store, loja oficial do Android, mas também é possível instalar arquivos APK obtidos fora dela.\nEsse tipo de instalação pode oferecer riscos, principalmente quando o arquivo vem de uma fonte desconhecida, como neste caso.\nSegundo a ESET, o próprio Android alerta que baixar o aplicativo pode trazer riscos. No teste feito pelo g1, o sistema exibiu um aviso de que o \"arquivo pode ser nocivo\", mas ainda assim permitiu a instalação. (veja na imagem acima)\n\"Após a instalação, surge uma tela solicitando a liberação de acesso a uma VPN externa, o que permite que o dispositivo da vítima se conecte à mesma rede do criminoso, possibilitando o acesso remoto ao aparelho\", explicou a empresa de segurança.\nApp pede permissão para acessar informações no celular\nReprodução\nApós a instalação, o app falso solicita permissões para gravar a tela, capturar o que é digitado no teclado e acessar a câmera. Com esses acessos, os criminosos conseguem controlar o aparelho sem que a vítima perceba.\nA partir daí, eles podem tentar roubar senhas, números de cartões de crédito e códigos de autenticação recebidos por SMS. Também podem ativar recursos de acessibilidade do celular para monitorar senhas digitadas, mensagens enviadas e outras ações realizadas no aparelho.\n\"As permissões solicitadas são justamente o que pode transformar um simples download em uma porta de entrada para o criminoso acessar recursos críticos. Por isso, qualquer pedido de acesso a VPN, acessibilidade ou controle remoto feito por um app desconhecido deve ser tratado como um forte sinal de alerta\", explica Jonathan Ramos, pesquisador de segurança da ESET Brasil.\nO que fazer se você baixou o app falso e como se proteger\nSe você baixou esse ou qualquer outro app suspeito, a recomendação é ativar o modo avião e desligar as conexões Wi-Fi e de rede móvel do celular. Isso pode interromper a comunicação do aplicativo com os criminosos.\nEm seguida, tente desinstalar o app. Caso não seja possível removê-lo, a recomendação é restaurar o aparelho para as configurações de fábrica. Esse procedimento apaga os dados armazenados no celular, por isso é importante manter um backup atualizado.\nTambém é aconselhável alterar as senhas de contas importantes, como as de bancos, e-mail e redes sociais. \"Deve-se procurar as instituições financeiras em que tem conta para acompanhar possíveis movimentações suspeitas. A ativação da autenticação em duas etapas nas contas importantes adiciona uma camada extra de proteção\", aconselha a ESET.\nVeja, a seguir, outras dicas para se proteger:\n🌎 Observe o endereço (URL): o endereço de sites oficiais de grandes empresas costuma usar o domínio da própria companhia. No Brasil, é comum que esses endereços terminem em \".com.br\", mas algumas empresas usam apenas \".com\" ou outros domínios. Por isso, confira se a URL corresponde ao endereço oficial da empresa e se não há alterações ou caracteres estranhos.\n🦹‍♂️ Analise a estrutura do site: golpistas costumam copiar páginas oficiais, mas erros de português, imagens de baixa qualidade, informações inconsistentes e elementos que não funcionam corretamente podem indicar uma tentativa de fraude.\n📱 Baixe aplicativos apenas de fontes confiáveis: evite instalar APKs recebidos por links, mensagens ou sites desconhecidos. Dê preferência às lojas oficiais, como a App Store, no iPhone, e a Google Play Store, no Android.\n📣 Desconfie de mensagens que criam senso de urgência: páginas falsas podem exibir alertas de tempo esgotando ou \"últimas unidades\", por exemplo, para pressionar a vítima a clicar e concluir uma compra rapidamente. Também desconfie de ofertas que prometem vantagens fáceis ou benefícios muito acima do normal, como cashback, dinheiro ou pontos para trocar por viagens.\n🤑 Atenção a preços muito abaixo do mercado: em sites que anunciam produtos e serviços, criminosos podem oferecer preços muito inferiores aos praticados por lojas confiáveis para atrair vítimas. Desconfie de ofertas que estejam muito abaixo do valor normalmente cobrado.\n⚠️ Cuidado com anúncios na internet: criminosos podem usar anúncios patrocinados em redes sociais e mecanismos de busca para aumentar a visibilidade e a aparência de legitimidade de páginas falsas. Por isso, mesmo que o site apareça como anúncio, confira o endereço antes de fornecer dados ou fazer uma compra.\n💳  Caiu em um golpe? Entre em contato com o banco o quanto antes e solicite o Mecanismo Especial de Devolução (MED) para tentar reverter o PIX.\nO que diz o Mercado Livre\n\"O Mercado Livre informa que tomou conhecimento do caso e acionou suas equipes para a análise do conteúdo e solicitação de derrubada da URL maliciosa. A empresa esclarece que a ação se trata de uma tentativa de fraude externa ao seu ecossistema e que não possui um aplicativo ou site exclusivo para o serviço Mercado Livre Coleta.\nA companhia reforça que não envia links para downloads de aplicativos fora das lojas oficiais (como Google Play e App Store) e reitera que todas as operações e interações devem ser realizadas exclusivamente por meio do site ou aplicativo oficial do Mercado Livre.\nO Mercado Livre mantém monitoramento contínuo para atuar preventivamente na identificação de uso indevido de sua marca e reafirma seu compromisso com a segurança e a proteção do seu ecossistema e de seus usuários.\"\niPhone Duo: Apple lança seu primeiro celular dobrável\nSistemas de câmeras usam inteligência artificial e prometem se antecipar a crimes",
+    "published": "2026-09-14T07:00:01+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Operação logística do Mercado Livre\nMercado Livre\nGolpistas desenvolveram um site e um aplicativo falsos em nome do Mercado Livre Coleta para tentar invadir celulares e obter dados pessoais das vítimas. A ação foi descoberta pela empresa de segurança digital ESET. O g1 teve acess",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "‘Seja quem for eleito, algum ajuste precisará ser feito’, defende CEO da SulAmérica Investimentos, Vida e Previdência",
+    "link": "https://oglobo.globo.com/economia/negocios/noticia/2026/09/14/seja-quem-for-eleito-algum-ajuste-precisara-ser-feito-defende-ceo-da-sulamerica-investimentos-vida-e-previdencia.ghtml",
+    "description": "A SulAmérica Investimentos alcançou este mês R$ 100 bilhões em gestão, o dobro de quatro anos antes. O CEO Marcelo Mello, que também comanda os segmentos de Vida e Previdência da companhia, atribui o resultado à adoção de uma “postura conservadora” diante do patamar elevado da taxa básica de juros (Selic). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-14T07:00:01+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "A SulAmérica Investimentos alcançou este mês R$ 100 bilhões em gestão, o dobro de quatro anos antes. O CEO Marcelo Mello, que também comanda os segmentos de Vida e Previdência da companhia, atribui o resultado à adoção de uma “postura conservadora” diante do patamar elevado da ta",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Os sinais de Cármen Lúcia sobre inquérito para investigar Alexandre de Moraes",
+    "link": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/09/os-sinais-de-carmen-lucia-sobre-inquerito-para-investigar-alexandre-de-moraes.ghtml",
+    "description": "Com o Supremo Tribunal Federal conflagrado a respeito da sessão que vai decidir sobre a abertura de um inquérito para investigar a relação de Alexandre de Moraes e Daniel Vorcaro, um voto em especial se tornou alvo de um cabo de guerra: o da ministra Cármen Lúcia. Considerada peça-chave na definição do resultado do julgamento, ela vem sofrendo pressão de todos os lados. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-14T07:00:01+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Com o Supremo Tribunal Federal conflagrado a respeito da sessão que vai decidir sobre a abertura de um inquérito para investigar a relação de Alexandre de Moraes e Daniel Vorcaro, um voto em especial se tornou alvo de um cabo de guerra: o da ministra Cármen Lúcia. Considerada peç",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "‘O gasto obrigatório vai crescer menos no Orçamento de 2027. Isso é resposta efetiva’, diz Durigan",
+    "link": "https://oglobo.globo.com/economia/noticia/2026/09/14/o-gasto-obrigatorio-vai-crescer-menos-no-orcamento-de-2027-isso-e-resposta-efetiva-diz-durigan.ghtml",
+    "description": "O ministro da Fazenda, Dario Durigan, foi designado pelo presidente Lula como interlocutor da campanha eleitoral para temas econômicos. Diante da desconfiança do mercado sobre o compromisso do candidato do PT com o equilíbrio das contas públicas, Durigan sustenta que o projeto de lei orçamentária de 2027 é a resposta mais efetiva do governo, ao prever superávit primário e uma expansão de gastos obrigatórios inferior ao limite máximo permitido pela atual regra fiscal. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-14T07:00:01+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O ministro da Fazenda, Dario Durigan, foi designado pelo presidente Lula como interlocutor da campanha eleitoral para temas econômicos. Diante da desconfiança do mercado sobre o compromisso do candidato do PT com o equilíbrio das contas públicas, Durigan sustenta que o projeto de",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "'Dark horse': quatro questões a serem respondidas após as decisões e quebras de sigilo de Dino",
     "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/14/dark-horse-quatro-questoes-a-serem-respondidas-apos-as-decisoes-e-quebras-de-sigilo-de-dino.ghtml",
@@ -369,7 +418,13 @@
       "Politica"
     ],
     "summary": "O Supremo Tribunal Federal chega às vésperas da sessão desta terça-feira (15) que pode decidir sobre a abertura de uma apuração contra o ministro Alexandre de Moraes por mensagens enviadas por Daniel Vorcaro sem definição do rito e principalmente do quórum que vai analisar o rela",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/blogs/bela-megale/post/2026/09/a-estrategia-de-ministros-para-salvar-moraes-no-julgamento-sobre-as-mensagens-de-vorcaro-na-terca.ghtml"
+      }
+    ]
   },
   {
     "source": "G1 - Economia",
@@ -3888,56 +3943,6 @@
       "Politica"
     ],
     "summary": "O presidente Donald Trump demonstrou otimismo quanto à possibilidade de encerrar a guerra comercial com o Canadá e afirmou que um acordo entre os dois países pode ser alcançado “em breve”. Ele, no entanto, não deu detalhes sobre uma eventual retomada das negociações formais entre",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Fica mais caro entrar com ação e recurso na Justiça federal, a partir do ano que vem",
-    "link": "https://valor.globo.com/legislacao/noticia/2026/09/12/fica-mais-caro-entrar-com-acao-e-recurso-na-justica-federal-a-partir-do-ano-que-vem.ghtml",
-    "description": "A partir do ano que vem fica mais caro propor ações e recursos na Justiça Federal. O presidente da República Luiz Inácio Lula da Silva sancionou a Lei nº 15.498, de 2026, que aumenta as custas devidas no ajuizamento das ações cíveis e previdenciárias, por exemplo. Advogados criticam a medida, enquanto o Poder Judiciário comemora. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-09-12T11:30:00+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "A partir do ano que vem fica mais caro propor ações e recursos na Justiça Federal. O presidente da República Luiz Inácio Lula da Silva sancionou a Lei nº 15.498, de 2026, que aumenta as custas devidas no ajuizamento das ações cíveis e previdenciárias, por exemplo. Advogados criti",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Ex-presidente do BRB procurou PGR três dias após prisão para negociar colaboração",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/12/ex-presidente-do-brb-procurou-pgr-trs-dias-aps-priso-para-negociar-colaborao.ghtml",
-    "description": "Paulo Henrique Costa, ex-presidente do Banco de Brasília (BRB), procurou a Procuradoria-Geral da República (PGR) em 19 de abril, três dias depois de ser preso preventivamente, para iniciar tratativas de uma colaboração premiada no caso Banco Master. Uma reunião formal com autoridades ocorreu em 28 de maio, segundo a defesa. A proposta acabaria recusada pela PGR em 25 de junho.\n\nA cronologia consta de uma petição apresentada pela defesa de Paulo Henrique ao Supremo Tribunal Federal (STF) em 12 de junho. Os advogados afirmam que o ex-presidente do BRB buscou a PGR em 19 de abril e que, mais de um mês depois, houve uma reunião formal. Passadas duas semanas do encontro, diziam ainda não ter recebido uma definição sobre o avanço das conversas.\n\nO interesse em colaborar havia chegado formalmente ao STF ainda em abril. Em despacho de 29 daquele mês, o ministro André Mendonça registrou que Paulo Henrique manifestara possível “interesse em cooperar com as autoridades competentes, possivelmente por meio de colaboração premiada”. Ele pediu ainda transferência para um local que preservasse a confidencialidade necessária para discutir com a defesa uma decisão definitiva sobre a negociação.\n\nMendonça determinou que os documentos relacionados à possível colaboração fossem retirados de petição do caso, na qual havia sido decretada a prisão preventiva, e passassem a tramitar separadamente. \n\nEm junho, diante da falta de uma definição, a defesa pediu ao STF que determinasse à PGR e à PF que, caso não pretendessem assinar um termo de confidencialidade para prosseguir com as tratativas, apresentassem por escrito as razões da decisão. Os advogados sustentaram que eventual recusa deveria ser fundamentada.\n\nA PGR recusou a proposta em 25 de junho. O procurador-geral da República, Paulo Gonet, considerou que a colaboração tinha “reduzida utilidade e débil eficácia potencial” e que parte expressiva dos temas apresentados não trazia informações inéditas para a investigação. Também apontou ausência de indicação de que o acordo produziria resultados diferentes dos já obtidos pelos investigadores, inclusive para eventual ressarcimento dos prejuízos.\n\nPaulo Henrique foi preso por ordem de Mendonça em 16 de abril, no âmbito das investigações sobre as operações entre BRB e Banco Master. A Polícia Federal atribui ao ex-presidente do banco público participação na aquisição de carteiras de crédito fraudulentas. A defesa contesta as acusações e sustenta que não há elementos contemporâneos que justifiquem a manutenção da prisão.\n\nPaulo Henrique Costa, ex-presidente do BRB\nAndre Coelho/Valor",
-    "published": "2026-09-12T11:08:50+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Paulo Henrique Costa, ex-presidente do Banco de Brasília (BRB), procurou a Procuradoria-Geral da República (PGR) em 19 de abril, três dias depois de ser preso preventivamente, para iniciar tratativas de uma colaboração premiada no caso Banco Master. Uma reunião formal com autorid",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Juros altos por período longo penalizam empresas com planos de expansão, diz ARX",
-    "link": "https://www.infomoney.com.br/onde-investir/juros-altos-por-periodo-longo-penalizam-empresas-com-planos-de-expansao-diz-arx/",
-    "description": "Executivo pontua que aperto monetário prolongado atinge companhias que aceleram expansão com custo de capital defasado e exige cautela na seleção de créditos\nThe post Juros altos por período longo penalizam empresas com planos de expansão, diz ARX appeared first on InfoMoney.",
-    "published": "2026-09-12T11:00:00+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Executivo pontua que aperto monetário prolongado atinge companhias que aceleram expansão com custo de capital defasado e exige cautela na seleção de créditos\nThe post Juros altos por período longo penalizam empresas com planos de expansão, diz ARX appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "ETFs ganham espaço no Brasil e têm “aposta gigantesca”, diz CEO da XP Asset",
-    "link": "https://www.infomoney.com.br/mercados/etfs-ganham-espaco-no-brasil-e-tem-aposta-gigantesca-diz-ceo-da-xp-asset/",
-    "description": "Leandro Bousquet vê mudança de patamar na indústria de ETFs e prepara expansão da XP Asset em investimentos alternativos globais\nThe post ETFs ganham espaço no Brasil e têm “aposta gigantesca”, diz CEO da XP Asset appeared first on InfoMoney.",
-    "published": "2026-09-12T11:00:00+00:00",
-    "themes": [
-      "Asset",
-      "XP"
-    ],
-    "summary": "Leandro Bousquet vê mudança de patamar na indústria de ETFs e prepara expansão da XP Asset em investimentos alternativos globais\nThe post ETFs ganham espaço no Brasil e têm “aposta gigantesca”, diz CEO da XP Asset appeared first on InfoMoney.",
     "relevance": 5
   }
 ]
