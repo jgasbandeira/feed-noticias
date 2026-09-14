@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "Lula diz que apostador fez 1.400 pix em 3 meses e questiona BC",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-diz-que-apostador-fez-1-400-pix-em-3-meses-e-questiona-bc/",
+    "description": "“O Banco Central não descobriu que é pix demais para a mesma empresa?”, perguntou; presidente afirma que se reuniu neste domingo (13.set.2026) com “8 vítimas da bets”",
+    "published": "2026-09-14T01:40:30+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "“O Banco Central não descobriu que é pix demais para a mesma empresa?”, perguntou; presidente afirma que se reuniu neste domingo (13.set.2026) com “8 vítimas da bets”",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Caiado anuncia mulheres que pretende indicar para Ministério da Saúde e STF",
     "link": "https://valor.globo.com/noticia/2026/09/13/caiado-anuncia-mulheres-que-pretende-indicar-para-ministrio-da-sade-e-stf.ghtml",
@@ -3927,23 +3939,5 @@
     ],
     "summary": "A rejeição a parentes por causa da orientação sexual ou da identidade de gênero deixou a esfera privada das famílias e chegou aos tribunais. A Justiça brasileira vem condenando pais e outros familiares ao pagamento de indenização por danos morais e, em casos mais graves, impondo ",
     "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "PF encontrou garrafas de vinho que podem valer mais de R$ 1 milhão na casa de publicitário ligado a Vorcaro",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/09/12/pf-encontrou-garrafas-de-vinho-que-podem-valer-mais-de-r-1-milhao-na-casa-de-publicitario-ligado-a-vorcaro.ghtml",
-    "description": "Ao cumprir mandados de busca e apreensão no início de julho em um endereço do publicitário Thiago Miranda, vinculado ao banqueiro Daniel Vorcaro, a Polícia Federal encontrou caixas de espumantes e vinhos de alto valor, no que foi descrito como um \"padrão financeiro\" até o momento desconhecido. A informação consta nos novos documentos que tiveram o sigilo levantado pelo ministro do Supremo Tribunal Federal (STF) André Mendonça nesta sexta-feira. \nA PF diz ter identificado dez garrafas do vinho Petrus. A corporação destaca que, a depender da safra e das condições de conservação, a bebida pode chegar a R$ 95 mil por unidade. As bebidas estavam na residência de Miranda em Brasília. \nBebidas encontradas em residência de Thiago Miranda\nReprodução\nSegundo a PF, algumas caixas de espumante estariam \"em tese\" direcionadas a Fernando Cavalcanti, alvo da Operação Sem Desconto, que investiga fraudes no INSS. Questionado, o marido de Miranda disse ter comprado as bebidas de Cavalcanti. Ele é ex-sócio de outro investigado, o advogado Nelson Williams e já negou ser \"laranja\" no esquema contra a previdência pública\nEm uma decisão posterior sobre o caso, ao mencionar as bebidas encontradas na residência de Miranda, o ministro André Mendonça elencou elas entre \"achados que demandam maior aprofundamento instrutório com vistas a sua adequeada compreensão\". \nEm um relatório, a PF chama atenção para o fato de ter encontrado no endereço \"casa de alto valor recentemente construída, carros importados na garagem, relógios de luxo\", mas afirma não ter encontrado \"até o momento\" vínculos com o caso Master.",
-    "published": "2026-09-12T06:30:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Ao cumprir mandados de busca e apreensão no início de julho em um endereço do publicitário Thiago Miranda, vinculado ao banqueiro Daniel Vorcaro, a Polícia Federal encontrou caixas de espumantes e vinhos de alto valor, no que foi descrito como um \"padrão financeiro\" até o momento",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/financas/noticia/2026/09/12/pf-encontrou-coleo-de-vinhos-avaliada-em-quase-r-1-milho-na-casa-de-investigado-no-caso-master.ghtml"
-      }
-    ]
   }
 ]
