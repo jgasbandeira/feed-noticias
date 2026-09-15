@@ -2007,6 +2007,10 @@
       {
         "source": "Valor Econômico",
         "link": "https://valor.globo.com/politica/noticia/2026/09/14/quaest-desconfianca-no-stf-sobe-dez-pontos-e-chega-a-56percent-em-meio-a-crise.ghtml"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/desconfianca-de-eleitores-no-stf-cresce-e-chega-a-56-diz-quaest/"
       }
     ]
   },
@@ -3827,7 +3831,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Investidores nacionais iniciam a semana digerindo novas pesquisas eleitorais e os mais recentes desdobramentos no Superior Tribunal Federal\nThe post Ibovespa Futuro cai mais de 1% com exterior negativo e de olho na crise do STF appeared first on InfoMoney.",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
