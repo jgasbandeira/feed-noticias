@@ -1,6 +1,68 @@
 [
   {
     "source": "InfoMoney",
+    "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
+    "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-15092026/",
+    "description": "Índices futuros dos EUA caem juntos antes de decisão do FED \nThe post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney.",
+    "published": "2026-09-15T10:58:54+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Índices futuros dos EUA caem juntos antes de decisão do FED \nThe post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Julgamento de Moraes no STF: acompanhe ao vivo",
+    "link": "https://valor.globo.com/politica/ao-vivo/2026/09/15/julgamento-alexandre-de-moraes-stf-ao-vivo.ghtml",
+    "description": "Julgamento de Moraes no STF: acompanhe ao vivo Plenário se reúne nesta terça-feira e, pela primeira vez, pode autorizar a abertura de investigação contra um de seus ministros",
+    "published": "2026-09-15T10:45:43+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Julgamento de Moraes no STF: acompanhe ao vivo Plenário se reúne nesta terça-feira e, pela primeira vez, pode autorizar a abertura de investigação contra um de seus ministros",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Vale, Vivo, Multiplan, BMG e mais ações para acompanhar nesta terça-feira",
+    "link": "https://www.infomoney.com.br/mercados/vale-vivo-multiplan-bmg-e-mais-acoes-para-acompanhar-nesta-terca-feira/",
+    "description": "Veja os principais destaques do noticiário corporativo desta terça-feira (15)\nThe post Vale, Vivo, Multiplan, BMG e mais ações para acompanhar nesta terça-feira appeared first on InfoMoney.",
+    "published": "2026-09-15T10:41:46+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Veja os principais destaques do noticiário corporativo desta terça-feira (15)\nThe post Vale, Vivo, Multiplan, BMG e mais ações para acompanhar nesta terça-feira appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "MPF cobra explicações do Iphan sobre doação de veículos por construtora no Rio",
+    "link": "https://oglobo.globo.com/blogs/ancelmo-gois/post/2026/09/mpf-cobra-explicacoes-do-iphan-sobre-doacao-de-veiculos-por-construtora-no-rio.ghtml",
+    "description": "O Ministério Público Federal (MPF) solicitou informações à superintendência do Iphan no Rio de Janeiro sobre o recebimento de cinco veículos doados pela Construtora Cury — empresa responsável por empreendimentos na região do Cais do Valongo, área sob fiscalização e tutela do próprio instituto. A frota, composta por três modelos Fiat Argo e duas picapes Fiat Toro Freedom, é avaliada em mais de R$ 500 mil. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-15T10:30:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O Ministério Público Federal (MPF) solicitou informações à superintendência do Iphan no Rio de Janeiro sobre o recebimento de cinco veículos doados pela Construtora Cury — empresa responsável por empreendimentos na região do Cais do Valongo, área sob fiscalização e tutela do próp",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Com juros nas máximas desde 2007, mercado já trata dívida dos EUA como ativo de risco",
+    "link": "https://valor.globo.com/financas/intraday/post/2026/09/com-juros-nas-maximas-desde-2007-mercado-ja-trata-divida-dos-eua-como-ativo-de-risco.ghtml",
+    "description": "Aos olhos dos mercados financeiros, o status dos títulos do Tesouro americano como o “ativo global livre de risco” acabou. O problema é que o Federal Reserve (Fed) e os reguladores americanos ainda sustentam a premissa de que os Treasuries são incondicionalmente seguros. A divergência de opiniões sobre o ativo mais importante do mundo pode levar o banco central a interpretar altas de juros provocadas pela deterioração fiscal como uma disfuncionalidade do mercado e, ao realizar intervenções, enfraquecer a disciplina exercida pelos investidores sobre as contas públicas. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-15T10:19:48+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Aos olhos dos mercados financeiros, o status dos títulos do Tesouro americano como o “ativo global livre de risco” acabou. O problema é que o Federal Reserve (Fed) e os reguladores americanos ainda sustentam a premissa de que os Treasuries são incondicionalmente seguros. A diverg",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
     "title": "Day Trade hoje (15): Ibovespa cai pelo 2º dia; correção vai continuar?",
     "link": "https://www.infomoney.com.br/mercados/mercados-day-trade-hoje-analistas-15092026/",
     "description": "Confira os pontos de suporte e resistência do mini-índice e minidólar\nThe post Day Trade hoje (15): Ibovespa cai pelo 2º dia; correção vai continuar? appeared first on InfoMoney.",
@@ -136,6 +198,10 @@
       {
         "source": "Valor Econômico",
         "link": "https://valor.globo.com/politica/noticia/2026/09/15/moraes-diz-que-mendona-promoveu-investigao-ilegal-e-nega-favorecimento-a-vorcaro.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/09/15/moraes-nega-favorecimento-a-vorcaro-e-chama-investigacao-determinada-por-mendonca-de-fraude.ghtml"
       }
     ]
   },
@@ -3856,72 +3922,5 @@
     ],
     "summary": "Em meio à crise sem precedente no Supremo Tribunal Federal (STF), o ex-ministro e candidato do PT ao governo de São Paulo, Fernando Haddad, defendeu nesta segunda-feira (14) o fim de todos os sigilos relacionados às investigações das fraudes do Banco Master e disse que quem comet",
     "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "TV Globo entrevista Fernando Haddad (PT)",
-    "link": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/ao-vivo/tv-globo-entrevista-daqui-a-pouco-fernando-haddad-pt-acompanhe.ghtml",
-    "description": "TV Globo entrevista Fernando Haddad (PT) Ex-ministro foi o primeiro convidado na série de entrevistas com os candidatos ao governo de São Paulo. Fernando Haddad (PT) participa da série de entrevistas da TV Globo com os candidatos ao governo de São Paulo;. A conversa sobre os principais temas do estado será exibida ao vivo no SP1, diretamente dos Estúdios Globo;. A entrevista é conduzida pelo jornalista Alan Severiano. Além da TV Globo, o público pode acompanhar a transmissão pelo g1;. Depois da exibição, o conteúdo ficará disponível na íntegra no Globoplay e no g1;. O governador Tarcísio de Freitas será entrevistado amanhã. A ordem das entrevistas foi definida por sorteio, com a presença de representantes dos partidos.",
-    "published": "2026-09-14T16:41:27+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "TV Globo entrevista Fernando Haddad (PT) Ex-ministro foi o primeiro convidado na série de entrevistas com os candidatos ao governo de São Paulo. Fernando Haddad (PT) participa da série de entrevistas da TV Globo com os candidatos ao governo de São Paulo;. A conversa sobre os prin",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Himalaia se aproxima de um ponto crítico, colocando em risco o sustento de milhões de pessoas",
-    "link": "https://valor.globo.com/mundo/noticia/2026/09/14/himalaia-se-aproxima-de-um-ponto-critico-colocando-em-risco-o-sustento-de-milhoes-de-pessoas.ghtml",
-    "description": "O Himalaia está se aproximando de um ponto de inflexão à medida que as geleiras derretem mais rapidamente do que há uma década, ameaçando a segurança hídrica enquanto a região se aproxima do chamado \"pico da água\" em meados do século, segundo um estudo divulgado neste mês.\n\nAs conclusões foram divulgadas após o colapso de uma geleira do Himalaia no fim de agosto, na fronteira entre o Nepal e o Tibete, que provocou uma série de deslizamentos de terra e enchentes repentinas nos vales abaixo. Pelo menos 1,3 mil pessoas foram confirmadas como mortas e mais de 5,3 mil estão desaparecidas nas regiões do Nepal e do Tibete chinês.\nÀ medida que as geleiras recuam, elas deixam para trás lagos glaciais instáveis, represados por pouco mais que rochas e gelo soltos, acima de vales onde vivem milhões de pessoas, apontou o estudo.\nO estudo foi produzido pela Systemiq, uma consultoria de sustentabilidade, em conjunto com a Integrated Mountain Initiative, o International Centre for Integrated Mountain Development e o G.B. Pant National Institute of Himalayan Environment, da Índia.\nA perda de massa das geleiras do Himalaia acelerou nas últimas décadas, enquanto apenas 21 geleiras eram atualmente monitoradas em campo de um total estimado de 40 mil geleiras na região do Hindu Kush-Himalaia, um vasto sistema montanhoso que se estende por oito países, do Afeganistão a Mianmar, segundo o estudo.\n\nQuase 200 lagos glaciais na Índia foram identificados como de alto risco, sendo 56 classificados como de \"risco muito alto\", deixando milhões de pessoas expostas nas áreas abaixo.\n\nÀ medida que a região se aproxima do \"pico da água\", o ponto em que os fluxos dos rios deixam de aumentar e começam a diminuir, as implicações para a segurança hídrica serão profundas. Como o Himalaia sustenta mais de 20% do PIB da Índia, a região representa uma parte fundamental da infraestrutura econômica nacional do país, da qual dependem centenas de milhões de pessoas.\n\nEmbora corresponda a cerca de 18% do território indiano, a região do Himalaia responde por quase 35% dos desastres naturais do país.\n\n\nPixabay",
-    "published": "2026-09-14T16:39:08+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O Himalaia está se aproximando de um ponto de inflexão à medida que as geleiras derretem mais rapidamente do que há uma década, ameaçando a segurança hídrica enquanto a região se aproxima do chamado \"pico da água\" em meados do século, segundo um estudo divulgado neste mês.\n\nAs co",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Suécia enfrenta incerteza política após eleições acirradas",
-    "link": "https://oglobo.globo.com/mundo/noticia/2026/09/14/suecia-enfrenta-incerteza-politica-apos-eleicoes-acirradas.ghtml",
-    "description": "Com uma disputa apertada nas eleições legislativas de domingo na Suécia, nas quais o bloco de esquerda conquistou 176 cadeiras, três a mais que o de direita, o país deve iniciar, a partir desta segunda-feira, uma etapa de difíceis negociações para a formação do governo.\nEleições na Suécia: oposição de centro-esquerda tem vitória apertada projetada; extrema direita perde força\nO GLOBO no Mundo: Receba as notícias internacionais direto no seu celular\nA líder social-democrata Magdalena Andersson aparece como a principal candidata a assumir o comando do país, mas o atual primeiro-ministro, Ulf Kristersson, do Partido Moderado, tenta permanecer no cargo. As duas legendas realizaram reuniões nesta segunda-feira para definir suas estratégias. \nA incerteza também gerou apreensão entre eleitores. O operário Mikko Duvaldt, de 48 anos, afirmou que a situação está “realmente tensa” e avaliou que será difícil para os dois lados formarem um governo.\n— Tudo isso me deixa estressada — comentou Pernilla Karlsson, de 53 anos.\nInitial plugin text\nA votação também trouxe uma surpresa para o partido de extrema direita Democratas da Suécia (SD, na sigla em sueco), que perdeu terreno pela primeira vez desde que entrou no Parlamento, há 16 anos. O resultado contrasta com o avanço de legendas de extrema direita em eleições recentes em outros países europeus.\nNegociações difíceis\nA vantagem da esquerda ainda pode mudar com a apuração dos votos emitidos no exterior e das cédulas antecipadas, que só terminará na quarta-feira.\n— Se isso for confirmado, então a Suécia terá um novo governo — declarou  Andersson a seus simpatizantes no domingo, em Estocolmo.\nSuécia: veja salários, custo de vida e por que o país tem uma das melhores qualidades de vida do mundo, apesar do custo elevado\nUma aliança progressista, no entanto, não parece simples. Dois partidos que poderiam integrar a coalizão, o Partido de Esquerda e o Partido de Centro, já estabeleceram suas condições. O primeiro afirmou que só apoiará um Executivo se fizer parte dele, enquanto o segundo não aceita participar de uma administração que tenha integrantes da legenda de esquerda.\n— Os dois partidos têm suas linhas vermelhas, mas isso também dependerá das questões de fundo e do que conseguirem — observou a cientista política Annika Freden, da Universidade de Lund. — Com base nestas conquistas, veremos se abandonam as linhas vermelhas e quando.\nKristersson, por sua vez, tentará ampliar sua base ao buscar apoio no centro. A estratégia, porém, é delicada: antes da eleição, a direita havia garantido alguns ministérios à extrema direita, algo inaceitável para os centristas.\n— Mesmo se o resultado  for confirmado, vou analisar se existem possibilidades dentro desta maioria parlamentar não socialista para encontrar alguma configuração de governo viável — disse o primeiro-ministro a seus apoiadores na noite de domingo.\nA formação de uma maioria exigirá negociações entre diferentes partidos.\n— Na Suécia, temos uma cultura de negociação e há uma forte resistência a organizar novas eleições — indicou Freden.\nCrime nas redes: polícia sueca exige que TikTok e Meta retirem anúncios de serviços oferecidos a adolescentes\nRetrocesso da extrema direita\nO desempenho do SD também chamou atenção. A legenda teria perdido três pontos percentuais em quatro anos, movimento que analistas atribuem, em parte, ao endurecimento das políticas de migração e criminalidade adotadas por outros partidos.\n— A questão migratória era mais importante em 2015/2016. Agora, há muitos partidos que defendem políticas rígidas, e os Democratas da Suécia não conseguiram se consolidar em outros temas — disse Freden.\nCom quase 95% dos votos apurados, o SD ficou em terceiro lugar, atrás dos social-democratas e dos Moderados de Kristersson.\n— Ainda não temos os resultados finais, mas é evidente que perdemos alguns pontos percentuais em comparação com quatro anos atrás — admitiu o líder do partido, Jimmie Akesson.\nApesar da queda, o SD ainda pode ser importante para Kristersson. A legenda poderá apoiar o atual primeiro-ministro caso a esquerda não consiga reunir votos suficientes para formar uma maioria.",
-    "published": "2026-09-14T16:38:26+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Com uma disputa apertada nas eleições legislativas de domingo na Suécia, nas quais o bloco de esquerda conquistou 176 cadeiras, três a mais que o de direita, o país deve iniciar, a partir desta segunda-feira, uma etapa de difíceis negociações para a formação do governo.\nEleições ",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Exército de Israel avalia ação legal contra ‘NAZA’ e investiga vazamento de informações sigilosas usadas no filme",
-    "link": "https://oglobo.globo.com/mundo/noticia/2026/09/14/exercito-de-israel-avalia-acao-legal-contra-naza-e-investiga-vazamento-de-informacoes-sigilosas-usadas-no-filme.ghtml",
-    "description": "O chefe do Estado-Maior das Forças Armadas de Israel, tenente-general Eyal Zamir, determinou nesta segunda-feira que sejam avaliadas medidas legais contra o documentário \"NAZA\" e os envolvidos na sua produção, além de ordenar, separadamente, uma investigação sobre o vazamento de informações sigilosas utilizadas na obra. A decisão ocorre após o filme — que acusa o Exército israelense de usar inteligência artificial (IA) para selecionar alvos em Gaza, provocar a morte de civis e até interceptar comunicações de integrantes do Hamas com familiares — provocar uma onda de reações de autoridades israelenses. Em paralelo, as Forças Armadas pediram acesso à íntegra do documentário aos diretores Yuval Abraham e Rachel Szor, alegando que precisam analisar o conteúdo completo para responder às acusações com base em evidências.\nEntenda: O que documentário ovacionado em Veneza revela sobre sistema secreto usado por Israel contra civis em Gaza\nQuer ler mais notícias de Mundo? Acompanhe o canal no WhatsApp\nQuer morar fora? Veja guia interativo que reúne informações sobre 36 países\n“NAZA”, produzido pelo jornal britânico Guardian e dirigido pelos dois cineastas israelenses, reúne depoimentos anônimos de 24 ex-integrantes das Forças Armadas e dos serviços de inteligência de Israel. Segundo os relatos apresentados no filme, sistemas de IA teriam sido empregados para identificar e atacar integrantes do Hamas em Gaza, inclusive membros de baixa patente. As fontes também afirmam que alguns ataques atingiram as casas dos alvos, matando familiares e outros civis que não teriam relação com o grupo.\nInitial plugin text\nEm um dos depoimentos, uma fonte afirma que teria sido autorizada a matar 500 pessoas classificadas pelo sistema como “NAZA” para eliminar um único integrante do Hamas. O termo que dá nome ao documentário seria uma sigla usada pela inteligência israelense para indicar a quantidade de civis que se espera que morram em determinado ataque aéreo.\nInicialmente, as Forças Armadas de Israel afirmaram que “rejeitam categoricamente” as alegações do filme e questionaram o uso de depoimentos anônimos. Posteriormente, porém, disseram que as acusações deveriam receber uma resposta detalhada e baseada em evidências, ressaltando que ainda não assistiram ao documentário completo.\nContexto: Exército de Israel nega uso de IA para matar civis em Gaza, como afirma documentário\nO porta-voz militar Effie Defrin afirmou que o Exército israelense é “uma força baseada em valores, que atua de acordo com o direito internacional e com valores e padrões profissionais vinculantes”. Segundo ele, os depoimentos de soldados israelenses sobre ataques em Gaza exibidos no trailer são “distorcidos, falsificados e desconectados da realidade no terreno”.\n'Distorção deliberada da realidade'\nSegundo o jornal Times of Israel, após uma reunião com altos comandantes militares, Zamir instruiu o procurador-geral militar, major-general Itai Ofir, a avaliar “possíveis medidas legais relacionadas ao filme e aos envolvidos nele”, citando a divulgação do que classificou como alegações falsas contra soldados israelenses e possíveis riscos à segurança deles e do Estado.\nVeja: Ministro israelense quer retirar a nacionalidade de diretores de 'NAZA', documentário premiado em Veneza\nO chefe do Estado-Maior também determinou a criação de uma equipe multidisciplinar, liderada pela Diretoria de Planejamento, para formular medidas de resposta às acusações contra o Exército e seus soldados, inclusive com a participação de especialistas israelenses e estrangeiros.\nCena do documentário 'NAZA', que trata dos sistemas por trás do assassinato em massa e calculado de civis palestinos em Gaza por parte de Israel\nReprodução / NAZA\nDe acordo com Zamir, o documentário não seria uma tentativa de investigar os fatos, mas uma produção baseada em “distorção deliberada da realidade” e “acusações falsas e graves” contra militares israelenses. Ele afirmou ainda que o filme busca apresentar as Forças Armadas de Israel como uma instituição que age deliberadamente de maneira ilegal.\nLeia também: Documentário 'NAZA' leva a Veneza depoimentos das forças israelenses sobre massacres em Gaza com IA\n“Não permitiremos que soldados das Forças Armadas de Israel sejam transformados em alvos por meio de mentiras e libelos de sangue”, afirmou Zamir em comunicado, acrescentando que o Exército usará ferramentas jurídicas, de comando e de diplomacia pública para responder às acusações.\nPressão sobre os diretores\nA reação militar ocorre um dia depois de o ministro da Cultura de Israel, Miki Zohar, pedir que a cidadania israelense de Abraham e Szor seja revogada. Nesta segunda-feira, Zohar também solicitou uma investigação para identificar as fontes anônimas ouvidas no documentário e descobrir como os materiais utilizados na produção foram obtidos.\nA jornalista e diretora Rachel Szor e o jornalista e cineasta israelense Yuval Abraham comparecem ao tapete vermelho para a exibição de \"Naza\", apresentado em competição no 83º Festival Internacional de Cinema de Veneza, em 10 de setembro de 2026\nTIZIANA FABI / AFP\nSegundo uma mensagem publicada pelo ministro no X, ele procurou o Ministério do Interior para discutir a possibilidade de retirar a cidadania dos cineastas, acusando-os de “falhar com seu dever de lealdade ao Estado” e de “colaborar com o inimigo”. Zohar também questionou se as atividades que levaram à coleta e à publicação dos materiais poderiam ter ajudado o inimigo durante a guerra.\nNo domingo, o ministro havia acusado os diretores de estarem dispostos a “prejudicar sua pátria para receber aplausos de antissemitas de todo o mundo” e afirmou que agiria para revogar sua cidadania por “traição ao Estado”.\nEntrevista: ‘O sionismo cristão não se justifica do ponto de vista bíblico, moral e ético’, afirma pastor palestino\nA retirada da cidadania é legalmente possível em Israel, embora seja uma medida rara. Em 2022, a Suprema Corte confirmou que o Estado pode retirar a nacionalidade de pessoas que não tenham demonstrado lealdade, inclusive em casos de espionagem ou traição. A legislação foi ampliada em 2023 para incluir pessoas condenadas por terrorismo.\nOutros integrantes do governo israelense também atacaram os cineastas. O ministro da Segurança Nacional, Itamar Ben-Gvir, afirmou que eles são uma “vergonha” para Israel e disse acreditar que o Hamas os receberia “de braços abertos”. O ex-ministro da Defesa Avigdor Lieberman chamou Abraham e Szor de “odiadores de Israel”, enquanto o ex-primeiro-ministro Naftali Bennett classificou o documentário como um “horrível libelo de sangue contra nossos filhos e filhas”.\nDocumentário divide opiniões\n“NAZA” recebeu no sábado o Prêmio Especial do Júri no Festival de Cinema de Veneza, depois de uma ovação de 25 minutos — a mais longa da história do festival. Abraham e Szor também foram os diretores de “No Other Land”, documentário que ganhou o Oscar em 2025 e aborda a violência de colonos israelenses contra palestinos na Cisjordânia ocupada.\nDifamação e incitação à violência: Opositor israelense denuncia esposa de Netanyahu por difundir teoria da conspiração sobre ataque de 7 de outubro\nA casa da família de Abraham foi alvo de uma multidão de extrema direita após a estreia mundial, em 2024, de “No Other Land”. Em entrevista ao Guardian, Abraham afirmou que ele e Szor “estão assumindo riscos em um sistema que nos privilegia”, em referência à condição de judeus israelenses. \n— Para tantos palestinos, não é uma multidão de direita que está indo até sua casa: são escavadeiras e armas financiadas pelos EUA — disse. — Imagine se um jornalista palestino em Gaza tentasse fazer o que fizemos e ligasse para altos funcionários israelenses. Não há comparação. Eles provavelmente seriam assassinados. \nA repercussão de \"NAZA\", no entanto, dividiu opiniões em Israel. O ex-parlamentar Yousef Jabareen, presidente do partido de esquerda Hadash, parabenizou os diretores pelo prêmio e agradeceu por levarem “esses crimes horríveis e a realidade brutal em Gaza” a milhões de pessoas.\nPremier de Israel: Netanyahu enfrenta críticas após relato de que ignorou alerta dos Emirados Árabes sobre ataque de 7 de outubro\nJá Anat Saragusti, responsável pela área de liberdade de imprensa da União dos Jornalistas de Israel, afirmou que o público israelense não recebeu uma cobertura adequada, em hebraico, sobre o que ocorreu em Gaza durante a guerra. Segundo ela, a imprensa do país mostrou pouco das vítimas civis palestinas, das crianças mortas e da destruição.\nEm editorial, o jornal Haaretz também defendeu que os israelenses confrontem o que classificou como a realidade das ações de Israel em Gaza. Para o veículo, o filme tenta levar o público israelense a encarar questionamentos sobre a forma como a guerra vem sendo conduzida.\n(Com AFP)",
-    "published": "2026-09-14T16:37:17+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O chefe do Estado-Maior das Forças Armadas de Israel, tenente-general Eyal Zamir, determinou nesta segunda-feira que sejam avaliadas medidas legais contra o documentário \"NAZA\" e os envolvidos na sua produção, além de ordenar, separadamente, uma investigação sobre o vazamento de ",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Fachin e Nunes Marques se reúnem na véspera de julgamento sobre mensagens de Vorcaro a Moraes",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/09/14/fachin-e-nunes-marques-se-reunem-na-vespera-de-julgamento-sobre-mensagens-de-vorcaro-a-moraes.ghtml",
-    "description": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, e o ministro Kassio Nunes Marques se reuniram na manhã desta segunda-feira, véspera do julgamento sobre as mensagens trocadas entre o banqueiro Daniel Vorcaro e o ministro Alexandre de Moraes. \nKassio já havia se reunido com Fachin durante a rodada de conversas individuais que o presidente da Corte teve com os colegas sobre o julgamento de amanhã. Na quinta-feira da semana passada, Fachin também se encontrou com os ministros Alexandre de Moraes, André Mendonça, Dias Toffoli, Luiz Fux, Cármen Lúcia e Cristiano Zanin.\nFachin tem usado as conversas para ouvir os colegas sobre o rito a ser adotado na sessão extraordinária e sobre a forma de condução do julgamento. O presidente do STF, porém, tem adotado uma postura de escuta e evitado antecipar suas próprias posições. Nos encontros de quinta-feira, ouviu avaliações e sugestões dos ministros, mas não indicou qual caminho pretende seguir diante das ponderações apresentadas.\nApós os encontros de quinta, Fachin seguiu conversando com os demais ministros do STF sobre o julgamento, que ocorre em meio à crise instalada na Corte com a troca de acusações entre os ministros André Mendonça e Alexandre de Moraes. O presidente do STF passou a indicar aos colegas detalhes da sessão desta terça, apontando o rito que deve ser adotado durante o debate.\nA reunião entre Fachin e Nunes Marques ainda coincidiu com a operação que mirou o deputado Cezinha da Madureira (PL-SP) sobre um suposto esquema de \"comercialização de influência junto a Ministros do Supremo Tribunal Federal, do Superior Tribunal de Justiça e do Tribunal Superior Eleitoral, mediante remuneração vultosa e ajustada por meio de contratos de honorários e de cessão de crédito celebrados por advogadas”, incluindo a própria mulher do parlamentar.",
-    "published": "2026-09-14T16:36:04+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, e o ministro Kassio Nunes Marques se reuniram na manhã desta segunda-feira, véspera do julgamento sobre as mensagens trocadas entre o banqueiro Daniel Vorcaro e o ministro Alexandre de Moraes. \nKassio já havia se reuni",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "G1 - Política",
-        "link": "https://g1.globo.com/politica/noticia/2026/09/15/moraes-se-manifesta-pela-1a-vez-sobre-mensagens-de-vorcaro-e-nega-irregularidades.ghtml"
-      }
-    ]
   }
 ]
