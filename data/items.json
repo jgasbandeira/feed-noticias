@@ -1,6 +1,104 @@
 [
   {
     "source": "InfoMoney",
+    "title": "Rogério Marinho: Sessão do STF foi para ganhar tempo e permitir novos vazamentos",
+    "link": "https://www.infomoney.com.br/politica/rogerio-marinho-sessao-do-stf-foi-para-ganhar-tempo-e-permitir-novos-vazamentos/",
+    "description": "Para Marinho, a sessão passou uma \"sensação de impunidade\" e de \"frustração\" à sociedade\nThe post Rogério Marinho: Sessão do STF foi para ganhar tempo e permitir novos vazamentos appeared first on InfoMoney.",
+    "published": "2026-09-16T11:29:41+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Para Marinho, a sessão passou uma \"sensação de impunidade\" e de \"frustração\" à sociedade\nThe post Rogério Marinho: Sessão do STF foi para ganhar tempo e permitir novos vazamentos appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "WEG, JBS, B3, Axia, CVC, Toky e mais ações para acompanhar hoje",
+    "link": "https://www.infomoney.com.br/mercados/weg-jbs-b3-axia-cvc-toky-e-mais-acoes-para-acompanhar-hoje/",
+    "description": "Veja os principais destaques do noticiário corporativo desta quarta-feira (16)\nThe post WEG, JBS, B3, Axia, CVC, Toky e mais ações para acompanhar hoje appeared first on InfoMoney.",
+    "published": "2026-09-16T11:25:36+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Veja os principais destaques do noticiário corporativo desta quarta-feira (16)\nThe post WEG, JBS, B3, Axia, CVC, Toky e mais ações para acompanhar hoje appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "B3 (B3SA3) registra alta de 26,1% no volume negociado em agosto",
+    "link": "https://www.infomoney.com.br/mercados/b3-b3sa3-registra-alta-de-261-no-volume-negociado-em-agosto/",
+    "description": "No segmento de futuros — que inclui juros, moedas e mercadorias — o volume médio diário cresceu 3,3%, para R$ 9,608 bilhões\nThe post B3 (B3SA3) registra alta de 26,1% no volume negociado em agosto appeared first on InfoMoney.",
+    "published": "2026-09-16T11:21:05+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "No segmento de futuros — que inclui juros, moedas e mercadorias — o volume médio diário cresceu 3,3%, para R$ 9,608 bilhões\nThe post B3 (B3SA3) registra alta de 26,1% no volume negociado em agosto appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Agentes de IA fora de controle da OpenAI buscaram vulnerabilidades da Hugging Face dois meses antes de invasão",
+    "link": "https://valor.globo.com/empresas/noticia/2026/09/16/agentes-de-ia-fora-de-controle-da-openai-buscaram-vulnerabilidades-da-hugging-face-dois-meses-antes-de-invasao.ghtml",
+    "description": "Agentes de inteligência artificial fora de controle da OpenAI sequestraram contas de usuários da plataforma Hugging Face e sondaram a própria plataforma em busca de vulnerabilidades em maio, quase dois meses antes de a invasão de julho ao repositório de código aberto atrair a atenção mundial, segundo pesquisadores que analisaram a atividade.\nA atividade maliciosa recém-descoberta mostrou que os esforços dos agentes fora de controle para encontrar uma maneira de entrar na Hugging Face começaram antes do que se sabia publicamente.\nA OpenAI já havia divulgado um aspecto da atividade maliciosa — o roubo da credencial digital de um usuário da Hugging Face para acessar um arquivo relacionado à biologia — em seu relatório público sobre o incidente, divulgado no mês passado. No entanto, pesquisadores disseram à Reuters que a atividade de sondagem contra a Hugging Face parecia ir além do que foi descrito no relatório.\nLeia mais:\nLaboratórios de IA têm incentivos suficientes para desenvolver tecnologias com segurança, diz Zuckerberg, da Meta\n‘Apocalipse da IA’ viralizou e está alarmando, mas há uma grande lição para o mercado de ações\nOpenAI negocia com Anthropic e Google cooperação em segurança de IA, diz agência\nA atividade foi descoberta na semana passada pelo pesquisador independente Jonas Wiedermann-Moeller, segundo ele disse à Reuters. Wiedermann-Moeller afirmou ter encontrado evidências de que os agentes da OpenAI comprometeram duas contas de usuários da Hugging Face e as utilizaram para enviar arquivos com uma formatação incomum aos servidores da empresa já em 13 de maio.\nEle e outros pesquisadores que analisaram as evidências disseram que o comportamento se assemelhava a uma tentativa de mapear ou testar partes da rede da Hugging Face em busca de maneiras de se infiltrar. Eles ressaltaram, porém, que não havia evidências de que a iniciativa tivesse resultado em uma invasão efetiva.\nDrew Pusateri, porta-voz da OpenAI, afirmou que a empresa havia divulgado o episódio de 13 de maio, notificado em caráter privado a Hugging Face sobre a atividade identificada por Wiedermann-Moeller e estava “comprometida com a transparência sobre essas questões e com o compartilhamento do que aprendermos à medida que nossa análise prosseguir”.\nA Hugging Face, que foi recentemente adquirida pela fabricante de chips Nvidia, não respondeu a pedidos de comentários.\nWiedermann-Moeller, de 27 anos e morador de Bielefeld, na Alemanha, afirmou que o fato de a OpenAI não ter detectado a sondagem de 13 de maio na ocasião representou uma oportunidade perdida de impedir a campanha de invasões posterior, que provocou uma reavaliação mundial sobre o poder da inteligência artificial.\n“Imagine se eles tivessem identificado esse comportamento em maio”, disse ele em entrevista. “Isso poderia ter evitado o incidente posterior, que foi muito maior.”\nA OpenAI já havia afirmado que, em retrospectiva, “alguns sinais iniciais” emitidos por seus agentes de inteligência artificial deveriam ter provocado uma resposta mais rápida.\nDois especialistas externos que analisaram as descobertas de Wiedermann-Moeller disseram que elas eram compatíveis com atividades anteriormente associadas aos agentes da OpenAI.\nTom Hegel, pesquisador sênior de ameaças da SentinelOne, afirmou que o sequestro das contas e a sondagem subsequente correspondiam “perfeitamente” ao comportamento conhecido dos agentes. Sydney Von Arx, do Nightingale Collective, um grupo de segurança de inteligência artificial, concordou com a atribuição.\nVon Arx afirmou que a invasão representou um “sinal claro de alerta” que poderia ter ajudado a evitar a violação ocorrida em julho.\nA OpenAI vem enfrentando um escrutínio cada vez maior desde que revelou, em 21 de julho, que agentes de inteligência artificial fora de controle contornaram barreiras internas, acessaram a internet aberta e coordenaram ações que a empresa descreveu como “um incidente cibernético sem precedentes”.\nDesde então, pesquisadores externos identificaram outros episódios que supostamente envolveram agentes ligados à OpenAI, incluindo atividades que afetaram um site wiki alemão inativo e o repositório de pacotes de software RubyGems.\nA OpenAI reconheceu alguns desses episódios somente depois de eles terem sido divulgados publicamente por terceiros. Duas pessoas a par do assunto disseram que, no caso do RubyGems, funcionários da OpenAI só perceberam que sua inteligência artificial era responsável pela atividade maliciosa depois que o Nightingale Collective a identificou.\nAs novas descobertas alimentaram questionamentos entre parlamentares e defensores da segurança da inteligência artificial sobre se toda a extensão dos incidentes já foi identificada.\nDesde então, alguns dos principais executivos de inteligência artificial dos Estados Unidos defenderam uma desaceleração no desenvolvimento da tecnologia, citando, entre outros fatores, a ameaça de ataques cibernéticos devastadores realizados por agentes fora de controle.\nWiedermann-Moeller afirmou que as descobertas mais recentes reforçavam os pedidos por uma desaceleração temporária no desenvolvimento de sistemas avançados de inteligência artificial.\n“Uma pausa talvez fizesse bem ao mundo”, disse ele, “para que a área de segurança possa recuperar o atraso”.\n\n\nLevart_Photographer/Unsplash",
+    "published": "2026-09-16T11:17:31+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Agentes de inteligência artificial fora de controle da OpenAI sequestraram contas de usuários da plataforma Hugging Face e sondaram a própria plataforma em busca de vulnerabilidades em maio, quase dois meses antes de a invasão de julho ao repositório de código aberto atrair a ate",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Laboratórios de IA têm incentivos suficientes para desenvolver tecnologias com segurança, diz Zuckerberg, da Meta",
+    "link": "https://valor.globo.com/empresas/noticia/2026/09/16/laboratorios-de-ia-tem-incentivos-suficientes-para-desenvolver-tecnologias-com-seguranca-diz-zuckerberg-da-meta.ghtml",
+    "description": "O presidente-executivo da Meta, Mark Zuckerberg, afirmou na terça-feira (15) que a concorrência e a responsabilidade civil dão às empresas de inteligência artificial (IA) motivos suficientes para agirem individualmente em questões de segurança, parecendo se distanciar dos apelos feitos por líderes das principais empresas do setor por uma desaceleração coordenada no desenvolvimento da IA.\n\nAs declarações ressaltam uma divisão entre executivos do setor e autoridades americanas sobre como responder aos alertas de que a tecnologia está avançando mais rápido do que as empresas conseguem controlá-la, com alguns especialistas do setor alertando que ela representa uma ameaça existencial à humanidade.\n\nEm uma postagem no X, Zuckerberg, afirmou que cada laboratório tem a responsabilidade e o incentivo para avançar no ritmo necessário para treinar seus modelos com segurança, além da capacidade de tomar suas próprias medidas para garantir que isso aconteça.\n\nAs declarações foram feitas três dias depois que o presidente-executivo da Anthropic, Dario Amodei, instou as empresas de IA a desacelerarem o ritmo de aprimoramento das capacidades dos modelos, na esteira de alertas sobre riscos existenciais emitidos por vários pesquisadores.\n\nO chefe da rival OpenAI, Sam Altman, e Elon Musk, da xAI, endossaram publicamente o apelo de Amodei poucas horas depois.\n\nO presidente dos Estados Unidos, Donald Trump, no entanto, minimizou na segunda-feira as preocupações sobre o potencial de danos da IA, afirmando que os EUA já contam com medidas de proteção para a tecnologia e que a China se beneficiaria com a disseminação de dúvidas sobre o desenvolvimento da IA.\n\nA visão de que as regulamentações prejudicarão a capacidade das empresas americanas de competir com suas contrapartes chinesas é compartilhada por executivos do setor de tecnologia, incluindo Jensen Huang, presidente-executivo da Nvidia.\n\n“Confiança e alinhamento estão se tornando rapidamente as capacidades mais importantes que diferenciarão agentes e modelos”, disse Zuckerberg na terça-feira. “Qualquer laboratório que não se concentre no alinhamento ficará para trás”. Alinhamento é como tem sido chamado o esforço para garantir que a inteligência artificial aja de acordo com objetivos e valores humanos, de forma segura e previsível.\n\nZuckerberg também disse na terça-feira que os laboratórios têm um forte incentivo para impedir que seus modelos causem danos, pois, caso contrário, enfrentariam responsabilidade “significativa”. Ele citou que a Meta adiou o lançamento de seu agente de IA Muse no início deste ano para reforçar sua segurança.\n\n“Não pedimos que todos fizessem isso antes de nós. Simplesmente fizemos isso como parte do nosso trabalho diário, porque era claramente a coisa certa a se fazer pelas pessoas e por nós”, disse ele.\n\nEnquanto Amodei pediu uma desaceleração em todo o setor do “autoaperfeiçoamento recursivo” — a capacidade da IA de se aperfeiçoar —, Zuckerberg disse que a Meta já havia dedicado a “grande maioria” de sua capacidade computacional à criação de produtos que atendam às necessidades imediatas dos usuários, em vez de buscar sistemas de IA com autoaperfeiçoamento.\n\nZuckerberg também disse que a Meta Superintelligence Labs — sua divisão de IA — já conta com avaliadores independentes em várias áreas, chamando isso de “melhores práticas do setor” e afirmando que “outros laboratórios também podem simplesmente fazer o mesmo”.\n\nA iniciativa de Zuckerberg de posicionar a Meta como um ator responsável em relação à segurança da IA ocorre semanas depois que a empresa concordou em pagar até US$ 18 bilhões para encerrar ações judiciais movidas por estados norte-americanos, que alegavam que ela havia projetado o Facebook e o Instagram para viciar crianças, sem admitir qualquer irregularidade.\nMark Zuckerberg, CEO da Meta Platforms\nDavid Paul Morris/Bloomberg",
+    "published": "2026-09-16T11:12:37+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "O presidente-executivo da Meta, Mark Zuckerberg, afirmou na terça-feira (15) que a concorrência e a responsabilidade civil dão às empresas de inteligência artificial (IA) motivos suficientes para agirem individualmente em questões de segurança, parecendo se distanciar dos apelos ",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Fachin encerra sessão do STF, que tem 4x3 para votar caso de Moraes separadamente; veja como foi",
+    "link": "https://valor.globo.com/politica/ao-vivo/2026/09/15/julgamento-alexandre-de-moraes-stf-ao-vivo.ghtml",
+    "description": "Fachin encerra sessão do STF, que tem 4x3 para votar caso de Moraes separadamente; veja como foi Pedido de vista do ministro Flávio Dino suspendeu a análise; ele tem até 90 dias para devolver o caso para julgamento O que é pedido de vista, feito por Dino no julgamento. Veja um resumo da sessão desta terça-feira",
+    "published": "2026-09-16T11:12:09+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Fachin encerra sessão do STF, que tem 4x3 para votar caso de Moraes separadamente; veja como foi Pedido de vista do ministro Flávio Dino suspendeu a análise; ele tem até 90 dias para devolver o caso para julgamento O que é pedido de vista, feito por Dino no julgamento. Veja um re",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Ala de Moraes se articula para espalhar crise, expor cinturão de Vorcaro e disputa controle das investigações",
+    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/09/16/ala-de-moraes-se-articula-para-espalhar-crise-expor-cinturao-de-vorcaro-e-disputa-controle-das-investigacoes.ghtml",
+    "description": "Sessão plenária extraordinária do STF sobre o caso Moraes\nGustavo Moreno/STF\nA sessão de ontem do Supremo Tribunal Federal (STF) expôs uma estratégia que já vinha sendo desenhada nos bastidores: a ala mais próxima de Alexandre de Moraes tenta tirar a crise do foco do ministro e espalhá-la pelo tribunal, transformando o caso numa discussão sobre o tamanho do cinturão de relações de Daniel Vorcaro dentro do STF.\nNos últimos dias, vieram a público mensagens que citam pessoas ligadas a outros ministros, entre eles Kassio Nunes Marques, Luiz Fux. Os episódios são distintos e não há elementos que permitam equiparar as situações. Mas, segundo fontes ouvidas pelo blog, o objetivo do grupo Moraes politicamente é a ampliar essa rede porque ajuda a deslocar o foco: de “Moraes e Vorcaro” para “Vorcaro e o Supremo”.\n📱 Acesse o Canal da Sadi no WhatsApp\nEssa estratégia se mistura a uma disputa ainda maior que hoje divide a Corte: a briga por poder e pelo controle das investigações do caso Master.\nÉ também por isso que a atuação de André Mendonça virou parte central da discussão. O grupo mais próximo de Moraes questiona a forma como o ministro conduziu a apuração e tenta colocar os dois casos no mesmo pacote. Na sessão, Moraes, Gilmar Mendes e Cristiano Zanin defenderam a análise conjunta; Fachin, Mendonça, Fux e Cármen Lúcia votaram pela separação. O julgamento foi interrompido pelo pedido de vista de Flávio Dino quando o placar estava em 4 a 3.\nAgora no g1\nNa avaliação de interlocutores do tribunal, espalhar a crise também altera a correlação de forças. Quanto maior o cinturão de Vorcaro, maior a discussão sobre quem pode votar, quem está impedido ou suspeito, quem pode investigar e, principalmente, quem terá o controle das investigações daqui para frente.\nA crise, portanto, deixou de ser apenas sobre Moraes. Virou uma disputa interna sobre o próprio Supremo e sobre o comando das apurações envolvendo o Master.\nO risco é o tribunal mergulhar numa discussão sobre si mesmo — relações de ministros, suspeições, impedimentos, relatorias e procedimentos — antes de responder à questão que está na origem de toda a crise: o que efetivamente precisa ser investigado no caso Master e até onde chegava a rede de influência de Daniel Vorcaro.\nE pior: mergulhar o tribunal numa crise institucional a semanas sem prazo para sair a semanas da eleição.\nGloboPop: veja os vídeos do palco da Andréia Sadi",
+    "published": "2026-09-16T11:02:48+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Sessão plenária extraordinária do STF sobre o caso Moraes\nGustavo Moreno/STF\nA sessão de ontem do Supremo Tribunal Federal (STF) expôs uma estratégia que já vinha sendo desenhada nos bastidores: a ala mais próxima de Alexandre de Moraes tenta tirar a crise do foco do ministro e e",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "BNDES libera R$ 466,4 milhões para saúde e educação em cinco cidades",
+    "link": "https://valor.globo.com/empresas/noticia/2026/09/16/bndes-libera-r-4664-milhoes-para-saude-e-educacao-em-cinco-cidades.ghtml",
+    "description": "O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) aprovou R$ 466,4 milhões em financiamentos do Fundo Nacional de Investimento em Infraestrutura Social (FIIS) para projetos de saúde e educação em cinco municípios. São Paulo concentra o maior montante, são R$ 250 milhões para a construção de dois Centros Educacionais Unificados (CEUs). Joinville (SC) terá R$ 112,6 milhões para ampliar a rede pública de saúde. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-16T11:01:00+00:00",
+    "themes": [
+      "Economia",
+      "Fundos Imobiliarios"
+    ],
+    "summary": "O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) aprovou R$ 466,4 milhões em financiamentos do Fundo Nacional de Investimento em Infraestrutura Social (FIIS) para projetos de saúde e educação em cinco municípios. São Paulo concentra o maior montante, são R$ 250 milh",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
     "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta",
     "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-16092026/",
     "description": "Índices futuros dos EUA avançam à espera de decisão do Fed\nThe post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta quarta appeared first on InfoMoney.",
@@ -34,6 +132,20 @@
       "Mercado Financeiro"
     ],
     "summary": "O terceiro resgate será realizado em 22 de setembro, com o cancelamento de 41,65 milhões de ações PNC\nThe post Axia Energia (AXIA3) conclui conversão e resgate de PNCs appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Agenda do dia: Decisões de juros no Brasil e nos EUA são destaque",
+    "link": "https://valor.globo.com/financas/noticia/2026/09/16/agenda-do-dia-decisoes-de-juros-no-brasil-e-nos-eua-sao-destaque.ghtml",
+    "description": "Os investidores acompanham as decisões de política monetária do Banco Central do Brasil e do Federal Reserve (Fed) nos Estados Unidos.\n\nVeja os destaques desta quarta-feira:\n\nFGV divulga IPC-S da segunda quadrissemana de setembro – O Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre-FGV) divulga, às 8h, o Índice de Preços ao Consumidor – Semanal (IPC-S) da segunda quadrissemana de setembro. O IPC-S da primeira quadrissemana de setembro de 2026 subiu 0,51% e acumula alta de 3,78% nos últimos 12 meses. \nFGV divulga IGP-10 de setembro – O Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre-FGV) informa, às 8h, o Índice Geral de Preços – 10 (IGP-10) de setembro, calculado entre 11 de agosto e 11 de setembro. O IGP-10 caiu 0,51% em agosto. No mês de julho, a taxa havia sido de  1,13%. Com este resultado, o índice acumula alta de 1,48% no ano e de 2,00% em 12 meses. Em agosto de 2025, o IGP-10 havia subido 0,16% e acumulava alta de 2,84% em 12 meses. \n\nBC divulga Índice de Atividade Econômica de julho – O Banco Central comunica, às 9h, o Índice de Atividade Econômica (IBC-Br) de julho. O índice caiu 0,64% em junho na comparação com maio. Em maio, o indicador teve alta de 0,03% (dado revisado de alta de 0,1%).  No trimestre encerrado em junho, a alta foi de 0,2% em relação ao trimestre anterior. Em relação ao mesmo mês de 2025, por sua vez, houve avanço de 2,4%. Nos 12 meses encerrados em junho, o indicador aumentou 1,5%.\n\nBC anuncia fluxo cambial semanal - O Banco Central divulga às 14h30 o fluxo cambial semanal (até 11 de setembro). O fluxo cambial entre os dias 31 de agosto e 4 de setembro ficou negativo em US$ 7,511 bilhões, a maior saída semanal de recursos do país neste ano. O saldo negativo na semana passada foi resultado da saída de US$ 7,514 bilhões pela conta financeira e pelo ingresso tímido de US$ 3 milhões pela conta comercial. No fechamento do mês de agosto, o fluxo cambial ficou negativo em US$ 3,914 bilhões, resultado da saída de US$ 9,079 bilhões pelo fluxo financeiro e do ingresso de US$ 5,165 bilhões pela conta comercial. No ano, o fluxo cambial segue positivo em US$ 9,089 bilhões, resultado da entrada de US$ 43,225 bilhões pela conta comercial e da saída de US$ 34,135 bilhões pela conta financeira.\n\nCopom comunica decisão sobre a taxa Selic - O Comitê de Política Monetária anuncia, a partir das 18h30, a decisão sobre a taxa básica de juros da economia brasileira, a Selic, atualmente em 14% ao ano, a ser praticada até 4 de novembro de 2026. Levantamento do Valor com 120 instituições financeiras e consultorias mostra que 118 projetam uma diminuição de 14% para 13,75% ao ano. Duas casas apostaram em manutenção do juro base no patamar atual.\n\nMBA publica pedidos de hipotecas nos EUA na semana – A associação de bancos hipotecários (MBA, na sigla em inglês) mostra, às 8h (de Brasília), o número de pedidos de hipotecas nos EUA na semana até 11 de setembro. Na semana anterior houve alta de 2,7% nos pedidos. Sem estimativas.\n\nEUA comunicam vendas no varejo de agosto — O Departamento do Comércio dos EUA comunica, às 9h30 (de Brasília), o dado de vendas no varejo de agosto. A leitura anterior foi de baixa de 0,6% na comparação mensal e de aumento de 5% na base anual. Estimativas de alta de 0,8% na comparação mensal e de aumento de 4,7% na anual.\n\nEUA publicam preços de exportados e importados de agosto – O Departamento do Trabalho dos EUA publica, às 9h30 (de Brasília), o indicador de preços de produtos exportados e importados de agosto.  A leitura anterior foi baixa de 1,3% na comparação mensal para os exportados e de queda de 0,4% para os importados. Em bases anuais, as variações foram de +8,2% (exportados) e 5,9% (importados).\n\nFed de Nova York informa índice de atividade de serviços de setembro - O Federal Reserve de Nova York informa, às 9h30 (de Brasília), o índice geral de atividade empresarial do setor de serviços de setembro. Em agosto, o índice ficou em 0,5. Sem estimativas.\n\nEUA mostram índice de estoques empresariais de julho - O Departamento do Comércio dos EUA mostra, às 11h (de Brasília), seu índice de estoques empresariais de julho. Em junho, os estoques não variaram na comparação mensal e a expectativa é de alta de 0,3%.\n\nNAHB publica Índice de Mercado de Habitação dos EUA de setembro - A Associação Nacional de Construtores Residenciais (NAHB) noticia, às 11h (de Brasília), o Índice de Mercado de Habitação dos EUA de setembro. Em agosto, o índice estava em 35 e a estimativa é de 34.\n\nEUA informam estoques do varejo em julho — O Departamento do Comércio dos EUA informa, às 9h30 (de Brasília), os dados dos estoques do varejo (exceto veículos) em julho. Em junho, os estoques diminuíram 0,5% na margem. Estimativas de alta de 0,7%.\n\nEIA expõe estoques de petróleo e derivados nos EUA na semana - A Administração de Informações de Energia (EIA, sigla em inglês) dos EUA expõe, às 11h30 (de Brasília), os estoques semanais de petróleo e derivados nos EUA na semana até 11 de setembro. Na semana anterior, os estoques de petróleo bruto recuaram em 391 mil barris e os de gasolina cresceram em 1,269 milhão de litros.\n\nPresidente do BCE profere discurso - A presidente do Banco Central Europeu (BCE), Christine Lagarde, profere discurso às 14h (de Brasília).\n\nFomc divulga decisão de política monetária - O Comitê Federal de Mercado Aberto (Fomc) do Federal Reserve divulga, às 15h (de Brasília), sua decisão de política monetária. Às 15h30, o presidente do Fed, Kevin Warsh, concede entrevista coletiva para comentar a decisão. A expectativa predominante do mercado é que o Fomc elevará os juros em 25 pontos-base, para a faixa de 3,75% a 4%. Também será divulgado o Sumário de Projeções Econômicas (SEP), relatório trimestral com as projeções econômicas dos membros do Fomc para os próximos anos e para o longo prazo.\n\nLula terá encontro com pastores dos EUA e brasileiros - O presidente Luiz Inácio Lula da Silva terá, às 11h, encontro com pastores dos EUA e com pastores brasileiros da Frente de Evangélicos pelo Estado de Direito. Às 16h, sanciona o Projeto de Lei (PL) nº 2.780/2024, que institui a Política Nacional de Minerais Críticos, Estratégicos e Terras Raras.\n\nDurigan acompanha sanção de projeto e reúne-se com ministra da Casa Civil - O ministro da Fazenda, Dario Durigan, participa, às 16h, da sanção do Projeto de Lei nº 2.780/2024, que institui a Política Nacional de Minerais Críticos, Estratégicos e Terras Raras. Às 17h30, terá reunião com a ministra da Casa Civil, Miriam Belchior.\n\nGalípolo e diretores do BC participam de 2ª dia de reunião do Copom - O presidente do Banco Central (BC), Gabriel Galípolo, e a diretoria colegiada participarão do segundo dia da reunião do Comitê de Política Monetária (Copom). Haverá análise de conjuntura pela manhã. À tarde, a reunião se restringe à diretoria colegiada, que apresenta a decisão a partir das 18h30, após o término do encontro. É esperada uma nova redução de 0,25 ponto percentual da taxa básica, o que seria a 5ª redução consecutiva. A Selic está em 14% ao ano. Levantamento do Valor com 120 instituições financeiras e consultorias mostra que 118 projetam uma diminuição de 14% para 13,75% ao ano. Duas casas apostaram em manutenção do juro base no patamar atual.\n\nMercadante terá reuniões e despachos internos - O presidente do BNDES, Aloizio Mercadante, terá agenda de reuniões e despachos internos na sede do banco no Rio de Janeiro.\n\nUnsplash",
+    "published": "2026-09-16T10:53:58+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Os investidores acompanham as decisões de política monetária do Banco Central do Brasil e do Federal Reserve (Fed) nos Estados Unidos.\n\nVeja os destaques desta quarta-feira:\n\nFGV divulga IPC-S da segunda quadrissemana de setembro – O Instituto Brasileiro de Economia da Fundação G",
     "relevance": 5
   },
   {
@@ -82,7 +194,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Operação contra o crime organizado\nReprodução/PF\nAs Forças Integradas de Combate ao Crime Organizado (FICCOs) deflagraram nesta quarta-feira (16) uma operação contra organizações criminosas em 19 estados.\nAs ações têm como alvo suspeitos de envolvimento com tráfico de drogas, trá",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/brasil/noticia/2026/09/16/foras-integrada-de-combate-ao-crime-organizado-cumprem-173-mandados-de-busca-e-apreenso-e-106-prises-em-19-estados.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -2271,7 +2389,13 @@
       "Politica"
     ],
     "summary": "Integrantes do governo Lula, incluindo ministros próximos ao Palácio do Planalto, avaliam que o ministro Alexandre de Moraes saiu enfraquecido do julgamento realizado no Supremo Tribunal Federal (STF) nesta terça-feira (15). Matéria exclusiva para assinantes. Para ter acesso comp",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/leia-a-integra-do-julgamento-do-stf-sobre-moraes/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3745,115 +3869,5 @@
         "link": "https://oglobo.globo.com/politica/eleicoes-2026/guia/eleicoes-2026-veja-as-datas-do-primeiro-e-segundo-turno-5.ghtml"
       }
     ]
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "BC terá espaço para cortar juros se economia continuar fraca, mas Selic de um dígito só em 2028, diz Bradesco",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/15/bc-ter-espao-para-cortar-juros-se-economia-continuar-fraca-mas-selic-de-um-dgito-s-em-2028-diz-bradesco.ghtml",
-    "description": "O economista-chefe do Bradesco, Fernando Honorato, disse hoje que, “se a economia brasileira continuar fraca, o BC terá muito espaço para cortar juros”, mas que só espera que a Selic chegue a um dígito em 2028. Para Honorato, muitos estão otimistas em relação ao comportamento da taxa de juros neste ano e em 2027, mas ele não vê muitas razões para isso. \n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-09-15T18:05:48+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O economista-chefe do Bradesco, Fernando Honorato, disse hoje que, “se a economia brasileira continuar fraca, o BC terá muito espaço para cortar juros”, mas que só espera que a Selic chegue a um dígito em 2028. Para Honorato, muitos estão otimistas em relação ao comportamento da ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Juntar casos de Moraes e Mendonça abre risco de 'contaminação', sugere especialista",
-    "link": "https://valor.globo.com/politica/noticia/2026/09/15/juntar-casos-de-moraes-e-mendona-abre-risco-de-contaminao-sugere-especialista.ghtml",
-    "description": "Marcelo Crespo, coordenador do curso de direito da ESPM, afirma que, se o Supremo Tribunal Federal (STF) juntar a análise dos casos de Alexandre de Moraes e dos questionamentos à condução de André Mendonça, poderá abrir caminho para uma \"contaminação\" do debate. Segundo ele, esse seria um caminho favorável à \"defesa política e jurídica\" de Moraes.\nSaiba mais\n\n\n\"Se o plenário agora decidir juntar tudo, muda-se a natureza do julgamento: deixa de ser 'há elementos mínimos para investigar Moraes?' e passa a ser uma espécie de julgamento global da crise. Isso interessa à defesa política e jurídica de Moraes, porque permite deslocar o foco da substância das mensagens para a forma como Mendonça obteve, tratou e divulgou o material. O risco é evidente: uma questão pode contaminar a outra. Eventual irregularidade de Mendonça não torna automaticamente falsas ou imprestáveis todas as informações relativas a Moraes.\"",
-    "published": "2026-09-15T18:01:25+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Marcelo Crespo, coordenador do curso de direito da ESPM, afirma que, se o Supremo Tribunal Federal (STF) juntar a análise dos casos de Alexandre de Moraes e dos questionamentos à condução de André Mendonça, poderá abrir caminho para uma \"contaminação\" do debate. Segundo ele, esse",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "‘Apocalipse da IA’ viralizou e está alarmando, mas há uma grande lição para o mercado de ações",
-    "link": "https://valor.globo.com/empresas/noticia/2026/09/15/apocalipse-da-ia-viralizou-e-esta-alarmando-mas-ha-uma-grande-licao-para-o-mercado-de-acoes.ghtml",
-    "description": "Se há uma grande conclusão a ser tirada do início de uma semana crucial para as ações, é que o mundo está obcecado com a ideia de que um cenário apocalíptico envolvendo a inteligência artificial (IA) está se aproximando.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-09-15T18:00:07+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Se há uma grande conclusão a ser tirada do início de uma semana crucial para as ações, é que o mundo está obcecado com a ideia de que um cenário apocalíptico envolvendo a inteligência artificial (IA) está se aproximando.\n Matéria exclusiva para assinantes. Para ter acesso complet",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "‘Apocalipse da IA’ viralizou e está alarmando, mas há uma grande lição para o mercado de ações",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/15/apocalipse-da-ia-viralizou-e-esta-alarmando-mas-ha-uma-grande-licao-para-o-mercado-de-acoes.ghtml",
-    "description": "Se há uma grande conclusão a ser tirada do início de uma semana crucial para as ações, é que o mundo está obcecado com a ideia de que um cenário apocalíptico envolvendo a inteligência artificial (IA) está se aproximando.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-09-15T18:00:07+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Se há uma grande conclusão a ser tirada do início de uma semana crucial para as ações, é que o mundo está obcecado com a ideia de que um cenário apocalíptico envolvendo a inteligência artificial (IA) está se aproximando.\n Matéria exclusiva para assinantes. Para ter acesso complet",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "É hora de aumentar exposição a ações “bond proxies”, dizem bancos; veja preferidas",
-    "link": "https://www.infomoney.com.br/mercados/e-hora-de-aumentar-exposicao-a-acoes-bond-proxies-dizem-bancos-veja-preferidas/",
-    "description": "Empresas com menor dependência do ciclo econômico e maior sensibilidade à trajetória da Selic podem se beneficiar de um eventual ciclo de queda dos juros reais\nThe post É hora de aumentar exposição a ações &#8220;bond proxies&#8221;, dizem bancos; veja preferidas appeared first on InfoMoney.",
-    "published": "2026-09-15T18:00:00+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Empresas com menor dependência do ciclo econômico e maior sensibilidade à trajetória da Selic podem se beneficiar de um eventual ciclo de queda dos juros reais\nThe post É hora de aumentar exposição a ações &#8220;bond proxies&#8221;, dizem bancos; veja preferidas appeared first o",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Novo CEO da B3 diz que manutenção da confiança é a prioridade de sua gestão",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/15/novo-ceo-da-b3-diz-que-manutencao-da-confianca-e-a-prioridade-de-sua-gestao.ghtml",
-    "description": "O diretor-presidente da B3, Christian Egan, disse nesta terça-feira (15) que a manutenção da confiança na companhia é a maior prioridade durante sua gestão. O executivo, que assumiu o cargo em julho, participou da abertura do B3 Week, realizado em São Paulo. \n\n“Toda a indústria se baseia na ideia da confiança, algo que se constrói ao longo dos anos e se perde em segundos. Por isso, proteger a confiança não é uma das prioridades, ela é a prioridade. É a preocupação por trás de tudo o que nós fazemos”, afirmou a uma plateia formada por investidores estrangeiros e locais. \nConfira os resultados e indicadores da B3 e das demais companhias de capital aberto no portal Valor Empresas 360\n\nEgan disse que, desde que chegou à presidência, passou a receber perguntas sobre o futuro da B3, e que costuma responder a questão falando de quatro tópicos: clientes, tecnologia, pessoas e confiança. “O foco no cliente não deve ser apenas o slogan da empresa”, afirmou, dizendo que é preciso que, internamente, esteja claro o que pode ajudar os clientes. \n\nNeste sentido, todos os comentários feitos sobre a B3 por agentes do mercado não devem ser levados para dentro de casa como uma reclamação, mas, sim, como um “mapa para solução”. \n\nSobre a tecnologia, Egan afirmou que ela não deve ser vista como função de apoio, “mas como o centro da B3”, apontou. “É a tecnologia que vai nos dizer quão rápido podemos ir e quais mercados podemos criar.”\n\nEgan concluiu dizendo que o desenvolvimento tecnológico será capaz de mudar a indústria, mas que o que faz, de fato, as empresas, são as pessoas.\nChristian Egan, CEO da B3\nGabriel Reis/Valor",
-    "published": "2026-09-15T17:57:58+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "O diretor-presidente da B3, Christian Egan, disse nesta terça-feira (15) que a manutenção da confiança na companhia é a maior prioridade durante sua gestão. O executivo, que assumiu o cargo em julho, participou da abertura do B3 Week, realizado em São Paulo. \n\n“Toda a indústria s",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "OranjeBTC lança ETF tendo Itaú BBA como estruturador e distribuidor",
-    "link": "https://valor.globo.com/financas/criptomoedas/noticia/2026/09/15/oranjebtc-lana-etf-tendo-ita-bba-como-estruturador-e-distribuidor.ghtml",
-    "description": "A OranjeBTC, companhia listada na B3 com estratégia de tesouraria em bitcoin, estreou nesta terça-feira (15) o DIGY11, fundo de índice (ETF) que investe em ações preferenciais emitidas por companhias internacionais com tesourarias em bitcoin. O Itaú BBA será responsável pela estruturação e distribuição do produto, que terá pagamentos mensais aos cotistas em reais.\n\nA carteira inicial será formada por ações preferenciais da Strategy e da Strive, duas companhias americanas que estão entre as maiores tesourarias corporativas da criptomoeda no mundo. O STRC, emitido pela Strategy, terá a maior participação na carteira, que também contará com o SATA, da Strive.\n\nO fundo não investirá diretamente em bitcoin. A exposição será feita por meio dos papéis preferenciais, estruturados para realizar distribuições recorrentes em dólar. Os valores recebidos pelo ETF serão convertidos para reais e distribuídos mensalmente aos cotistas, depois das despesas do fundo.\n\nA OranjeBTC projeta, nas condições atuais de mercado, distribuições anuais entre CDI +3% e CDI +5%. A companhia ressalta que o cálculo não considera eventuais oscilações no valor das cotas e que a projeção não representa garantia de rentabilidade. O fundo terá proteção cambial e liquidez diária.\n\nO DIGY11 seguirá um índice desenvolvido pela OranjeBTC em parceria com a MarketVector, empresa do grupo VanEck. O índice reúne ações preferenciais de companhias abertas ligadas ao ecossistema de bitcoin, com foco em instrumentos de longo prazo ou sem vencimento e que façam distribuições recorrentes em dólar.\n\nA gestão ficará a cargo da 3R Investimentos, e o Banco Daycoval será o administrador fiduciário. Por se tratar de um ETF de renda variável, o DIGY11 não conta com cobertura do Fundo Garantidor de Créditos (FGC). A OranjeBTC, em  documento de divulgação do produto, reiterou que o fundo está sujeito, entre outros, a riscos de mercado, crédito e liquidez e às políticas de distribuição dos emissores dos papéis da carteira.",
-    "published": "2026-09-15T17:55:43+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "A OranjeBTC, companhia listada na B3 com estratégia de tesouraria em bitcoin, estreou nesta terça-feira (15) o DIGY11, fundo de índice (ETF) que investe em ações preferenciais emitidas por companhias internacionais com tesourarias em bitcoin. O Itaú BBA será responsável pela estr",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Reino Unido, EUA e Holanda emitem alerta sobre software espião ligado ao Irã",
-    "link": "https://valor.globo.com/mundo/noticia/2026/09/15/reino-unido-eua-e-holanda-emitem-alerta-sobre-software-espio-ligado-ao-ir.ghtml",
-    "description": "Reino Unido, Estados Unidos e Holanda emitiram nesta terça-feira um alerta conjunto de cibersegurança com detalhes sobre um software espião que, segundo os três países, é usado por agentes ligados ao Irã para atingir dissidentes, ativistas e jornalistas.\nLeia também:\nEUA impõem sanções a banco russo por associação com o Irã\nTrump diz que Irã quer acordo e cobra países por apoio em Ormuz\n\nO Centro Nacional de Segurança Cibernética (NCSC) do Reino Unido afirmou que agentes cibernéticos ligados à República Islâmica usaram uma família de “spyware” (um tipo de programa criado para entrar em um dispositivo e coletar informações da vítima sem autorização) conhecida como “Chosen Brick” para roubar e-mails, mensagens e outras informações sensíveis por meio de campanhas de ataques direcionados de phishing em plataformas de mensagens como WhatsApp e Telegram. \n\nO phishing é um golpe em que o criminoso se passa por uma pessoa ou instituição confiável para induzir a vítima a clicar em um link, fornecer informações, abrir um arquivo ou instalar um programa malicioso.\n\n“Os detalhes desta campanha cibernética revelam como o Irã usa implacavelmente a vigilância digital em busca de seu objetivo de reprimir críticos do regime, roubando e-mails e mensagens e acessando dispositivos”, afirmou Paul Chichester, diretor de operações do NCSC, em comunicado.\n\nA Embaixada do Irã em Londres não respondeu imediatamente a um pedido de comentário.\n\nSegundo o alerta, o software espião pode coletar informações de listas de contatos, e-mails e contas de redes sociais, capturar o conteúdo exibido na tela e acessar o microfone de um dispositivo. O NCSC afirmou que dados pessoais de algumas vítimas apareceram posteriormente em sites de vazamentos pró-Irã.\n\nO FBI, em seu próprio alerta, afirmou que o Ministério da Inteligência e Segurança do Irã (MOIS, na sigla em inglês) usava o software para “coletar informações de inteligência, realizar vazamentos de dados e causar danos à reputação dos alvos pretendidos”.\n\nO FBI não forneceu detalhes adicionais sobre quantas pessoas foram alvo nem onde elas estão localizadas.\n\nO NCSC afirmou que os responsáveis pelos ataques frequentemente se passavam por contatos de confiança em aplicativos de mensagens e adaptavam a abordagem a cada alvo. Em alguns casos, segundo o órgão, foram usados documentos falsos, incluindo resultados forjados de exames de ressonância magnética, para convencer as vítimas a baixar o software.\n\nO NCSC, juntamente com o FBI e o serviço de inteligência holandês AIVD, afirmou que o Irã “quase certamente” utiliza operações cibernéticas para ajudar a reprimir pessoas que considera ameaças.\n\nO alerta do FBI afirmou tratar-se de uma atualização de um aviso divulgado em março de 2026 que descrevia supostos esforços do MOIS para usar a tecnologia na coleta de dados sobre alvos. Essas informações eram posteriormente publicadas na internet por uma identidade hacker conhecida como “Handala Hack”.\n\nO Handala atacou diversas empresas e pessoas nos EUA desde o início da guerra com o Irã, incluindo um ataque cibernético destrutivo, em março, contra a Stryker, fornecedora de produtos e serviços médicos com sede em Michigan, e o vazamento dos e-mails pessoais do diretor do FBI, Kash Patel, mais tarde naquele mês.\n\nO Handala não respondeu nesta terça-feira a um pedido de comentário enviado por e-mail.",
-    "published": "2026-09-15T17:54:34+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Reino Unido, Estados Unidos e Holanda emitiram nesta terça-feira um alerta conjunto de cibersegurança com detalhes sobre um software espião que, segundo os três países, é usado por agentes ligados ao Irã para atingir dissidentes, ativistas e jornalistas.\nLeia também:\nEUA impõem s",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Kássio nega relação com Master e diz ter “absoluta isenção”",
-    "link": "https://www.poder360.com.br/poder-justica/kassio-nega-relacao-com-master-e-diz-ter-absoluta-isencao/",
-    "description": "Ministro afirma que nunca trocou mensagens com Vorcaro, nega relação do filho com o banco e cita voto pela prisão do empresário para defender isenção",
-    "published": "2026-09-15T17:49:56+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Ministro afirma que nunca trocou mensagens com Vorcaro, nega relação do filho com o banco e cita voto pela prisão do empresário para defender isenção",
-    "relevance": 5
   }
 ]
