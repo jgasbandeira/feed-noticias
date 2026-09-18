@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "Instituto lança painel com 228 indicadores para eleição",
+    "link": "https://www.poder360.com.br/poder-eleicoes/instituto-lanca-painel-com-228-indicadores-para-eleicao/",
+    "description": "IMDS, criado por economistas Arminio Fraga e Paulo Tafner busca aumentar discussão de propostas por candidatos",
+    "published": "2026-09-18T02:00:10+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "IMDS, criado por economistas Arminio Fraga e Paulo Tafner busca aumentar discussão de propostas por candidatos",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Dez dos 16 alvos da operação que investiga elo do PCC com transporte de SP foram presos",
     "link": "https://valor.globo.com/politica/noticia/2026/09/17/dez-dos-16-alvos-da-operao-que-investiga-elo-do-pcc-com-transporte-de-sp-foram-presos.ghtml",
@@ -4098,31 +4110,5 @@
     ],
     "summary": "A Polícia Federal deflagrou, na manhã desta quinta-feira, a Operação Faixa Amarela para investigar um suposto esquema de fraudes em licitações de transporte escolar, desvio de recursos públicos, peculato e lavagem de dinheiro na gestão municipal de Duque de Caxias, na Baixada Flu",
     "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Nunes Marques negou pedido da PF de buscas contra ACM Neto em desvios de emendas parlamentares",
-    "link": "https://valor.globo.com/politica/noticia/2026/09/17/nunes-marques-negou-pedido-da-pf-de-buscas-contra-acm-neto-em-desvios-de-emendas-parlamentares.ghtml",
-    "description": "A Polícia Federal pediu buscas contra o candidato a governador da Bahia, ACM Neto (União Brasil) no âmbito da 10ª fase da Operação Overclean, deflagrada nesta quinta-feira (17), mas o ministro Kassio Nunes Marques, do Supremo Tribunal Federal (STF), negou o pedido.\nA PF cumpre 24 mandados de buscas para investigar suspeitas de fraudes em contratos fechados entre 2024 e 2025, de mais de R$ 80 milhões na secretaria municipal de Educação de Belo Horizonte. Dentre os principais alvos de buscas estão o empresário José Marcos de Moura, conhecido como \"Rei do Lixo\" e Alex Parente. Os dois são empresários donos de empresas de construção e limpeza.\nO ministro Kassio Nunes Marques é o relator da Overclean no STF. A investigação mira esquemas de fraudes em contratos de lixo e outros serviços e desvios de emendas parlamentares em diferentes Estados do país.\nA PF também cumpre buscas contra ex-secretário de Educação da capital mineira, Bruno Barral. As investigações apontam que ele teria sido indicado por ACM Neto para o posto.\nSegundo a PF os fatos investigados podem configurar crimes contra a administração pública, fraudes em licitações, organização criminosa e lavagem de dinheiro.",
-    "published": "2026-09-17T11:50:59+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A Polícia Federal pediu buscas contra o candidato a governador da Bahia, ACM Neto (União Brasil) no âmbito da 10ª fase da Operação Overclean, deflagrada nesta quinta-feira (17), mas o ministro Kassio Nunes Marques, do Supremo Tribunal Federal (STF), negou o pedido.\nA PF cumpre 24",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "G1 - Política",
-        "link": "https://g1.globo.com/politica/noticia/2026/09/17/nunes-marques-nega-pedido-da-pf-para-realizar-busca-contra-acm-neto-dentro-de-investigacao-sobre-desvio-de-emendas.ghtml"
-      },
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/politica/noticia/2026/09/17/nunes-marques-nega-pedido-da-pf-de-busca-contra-acm-neto-na-operacao-overclean.ghtml"
-      },
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/politica/nunes-marques-veta-buscas-contra-acm-neto-em-operacao-sobre-desvios-em-licitacoes/"
-      }
-    ]
   }
 ]
