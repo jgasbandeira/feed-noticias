@@ -1,5 +1,18 @@
 [
   {
+    "source": "O Globo",
+    "title": "Em gesto inédito de aproximação, presidente interina da Venezuela se reunirá com Trump em Nova York",
+    "link": "https://oglobo.globo.com/mundo/noticia/2026/09/19/em-gesto-inedito-de-aproximacao-presidente-interina-da-venezuela-se-reunira-com-trump-em-nova-york.ghtml",
+    "description": "A presidente interina da Venezuela, Delcy Rodríguez, viajará a Nova York na próxima semana para participar da Assembleia Geral das Nações Unidas e terá um breve encontro com o presidente dos Estados Unidos, Donald Trump, na terça-feira. A reunião, conhecida diplomaticamente como um “encontro à margem”, foi confirmada na sexta-feira pelo embaixador americano na ONU, Mike Walsh. A viagem será a primeira de um chefe de Estado venezuelano à organização desde 2018 e ocorre em meio à crescente aproximação entre Caracas e Washington após a invasão militar americana que terminou com a detenção e destituição de Nicolás Maduro no início deste ano.\nInvestigadores da ONU: Aparato repressivo da Venezuela continua ‘intacto’, apesar de ‘melhorias limitadas’\nQuer ler mais notícias de Mundo? Acompanhe o canal no WhatsApp\nQuer morar fora? Veja guia interativo que reúne informações sobre 36 países\nA reunião entre Trump e Delcy já havia sido antecipada por veículos como Bloomberg e Axios, mas ainda não tinha confirmação oficial. A ida da líder chavista aos EUA representa uma mudança em relação à postura mantida durante anos pelo governo venezuelano, marcado pela oposição a Washington. Desde a queda de Maduro, os governos dos dois países, até então inimigos, passaram a demonstrar uma sintonia crescente.\nUm dos principais sinais dessa aproximação ocorreu em 28 de agosto, quando Trump anunciou um acordo pelo qual os EUA passaram a ter acesso privilegiado a mais de 65 bilhões de barris das reservas de petróleo venezuelanas, quase um quarto do total do país. Diante das críticas provocadas pelo anúncio, o republicano defendeu o pacto dias depois: “É um presente da Venezuela ao povo dos EUA”, disse ele.\nTrump disse ainda que o acordo com o governo de Delcy não custaria um dólar aos Estados Unidos e traria apenas benefícios ao país. Segundo o presidente, os 65 bilhões de barris incluídos no pacto servirão, entre outras coisas, para recompor as reservas estratégicas americanas, que atualmente se encontram no nível mais baixo em quatro décadas.\nApós anos: Sites de notícias voltam ao ar na Venezuela horas antes de negociações entre o governo e a oposição\nOutro gesto de aproximação ocorreu na quarta-feira, quando Trump anunciou a retirada da Venezuela da lista de países que descumprem seus compromissos no combate ao narcotráfico. O presidente atribuiu a decisão aos “avanços positivos” registrados no governo de Delcy. Em decreto, o republicano disse que “decidiu” que a Venezuela “não deve mais ser apontada por ter descumprido de maneira comprovada seus compromissos de controle de drogas”.\nTrump também elogiou a “crescente cooperação” entre os dois países no combate aos cartéis, incluindo a operação militar conjunta que permitiu neutralizar Niño Guerrero, líder do Trem de Aragua. Ao mencionar a mudança nas relações entre Washington e Caracas, o americano voltou a se referir a Maduro como “ex-ditador ilegítimo e narcotraficante”.\nDiscurso na ONU\nA participação de Delcy na Assembleia Geral também marca o retorno de um chefe de Estado venezuelano à tribuna da ONU depois de oito anos. O último foi Maduro, que discursou em setembro de 2018, durante o primeiro governo Trump. Antes e depois daquela participação, representantes da diplomacia chavista usaram a Assembleia Geral para denunciar as sanções impostas pelos EUA — que ainda permanecem em vigor — e defender a soberania venezuelana, frequentemente em discursos de forte oposição a Washington.\nEntenda: Exilados voltam à Venezuela para ‘abrir caminho’ para María Corina Machado, que segue impedida de retornar ao país\nDelcy já participou da Assembleia Geral em outras funções. Esteve na ONU em 2016, quando era chanceler, e retornou em 2019, já como vice-presidente. Naquela ocasião, classificou as sanções americanas como uma forma de “terrorismo de Estado” que, segundo ela, não utilizava bombas, mas bancos e seguradoras.\nNo mesmo discurso, ela acusou Trump de ter “estendido suas garras imperiais” contra Cuba e afirmou que povos como o venezuelano não tinham acesso a uma máquina de comunicação a serviço do “hegemon” mundial e de seus satélites. Também pediu a Washington menos arrogância e mais tolerância em relação às nações livres. Durante a intervenção, várias delegações deixaram o plenário em protesto.\nNo mesmo dia do encontro com Delcy, Trump fará um discurso na ONU e terá outras reuniões bilaterais, segundo o representante de seu governo. O americano deverá se encontrar com o primeiro-ministro do Reino Unido, Andy Burnham, e com a primeira-ministra japonesa, além de presidir uma reunião com líderes dos países do Golfo Pérsico.",
+    "published": "2026-09-19T15:25:22+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "A presidente interina da Venezuela, Delcy Rodríguez, viajará a Nova York na próxima semana para participar da Assembleia Geral das Nações Unidas e terá um breve encontro com o presidente dos Estados Unidos, Donald Trump, na terça-feira. A reunião, conhecida diplomaticamente como ",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "OpenAI diz que Brasil é teste global para IA nas eleições",
     "link": "https://www.poder360.com.br/poder-eleicoes-2026/openai-diz-que-brasil-e-teste-global-para-ia-nas-eleicoes/",
@@ -106,7 +119,13 @@
       "Politica"
     ],
     "summary": "Os candidatos que disputam as Eleições de 2026 passam a contar, a partir deste sábado (19), com uma proteção legal que limita prisões e detenções: os concorrentes só poderão ser presos em caso de flagrante delito. A limitação das prisões seguirá até 48 horas depois da votação do ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/19/regra-eleitoral-restringe-prisao-de-candidatos-a-partir-deste-sabado-e-e-valida-ate-48-horas-depois-do-primeiro-turno-veja-como-funciona.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -1606,6 +1625,10 @@
       {
         "source": "Poder360",
         "link": "https://www.poder360.com.br/poder-pesquisas/48-dizem-nao-confiar-no-stf-maior-percentual-desde-2012/"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/09/19/datafolha-no-cear-lula-tem-54-pontos-percentuais-e-flvio-26.ghtml"
       }
     ]
   },
@@ -1791,7 +1814,13 @@
       "Politica"
     ],
     "summary": "O voto nas eleições de outubro deste ano valerão como prova de vida para aposentados e pensionistas do Instituto Nacional do Seguro Social (INSS). O comparecimento às urnas será uma das informações utilizadas para confirmar que o beneficiário está vivo, portanto o beneficiário nã",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-eleicoes-2026/voto-nas-eleicoes-valera-como-prova-de-vida-no-inss/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3795,18 +3824,6 @@
       "Mercado Financeiro"
     ],
     "summary": "A Sendas Distribuidora, dona da rede atacadista Assaí, aprovou um novo programa de aquisição facultativa de debêntures, no valor total de R$ 200 milhões. A companhia também anunciou a conclusão do seu programa anunciado em abril, também de R$ 200 milhões, após o atingimento do li",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "MBRF (MBRF3) pode subir até 23% apenas com queda da Selic até 2027, avalia Goldman",
-    "link": "https://www.infomoney.com.br/mercados/mbrf-mbrf3-pode-subir-ate-23-apenas-com-queda-da-selic-ate-2027-avalia-goldman/",
-    "description": "Banco estima que uma eventual normalização dos juros para 12% até o fim de 2027 poderia gerar potencial de valorização de 23% para a ação apenas pelo efeito financeiro\nThe post MBRF (MBRF3) pode subir até 23% apenas com queda da Selic até 2027, avalia Goldman appeared first on InfoMoney.",
-    "published": "2026-09-18T14:13:18+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Banco estima que uma eventual normalização dos juros para 12% até o fim de 2027 poderia gerar potencial de valorização de 23% para a ação apenas pelo efeito financeiro\nThe post MBRF (MBRF3) pode subir até 23% apenas com queda da Selic até 2027, avalia Goldman appeared first on In",
     "relevance": 5
   }
 ]
