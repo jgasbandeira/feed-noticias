@@ -1,5 +1,17 @@
 [
   {
+    "source": "O Globo",
+    "title": "STF reabre discussão sobre racismo institucional no Brasil",
+    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/09/stf-reabre-discussao-sobre-racismo-institucional-no-brasil.ghtml",
+    "description": "O STF voltará a discutir a partir desta sexta-feira dois pontos que ficaram fora do julgamento que reconheceu a existência de racismo estrutural no Brasil. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-19T14:21:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O STF voltará a discutir a partir desta sexta-feira dois pontos que ficaram fora do julgamento que reconheceu a existência de racismo estrutural no Brasil. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Ações de IA abriram janela geracional? Veja como se posicionar",
     "link": "https://www.infomoney.com.br/onde-investir/acoes-ia-janela-geracional-como-se-posicionar/",
@@ -180,7 +192,13 @@
       "Politica"
     ],
     "summary": "Autoridades russas relataram ataques a sistemas de votação e linhas de comunicação em todo o país neste sábado, segundo dia das eleições parlamentares de 18 a 20 de setembro, que Moscou considera um teste de apoio público à guerra na Ucrânia.\n\nA eleição para a Duma Estatal, a pri",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/mundo/russia-relata-ataque-hacker-massivo-no-2o-dia-de-eleicao-parlamentar/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -547,6 +565,18 @@
       "Politica"
     ],
     "summary": "Um terreno que já foi endereço de livros, revistas e outras publicações que marcaram a história da imprensa brasileira vai ganhar um novo capítulo. No antigo complexo gráfico da Editora Bloch, entre Parada de Lucas e Cordovil, na Zona Norte, será construído o Parque do Saber — Bo",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Cúpula do Master tratava advogada que recebeu R$ 33 milhões de Vorcaro como 'sócia de Gilmar'",
+    "link": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/09/cupula-do-master-tratava-advogada-que-recebeu-r-33-milhoes-de-vorcaro-como-socia-de-gilmar.ghtml",
+    "description": "A cúpula do Banco Master deu alta prioridade aos pagamentos a uma advogada que o time de Daniel Vorcaro tratava como sócia do ministro do Supremo Tribunal Federal (STF) Gilmar Mendes. Dalide Corrêa, que recebeu R$ 33 milhões do Master, atuava a favor dos interesses do ex-CEO no mercado de precatórios.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-19T08:00:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A cúpula do Banco Master deu alta prioridade aos pagamentos a uma advogada que o time de Daniel Vorcaro tratava como sócia do ministro do Supremo Tribunal Federal (STF) Gilmar Mendes. Dalide Corrêa, que recebeu R$ 33 milhões do Master, atuava a favor dos interesses do ex-CEO no m",
     "relevance": 5
   },
   {
@@ -3779,32 +3809,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Os investidores estrangeiros retiraram R$ 964 milhões em recursos do segmento secundário da B3 (ações já listadas) na quarta-feira (16). Na sessão, o Ibovespa caiu 0,51%. Ainda assim, a categoria registra superávit de R$ 6,2 bilhões no mês, enquanto o saldo do ano permanece posit",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Bolsas de NY operam sem direção única, pressionadas por juros, mas com suporte de ‘techs’",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/18/bolsas-de-ny-operam-sem-direcao-unica-pressionadas-por-juros-mas-com-suporte-de-techs.ghtml",
-    "description": "Pressionadas pelo avanço dos juros dos Treasuries, enquanto o mercado ainda digere a possibilidade de um ciclo de restrição pelo Federal Reserve (Fed), as bolsas americanas operam sem sinal único nesta sexta-feira. O alívio nos preços do petróleo e a valorização de ativos ligados à tecnologia, após o rali da véspera, dão suporte aos índices na sessão, que conta com poucos direcionadores econômicos relevantes.\n\nO índice Dow Jones operava em queda de 0,26%, aos 51.645,90 pontos, próximo às 10h40 (horário de Brasília). O S&amp;P 500 oscilava perto da estabilidade (+0,06%), aos 7.642,68 pontos; e o Nasdaq subia 0,38%, aos 26.519,61 pontos. O setor de tecnologia tinha alta de 0,26% enquanto o de comunicação valorizava 1,14%.\n\nCom exceção do banco central da Inglaterra (BoE), as autoridades monetárias de algumas das principais economias do mundo, como zona do euro, Japão e Estados Unidos, elevaram os juros entre a última semana e esta e indicaram que taxas mais restritivas podem ser apropriadas no futuro, caso não seja visto progresso no combate à inflação. A taxa da T-note de 10 anos voltou a flertar com o patamar de 5%, hoje, que havia sido abandonado após a descompressão da última sessão.\n\nOs preços do petróleo recuam, com menores receios de disrupção na oferta de petróleo, mas seguem em patamares extremamente elevados. A referência global, o Brent, ainda opera acima da faixa de US$ 103 por barril. A Saudi Aramco informou para pelo menos dois clientes de refino de petróleo na Europa que eles não receberão óleo bruto no próximo mês, após o ataque de um importante oleoduto pelos houthis, grupo do Iêmen aliado do Irã.",
-    "published": "2026-09-18T14:05:58+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Pressionadas pelo avanço dos juros dos Treasuries, enquanto o mercado ainda digere a possibilidade de um ciclo de restrição pelo Federal Reserve (Fed), as bolsas americanas operam sem sinal único nesta sexta-feira. O alívio nos preços do petróleo e a valorização de ativos ligados",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Ataque suicida mata 16 em complexo policial no Paquistão",
-    "link": "https://valor.globo.com/mundo/noticia/2026/09/18/ataque-suicida-mata-16-em-complexo-policial-no-paquisto.ghtml",
-    "description": "Um ataque suicida contra um complexo policial no noroeste do Paquistão deixou pelo menos 16 mortos e 57 feridos nesta sexta-feira. Um homem lançou um carro carregado de explosivos contra o local enquanto policiais e seus familiares rezavam em uma mesquita dentro das instalações, segundo autoridades. \nLeia também:\nOfensiva dos rebeldes houthis, reforçados pelo Irã, chocou regime da Arábia Saudita\nChina pressiona Irã a conter houthis após apelo da Arábia Saudita\nEUA abrem caminho para venda de caças de US$ 24,3 bilhões à Arábia Saudita\n\nCinco policiais estão entre os mortos. O veículo atingiu o muro externo do complexo e homens armados que o acompanhavam abriram fogo na cidade de Kohat, afirmou o chefe da polícia provincial, Zulfikar Hameed.\n\nNão houve reivindicação imediata de autoria do ataque na província fronteiriça de Khyber Pakhtunkhwa, que tem registrado um aumento dos ataques de militantes islâmicos que lutam para derrubar o governo federal.\n\nVídeos compartilhados por equipes de resgate mostraram o muro que cercava o complexo destruído pela explosão e pessoas tentando retirar os feridos dos escombros enquanto ambulâncias chegavam ao local.\n\nHavia pessoas caídas na rua enquanto outras, com roupas manchadas de sangue, tentavam ajudá-las. Todos os sete homens que realizaram o ataque morreram na explosão e no confronto a tiros que se seguiu, informou a polícia em comunicado.\n\nO Ministério do Interior afirmou que as “ações covardes” não seriam capazes de enfraquecer a “firme determinação da nação”.\n\nA atuação de grupos militantes nas regiões fronteiriças do Paquistão aumentou acentuadamente nos últimos meses, tendo como principais alvos as Forças Armadas e a polícia.\nSoldados do Exército e profissionais da imprensa se reúnem no local onde uma bomba de grande potência explodiu em uma mesquita em Kohat, no noroeste do Paquistão\nAP/Maaz Awan\n\nO Tehreek-e-Taliban Pakistan (TTP), ou Talibã paquistanês — principal grupo militante da região e organização que reúne diversos grupos militantes sunitas — divulgou um comunicado negando envolvimento no ataque desta sexta-feira.\n\nIslamabad afirma que militantes usam refúgios no Afeganistão para treinar e planejar ataques no Paquistão. O governo do Talibã no Afeganistão nega a acusação e afirma que a atuação de grupos militantes é um problema interno do Paquistão.",
-    "published": "2026-09-18T14:01:14+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Um ataque suicida contra um complexo policial no noroeste do Paquistão deixou pelo menos 16 mortos e 57 feridos nesta sexta-feira. Um homem lançou um carro carregado de explosivos contra o local enquanto policiais e seus familiares rezavam em uma mesquita dentro das instalações, ",
     "relevance": 5
   }
 ]
