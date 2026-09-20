@@ -1,5 +1,29 @@
 [
   {
+    "source": "Poder360",
+    "title": "AfD vence eleição estadual no nordeste da Alemanha",
+    "link": "https://www.poder360.com.br/poder-internacional/afd-vence-eleicao-estadual-no-nordeste-da-alemanha/",
+    "description": "Alternativa para a Alemanha teve 37,9% dos votos em Mecklemburgo-Pomerânia Ocidental e ficou à frente do Partido Social-Democrata",
+    "published": "2026-09-20T21:26:44+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Alternativa para a Alemanha teve 37,9% dos votos em Mecklemburgo-Pomerânia Ocidental e ficou à frente do Partido Social-Democrata",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "França tomará medidas após Irã fechar seu centro cultural em Teerã",
+    "link": "https://valor.globo.com/mundo/noticia/2026/09/20/frana-tomar-medidas-aps-ir-fechar-seu-centro-cultural-em-teer.ghtml",
+    "description": "A França convocará o embaixador do Irã e adotará medidas adequadas em resposta após autoridades iranianas lacrarem um centro de língua francesa vinculado à sua embaixada em Teerã, informou o Ministério das Relações Exteriores neste domingo (20).\n“Este novo ataque contra a presença cultural da França no Irã, após a agressão a dois funcionários da embaixada francesa em julho passado, é injustificável e inaceitável”, disse o porta-voz do Ministério das Relações Exteriores, Pascal Confavreux, em comunicado.",
+    "published": "2026-09-20T21:07:49+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A França convocará o embaixador do Irã e adotará medidas adequadas em resposta após autoridades iranianas lacrarem um centro de língua francesa vinculado à sua embaixada em Teerã, informou o Ministério das Relações Exteriores neste domingo (20).\n“Este novo ataque contra a presenç",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Economia",
     "title": "Após Master, Dino dá 90 dias para Fazenda reavaliar regras de atuação da CVM",
     "link": "https://g1.globo.com/economia/noticia/2026/09/20/apos-master-dino-da-90-dias-para-fazenda-reavaliar-regras-de-atuacao-da-cvm.ghtml",
@@ -987,6 +1011,10 @@
       {
         "source": "Poder360",
         "link": "https://www.poder360.com.br/poder-justica/video-mostra-alexandre-de-moraes-saindo-de-jatinho-ligado-a-vorcaro/"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/09/20/escritorio-da-esposa-de-moraes-nega-vinculo-pessoal-com-vorcaro-em-viagem-de-jatinho.ghtml"
       }
     ]
   },
@@ -3828,30 +3856,6 @@
       "Politica"
     ],
     "summary": "Em estudo pelo Ministério da Saúde desde o final de junho, a distribuição de canetas emagrecedoras pelo Sistema Único de Saúde virou promessa de campanha do presidente Luiz Inácio Lula da Silva (PT). Na quinta-feira, Lula citou o fornecimento do medicamento para pessoas obesas qu",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Governador da Califórnia propõe um 'botão de desligamento' para a IA para tentar controlar o setor de tecnologia",
-    "link": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/09/18/governador-da-california-propoe-um-botao-de-desligamento-para-a-ia-para-tentar-controlar-o-setor-de-tecnologia.ghtml",
-    "description": "O governador da Califórnia, Gavin Newsom, assinou nesta sexta-feira uma ordem executiva para acelerar a implementação de salvaguardas para a inteligência artificial no estado que é o epicentro do atual boom da tecnologia.\nNewsom está determinando que um grupo de trabalho elabore, em dois meses, um guia com medidas para fortalecer as leis de segurança e proteção da IA na Califórnia, de acordo com um comunicado divulgado por seu gabinete. O grupo deve considerar medidas como exigir que as empresas desenvolvam um \"botão de desligamento\" (kill switch) para modelos de ponta e que terceiros independentes elaborem planos de segurança para empresas de IA.\n“Não vamos esperar para agir — vamos acelerar nosso trabalho para estabelecer uma supervisão substancial e responsável da IA antes que seja tarde demais”, disse Newsom. “Vamos fazer isso de forma cuidadosa, mas com urgência; os riscos são altos demais para esperar ou adiar medidas.”\nO gabinete de Newsom não respondeu imediatamente a um pedido de informações sobre quem fará parte do grupo. Os alertas sobre a segurança da IA se intensificaram nas últimas semanas, à medida que CEOs como Sam Altman, da OpenAI, e Dario Amodei, da Anthropic, passaram a defender uma supervisão maior após renúncias de funcionários de alto nível que levantaram preocupações sobre os riscos da tecnologia.\nA Anthropic e a OpenAI têm sede na Califórnia, e Newsom tem demonstrado forte apoio à tecnologia, que vem impulsionando um boom econômico no estado. No início deste ano, ele anunciou uma parceria entre o governo da Califórnia e a Anthropic destinada a ampliar o uso do Claude nas agências estaduais.\nNewsom já havia vetado anteriormente importantes projetos de legislação sobre IA, incluindo um amplo projeto de lei sobre segurança da inteligência artificial em 2024.\nA OpenAI classificou a ordem executiva de Newsom como “um passo importante”, segundo um porta-voz da empresa. “Estamos ansiosos para apoiar sua implementação e trabalhar com o governador Newsom, a Assembleia Legislativa da Califórnia e o próximo governador do estado para avançar em salvaguardas robustas e adaptáveis que possam contribuir para um marco regulatório nacional consistente”, afirmou a OpenAI em comunicado.\nA ordem executiva desta sexta-feira também vai acelerar a implementação, pelo estado, de duas novas leis de supervisão da IA aprovadas pela Assembleia Legislativa neste ano, incluindo regras para auditorias de inteligência artificial realizadas por terceiros. As leis SB 813 e AB 1405 estabelecem, respectivamente, um sistema de organizações independentes de verificação e um cadastro estadual de auditores de IA.\nTrump, Shapiro e a supervisão da IA\nOutros governadores democratas estão defendendo salvaguardas mais rigorosas para a inteligência artificial depois que o presidente Donald Trump rejeitou os alertas sobre os riscos da tecnologia. Trump comparou essas preocupações às relacionadas ao risco do aquecimento global e classificou os temores sobre a segurança da IA como uma “farsa”.\nNa quinta-feira, o governador da Pensilvânia, Josh Shapiro, pediu salvaguardas mais rigorosas para a inteligência artificial durante um discurso no evento AI Horizons, em Pittsburgh.\n“Não acho que as preocupações muito reais de nossos vizinhos, que eles expressam de forma tão contundente sobre essa tecnologia, sejam uma farsa, como nosso presidente afirmou”, disse.\nParlamentares em Washington também apresentaram propostas semelhantes, incluindo uma medida apoiada pelo deputado democrata Ted Lieu e uma proposta no Senado apresentada pelo republicano John Kennedy — que também defende a criação de um “botão de desligamento” (kill switch) para sistemas de IA.\nEmpresas menores de IA, no entanto, alertaram para o risco de que a regulamentação restrinja a concorrência. Executivos de startups afirmaram que essa abordagem pode permitir que as principais empresas definam as regras e reforcem seu domínio sobre o que ainda é um setor tecnológico incipiente.\nNewsom, que considera concorrer à presidência em 2028, também critica Trump e o Congresso por não agirem em relação às medidas de segurança para a IA.\nEm um vídeo publicado na internet na manhã desta sexta-feira, ele pediu que o presidente da Câmara, Mike Johnson, convoque o Congresso de volta do recesso para aprovar um projeto de lei federal sobre segurança em IA, chamando isso de “o mínimo que devemos esperar que ele e seus colegas façam”.",
-    "published": "2026-09-18T22:01:47+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O governador da Califórnia, Gavin Newsom, assinou nesta sexta-feira uma ordem executiva para acelerar a implementação de salvaguardas para a inteligência artificial no estado que é o epicentro do atual boom da tecnologia.\nNewsom está determinando que um grupo de trabalho elabore,",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Apresentador Ratinho mergulha na campanha de Sandro Alex, candidato à sucessão do filho em dificuldades no Paraná",
-    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/18/apresentador-ratinho-mergulha-na-campanha-de-sandro-alex-candidato-a-sucessao-do-filho-em-dificuldades-no-parana.ghtml",
-    "description": "O apresentador de TV Carlos Massa, o Ratinho, passou a cumprir agenda nos últimos dias ao lado de Sandro Alex (PSD), ex-secretário de Infraestrutura do Paraná e candidato ao governo do estado como sucessor do filho do comunicador e atual governador, Ratinho Júnior (PSD). Como mostrou o GLOBO, o mandatário também decidiu se licenciar do cargo a duas semanas da eleição para se dedicar à campanha ao aliado. Pai e filho, no entanto, têm participado de eventos simultâneos em regiões diferentes do estado e só devem se encontrar neste sábado. \n'Ninguém vai querer se intrometer no meu governo': Cleitinho nega troca de favores com doadores de campanha se eleito em MG\nMapa da campanha presidencial: Sudeste concentra 70% dos compromissos dos candidatos enquanto Norte é deixado de lado\nO comunicador esteve ao lado de Sandro na quinta-feira em carreatas em três municípios da região Sudoeste do estado. No mesmo dia, o governador percorreu a região Noroeste e foi acompanhado pelos dois candidatos ao Senado da chapa majoritária: o presidente da Assembleia Legislativa, Alexandre Curi (Republicanos), e a jornalista Cristina Graelm (PSD). \nAs dobradinhas também se repetiram nesta sexta-feira. O governador esteve em seis cidades das regiões Noroeste e Centro-Oeste do estado. Já o candidato ao governo e o apresentador de TV estiveram em carreatas em quatro cidades no Oeste do Paraná. Os dois grupos, por sua vez, devem se encontrar amanhã em Foz do Iguaçu e Cascavel. Ao final do dia, planejam participar do Congresso Geral da União da Mocidade das Assembleias de Deus do Paraná, na cidade de Medianeira. \nRepública de Curitiba vs. Ratinhismo do interior\nAs agendas acontecem após o governador decidir deixar temporariamente o comando do estado para se dedicar exclusivamente à campanha de Sandro Alex, escolhido por ele como seu sucessor. O ex-secretário enfrenta na disputa o senador Sergio Moro (PL-PR), que tem liderado as pesquisas. Na última Quaest, divulgada no final de agosto, o parlamentar pontou 37%. Ele apareceu na frente do deputado estadual Requião Filho (PDT), que teve 21%, e do ex-secretário, que contabilizou 15% e passou a correr o risco de ficar de fora de um eventual segundo turno. \nComo estratégia de campanha, Sandro tem apostado no título de \"homem das obras\" da gestão de Ratinho e no apoio de aliados no interior, uma vez que os partidos de sua coligação reúnem cerca de 75% dos prefeitos do estado. Já Moro é popular na capital, onde é conhecido por sua atuação como juiz da Lava-Jato e integrante da \"República de Curitiba\", alcunha criada por Lula para descrever magistrados e procuradores que atuavam na operação. Na eleição deste ano, o senador indicou ao Senado Deltan Dallagnol (Novo), que também fazia parte do grupo, na época, como integrante do Ministério Público.  \nComo contraponto, Sandro Alex atraiu para a vice de sua chapa o ex-prefeito da capital Rafael Greca (MDB). O candidato também indicou o sucessor de Greca eleito em 2024, Eduardo Pimentel (PSD), como coordenador de sua campanha.\nInitial plugin text",
-    "published": "2026-09-18T21:57:56+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O apresentador de TV Carlos Massa, o Ratinho, passou a cumprir agenda nos últimos dias ao lado de Sandro Alex (PSD), ex-secretário de Infraestrutura do Paraná e candidato ao governo do estado como sucessor do filho do comunicador e atual governador, Ratinho Júnior (PSD). Como mos",
     "relevance": 5
   }
 ]
