@@ -1,5 +1,29 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "O Irã informou que os EUA planejam retomar ações, segundo mídia estatal",
+    "link": "https://valor.globo.com/mundo/noticia/2026/09/20/o-ir-informou-que-os-eua-planejam-retomar-aes-segundo-mdia-estatal.ghtml",
+    "description": "O Irã recebeu informações de que os Estados Unidos, com o apoio de alguns países da região, preparavam-se para retomar ações contra o Irã, informou o comando militar central do país em um comunicado no domingo, segundo a mídia estatal.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-20T13:30:08+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "O Irã recebeu informações de que os Estados Unidos, com o apoio de alguns países da região, preparavam-se para retomar ações contra o Irã, informou o comando militar central do país em um comunicado no domingo, segundo a mídia estatal.\n Matéria exclusiva para assinantes. Para ter",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "No Ceará, Justiça Eleitoral determina perda de 47 minutos na propaganda de Elmano por associar Ciro a Bolsonaro",
+    "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/20/no-cear-justia-eleitoral-determina-perda-de-47-minutos-na-propaganda-de-elmano-por-associar-ciro-a-bolsonaro.ghtml",
+    "description": "A duas semanas das eleições, a Justiça Eleitoral do Ceará determinou a perda de 47 minutos de propaganda no rádio e na televisão da campanha do governador do Estado e candidato à reeleição, Elmano de Freitas (PT), por associar o ex-governador e candidato Ciro Gomes (PSDB) ao ex-presidente Jair Bolsonaro (PL), chamando o tucano de “Cironaro”. A campanha petista informou que já recorreu da decisão por meio de um mandado de segurança e espera reverter a decisão.\n\nCiro recorreu ao Tribunal Regional Eleitoral do Ceará (TRE-CE) para impedir a exibição da propaganda eleitoral de Elmano que o vincula a Bolsonaro. A peça eleitoral usa expressões como “Cironaro”, “Ciro e Bolsonaro, do mesmo jeito” e “Ciro e Bolsonaro agora andam do mesmo lado”, e intercala a exibição da imagens do candidato do PSDB e do ex-presidente. A propaganda foi exibida entre 28 de agosto e o dia 2.\n\nA campanha de Ciro argumentou que a propaganda do petista, ao exibir Bolsonaro e associá-lo ao candidato do PSDB,  “empregou imagem, voz e manifestações de terceiro como elemento persuasivo para produzir associação eleitoral negativa, mediante montagem e descontextualização de falas”, em uma “afronta” às regras eleitorais. \n\nNa decisão, o relator, desembargador eleitoral Magno Gomes de Oliveira, considerou que a montagem produziu uma associação política e comportamental irregular entre Ciro e Bolsonaro que não decorria dos contextos originais das declarações. “O resultado é a criação de uma espécie de equivalência comportamental”, disse o desembargador, em sua decisão, proferida no sábado (19). “A liberdade de expressão protege a crítica, mas não protege a fabricação de fatos, e tampouco protege, em princípio, a manipulação semântica que transforma acontecimentos verdadeiros em suporte aparente para uma afirmação que deles não decorre.”\n\nCom a decisão da Justiça Eleitoral, a campanha petista deve perder 25 minutos no rádio e 22 minutos na televisão. Em caso de descumprimento da decisão, a multa varia entre R$ 5.320 e R$ 15.961, em caso de uma nova exibição da propaganda.\n\nA campanha de Ciro já tinha recorrido à Justiça Eleitoral pedindo a retirada de 29 minutos da propaganda de Elmano, por associá-lo a Bolsonaro, mas a campanha de Elmano conseguiu no sábado um mandado de segurança para suspender a perda.\n\nO PL está na coligação de Ciro e tem como candidato ao Senado o deputado bolsonarista Alcides Fernandes. O candidato do PSDB, no entanto, evita vincular sua imagem à do presidenciável Flávio Bolsonaro (PL), com receio de perder os votos de apoiadores do presidente Luiz Inácio Lula da Silva. No passado, Ciro criticou duramente Bolsonaro.\n\nElmano e apoiadores PT têm explorado, em discursos e na propaganda eleitoral, a aliança de Ciro com o PL e bolsonaristas.\n\nQuestionado sobre a decisão da Justiça Eleitoral, Elmano voltou a ressaltar a ligação de Ciro com Bolsonaro. “Tem um processo na Justiça, vamos ver no que é que dá. Eu não vou fazer associação, não, ele que se associou à turma do Bolsonaro. Eu não estou associando, ele é que se associou a aliados bolsonaristas”, disse o governador, depois de participar de um evento da campanha em Fortaleza na manhã deste domingo (20).",
+    "published": "2026-09-20T13:28:12+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A duas semanas das eleições, a Justiça Eleitoral do Ceará determinou a perda de 47 minutos de propaganda no rádio e na televisão da campanha do governador do Estado e candidato à reeleição, Elmano de Freitas (PT), por associar o ex-governador e candidato Ciro Gomes (PSDB) ao ex-p",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "China realiza etapa de eleição direta no Legislativo",
     "link": "https://www.poder360.com.br/poder-china/china-realiza-etapa-de-eleicao-direta-no-legislativo/",
@@ -446,6 +470,10 @@
       {
         "source": "Valor Econômico",
         "link": "https://valor.globo.com/politica/noticia/2026/09/20/vdeo-mostra-moraes-e-esposa-desembarcando-de-jatinho-de-empresa-de-vorcaro-aponta-jornal.ghtml"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/video-mostra-alexandre-de-moraes-saindo-de-jatinho-ligado-a-vorcaro/"
       }
     ]
   },
@@ -3813,36 +3841,6 @@
       "Politica"
     ],
     "summary": "O Ministério da Energia de Cuba informou nesta sexta-feira, em publicação na rede social X, que a rede elétrica do país sofreu um colapso total de energia, deixando milhões de pessoas sem eletricidade em toda a ilha caribenha.\n\nLeia também:\nEUA anunciam novas sanções contra empre",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Datafolha: Ciro marca 47% na corrida pelo governo do Ceará, enquanto Elmano tem 40%",
-    "link": "https://oglobo.globo.com/blogs/pulso/post/2026/09/datafolha-ciro-marca-47percent-na-corrida-pelo-governo-do-ceara-enquanto-elmano-tem-40percent.ghtml",
-    "description": "Pesquisa Datafolha divulgada nesta sexta-feira mostra o ex-ministro Ciro Gomes (PSDB) com 47% das intenções de voto no primeiro turno da corrida pelo Executivo cearense, enquanto o governador Elmano de Freitas (PT) marca 40%. No levantamento anterior, publicado em 3 de setembro, a vantagem do tucano para o petista era de 9 pontos percentuais.\nEm meados de agosto, Ciro marcava 52% e Elmano, 33%. A distância, à época, era de 19 pontos percentuais.\nDivulgada pelo jornal O Povo, essa é a segunda pesquisa Datafolha no Ceará após o início da campanha eleitoral. Ciro busca impedir a sexta vitória consecutiva da aliança petista ao Palácio da Abolição. Esta eleição coloca o tucano em campo oposto ao irmão, o senador Cid Gomes, que disputa reeleição na chapa de Elmano.\nO Datafolha entrou em campo entre 14 e 17 de setembro e realizou 1.204 entrevistas. A margem de erro máxima prevista é de 3 pontos percentuais para mais ou para menos, considerando um nível de confiança de 95%. A pesquisa está registrada sob os números CE-01290/2026 e BR-00180/2026 no Tribunal Superior Eleitoral (TSE).",
-    "published": "2026-09-18T19:31:41+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Pesquisa Datafolha divulgada nesta sexta-feira mostra o ex-ministro Ciro Gomes (PSDB) com 47% das intenções de voto no primeiro turno da corrida pelo Executivo cearense, enquanto o governador Elmano de Freitas (PT) marca 40%. No levantamento anterior, publicado em 3 de setembro, ",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/18/datafolha-no-ceara-ciro-tem-47percent-e-elmano-40percent-no-1o-turno.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "O Globo",
-    "title": "PEC do PT sobre reforma do Judiciário deve chegar a 200 assinaturas na próxima semana",
-    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/09/pec-do-pt-sobre-reforma-do-judiciario-deve-chegar-a-200-assinaturas-na-proxima-semana.ghtml",
-    "description": "A proposta de PEC de reforma do Judiciário apresentada pelo PT deve chegar a 200 assinaturas na próxima semana, afirma o autor, o deputado Reginaldo Lopes. O texto prevê mudanças nas regras para ministros do Supremo Tribunal Federal (STF) e de outras Cortes superiores, como mandato de até dez anos, idade mínima de 50 anos para futuras nomeações e paridade de gênero. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-09-18T19:31:18+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A proposta de PEC de reforma do Judiciário apresentada pelo PT deve chegar a 200 assinaturas na próxima semana, afirma o autor, o deputado Reginaldo Lopes. O texto prevê mudanças nas regras para ministros do Supremo Tribunal Federal (STF) e de outras Cortes superiores, como manda",
     "relevance": 5
   }
 ]
