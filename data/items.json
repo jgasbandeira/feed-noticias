@@ -3411,6 +3411,19 @@
     "relevance": 5
   },
   {
+    "source": "CNBC",
+    "title": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+    "link": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html",
+    "description": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
+    "published": "2026-09-18T18:28:31+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "The chairman both explained this week's decision to raise interest rates, and raised vexing questions about what comes next",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Política",
     "title": "Defesa de Vorcaro diz que recorrerá ao plenário do STF caso Fachin mantenha prisão do ex-banqueiro",
     "link": "https://g1.globo.com/politica/blog/andreia-sadi/noticia/2026/09/18/entrevista-defesa-vorcaro.ghtml",
@@ -3828,19 +3841,6 @@
       "Politica"
     ],
     "summary": "As Forças Armadas da Rússia foram responsáveis por 89% dos casos de violência sexual generalizada contra civis e prisioneiros de guerra na Ucrânia, incluindo estupros coletivos e choques elétricos nos órgãos genitais, informou nesta sexta-feira o escritório de direitos humanos da",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Bolsas caem na Europa com realização de lucros e pressão de juros de títulos soberanos",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/18/bolsas-caem-na-europa-com-realizacao-de-lucros-e-pressao-de-juros-de-titulos-soberanos.ghtml",
-    "description": "Os principais índices de ações da Europa fecharam em queda nesta sexta-feira (18), devolvendo parte da alta vista na véspera, com investidores aproveitando a valorização recente para realizar lucros. Apesar do alívio nos preços do petróleo, houve certa pressão dos rendimentos dos títulos de dívida europeus sobre o desempenho das bolsas no pregão.\n\nNo fechamento, o índice pan-europeu Stoxx 600 teve queda de 1,12%, aos 635,43 pontos. O FTSE 100, da Bolsa de Londres, recuou 1,45%, aos 10.659 pontos, e o DAX, de Frankfurt, cedeu 1,60%, aos 25.304,06 pontos. O CAC 40, de Paris, teve desvalorização de 1,49%, aos 8.065,02 pontos. No acumulado da semana, as bolsas tiveram perdas de 0,57%, alta de 0,08% e baixas de 1,03% e 1,40%, respectivamente.\n\nEntre os destaques do Stoxx 600, o setor de telecomunicações ficou entre as maiores perdas, terminando o dia em baixa de 3,19%. As empresas de energia também ficaram no vermelho (-0,69%), em linha com a baixa dos preços do petróleo no pregão. Por outro lado, tecnologia (+0,22%) subiu, com destaque para as ações ligadas ao setor de chips.\n\nO movimento de alta nos rendimentos de títulos de dívida europeus visto nesta sexta-feira também contribuiu para pressionar o desempenho das bolsas. O Jefferies acredita que o recente alívio nas tensões no Oriente Médio deve retirar o estresse dos mercados de juros e de ações. \"O problema estrutural está no quadro fiscal, e não vemos chances de melhora no curto prazo\", pontua Mohit Kumar, economista-chefe para Europa do banco.\n\n\nOperadores na bolsa de valores Euronext NV em Paris\nBenjamin Girette/Bloomberg",
-    "published": "2026-09-18T16:38:06+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Os principais índices de ações da Europa fecharam em queda nesta sexta-feira (18), devolvendo parte da alta vista na véspera, com investidores aproveitando a valorização recente para realizar lucros. Apesar do alívio nos preços do petróleo, houve certa pressão dos rendimentos dos",
     "relevance": 5
   }
 ]
