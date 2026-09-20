@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "Deltan diz que ministro que o vetou no TSE é amigo de Moraes",
+    "link": "https://www.poder360.com.br/poder-justica/deltan-diz-que-ministro-que-o-vetou-no-tse-e-amigo-de-moraes/",
+    "description": "Floriano de Azevedo Marques, que afirmou ser amigo de Moraes há mais de 40 anos, suspendeu candidatura do ex-deputado ao Senado no sábado (19.set)",
+    "published": "2026-09-20T20:18:42+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Floriano de Azevedo Marques, que afirmou ser amigo de Moraes há mais de 40 anos, suspendeu candidatura do ex-deputado ao Senado no sábado (19.set)",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Calendário econômico: ata do Copom e Relatório de Política Monetária como destaques",
     "link": "https://www.infomoney.com.br/mercados/calendario-economico-ata-do-copom-e-relatorio-de-politica-monetaria-como-destaques/",
@@ -453,6 +465,10 @@
       {
         "source": "Poder360",
         "link": "https://www.poder360.com.br/poder-justica/dino-manda-uniao-revisar-regras-da-cvm-e-cita-caso-master/"
+      },
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/mercados/dino-manda-governo-revisar-regras-da-cvm-e-cita-falhas-reveladas-pelo-caso-master/"
       }
     ]
   },
@@ -3827,19 +3843,6 @@
       "Politica"
     ],
     "summary": "A nova rodada da pesquisa Quaest no Rio de Janeiro vai medir as intenções de voto para o governo estadual e para o Senado nas eleições de 2026. O levantamento será divulgado na próxima quarta-feira (23) e inclui oito candidatos na apuração estimulada do primeiro turno para govern",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Governo do DF vai ao STF e diz que resistência de Lula em socorrer BRB é ‘decisão política’",
-    "link": "https://oglobo.globo.com/economia/noticia/2026/09/18/governo-do-df-vai-ao-stf-e-diz-que-resistencia-de-lula-em-socorrer-brb-e-decisao-politica.ghtml",
-    "description": "A governadora do Distrito Federal, Celina Leão (PP), encaminhou ao ministro Luiz Fux, do Supremo Tribunal Federal (STF), declarações do presidente Lula de que não irá colocar dinheiro no Banco de Brasília (BRB) para ajudar a instituição a sair da crise. Em ato de  campanha à reeleição na cidade de Ceilândia (DF), Lula afirmou: \n— Nós não vamos dar dinheiro para o BRB.\nCelina e Lula são adversários políticos e desde que a governadora assumiu o DF, ela tem buscado ajuda do governo federal para conseguir um empréstimo de R$ 6,6 bilhões para solucionar o rombo deixado pelos negócios entre o BRB e o Master, de Daniel Vorcaro. \n\"(..) A declaração de vontade indica que a resistência da União não decorre de óbice jurídico ou fiscal, mas de decisão política, e que essa decisão está associada à disputa pelo Governo do Distrito Federal\", disse em trecho do texto.\nO ofício foi enviado na ação em que o governo do DF pede para Fux obrigar o Tesouro Nacional a ser garantidor do empréstimo para salvar o BRB.\nEm maio, a governadora recorreu ao STF e o ministro Fux tem atuado como mediador entre as partes. \nNa nova investida, apresentada pela Procuradoria-Geral da Fazenda do Distrito Federal, a governadora alega que não está pedindo dinheiro à União. Destaca ainda que a fala do presidente não é um fato isolado. \nO documento cita acordo mediado por Fux no final de maio, com representantes do governo federal para obter o empréstimo do Fundo Garantidor de Créditos (FGC) ao Distrito Federal para fim exclusivo de aporte de capital do banco, com contragarantia oferecida pelos Fundos de Participação dos Estados e dos Municípios e fiança de um sindicato de bancos, \"circunstância que permitiu consignar que a operação se realizaria sem que haja aval da União.\"\nA operação seria coordenada pelo Banco do Brasil. Mas quatro meses após o acordo, o empréstimo não saiu do papel, o que levou o governo local a recorrer novamente a Fux. Representantes da equipe econômica têm reiterado que o problema do BRB é do controlador. \nNa semana passada, Fux deu 15 dias sucessivos, ou seja, até 45 dias, para que o governo federal, o Banco Central e o FGC se manifestem sobre o pedido do governo do Distrito Federal.",
-    "published": "2026-09-18T21:44:11+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "A governadora do Distrito Federal, Celina Leão (PP), encaminhou ao ministro Luiz Fux, do Supremo Tribunal Federal (STF), declarações do presidente Lula de que não irá colocar dinheiro no Banco de Brasília (BRB) para ajudar a instituição a sair da crise. Em ato de  campanha à reel",
     "relevance": 5
   }
 ]
