@@ -1,6 +1,19 @@
 [
   {
     "source": "InfoMoney",
+    "title": "Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça",
+    "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-22092026/",
+    "description": "Índices futuros dos EUA avançam em meio à nova queda do petróleo\nThe post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney.",
+    "published": "2026-09-22T10:59:31+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Índices futuros dos EUA avançam em meio à nova queda do petróleo\nThe post Ibovespa Hoje Ao Vivo: Confira o que movimenta Bolsa, Dólar e Juros nesta terça appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
     "title": "Líder do PT aciona STF para investigar emenda de Flávio a entidades do terceiro setor",
     "link": "https://www.infomoney.com.br/politica/lider-do-pt-aciona-stf-para-investigar-emenda-de-flavio-a-entidades-do-terceiro-setor/",
     "description": "Na ação ao STF, diz-se que \"há elementos objetivos que justificam a apuração das circunstâncias em que a entidade foi escolhida como destinatária\"\nThe post Líder do PT aciona STF para investigar emenda de Flávio a entidades do terceiro setor appeared first on InfoMoney.",
@@ -9,6 +22,18 @@
       "Politica"
     ],
     "summary": "Na ação ao STF, diz-se que \"há elementos objetivos que justificam a apuração das circunstâncias em que a entidade foi escolhida como destinatária\"\nThe post Líder do PT aciona STF para investigar emenda de Flávio a entidades do terceiro setor appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Reunião no Planalto sobre regulamentação da lei do gás natural opõe Petrobras e Minas e Energia",
+    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/09/reuniao-no-planalto-sobre-regulamentacao-da-lei-do-gas-natural-opoe-petrobras-e-minas-e-energia.ghtml",
+    "description": "Está marcada para às 15h de hoje, no Palácio do Planalto, uma importante reunião sobre o futuro da nova lei do gás natural. Essa é uma reunião que foi agendada para ocorrer duas semanas atrás, mas que foi adiada em cima da hora. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-22T10:22:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Está marcada para às 15h de hoje, no Palácio do Planalto, uma importante reunião sobre o futuro da nova lei do gás natural. Essa é uma reunião que foi agendada para ocorrer duas semanas atrás, mas que foi adiada em cima da hora. Matéria exclusiva para assinantes. Para ter acesso ",
     "relevance": 5
   },
   {
@@ -177,7 +202,13 @@
       "Economia"
     ],
     "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta terça-feira (22)\nThe post Ata do Copom, arrecadação federal, Trump na ONU e mais destaques desta terça-feira appeared first on InfoMoney.",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/financas/noticia/2026/09/22/agenda-do-dia-ata-do-copom-e-lula-na-onu-sao-destaque.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -1754,7 +1785,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Modalidade permite à empresa negociar ações e outros valores mobiliários em mercados regulamentados; CVM ainda analisa pedido",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/mercados/jbs-jbss32-pede-cancelamento-de-registro-de-companhia-aberta-na-cvm/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -1817,7 +1854,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Arquivos e mensagens encontradas pela Polícia Federal (PF) no celular de Daniel Vorcaro, do Banco Master, mostram que o banqueiro contratou o escritório de advocacia de Camilla Ramos, mulher do desembargador Newton Ramos, do Tribunal Regional Federal da 1ª Região (TRF-1), para at",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/politica/mensagem-de-vorcaro-mostra-negociacao-de-estadia-em-hotel-em-nome-de-ministro-do-stf/"
+      }
+    ]
   },
   {
     "source": "Brazil Journal",
@@ -2138,6 +2181,18 @@
       "Economia"
     ],
     "summary": "O governo da Argentina estima que cerca de sete milhões de fiéis se mobilizem durante a visita do Papa Leão XIV ao país, entre os dias 8 e 11 de novembro. Será a primeira viagem de um Pontífice à Argentina em 38 anos. A passagem pelo país faz parte de uma turnê pela América do Su",
+    "relevance": 5
+  },
+  {
+    "source": "NeoFeed",
+    "title": "Por que a rede elétrica detém a “chave” do novo mapa do poder industrial no Brasil",
+    "link": "https://neofeed.com.br/economia/por-que-a-rede-eletrica-detem-a-chave-do-novo-mapa-do-poder-industrial-no-brasil/",
+    "description": "A transição energética está redesenhando o mapa industrial do Brasil. E não são apenas o subsolo, a localização estratégica, como porto ou hub, e o incentivo fiscal que devem definir onde os grandes empreendimentos vão nascer — é a rede elétrica. Essa é a conclusão de um levantamento inédito do Instituto E+ de Transição Energética [&#8230;]\nO post Por que a rede elétrica detém a &#8220;chave&#8221; do novo mapa do poder industrial no Brasil apareceu primeiro em NeoFeed.",
+    "published": "2026-09-21T21:46:25+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "A transição energética está redesenhando o mapa industrial do Brasil. E não são apenas o subsolo, a localização estratégica, como porto ou hub, e o incentivo fiscal que devem definir onde os grandes empreendimentos vão nascer — é a rede elétrica. Essa é a conclusão de um levantam",
     "relevance": 5
   },
   {
@@ -2513,6 +2568,19 @@
     "relevance": 5
   },
   {
+    "source": "Valor Econômico",
+    "title": "Flávio Dino mantém proibição de publicidade de bets em bens públicos de MG",
+    "link": "https://valor.globo.com/politica/noticia/2026/09/21/flavio-dino-mantem-proibicao-de-publicidade-de-bets-em-bens-publicos-de-mg.ghtml",
+    "description": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino recusou o pedido de suspensão de um decreto do governo de Minas Gerais que proíbe a divulgação de propagandas de empresas de apostas de cota fixa (bets) e de plataformas de conteúdo adulto em bens públicos estaduais e em eventos promovidos ou apoiados pelo Poder Executivo mineiro.\nCom isso, segue proibida a denominação de espaços públicos, setores ou equipamentos com nomes de bets ou plataformas de conteúdo adulto. Também fica proibida a instalação ou exposição de placas, painéis, faixas, banners, totens, luminosos e painéis eletrônicos em área pública, entre outras ações de marca.\nLeia mais\nA decisão, tomada nesta segunda-feira (21/9), responde a um pedido de liminar apresentado pela Associação Nacional de Jogos e Loterias (ANJL), no âmbito da ação direta de inconstitucionalidade (ADI) 8014, que questiona a legalidade do Decreto estadual 49.279/2026, publicado em agosto.\nQuando assinou o decreto, o governador Mateus Simões (PSD) também rescindiu o contrato firmado entre a Loteria Mineira e o consórcio que explora as bets no Estado. As medidas, segundo o governo, tinham como objetivo reduzir os impactos sociais ligados às apostas online e desvincular a administração pública dessas atividades.\nNa ação, a ANJL alega que o Estado invadiu a competência da União para legislar sobre propaganda comercial. Na sua decisão, o ministro Flávio Dino afirmou que não identificou elementos que justificassem a suspensão do decreto. Dino considerou que o decreto trata da gestão de bens  e recursos públicos, que é de competência do Executivo, e não proíbe as bets, nem as apostas.\n\"A exploração de jogos de azar, quando desacompanhada de controle estatal, gera externalidades negativas que atingem precisamente esses vetores constitucionais: endividamento familiar, erosão patrimonial dos cidadãos, favorecimento de circuitos de lavagem de dinheiro e de sua instrumentalização pelo crime organizado\", afirmou o ministro.\nNota da ANJL\nA ANJL divulgou nota afirmando que respeita a decisão monocrática de Dino, mas considera que o entendimento do ministro foi equivocado, principalmente em relação aos argumentos usados na decisão, a maioria relacionados ao mercado ilegal de apostas.\n\"Além de confrontar diretamente o que determina a legislação federal sobre as apostas de quota fixa, o decreto mineiro cria, ainda, uma assimetria em território nacional de matérias de competência exclusiva da União, que são a publicidade e a legislação sobre loterias\", afirmou em nota. A ANJL informou que vai recorrer da decisão, por meio de agravo regimental, para que a ação seja decidida pelo plenário do Supremo Tribunal Federal.",
+    "published": "2026-09-21T20:40:34+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino recusou o pedido de suspensão de um decreto do governo de Minas Gerais que proíbe a divulgação de propagandas de empresas de apostas de cota fixa (bets) e de plataformas de conteúdo adulto em bens públicos estaduais e em ev",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "ANTT suspende testes com radares que medem velocidade média na Ponte Rio-Niterói e outras vias; entenda decisão",
     "link": "https://oglobo.globo.com/brasil/noticia/2026/09/21/antt-suspende-testes-com-radares-que-medem-velocidade-media-na-ponte-rio-niteroi-e-outras-vias-entenda-decisao.ghtml",
@@ -2534,6 +2602,18 @@
       "Economia"
     ],
     "summary": "O Brasil convive com um déficit habitacional estimado em 6 milhões de moradias e com uma necessidade projetada em mais de 11 milhões de unidades na próxima década. Antes de qualquer edifício, atender a essa fila exige terra urbanizada, com via, drenagem e rede enterrada. É nessa ",
+    "relevance": 5
+  },
+  {
+    "source": "NeoFeed",
+    "title": "Passagens aéreas mais caras e custos “nas alturas”: o peso da reforma tributária para a aviação",
+    "link": "https://neofeed.com.br/negocios/passagens-aereas-mais-caras-e-custos-nas-alturas-o-peso-da-reforma-tributaria-para-a-aviacao/",
+    "description": "Combustível mais caro, judicialização, burocracia e custos elevados de operação fazem parte da lista de desafios enfrentados pelas companhias aéreas no Brasil. Para Peter Cerdá, vice-presidente regional da Associação Internacional de Transporte Aéreo (Iata) para as Américas, porém, nenhum deles preocupa tanto o setor hoje quanto a reforma tributária. &#8220;A maior tempestade que temos é [&#8230;]\nO post Passagens aéreas mais caras e custos &#8220;nas alturas&#8221;: o peso da reforma tributária para a aviação apareceu primeiro em NeoFeed.",
+    "published": "2026-09-21T20:37:28+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Combustível mais caro, judicialização, burocracia e custos elevados de operação fazem parte da lista de desafios enfrentados pelas companhias aéreas no Brasil. Para Peter Cerdá, vice-presidente regional da Associação Internacional de Transporte Aéreo (Iata) para as Américas, poré",
     "relevance": 5
   },
   {
@@ -3794,74 +3874,6 @@
       {
         "source": "G1 - Economia",
         "link": "https://g1.globo.com/economia/noticia/2026/09/21/justica-libera-r-268-bilhoes-para-atrasados-do-inss-veja-se-voce-tem-direito-e-quando-pode-receber.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "O Globo",
-    "title": "Lula e Flávio concentram agendas no Sudeste e Nordeste a duas semanas da eleição",
-    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/21/lula-e-flavio-concentram-agendas-no-sudeste-e-nordeste-a-duas-semanas-da-eleicao.ghtml",
-    "description": "A duas semanas da eleição, o presidente Luiz Inácio Lula da Silva e o candidato do PL à Presidência, Flávio Bolsonaro, vão concentrar as agendas no Sudeste e do Nordeste. A busca por votos nos estados com mais eleitores — São Paulo, Minas Gerais e Rio concentram 40% do eleitorado — e a necessidade de acenos políticos dão o tom das viagens.\nFlávio começa a semana no Rio Grande do Norte, onde terá compromissos na segunda-feira. A programação prevê atos em Parnamirim e Natal, incluindo uma motocarreata e um comício na capital, ao lado de aliados locais. Na terça-feira, o candidato segue para o Maranhão. As duas viagens fecham uma sequência de incursões pelo Norte e pelo Nordeste feita nas últimas semanas com o objetivo de ampliar a presença do candidato em regiões onde Lula concentra parte importante de seu eleitorado.\nDepois, a campanha de Flávio muda o eixo geográfico. O candidato ficará quarta e quinta-feira em Minas Gerais e, na sexta, seguirá para o Rio de Janeiro. A concentração no Sudeste faz parte da estratégia traçada pela campanha para os últimos dias antes da votação. \nMinas ganhou atenção especial no planejamento da campanha. Além do tamanho do eleitorado, aliados de Flávio enxergam o estado como um dos principais terrenos de disputa direta com Lula e pretendem aumentar a presença do candidato no estado na reta final. Ele estará ao lado do deputado federal Nikolas Ferreira (PL-MG).\nLula, por sua vez, terá parte da semana consumida pela agenda presidencial fora do país. O petista viajou no último domingo a Nova York para participar da 81ª Assembleia Geral das Nações Unidas e tem uma agenda prevista nesta segunda-feira com o prefeito da cidade, Zohran Mamdani. Ele retorna ao Brasil na quarta-feira (23).\nNo mesmo dia, à noite, deve participar do tradicional encontro com artistas na Fundição Progresso, no Rio de Janeiro. A agenda, que se tornou recorrente nas campanhas presidenciais de Lula, deve contar com nomes como Caetano Veloso e Chico Buarque.\nDepois da passagem pelo Rio, Lula também é esperado em Pernambuco para uma agenda eleitoral antes do primeiro turno. A visita ainda não tem data marcada, local ou formato definidos e ocorre após um apelo da equipe de João Campos (PSB), que disputa o governo do estado. A decisão representa uma mudança em relação à estratégia inicialmente adotada pela campanha petista, que pretendia evitar agendas em estados onde havia mais de um candidato ao governo declarando apoio ao presidente. O cenário em Pernambuco é apertado, com a governadora Raquel Lyra (PSD) numericamente à frente de Campos no Datafolha, por 47% a 42% no primeiro turno.",
-    "published": "2026-09-21T16:34:05+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A duas semanas da eleição, o presidente Luiz Inácio Lula da Silva e o candidato do PL à Presidência, Flávio Bolsonaro, vão concentrar as agendas no Sudeste e do Nordeste. A busca por votos nos estados com mais eleitores — São Paulo, Minas Gerais e Rio concentram 40% do eleitorado",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Fazenda vai revisar, marginalmente para baixo, previsão do PIB para 2026",
-    "link": "https://valor.globo.com/brasil/noticia/2026/09/21/fazenda-vai-revisar-marginalmente-para-baixo-previsao-do-pib-para-2026.ghtml",
-    "description": "O Ministério da Fazenda vai anunciar, nesta terça-feira (22), uma revisão para baixo da expectativa de crescimento da economia para 2026. Atualmente, a pasta estima que o Produto Interno Bruto (PIB) vai avançar 2,3% neste ano, mas esse número será revisto para baixo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-09-21T16:32:17+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O Ministério da Fazenda vai anunciar, nesta terça-feira (22), uma revisão para baixo da expectativa de crescimento da economia para 2026. Atualmente, a pasta estima que o Produto Interno Bruto (PIB) vai avançar 2,3% neste ano, mas esse número será revisto para baixo. Matéria excl",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Apoio de Michelle é disputado entre candidatos bolsonaristas ao Senado no Rio",
-    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/21/apoio-de-michelle-e-disputado-entre-candidatos-bolsonaristas-ao-senado-no-rio.ghtml",
-    "description": "O apoio de Michelle Bolsonaro vem se tornando um componente dentro do campo bolsonarista na disputa pelas duas vagas do Rio de Janeiro pelo Senado. Marcelo Crivella (Republicanos), Carlos Portinho (PL) e Carlos Jordy (PL) tentam se apresentar como representantes do eleitorado ligado à família Bolsonaro, mas os movimentos recentes da ex-primeira-dama abriram uma disputa particular entre os candidatos.\nMinas: Candidato de Flávio é diagnosticado com Covid-19 e suspende agendas de campanha a duas semanas da eleição\nImpeachment de ministros, reforma e conselho de ética: Saiba o que os candidatos ao Senado por SP sugerem para conter crise no STF\nHá uma semana, Crivella publicou um vídeo gravado durante um ato de campanha ao lado da senadora Damares Alves (Republicanos). Na gravação, Damares afirma ter levado ao candidato uma mensagem de Michelle.\n“A Michelle Bolsonaro disse que está esperando acabar a eleição, pra você chegar lá em Brasília, ela te receber no aeroporto com abraço apertado, porque vai ser senador você aqui e ela lá no Distrito Federal”, disse Damares.\nA própria Michelle comentou a publicação de Crivella: “Obrigada por suas orações e por seu trabalho dedicado ao nosso querido povo! Que Deus te abençoe grandemente.” O vídeo também passou a ser explorado pelo candidato em suas inserções na propaganda eleitoral de televisão.\nO movimento, porém, ganhou uma resposta de Portinho. Neste domingo, o senador publicou um vídeo gravado ao lado de Michelle, no qual ela pede votos para sua candidatura.\n“Lealdade não se proclama. Lealdade se prova, principalmente nos momentos difíceis, e o Portinho é assim”, afirma a ex-primeira-dama. Na sequência, ela diz que “o Rio de Janeiro precisa manter no Senado uma voz experiente, firme e leal” e pede voto para o candidato do PL.\nA disputa coloca em lados diferentes candidatos que buscam ocupar o mesmo espaço político. Portinho é o nome escolhido pelo PL para tentar a reeleição e foi selecionado em julho após uma disputa interna que envolveu também Jordy e Sóstenes Cavalcante. Jordy acabou mantido na corrida ao Senado e recebeu posteriormente o apoio público de Flávio Bolsonaro.\nDentro do PL, há um esforço para reforçar a dobradinha entre Jordy e Portinho justamente para conter o avanço de Crivella. Os dois, porém, adotam estratégias diferentes para buscar o eleitorado de direita. Enquanto Jordy mira o eleitor mais identificado com o bolsonarismo, Portinho tem participado de mais eventos ao lado do candidato do PL ao governo do estado, Douglas Ruas, e buscado o apoio de prefeitos.\nCrivella, por sua vez, vem tentando se apresentar como uma alternativa aos dois nomes do PL. O candidato do Republicanos já recebeu manifestações de apoio de políticos identificados com o bolsonarismo, como o ex-deputado Daniel Silveira. Na semana passada, também publicou um vídeo em que Mariana Eustáquio, filha do blogueiro bolsonarista Oswaldo Eustáquio, declarou apoio à sua candidatura.\nQuaest\nA disputa pelo eleitorado bolsonarista ocorre em um cenário de proximidade entre os principais candidatos da direita na corrida pelo Senado. Na pesquisa Quaest divulgada no último dia 8, Marcelo Crivella aparece com 8% das intenções de voto, enquanto Carlos Jordy e Carlos Portinho têm 6% cada. A margem de erro é de três pontos percentuais, para mais ou para menos, o que coloca os três em empate técnico. Os candidatos aparecem atrás da petista Benedita da Silva na disputa pelas duas vagas.\nNa pesquisa, Crivella aparece, portanto, numericamente à frente dos dois candidatos do PL, embora dentro da margem de erro. A divisão do eleitorado de direita ajuda a explicar a disputa por apoios e pela identificação com o bolsonarismo.\nPortinho chegou a resumir a estratégia do PL em uma declaração sobre os três candidatos conservadores que disputam espaço no campo da direita.\n“São três senadores conservadores, mas de direita só tem dois: eu e Jordy. Acredito que a direita vai identificar isso”, afirmou o senador.\nO peso da chancela de Michelle também está relacionado ao desempenho da ex-primeira-dama na própria disputa pelo Senado no Distrito Federal. Na última Quaest, divulgada em 8 de setembro, Michelle apareceu com 26% das intenções de voto na combinação dos dois votos, à frente de Leila do Vôlei (PDT), com 17%, Erika Kokay (PT), com 13%, e Bia Kicis (PL), com 11%.\nO levantamento também mostra que Michelle é uma das candidatas mais conhecidas no Distrito Federal: apenas 5% dos entrevistados disseram não conhecê-la. Entre os que a conhecem, 51% afirmaram que votariam nela e 44% disseram que não votariam.\nA manifestação pública da ex-primeira-dama para Portinho, portanto, ocorre em meio a uma disputa na qual os três candidatos tentam consolidar-se como uma das opções do eleitorado de direita. Ao mesmo tempo em que o PL busca apresentar Jordy e Portinho como sua dupla para o Senado, Crivella procura atrair parte desse eleitorado para fora da chapa do partido.",
-    "published": "2026-09-21T16:28:56+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O apoio de Michelle Bolsonaro vem se tornando um componente dentro do campo bolsonarista na disputa pelas duas vagas do Rio de Janeiro pelo Senado. Marcelo Crivella (Republicanos), Carlos Portinho (PL) e Carlos Jordy (PL) tentam se apresentar como representantes do eleitorado lig",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "FII do Pátria investe R$ 257 mi em participações de cinco shoppings; veja detalhes",
-    "link": "https://www.infomoney.com.br/onde-investir/fii-do-patria-investe-r-257-mi-em-participacoes-de-cinco-shoppings-veja-detalhes/",
-    "description": "Segundo a gestão, a operação ainda contribui para diversificar e qualificar o portfólio do PMLL11\nThe post FII do Pátria investe R$ 257 mi em participações de cinco shoppings; veja detalhes appeared first on InfoMoney.",
-    "published": "2026-09-21T16:24:20+00:00",
-    "themes": [
-      "Fundos Imobiliarios"
-    ],
-    "summary": "Segundo a gestão, a operação ainda contribui para diversificar e qualificar o portfólio do PMLL11\nThe post FII do Pátria investe R$ 257 mi em participações de cinco shoppings; veja detalhes appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Bolsas sobem na Europa com recuo do petróleo e impulso do setor de tecnologia",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/21/bolsas-sobem-na-europa-com-recuo-do-petroleo-e-impulso-do-setor-de-tecnologia.ghtml",
-    "description": "Os principais índices de ações europeias fecharam em alta nesta segunda-feira (21), recuperando parte das perdas vistas na semana passada, com apoio de um recuo nos preços do petróleo e nos rendimentos dos títulos de dívida do bloco. As bolsas se beneficiaram de um dia mais favorável a ativos de risco nos mercados globais, com destaque para o setor de tecnologia, que ficou entre os maiores ganhos na Europa. \n\nNo fechamento, o índice pan-europeu Stoxx 600 teve alta de 1,04%, aos 642,07 pontos. O FTSE 100, da Bolsa de Londres, subiu 0,75%, aos 10.739,01 pontos, e o DAX, de Frankfurt, avançou 1,07%, aos 25.575,01 pontos. O CAC 40, de Paris, teve valorização de 0,92%, aos 8.138,94 pontos.\n\nEntre os destaques do Stoxx 600, o setor de tecnologia terminou o dia em forte alta de 1,70%, em linha com o bom desempenho desse segmento nas bolsas de Nova York. As ações da Soitec subiram 9,93%, as da Aixtron avançaram 4,91% e as da ASML tiveram valorização de 2,50%. O setor bancário também ficou no positivo, com ganho de 1,78%.  Por outro lado, energia fechou em queda de 0,78%, em linha com as perdas do petróleo no dia.\n\nEmbora o cenário permaneça incerto no Oriente Médio, os preços do petróleo apresentam firme queda nesta segunda-feira, em meio a relatos de navegação pelo Estreito de Ormuz e com a possibilidade de uma retomada nas conversas diplomáticas para acabar com o conflito. O presidente dos EUA, Donald Trump, disse à Fox News que estaria disposto a se reunir com o presidente iraniano Masoud Pezeshkian durante a Assembleia Geral da ONU, nesta semana.\n\nOs estrategistas de ações do Goldman Sachs observam que, embora o mercado acionário europeu esteja sentindo certa pressão do avanço dos rendimentos dos títulos de dívida recentemente, o desempenho das bolsas tem se mantido resiliente. Na visão da equipe, que inclui Guillaume Jaisson e Peter Oppenheimer, isso se deve aos lucros corporativos sólidos e aos investidores que continuarem vendo o ambiente atual como um cenário de “crescimento resiliente, e não de recessão iminente”.\n\n“O risco de curto prazo é uma consolidação, e não um mercado de baixa”, eles afirmam. “Com os bancos centrais adotando uma postura mais dura, as taxas ainda sendo reajustadas para cima e a incerteza política aumentando, é mais provável que vejamos mercados lateralizados ou mais fracos.” Ainda assim, o banco continua posicionado em setores expostos ao que os estrategistas chamam de “temas estruturais de investimento”, como inteligência artificial, defesa, infraestrutura e financeiro.\n\n\nReflexo de painel de cotações na bolsa de valores em Paris, operada pela Euronext NV\nNathan Laine/Bloomberg",
-    "published": "2026-09-21T16:14:19+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Os principais índices de ações europeias fecharam em alta nesta segunda-feira (21), recuperando parte das perdas vistas na semana passada, com apoio de um recuo nos preços do petróleo e nos rendimentos dos títulos de dívida do bloco. As bolsas se beneficiaram de um dia mais favor",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-com-petroleo-e-tecnologia-no-radar-antes-de-discurso-de-trump/"
       }
     ]
   }
