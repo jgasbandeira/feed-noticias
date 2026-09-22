@@ -1,5 +1,18 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Bitcoin dispara, volta a US$ 86 mil e renova máxima de oito meses",
+    "link": "https://valor.globo.com/financas/criptomoedas/noticia/2026/09/21/bitcoin-dispara-volta-a-us-86-mil-e-renova-maxima-de-oito-meses.ghtml",
+    "description": "Depois de meses de pressão vendedora, o bitcoin voltou a ganhar fôlego nos últimos dias e superou a marca de US$ 86 mil, maior nível desde janeiro. A recuperação ganhou força com a melhora do apetite por risco nos mercados globais e uma combinação de sinais mais favoráveis para o setor de criptoativos nos Estados Unidos, depois de uma semana marcada por avanços e recuos na frente regulatória.\n\nO Senado dos EUA não conseguiu avançar, na semana passada, o Clarity Act, projeto que busca estabelecer regras mais claras para o mercado de ativos digitais. Dias depois, porém, a SEC (comissão de valores mobiliários americana) abriu caminho para que ações americanas tokenizadas sejam negociadas sob uma isenção regulatória de cinco anos, medida recebida positivamente pelo setor.\n\nCom os preços em alta, um “short squeeze” (alta forçada por fechamento de posições vendidas) passou a acelerar o movimento: cerca de US$ 648 milhões em posições vendidas foram liquidadas no mercado de criptomoedas, dos quais aproximadamente US$ 278 milhões em bitcoin.\n\nOs fundos negociados em bolsa (ETFs) à vista de bitcoin nos EUA receberam US$ 433 milhões na última sexta-feira, depois de US$ 159 milhões na véspera. Esses fundos são uma das principais vias de exposição de investidores institucionais ao bitcoin e, por isso, a retomada das entradas funciona como um sinal de demanda pelo ativo, segundo Noah Cheung, country manager da Bitget no Brasil.\n\nNesta segunda, a Strategy, maior empresa de capital aberto detentora de bitcoin, informou ter comprado mais 950 unidades por US$ 75,7 milhões, elevando sua posição para 846 mil bitcoins. A Strive, outra grande empresa de tesouraria de bitcoin, anunciou a aquisição de outras 1.355 unidades. \n\nO ambiente externo também deu suporte à alta. O petróleo caiu pelo quarto pregão consecutivo, em meio à expectativa de avanços diplomáticos no conflito entre EUA e Irã, aliviando parte das preocupações com inflação e juros, enquanto o Nasdaq avançou 2,3%, tendo seu melhor desempenho desde agosto.\n\nGabriel Dellatorre, sócio da Vault Capital, pondera que a recuperação não significa necessariamente o início de um novo ciclo prolongado de alta. Ele compara o momento aos períodos posteriores às quedas de 2019 e 2022, quando recuperações fortes foram seguidas por meses de preços mais laterais antes de uma tendência mais definida.",
+    "published": "2026-09-21T23:45:43+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Depois de meses de pressão vendedora, o bitcoin voltou a ganhar fôlego nos últimos dias e superou a marca de US$ 86 mil, maior nível desde janeiro. A recuperação ganhou força com a melhora do apetite por risco nos mercados globais e uma combinação de sinais mais favoráveis para o",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "'Turma KN': Mensagens do celular de Vorcaro mostram que desembargador negociou estadia em hotel em nome de  ministro do STF",
     "link": "https://oglobo.globo.com/politica/noticia/2026/09/21/turma-kn-mensagens-do-celular-de-vorcaro-mostram-que-desembargador-negociou-estadia-em-hotel-para-ministro-do-stf.ghtml",
@@ -328,7 +341,13 @@
       "Politica"
     ],
     "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), se declarou impedido de analisar um mandado de segurança que busca obrigar o Senado a divulgar registros de entrada e saída de pessoas como o ex-banqueiro Daniel Vorcaro e a advogada Viviane Barci de Moraes, mulhe",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/politica/noticia/2026/09/21/moraes-se-declara-impedido-para-atuar-em-acao-que-pede-informacoes-ao-senado-sobre-visitas-de-sua-esposa-e-de-vorcaro.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3985,18 +4004,6 @@
       "Politica"
     ],
     "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Acerto de contas é inevitável",
-    "link": "https://valor.globo.com/opiniao/coluna/acerto-de-contas-e-inevitavel.ghtml",
-    "description": "Até o momento, nenhum candidato à Presidência da República apresentou propostas concretas e viáveis para lidar com a necessidade urgente de ajuste nas contas públicas. O que se viu, no máximo, foram alusões genéricas ao tema, enquanto não faltam promessas que representam, na realidade, potencial piora do quadro fiscal brasileiro. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-09-21T08:00:00+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Até o momento, nenhum candidato à Presidência da República apresentou propostas concretas e viáveis para lidar com a necessidade urgente de ajuste nas contas públicas. O que se viu, no máximo, foram alusões genéricas ao tema, enquanto não faltam promessas que representam, na real",
     "relevance": 5
   }
 ]
