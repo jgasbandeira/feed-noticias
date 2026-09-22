@@ -3599,7 +3599,13 @@
       "Mercado Financeiro"
     ],
     "summary": "A Poste Italiane, serviço postal controlado pelo governo italiano, é agora a acionista controladora da Telecom Italia, após a aquisição da companhia. Com isso, passa a ter o controle indireto da TIM Brasil, segundo comunicado divulgado ao mercado.\nEm recuperação: Fundos para empr",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Economia",
+        "link": "https://g1.globo.com/tecnologia/noticia/2026/09/21/estatal-italiana-poste-italiane-passa-a-controlar-indiretamente-a-tim-brasil.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
