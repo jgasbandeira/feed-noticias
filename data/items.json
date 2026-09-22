@@ -1,6 +1,18 @@
 [
   {
     "source": "Poder360",
+    "title": "Saiba o que os candidatos ao Planalto farão nesta 3ª feira",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-o-que-os-candidatos-ao-planalto-farao-nesta-3a-feira-6/",
+    "description": "Discurso de Lula na ONU, comício de Flávio Bolsonaro no Maranhão e atos de Caiado, Zema e Cury movimentam o dia",
+    "published": "2026-09-22T09:15:16+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Discurso de Lula na ONU, comício de Flávio Bolsonaro no Maranhão e atos de Caiado, Zema e Cury movimentam o dia",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
     "title": "Saiba quais indicadores e balanços saem nesta 3ª feira",
     "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-3a-feira-6/",
     "description": "Ata do Copom, Boletim Macrofiscal, arrecadação federal de agosto e vendas no varejo no México movimentam o dia",
@@ -9,6 +21,18 @@
       "Economia"
     ],
     "summary": "Ata do Copom, Boletim Macrofiscal, arrecadação federal de agosto e vendas no varejo no México movimentam o dia",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Daniela Mercury não aguenta mais esperar Nunes Marques julgar ação contra Eduardo Bolsonaro",
+    "link": "https://oglobo.globo.com/blogs/ancelmo-gois/post/2026/09/daniela-mercury-nao-aguenta-mais-esperar-nunes-marques-julgar-acao-contra-eduardo-bolsonaro.ghtml",
+    "description": "Os advogados da cantora Daniela Mercury pediram nesta segunda-feira, dia 21, ao ministro Nunes Marques, do Supremo Tribunal Federal (STF), que analise o quanto antes a queixa-crime apresentada contra o ex-deputado Eduardo Bolsonaro por suposta difamação cometida nas redes sociais. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-22T09:00:01+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Os advogados da cantora Daniela Mercury pediram nesta segunda-feira, dia 21, ao ministro Nunes Marques, do Supremo Tribunal Federal (STF), que analise o quanto antes a queixa-crime apresentada contra o ex-deputado Eduardo Bolsonaro por suposta difamação cometida nas redes sociais",
     "relevance": 5
   },
   {
@@ -451,7 +475,13 @@
       "Politica"
     ],
     "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, iniciou uma rodada de conversas individuais com ministros da Corte para ouvir avaliações sobre a sessão da última terça-feira, marcada por divergências e momentos de tensão entre integrantes do tribunal.\nO GLOBO apurou",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/politica/fachin-faz-nova-rodada-de-conversas-com-ministros-apos-sessao-tensa-no-stf/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -995,6 +1025,10 @@
       {
         "source": "Valor Econômico",
         "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/eleicoes-2026-confira-quais-cargos-estarao-em-disputa.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/22/eleicoes-2026-saiba-a-funcao-dos-cargos-em-disputa.ghtml"
       }
     ]
   },
@@ -3837,31 +3871,6 @@
       "Mercado Financeiro"
     ],
     "summary": "O relator da ação, o ministro Kássio Nunes Marques, já havia negado a ação por entender que o pedido da AGU é abrangente e genérico\nThe post STF reiniciará no plenário análise de ações bilionárias decorrentes da tese do século appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Presidente da CVM apelidou Vorcaro de 'leãozinho da montanha', mostram mensagens obtidas pela PF",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/21/presidente-da-cvm-apelidou-vorcaro-de-leozinho-da-montanha-mostram-mensagens-obtidas-pela-pf.ghtml",
-    "description": "Mensagens encontradas pela Polícia Federal (PF) no celular do ex-banqueiro Daniel Vorcaro, do Banco Master, mostram  que ele apoiou a indicação de Otto Lobo para a presidência da Comissão de Valores Mobiliários (CVM) e que o próprio Lobo teria chamado Vorcaro de \"leãozinho da montanha\" em conversas com interlocutores do então banqueiro. As mensagens foram antecipadas pelo jornal O Globo.\nEm nota, Lobo afirmou que \"não possui conhecimento nem ingerência sobre conversas privadas de terceiros\" e que \"nunca teve relações ou procurou apoio de Daniel Vorcaro\".\n\nMensagens de julho do ano passado mostram que Lobo teria procurado o advogado Ciro Soares para pedir apoio de Vorcaro a sua indicação para a presidência da autarquia. Na época, Lobo havia assumido interinamente a CVM e buscava apoio para ser indicado pelo governo, o que acabou ocorrendo. Lobo foi sabatinado no Senado e tomou posse de forma efetiva em junho deste ano.\n\nEm 19 de julho de 2025, Soares encaminhou a mensagem a Vorcaro: \"O Otto Lobo da CVM me pedindo uma ajuda para falar com o senador Otto (Alencar). Pediu para levá-lo no Otto (Alencar), porque ele quer ficar na presidência da CVM. O Otto da CVM é muito meu amigo e gosta de você (Vorcaro). Até falou comigo que chama você de ‘leãozinho da montanha’. Eu falei: ‘Gostei do apelido, viu’. E ele (Otto Lobo) falou: ‘Sim, o leãozinho da montanha, o moleque é danado, trabalhador’”, disse Soares a Vorcaro, em áudio enviado no dia 19 de julho de 2025.\n\nVorcaro, então respondeu: \"Ótimo ele. Tem que colocar ele na presidência”. Na sequência, eles afirmam que vão trabalhar pela nomeação de Lobo.\n\n“Dani, vou trabalhar para isso. Não te contei o que o cara (ex-presidente da CVM) fez antes de sair. Ele fez uma sacanagem (...) Falei com Otto (Lobo) que pode contar comigo e vou levá-lo ao Senado. Vou levar no Jaques [Wagner, senador do PT-BA] e trabalhar para esse cara ficar. A gente tem que trabalhar junto nisso. Ele é muito ponta firme e que bom que ele gosta de você (...) Brinquei com ele também e falei: ‘Olha, ele é o filho que o senador… Quem mexer com esse menino aí tá fudido’”, afirmou Soares a Vorcaro.\n\nO ex-banqueiro, então, respondeu: \"Vamos fazer acontecer. Vou falar com minha turma\", ao que Ciro Soares completou: \"Por vc, irmão. Toca de um lado, eu toco do outro\".\n\nEm nota, a defesa do senador Jaques Wagner (PT-BA) disse que a conversa com Otto Lobo mencionada no diálogo nunca ocorreu. \"A defesa do senador Jaques Wagner informa que a conversa mencionada pela reportagem não aconteceu. O senador reitera que não tem nenhuma relação com Daniel Vorcaro e nunca atuou em favor dos interesses do banco Master. Vale reforçar que o senador não pode responder por conversas de terceiros, da qual não participou e desconhece o contexto em que ocorreu.\" \n\nA reportagem entrou em contato com os demais citados, mas ainda não obteve retorno.\nLeia abaixo a íntegra da nota de Otto Lobo:\n\"O Presidente Otto Lobo não possui conhecimento nem ingerência sobre conversas privadas de terceiros. Nunca teve relações ou procurou apoio de Daniel Vorcaro. Lobo foi sabatinado e aprovado para a Presidência da CVM no Senado em 20 de maio de 2026, ou seja, dois meses após a Autarquia já ter respondido às denúncias de fraude criando o Grupo de Trabalho do Banco Master, Reag e Entidades Conexas (GT).\nO processo de indicação de diversas autoridades demanda interlocução com os responsáveis por sua aprovação no Senado Federal. Otto Alencar foi Presidente da Comissão de Assuntos Econômicos à época da indicação de Otto Lobo a Diretor da CVM, em 2021, e continua sendo membro da Comissão atualmente.\nCumpre notar que a CVM foi o primeiro órgão de Estado a julgar e punir um processo de natureza sancionadora envolvendo o Banco Master. Foram impostas multas totais de cerca de R$ 200 milhões aos envolvidos, sendo R$ 20 milhões diretamente a Daniel Vorcaro, no âmbito do Processo 19957.007976/2020-94. Outras denúncias e suspeitas estão sob análise da área técnica da CVM e serão apreciadas pelo Colegiado no futuro.\nSão notórios os esforços que a gestão do Presidente Otto Lobo na CVM tem conduzido para solucionar os gargalos de fiscalização da autarquia em diferentes frentes: pessoal (pedido de realização de concurso de inspetores e agentes executivos, valorização dos atuais servidores); tecnologia (estudos para contratação e desenvolvimento de sistemas de inteligência com base em IA, diálogo constante com as associações de mercado e institutos tecnológicos ligados ao governo, como o Instituto de Matemática Pura e Aplicada) e regulatória (instituição do Grupo de Trabalho de Tokenização e aprimoramento na Resolução 67 para maior envolvimento do Colegiado e dos superintendentes no aperfeiçoamento de normas). Todos esses compromissos foram apresentados de maneira contundente em cerimônia ao mercado e demonstram nas ações, e não só no discurso, que Otto Lobo tem compromisso com a eficiência no combate a ilícitos e fraudes.\nEm nenhum processo que o Presidente Otto Lobo tenha votado há qualquer alegação que o Banco Master tenha sido beneficiado. O uso de voto de desempate no caso da OPA da Ambipar foi reiteradamente explicado, inclusive frente ao Tribunal de Contas da União (TCU), que considerou em dois processos diferentes que a decisão estava absolutamente correta.\nConforme já relatado a todos os órgãos de controle e para o Senado Federal, a resolução do desempate no caso Ambipar cabia ao presidente da sessão, conforme determina o regimento interno da CVM e já havia ocorrido em situações anteriores. Quanto ao mérito do caso em si, não houve questionamento de fato à posição adotada pelo Presidente e pelo Diretor João Accioly, que foi a defendida pelo Colegiado da CVM até então.  Ou seja, não houve controvérsia de fato, apenas desinformação sobre o regimento interno da Autarquia. Nenhum acionista minoritário, que supostamente seria prejudicado pela não realização de OPA no caso Ambipar, apresentou recurso judicial questionando a decisão. Tampouco houve tentativa de discussão judicial sobre o assunto por parte de advogados especializados. Ademais, lembra-se que o caso se referia a uma possível OPA por aumento de participação do controlador e não a uma punição, tendo o Colegiado, por unanimidade, afastado a responsabilidade de fundo ligado ao Banco Master de realizar a operação, por ausência de previsão legal do dever de minoritários participarem da oferta. Inclusive, os votos do Presidente Otto Lobo e do Diretor João Accioly foram proferidos depois que os outros dois membros do colegiado já haviam votado pela imputação da obrigação de realizar OPA somente contra o controlador, deixando de impor o pagamento da OPA contra o Fundo Master e o Senhor Nelson Tanure, em decisão unânime do colegiado neste ponto.\"\nOtto Lobo, presidente da Comissão de Valores Mobiliários (CVM)\nLeo Pinheiro/Valor",
-    "published": "2026-09-21T15:38:35+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Mensagens encontradas pela Polícia Federal (PF) no celular do ex-banqueiro Daniel Vorcaro, do Banco Master, mostram  que ele apoiou a indicação de Otto Lobo para a presidência da Comissão de Valores Mobiliários (CVM) e que o próprio Lobo teria chamado Vorcaro de \"leãozinho da mon",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Do cartão corporativo aos serviços de gerenciamento financeiro: como a Visa virou a chave para o B2B",
-    "link": "https://valor.globo.com/conteudo-de-marca/visa/noticia/2026/09/21/do-cartao-corporativo-aos-servicos-de-gerenciamento-financeiro-como-a-visa-virou-a-chave-para-o-b2b.ghtml",
-    "description": "Durante décadas, a Visa sempre foi conhecida como uma empresa mais voltada ao público consumidor com a tecnologia de pagamento por trás das compras com cartões. Hoje, a empresa evoluiu, virando a base para um conjunto de soluções que vai muito além do cartão. Foi seguindo essa lógica que a Visa levou a mesma jornada do mundo B2C para o B2B, oferecendo serviços financeiros que solucionam desafios do universo das empresas — o maior e, ao mesmo tempo, um dos que menos usa o cartão quando se fala em transações.\n\"Eu costumo definir a minha área na Visa como a startup dentro da companhia\", diz Marcela Pinori, vice-presidente de Soluções Comerciais da Visa do Brasil. Ela entrou na companhia há 13 anos para atuar no segmento de soluções de soluções para empresas e viu de perto um descompasso que persiste: a digitalização dos serviços financeiros da pessoa física não chegou aos processos de pagamento das empresas no mesmo nível. \"Ainda tem muita operação manual\", afirma.\nA guinada foi trocar o produto pela jornada. \"A gente começou a tirar um pouco o nosso viés exclusivo de cartões  e falar mais efetivamente de inovação em todos os processos que envolvem uma transação de pagamento\", explica. Na prática, significou mapear onde dói e construir soluções para resolver essas questões: contas a pagar, contas a receber, tesouraria, focando no mundo de gerenciamento financeiro seja de uma pequena empresa, passando pelas médias e até grandes indústrias e corporações.\nO reposicionamento da companhia fica mais claro quando se olha para o que ela vem apresentando no B2B nos últimos anos. Marcela cita a parceria com a Celero, startup de gestão financeira que recebeu investimento da Visa.  A plataforma consolida os valores que o empreendedor recebe e paga por boleto, Pix e duplicata, agregando e enriquecendo dados para gerar insights acionáveis tanto para as PMEs quanto para as instituições financeiras.\nConforme explica a executiva, esse tipo de inovação, que vai além de pagamentos e utiliza dados de maneira estratégica, beneficia instituições como o Sicredi, que utilizou o Organizador PJ, solução de Business Financial Management (BFM) da Celero para aprovar mais milhões em crédito a empreendedores clientes da cooperativa.\nA mesma lógica aparece na parceria com a ConectCar para pagamento de pedágio na modalidade free flow, voltada a transportadoras e caminhoneiros com mais segurança, capilariedade, controle e tecnologia, e no Kob Visa, solução criada  pela Kobold para os fluxos entre as áreas comercial e financeira de grandes empresas. Em um ano, a Kob Visa, por exemplo, cresceu 30 vezes em volume de operações, atraindo novos clientes todos os meses em setores como siderurgia, papel e celulose e bens de consumo.\n\"Hoje frisamos que a Visa é uma empresa de tecnologia com foco em movimentação de dinheiro, que também traz soluções para empresas de todos os tamanhos\", resume Marcela.\nA dimensão da aposta no B2B aparece nos números. O segmento de Commercial & Money Movement Solutions mira um mercado global estimado em US$ 200 trilhões. No último ano fiscal da multinacional, o volume de pagamentos entre empresas cresceu 7%, chegando a US$ 1,8 trilhão e abocanhando uma fatia considerável dos US$ 14 trilhões movimentados globalmente pela empresa. \nDesafios e soluções\nO esforço em desenvolver um leque abrangente de soluções financeiras para o B2B está relacionado com a variedade de clientes atendidos. Segundo Marcela, cada porte de negócio e cada vertical trazem suas próprias peculiaridades. Para os de menor tamanho, o assunto é crédito. \"A gente para de falar que o cartão é só um método de pagamento. Para esse público específico, o prazo de 30 dias ou o limite que ele consegue, vira fôlego de caixa\", pontua.\nDentro da nossa estratégia de consultoria, temos uma solução chamada VMTS (Visa Merchant Transaction Score), score para PMEs que usa GenAI e machine learning para avaliar vendas, frequência e consistência de caixa como camada complementar à análise bancárias. \"O banco trabalha muito com histórico, mas não necessariamente com o dado vivo do que ele tem de recebimento para fazer a modelagem de crédito. \", diz.\nO cartão que ninguém vê\nDe olho nos processos internos de grandes companhias, a Visa também apostou em outros modelos. Um deles é o Visa Commercial Pay, em que empresas podem emitir cartões virtuais sob demanda e definir as regras de uso, com teto de gasto e restrição de categorias (hotel e alimentação, por exemplo) direto na carteira digital. \"Elimina a questão do reembolso, porque automaticamente você já pode mandar a informação, já printa a foto do recibo e já envia no próprio aplicativo\", descreve Marcela.\nO terreno é fértil: as viagens corporativas movimentam R$ 15 bilhões por ano no Brasil, segundo a ABRACORP, com apenas 5% das transações digitalizadas. Mas o mesmo mecanismo pode ir além e chegar em diversos setores. O passo seguinte, já em desenvolvimento, é gerar cartões virtuais de dentro do ERP das empresas para qualquer pagamento a fornecedores.\n\"É uma transação invisível\", resume a executiva, traçando um paralelo com a experiência fluida dos aplicativos de mobilidade. A diferença é que, nesse caso, o time de contas a pagar não precisa sair do sistema, enquanto a conciliação é feita de forma automatizada. \"E dá para fazer mais. Quando a gente fala de evolução de agentes de IA,  isso vai para um nível de automatização exponencial\", completa.\nPara os próximos anos, a frente B2B da empresa está olhando para além do setor privado. Segundo Marcela, modelos de precificação, integração com ERP e limites de ticket — ou seja, tudo o que foi desenhado para o mundo de empresas privadas — também se aplicam ao setor público, onde a oportunidade de digitalização é ainda maior, levando agilidade, transparência, segurança e conveniênciapara entidades governamentais e cidadãos brasileiros",
-    "published": "2026-09-21T15:35:19+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Durante décadas, a Visa sempre foi conhecida como uma empresa mais voltada ao público consumidor com a tecnologia de pagamento por trás das compras com cartões. Hoje, a empresa evoluiu, virando a base para um conjunto de soluções que vai muito além do cartão. Foi seguindo essa ló",
     "relevance": 5
   }
 ]
