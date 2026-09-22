@@ -1,5 +1,18 @@
 [
   {
+    "source": "Metro Quadrado",
+    "title": "O plano para colocar a Zona Oeste de SP no mapa da inovação",
+    "link": "https://metroquadrado.com/cidades/o-plano-para-colocar-a-zona-oeste-de-sp-no-mapa-da-inovacao",
+    "description": "O pedaço da Zona Oeste de São Paulo que inclui a Vila Leopoldina e outros bairros vizinhos está ganhando um novo reforço para se consolidar como um destino de empresas de tecnologia e economia criativa. Até o momento, essa região já conta com projetos pontuais feitos por investidores que acharam bons terrenos para prédios residenciais e de escritórios em bairros como a Vila Leopoldina, incluindo o corporativo Arquipeo – também conhecido como WPP Campus.",
+    "published": "2026-09-22T03:43:00+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "O pedaço da Zona Oeste de São Paulo que inclui a Vila Leopoldina e outros bairros vizinhos está ganhando um novo reforço para se consolidar como um destino de empresas de tecnologia e economia criativa. Até o momento, essa região já conta com projetos pontuais feitos por investid",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Descobertas globais de petróleo e gás atingem mínima de 40 anos devido a cortes de investimentos",
     "link": "https://valor.globo.com/mundo/noticia/2026/09/22/descobertas-globais-de-petrleo-e-gs-atingem-mnima-de-40-anos-devido-a-cortes-de-investimentos.ghtml",
@@ -3982,20 +3995,6 @@
       "Politica"
     ],
     "summary": "O empresário Elon Musk reagiu nas redes sociais ao ver o crescimento do candidato do PL à Presidência, Flávio Bolsonaro, na Polymarket. O mercado de previsão situa o senador com 58% de chances de ser eleito em outubro, contra 42% do principal oponente, o postulante à reeleição Lu",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Manhã no mercado: Bolsas globais avançam e petróleo recua, com pesquisas eleitorais e encontro entre Trump e Xi no radar",
-    "link": "https://valor.globo.com/financas/noticia/2026/09/21/manha-no-mercado-bolsas-globais-avancam-e-petroleo-recua-com-pesquisas-eleitorais-e-encontro-entre-trump-e-xi-no-radar.ghtml",
-    "description": "As ações globais avançam nesta segunda-feira, impulsionadas pelo entusiasmo renovado com a inteligência artificial, enquanto o petróleo recua diante de relatos de que a oferta proveniente do Golfo está maior do que o esperado, apesar da continuidade do conflito entre Estados Unidos e Irã. Os investidores também acompanham o encontro, em Washington, entre os presidentes dos Estados Unidos, Donald Trump, e da China, Xi Jinping, previsto para quinta-feira. \n\nNo Brasil, as atenções se voltam para uma nova rodada de pesquisas eleitorais e para os desdobramentos da crise no Supremo Tribunal Federal (STF). Ao longo da semana, os agentes também acompanham a ata do Comitê de Política Monetária (Copom) do Banco Central (BC), o Relatório de Política Monetária (RPM) do BC e o IPCA-15 de setembro. \n\nPor volta das 8h, o futuro do S&amp;P 500 subia 0,72% e o do Nasdaq avançava 1,13%, enquanto, na Europa, o Stoxx 600 tinha alta de 1,09%. Na renda fixa, o rendimento dos Treasuries de dez anos caía de 4,997% para 4,958%. \n\nJá o petróleo Brent para novembro cedia 2,53%, a US$ 101,25 por barril, e o WTI para outubro recuava 3,13%, a US$ 97,16, mesmo após os ataques dos Houthis, grupo extremista do Iêmen apoiado pelo Irã, contra a capital da Arábia Saudita no fim de semana. Há expectativa de avanços diplomáticos entre Trump e líderes do Golfo durante a Assembleia Geral da ONU, em Nova York, nesta semana. \n\nNo cenário eleitoral, as pesquisas voltaram a mostrar o presidente Lula (PT) tecnicamente empatado com o senador Flávio Bolsonaro (PL) em um eventual segundo turno. Novas sondagens da AtlasIntel e do Datafolha serão divulgadas na quarta-feira (23) e na quinta-feira (24), respectivamente, e podem influenciar o comportamento dos ativos. O questionário do Datafolha também inclui um bloco sobre a atuação do STF e a avaliação do trabalho dos ministros.",
-    "published": "2026-09-21T11:27:48+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "As ações globais avançam nesta segunda-feira, impulsionadas pelo entusiasmo renovado com a inteligência artificial, enquanto o petróleo recua diante de relatos de que a oferta proveniente do Golfo está maior do que o esperado, apesar da continuidade do conflito entre Estados Unid",
     "relevance": 5
   }
 ]
