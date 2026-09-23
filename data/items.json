@@ -168,7 +168,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Conversas extraídas pela Polícia Federal do celular de Daniel Vorcaro, dono do Banco Master, mostram seu então advogado Walfrido Warde relatando ao banqueiro conversas que dizia ter mantido com o presidente Luiz Inácio Lula da Silva e integrantes do governo. À época dos diálogos,",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/09/22/mensagens-de-vorcaro-mostram-advogado-articulando-aproximao-de-banqueiro-com-governo-lula-diz-o-globo.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3709,7 +3715,13 @@
       "Politica"
     ],
     "summary": "Ministro pede arquivamento da representação e que STF avalie apuração por abuso de autoridade e denunciação caluniosa",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/09/22/mendonca-pede-integra-do-inquerito-das-fake-news-apos-afastamento-de-moraes-da-relatoria.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
