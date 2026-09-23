@@ -1,5 +1,29 @@
 [
   {
+    "source": "Poder360",
+    "title": "Em vídeos, bispos falam em soberania e orientam fiéis para as eleições",
+    "link": "https://www.poder360.com.br/poder-eleicoes/em-videos-bispos-falam-em-soberania-e-orientam-fieis-para-as-eleicoes/",
+    "description": "Religiosos do Sudeste e do Norte do país  fizeram manifestações sobre o tema durante as eleições",
+    "published": "2026-09-23T01:34:58+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Religiosos do Sudeste e do Norte do país  fizeram manifestações sobre o tema durante as eleições",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Instabilidade em GPS do Embraer E2 afetou mais de 70 voos da Azul, dizem fontes",
+    "link": "https://valor.globo.com/empresas/noticia/2026/09/22/instabilidade-em-gps-do-embraer-e2-afetou-mais-de-70-voos-da-azul-dizem-fontes.ghtml",
+    "description": "A instabilidade global no sistema de GPS da frota de aeronaves Embraer E2 foi sentida pela companhia brasileira Azul.\n\nSegundo fontes, a empresa teve de cancelar mais de 70 voos no fim da tarde desta terça-feira (22). No total, mais de 15 mil passageiros foram afetados, ainda segundo as mesmas fontes. \n\nGol e Latam encomendaram aeronaves E2, mas ainda não iniciaram a operação do modelo. \n\nNa noite desta terça-feira, a Azul disse que uma instabilidade global no sistema de GPS está impactando a operação da frota de aviões Embraer E2. “Por precaução, a companhia está adotando medidas operacionais que podem resultar em ajustes na malha e nos horários de alguns voos”, disse a aérea, sem dar detalhes sobre impactos. \n\nSegundo fontes, os problemas no GPS começaram por volta das 17h e continuaram até 22h, quando alguns aviões voltaram a operar.\n\nEm nota, a Embraer disse que sua frota global E2 dispõe de sistemas e procedimentos de navegação para operar mesmo em condições de instabilidade no sistema GPS, “capazes de garantir uma operação segura em conformidade com os requisitos aplicáveis das autoridades de aviação civil”.\n\nFontes destacaram, entretanto, que a aeronave possui dois sistemas distintos de GPS para garantir a segurança dos voos. A ausência de apenas um deles não impediria a decolagem. Mas elas destacaram que por algumas horas ambos ficaram fora do ar. Foi este cenário que teria levado a companhia aérea a remanejar voos e deixar aeronaves fora de operação.\n\nO Valor teve acesso a um Comunicado de Evento Relevante (REC, em inglês) enviado pela Embraer aos seus operadores. O documento serve para fabricantes notificarem e compartilharem dados sobre qualquer ocorrência, incidente ou mudança operacional nas aeronaves. No documento, a Embraer diz que o problema afetou sua frota de Embraer 190/195 E2. A Embraer diz que recebeu o relato de perda do sistema de GPS e que isso afetou múltiplas aeronaves E2 de diferentes operadores, resultando em impactos operacionais, incluindo eventos de AOG (quando a aeronave tem de parar de operar e ficar em solo). “Foi relatado que o reset do sistema restaura temporariamente o sinal de GPS; no entanto, a condição pode voltar a ocorrer após o reset”, disse a fabricante na nota técnica.\n\nA Embraer disse que, juntamente com a Honeywell, está investigando o evento para determinar sua causa e avaliar possíveis ações corretivas. “Foi estabelecida uma sala de crise dedicada, com o envolvimento da alta liderança, para garantir a coordenação imediata e acelerar a investigação e a resolução do evento. Informações e recomendações adicionais serão comunicadas assim que estiverem disponíveis”, apontou a fabricante no documento.",
+    "published": "2026-09-23T01:34:36+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A instabilidade global no sistema de GPS da frota de aeronaves Embraer E2 foi sentida pela companhia brasileira Azul.\n\nSegundo fontes, a empresa teve de cancelar mais de 70 voos no fim da tarde desta terça-feira (22). No total, mais de 15 mil passageiros foram afetados, ainda seg",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Azul aponta instabilidade no sistema de GPS do Embraer E2 e faz ajuste de malha",
     "link": "https://valor.globo.com/empresas/noticia/2026/09/22/azul-aponta-instabilidade-no-sistema-de-gps-do-embraer-e2-e-faz-ajuste-de-malha.ghtml",
@@ -2370,6 +2394,10 @@
       {
         "source": "InfoMoney",
         "link": "https://www.infomoney.com.br/politica/zambelli-pede-salvo-conduto-ao-stf-para-voltar-ao-brasil-e-votar-na-mae-para-deputada/"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/zambelli-pede-salvo-conduto-para-voltar-ao-brasil-e-votar-na-mae/"
       }
     ]
   },
@@ -3935,29 +3963,5 @@
         "link": "https://oglobo.globo.com/politica/noticia/2026/09/22/mendonca-pede-integra-do-inquerito-das-fake-news-apos-afastamento-de-moraes-da-relatoria.ghtml"
       }
     ]
-  },
-  {
-    "source": "Poder360",
-    "title": "Mendonça diz que Moraes mente e pede investigação a Fachin",
-    "link": "https://www.poder360.com.br/poder-justica/mendonca-diz-que-moraes-mente-e-pede-investigacao-a-fachin/",
-    "description": "Ministro do STF solicitou também o arquivamento do pedido para que ele fosse incluído no inquérito das fake news",
-    "published": "2026-09-22T12:42:27+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Ministro do STF solicitou também o arquivamento do pedido para que ele fosse incluído no inquérito das fake news",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "PF e CGU investigam fraude em licitações e desvio de verba na Bahia",
-    "link": "https://www.poder360.com.br/poder-seguranca-publica/pf-e-cgu-investigam-fraude-em-licitacoes-e-desvio-de-verba-na-bahia/",
-    "description": "Operação cumpre 13 mandados e bloqueia mais de R$ 13 milhões; contratos envolvem recursos federais para educação e ações emergenciais",
-    "published": "2026-09-22T12:39:17+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Operação cumpre 13 mandados e bloqueia mais de R$ 13 milhões; contratos envolvem recursos federais para educação e ações emergenciais",
-    "relevance": 5
   }
 ]
