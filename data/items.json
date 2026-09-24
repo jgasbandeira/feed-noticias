@@ -3239,7 +3239,13 @@
       "Politica"
     ],
     "summary": "O Goiás (GO) tem 594 candidatos a deputado estadual registrados para disputar a preferência do eleitor nas eleições 2026, conforme dados do Tribunal Superior Eleitoral (TSE). A votação do primeiro turno acontece no dia 4 de outubro, das 8h às 17h, no horário de Brasília.  \nEm Goi",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/eleicoes-2026/guia/candidatos-a-deputado-federal-de-goias-veja-lista.ghtml"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -3386,7 +3392,13 @@
       "Politica"
     ],
     "summary": "O Ceará (CE) tem 376 candidatos a deputado estadual registrados para disputar a preferência do eleitor nas eleições 2026, conforme dados do Tribunal Superior Eleitoral (TSE). A votação do primeiro turno acontece no dia 4 de outubro, das 8h às 17h, no horário de Brasília.  \nAté o ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/eleicoes-2026/guia/candidatos-a-deputado-federal-do-ceara-veja-lista.ghtml"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -3534,7 +3546,29 @@
       "Politica"
     ],
     "summary": "A Bahia (BA) tem 643 candidatos a deputado estadual registrados para disputar a preferência do eleitor nas eleições 2026, conforme dados do Tribunal Superior Eleitoral (TSE). A votação do primeiro turno acontece no dia 4 de outubro, das 8h às 17h, no horário de Brasília.  \nAté o ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/eleicoes-2026/guia/candidatos-a-deputado-estadual-do-rio-grande-do-sul-veja-lista.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/eleicoes-2026/guia/candidatos-a-deputado-estadual-de-goias-veja-lista.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/eleicoes-2026/guia/candidatos-a-deputado-estadual-do-ceara-veja-lista.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/eleicoes-2026/guia/candidatos-a-deputado-federal-de-pernambuco-veja-lista.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/eleicoes-2026/guia/candidatos-a-deputado-estadual-de-pernambuco-veja-lista.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
