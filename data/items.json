@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "Pesquisas indicam Senado mais à direita, com PL puxando a fila",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/pesquisas-indicam-senado-mais-a-direita-com-pl-puxando-a-fila/",
+    "description": "Oposição tem 27 candidatos competitivos para as 54 vagas em disputa para o Senado em 2026; grupo tenta impulso com pautas anti-STF",
+    "published": "2026-09-26T09:00:19+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Oposição tem 27 candidatos competitivos para as 54 vagas em disputa para o Senado em 2026; grupo tenta impulso com pautas anti-STF",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Peter Thiel: “Medo do sucesso” impede Alemanha de criar novas gigantes da tecnologia",
     "link": "https://www.infomoney.com.br/business/global/peter-thiel-medo-do-sucesso-impede-alemanha-de-criar-novas-gigantes-da-tecnologia/",
@@ -3300,7 +3312,13 @@
       "Politica"
     ],
     "summary": "A disputa entre os possíveis representantes de Minas Gerais para o Senado segue acirrada nas eleições de 2026, com Marília Campos (PT), Aécio Neves (PSDB), Carlos Viana (PSD) e Domingos Sávio (PL) empatados tecnicamente nas pesquisas do Datafolha e Quaest. \nCada eleitor terá dire",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/blogs/pulso/noticia/2026/09/26/lula-ou-flavio-bolsonaro-quem-esta-na-frente-nas-ultimas-pesquisas-para-segundo-turno.ghtml"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
@@ -3814,20 +3832,6 @@
       "Economia"
     ],
     "summary": "O mercado de imóveis de alto padrão no Rio de Janeiro enfrenta um ambiente de maior seletividade, especialmente em regiões consolidadas da Zona Sul e da Barra da Tijuca. O custo elevado do crédito, o aumento dos distratos e a necessidade de gestão do estoque pelas incorporadoras ",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Lula reforça críticas às bets, na mira do governo: 'Não é correto gastar o que não tem pra tentar ganhar o que não existe'",
-    "link": "https://g1.globo.com/politica/noticia/2026/09/25/na-mira-do-governo-lula-reforca-criticas-as-bets-nao-e-correto-gastar-o-que-nao-tem-pra-tentar-ganhar-o-que-nao-existe.ghtml",
-    "description": "Lula com o candidato ao governo de PE João Campos em evento no Recife\nFoto: Ricardo Stuckert.\nO presidente Luiz Inácio Lula da Silva (PT) reforçou, nesta sexta-feira (25), as críticas que tem feito sobre as apostas online. Em um ato de campanha no Recife (PE), o petista afirmou que \"o dinheiro do jogo é para comprar a comida das crianças\". \n\"O dinheiro do jogo é pra comida das crianças, se quiser jogar, compra um litro de leite pra sua casa, pão, mais comida pra sua casa, Não é correto gastar o que não tem pra tentar ganhar o que não existe, não da pra acreditar em mentira\", disse Lula. \nLula anuncia nesta sexta-feira (25), em São Paulo, um pacote de medidas econômicas, que deve incluir medidas contra bets e contra o endividamento das famílias.\nA expectativa é que o governo proíba o funcionamento de empresas de apostas no Brasil. Durante atos de campanha em diversos estados, ao longo da semana, o petista tem endurecido as críticas às apostas e ao vício.\nO presidente Lula, candidato à reeleição pelo PT, fez campanha no Rio de Janeiro\nAnúncios do governo \nA expectativa é que a mudança seja anunciada por meio de Medida Provisória. Órgãos do Executivo já estão organizando ações internamente partindo do pressuposto de que a MP será publicada a qualquer momento.\nDevem participar do evento o ministro do governo que participaram das discussões sobre as mudanças no tema, como Dario Durigan (Fazenda) e Miriam Belchior (Casa Civil).\nNesta quarta-feira (23), o presidente se reuniu com ministros de seu governo para discutir medidas para restrição das bets.\nEstavam presentes os ministros Dario Durigan, da Fazenda, Miriam Belchior, da Casa Civil, Bruno Moretti, do Orçamento e Planejamento, Wellignton César, da Justiça e Segurança Pública, Sidônio Palmeira, da Secretaria de Comnicação, e o presidente do Banco Central, Gabriel Galípolo.\nO presidente já decidiu que quer fazer o anúncio sobre o fim das bets, mas há uma divisão na equipe entre uma proibição total das apostas ou uma medida de impacto superficial, como vetar publicidades e proibir cassinos virtuais, como o \"Jogo do Tigrinho\".",
-    "published": "2026-09-25T15:31:33+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Lula com o candidato ao governo de PE João Campos em evento no Recife\nFoto: Ricardo Stuckert.\nO presidente Luiz Inácio Lula da Silva (PT) reforçou, nesta sexta-feira (25), as críticas que tem feito sobre as apostas online. Em um ato de campanha no Recife (PE), o petista afirmou q",
     "relevance": 5
   }
 ]
