@@ -82,7 +82,13 @@
       "Politica"
     ],
     "summary": "Imagem de arquivo\nJosé Cruz/Agência Brasil via BBC\nO Ministério da Fazenda prorrogou a chamada subvenção ao diesel, ou seja, um tipo de subsídio, por mais 30 dias. \nPortaria assinada pelo titular da pasta, o ministro Dario Durigan, manteve em R$ 2,12 a subvenção para manter o pre",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/noticia/2026/09/26/as-vesperas-das-eleicoes-fazenda-prorroga-por-30-dias-subsidio-de-r-212-por-litro-do-diesel.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
