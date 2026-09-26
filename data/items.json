@@ -1,5 +1,41 @@
 [
   {
+    "source": "InfoMoney",
+    "title": "Proibição de bets não afasta risco de manipulação de resultados no futebol brasileiro",
+    "link": "https://www.infomoney.com.br/esportes/proibicao-de-bets-nao-afasta-risco-de-manipulacao-de-resultados-no-futebol-brasileiro/",
+    "description": "Medida do governo federal não afasta efetivamente o risco de manipulação de resultados; entenda\nThe post Proibição de bets não afasta risco de manipulação de resultados no futebol brasileiro appeared first on InfoMoney.",
+    "published": "2026-09-26T12:00:24+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Medida do governo federal não afasta efetivamente o risco de manipulação de resultados; entenda\nThe post Proibição de bets não afasta risco de manipulação de resultados no futebol brasileiro appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "IA corre o risco de repetir o erro mais duradouro da Revolução Industrial",
+    "link": "https://www.poder360.com.br/poder-china/ia-corre-o-risco-de-repetir-o-erro-mais-duradouro-da-revolucao-industrial/",
+    "description": "Avanço tecnológico pode ampliar a desigualdade e criar um desequilíbrio entre oferta e demanda na economia mundial",
+    "published": "2026-09-26T11:30:23+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Avanço tecnológico pode ampliar a desigualdade e criar um desequilíbrio entre oferta e demanda na economia mundial",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Trabalho nas eleições: entenda os direitos de empresas e empregados",
+    "link": "https://valor.globo.com/legislacao/noticia/2026/09/26/trabalho-nas-eleicoes-entenda-os-direitos-de-empresas-e-empregados.ghtml",
+    "description": "No próximo dia 4 de outubro acontecerá o primeiro turno das eleições 2026. Deverão ser eleitos senadores, deputados federais, governadores e o presidente da República. Para essa jornada, há funcionários que trabalham como voluntários e há aqueles que, para exercer o direito ao voto, precisam se locomover de cidade, mas trabalham no dia da eleição.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-26T11:30:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "No próximo dia 4 de outubro acontecerá o primeiro turno das eleições 2026. Deverão ser eleitos senadores, deputados federais, governadores e o presidente da República. Para essa jornada, há funcionários que trabalham como voluntários e há aqueles que, para exercer o direito ao vo",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Zanin manda investigar uso de IA para burlar sistema do STF",
     "link": "https://www.poder360.com.br/poder-tech/zanin-manda-investigar-uso-de-ia-para-burlar-sistema-do-stf/",
@@ -9,6 +45,31 @@
       "Politica"
     ],
     "summary": "Corte identificou uso de prompt para forçar sistema a aceitar recurso",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Zanin manda investigar uso de IA para burlar sistema do STF",
+    "link": "https://www.poder360.com.br/poder-justica/zanin-manda-investigar-uso-de-ia-para-burlar-sistema-do-stf/",
+    "description": "Corte identificou uso de prompt para forçar sistema a aceitar recurso",
+    "published": "2026-09-26T11:29:03+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Corte identificou uso de prompt para forçar sistema a aceitar recurso",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Ministro do STJ se disse impedido de julgar ações do Master, mas deu decisões relativas ao caso 6 meses depois",
+    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/09/ministro-do-stj-se-disse-impedido-de-julgar-acoes-do-master-mas-deu-decisoes-relativas-ao-caso-6-meses-depois.ghtml",
+    "description": "Como corregedor nacional do CNJ, Benedito Gonçalves, ministro do STJ, tomou nos últimos dias duas decisões ligadas ao Caso Master — mais especificamente relativas a precatórios. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-09-26T11:22:00+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Como corregedor nacional do CNJ, Benedito Gonçalves, ministro do STJ, tomou nos últimos dias duas decisões ligadas ao Caso Master — mais especificamente relativas a precatórios. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cad",
     "relevance": 5
   },
   {
@@ -2006,7 +2067,13 @@
       "Politica"
     ],
     "summary": "O ministro da Fazenda, Dario Durigan, informou nesta sexta-feira (25) em São Paulo, que a pasta está lançando um novo programa de renegociação de débitos de pessoas físicas, focando especialmente nas dívidas antigas, em que o governo comprará esses débitos com desconto. Trata-se ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/minhas-financas/desenrola-3-0-saiba-como-vai-funcionar-novo-programa-de-renegociacao-de-dividas/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3761,68 +3828,6 @@
       "Mercado Financeiro"
     ],
     "summary": "A Huawei e o Dr. Drauzio Varella ampliam sua parceria no Brasil com uma iniciativa dedicada à saúde preventiva e ao papel da tecnologia vestível no acompanhamento do bem-estar. Nesta quinta-feira (24), o médico participou do principal evento de lançamentos do ano da Huawei no paí",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Bet que patrocina Flamengo e torneios CBF admite 'preocupação' e fala em 'decisões no momento apropriado'",
-    "link": "https://oglobo.globo.com/blogs/diogo-dantas/coluna/2026/09/bet-que-patrocina-flamengo-e-torneios-cbf-admite-preocupacao-e-fala-em-decisoes-no-momento-apropriado.ghtml",
-    "description": "A Betano, casa de apostas que patrocina o Flamengo e torneios da CBF, ainda não notificou os envolvidos após a decisão do Governo Federal de proibir as bets, mas admite preocupação. Em comunicado, a empresa diz que tomará \"decisões no momento apropriado.\n\"A Betano monitora com muita preocupação a discussão atual no país e tomará decisões no momento apropriado\", informa a casa de apostas.\nA empresa patrocina a Copa do Brasil, o Brasileiro, o Paulistão masculino e feminino.  E aguardava um posicionamento do clube carioca, que criticou o fim das bets em uma nota oficial. Veja abaixo.\nNo Flamengo, o contrato assinado no ano passado prevê R$ 268 milhões por ano em receita. Sua duração prevista é até final de 2028.\nMP deve sair hoje\nO presidente Luiz Inácio Lula da Silva (PT) anuncia nesta sexta-feira, em São Paulo, uma medida provisória (MP) para proibir o funcionamento de empresas de apostas no Brasil. O evento na capital paulista, a nove dias das eleições, também vai incluir medidas contra o endividamento das famílias.\nA MP vai impedir cassinos on-line (como o jogo do tigrinho) e também as apostas de quota fixa (que são feitas sobre eventos reais, como partidas de futebol), segundo auxiliares do presidente. Inicialmente, o governo discutiu proibir apenas os cassinos, mas a decisão tomada foi impedir todos os tipos de apostas on-line.\nA restrição às bets deve tirar receita de clubes, que são patrocinados por essas empresas. Por isso, o governo vai anunciar também — provavelmente depois das eleições — ações de amparo aos times, como crédito facilitado e alívio de dívidas. \nA nota do Flamengo \nO Brasil levou anos discutindo como regulamentar as apostas esportivas. O Congresso aprovou, o governo regulamentou, empresas pagaram para operar legalmente no país, fizeram investimentos e passaram a cumprir regras de fiscalização, tributação e proteção ao consumidor.\nNão se pode criar uma regra, levar empresas e instituições a assumir compromissos com base nela e, de um dia para o outro, mudar todo o marco regulatório.\nNenhuma regulamentação é intocável. Se existem problemas, as regras precisam ser aperfeiçoadas. Se precisam ser mais duras, que sejam. Quem descumpre a lei deve ser punido. Mas existe uma diferença fundamental entre aperfeiçoar uma regulamentação e simplesmente desmontá-la.\nIsso é uma questão de segurança jurídica.\nE segurança jurídica não interessa apenas às empresas de apostas. Interessa a qualquer pessoa, empresa ou instituição que invista, contrate e faça planos de longo prazo no Brasil confiando nas regras estabelecidas pelo próprio Estado.\nA mudança atinge em cheio o esporte brasileiro.\nUma decisão dessa dimensão afeta o futebol profissional, as categorias de base, o futebol feminino, os esportes olímpicos e os campeonatos.\nO esporte brasileiro não pode ser analisado apenas a partir da realidade financeira dos clubes de maior receita. E não são atingidos apenas os clubes, é uma cadeia que recebe um impacto imediato: empregos diretos e indiretos, empresas de comunicação, marketing e tecnologia, fornecedores, arenas, prestadores de serviços e toda uma cadeia econômica.\nAtinge também a arrecadação pública. O mercado regulado gera recursos por meio de impostos e das destinações previstas em lei, que chegam aos cofres públicos e são destinados a áreas de interesse da sociedade.\nEnfraquecer o mercado legal pode produzir uma combinação especialmente ruim: menos recursos para o esporte e menos arrecadação para o país.\nE o brasileiro ficará mais protegido? Essa talvez seja uma das perguntas centrais dessa discussão.\nProibir as empresas que operam legalmente não significa acabar com as apostas. O jogo não desaparece e o mercado clandestino, que representa parcela expressiva da atividade, vai crescer e ocupar esse espaço.\nPesquisa do Instituto Locomotiva, realizada em maio de 2026 em todo o país com 2.291 apostadores, aponta a presença relevante de práticas associadas ao mercado ilegal. Estudo da LCA Consultores, baseado nessa pesquisa, estima que entre 38% e 44% do valor apostado online no Brasil ocorra atualmente em plataformas clandestinas.\nHá um dado particularmente importante: a participação estimada do mercado ilegal caiu depois da regulamentação, passando daquela faixa de 41% a 51% em 2025 para 38% a 44% no primeiro semestre de 2026.\nO jogo não vai acabar com uma canetada. O que acaba é a parte que o Brasil consegue regular, fiscalizar, tributar e responsabilizar.\nE o resultado pode ser menos segurança para quem investe, menos recursos para o esporte e para o país e menos capacidade de fiscalização sobre a atividade.\nO Brasil precisa combater o jogo ilegal. Precisa proteger sua população. \nMas também precisa preservar a segurança jurídica, a capacidade de investimento e a sustentabilidade de suas instituições esportivas.\nO esporte brasileiro não pode ser enfraquecido por uma decisão que não elimina o jogo, não elimina o mercado ilegal e ainda coloca em risco os investimentos, os empregos e os compromissos construídos dentro das regras que o próprio país estabeleceu.",
-    "published": "2026-09-25T16:56:03+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "A Betano, casa de apostas que patrocina o Flamengo e torneios da CBF, ainda não notificou os envolvidos após a decisão do Governo Federal de proibir as bets, mas admite preocupação. Em comunicado, a empresa diz que tomará \"decisões no momento apropriado.\n\"A Betano monitora com mu",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "A decisão de alto risco não se resolve com mais um dashboard",
-    "link": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/09/25/a-decisao-de-alto-risco-nao-se-resolve-com-mais-um-dashboard-1.ghtml",
-    "description": "Por Fernando Negrini*\nUm estudo do MIT publicado em 2025, dentro da iniciativa NANDA, chegou a um número que deveria constranger o mercado de tecnologia: 95% dos pilotos de IA generativa em empresas não produzem impacto mensurável no resultado financeiro. Na mesma direção, o Gartner projetou que cerca de 30% dos projetos de IA generativa seriam abandonados ainda na prova de conceito. O problema, convém dizer logo, não é a tecnologia.\nO que mudou depois da popularização do ChatGPT foi a natureza do debate. A discussão sobre inteligência artificial deixou de ser predominantemente técnica e passou a ser conduzida por narrativas de marketing. Abriu-se espaço para promessas feitas por quem, muitas vezes, não domina os fundamentos de machine learning, modelagem matemática e engenharia de dados. O resultado é o descompasso que os números acima capturam: expectativa de um lado, capacidade real de gerar valor para o negócio de outro.\nO sintoma mais claro desse descompasso é a obsessão por produtividade. Individualmente, o ganho é inquestionável: modelos generativos aceleram a produção de conteúdo e a síntese de informação. Mas produtividade, da forma como vem sendo medida, é uma métrica subjetiva, sem fator claro. Quando levada à escala, onde um conjunto de ações precisa se traduzir em ganhos no balanço, a conta não fecha. Vimos recentemente empresas demitirem programadores para substituí-los por IA e descobrirem, na prática, que o custo dos tokens superava o custo do profissional, casos como da Uber, Klarna e Microsoft. Se nem o ganho de produtividade se sustenta em escala, algo está errado na premissa.\nO que interessa a um conselho de administração não é quantos e-mails foram escritos mais rápido. É quanto foi economizado, quanto risco foi evitado, quanto lucro adicional foi gerado. Redução de fraude em um banco. A decisão de abrir, ou de paralisar, uma nova planta industrial. São decisões que tocam a veia nevrálgica do negócio e que aparecem, de forma mensurável, em earnings, savings e exposição a risco. Se a inteligência artificial não altera essas decisões, ela segue sendo uma ferramenta de produtividade, não uma infraestrutura estratégica.\nÉ aqui que entra uma crítica frequentemente mal compreendida. O problema nunca foi o dashboard. O problema é acreditar que acumular indicadores produz melhores decisões. Em muitos casos, a cadeia que alimenta esses indicadores já nasce fragmentada, inconsistente e pouco auditável. O excesso de informação com baixa capacidade de orientar uma ação concreta tem nome: infotoxicação. O decisor não precisa de mais dados na tela. Precisa de informação confiável, no momento certo, para uma decisão de alto impacto.\nA resposta para isso não é um grande oráculo computacional. É engenharia. Consolidar dados fragmentados em um ambiente de fundamentação, conter os fluxos que alimentam qualquer aplicação de IA para impedir alucinações e desvios, converter dados operacionais em seu equivalente financeiro e contábil, e só então colocar algoritmos estatísticos e matemáticos para monitorar sinais de risco naquilo que o decisor de fato precisa. A informação vai sendo destilada ao longo de um processo auditável, seguindo a sequência lógica de quem decide: sinal, decisão e evidências que a sustentam. É essa tese que materializamos no TheraOS 2.0, nosso sistema operacional de decisão.\nÉ o conceito central de decision-grade AI: uma infraestrutura que só se justifica onde a decisão tem impacto financeiro mensurável e exige evidência auditável, e não onde um ERP, um BI ou a experiência humana já resolvem. O mercado vai continuar debatendo se a IA é bolha ou revolução. Para quem senta em um conselho, a pergunta útil é outra: quais decisões da empresa merecem uma infraestrutura de evidências, e quantas delas, hoje, são tomadas no meio da infotoxicação? Quando essa pergunta for respondida, a discussão volta a ser técnica. E o valor, mensurável.\n*Fernando Negrini é Co-Founder & CEO da Grand Thera Technologies",
-    "published": "2026-09-25T16:51:26+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Por Fernando Negrini*\nUm estudo do MIT publicado em 2025, dentro da iniciativa NANDA, chegou a um número que deveria constranger o mercado de tecnologia: 95% dos pilotos de IA generativa em empresas não produzem impacto mensurável no resultado financeiro. Na mesma direção, o Gart",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "B3 (B3SA3): Itaú BBA ainda vê espaço para alta após rali e mantém compra",
-    "link": "https://www.infomoney.com.br/mercados/b3-b3sa3-itau-bba-ainda-ve-espaco-para-alta-apos-rali-e-mantem-compra/",
-    "description": "Apesar da alta recente ter reduzido a assimetria positiva observada alguns meses atrás, o banco ainda vê espaço para valorização caso o ambiente macroeconômico e o ciclo de juros favoreçam\nThe post B3 (B3SA3): Itaú BBA ainda vê espaço para alta após rali e mantém compra appeared first on InfoMoney.",
-    "published": "2026-09-25T16:40:00+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Apesar da alta recente ter reduzido a assimetria positiva observada alguns meses atrás, o banco ainda vê espaço para valorização caso o ambiente macroeconômico e o ciclo de juros favoreçam\nThe post B3 (B3SA3): Itaú BBA ainda vê espaço para alta após rali e mantém compra appeared ",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "MP das bets é atitude ‘hipócrita, eleitoreira e populista’, diz Flávio Bolsonaro",
-    "link": "https://www.infomoney.com.br/mercados/mp-das-bets-e-atitude-hipocrita-eleitoreira-e-populista-diz-flavio-bolsonaro/",
-    "description": "Para o senador, a MP das bets reflete o temor de Lula de perder a eleição\nThe post MP das bets é atitude &#8216;hipócrita, eleitoreira e populista&#8217;, diz Flávio Bolsonaro appeared first on InfoMoney.",
-    "published": "2026-09-25T16:37:45+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Para o senador, a MP das bets reflete o temor de Lula de perder a eleição\nThe post MP das bets é atitude &#8216;hipócrita, eleitoreira e populista&#8217;, diz Flávio Bolsonaro appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "MP das bets é atitude ‘hipócrita, eleitoreira e populista’, diz Flávio Bolsonaro",
-    "link": "https://www.infomoney.com.br/politica/mp-das-bets-e-atitude-hipocrita-eleitoreira-e-populista-diz-flavio-bolsonaro/",
-    "description": "Para o senador, a MP das bets reflete o temor de Lula de perder a eleição\nThe post MP das bets é atitude &#8216;hipócrita, eleitoreira e populista&#8217;, diz Flávio Bolsonaro appeared first on InfoMoney.",
-    "published": "2026-09-25T16:37:45+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Para o senador, a MP das bets reflete o temor de Lula de perder a eleição\nThe post MP das bets é atitude &#8216;hipócrita, eleitoreira e populista&#8217;, diz Flávio Bolsonaro appeared first on InfoMoney.",
     "relevance": 5
   }
 ]
