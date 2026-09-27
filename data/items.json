@@ -1,5 +1,17 @@
 [
   {
+    "source": "InfoMoney",
+    "title": "Petróleo sobe e futuros de ações dos EUA recuam após rejeição de oferta do Irã",
+    "link": "https://www.infomoney.com.br/mercados/petroleo-sobe-e-futuros-de-acoes-dos-eua-recuam-apos-rejeicao-de-oferta-do-ira/",
+    "description": "Os futuros do índice S&#038;P 500 caíram cerca de 0,2% nas primeiras negociações asiáticas\nThe post Petróleo sobe e futuros de ações dos EUA recuam após rejeição de oferta do Irã appeared first on InfoMoney.",
+    "published": "2026-09-27T22:45:14+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Os futuros do índice S&#038;P 500 caíram cerca de 0,2% nas primeiras negociações asiáticas\nThe post Petróleo sobe e futuros de ações dos EUA recuam após rejeição de oferta do Irã appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Política",
     "title": "Ministério pede ao Telegram bloqueio de 43 perfis que divulgam apostas e cassinos virtuais ilegais",
     "link": "https://g1.globo.com/politica/noticia/2026/09/27/ministerio-pede-ao-telegram-bloqueio-de-43-perfis-que-divulgam-apostas-e-cassinos-virtuais-ilegais.ghtml",
@@ -329,7 +341,13 @@
       "Politica"
     ],
     "summary": "O ministro do Supremo Tribunal Federal Dias Toffoli determinou a retirada da Federação PSDB-Cidadania da coligação da candidata à reeleição pelo governo de Pernambuco Raquel Lyra (PSD). A medida foi tomada nesta sábado e cassa uma decisão anterior do Tribunal Regional Eleitoral d",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/noticia/2026/09/27/stf-determina-retirada-da-federao-psdb-cidadania-da-coligao-que-apoia-raquel-lyra-em-pernambuco.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3741,19 +3759,6 @@
       "Politica"
     ],
     "summary": "O presidente Lula fez nesta sexta-feira em jantar com mais de 700 pessoas em São Paulo um histórico de realizações de seus três mandatos, afirmou que foi em seus governos que o Brasil mais cresceu e voltou a dizer que aprendeu economia com sua mãe, dona Lindu, e sabe que não se d",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Alckmin diz que Lula é o único capaz de unir os Poderes e afirma que há espaço para cortar despesas",
-    "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/25/alckmin-diz-que-lula-e-o-unico-capaz-de-unir-os-poderes-e-afirma-que-ha-espaco-para-cortar-despesas.ghtml",
-    "description": "O vice-presidente Geraldo Alckmin (PSB) defendeu nesta sexta-feira (25), a uma plateia com centenas de empresários reunidos em São Paulo, que o presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) é único que pode unir os Poderes e conciliar o país. Alckmin afirmou ainda que há espaço para o governo federal cortar despesas.\n\n“Quero trazer uma palavra sobre o futuro. Lula é vocacionado. Presidente Lula, este é o seu tempo, é o tempo da conciliação. Só faz [conciliação] quem é aberto ao diálogo, quem tem experiência”, afirmou Alckmin, ao lado de Lula, em um jantar promovido pelos grupos Esfera, Prerrogativas e Parlatório com mais de 740 participantes, segundo os organizadores.\n\nEm outro momento de seu breve discurso, Alckmin reforçou que é preciso unir os Poderes. “Lula é o homem vocacionado para esse trabalho.”\n\nAos empresários, Alckmin defendeu a reforma tributária e disse ser um otimista em relação à questão fiscal. O vice-presidente defendeu a responsabilidade fiscal e afirmou que é possível conciliá-la com investimentos. “Não pode fazer ajuste parando a economia. O segredo é o PIB crescer e segurar a despesa”, disse. “Temos uma avenida para combater desperdício e privilégio. Tem uma avenida para segurar despesa.”\n\nAlckmin ressaltou a democracia e, em meio à defesa de mais investimentos e do desenvolvimento econômico do país, disse que o governo respeita o povo e é leal à democracia. “A recomendação é Lula com chuchu.”\n\nEntre os presentes estavam Milton Maluhy (Itaú), Rubens Ometto (Cosan), Joesley Batista (J&amp;F), Gustavo Pimenta (Vale), Alexandre Nogueira (Light), Carlos Sanchez (EMS), Lirio Parisotto (Innova), Antonio Scala (Enel), Marcos Almeida (Brookfield), além de advogados, economistas e médicos.\n\nO governo federal estava em peso. Entre os representantes da gestão estavam os ministros Dario Durigan (Fazenda), Esther Dweck (Gestão), Bruno Moretti (Planejamento), Miriam Belchior (Casa Civil), Márcio Elias Rosa (Desenvolvimento), Alexandre Padilha (Saúde), Leonardo Barchini (Educação), Wellington Lima e Silva (Justiça), Sidônio Palmeira (Comunicação) e Paulo Pereira (Empreendedorismo); o advogado-geral da União, Jorge Messias. Os presidentes de bancos públicos também participaram - o presidente da Caixa, Carlos Antônio Vieira Fernandes; a presidente do Banco do Brasil, Tarciana Medeiros, e o presidente do BNDES, Aloizio Mercadante. Estava ainda o ex-ministro da Fazenda Joaquim Levy \n\nCandidatos em São Paulo, os ex-ministros Fernando Haddad (PT), Marina Silva (Rede) e Simone Tebet (PSB) também participaram. Haddad concorre ao governo paulista e Marina e Simone disputam o Senado por São Paulo.\n\nLula chegou ao evento por volta das 20h35. Pouco antes, anunciou a proibição de bets. Foi o segundo jantar de Lula com empresários e banqueiros em menos de um mês. O anterior ocorreu em 31 de agosto, no Palácio da Alvorada, em Brasília, e teve formato mais restrito, com 16 representantes do setor privado, além de integrantes do governo.",
-    "published": "2026-09-26T01:48:02+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O vice-presidente Geraldo Alckmin (PSB) defendeu nesta sexta-feira (25), a uma plateia com centenas de empresários reunidos em São Paulo, que o presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT) é único que pode unir os Poderes e conciliar o país. Alckmin afirmou a",
     "relevance": 5
   }
 ]
