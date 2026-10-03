@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "Embaixador vê interferência dos EUA na eleição: “Está acontecendo”",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/embaixador-ve-interferencia-dos-eua-na-eleicao-esta-acontecendo/",
+    "description": "Rubens Barbosa cita suspensão de serviços na Embaixada e repasse de US$ 1 mi de Trump a organização no Brasil como exemplos",
+    "published": "2026-10-03T11:40:30+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Rubens Barbosa cita suspensão de serviços na Embaixada e repasse de US$ 1 mi de Trump a organização no Brasil como exemplos",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Fundos de crédito privado: o que olhar na carteira em tempos de juros altos",
     "link": "https://www.infomoney.com.br/onde-investir/fundos-de-credito-privado-o-que-olhar-na-carteira-em-tempos-de-juros-altos/",
@@ -9,6 +21,30 @@
       "Economia"
     ],
     "summary": "Concentração da carteira, histórico do gestor e prazo de resgate merecem atenção, de acordo com a SulAmérica Investimentos\nThe post Fundos de crédito privado: o que olhar na carteira em tempos de juros altos appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Distribuidoras de energia reforçam operação para garantir fornecimento durante as eleições",
+    "link": "https://valor.globo.com/empresas/noticia/2026/10/03/distribuidoras-de-energia-reforcam-operacao-para-garantir-fornecimento-durante-as-eleicoes.ghtml",
+    "description": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-10-03T11:30:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "STF analisa a partir de quando vale decisão sobre alíquotas de IPTU",
+    "link": "https://valor.globo.com/legislacao/noticia/2026/10/03/stf-analisa-a-partir-de-quando-vale-decisao-sobre-aliquotas-de-iptu.ghtml",
+    "description": "O Supremo Tribunal Federal (STF) começou a analisar, no Plenário Virtual, recurso (embargos de declaração) para que a decisão que impede os municípios de fixarem alíquotas do IPTU com base na área do imóvel passe a valer apenas após o fim do processo (trânsito em julgado).  Por ora, apenas o relator, ministro Dias Toffoli votou. Ele acatou o pedido de modulação dos efeitos da decisão, mas estabeleceu como limite a data da publicação da ata do julgamento do mérito (12 de agosto). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-10-03T11:30:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O Supremo Tribunal Federal (STF) começou a analisar, no Plenário Virtual, recurso (embargos de declaração) para que a decisão que impede os municípios de fixarem alíquotas do IPTU com base na área do imóvel passe a valer apenas após o fim do processo (trânsito em julgado).  Por o",
     "relevance": 5
   },
   {
@@ -353,7 +389,13 @@
       "Politica"
     ],
     "summary": "Os eleitores de todo o Brasil deverão comparecer aos locais de votação para escolher novos deputados federais, estaduais e distritais, senadores, governadores e presidente da República. Para as eleições 2026, é preciso estar atento a alguns pontos.  \nPara ir à urna, não é necessá",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/03/como-votar-nas-eleicoes-2026.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -1228,7 +1270,13 @@
       "Politica"
     ],
     "summary": "O fim de semana das eleições será marcado por tempo instável em grande parte do Brasil. Neste sábado (3), áreas de chuva mais intensa devem atingir principalmente o Sudeste e o Sul, enquanto no domingo (4), dia do primeiro turno das eleições, o risco de temporais aumenta no Paran",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-brasil/fim-de-semana-de-eleicoes-sera-de-chuva-em-grande-parte-do-pais/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3844,43 +3892,6 @@
       "Politica"
     ],
     "summary": "O Banco Nacional de Desenvolvimento Econômico e Social (BNDES) aprovou nesta sexta-feira (2) um financiamento de R$ 72,9 milhões para ampliar o sinal de celular e o acesso à internet em 131 localidades de oito Estados. O projeto da empresa de infraestrutura de telecomunicações Hi",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "As 7 ações mais recomendadas antes do 1º turno das eleições",
-    "link": "https://www.infomoney.com.br/onde-investir/as-7-acoes-mais-recomendadas-outubro-2026/",
-    "description": "Sabesp sobe nas indicações e passa a dividir a liderança com outras peso-pesadas nas carteiras de bancos e corretoras para atravessar o pleito independentemente do resultado\nThe post As 7 ações mais recomendadas antes do 1º turno das eleições appeared first on InfoMoney.",
-    "published": "2026-10-02T16:00:00+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Sabesp sobe nas indicações e passa a dividir a liderança com outras peso-pesadas nas carteiras de bancos e corretoras para atravessar o pleito independentemente do resultado\nThe post As 7 ações mais recomendadas antes do 1º turno das eleições appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Pagamentos on-line e em apps já respondem por 26% do volume no Brasil, diz Visa",
-    "link": "https://valor.globo.com/financas/noticia/2026/10/02/pagamentos-online-e-em-apps-j-respondem-por-26-pontos-percentuais-do-volume-no-brasil-diz-visa.ghtml",
-    "description": "Os pagamentos realizados on-line e em aplicativos já representam 26% do volume de pagamentos domésticos no Brasil, segundo o estudo “The Great Indoors: How the Couch Economy Is Redefining Consumer Spending Habits” da Visa Business and Economic Insights (VBEI). Em 2019, essa participação era de 17%.\n\nO levantamento, que analisou dados agregados e anonimizados de transações da VisaNet com credenciais Visa de crédito, débito e pré-pago em seis mercados, aponta também aumento na frequência de uso dos canais digitais no Brasil. Em 2018, 3,7% dos cartões ativos no país realizavam dez ou mais pagamentos on-line ou em aplicativos por mês. Em 2026, a parcela chegou a 8,1%.\n\nPara Tiago Moherdaui, vice-presidente da Visa Consulting & Analytics, o movimento reflete uma mudança no comportamento do consumidor. A pesquisa mostra que não se trata apenas de mais pessoas comprando on-line, mas de maior recorrência desse comportamento.\n\n“À medida que a tecnologia continua reduzindo atritos nas atividades cotidianas, os consumidores passam a priorizar a conveniência, direcionando mais gastos para canais digitais, serviços de assinatura e plataformas de entrega. Os dados indicam que o brasileiro incorporou o digital à rotina, mantendo as experiências presenciais como parte importante de seus hábitos”, diz o executivo, em nota.\nTiago Moherdaui, vice-presidente da Visa Consulting & Analytics\nReprodução/LinkedIn",
-    "published": "2026-10-02T15:56:16+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Os pagamentos realizados on-line e em aplicativos já representam 26% do volume de pagamentos domésticos no Brasil, segundo o estudo “The Great Indoors: How the Couch Economy Is Redefining Consumer Spending Habits” da Visa Business and Economic Insights (VBEI). Em 2019, essa parti",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Caiado volta a criticar Lula, TSE e STF por cancelamento do debate entre presidenciáveis",
-    "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/02/caiado-volta-a-criticar-lula-tse-e-stf-por-cancelamento-do-debate-entre-presidenciveis.ghtml",
-    "description": "O candidato do PSD à Presidência da República, Ronaldo Caiado, voltou a criticar hoje o presidente Luiz Inácio Lula da Silva (PT) e decisões do Judiciário após o cancelamento do debate entre os presidenciáveis que seria realizado ontem pela TV Globo.\n\nEm agenda em Goiás, seu reduto político, Caiado classificou o cancelamento como “um atentado à democracia brasileira” e responsabilizou Lula e o PT pelo desfecho. O candidato também voltou a questionar a atuação do Judiciário no episódio.\n\n“Negaram a mim e a todos que lá estavam a poder levar o seu plano de governo para a população poder escolher o seu candidato, poder saber o que ele pode fazer pelo Brasil, poder mostrar para o Brasil o que eu fiz no Estado de Goiás”, disse.\n\nO cancelamento do confronto ocorreu após duas determinações da Justiça que alteraram as regras previamente acordadas com as campanhas dos presidenciáveis, gerando insegurança jurídica e, segundo a emissora, uma “interferência indevida na liberdade dos veículos de imprensa de organizar os debates eleitorais”.\n\nUma das decisões a respeito das regras do encontro partiu do ministro Gilmar Mendes, do Supremo Tribunal Federal (STF), que determinou que o evento contasse com a participação de Renan Santos (Missão), que não estava prevista e nem era obrigatória. \n\nA outra partiu da ministra Estela Aranha, do Tribunal Superior Eleitoral (TSE), que proibiu que a emissora exibisse o púlpito vazio de Lula e que os demais candidatos fizessem perguntas direcionadas ao petista, que havia comunicado que não iria. A decisão atendeu a pedido da campanha petista.\n\nCaiado classificou como “irresponsável” a postura de Lula por, segundo ele, ter concordado com as regras do debate e, depois, recorrer à Justiça. O presidenciável também afirmou que o STF e TSE extrapolaram suas prerrogativas.\n\n“O Supremo extrapolou, o Tribunal Superior Eleitoral extrapolou. Eles extrapolaram aquilo que eles não têm prerrogativas para decidir. É uma afronta, é um atentado à democracia brasileira”, ressaltou. \nele",
-    "published": "2026-10-02T15:54:38+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O candidato do PSD à Presidência da República, Ronaldo Caiado, voltou a criticar hoje o presidente Luiz Inácio Lula da Silva (PT) e decisões do Judiciário após o cancelamento do debate entre os presidenciáveis que seria realizado ontem pela TV Globo.\n\nEm agenda em Goiás, seu redu",
     "relevance": 5
   }
 ]
