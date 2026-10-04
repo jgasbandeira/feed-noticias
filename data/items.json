@@ -3175,7 +3175,17 @@
       "Politica"
     ],
     "summary": "Na véspera da eleição, os eleitores podem conferir quem lidera as pesquisas para a Presidência. Os levantamentos mostram o presidente Luiz Inácio Lula da Silva (PT) à frente do senador Flávio Bolsonaro (PL) nos cenários de primeiro e segundo turno. Os dados estão disponíveis no R",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/10/03/quem-esta-na-frente-para-presidente-no-primeiro-turno-veja-resultados-das-ultimas-pesquisas.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/10/03/quem-esta-na-frente-para-presidente-no-segundo-turno-veja-os-resultados-das-ultimas-pesquisas.ghtml"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
