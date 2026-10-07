@@ -1,6 +1,18 @@
 [
   {
     "source": "G1 - Política",
+    "title": "Resultado das eleições 2026: como foi a votação na sua cidade no 1º turno; consulte por estado",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/resultado-das-eleicoes-2026-como-foi-a-votacao-na-sua-cidade-no-1o-turno-consulte-por-estado.ghtml",
+    "description": "Como foram os votos na sua urna\nO g1 publica reportagens com a votação para presidente, governador, senador e deputados em cada cidade do país, no 1º turno das Eleições 2026. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE).\nEscolha o estado e veja como cada cidade do país votou. Os números se referem à votação em cada município e não apontam quem foi eleito ou avançou ao 2º turno.\nClique aqui para acessar os resultados completos da apuração no Brasil e veja o mapa com dados de todos os municípios.\nVeja abaixo a lista dos 26 estados e DF:\nAcre\nAlagoas\nAmapá\nAmazonas\nBahia\nCeará\nDistrito Federal\nEspírito Santo\nGoiás\nMaranhão\nMato Grosso\nMato Grosso do Sul\nMinas Gerais\nPará\nParaíba\nParaná\nPernambuco\nPiauí\nRio de Janeiro\nRio Grande do Norte\nRio Grande do Sul\nRondônia\nRoraima\nSanta Catarina\nSão Paulo\nSergipe\nTocantins\nEsta reportagem foi produzida de modo automatizado, com base nos dados do TSE e com o apoio de um sistema de inteligência artificial, sob supervisão de jornalistas (clique aqui para saber mais). Se houver novas informações relevantes, a reportagem pode ser atualizada. Caso você perceba algum erro, por favor nos informe por meio do formulário disponível neste link.\nEleições 2026\nImagem urna eletrônica\nReprodução/TV Globo",
+    "published": "2026-10-07T01:10:46+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Como foram os votos na sua urna\nO g1 publica reportagens com a votação para presidente, governador, senador e deputados em cada cidade do país, no 1º turno das Eleições 2026. Os dados foram divulgados pelo Tribunal Superior Eleitoral (TSE).\nEscolha o estado e veja como cada cidad",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
     "title": "TSE nega que atraso na divulgação dos resultados tenha comprometido apuração dos votos",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/tse-nega-que-atraso-na-divulgacao-dos-resultados-tenha-comprometido-apuracao-dos-votos.ghtml",
     "description": "Urna eletrônica para votação nas eleições brasileiras\nMarcelo Camargo/Agência Brasil\nO Tribunal Superior Eleitoral (TSE) negou nesta terça-feira (6) que o atraso na divulgação dos dados das eleições presidenciais no domingo (4) tenha prejudicado a realização do primeiro turno. \nSegundo o TSE, circulam nas redes sociais mensagens e vídeos afirmando que houve fraude nos resultados da votação.  \nEm nota, o TSE informou que \"uma contenção no processamento de dados paralisou um dos módulos dos sistemas utilizados para divulgar os resultados na internet\". \nAinda de acordo com a Corte Eleitoral, a interrupção afetou apenas a divulgação dos resultados, sem prejuízos à apuração e à totalização dos votos.   \n\"Quando o percentual de dados divulgados para presidente e vice-presidente atingiu 64,81%, a contenção paralisou o módulo responsável por gerar os arquivos de divulgação desses cargos na visualização “Brasil”. (...) A paralisação, portanto, ocorreu em uma etapa de divulgação dos resultados na internet e não interrompeu a apuração dos votos pelas urnas eletrônicas nem o cálculo das totalizações\", disse o TSE. \nNo domingo, o presidente do TSE, ministro Kassio Nunes Marques, declarou que um fluxo superior ao normal causou um congestionamento do sistema, acarretando demora na atualização das informações. \nOs dados sobre a votação presidencial chegaram a ficar quase uma hora sem serem atualizados.\nO TSE explicou que, até os dados serem conhecidos, ocorrem três etapas: \n\nApuração: feita pela própria urna eletrônica, em cada seção, ao fim da votação; \nTotalização: realizada a partir da soma dos resultados apurados em cada seção;\nDivulgação: destinada, ao final, a tornar os resultados disponíveis ao público. \nAlém disso, o TSE disse que, após o encerramento da votação, às 17h, a Justiça Eleitoral executa diferentes processamentos de dados simultaneamente, entre os quais estão: \nTransmissão dos boletins de urna, que são documentos que registram o resultado da votação de cada seção eleitoral;\nRecebimento desses boletins pelo centro de processamento de dados da Justiça Eleitoral;\nDivulgação dos boletins de urna na internet;\nProcessamento dos boletins de urna;\nSustentação de sistemas gerenciais e de acompanhamento;\nCálculo de totalizações; e\nGeração de arquivos de divulgação de resultados. \nO TSE informou ainda que, durante a interrupção da geração dos arquivos de divulgação dos dados, os boletins de urna continuaram sendo transmitidos, recebidos, processados e publicados na internet. \nAlém disso, ainda de acordo com o tribunal, os sistemas gerenciais e de acompanhamento seguiram funcionando.\n\n\"A geração dos arquivos da visualização “Brasil” foi restabelecida às 20h04 e, a partir desse momento, seguiu sem novas interrupções\", afirmou o TSE.",
@@ -1416,7 +1428,13 @@
       "Politica"
     ],
     "summary": "O presidente do Banco Central, Gabriel Galípolo, depôs na manhã desta terça-feira (6) à Polícia Federal em Brasília como testemunha na investigação sobre a suspeita de que servidores do Banco Central teriam atuado para favorecer os interesses do Banco Master em troca de propina.\n",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/10/06/galipolo-depoe-a-pf-como-testemunha-no-caso-do-banco-master.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3877,18 +3895,6 @@
       "Politica"
     ],
     "summary": "Uma peça criada por Salvador Dalí para uma edição especial do Livro do Apocalipse foi roubada durante a madrugada de domingo para segunda-feira do Centro de Arte Contemporânea de Issoire, no centro da França. A capa, feita de bronze e decorada com ouro, pedras preciosas e conchas",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Daniel Aarão Reis Filho lembra que o inventário de erros do PT já começou e continuará no futuro",
-    "link": "https://oglobo.globo.com/blogs/ancelmo-gois/post/2026/10/daniel-aarao-reis-filho-lembra-que-o-inventario-de-erros-do-pt-ja-comecou-e-continuara-no-futuro.ghtml",
-    "description": "Ao analisar o resultado do primeiro turno da eleição presidencial, o historiador Daniel Aarão Reis Filho, professor da Universidade Federal Fluminense, lembrou que a vitória, \"com seus inúmeros pais\", encobre os erros cometidos. \"Mas a derrota, esta órfã, os evidencia e dispara a clássica caçada aos bodes expiatórios\".  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-10-06T12:55:17+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Ao analisar o resultado do primeiro turno da eleição presidencial, o historiador Daniel Aarão Reis Filho, professor da Universidade Federal Fluminense, lembrou que a vitória, \"com seus inúmeros pais\", encobre os erros cometidos. \"Mas a derrota, esta órfã, os evidencia e dispara a",
     "relevance": 5
   }
 ]
