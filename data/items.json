@@ -12,6 +12,18 @@
     "relevance": 5
   },
   {
+    "source": "CNBC",
+    "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says",
+    "link": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html",
+    "description": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
+    "published": "2026-10-08T23:57:23+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Nasdaq CEO Adena Friedman said tokenization could free up tens of billions of dollars in trapped capital.",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Política",
     "title": "TSE aciona PF para investigar ataques e ameaças a servidores da Justiça Eleitoral",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/tse-aciona-pf-para-invetsigar-ataques-e-ameacas-a-servidores-da-justica-eleitoral.ghtml",
@@ -203,7 +215,13 @@
       "Politica"
     ],
     "summary": "O senador Flávio Bolsonaro (PL-RJ) reagiu nesta quinta-feira à decisão do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), que determinou o cumprimento imediato da pena de quatro anos e dois meses de prisão do ex-deputado Eduardo Bolsonaro (PL-SP), seu irmão. Em t",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/08/ordem-do-stf-para-que-eduardo-bolsonaro-comece-a-cumprir-pena-vai-dar-em-nada-diz-flavio.ghtml"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
@@ -2949,6 +2967,18 @@
     "relevance": 5
   },
   {
+    "source": "G1 - Política",
+    "title": "Ruas diz que aguarda retotalização de votos para falar com 'todos que acreditaram na mudança no Rio'",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/eleicoes/2026/noticia/2026/10/08/douglas-ruas-tse-votos-garotinho.ghtml",
+    "description": "Douglas Ruas acompanhou o julgamento em Brasília\nDouglas Ruas (PL) disse, nesta quinta-feira (8), em Brasília que vai esperar a retotalização dos votos do 1º turno da eleição para o Governo do Rio para falar com seus eleitores. \nA cerimônia foi marcada para o próximo sábado (10) no auditório do Palácio da Democracia, sede do Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ). \nNa manhã desta quinta-feira (8), a maioria dos ministros do Tribunal Superior Eleitoral votou pela anulação dos votos de Garotinho. \n\"Temos que aguardar o TSE dar os próximos passos, mandar a comunicação pro TRE, e assim que houver a retotalização a gente vai falar com toda a população do estado do Rio de Janeiro, com todos que acreditaram na mudança no Rio\", disse ele no início da tarde. \nMudança no resultado das eleições\nA decisão do Tribunal Superior Eleitoral (TSE) de manter o indeferimento da candidatura de Anthony Garotinho (Republicanos) e anular os 274.411 votos recebidos pelo ex-candidato alterou o resultado da eleição para o governo do Rio de Janeiro. \nCom a exclusão desses votos da contagem dos válidos, Douglas Ruas (PL) ultrapassou a marca de 50% dos votos válidos e passou a vencer a disputa ainda no primeiro turno.\nA retotalização oficial ainda será feita pela Justiça Eleitoral, mas os cálculos indicam que Ruas passará de 49,27% para 50,88% dos votos válidos. \nVotaram a favor do entendimento o relator, Floriano de Azevedo, André Mendonça, Estela Aranha e Dias Toffoli e Kassio Nunes Marques.  \nDouglas Ruas fala sobre anulação de votos de Garotinho: \"Temos que aguardar a decisão final\"\nReprodução/TV Globo\nQuem é Douglas Ruas, eleito governador do Rio após votação no TSE\nO deputado estadual Douglas Ruas (PL) deverá ficar com cerca de 74 mil votos acima do mínimo necessário para vencer a eleição para o governo do RJ no 1º turno. \nPelos cálculos feitos a partir dos números da apuração, Ruas passou a ter 50,88% dos votos válidos.\nOs 74 mil votos não representam a diferença entre Ruas e Eduardo Paes (PSD), 2º colocado. A vantagem do candidato do PL sobre o adversário foi de 564.215 votos — o que não mudou com a exclusão de Garotinho do pleito. O número corresponde à quantidade de votos que Ruas recebeu acima do mínimo necessário para vencer no 1º turno, após a retirada dos votos de Garotinho.\nEntenda o que mudou na eleição\nDouglas Ruas\nReprodução/TV Globo\nNa apuração original, com 100% das urnas contabilizadas, Douglas Ruas recebeu 4.271.199 votos, equivalentes a 49,27% dos votos válidos considerados inicialmente.\nEduardo Paes teve 3.706.984 (42,76%), enquanto Anthony Garotinho recebeu 274.411 (3,17%).\nComo Ruas não havia alcançado mais da metade dos votos válidos, a disputa inicialmente apontava para o 2º turno entre os candidatos do PL e do PSD.\nA situação mudou com o julgamento do TSE, que manteve o indeferimento da candidatura de Garotinho e determinou a exclusão dos votos recebidos por ele.\nAnthony Garotinho\nReprodução/TV Globo\nIsso não significa que os votos de Garotinho foram transferidos para Ruas ou para qualquer outro candidato: na prática, Ruas e Paes continuarão exatamente com a mesma quantidade de votos.\nA diferença estará no total de votos válidos, que ficará menor com a retirada dos 274.411 votos do ex-governador. Com isso, o percentual de Ruas aumentou e ultrapassou os 50%.",
+    "published": "2026-10-08T15:27:53+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Douglas Ruas acompanhou o julgamento em Brasília\nDouglas Ruas (PL) disse, nesta quinta-feira (8), em Brasília que vai esperar a retotalização dos votos do 1º turno da eleição para o Governo do Rio para falar com seus eleitores. \nA cerimônia foi marcada para o próximo sábado (10) ",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "XP lança conta para crianças e adolescentes",
     "link": "https://valor.globo.com/financas/noticia/2026/10/08/xp-lana-conta-para-crianas-e-adolescentes.ghtml",
@@ -3994,37 +4024,5 @@
     ],
     "summary": "O mapa de votação de Eduardo Paes (PSD) contra Douglas Ruas (PL) na eleição de primeiro turno ao governo do Rio de Janeiro teve poucas diferenças em relação à geografia do voto do pleito de 2018, quando o ex-prefeito carioca foi derrotado por Wilson Witzel (PSC). A mudança mais s",
     "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Dólar à vista volta a subir em meio à pressão do exterior",
-    "link": "https://valor.globo.com/financas/noticia/2026/10/08/dolar-a-vista-volta-a-subir-em-meio-a-pressao-do-exterior.ghtml",
-    "description": "O dólar comercial volta a subir no pregão desta quinta-feira por conta de um ambiente global de aversão a risco, provocado pela possibilidade de novos ataques dos Estados Unidos contra o Irã. Assim, os riscos geopolíticos levam os investidores à segurança da moeda americana, em dinâmica similar à do pregão de ontem.\n\nAo longo do dia, o mercado ficará de olho nos comentários de dirigentes do Federal Reserve (Fed) e na expectativa para a primeira pesquisa Datafolha sobre o segundo turno da eleição presidencial, que deve ser divulgada após o fechamento dos mercados.\n\nPor volta de 9h35, o dólar à vista subia 0,23%, a R$ 5,0218, enquanto o dólar futuro para novembro exibia leve alta de 0,01%, a R$ 5,0440. Já o euro comercial avançava 0,24%, a R$ 5,6227.\n\nO índice DXY, que mede a força do dólar contra seis divisas pares, subia em ritmo contido de 0,05%, a 102,29 pontos. Contra pares do real, a moeda americana anotava alta de 0,27% ante o peso mexicano e de 0,14% contra o rand sul-africano.",
-    "published": "2026-10-08T12:45:22+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O dólar comercial volta a subir no pregão desta quinta-feira por conta de um ambiente global de aversão a risco, provocado pela possibilidade de novos ataques dos Estados Unidos contra o Irã. Assim, os riscos geopolíticos levam os investidores à segurança da moeda americana, em d",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Método de infoprodutos gera R$ 40 milhões em 2026",
-    "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/10/08/metodo-de-infoprodutos-gera-r-40-milhoes-em-2026-1.ghtml",
-    "description": "O professor brasileiro dá mais aulas, tem mais alunos por turma e ganha menos do que a média dos países da Organização para a Cooperação e Desenvolvimento Econômico (OCDE). Enquanto isso, o mesmo tipo de conhecimento que sustenta uma sala de aula passou a circular em outro mercado e em outra escala: negócios de educação digital que aplicaram a metodologia do Grupo Plugu somaram mais de R$ 40 milhões em vendas de infoprodutos em 2026, segundo a empresa.\nOs dados do relatório Education at a Glance, da OCDE, ajudam a explicar o contraste. A remuneração de professores dos anos finais do ensino fundamental no Brasil é 47% menor que a média dos países da organização, em uma comparação baseada na paridade de poder de compra, critério que considera o custo de vida de cada país, e não a conversão pelo câmbio. Esses professores também têm uma carga horária maior, de 800 horas por ano, contra 706 da média da OCDE, e atendem turmas maiores: 22 alunos por sala, ante 13. Em janeiro de 2026, o piso nacional do magistério foi reajustado para R$ 5.130,63, em jornadas de 40 horas semanais.\nÉ nesse ponto que o mercado de produtos digitais educacionais entra na conta. Na sala de aula, o alcance de um professor é limitado pelo número de carteiras. Em uma plataforma de cursos, o mesmo conteúdo pode ser vendido para milhares de pessoas sem que o custo suba na mesma proporção.\nA demanda por conteúdo pago fora da educação formal acompanha o movimento. Pesquisa da Confederação Nacional de Dirigentes Lojistas (CNDL) e do SPC Brasil, em parceria com a Offerwise, mostrou que 54% dos brasileiros que usam a internet compraram algum tipo de infoproduto nos 12 meses anteriores ao levantamento. Na Hotmart, maior plataforma do setor na América Latina, 21 milhões de consumidores compraram produtos digitais no mundo no último ano.\nDo outro lado do balcão, a atividade deixou de ser complementar para boa parte de quem produz. Estudo da FGV Comunicação Rio, feito em parceria com a Hotmart, estimou em 389.448 os postos de trabalho diretos e indiretos gerados pelo ecossistema de produtos digitais da plataforma no Brasil em 2024, quase 30% a mais que no ano anterior. Para 42% dos produtores ouvidos, a venda de produtos digitais já é a principal fonte de renda. Entre os que formalizaram a operação como pessoa jurídica, o faturamento médio mensal chega a R$ 10.007, contra R$ 4.987 entre os que atuam como pessoa física.\nNo Brasil, a profissionalização desse mercado vem sendo conduzida por empresas que se especializaram em estruturar a operação de venda desses cursos. É o caso do Grupo Plugu, empresa de educação digital fundada pelos sócios Gustavo Lopes, CEO, e João Vitor Tafuri, CMO, que desenvolveu uma metodologia própria de alavancagem de vendas de infoprodutos. Segundo a companhia, os negócios que aplicaram o método somaram mais de R$ 40 milhões em vendas em 2026.\nA engenharia por trás da escala\nA metodologia é organizada em três etapas: captação de audiência, produção de conteúdo e conversão em vendas. O que muda em relação ao modelo mais comum do mercado, segundo os sócios, é a ordem e o critério. Antes de produzir qualquer conteúdo, a empresa pesquisa o público para construir a oferta a partir do problema que as pessoas dizem ter. Depois, a operação passa a ser acompanhada por indicadores fixos, como custo por clique, taxa de reprodução do vídeo de vendas, conversão e ticket médio, revisados periodicamente. Em vez de concentrar o faturamento em lançamentos pontuais, o modelo mantém a venda rodando de forma contínua.\n\"Infoproduto é negócio como qualquer outro: tem processo, tem número e tem repetição. A diferença é que aqui o insumo é o conhecimento de alguém que passou a vida estudando um assunto\", afirma Gustavo Lopes.\nPara os sócios, o efeito prático da estrutura é deslocar o teto de renda de quem ensina: o que define quanto um especialista ganha deixa de ser a carga horária e passa a ser o alcance do que ele ensina.\n\"O professor nunca teve problema de conhecimento. Teve problema de estrutura. Quando a estrutura existe, o mesmo conteúdo que rendia um salário passa a alcançar milhares de pessoas\", diz João Vitor Tafuri.\nO movimento não substitui a escola. Mas cria uma segunda via de reconhecimento para professores e especialistas que, até pouco tempo atrás, dependiam exclusivamente do salário ou da hora-aula para transformar conhecimento em renda.\nSobre o Grupo Plugu\nO Grupo Plugu é uma empresa de educação digital fundada por Gustavo Lopes (CEO) e João Vitor Tafuri (CMO), que atua com uma metodologia própria de vendas de infoprodutos estruturada em três etapas: captação de audiência, produção de conteúdo e conversão em vendas.",
-    "published": "2026-10-08T12:43:56+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O professor brasileiro dá mais aulas, tem mais alunos por turma e ganha menos do que a média dos países da Organização para a Cooperação e Desenvolvimento Econômico (OCDE). Enquanto isso, o mesmo tipo de conhecimento que sustenta uma sala de aula passou a circular em outro mercad",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/08/metodo-de-infoprodutos-gera-r-40-milhoes-em-2026-1.ghtml"
-      }
-    ]
   }
 ]
