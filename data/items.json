@@ -1,5 +1,29 @@
 [
   {
+    "source": "Poder360",
+    "title": "Senado diz a Fux que divulgar visitas viola sigilo de congressistas",
+    "link": "https://www.poder360.com.br/poder-congresso/senado-diz-a-fux-que-divulgar-visitas-viola-sigilo-de-congressistas/",
+    "description": "Casa Alta afirma ao STF que registros podem revelar interlocutores de senadores e comprometer a independência do Poder Legislativo",
+    "published": "2026-10-09T01:23:55+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Casa Alta afirma ao STF que registros podem revelar interlocutores de senadores e comprometer a independência do Poder Legislativo",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Em rede social, Paes admite derrota no Rio de Janeiro e diz que 'decisão judicial a gente respeita'",
+    "link": "https://valor.globo.com/noticia/2026/10/08/em-rede-social-paes-admite-derrota-no-rio-de-janeiro-e-diz-que-deciso-judicial-a-gente-respeita.ghtml",
+    "description": "O candidato a governador do Rio de Janeiro Eduardo Paes (PSD) admitiu na noite desta quinta-feira (8), em sua conta no Instagram, a derrota no primeiro turno das eleições.\n\n\"No último domingo, a maioria dos eleitores fluminenses votou para que a eleição para governador do Rio de Janeiro fosse decidida no segundo turno. Infelizmente, a Justiça decidiu que não haverá segundo turno, contrariando a vontade soberana dos eleitores. E decisão judicial a gente respeita. É assim que funciona a democracia\", escreveu Paes.\n\nDouglas Ruas (PL) recebeu 49,27% dos votos válidos no domingo (4), enquanto Paes teve 42,76%. O terceiro colocado, Anthony Garotinho (Republicanos) recebeu 3,17% dos votos válidos, mas teve a candidatura definitivamente indeferida em votação hoje no Tribunal Superior Eleitoral (TSE). Com isso, o Tribunal Regional Eleitoral (TRE-RJ) vai fazer no sábado a retotalização dos votos, considerando nulos aqueles dados a Garotinho. Como resultado, Ruas vai superar os 50% dos votos válidos, garantindo a eleição no primeiro turno.\n\nPaes tentou ainda um recurso ao Supremo Tribunal Federal (STF) no qual alegava que havia risco de \"dano grave, de difícil ou impossível reparação\" caso não acontecesse a disputa do segundo turno no Rio. \"Verifica-se que o aspecto a ser considerado 'in casu' não é apenas o deferimento ou indeferimento do registro do candidato após as eleições – mas, sim, a vontade popular encarnada nos votos dados a o mesmo candidato\", diz o texto do recurso.\n\nO ministro Cristiano Zanin rejeitou o pedido da coligação de Paes por motivos processuais. Ele entendeu que a solicitação nem sequer atende aos requisitos necessários para que o mérito do caso seja analisado pelo Supremo. Para o ministro do STF, a solicitação foi feita antes de Paes apresentar formalmente um recurso extraordinário contra o julgamento do TSE. A ausência desse tipo recurso prévio, diz, impede a apreciação do caso.\n\n\"Observo, em primeiro lugar, que, até o momento da propositura deste pedido efeito suspensivo, não foi interposto recurso extraordinário e, em consequência, não foi realizado o exame de admissibilidade pela Presidência do TSE\", afirmou. \n\nNo comunicado da noite de hoje na rede social, Paes agradeceu à população do Estado pelos 3,7 milhões de votos obtidos e a Jane Reis (MDB), que era a vice na chapa ao governo estadual. \"O PSD e o nosso grupo político seguirão vigilantes, acompanhando e cobrando resultados de um governo que representa a continuidade do grupo político que está no poder há oito anos. Seguiremos defendendo as mudanças de que o nosso estado tanto precisa\", disse Paes.",
+    "published": "2026-10-09T01:10:50+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O candidato a governador do Rio de Janeiro Eduardo Paes (PSD) admitiu na noite desta quinta-feira (8), em sua conta no Instagram, a derrota no primeiro turno das eleições.\n\n\"No último domingo, a maioria dos eleitores fluminenses votou para que a eleição para governador do Rio de ",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Governo prevê repactuação de Viracopos com R$ 1,5 bilhão em investimentos",
     "link": "https://valor.globo.com/brasil/noticia/2026/10/08/governo-prev-repactuao-de-viracopos-com-r-15-bilho-em-investimentos.ghtml",
@@ -2060,7 +2084,13 @@
       "Politica"
     ],
     "summary": "A Procuradoria-Geral da República (PGR) defendeu que o Supremo Tribunal Federal (STF) substitua a prisão preventiva do ex-presidente do Instituto Nacional do Seguro Social (INSS) Alessandro Stefanutto por outras restrições e uso de tornozeleira eletrônica.   \nStefanutto está pres",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/10/08/pgr-defende-soltar-com-tornozeleira-ex-presidente-do-inss.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3997,35 +4027,5 @@
     ],
     "summary": "Em vídeo publicado em sua conta no X, Sachsida disse que o ajuste fiscal prometido pelo candidato 'será focado nos excessos ⁠do ‌governo' \nThe post Campanha de Flávio nega privatizar de estatais e promete fortalecer programas sociais appeared first on InfoMoney.",
     "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Prefixados do Tesouro sobem em dia de alta do petróleo e dos juros globais",
-    "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-08102026/",
-    "description": "Movimento ocorre em dia de petróleo acima de US$ 104 e Treasury de 10 anos perto da máxima desde 2002; mercado aguarda primeira pesquisa Datafolha do segundo turno\nThe post Prefixados do Tesouro sobem em dia de alta do petróleo e dos juros globais appeared first on InfoMoney.",
-    "published": "2026-10-08T13:08:36+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Movimento ocorre em dia de petróleo acima de US$ 104 e Treasury de 10 anos perto da máxima desde 2002; mercado aguarda primeira pesquisa Datafolha do segundo turno\nThe post Prefixados do Tesouro sobem em dia de alta do petróleo e dos juros globais appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Flávio recebe apoio do Podemos e faz aceno a eleitores de Augusto Cury em busca de votos no segundo turno",
-    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/08/flavio-recebe-apoio-do-podemos-e-faz-aceno-a-eleitores-de-augusto-cury-em-busca-de-votos-no-segundo-turno.ghtml",
-    "description": "O candidato do PL à Presidência, Flávio Bolsonaro, recebeu o apoio do Podemos e fez um aceno aos eleitores de Augusto Cury, terceiro colocado na disputa presidencial.\n— Em nome da Renata (Abreu, presidente do Podemos), quero agradecer a todo partido (Podemos). Não estamos falando de alinhamento automático ou carta em branco. É um livro que vamos escrever juntos. vou ser um presidente que ouve demais e está aberto a projetos que não estejam na nossa pauta. 90% das dores das pessoas não tem cor partidária. Isso eu aprendi com o professor Augusto Cury — disse Flávio.\nCury foi candidato à Presidência pelo Avante e chegou em terceiro, com 2,89%, o equivalente a 3,4 milhões de votos.\nA declaração ocorreu em Brasília, após uma reunião com dirigentes do Podemos, que anunciou apoio ao senador no segundo turno da disputa contra o presidente Luiz Inácio Lula da Silva (PT).\nA adesão do Podemos, presidido pela deputada Renata Abreu, amplia a sequência de apoios partidários recebidos por Flávio desde a votação de domingo. Na quarta-feira, o candidato já havia recebido o respaldo da federação União Progressista, formada por União Brasil e PP, além do Novo e do Republicanos.\nAs articulações têm contado com a participação de aliados como o governador de São Paulo, Tarcísio de Freitas (Republicanos), e o coordenador político da campanha, senador Rogério Marinho. A estratégia é concentrar os primeiros dias do segundo turno na ampliação do arco de alianças, incorporando partidos e lideranças que não estiveram formalmente no palanque de Flávio na primeira etapa da eleição.\nAlém do efeito eleitoral, aliados do candidato veem as negociações como uma forma de antecipar a construção de uma eventual base de sustentação no Congresso. O movimento começou no início da semana, quando os ex-adversários Romeu Zema (Novo) e Ronaldo Caiado (PSD) anunciaram apoio ao senador.\nA campanha também mantém conversas com setores do MDB, cuja direção nacional ainda não definiu uma posição para o segundo turno. A tendência, contudo, é de neutralidade.\nDepois de uma semana concentrada em articulações políticas em Brasília, Flávio deverá retomar as agendas de rua nesta sexta-feira. A previsão é que cumpra compromissos no Rio de Janeiro entre sexta e sábado e siga para São Paulo no domingo.",
-    "published": "2026-10-08T13:08:14+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O candidato do PL à Presidência, Flávio Bolsonaro, recebeu o apoio do Podemos e fez um aceno aos eleitores de Augusto Cury, terceiro colocado na disputa presidencial.\n— Em nome da Renata (Abreu, presidente do Podemos), quero agradecer a todo partido (Podemos). Não estamos falando",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "G1 - Política",
-        "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/08/augusto-cury-declara-apoio-a-flavio-bolsonaro-no-segundo-turno.ghtml"
-      }
-    ]
   }
 ]
