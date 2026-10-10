@@ -1,5 +1,29 @@
 [
   {
+    "source": "Poder360",
+    "title": "Gilmar lamenta que senador Esperidião Amin não tenha sido eleito",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/gilmar-lamenta-que-senador-esperidiao-amin-nao-tenha-sido-eleito/",
+    "description": "Ministro diz que Congresso deixará de contar com a experiência política do senador em 2027; Amin perdeu para Carol de Toni (PL) e para Carlos Bolsonaro (PL)",
+    "published": "2026-10-10T18:57:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Ministro diz que Congresso deixará de contar com a experiência política do senador em 2027; Amin perdeu para Carol de Toni (PL) e para Carlos Bolsonaro (PL)",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Expectativa é que Tesouro siga aproveitando queda dos juros nos leilões",
+    "link": "https://www.poder360.com.br/poder-economia/expectativa-e-que-tesouro-siga-aproveitando-queda-dos-juros-nos-leiloes/",
+    "description": "Especialistas avaliam que cenário abre espaço para novas captações, mas alertam para riscos fiscais e inflacionários",
+    "published": "2026-10-10T18:51:38+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Especialistas avaliam que cenário abre espaço para novas captações, mas alertam para riscos fiscais e inflacionários",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Sidônio tira férias do governo para se dedicar exclusivamente à campanha de Lula no segundo turno",
     "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/10/sidonio-tira-ferias-do-governo-para-se-dedicar-exclusivamente-a-campanha-de-lula-no-segundo-turno.ghtml",
@@ -21,7 +45,13 @@
       "Politica"
     ],
     "summary": "O Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ) realizou na tarde deste sábado a sessão de retotalização de votos para governador do Rio. A cerimônia confirmou a eleição de Douglas Ruas (PL) para o Executivo fluminense.\nA sessão foi anunciada na quinta-feira, após o Trib",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/tre-rj-confirma-maioria-de-votos-vlidos-a-douglas-ruas-do-pl-nas-eleies-para-governo-do-rio.ghtml"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -3889,31 +3919,6 @@
       "Mercado Financeiro"
     ],
     "summary": "O Ibovespa avança nesta sexta-feira, embalado pelo otimismo eleitoral, diante de pesquisas e levantamentos que mostram o favoritismo de Flávio Bolsonaro (PL) no segundo turno da eleição presidencial. Com a possibilidade de uma alternância de poder resultar em um maior controle do",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Economia",
-    "title": "Governo decide ampliar prazo para solicitação do Seguro-Defeso; entenda",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/09/governo-decide-ampliar-prazo-para-solicitacao-do-seguro-defeso-entenda.ghtml",
-    "description": "O Conselho Deliberativo do Fundo de Amparo ao Trabalhador (Codefat) decidiu ampliar o prazo para que pescadores artesanais solicitem o Seguro-Defeso. \nCom a mudança, os requerimentos poderão ser apresentados entre 30 dias antes e 90 dias após o início do período de defeso.\n🔎 O período de defeso é a paralisação temporária da pesca, comercial e amadora, de determinadas espécies em época de reprodução, estabelecida por órgãos ambientais. O período varia conforme a localização e a espécie do peixe.\nNos casos em que o defeso tiver duração igual ou inferior a 90 dias, o pedido do benefício poderá ser feito até o último dia do período. \nSegundo o governo, a medida busca adequar os prazos à realidade dos pescadores artesanais, sobretudo daqueles que vivem em regiões com acesso instável à internet ou enfrentam dificuldades para se deslocar até as unidades de atendimento do Ministério do Trabalho e Emprego (MTE).\nAgora no g1\n\"A iniciativa também busca ampliar o acesso à política pública de proteção social dos pescadores, sem alterar os requisitos legais para a concessão do benefício nem o número e o valor das parcelas\", complementou a pasta, em nota. A medida já está em vigor. \nO que é o seguro-defeso?\nSeguro Defeso é um benefício pago ao pescador artesanal, que fica proibido de exercer a atividade pesqueira durante o período de defeso de alguma espécie. \nSão contemplados pela medida a pessoa pescadora que:\nexerce a atividade pesqueira de forma ininterrupta (individualmente ou em regime de economia familiar);\nesteja inscrita no Registro Geral de Pesca (RGP) há pelo menos 1 ano;\ncomprove o recolhimento da contribuição previdenciária referente à comercialização da sua produção, nos 12 meses imediatamente anteriores ao pedido do benefício ou desde o último período de defeso até o início do período atual, o que for menor;\nnão esteja recebendo BPC ou qualquer benefício previdenciário, exceto auxílio-acidente e pensão por morte limitado a um salário mínimo;\nnão tenha outra fonte de renda, diferente da pesca;\npeça o benefício dentro do prazo.\nDesde novembro de 2025, o Ministério do Trabalho e Emprego (MTE) é responsável pela gestão do Seguro-Defeso. \nO pedido pode ser feito pelo Portal Emprega Brasil ou pela Carteira de Trabalho Digital. Nesses canais, o pescador também pode acompanhar o processo, consultar pagamentos e apresentar recursos administrativos.\nInformações e orientações também podem ser obtidas pela Central de Atendimento Alô Trabalho, pelo telefone 158. O próprio pescador pode fazer o requerimento e acompanhar o andamento do benefício pelos canais oficiais.\nSeguro defeso, seguro-defeso\nDivulgação/Ministério da Pesca e Aquicultura",
-    "published": "2026-10-09T13:31:07+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O Conselho Deliberativo do Fundo de Amparo ao Trabalhador (Codefat) decidiu ampliar o prazo para que pescadores artesanais solicitem o Seguro-Defeso. \nCom a mudança, os requerimentos poderão ser apresentados entre 30 dias antes e 90 dias após o início do período de defeso.\n🔎 O pe",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Fitch corta nota de crédito nacional da Hapvida e altera perspectiva para negativa",
-    "link": "https://valor.globo.com/empresas/noticia/2026/10/09/fitch-corta-nota-de-crdito-nacional-da-hapvida-e-altera-perspectiva-para-negativa.ghtml",
-    "description": "A Fitch Ratings cortou a nota de crédito nacional da Hapvida de “AA+(bra)” para “A(bra)” e alterou a perspectiva da classificação de estável para negativa.\nOs analistas Tatiana Thomaz, Natália Brandão e André Correa escrevem que o rebaixamento reflete a deterioração persistente dos perfis operacional e financeiro da Hapvida.\nO cenário da companhia é marcado pela queima recorrente de liquidez, perda líquida de clientes, elevação dos custos com litígios judiciais e sinistralidade ainda em níveis desconfortáveis.\nA agência destaca que a frustração na captura de sinergias operacionais e as complexidades remanescentes na integração de fusões e aquisições passadas travaram os ganhos de eficiência previstos, adiando a recomposição das margens operacionais.\nO aperto no perfil de negócios da operadora intensificou-se pelo ambiente de maior concorrência, sobretudo no Sudeste, pela incidência de multas regulatórias e por descompassos entre a precificação dos planos e a base de custos assistenciais.\nOs analistas estimam que o fluxo de caixa das operações permanecerá negativo nos próximos dois exercícios, projetando um déficit de R$ 280 milhões em 2026 e de R$ 45 milhões em 2027.\nO consumo continuado de recursos deve postergar a desalavancagem, projetando uma alavancagem entre 3,5 e 4,0 vezes até o fim de 2027, com o alerta que a margem de manobra da Hapvida para cumprir obrigações tende a se esgotar com rapidez caso o fluxo operacional não reaja.\n\n\nDivulgação/Hapvida",
-    "published": "2026-10-09T13:27:46+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "A Fitch Ratings cortou a nota de crédito nacional da Hapvida de “AA+(bra)” para “A(bra)” e alterou a perspectiva da classificação de estável para negativa.\nOs analistas Tatiana Thomaz, Natália Brandão e André Correa escrevem que o rebaixamento reflete a deterioração persistente d",
     "relevance": 5
   }
 ]
