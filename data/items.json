@@ -1,5 +1,17 @@
 [
   {
+    "source": "InfoMoney",
+    "title": "Flávio diz que enfrenta ‘inimigos mentirosos’ e Brasil passa por ‘guerra espiritual’",
+    "link": "https://www.infomoney.com.br/politica/flavio-diz-que-enfrenta-inimigos-mentirosos-e-brasil-passa-por-guerra-espiritual/",
+    "description": "Candidato à Presidência deu declarações durante a celebração dos 100 anos da Assembleia de Deus do Ministério de Madureira, no Maracanãzinho\nThe post Flávio diz que enfrenta &#8216;inimigos mentirosos&#8217; e Brasil passa por &#8216;guerra espiritual&#8217; appeared first on InfoMoney.",
+    "published": "2026-10-10T23:03:06+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Candidato à Presidência deu declarações durante a celebração dos 100 anos da Assembleia de Deus do Ministério de Madureira, no Maracanãzinho\nThe post Flávio diz que enfrenta &#8216;inimigos mentirosos&#8217; e Brasil passa por &#8216;guerra espiritual&#8217; appeared first on Inf",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Eleito governador do Rio, Douglas Ruas diz que segurança pública será prioridade",
     "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/10/eleito-governador-do-rio-douglas-ruas-diz-que-seguranca-publica-sera-prioridade.ghtml",
@@ -126,7 +138,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O CEO da Microsoft, Satya Nadella, afirmou que as empresas devem tratar modelos poderosos de inteligência artificial como possíveis ameaças internas, presumir que eles podem ser comprometidos e criar um sistema de “freio de emergência” para impedir que modelos autônomos de IA sai",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/empresas/noticia/2026/10/10/ceo-da-microsoft-pede-freio-de-emergencia-na-ia-avancada.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3925,19 +3943,6 @@
       "Politica"
     ],
     "summary": "O bitcoin opera com leve alta nesta sexta-feira (9), próximo dos US$ 82,5 mil, após a volatilidade dos últimos dias. O petróleo recua depois dos ganhos da véspera, com a redução dos riscos no Oriente Médio após o presidente dos Estados Unidos, Donald Trump, afirmar que o país não",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Estrangeiros retiram R$ 627,9 milhões em ações da B3 em 7 de outubro",
-    "link": "https://valor.globo.com/financas/noticia/2026/10/09/estrangeiros-retiram-r-6279-milhes-em-aes-da-b3-em-7-de-outubro.ghtml",
-    "description": "Os investidores estrangeiros retiraram R$ 627,9 milhões em recursos do segmento secundário da B3 (ações já listadas) em 7 de outubro. Na sessão, o Ibovespa caiu 0,74%, em uma ligeira correção após o rali de 8% do dia anterior. A categoria registra superávit de R$ 13 bilhões no mês, enquanto o saldo do ano permanece positivo em R$ 40,4 bilhões. \nO investidor institucional, por sua vez, aportou R$ 676,2 milhões no mesmo dia. No mês, a categoria acumula déficit de R$ 4 bilhões e, no ano, saldo negativo de R$ 39,4 bilhões. \nJá o investidor individual injetou R$ 155,1 milhões na mesma data. Mesmo assim, o saldo desse perfil de investidor está negativo em R$ 6,2 bilhões no mês. No ano, a categoria acumula saldo negativo de R$ 465,6 milhões. \nAs informações foram divulgadas pela B3.\n\nPatricia Monteiro/Bloomberg",
-    "published": "2026-10-09T14:06:11+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Os investidores estrangeiros retiraram R$ 627,9 milhões em recursos do segmento secundário da B3 (ações já listadas) em 7 de outubro. Na sessão, o Ibovespa caiu 0,74%, em uma ligeira correção após o rali de 8% do dia anterior. A categoria registra superávit de R$ 13 bilhões no mê",
     "relevance": 5
   }
 ]
