@@ -107,7 +107,13 @@
       "Politica"
     ],
     "summary": "O senador Flávio Bolsonaro (PL-RJ), candidato à Presidência, apresentou uma notícia-crime à Justiça Eleitoral neste domingo contra o diretor-geral da Polícia Federal, Andrei Rodrigues, sob a acusação de usar a estrutura da corporação para beneficiar eleitoralmente o PT. A represe",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/11/campanha-de-flavio-bolsonaro-pede-investigacao-de-diretor-da-pf-por-entrevista-no-primeiro-turno.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
