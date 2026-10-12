@@ -1,6 +1,30 @@
 [
   {
     "source": "Poder360",
+    "title": "Ato de Lula em São Paulo ocupou 7 quarteirões da av. Paulista",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/ato-de-lula-em-sao-paulo-ocupou-7-quarteiroes-da-av-paulista/",
+    "description": "Planalto não permitiu uso de drone pelo \"Poder360\" para fazer fotos em alta resolução e contagem precisa dos presentes; trecho ocupado da r. Haddock Lobo até a al. Joaquim Eugênio de Lima pode abrigar público de 261 mil com 4 pessoas por metro quadrado",
+    "published": "2026-10-12T00:53:59+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Planalto não permitiu uso de drone pelo \"Poder360\" para fazer fotos em alta resolução e contagem precisa dos presentes; trecho ocupado da r. Haddock Lobo até a al. Joaquim Eugênio de Lima pode abrigar público de 261 mil com 4 pessoas por metro quadrado",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Flávio e Nikolas convocam atos para a reta final em ao menos 14 cidades",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-e-nikolas-convocam-atos-para-a-reta-final-em-ao-menos-14-cidades/",
+    "description": "Há um cronograma definido para ações de campanha de 15 a 24 de outubro, véspera do 2º turno",
+    "published": "2026-10-12T00:51:17+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Há um cronograma definido para ações de campanha de 15 a 24 de outubro, véspera do 2º turno",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
     "title": "Mendonça manda CUT apagar 5 posts críticos a Flávio",
     "link": "https://www.poder360.com.br/poder-eleicoes-2026/mendonca-manda-cut-apagar-5-posts-criticos-a-flavio/",
     "description": "Ministro vê indícios de propaganda irregular em perfil sindical; decisão não impede novas publicações",
@@ -3819,36 +3843,6 @@
       "Politica"
     ],
     "summary": "Após um impasse duradouro, o Vasco conseguiu seu objetivo e terá o Maracanã como o estádio para o duelo com o Boca Juniors pela semifinal da Copa Sul-Americana, no dia 20 de outubro. O clube recebeu o aval da Justiça do Rio nesta sexta-feira, depois de ter pedido negado outras du",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Datafolha: 43% esperam que vida fique igual se Lula ganhar; eleitorado se divide sobre eventual governo de Flávio Bolsonaro",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/09/datafolha-perguntas-carona-9-outubro.ghtml",
-    "description": "Flávio Bolsonaro (PL) e Lula (PT), que disputam o segundo turno presidencial no dia 25 de outubro.\nWilton Junior/Estadão Conteúdo e Diego Herculano/Reuters\nPesquisa Datafolha divulgada nesta sexta-feira (9) mostra que 43% dos eleitores brasileiros esperam que vida fique igual se Lula (PT) ganhar o 2º turno da eleição presidencial. O eleitorado se divide quanto ao cenário em que Flávio Bolsonaro (PL) seja eleito: 36% acham que a vida vai melhorar, e 35%, que a vida vai piorar.\nVeja os números:\nSe Lula for eleito presidente, a sua vida ficará:\nMelhor: 25%\nIgual: 43%\nPior: 30%\nNão sabe: 2%\nSe Flávio Bolsonaro for eleito presidente, a sua vida ficará:\nMelhor: 36%\nIgual: 35%\nPior: 22%\nNão sabe: 6%\nA pesquisa foi contratada pela TV Globo e pelo jornal Folha de S.Paulo e ouviu 2.520 pessoas com 16 anos ou mais nos dias 6 e 7 de outubro. A margem de erro é de 2 pontos para mais ou para menos e foi registrada sob código BR-02949/2026 no TSE.\nO levantamento também questionou os eleitores sobre participação em debates: 78% consideram que é muito importante a ida de Flávio e Lula aos encontros, 11% avaliam ser um pouco importante e 10%, nada importante. Outros 2% não souberam responder.\nAs respostas são parecidas entre posicionamentos políticos distintos. A maioria de eleitores de Flávio e de Lula considera muito importante a participação dos candidatos nos debates. \nEleitores de Flávio Bolsonaro (PL):\nMuito importante: 80%\nUm pouco importante: 10%\nNada importante: 10%\nNão sabe responder: 1%\nEleitores de Lula (PT):\nMuito importante: 77%\nUm pouco importante: 12%\nNada importante: 8%\nNão sabe: 3%\n(Esta reportagem está em atualização.)",
-    "published": "2026-10-09T22:13:57+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Flávio Bolsonaro (PL) e Lula (PT), que disputam o segundo turno presidencial no dia 25 de outubro.\nWilton Junior/Estadão Conteúdo e Diego Herculano/Reuters\nPesquisa Datafolha divulgada nesta sexta-feira (9) mostra que 43% dos eleitores brasileiros esperam que vida fique igual se ",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/blogs/pulso/post/2026/10/datafolha-eleitorado-se-divide-se-vida-ficaria-melhor-ou-pior-com-flavio-e-43percent-projetam-vida-igual-em-eventual-lula-4.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Fundos da BRL Trust vendem fatia de 12,5% e deixam base acionária da Allied",
-    "link": "https://valor.globo.com/empresas/noticia/2026/10/09/fundos-da-brl-trust-vendem-fatia-de-125-pontos-percentuais-e-deixam-base-acionria-da-allied.ghtml",
-    "description": "A Allied informou ao mercado que os fundos Brasil Investimentos 2015 I FIP Multiestratégia e Brasil Investimentos 2015 II FIP Multiestratégia, administrados pela BRL Trust Investimentos, alienaram a totalidade de sua participação na companhia. Juntos, os fundos detinham 12 milhões de ações ordinárias, equivalentes a 12,5% do capital social da varejista de tecnologia.\n\nSegundo comunicado divulgado pela empresa, a venda foi realizada no mercado secundário, por meio de operações em bolsa de valores. Com a transação, os fundos passaram a não possuir mais qualquer participação acionária na Allied.\n\nOs investidores informaram ainda que a operação não tem como objetivo promover alterações na estrutura administrativa da companhia nem está relacionada a movimentos de mudança de controle. As ações negociadas também não estavam vinculadas a acordos de acionistas.\n\nAllied\nReprodução",
-    "published": "2026-10-09T22:00:02+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A Allied informou ao mercado que os fundos Brasil Investimentos 2015 I FIP Multiestratégia e Brasil Investimentos 2015 II FIP Multiestratégia, administrados pela BRL Trust Investimentos, alienaram a totalidade de sua participação na companhia. Juntos, os fundos detinham 12 milhõe",
     "relevance": 5
   }
 ]
