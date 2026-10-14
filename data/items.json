@@ -1,5 +1,17 @@
 [
   {
+    "source": "CNBC",
+    "title": "Bank of America posts third-quarter profit drop due to $1.2 billion Treasury fine; shares decline",
+    "link": "https://www.cnbc.com/2026/10/14/bank-of-america-bac-q3-2026-earnings.html",
+    "description": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday.",
+    "published": "2026-10-14T11:28:19+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "The U.S. Treasury Department announced a $1.2 billion penalty against Bank of America on Tuesday.",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "FMI pede ajuste fiscal imediato e alerta que mercados podem forçar governos a agir",
     "link": "https://www.infomoney.com.br/mercados/fmi-pede-ajuste-fiscal-imediato-e-alerta-que-mercados-podem-forcar-governos-a-agir/",
@@ -22,6 +34,18 @@
       "Mercado Financeiro"
     ],
     "summary": "O apelo por ​mais ações para reduzir a dívida foi reiterado no relatório “Fiscal Monitor” do FMI, divulgado nesta quarta-feira\nThe post FMI pede redução do déficit nos EUA e que China diminua dependência das exportações appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "MPF pede prisão de PM acusado de matar estudante de medicina em SP",
+    "link": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/10/14/mpf-pede-prisao-de-pm-acusado-de-matar-estudante-de-medicina-em-sp.ghtml",
+    "description": "O Ministério Público Federal (MPF), por meio da Procuradoria-Geral da República (PGR), pediu ao Superior Tribunal de Justiça (STJ) que decrete a prisão preventiva do policial militar Guilherme Augusto Macedo, acusado de matar o estudante de medicina Marco Aurélio Cárdenas Acosta, de 22 anos. O pedido consta em parecer assinado pelo subprocurador-geral da República José Elaeres Marques Teixeira.\nO caso: Imagens inéditas mostram estudante de medicina morto pela PM agonizando antes de receber socorro\n A vítima: Estudante de Medicina morto por PM em SP era MC e compôs música sobre amigo assassinado a tiros pela polícia\nNo documento, o MPF sustenta que a gravidade concreta do crime e a forma como o disparo foi efetuado justificam a prisão. Segundo o parecer, o policial perseguiu o jovem após um desentendimento envolvendo o retrovisor de uma viatura, alcançou a vítima em um hotel e atirou à queima-roupa contra seu abdômen. O estudante estava desarmado e, segundo o Ministério Público, não representava risco concreto aos agentes.\nO MPF pede que o STJ reconheça a necessidade da prisão preventiva e considere insuficientes as medidas cautelares aplicadas anteriormente. A decisão caberá aos ministros da Quinta Turma do tribunal.\nSegundo a família, a prisão preventiva do policial já havia sido negada três vezes pela Justiça de São Paulo. Macedo responde ao processo e será submetido a júri popular.\nMarco Aurélio era estudante de medicina da Universidade Anhembi Morumbi. Conhecido pelo apelido de “Bilau”, ele também se apresentava nas redes sociais como mestre de cerimônia e compositor, sob o nome artístico MC Boy da VM.\nO jovem foi baleado durante uma abordagem policial dentro de um hotel na Vila Mariana, na Zona Sul de São Paulo, em novembro de 2024. No boletim de ocorrência, os policiais afirmaram que Marco Aurélio estava “bastante alterado, agressivo, e resistiu à abordagem policial, entrando em vias de fato com a equipe policial e, em determinado momento, tentou subtrair a arma de fogo” de um dos agentes.\nO registro policial também informa que os PMs não usavam câmeras corporais. Essa informação, porém, estava equivocada.\nImagens de uma câmera de segurança do hotel mostram que o primeiro policial chegou ao local com a arma em punho e tentou agarrar o estudante pelo braço. Marco Aurélio lutou para se desvencilhar. Quando o segundo agente chegou, deu um chute no jovem, que conseguiu segurar o pé do policial e provocou sua queda. Nesse momento, o primeiro PM disparou contra o estudante, atingindo a região do abdômen.\nMarco Aurélio foi socorrido e levado ao Hospital Ipiranga, onde passou por uma cirurgia, mas não resistiu ao ferimento.\nEm homenagem, Marco Aurélio recebeu postumamente sua carteira profissional de médico em uma cerimônia conduzida pelo presidente do Conselho Regional de Medicina do Estado de São Paulo (Cremesp). A homenagem reconheceu simbolicamente a trajetória do estudante, que morreu antes de concluir sua formação profissional.",
+    "published": "2026-10-14T11:06:18+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O Ministério Público Federal (MPF), por meio da Procuradoria-Geral da República (PGR), pediu ao Superior Tribunal de Justiça (STJ) que decrete a prisão preventiva do policial militar Guilherme Augusto Macedo, acusado de matar o estudante de medicina Marco Aurélio Cárdenas Acosta,",
     "relevance": 5
   },
   {
@@ -1510,6 +1534,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/brasil/noticia/2026/10/14/pec-da-seguranca-deve-ser-votada-por-comissao-do-senado-mas-analise-no-plenario-e-incerta.ghtml"
+      },
+      {
+        "source": "G1 - Economia",
+        "link": "https://g1.globo.com/politica/noticia/2026/10/14/senado-deve-votar-nesta-quarta-pec-que-acaba-com-a-escala-6x1.ghtml"
       }
     ]
   },
@@ -1559,7 +1587,13 @@
       "Politica"
     ],
     "summary": "O Senado vota nesta quarta-feira a proposta de emenda à Constituição (PEC) que acaba com a escala de trabalho 6x1, em meio a uma disputa entre governo e oposição sobre o calendário de análise da medida. \nGovernistas querem concluir os dois turnos ainda nesta quarta-feira, para pe",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/10/14/flavio-bolsonaro-passa-a-apoiar-pec-da-escala-6x1-senado-vota-texto-nesta-quarta.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -1609,6 +1643,18 @@
       "Mercado Financeiro"
     ],
     "summary": "Uma pessoa morreu e várias ficaram feridas em um incidente envolvendo uma montanha-russa do parque Six Flags Over Georgia, nos Estados Unidos, na segunda-feira (12). O caso levou a rede Six Flags a suspender temporariamente nove atrações semelhantes em seis parques, por precaução",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Economia",
+    "title": "Fim da escala 6x1 passa por votação no Senado; veja o que acontece se proposta for aprovada ou rejeitada",
+    "link": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/10/14/fim-da-escala-6x1-votacao-senado.ghtml",
+    "description": "Senado faz última sessão para discutir PEC da 6x1\nA Proposta de Emenda à Constituição (PEC) que prevê o fim da escala 6x1 enfrenta nesta quarta-feira (14) uma das votações mais importantes de sua tramitação no Congresso Nacional.\nApós ser aprovada em dois turnos pela Câmara dos Deputados e receber parecer favorável da Comissão de Constituição e Justiça (CCJ) do Senado, a proposta será submetida à votação no plenário da Casa.\n➡️ O resultado poderá colocar o texto a poucos passos de uma mudança na Constituição Federal ou interromper completamente seu avanço no Legislativo. Para continuar tramitando, a PEC precisará receber pelo menos 49 votos favoráveis entre os 81 senadores.\nA votação tem mobilizado parlamentares, trabalhadores e representantes do setor produtivo porque poderá definir os rumos de uma proposta que altera a jornada máxima de trabalho prevista na Constituição Federal, reduzindo o limite semanal de 44 para 40 horas e garantindo dois dias de descanso remunerado por semana sem redução salarial.\nMas, afinal, uma eventual rejeição significa o fim definitivo da proposta? Ela poderia voltar ao Congresso no futuro? E, se for aprovada, quanto ainda falta para que as novas regras entrem em vigor?\nA seguir, veja o que está em jogo na votação desta quarta-feira.\nO que será votado nesta quarta-feira?\nO que acontece se a PEC for rejeitada?\nE se a PEC for aprovada?\nO texto ainda pode sofrer alterações?\nA votação final pode ocorrer ainda em outubro?\nO que prevê a PEC do fim da escala 6x1?\nAs mudanças passariam a valer imediatamente?\n'Depois da pressão da sociedade, o PL resolveu votar o fim da 6x1', diz Lula\nO que será votado nesta quarta-feira?\nOs senadores devem realizar a quinta e última sessão de discussão da proposta prevista no regimento interno e, antes da análise da PEC, votar um requerimento de calendário especial que pode acelerar sua tramitação.\nO pedido, apresentado pela líder do governo no Senado, Teresa Leitão (PT-PE), recebeu as 54 assinaturas necessárias para ser analisado pelo plenário. Se for aprovado, permitirá que a proposta seja votada em primeiro e segundo turnos no mesmo dia, reduzindo etapas regimentais normalmente exigidas entre as duas votações.\nPor se tratar de uma PEC, o texto precisa do apoio de três quintos dos integrantes da Casa para ser aprovado. No Senado, isso corresponde a pelo menos 49 votos favoráveis.\nA votação desta quarta poderá ser decisiva para o futuro da proposta. Caso o calendário especial seja aprovado e a PEC alcance os votos necessários nos dois turnos, o Senado poderá concluir sua análise ainda nesta semana.\nA discussão ocorre após semanas de negociações envolvendo governo, oposição e representantes de diferentes setores econômicos.\nVolte ao índice.\nO que acontece se a PEC for rejeitada?\nA votação desta quarta-feira vai definir se a PEC continuará avançando ou se terá a tramitação encerrada ainda em 2026.\nSegundo o professor de Direito Constitucional da USP Rubens Beçak, uma PEC precisa ser aprovada em dois turnos, por maioria qualificada, na Câmara e no Senado. Se for rejeitada em qualquer uma dessas etapas, a proposta é arquivada.\n\"Havendo uma rejeição em qualquer dos turnos agora no Senado, a proposta é arquivada nesta legislatura.\"\n📎 Isso não significa, porém, que o fim da escala 6x1 deixaria de ser discutido. A rejeição encerraria a tramitação da PEC atual, mas uma nova proposta poderia ser apresentada em legislaturas posteriores. Também seria possível tentar mudanças na jornada de trabalho por outros instrumentos legislativos, afirma Beçak.\n\"Às vezes avança-se por um caminho que não dá certo. Daí se procura regulamentar por outro.\"\nO professor ressalta que, no momento, não há uma proposta concreta em tramitação por esse caminho.\nVolte ao índice.\nE se a PEC for aprovada?\nSe a proposta obtiver os votos necessários, ela continuará avançando normalmente no Senado.\n⚠️ A aprovação em primeiro turno não altera imediatamente a Constituição nem muda as regras da jornada de trabalho.\nNa prática, ela apenas permite que o texto avance para a reta final do processo legislativo.\nDepois dessa etapa, ainda será necessária a aprovação em segundo turno, novamente com pelo menos 49 votos favoráveis.\nO requerimento de calendário especial apresentado por líderes partidários pode reduzir o intervalo normalmente exigido entre as duas votações.\nSe esse pedido for aprovado pelo plenário, os senadores poderão realizar o segundo turno ainda nesta quarta-feira, concluindo a análise da proposta no Senado.\nVolte ao índice.\nO texto ainda pode sofrer alterações?\nSim. Apesar de o relator da matéria, senador Omar Aziz (PSD-AM), ter rejeitado as 36 emendas apresentadas até o momento, novas sugestões de alteração ainda podem ser apresentadas durante a tramitação em plenário.\nCaso alguma mudança seja aprovada, a PEC deixará de ter a mesma redação que passou pela Câmara.\nNessa hipótese, o texto precisará retornar aos deputados federais para uma nova análise antes da promulgação, o que poderá prolongar o processo legislativo.\nVolte ao índice.\nA votação final pode ocorrer ainda em outubro?\nA depender da aprovação do calendário especial, a votação final poderá ocorrer já nesta quarta-feira.\nPelas regras normais do Senado, a PEC precisa aguardar um intervalo entre os dois turnos de votação, além de novas sessões de discussão em plenário.\n➡️ Parlamentares favoráveis à proposta, porém, conseguiram as assinaturas necessárias para apresentar um requerimento que permite abreviar esse rito. O presidente do Senado, Davi Alcolumbre (União-AP), informou que o pedido deverá ser analisado antes da votação da PEC.\nSe o calendário especial for aprovado e a proposta alcançar os 49 votos necessários nos dois turnos, o Senado encerrará a tramitação da matéria ainda nesta semana.\nNesse cenário, caso o texto seja aprovado sem alterações em relação à versão enviada pela Câmara dos Deputados, a proposta seguirá diretamente para promulgação, sem necessidade de nova análise dos deputados.\nA expectativa de parlamentares favoráveis à medida é que a emenda constitucional seja promulgada até o dia 22 de outubro.\nDiferentemente dos projetos de lei, as propostas de emenda à Constituição não dependem de sanção ou veto do presidente da República.\n\"Terminando o fluxo, ela é promulgada. Não é o caso de lei que depende de sanção presidencial\", pontua Beçak.\nVolte ao índice.\nO que prevê a PEC do fim da escala 6x1?\nA PEC 221/2019 altera o artigo 7º da Constituição Federal para reduzir a jornada máxima semanal de trabalho no Brasil.\nHoje, o limite constitucional é de 44 horas semanais. O texto aprovado pela Câmara reduz esse teto para 40 horas, sem permitir redução salarial.\nA proposta também garante dois dias de descanso remunerado por semana e determina preferência para que um deles seja concedido aos domingos.\nNa prática, a mudança elimina a possibilidade de adoção da escala 6x1 como modelo regular de jornada.\nO texto mantém o limite máximo de oito horas de trabalho por dia e preserva os pisos salariais das categorias.\nVolte ao índice.\nAs mudanças passariam a valer imediatamente?\nNão. A PEC prevê uma implementação gradual para permitir a adaptação de empresas e trabalhadores.\nPrimeira etapa:\nIniciada 60 dias após a promulgação da emenda:\nredução da jornada máxima de 44 para 42 horas semanais;\ngarantia de dois dias de descanso remunerado por semana.\nSegunda etapa:\nIniciada 12 meses após a primeira fase:\nredução definitiva da jornada máxima para 40 horas semanais.\nNa prática, a implementação completa ocorreria cerca de 14 meses após a promulgação da emenda constitucional.\nA medida alcançaria a maior parte dos trabalhadores contratados pelo regime da Consolidação das Leis do Trabalho (CLT).\nO texto, porém, prevê exceções e regras específicas.\nAtividades contínuas e consideradas essenciais, como saúde, segurança, transporte e limpeza urbana, poderão manter escalas diferenciadas por meio de acordos e convenções coletivas.\nA proposta também estabelece tratamento diferenciado para trabalhadores com diploma de ensino superior que recebam remuneração superior a 2,5 vezes o teto do INSS, atualmente em torno de R$ 21 mil mensais.\nAlém disso, determina que uma futura lei complementar estabeleça regras específicas para microempreendedores individuais (MEIs), microempresas e empresas de pequeno porte.\nVolte ao índice.\nSessão de Debates - Fim da escala 6x1 no Brasil.\nEdilson Rodrigues/Agência Senado",
+    "published": "2026-10-14T03:00:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Senado faz última sessão para discutir PEC da 6x1\nA Proposta de Emenda à Constituição (PEC) que prevê o fim da escala 6x1 enfrenta nesta quarta-feira (14) uma das votações mais importantes de sua tramitação no Congresso Nacional.\nApós ser aprovada em dois turnos pela Câmara dos D",
     "relevance": 5
   },
   {
@@ -2198,6 +2244,18 @@
       "Mercado Financeiro"
     ],
     "summary": "Canal 'Exército do Lula' no WhatsApp: veja a cronologia da disputa no TSE\nO presidente do Tribunal Superior Eleitoral (TSE), Nunes Marques, recebeu nesta terça-feira (13) representantes das campanhas do presidente Lula (PT) e de Flávio Bolsonaro (PL) para tentar reduzir o número ",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "PEC da escala 6x1 tem 4ª sessão de discussão encerrada; Senado pode acelerar votação",
+    "link": "https://g1.globo.com/trabalho-e-carreira/ao-vivo/senado-pec-fim-escalada-6x1.ghtml",
+    "description": "PEC da escala 6x1 tem 4ª sessão de discussão encerrada; Senado pode acelerar votação A votação em primeiro turno está prevista para quarta (14), quando o governo também tenta viabilizar a análise dos dois turnos. O plenário do Senado iniciou na terça-feira (6) a discussão sobre a PEC do fim da escala 6x1. A proposta já passou pela Câmara.. Após o 1º turno das eleições, Alcolumbre resolveu manter o calendário de discussão.. Para ser aprovada, uma PEC precisa ter ao menos três quintos dos votos favoráveis em duas votações. Ou seja, precisa contar com o apoio de ao menos 49 senadores.",
+    "published": "2026-10-13T21:33:31+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "PEC da escala 6x1 tem 4ª sessão de discussão encerrada; Senado pode acelerar votação A votação em primeiro turno está prevista para quarta (14), quando o governo também tenta viabilizar a análise dos dois turnos. O plenário do Senado iniciou na terça-feira (6) a discussão sobre a",
     "relevance": 5
   },
   {
@@ -3802,55 +3860,6 @@
       "Politica"
     ],
     "summary": "A maioria dos americanos considera que Donald Trump está extraindo lucros de sua presidência, de forma ilegal ou ao menos sem ética, focado mais na riqueza pessoal do que em ajudar o cidadão comum, de acordo com  nova pesquisa AP-NORC, divulgada nesta terça-feira pela Associated ",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Eleições 2026: como consultar meu local de votação para o segundo turno?",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/13/eleicoes-2026-como-consultar-meu-local-de-votacao-para-o-segundo-turno.ghtml",
-    "description": "Urna eletrônica exibida em evento do Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ), no Rio\nTânia Rêgo/Agência Brasil\nQuem vai votar no segundo turno das eleições de 2026 pode consultar o local de votação pela internet. A consulta é gratuita e pode ser feita pelos canais oficiais da Justiça Eleitoral, sem necessidade de comparecer ao cartório eleitoral.\nOs dados estão disponíveis no Autoatendimento Eleitoral (Título Net) e no aplicativo e-Título (disponível na App Store e na Google Play).\nComo consultar o local de votação\nPelo sistema, o eleitor pode descobrir onde vai votar nas eleições de 2026. Na opção \"Onde votar\", basta preencher os dados solicitados para visualizar:\nzona eleitoral;\nseção eleitoral;\nnome do local de votação;\nendereço completo da seção.\nNo site do TSE, é possível encontrar o local de votação.\nReprodução\nComo descobrir o número do título de eleitor\nQuem esqueceu o número do título pode recuperá-lo pelo Autoatendimento Eleitoral, serviço disponível no portal da Justiça Eleitoral.\nPrint da página do Autoatendimanto Eleitoral.\nReprodução\nBasta acessar a área de consultas e selecionar a opção para ver o número do título eleitoral (como assinalado na imagem).\nDepois, informe os dados solicitados, como CPF, nome completo, data de nascimento e, em alguns casos, o nome da mãe.\nApós a validação, o sistema informa:\nnúmero do título de eleitor;\nsituação da inscrição eleitoral;\nmunicípio de votação.\nAo acessar a opção \"Onde votar\", o aplicativo também mostra o endereço completo do local de votação e outras informações da seção, quando disponíveis.\nA consulta ao número do título, à zona, à seção e ao local de votação continua disponível até o dia da eleição. No entanto, a recomendação da Justiça Eleitoral é verificar essas informações com antecedência para evitar dúvidas no dia da votação.",
-    "published": "2026-10-13T17:00:44+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Urna eletrônica exibida em evento do Tribunal Regional Eleitoral do Rio de Janeiro (TRE-RJ), no Rio\nTânia Rêgo/Agência Brasil\nQuem vai votar no segundo turno das eleições de 2026 pode consultar o local de votação pela internet. A consulta é gratuita e pode ser feita pelos canais ",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Rali ainda tem fôlego? BBI vê até 40% de potencial para Bolsa e nova onda de fluxo",
-    "link": "https://www.infomoney.com.br/mercados/rali-ainda-tem-folego-bbi-ve-ate-40-de-potencial-para-bolsa-e-nova-onda-de-fluxo/",
-    "description": "Banco vê combinação de juros menores, menor risco fiscal e revisões de lucro impulsionando ações\nThe post Rali ainda tem fôlego? BBI vê até 40% de potencial para Bolsa e nova onda de fluxo appeared first on InfoMoney.",
-    "published": "2026-10-13T17:00:00+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Banco vê combinação de juros menores, menor risco fiscal e revisões de lucro impulsionando ações\nThe post Rali ainda tem fôlego? BBI vê até 40% de potencial para Bolsa e nova onda de fluxo appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Análise: Por que Trump está atacando Zelensky?",
-    "link": "https://valor.globo.com/mundo/noticia/2026/10/13/analise-por-que-trump-esta-atacando-zelensky.ghtml",
-    "description": "“Quero agradecer ao presidente Putin, para ser sincero com vocês”, disse Donald Trump no último fim de semana. Deveria ter sido o contrário. Trump concordou em pagar bilhões de dólares a Vladimir Putin pelo diesel russo, o que terá um efeito insignificante sobre os preços nos Estados Unidos. Essa assimetria também é conhecida como receber algo sem dar nada em troca. O “nada” de Trump é que dificilmente o custo do diesel cairá antes das eleições de meio de mandato nos Estados Unidos. O “algo” de Putin é uma brecha nas sanções americanas e mais dinheiro para bombardear a Ucrânia.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-10-13T17:00:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "“Quero agradecer ao presidente Putin, para ser sincero com vocês”, disse Donald Trump no último fim de semana. Deveria ter sido o contrário. Trump concordou em pagar bilhões de dólares a Vladimir Putin pelo diesel russo, o que terá um efeito insignificante sobre os preços nos Est",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Treta política impediu Netinho, que morreu nesta terça-feira (13), de cantar 'Milla', seu maior sucesso",
-    "link": "https://oglobo.globo.com/cultura/noticia/2026/10/13/treta-politica-impediu-netinho-que-morreu-nesta-terca-feira-13-de-cantar-milla-seu-maior-sucesso.ghtml",
-    "description": "O cantor Netinho, que morreu nesta terça-feira (13), aos 60 anos, após enfrentar um linfoma não Hodgkin, foi impedido de cantar \"Milla\", seu maior sucesso. O motivo? Uma treta política. \n'Milla': conheça a história de amor que inspirou o maior sucesso de Netinho\nTudo começou quando o cantor, um dos principais nomes do axé music, declarou apoio ao então presidente da República, Jair Bolsonaro. Era março de 2019, e a cantora Daniela Mercury havia dado início a uma discussão com o chefe do Executivo, que citara a Lei Rouanet. Netinho saiu em defesa de Bolsonaro postando uma foto ao lado do político e a seguinte legenda:\n“Eu nunca usei Lei Rouanet, nem quero. Ele sim me recebeu respeitosamente e não fui lá pedir nada, reclamar nada. Fui lá apenas para dizer a ele que se recuperaria da facada que recebeu”.\nDiante da publicação de Netinho e da alfinetada em Daniela, Manno Góes, compositor da música e dono de posição política oposta a do cantor, fez um textão no Facebook colocando fim à amizade dos dois e proibindo Netinho de regravar suas músicas.\nLuto: Claudia Leitte e outros artistas lamentam perda nas redes sociais; veja repercussão\nMorre Netinho: Cantor se declarou bissexual em 2008 e causou polêmica ao fazer críticas à comunidade LGBTQIAPN+\n“A Milla da música é amor! É liberdade! É diversidade! Jamais seria tortura, homofobia, xenofobia, preconceito. Jamais seria ligada à milícia ou laranjas”, disse à época. “A música Milla tem que estar conectada ao lúdico, alegre, divertido, adolescente, amoroso… Jamais a essas pessoas horríveis que admiram Bolsonaro e criticam colegas de trabalho por pura maldade, inveja ou burrice […] Milla jamais seria composta por um admirador de Bolsonaro”, emendou.\nO compositor ressaltou que seu desgosto não tinha a ver com o fato de Netinho ter votado em Bolsonaro, mas sim em quem o músico teria se transformado.\n\"Um rapaz que rebate sua colega de profissão, Daniela, com memes e ironias, por ela querer defender o diálogo. Um rapaz que virou um constrangimento. Um outdoor de vergonha e retrocesso medieval. Esse rapaz de hoje jamais faria sucesso com Milla”, disparou.\nNo texto, Góes deixava claro ainda que não queria ver mais Netinho cantando suas músicas novamente. “A Milla da música não tem nada a ver com o personagem constrangedor que Netinho virou. Que nunca mais vai gravar Milla, ou Pra Te Ter Aqui, ou qualquer coisa que eu compuser […] Naufrague com sua maldade, Netinho. Se achasse que você só está ainda doente, não te escreveria isso. Você está são e completamente conectado com esse governo inacreditavelmente perverso. Não me chame de amigo. Não sou seu amigo. Não quero mais ser seu amigo. Você não merece Milla. Bicha burra”, concluiu.\nApós a divergência e desentendimento nas redes, Netinho entrou com um processo contra Manno Góes, mas perdeu. O juiz do caso absolveu o compositor na queixa-crime movida pelo artista. Entendeu que confusão entre os dois era produto da polarização que há anos tem marcado cenário político-partidário nacional. \nJair Bolsonaro e Netinho\nReprodução\nEm 2023, Netinho fez uma série de posts apoiando os ataques golpistas que aconteceram em Brasília em 8 de janeiro. Depois, os posts foram deletados da rede social do cantor.",
-    "published": "2026-10-13T16:57:13+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O cantor Netinho, que morreu nesta terça-feira (13), aos 60 anos, após enfrentar um linfoma não Hodgkin, foi impedido de cantar \"Milla\", seu maior sucesso. O motivo? Uma treta política. \n'Milla': conheça a história de amor que inspirou o maior sucesso de Netinho\nTudo começou quan",
     "relevance": 5
   }
 ]
