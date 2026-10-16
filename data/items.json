@@ -1,5 +1,30 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Justiça determina que empresa de bet informe saldos de apostadores para resgate",
+    "link": "https://valor.globo.com/brasil/noticia/2026/10/16/justia-determina-que-empresa-de-bet-informe-saldos-de-apostadores-para-resgate.ghtml",
+    "description": "A Justiça Federal determinou nesta sexta-feira (16) que a Select Operations Ltda., responsável pelas marcas de apostas on-line MMA, BETVIP e PAPIGAMES, informe os saldos finais das contas dos apostadores e os valores mantidos nas contas utilizadas para movimentar os recursos das apostas. A decisão atende a um pedido da Advocacia-Geral da União (AGU) e estabelece multa diária de R$ 50 mil em caso de descumprimento, limitada inicialmente a R$ 1 milhão.\n\nA decisão é da 21ª Vara Federal do Rio de Janeiro e foi a primeira concedida em um conjunto de oito ações apresentadas pela AGU contra empresas que não cumpriram o prazo estabelecido pela Medida Provisória 1.349/2026. A norma, que proibiu as apostas de quota fixa em todo o país, determinou que as empresas informassem os valores até 7 de outubro à Secretaria de Prêmios e Apostas do Ministério da Fazenda.\n\nAs informações são necessárias para que os bancos possam devolver os recursos remanescentes aos apostadores. Segundo a AGU, a medida busca garantir a preservação do patrimônio dos clientes e permitir que o governo identifique os valores devidos e seus respectivos titulares.\n\nA Justiça também determinou que a empresa mantenha separados os recursos destinados à restituição dos apostadores. As outras sete ações apresentadas pela AGU com o mesmo objetivo ainda aguardam decisão judicial. A reportagem não localizou representantes da empresa até o momento da publicação.",
+    "published": "2026-10-16T23:15:25+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "A Justiça Federal determinou nesta sexta-feira (16) que a Select Operations Ltda., responsável pelas marcas de apostas on-line MMA, BETVIP e PAPIGAMES, informe os saldos finais das contas dos apostadores e os valores mantidos nas contas utilizadas para movimentar os recursos das ",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "'Ele não precisa me apoiar, só tem que ficar quietinho', diz Lula sobre Cleitinho durante agenda em Minas",
+    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/16/ele-nao-precisa-me-apoiar-so-tem-que-ficar-quietinho-diz-lula-sobre-cleitinho-durante-agenda-em-minas.ghtml",
+    "description": "O presidente Luiz Inácio Lula da Silva (PT) fez um aceno ao governador recém-eleito em Minas, Cleitinho Azevedo (Republicanos), durante um comício em Juiz de Fora (MG) na tarde desta sexta-feira. O petista disse que Cleitinho, que é aliado do senador Flávio Bolsonaro (PL), não precisa apoiá-lo na disputa presidencial, somente ficar “quietinho”. O mandatário também disse que o estado, sem ele, se tornaria um “cemitério de obras paralisadas”. \n— Minas Gerais elegeu um governador que não foi o nosso, mas a vontade do povo tem quer ser respeitada. O Cleitinho é o governador do povo mineiro e ele tem que saber que a única chance que ele tem de recuperar esse estado que o (o ex-governador) Romeu Zema estragou, de ter as obras acontecendo aqui, é eu ganhar as eleições para tratar ele com o respeito que o povo de Minas dedicou a ele. Se a gente não ganha, tudo que está investido em Minas vai ser paralisado. Isso aqui vai ficar um cemitério de obras paralisadas. Eu tenho certeza que o Cleitinho é esperto, ele não precisa me apoiar, só tem que ficar quietinho porque ele só tem a ganhar.  \nDurante o comício, Lula comemorou a aprovação do fim da escala 6x1. Mais cedo, o mandatário participou, em Brasília, da cerimônia de promulgação da PEC, chancelada nesta semana em votação de dois turnos pelo Senado. \nEm Minas, o petista afirmou que, caso eleito, os \"bolsonaristas vão acabar\" com a medida e disse que a 6x1 pode voltar.\n— Chegamos atrasados porque estávamos promulgando a PEC que deu fim à escala 6x1, que garante dois dias de descanso para cinco dias trabalhados. É muito importante que a gente não permita que haja qualquer tipo de retrocesso. Os nossos comerciários e empresários não terão prejuízo algum. Quem vai ganhar é o trabalhador — disse, para depois falar sobre Flávio.\nA agenda marcou o primeiro retorno de Lula a Minas após o primeiro turno. Na votação no estado, ele ficou atrás do senador Flávio Bolsonaro (PL) por cerca de 588 mil votos mineiros, mesmo após ter priorizado agendas no estado.\nDurante a campanha, o petista fez ao menos quatro visitas a Minas Gerais, mas que focaram na promoção da candidatura do deputado federal Patrus Ananias (PT-MG), escolhido para concorrer ao governo do estado. O parlamentar terminou o pleito, no entanto, em segundo lugar, derrotado por Cleitinho em primeiro turno. Por outro lado, o PT conseguiu eleger para o Senado a ex-prefeita de Contagem Marília Campos.",
+    "published": "2026-10-16T22:59:27+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O presidente Luiz Inácio Lula da Silva (PT) fez um aceno ao governador recém-eleito em Minas, Cleitinho Azevedo (Republicanos), durante um comício em Juiz de Fora (MG) na tarde desta sexta-feira. O petista disse que Cleitinho, que é aliado do senador Flávio Bolsonaro (PL), não pr",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Pescadores recolhem centenas de iPhones que caíram de navio atingido por mina no Estreito de Ormuz; vídeo",
     "link": "https://oglobo.globo.com/mundo/noticia/2026/10/16/pescadores-recolhem-centenas-de-iphones-que-cairam-de-navio-atingido-por-mina-no-estreito-de-ormuz-video.ghtml",
@@ -693,6 +718,10 @@
       {
         "source": "InfoMoney",
         "link": "https://www.infomoney.com.br/politica/meta-nega-interferencia-eleitoral-e-atribui-falhas-envolvendo-lula-a-erros-tecnicos/"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/noticia/2026/10/16/meta-admite-incidentes-tcnicos-que-afetaram-campanhas-e-nega-interferncia-em-eleies.ghtml"
       }
     ]
   },
@@ -3930,31 +3959,6 @@
       "Politica"
     ],
     "summary": "Uma discussão sobre a localização dos assentos em um cinema terminou em briga envolvendo várias mulheres em um shopping na Argentina. O episódio ganhou dimensão ao ponto de ter uso de spray de pimenta e prisão de uma mãe e sua filha. O incidente ocorreu na noite de quarta-feira (",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Mesmo preso, Márcio Canella poderá ser diplomado como deputado pela Alerj; entenda",
-    "link": "https://oglobo.globo.com/rio/noticia/2026/10/16/mesmo-preso-marcio-canella-podera-ser-diplomado-como-deputado-pela-alerj-entenda.ghtml",
-    "description": "Mesmo atrás das grades, o deputado estadual eleito Márcio Canella (União) poderá ser diplomado pelo Tribunal Regional Eleitoral (TRE) em 18 de dezembro por meio de procuração. Esta é a avaliação de advogados especializados em Direito Eleitoral. Mas o cenário é de incerteza porque tramita no Tribunal Superior Eleitoral (TSE) um recurso contra a candidatura do político, o segundo mais votado no estado.\nUnha e Carne: Ex-prefeito de Belford Roxo Márcio Canella e ex-secretário de Polícia Civil Marcus Amim são presos pela PF\nInvestigação: PF afirma que Márcio Canella é 'patrono político' e 'articulador' de organização criminosa ligada ao Comando Vermelho\nCaso ocorra uma decisão judicial contra Canella, os 197.178 votos recebidos por ele poderão ter como destino ser outros candidatos da Federação União Progressista (PP/União) ou resultar em anulação, o que poderá mudar a lista de deputados eleitos.\nContestada pelo Ministério Público Estadual, a candidatura de Canella, ex-prefeito de Belford Roxo, a deputado estadual só foi confirmada pelo TRE cinco dias antes da eleição. O recurso da defesa foi acolhido por seis votos a um. O julgamento ocorreu depois que a Procuradoria Regional Eleitoral mudou de posição no processo e passou a defender o indeferimento da candidatura por indícios de ligação de Canella com milícias na Baixada Fluminense. Apesar disso, o tribunal concluiu que as provas não demonstravam um impedimento à concessão do registro.\nPrisão de Canella e Amim: veja como funcionava esquema de lavagem de dinheiro em postos que movimentou R$ 7,6 bilhões, segundo a PF\nO recurso do MPE aguarda julgamento em Brasília. Para decidir, o ministro Sebastião Reis Júnior, do TSE, espera o parecer do procurador-geral da República, Paulo Gonet, que acumula a função de Procurador-Geral Eleitoral.\nVotos redistribuídos\nO advogado Eduardo Damian destaca que, se o registro for considerado nulo pelo TSE, os quase 200 mil votos serão redistribuídos aos candidatos da legenda, a Federação União Progressista, formada por União Brasil e PP. Mesmo que a interpretação da corte seja igual à do TRE, Canella pode enfrentar outros obstáculos.\nLavagem de dinheiro: PF aponta movimentação de R$ 7,6 bi em esquema investigado em operação que prendeu Marcio Canella e ex-secretário de Polícia Civil do Rio\n— O artigo 22 da Lei da Inelegibilidade (64/90) prevê a abertura de uma ação de Investigação da Justiça Eleitoral se houver indícios de que o candidato foi beneficiado por uso indevido, desvio ou abuso do poder econômico. Isso pode acontecer com base na decisão do STF — explicou a advogada Daniele Marques de Souza, presidente da Comissão de Direito e Políticas Públicas do Instituto de Advogados do Brasil.\nVeja também: Quem é Márcio Canella, segundo deputado estadual mais votado do Rio, preso em operação da PF\nDaniele Marques acrescentou que, nessa fase, caso o registro de Canella seja cassado, não há hipótese de uma nova ação e os votos recebidos pelo político seriam considerados nulos, levando a uma retotalização. Isso implicaria uma redistribuição dos votos, que poderia contemplar ou não os candidatos da Federação PP/União.\n— Se os votos forem anulados, haverá novo quociente eleitoral (calculado com base nos votos válidos). Isso pode levar a alterações nos eleitos pelas legendas — explicou a advogada.\nQuem é Marcus Amim: delegado que comandou a Polícia Civil e teve nomeação articulada com Bacellar foi preso pela PF\nMárcio Vieira Santos, membro da Academia Brasileira de Direito Eleitoral e Político, observa que a própria decisão do ministro Alexandre de Moraes, que autorizou a prisão do político ontem, pode ser um “fato novo” usado para tentar anular o registro da candidatura de Canella.\nO advogado observou que ainda caberia outro recurso (Ação de Impugnação de Mandato Eletivo), que deve ser impetrado até três dias depois do ato, com base no artigo 14 parágrafo 10 da Constituição, desde que sejam apresentadas provas de que o político foi beneficiado por abuso do poder econômico ou fraude.\nMesmo que consiga ser diplomado, sem qualquer decisão judicial contrária, Canella precisará comparecer ao trabalho na Assembleia Legislativa em 2027. Se faltar a um terço das sessões, seu mandato pode ser cassado.\nPrisão de Canella e Amim: PF identifica grupo criminoso que recebia avisos de servidores estaduais sobre fiscalizações em postos de combustíveis\nEsposas 'laranjas': investigação da PF mostra como policiais civis usavam mulheres em esquema de lavagem de dinheiro com postos de combustíveis\nNa política desde 2012, Canella registrou um aumento expressivo de patrimônio, como revelou o colunista Ancelmo Gois. Ao se candidatar a vereador em Belford Roxo pela primeira vez, ele declarou ter R$ 465,4 mil em bens. Agora, em 2026, registrou um patrimônio de R$ 4,5 milhões, um crescimento nominal de 870%.\nInitial plugin text",
-    "published": "2026-10-16T07:00:00+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "Mesmo atrás das grades, o deputado estadual eleito Márcio Canella (União) poderá ser diplomado pelo Tribunal Regional Eleitoral (TRE) em 18 de dezembro por meio de procuração. Esta é a avaliação de advogados especializados em Direito Eleitoral. Mas o cenário é de incerteza porque",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Ainda a desvinculação",
-    "link": "https://oglobo.globo.com/economia/fabio-giambiagi/coluna/2026/10/ainda-a-desvinculacao.ghtml",
-    "description": "Volto ao tema da desvinculação entre o salário mínimo e o piso previdenciário, um dos assuntos mais urgentes da reflexão acerca da “Agenda 2027”. O que é essencial que a população saiba sobre o assunto? Quatro coisas: i) quem considerar que o país poderá crescer muito mais do que 2% ao ano nos próximos 20 anos, com a demografia desfavorável que o país tem pela frente, provavelmente está se iludindo; ii) a despesa do INSS era de 2,5% do Produto Interno Bruto (PIB) em 1988 e é de mais de 8% do PIB hoje; iii) de acordo com o IBGE, o número de pessoas com 65 anos e mais de idade aumentará a uma média (física) de 2,9 % ao ano entre 2025 e 2050; e iv) o peso da folha de benefícios de um salário mínimo no conjunto da folha do INSS está se aproximando de 50%, de modo que uma variação real do mínimo de 2% implica adicional de gasto de 1%, que se soma ao aumento físico dos benefícios. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-10-16T07:00:00+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Volto ao tema da desvinculação entre o salário mínimo e o piso previdenciário, um dos assuntos mais urgentes da reflexão acerca da “Agenda 2027”. O que é essencial que a população saiba sobre o assunto? Quatro coisas: i) quem considerar que o país poderá crescer muito mais do que",
     "relevance": 5
   }
 ]
