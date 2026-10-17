@@ -1,6 +1,18 @@
 [
   {
     "source": "InfoMoney",
+    "title": "FMI pede apoio a economias que sofrem com guerras e cita “vulnerabilidade fiscal”",
+    "link": "https://www.infomoney.com.br/economia/fmi-pede-apoio-a-economias-que-sofrem-com-guerras-e-cita-vulnerabilidade-fiscal/",
+    "description": "Comunicado divulgado após a semana de reuniões na Tailândia ressalta que a economia mundial tem resistido melhor do que o esperado a uma sequência de choques, mas que a resiliência \"não pode ser dada como certa\"\nThe post FMI pede apoio a economias que sofrem com guerras e cita &#8220;vulnerabilidade fiscal&#8221; appeared first on InfoMoney.",
+    "published": "2026-10-17T11:55:14+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Comunicado divulgado após a semana de reuniões na Tailândia ressalta que a economia mundial tem resistido melhor do que o esperado a uma sequência de choques, mas que a resiliência \"não pode ser dada como certa\"\nThe post FMI pede apoio a economias que sofrem com guerras e cita &#",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
     "title": "Governo Trump diz apoiar eleição livre no Brasil e defende sanções a Moraes, PCC e CV",
     "link": "https://www.infomoney.com.br/politica/governo-trump-diz-apoiar-eleicao-livre-no-brasil-e-defende-sancoes-a-moraes-pcc-e-cv/",
     "description": "Em carta do Departamento de Estado a congressista democrata, governo nos EUA diz que Moraes cometeu \"graves violações de direitos humanos\"\nThe post Governo Trump diz apoiar eleição livre no Brasil e defende sanções a Moraes, PCC e CV appeared first on InfoMoney.",
@@ -159,7 +171,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O bloqueio de celulares dentro de presídios tornou-se mais ágil desde a terça-feira passada, quando um decreto do governo federal passou a permitir que o uso de aparelhos identificados seja neutralizado sem necessidade de decisão judicial. O Rio de Janeiro foi o primeiro estado a",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/brasil/bloqueio-de-celulares-nos-presidios-fica-mais-agil-apos-decreto-do-governo-federal/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3942,18 +3960,6 @@
       "Politica"
     ],
     "summary": "Fim da escala 6x1: Quando começa a valer e quais são as profissões impactadas \nA Proposta de Emenda à Constituição (PEC) que prevê o fim da escala 6x1 e garante dois dias de descanso remunerado por semana foi promulgada pelo Congresso Nacional nesta sexta-feira (16). O ato marca ",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "'Corrida apertada na reta final': imprensa mundial repercute empate técnico de Flávio Bolsonaro e Lula nas pesquisas",
-    "link": "https://g1.globo.com/mundo/noticia/2026/10/16/repercute-internacional-pesquisas-intencao-de-voto-flavio-bolsonaro-lula-2o-turno.ghtml",
-    "description": "Flávio Bolsonaro (PL) e Lula (PT) disputam o 2º turno\nDiego Herculano/Reuters e Adriano Machado/Reuters\nA imprensa mundial repercutiu as pesquisas de intenção de voto divulgadas nesta semana que mostram um empate técnico entre o senador Flávio Bolsonaro (PL) e o presidente Lula (PT). Segundo turno da eleição presidencial está marcado para 25 de outubro.\n✅ Siga o canal de notícias internacionais do g1 no WhatsApp\nAs duas pesquisas presidenciais mais recentes, divulgadas entre quarta e quinta-feira, mostraram Flávio e Lula empatados dentro da margem de erro na disputa pelo segundo turno das eleições.\nNa Datafolha, Flávio Bolsonaro tem 47% das intenções de voto, contra 45% de Lula.\nJá segundo a Quaest, o candidato do PL aparece com 46% dos votos, e o presidente com 44%.\nOs resultados a menos de 10 dias do 2º turno gerou manchetes como \"surpresa no Brasil\" e que a corrida eleitoral ficou acirrada nesta reta final.\nO El País Uruguai falou em \"surpresa no Brasil\";\nO La Nación, da Argentina, afirmou que a vantagem de Flávio Bolsonaro \"se apequenou\" recentemente, segundo as pesquisas;\nA agência Bloomberg, dos Estados Unidos, falou que as pesquisas mostram uma \"corrida apertada\" no 2º turno;\nEl País, Uruguai e Espanha\nReportagem do El País do Uruguai sobre as pesquisas eleitorais que mostram empate técnico de Flávio Bolsonaro e Lula no 2º turno das eleições presidenciais.\nReprodução/El País Uruguai\nLa Nación, Argentina\nReportagem do jornal La Nación, da Argentina, sobre as pesquisas eleitorais que mostram empate técnico de Flávio Bolsonaro e Lula no 2º turno das eleições presidenciais.\nReprodução/La Nación\nBloomberg, Estados Unidos\nReportagem da agência de notícias Bloomberg, dos Estados Unidos, sobre as pesquisas eleitorais que mostram empate técnico de Flávio Bolsonaro e Lula no 2º turno das eleições presidenciais.\nReprodução/Bloomberg\nEsta reportagem está em atualização.",
-    "published": "2026-10-16T13:20:59+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Flávio Bolsonaro (PL) e Lula (PT) disputam o 2º turno\nDiego Herculano/Reuters e Adriano Machado/Reuters\nA imprensa mundial repercutiu as pesquisas de intenção de voto divulgadas nesta semana que mostram um empate técnico entre o senador Flávio Bolsonaro (PL) e o presidente Lula (",
     "relevance": 5
   }
 ]
