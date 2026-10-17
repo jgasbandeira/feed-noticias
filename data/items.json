@@ -1,6 +1,18 @@
 [
   {
     "source": "Poder360",
+    "title": "Eleições de 2026 marcam a transformação digital da esquerda, diz Bites",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/eleicoes-de-2026-marcam-a-transformacao-digital-da-esquerda-diz-bites/",
+    "description": "Agência especializada em dados afirma que Lula registrou 3 vezes mais interações nas redes que Flávio após o 1º turno",
+    "published": "2026-10-17T19:43:55+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Agência especializada em dados afirma que Lula registrou 3 vezes mais interações nas redes que Flávio após o 1º turno",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
     "title": "Ex-ministros de FHC e intelectuais fazem carta em apoio a Lula",
     "link": "https://www.poder360.com.br/poder-eleicoes-2026/ex-ministros-de-fhc-e-intelectuais-fazem-carta-em-apoio-a-lula/",
     "description": "Manifesto reúne 15 signatários e critica Flávio; lista inclui Aloysio Nunes e Floriano Pesaro, funcionários da ApexBrasil, vinculada ao governo federal",
@@ -334,7 +346,13 @@
       "Politica"
     ],
     "summary": "O Ministério da Justiça e Segurança Pública acionou a Agência Nacional de Proteção de Dados (ANPD) e o Ministério Público Federal (MPF) para apurar possíveis irregularidades nas práticas de moderação de conteúdo da Meta, dona do Facebook, Instagram e WhatsApp. Em duas notas técni",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/empresas/noticia/2026/10/17/ministrio-da-justia-aciona-mpf-no-caso-meta-falta-transparncia.ghtml"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
@@ -3956,23 +3974,5 @@
     ],
     "summary": "Moedas de alto rendimento, que antes atraíam investidores, enfrentam agora ventos contrários no mercado, à medida que os rendimentos dos títulos de longo prazo dos Estados Unidos superam o patamar fundamental de 5%. Isso tem provocado a venda de moedas consideradas mais arriscada",
     "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Arena Freestyle estreia em Pindamonhangaba neste sábado",
-    "link": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/16/arena-freestyle-estreia-em-pindamonhangaba-neste-sabado-1.ghtml",
-    "description": "O município de Pindamonhangaba (SP) sediará neste sábado, 17 de outubro, a primeira edição local do Arena Freestyle, evento dedicado ao Freestyle Motocross (FMX), com ingressos já esgotados. A iniciativa inclui a arrecadação de alimentos, que serão destinados ao Fundo Social de Solidariedade do município.\nA abertura dos portões está prevista para as 18h, seguida de sessão de autógrafos às 18h30. As apresentações dos pilotos terão início às 19h30 e término programado para as 21h, no Parque da Cidade.\nO Freestyle Motocross é uma modalidade do motociclismo que combina saltos e manobras acrobáticas realizadas com motocicletas especialmente preparadas, exigindo controle preciso e técnicas avançadas de pilotagem. A programação contará com oito competidores: Fred Kyrillos, sete vezes campeão brasileiro; Jeff Campacci, campeão brasileiro da categoria; Marcelo Simões, campeão mundial de Best Whip; Diego Dias, criador do Circuito Freestyle Brasil; Kleber Mazoni, que atua em apresentações de motociclismo freestyle em circos; Cláudio Rocha, representante da região Nordeste; Gian Bergamini, um dos pioneiros do FMX no Brasil; e Tatá Mello, também pioneiro e dublê em produções cinematográficas.\nPara garantir a entrada, o público realizou a troca antecipada de dois quilos de arroz ou feijão por cada ingresso. Com a lotação completa, a organização estima a coleta de várias toneladas de alimentos, que serão encaminhadas ao Fundo Social de Solidariedade para apoiar ações assistenciais no município.\nO evento conta com apoio da Prefeitura de Pindamonhangaba e da Secretaria de Esportes do Governo do Estado de São Paulo, além de patrocínio da Honda, copatrocínio da Kawasaki, apoio da Secretaria Municipal de Esportes e Lazer, supervisão da Confederação Brasileira de Motociclismo (CBM) e realização pela Romagnolli Promoções e Eventos e pela Liga Nacional de Esportes a Motor (Linem).",
-    "published": "2026-10-16T15:18:30+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "O município de Pindamonhangaba (SP) sediará neste sábado, 17 de outubro, a primeira edição local do Arena Freestyle, evento dedicado ao Freestyle Motocross (FMX), com ingressos já esgotados. A iniciativa inclui a arrecadação de alimentos, que serão destinados ao Fundo Social de S",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/10/16/arena-freestyle-estreia-em-pindamonhangaba-neste-sabado-1.ghtml"
-      }
-    ]
   }
 ]
