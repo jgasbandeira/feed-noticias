@@ -1,5 +1,17 @@
 [
   {
+    "source": "O Globo",
+    "title": "Manifestantes acampam na Praça do Rossio, em Lisboa, em protesto por preço de moradia no país",
+    "link": "https://oglobo.globo.com/mundo/noticia/2026/10/17/manifestantes-acampam-na-praca-do-rossio-em-lisboa-em-protesto-por-preco-de-moradia-no-pais.ghtml",
+    "description": "Manifestantes montaram dezenas de tendas em Lisboa, no sábado, exigindo medidas para conter os custos de habitação e o custo de vida em Portugal — uma iniciativa que ecoa as manifestações que, há semanas, ocorrem na vizinha Espanha. Centenas de manifestantes reuniram-se na Praça do Rossio — situada no coração turístico da capital portuguesa —, após uma marcha que mobilizou milhares de pessoas em todo o país.\nApós protestos estudantis: Franceses vão às ruas contra o custo de vida em atos que podem marcar retorno dos coletes amarelos a meses da eleição\nQuer morar fora? Guia interativo reúne informações sobre 36 países\nQuer ler mais notícias de Mundo? Acompanhe o canal no WhatsApp\nOs participantes, em sua maioria jovens, prometeram passar a noite no local. Centenas deles cantavam enquanto estavam sentados ao redor da estátua de D. Pedro IV (ou D. Pedro I, para os brasileiros).\nInitial plugin text\n— A classe social portuguesa que paga impostos, que mantém este país a funcionar, está sob ataque e a perder os seus direitos, nomeadamente o direito à habitação — afirmou Elena Costa, uma assistente social de 46 anos. — Por isso, estamos todos aqui reunidos para tentar explicar que estamos a ser sufocados.\nO engenheiro António Margado, de 52 anos, criticou o governo de centro-direita pela \"liberalização total das rendas\", alegando que os proprietários \"estão cada vez mais protegidos, enquanto os inquilinos que precisam de uma casa estão cada vez menos protegidos\".\nOs preços da habitação em Portugal subiram 124% entre 2015 e 2024 — um ritmo cerca de duas vezes superior à média da União Europeia, segundo dados oficiais.\nManifestantes protestam na Praça do Rossio, no centro de Lisboa\nFilipe Amorim/AFP\nLeia também: Turismo e financeirização de imóveis pressionam mercado habitacional na Europa e expõem crise continental\nO impacto é particularmente severo para os jovens e em Lisboa, região que concentra cerca de um quarto dos mais de 11 milhões de habitantes de Portugal, considerando a sua grande área metropolitana.\n— Como profissional liberal, obviamente não tenho meios para pagar as rendas exorbitantes de Lisboa, e eu sou filha de Lisboa — declarou a manifestante Isabel Guerreiro, em entrevista à emissora pública RTP.\nO acampamento montado no sábado em Lisboa deu maior visibilidade a um protesto por habitação que teve início na cidade do Porto, no norte do país, onde também se encontram dezenas de tendas.\n'Questão de sobrevivência'\nEm uma manifestação anterior em Lisboa, convocada pela principal central sindical do país, a CGTP, os participantes exigiram melhores serviços públicos, pensões e salários, além de medidas para combater a disparada dos custos de habitação. Ao som de tambores, os manifestantes carregavam cartazes com frases como \"A ganância deles, a nossa miséria\" e \"O custo de vida aumenta, o povo não aguenta mais\".\n— Há muitos problemas. Salários, habitação, custo de vida: é uma questão de sobrevivência — disse Yolanda Silva, uma funcionária pública de 43 anos.\nNo início desta semana, o primeiro-ministro Luis Montenegro afirmou \"compreender perfeitamente que as pessoas queiram respostas\" e também \"expressar a sua indignação\" perante o que avaliam como omissões nas políticas públicas. No entanto, lançou um alerta a rivais políticos:\n— [Não] importem para Portugal climas de instabilidade e protesto que, na verdade, não têm respaldo na sociedade portuguesa — afirmou Montenegro, em uma menção que foi interpretada como uma referência aos protestos violentos que abalaram a França.",
+    "published": "2026-10-17T21:34:42+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Manifestantes montaram dezenas de tendas em Lisboa, no sábado, exigindo medidas para conter os custos de habitação e o custo de vida em Portugal — uma iniciativa que ecoa as manifestações que, há semanas, ocorrem na vizinha Espanha. Centenas de manifestantes reuniram-se na Praça ",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Queda em indústria e serviços e varejo estável marcam economia em agosto",
     "link": "https://valor.globo.com/brasil/artigo/queda-em-industria-e-servicos-e-varejo-estavel-marcam-economia-em-agosto.ghtml",
@@ -96,7 +108,13 @@
       "Fundos Imobiliarios"
     ],
     "summary": "Fachada do Superior Tribunal de Justiça (STJ)\nTV Gazeta\nO Superior Tribunal de Justiça (STJ) abriu uma investigação e exonerou, nesta sexta-feira (16), um servidor da área de tecnologia suspeito de vazar minutas de decisões do tribunal ao advogado Willer Tomaz, amigo do senador e",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/10/17/stj-exonera-servidor-suspeito-de-vazar-decisoes-a-advogado-amigo-de-flavio-bolsonaro.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -489,6 +507,10 @@
       {
         "source": "InfoMoney",
         "link": "https://www.infomoney.com.br/mundo/policia-italiana-entra-em-confronto-com-manifestantes-em-milao-e-bolonha/"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/mundo/noticia/2026/10/17/quinto-dia-de-protestos-na-albania-termina-com-confronto-entre-manifestantes-e-policia.ghtml"
       }
     ]
   },
@@ -3959,19 +3981,6 @@
       "Politica"
     ],
     "summary": "O presidente do Banco do Japão (BoJ), Kazuo Ueda, manteve um tom mais conservador com relação à política monetária (“hawkish”) durante uma coletiva de imprensa na sexta-feira, afirmando que a taxa de inflação subjacente do Japão não deve ultrapassar 2%.\n Matéria exclusiva para as",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Estrangeiros aportam R$ 708 mi na B3 em 14 de outubro e somam 4 sessões de entradas",
-    "link": "https://valor.globo.com/financas/noticia/2026/10/16/estrangeiros-aportam-r-708-mi-na-b3-em-14-de-outubro-e-somam-4-sessoes-de-entradas.ghtml",
-    "description": "Os investidores estrangeiros aportaram R$ 708,2 milhões em recursos no segmento secundário da B3 (ações já listadas) em 14 de outubro, dia em que o Ibovespa cedeu 0,18%. Trata-se da quarta sessão consecutiva de entradas no mês. Assim, a categoria registra superávit mensal de R$ 18,5 bilhões. Da mesma forma, o saldo do ano permanece positivo em R$ 45,9 bilhões. \nO investidor institucional, por sua vez, retirou R$ 802,3 milhões na mesma data. No mês, a categoria também registra um déficit de R$ 7,8 bilhões. No acumulado do ano, o saldo também está negativo em R$ 43,3 bilhões. \nJá o investidor individual aportou R$ 162,9 milhões no mesmo dia. Porém, no acumulado do mês, o saldo desse perfil de alocador está negativo em R$ 6,0 bilhões e em R$ 213,1 milhões no ano. \nAs informações foram divulgadas pela B3. \n\nTuane Fernandes/Bloomberg",
-    "published": "2026-10-16T15:43:29+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Os investidores estrangeiros aportaram R$ 708,2 milhões em recursos no segmento secundário da B3 (ações já listadas) em 14 de outubro, dia em que o Ibovespa cedeu 0,18%. Trata-se da quarta sessão consecutiva de entradas no mês. Assim, a categoria registra superávit mensal de R$ 1",
     "relevance": 5
   }
 ]
