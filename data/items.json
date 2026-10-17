@@ -420,7 +420,13 @@
       "Politica"
     ],
     "summary": "As pesquisas Quaest e Datafolha sobre o segundo turno das eleições de 2026 mostram o candidato Flávio Bolsonaro (PL) numericamente à frente de Luiz Inácio Lula da Silva (PT) na disputa pela Presidência, apesar da diferença ainda estar dentro das margens de erro dos levantamentos.",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/blogs/pulso/post/2026/10/quem-esta-na-frente-nas-pesquisas-para-a-presidencia-veja-os-numeros-do-agregador-rali.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
