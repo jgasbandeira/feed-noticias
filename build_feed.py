@@ -2,7 +2,7 @@
 """
 Agregador de notícias: lê os feeds RSS configurados em config.py, filtra por
 tema, gera um resumo com IA (+nota de relevância) para cada matéria nova e
-publica uma página HTML estática com duas visões (Top Picks / Todos) e
+publica uma página HTML estática com duas visões (Todos / Radar XP Asset) e
 filtros por veículo e período.
 
 Pensado para rodar a cada 30 minutos via GitHub Actions (ver
@@ -498,8 +498,7 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
 
   <div class="controles">
     <div class="tabs">
-      <button type="button" class="tab-btn active" data-tab="top">Top Picks</button>
-      <button type="button" class="tab-btn" data-tab="todos">Todos</button>
+      <button type="button" class="tab-btn active" data-tab="todos">Todos</button>
       <button type="button" class="tab-btn" data-tab="xp">Radar XP Asset</button>
     </div>
     <div class="filtros">
@@ -535,7 +534,7 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
   var chipFontes = document.querySelectorAll('#chips-fonte .chip');
   var selectPeriodo = document.getElementById('filtro-periodo');
   var inputBusca = document.getElementById('busca-texto');
-  var abaAtual = 'top';
+  var abaAtual = 'todos';
 
   function normalizarBusca(texto) {
     return (texto || '')
@@ -562,11 +561,6 @@ PAGINA_TEMPLATE = """<!DOCTYPE html>
   function reordenar() {
     var cards = Array.prototype.slice.call(feed.querySelectorAll('.card'));
     cards.sort(function (a, b) {
-      if (abaAtual === 'top') {
-        var relA = parseInt(a.dataset.relevancia, 10) || 0;
-        var relB = parseInt(b.dataset.relevancia, 10) || 0;
-        if (relB !== relA) return relB - relA;
-      }
       var dataA = new Date(a.dataset.data).getTime();
       var dataB = new Date(b.dataset.data).getTime();
       return dataB - dataA;

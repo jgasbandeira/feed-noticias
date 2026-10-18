@@ -30,6 +30,13 @@ FEEDS = [
     {"source": "InfoMoney", "url": "https://www.infomoney.com.br/feed/", "verified": True},
     {"source": "Poder360", "url": "https://www.poder360.com.br/feed/", "verified": True},
     {"source": "CNBC", "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html", "verified": True},
+    {"source": "Money Times", "url": "https://www.moneytimes.com.br/feed/", "verified": True},
+    {"source": "Bloomberg Línea", "url": "https://www.bloomberglinea.com.br/arc/outboundfeeds/rss/?outputType=xml", "verified": True},
+    # Não consegui testar os 3 abaixo daqui (domínios bloqueados na minha ferramenta).
+    # Se falharem, o script abre uma Issue automática no GitHub avisando.
+    {"source": "Folha", "url": "https://feeds.folha.uol.com.br/mercado/rss091.xml", "verified": False},
+    {"source": "Estadão", "url": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/?outputType=xml", "verified": False},
+    {"source": "Financial Times", "url": "https://www.ft.com/rss/home", "verified": False},
 ]
 
 # Palavras-chave por tema (comparadas sem acento e em minúsculas, com \b de
@@ -72,7 +79,18 @@ KEYWORDS = {
         "hedge fund", "private equity", "wealth management",
     ],
     "XP": [
-        "xp investimentos", "xp asset", "\\bxp inc\\b",
+        "xp investimentos", "xp asset", "\\bxp inc\\b", "\\bxp\\b",
+        "guilherme benchimol", "thiago maffra", "caio ribeiro", "\\banbima\\b",
+        # concorrentes / gestoras
+        "btg pactual", "itau asset", "itau unibanco asset", "\\bkinea\\b",
+        "vinci partners", "\\bsul america investimentos\\b", "bradesco asset",
+        "santander asset", "safra asset", "\\bjgp\\b", "\\bverde asset\\b",
+        "\\bspx\\b", "\\bkapitalo\\b", "\\bibiuna\\b", "\\bgenoa capital\\b",
+        "\\bclear corretora\\b", "nubank", "\\bc6 bank\\b", "banco inter",
+        # temas do setor
+        "captacao liquida", "credito privado", "fundos de investimento",
+        "\\betf\\b", "\\bfidc\\b", "\\bfiagro\\b", "\\bprevidencia privada\\b",
+        "open finance", "banco master", "\\bvorcaro\\b",
     ],
 }
 
