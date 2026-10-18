@@ -105,6 +105,32 @@ def salvar_itens(itens: list[dict]) -> None:
     )
 
 
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+)
+
+
+def baixar_feed(url: str):
+    """Baixa e interpreta um feed RSS. Se o certificado SSL do site estiver
+    inválido/expirado (problema do lado deles; acontece com o Valor), tenta de
+    novo sem verificar o certificado — é só leitura de um RSS público."""
+    parsed = feedparser.parse(url, agent=USER_AGENT)
+    if parsed.bozo and not parsed.entries and "CERTIFICATE" in str(
+        parsed.bozo_exception
+    ).upper():
+        import ssl
+        import urllib.request
+
+        ctx = ssl.create_default_context()
+        ctx.check_hostname = False
+        ctx.verify_mode = ssl.CERT_NONE
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        with urllib.request.urlopen(req, context=ctx, timeout=30) as resp:
+            parsed = feedparser.parse(resp.read())
+    return parsed
+
+
 def buscar_novas_materias(links_ja_vistos: set[str]) -> tuple[list[dict], list[dict]]:
     novas = []
     falhas: list[dict] = []
@@ -112,7 +138,7 @@ def buscar_novas_materias(links_ja_vistos: set[str]) -> tuple[list[dict], list[d
         fonte = feed_cfg["source"]
         url = feed_cfg["url"]
         try:
-            parsed = feedparser.parse(url)
+            parsed = baixar_feed(url)
         except Exception as exc:  # feedparser raramente levanta, mas por via das dúvidas
             print(f"FEED FALHOU [{fonte}] ({url}): {exc}")
             falhas.append({"source": fonte, "url": url, "motivo": str(exc)})
@@ -331,7 +357,7 @@ def notificar_feeds_com_erro(falhas: list[dict]) -> None:
         busca = subprocess.run(
             [
                 "gh", "issue", "list", "--repo", repo, "--state", "open",
-                "--search", titulo, "--json", "number,title",
+                "--limit", "200", "--json", "number,title",
             ],
             capture_output=True, text=True, env=env, timeout=30,
         )
