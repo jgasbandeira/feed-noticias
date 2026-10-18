@@ -1,5 +1,17 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Flávio Bolsonaro defende aumentar segurança e diz que fará ‘de tudo para o pobre ficar rico’",
+    "link": "https://valor.globo.com/politica/noticia/2026/10/17/flavio-bolsonaro-defende-aumentar-seguranca-e-diz-que-fara-de-tudo-para-o-pobre-ficar-rico.ghtml",
+    "description": "Na reta final da campanha presidencial, o candidato do PL à Presidência, Flávio Bolsonaro, cumpriu agenda em Salvador (BA) neste sábado. Em cima de um trio elétrico, ao lado de políticos aliados, o senador afirmou que, se eleito, vai governar para todos. O filho do ex-presidente Jair Bolsonaro também prometeu aumentar a segurança pública e a renda da população.\n\n“Eu vou ajudar o Estado da Bahia, independentemente de quem seja o governador”, disse. Jerônimo Rodrigues (PT) foi reeleito governador da Bahia no primeiro turno, derrotando ACM Neto (União).\n\nParticiparam do ato o ex-ministro do governo Bolsonaro João Roma, ACM Neto, o prefeito de Salvador, Bruno Reis, e o governador de São Paulo, Tarcísio de Freitas, além do deputado federal Nikolas Ferreira (PL-MG).\n\nDurante sua fala, Flávio disse que pretende reforçar a segurança pública no país. Ele voltou a defender a castração química para abusadores de mulheres e crianças e afirmou que, se eleito, vai classificar o PCC, o Comando Vermelho (CV) e as milícias como organizações narcoterroristas. Também prometeu recuperar territórios ocupados pelo crime organizado.\n\n“No meu governo, ‘vagabundo’ vai ficar preso. Ladrão de celular vai começar com oito anos de cadeia e vai ter que trabalhar para pagar sua estadia no presídio”, disse. \n\nO senador também direcionou o discurso à população de menor poder aquisitivo e afirmou: “No meu governo, vou fazer de tudo para o pobre ficar rico.”",
+    "published": "2026-10-18T01:13:26+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Na reta final da campanha presidencial, o candidato do PL à Presidência, Flávio Bolsonaro, cumpriu agenda em Salvador (BA) neste sábado. Em cima de um trio elétrico, ao lado de políticos aliados, o senador afirmou que, se eleito, vai governar para todos. O filho do ex-presidente ",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Lobista afirma que Lulinha se reunia 'semanalmente' com ministros e diz querer fazer delação premiada",
     "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/lobista-afirma-que-lulinha-se-reunia-semanalmente-com-ministros-e-diz-querer-fazer-delacao-premiada.ghtml",
@@ -3966,19 +3978,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Em Coruripe, no Litoral Sul de Alagoas, a Praia de Miaí de Cima reúne quase 7 km de areia e coqueiros. Desde janeiro, o local também é canteiro do maior investimento hoteleiro internacional em curso no litoral do estado. No meio dessa transformação, a Pousada Ponta da Asa, com 11",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "AmFi liquida debênture tokenizada na B3 em operação de R$ 7 milhões",
-    "link": "https://valor.globo.com/financas/noticia/2026/10/16/amfi-liquida-debnture-tokenizada-na-b3-em-operao-de-r-7-milhes.ghtml",
-    "description": "A AmFi, plataforma de tokenização e distribuição de crédito privado, realizou sua primeira liquidação financeira de debêntures tokenizadas no ambiente da B3. A operação, concluída em 4 de setembro, somou R$ 7 milhões e foi registrada no CETIP21, sistema administrado pela B3, com lastro em uma carteira de crédito consignado originada pela BMDC Soluções Financeiras.\n\nAs debêntures foram emitidas e tokenizadas na infraestrutura da própria AmFi, como nas operações anteriores da companhia. A diferença é que, desta vez, a estrutura também passou a contar com registro no CETIP21, regime fiduciário instituído perante a B3 e liquidação financeira por meio da infraestrutura da companhia.\n\nSegundo João Pirola, diretor de Receita (CRO) e cofundador da AmFi, a tokenização permite representar digitalmente cada série de debêntures e acompanhar a carteira de crédito que serve de lastro à operação, os pagamentos e as posições dos investidores em tempo real. \"A tokenização não substitui a infraestrutura de mercado: ela convive com ela e a complementa\", afirmou.\n\nA integração busca facilitar o acesso de gestoras e fundos de investimento em direitos creditórios (FIDCs) às operações estruturadas pela AmFi. Segundo Pirola, muitos desses investidores só podem adquirir ativos registrados ou depositados em infraestruturas de mercado autorizadas, por exigências de seus regulamentos e políticas de investimento.\n\nCom o registro na B3, os ativos passam a integrar os sistemas já utilizados por esses participantes, permitindo que os custodiantes dos fundos acompanhem as posições, validem preços e recebam pagamentos de juros e amortizações por meio dos procedimentos habituais de liquidação.\n\nA emissão foi dividida em duas séries, sendo R$ 5 milhões na sênior, integralizada pela Polo Capital, e R$ 2 milhões na subordinada. A carteira de lastro reúne 30,6 mil ativos individuais e prevê coobrigação da BMDC, com recompra dos créditos em até sete dias após o vencimento. A originadora é parceira da AmFi desde agosto de 2024 e já participou de 18 operações estruturadas pela plataforma.",
-    "published": "2026-10-16T16:11:37+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "A AmFi, plataforma de tokenização e distribuição de crédito privado, realizou sua primeira liquidação financeira de debêntures tokenizadas no ambiente da B3. A operação, concluída em 4 de setembro, somou R$ 7 milhões e foi registrada no CETIP21, sistema administrado pela B3, com ",
     "relevance": 5
   }
 ]
