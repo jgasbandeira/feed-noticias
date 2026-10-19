@@ -1,5 +1,17 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Austrian Airlines desvia voo de Tel Aviv após ameaça de bomba",
+    "link": "https://valor.globo.com/mundo/noticia/2026/10/19/austrian-airlines-desvia-voo-de-tel-aviv-aps-ameaa-de-bomba.ghtml",
+    "description": "Um voo da Austrian Airlines com 57 pessoas a bordo foi desviado para Sófia, capital da Bulgária, no fim de domingo, após uma ameaça de bomba, informou um porta-voz da companhia à Reuters.\n\nO voo OS82, que partiu de Tel Aviv com destino a Viena, pousou em segurança às 20h42, no horário local, segundo a empresa. A aeronave, um Airbus A320, está sendo revistada, e os passageiros serão transferidos para um voo alternativo após a conclusão das buscas.\n\nSegundo a Sky News, que citou o Ministério dos Transportes da Bulgária, a tripulação relatou a ameaça quando o avião estava próximo à fronteira com a Romênia e decidiu fazer um pouso de emergência em Sófia.\n\nUm caça da Força Aérea acompanhou a aeronave até o pouso, e os passageiros foram retirados do avião, acrescentou o relato. A Austrian Airlines informou que havia 51 passageiros e seis tripulantes a bordo.\n\nO Ministério dos Transportes da Bulgária não respondeu imediatamente a um pedido de comentário da Reuters.",
+    "published": "2026-10-19T04:02:03+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Um voo da Austrian Airlines com 57 pessoas a bordo foi desviado para Sófia, capital da Bulgária, no fim de domingo, após uma ameaça de bomba, informou um porta-voz da companhia à Reuters.\n\nO voo OS82, que partiu de Tel Aviv com destino a Viena, pousou em segurança às 20h42, no ho",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Padilha rebate Flávio sobre pandemia e hospitais do Rio",
     "link": "https://www.poder360.com.br/poder-eleicoes-2026/padilha-rebate-flavio-sobre-pandemia-e-hospitais-do-rio/",
@@ -495,7 +507,13 @@
       "XP"
     ],
     "summary": "Candidatos discutiram investigações do Banco Master e do INSS, divergiram sobre segurança pública e apresentaram propostas para reduzir dívidas e juros\nThe post Debate entre Lula e Flávio tem ataques, acusações e propostas econômicas; veja resumo appeared first on InfoMoney.",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/19/debate-esvaziado-de-propostas-reforca-tom-de-campanha-marcada-por-troca-de-acusacoes-entre-flavio-e-lula.ghtml"
+      }
+    ]
   },
   {
     "source": "Money Times",
@@ -1710,7 +1728,13 @@
       "Politica"
     ],
     "summary": "Um ataque com dezenas de drones ucranianos deixou pelo menos um morto e provocou incêndios em duas instalações petrolíferas em São Petersburgo, no noroeste da Rússia, informaram, neste domingo (18), as autoridades locais e uma empresa afetada.\nImagens fortes: Padre morre após cru",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/mundo/noticia/2026/10/18/ataque-de-drones-ucranianos-a-instalaes-petrolferas-na-rssia-deixa-um-morto-e-15-feridos.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3890,18 +3914,6 @@
       "Economia"
     ],
     "summary": "Aos 51 anos, Cristiane Marcelino, moradora de Anchieta, sente falta dos bailes que frequentava na juventude. Mãe solo de duas crianças autistas, ela não consegue conciliar a rotina de cuidados com os filhos e a possibilidade de estar nas pistas como antes. A dança, porém, continu",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Flávio Bolsonaro quer tirar R$ 200 bilhões da cartola?",
-    "link": "https://oglobo.globo.com/blogs/ancelmo-gois/post/2026/10/flavio-bolsonaro-quer-tirar-r-200-bilhoes-da-cartola.ghtml",
-    "description": "Flávio Bolsonaro parece se inspirar no ilusionista francês Louis Comte (1788–1859) — um dos pioneiros a realizar o truque de tirar um coelho de uma cartola — ao prometer à Faria Lima um ajuste fiscal de R$ 200 bilhões, e à Rocinha, que não irá cortar benefícios sociais. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-10-17T08:00:00+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Flávio Bolsonaro parece se inspirar no ilusionista francês Louis Comte (1788–1859) — um dos pioneiros a realizar o truque de tirar um coelho de uma cartola — ao prometer à Faria Lima um ajuste fiscal de R$ 200 bilhões, e à Rocinha, que não irá cortar benefícios sociais. Matéria e",
     "relevance": 5
   }
 ]
