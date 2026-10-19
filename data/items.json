@@ -1,5 +1,42 @@
 [
   {
+    "source": "Poder360",
+    "title": "Passado o 2º turno, Fux deve decidir se MP das Bets vale ou não",
+    "link": "https://www.poder360.com.br/poder-justica/passado-o-2o-turno-fux-deve-decidir-se-mp-das-bets-vale-ou-nao/",
+    "description": "Relator das ações que questionam a medida no STF, ministro definirá se mantém proibição de apostas on-line decretada por Lula",
+    "published": "2026-10-19T09:00:13+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Relator das ações que questionam a medida no STF, ministro definirá se mantém proibição de apostas on-line decretada por Lula",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Saiba quais indicadores e balanços saem nesta semana",
+    "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-semana-11/",
+    "description": "FGV divulga dados do PIB e da inflação, China decide juros e empresas como WEG, Bradesco, Meta e Tesla apresentam balanços",
+    "published": "2026-10-19T09:00:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "FGV divulga dados do PIB e da inflação, China decide juros e empresas como WEG, Bradesco, Meta e Tesla apresentam balanços",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Dow Jones Futuro sobe no início de semana marcada por balanços do setor de tecnologia",
+    "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-sobe-no-inicio-de-semana-marcada-por-balancos-do-setor-de-tecnologia/",
+    "description": "Os números devem ajudar a medir a confiança dos investidores no setor de inteligência artificial (IA) após recentes contratempos\nThe post Dow Jones Futuro sobe no início de semana marcada por balanços do setor de tecnologia appeared first on InfoMoney.",
+    "published": "2026-10-19T08:39:24+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Os números devem ajudar a medir a confiança dos investidores no setor de inteligência artificial (IA) após recentes contratempos\nThe post Dow Jones Futuro sobe no início de semana marcada por balanços do setor de tecnologia appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
     "source": "Money Times",
     "title": "Bolsa Família: governo começa a pagar hoje o benefício reajustado; confira novo valor, calendário e quem pode receber",
     "link": "https://www.moneytimes.com.br/bolsa-familia-governo-comeca-pagar-hoje-beneficio-reajustado-confira-novo-valor-calendario-rsgp/",
@@ -595,7 +632,13 @@
       "Politica"
     ],
     "summary": "O presidente da França, Emmanuel Macron, rejeitou o pedido de demissão apresentado pelo ministro do Interior, Laurent Nuñez, após uma onda de tumultos no fim de semana, informou nesta segunda-feira (19) o Palácio do Eliseu.\n\nMacron afirmou que Nuñez deve permanecer no cargo para ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/mundo/noticia/2026/10/19/mais-de-350-pessoas-sao-presas-em-paris-apos-onda-de-disturbios-e-macron-rejeita-renuncia-de-ministro-do-interior.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -966,7 +1009,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Flávio Bolsonaro e Lula em debate na Band\nRenato Pizzutto/Band\nO Grupo de Ações Táticas Especiais (GATE) foi acionado na noite deste domingo (18) para verificar o carro do candidato à Presidência Flávio Bolsonaro (PL), após a suspeita de que uma bomba tivesse sido colocada no veí",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/18/policia-investiga-ameaca-de-bomba-em-carro-que-levou-flavio-bolsonaro-ao-debate-da-band.ghtml"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -1144,6 +1193,19 @@
       "Mercado Financeiro"
     ],
     "summary": "AI start-up has faced growing public backlash over safety and economic concerns",
+    "relevance": 5
+  },
+  {
+    "source": "Financial Times",
+    "title": "Private equity finds next Asian frontier",
+    "link": "https://www.ft.com/content/0f857d6a-646d-4d19-bcdd-a0f0b4e8585c?syn-25a6b1a6=1",
+    "description": "Foreign firms make up majority of large buyout deals in Asia’s fourth-biggest economy",
+    "published": "2026-10-19T01:30:11+00:00",
+    "themes": [
+      "Economia",
+      "Asset"
+    ],
+    "summary": "Foreign firms make up majority of large buyout deals in Asia’s fourth-biggest economy",
     "relevance": 5
   },
   {
@@ -1534,6 +1596,10 @@
       {
         "source": "G1 - Política",
         "link": "https://g1.globo.com/politica/noticia/2026/10/18/stf-abre-inquerito-para-apurar-suposta-lavagem-de-dinheiro-envolvendo-flavio-bolsonaro-e-o-advogado-willer-tomaz.ghtml"
+      },
+      {
+        "source": "Money Times",
+        "link": "https://www.moneytimes.com.br/flavio-e-investigado-em-2o-inquerito-no-stf-para-apurar-suspeitas-de-lavagem-com-advogado-fets/"
       }
     ]
   },
@@ -3824,68 +3890,6 @@
       {
         "source": "InfoMoney",
         "link": "https://www.infomoney.com.br/mercados/calendario-economico-segundo-turno-das-eleicoes-e-ipca-15-tem-as-atencoes-da-semana/"
-      }
-    ]
-  },
-  {
-    "source": "O Globo",
-    "title": "Colonos israelenses atacam delegação diplomática europeia na Cisjordânia",
-    "link": "https://oglobo.globo.com/mundo/noticia/2026/10/17/colonos-israelenses-atacam-delegacao-diplomatica-europeia-na-cisjordania.ghtml",
-    "description": "Colonos israelenses atacaram, neste sábado (17), uma comitiva de diplomatas europeus durante uma visita à Cisjordânia ocupada e agrediram um prefeito francês, informaram à AFP uma testemunha e dois diplomatas.\nO GLOBO no Mundo: receba as notícias internacionais no seu WhatsApp\nViver pelo Mundo: guia completo de imigração reúne informações sobre 36 países\nVeículos das missões diplomáticas de França, Bélgica e Polônia transportaram vários representantes europeus a Taybeh, uma localidade de maioria cristã na Cisjordânia ocupada, no momento em que colonos israelenses invadiram a área para impedir que os palestinos colhessem azeitonas, relataram testemunhas.\nSegundo essas fontes, vários colonos encapuzados proferiram ameaças contra os diplomatas antes de agredir Bernard Baudoux, de 78 anos, prefeito da cidade de Aulnoye-Aymeries, no norte da França.\nViolência se repete: Colonos israelenses espancam fotojornalista do Washington Post durante ataque a palestinos em colheita na Cisjordânia\nCondenação dos ataques\nEm um vídeo consultado pela agência de notícias AFP, Baudoux aparece caído junto a um veículo, usando a faixa tricolor de prefeito. Duas pessoas que conversaram com ele disseram que Baudoux ficou ferido, embora não tenha sido hospitalizado.\nBaudoux afirmou à AFP que o ataque mostra a tolerância do governo de estrema direita de Israel com a violência dos colonos. \n— Eu acho que, se os colonos estão se comportando assim, há tolerância de parte do governo israelense. \nNa ONU: Netanyahu minimiza violência de colonos israelenses, enaltece Trump e debocha de protestos na assembleia\nO ministro das Relações Exteriores de Israel condenou o ataque contra a comitiva diplomática europeia. \n— Condeno energicamente estes graves atos de violência cometidos por agitadores israelenses — declarou Gideon Saar; \nNo entanto, Saar também criticou os consulados envolvidos, afirmando que a visita não havia sido coordenada com o exército israelense.\nOnda de ataques: Colonos israelenses agridem fotógrafo da AFP e atiram contra agricultores palestinos durante colheita de azeitonas na Cisjordânia\nA Bélgica também condenou o ataque. Em uma mensagem publicada no X, o ministro das Relações Exteriores belga, Maxime Prévot, condenou \"com a maior firmeza\" a agressão.\nA polícia israelense anunciou a abertura de uma investigação e garantiu que trabalha para localizar as vítimas, colher depoimentos e identificar os suspeitos, com o objetivo de levá-los à justiça.\nFotógrafa do Washington Post espancada\nA campanha de colheita de azeitonas na Cisjordânia tem sido marcada, neste ano, por uma violência especialmente intensa, com colonos israelenses tentando impedir fisicamente os palestinos de realizar a colheita dos frutos em seu território.\nSegundo a legislação internacional, todos os assentamentos israelenses na Cisjordânia, onde vivem 500 mil colonos judeus, são ilegais, assim como os de Jerusalém Oriental, onde vivem outros 200 mil colonos israelenses entre 3 milhões de palestinos. \nNa sexta-feira, colonos feriram gravemente uma fotógrafa americana do The Washington Post que cobria a colheita, enquanto, na semana passada, um fotógrafo da AFP foi agredido por colonos.\nOs fatos ocorrem nos últimos dias da campanha eleitoral israelense, na qual o primeiro-ministro, Benjamin Netanyahu, busca o apoio dos colonos.",
-    "published": "2026-10-17T16:49:55+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Colonos israelenses atacaram, neste sábado (17), uma comitiva de diplomatas europeus durante uma visita à Cisjordânia ocupada e agrediram um prefeito francês, informaram à AFP uma testemunha e dois diplomatas.\nO GLOBO no Mundo: receba as notícias internacionais no seu WhatsApp\nVi",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Ex-ministros tucanos, filha de FHC e autor do pedido de impeachment de Dilma assinam carta pela democracia e declaram apoio a Lula",
-    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/17/ex-ministros-tucanos-filha-de-fhc-e-autor-do-pedido-de-impeachment-de-dilma-assinam-carta-pela-democracia-e-declaram-apoio-a-lula.ghtml",
-    "description": "Um grupo de 15 ex-ministros, escritores, juristas e representantes da sociedade civil assinou, neste sábado (17), uma carta de apoio à reeleição do presidente Lula (PT). O documento “pela democracia, pela estabilidade, pelo desenvolvimento com justiça social e ambiental e pelo Brasil” foi apresentado durante evento com o vice-presidente Geraldo Alckmin (PSB), em São Paulo.\nEntrevista: 'Ideologia é importante, mas é a economia que está decidindo a eleição', diz cientista político André Singer\n'Falta transparência': Ministério da Justiça aciona MPF no caso Meta\nNa carta, figuras como o ex-tucano Aloysio Nunes, o jurista Miguel Reale Junior (um dos autores do pedido de impeachment de Dilma Rousseff), o diplomata Rubens Ricupero e economista Claudia Costin, todos ex-ministros do governo Fernando Henrique Cardoso (PSDB), bem como a filha do ex-presidente, Beatriz Cardoso, afirmam que o Brasil “está diante de uma escolha que ultrapassa diferenças partidárias e preferências ideológicas” e que, neste segundo turno, “está em jogo a capacidade do país de preservar a estabilidade institucional, o equilíbrio entre os Poderes e as liberdades democráticas”. \nTambém assinam o documento as escritoras Beatriz Bracher e Rosiska Darcy de Oliveira, os juristas Oscar Vilhena e José Carlos Dias, o economista Eduardo Giannetti, o ambientalista e ex-deputado federal constituinte Fabio Feldmann, a ex-ministra do Meio Ambiente Izabella Teixeira e o ex-deputado federal Floriano Pesaro (PSDB), além de Monja Coen.  \nEm campanha: Alckmin busca aliados no interior na tentativa de reorganizar palanque de Lula em SP e grava com filha de FHC\n“Nós, que temos distintas origens, trajetórias e visões sobre muitos dos desafios nacionais, entendemos que, sobretudo nos momentos de maior polarização, a democracia é o nosso norte comum, e ela exige responsabilidade, respeito às instituições e compromisso inequívoco com a Constituição”, diz a carta, acrescentando que a reeleição de Lula “oferece ao país melhores condições para assegurar equilíbrio constitucional, preservar direitos e liberdades, e manter canais de diálogo entre os diferentes setores da sociedade”. \nOs signatários afirmam que o projeto representado por Flávio Bolsonaro (PL) traz “ameaças a esses princípios, intenções de desarticular patamares de conquistas sociais já consolidados e riscos à interlocução internacional multilateral consagrada pelo Brasil”.\nDiálogo para virar voto\nNa reunião, da qual também participaram os ex-ministros Fernando Haddad (PT), Simone Tebet (PSB) e Marina Silva (Rede), ex-ministros e lideranças de diversos segmentos destacaram o trabalho do governo Lula na economia e na proteção ao meio ambiente, afirmaram que Flávio representa um risco para o país e insistiram na necessidade de seguir investindo no diálogo e na comunicação via redes sociais para tentar uma virada no segundo turno, que ocorre em 25 de outubro.\nA carta repete um movimento que foi feito em 2022, quando intelectuais, artistas e políticos declararam apoio a Lula contra Jair Bolsonaro. Na ocasião, houve a união de tucanos, emedebistas e economistas de diversas vertentes a favor do petista. \nO vice-presidente Geraldo Alckmin cumprimenta apoiadores em Heliópolis, na capital paulista\nHyndara Freitas/ O GLOBO\n— Hoje aqui temos um encontro de várias lideranças da sociedade civil, religiosas. Queria destacar aqui a presença da filha do presidente Fernando Henrique Cardoso, a Bia Cardoso. Ontem tivemos a declaração de apoio do filho do Mário Covas, o Mário Covas Neto, conhecido como Zuzinha. Estão todos aí empenhados em defender a democracia, a Constituição brasileira, promover desenvolvimento. Nós não queremos o Brasil indo para recessão, para o desemprego, para o fechamento de empresas. Queremos economia crescendo, distribuindo renda — disse Alckmin a jornalistas antes do encontro com os signatários da carta.\nNa manhã deste sábado, o vice-presidente participou de uma caminhada em Heliópolis, uma das maiores favelas de São Paulo, na Zona Sul. Lá, ele, Haddad e Tebet cumprimentaram moradores e comerciantes locais, tiraram fotos com apoiadores e tocaram bateria. \nLeia na íntegra a carta pela democracia e em apoio à chapa Lula-Alckmin:\nPela democracia, pela estabilidade, pelo desenvolvimento com justiça social e ambiental e pelo Brasil.\nUma declaração de apoio à reeleição de Lula e Alckmin.\nNeste segundo turno, o Brasil está diante de uma escolha que ultrapassa diferenças partidárias e preferências ideológicas. Está em jogo a capacidade do país de preservar a estabilidade institucional, o equilíbrio entre os Poderes, as liberdades democráticas; de enfrentar a crise climática, cuidar de nossos biomas, dos povos indígenas, das comunidades tradicionais e de toda a população sacrificada pela acentuada desigualdade social. Está em risco um caminho capaz de levar ao desenvolvimento econômico com justiça social, soberania e paz.\nNós, que temos distintas origens, trajetórias e visões sobre muitos dos desafios nacionais, entendemos que, sobretudo nos momentos de maior polarização, a democracia é o nosso norte comum, e ela exige responsabilidade, respeito às instituições e compromisso inequívoco com a Constituição.\nConsideramos que a reeleição do presidente Luiz Inácio Lula da Silva oferece ao país melhores condições para assegurar esse equilíbrio institucional, preservar direitos e liberdades, manter canais de diálogo entre diferentes setores da sociedade e com espaço geopolítico global, e evitar retrocessos institucionais, preservando conquistas sociais, trabalhistas, educacionais, na saúde pública e na proteção ambiental. Ao mesmo tempo vemos, no projeto representado por Flávio Bolsonaro, ameaças a esses princípios, intenções de desarticular patamares de conquistas sociais já consolidados e riscos à interlocução internacional multilateral consagrada pelo Brasil.\nO Brasil precisa crescer, gerar empregos, estimular a inovação, recuperar sua capacidade industrial, estimular a agricultura de baixo carbono, avançar na educação, criar oportunidades para seus cidadãos e corrigir erros, onde isso se fizer necessário.\nEsse desenvolvimento deve estar associado à estabilidade econômica, à ciência, à tecnologia e à responsabilidade ambiental, com a preservação de nossas riquezas naturais. Florestas, água, biodiversidade e minerais estratégicos são parte da soberania brasileira e devem contribuir para o desenvolvimento do país, com uso responsável desses recursos e compromisso com as futuras gerações.\nTambém consideramos indispensável que o próximo governo respeite a diversidade da sociedade brasileira, proteja direitos fundamentais, sem transformar adversários políticos, instituições públicas, universidades, imprensa ou organizações da sociedade civil em inimigos.\nMuitos de nós temos diferenças com o presidente Lula e críticas a seu governo, e preservaremos nossa independência para expressá-las. É justamente por valorizarmos o pluralismo que fazemos esta escolha. Antes de apoio a um nome, esta manifestação é de apoio ao Brasil, ao nosso espaço nacional e aos seus valores fundamentais comuns.\nAssinam este documento:\nAloysio Nunes Ferreira\nBeatriz Bracher\nBeatriz Cardoso\nCarlos Nobre\nClaudia Costin\nEduardo Giannetti\nFabio Feldman\nFloriano Pesaro\nJosé Carlos Carvalho\nIzabella Teixeira\nJosé Carlos Dias\nMiguel Reale Jr.\nRosiska Darcy de Oliveira\nOscar Vilhena\nRubens Ricupero",
-    "published": "2026-10-17T16:44:47+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "Um grupo de 15 ex-ministros, escritores, juristas e representantes da sociedade civil assinou, neste sábado (17), uma carta de apoio à reeleição do presidente Lula (PT). O documento “pela democracia, pela estabilidade, pelo desenvolvimento com justiça social e ambiental e pelo Br",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "José Sarney recebe alta hospitalar após nove dias de internação",
-    "link": "https://valor.globo.com/brasil/noticia/2026/10/17/jos-sarney-recebe-alta-hospitalar-aps-nove-dias-de-internao.ghtml",
-    "description": "Após nove dias de internação, o ex-presidente da República, José Sarney, de 96 anos, recebeu alta hospitalar na manhã deste sábado (17). \n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-10-17T16:43:35+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Após nove dias de internação, o ex-presidente da República, José Sarney, de 96 anos, recebeu alta hospitalar na manhã deste sábado (17). \n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/politica/noticia/2026/10/17/jose-sarney-recebe-alta-hospitalar-em-sao-luis-apos-nove-dias-internado.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Datafolha: eleitores de Flávio dizem buscar mudança; os de Lula, proteção social",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/pesquisa-eleitoral/noticia/2026/10/17/datafolha-eleitores-de-flavio-dizem-buscar-mudanca-os-de-lula-protecao-social.ghtml",
-    "description": "Datafolha, 2º turno: Flávio Bolsonaro, 47%; Lula, 45%\nA mudança e a alternância de poder são os principais motivos declarados por eleitores que pretendem votar em Flávio Bolsonaro (PL) no segundo turno da eleição presidencial, segundo pesquisa Datafolha. \nEntre os eleitores do presidente Lula (PT), pesam mais a proteção social e a avaliação do desempenho e do legado do petista.\nLeia também: Datafolha: 59% defendem que ministros do STF deveriam ter mandato\nO levantamento ouviu 2.520 pessoas em 153 municípios de todo o país na terça-feira (13) e na quarta-feira (14). A margem de erro é de dois pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. A pesquisa está registrada na Justiça Eleitoral sob o número BR-00466/2026.\nOs entrevistadores apresentaram aos eleitores dos dois candidatos uma mesma lista de possíveis razões para a escolha no segundo turno, marcado para o próximo dia 25. Os participantes puderam indicar mais de um motivo.\nO que motiva o voto em Flávio Bolsonaro (PL)\nEntre os eleitores de Flávio, 41% citaram a mudança e a alternância de poder como razões para votar no senador. Veja ranking: \nMudança e alternância de poder: 41%\nRejeição ao adversário: 31%\nEconomia e custo de vida: 16%\nPropostas e qualidades do candidato: 15%\nDesempenho e legado: 14%\nValores, ideologia e democracia: 13%\nSem motivo específico: 12%\nIntegridade e corrupção: 11%\nServiços públicos e segurança: 10%\nProteção social e classe: 5%\nVínculo e hábito: 2%\nVoto por exclusão: 1%\nO que motiva o voto em Lula (PT)\nEntre os eleitores que declaram voto no presidente Lula, a principal motivação é a proteção social e a identificação de classe, citadas por 48% dos entrevistados pelo Datafolha. Veja ranking completo:\nProteção social e classe: 48%\nDesempenho e legado: 22%\nRejeição ao adversário: 17%\nValores, ideologia e democracia: 11%\nServiços públicos e segurança: 10%\nSem motivo específico: 9%\nVínculo e hábito: 8%\nVoto por exclusão: 6%\nEconomia e custo de vida: 6%\nMudança e alternância: 1%\nO que motiva o voto em branco ou nulo\nEntre os eleitores que pretendem votar em branco ou nulo, 37% citam a rejeição aos dois candidatos como motivo, segundo o Datafolha. Veja ranking completo:\nRejeição a ambos: 37%\nDescrença e desinteresse: 19%\nDesconfiança, promessas e corrupção: 18%\nSem motivo específico: 16%\nFalta de opção e polarização: 12%\nPropostas ausentes, ruins ou desconhecidas: 9%\nOutro motivo: 6%\nCríticas a Flávio ou a Bolsonaro: 4%\nCríticas a Lula ou ao PT: 2%\nFlávio tem 51% dos votos válidos, e Lula, 49%\nA última pesquisa Datafolha, divulgada na quinta-feira (15), mostra que, a dez dias do 2º turno, Flávio Bolsonaro (PL) tem 47% das intenções de voto, e Lula (PT) tem 45%. Os dois candidatos estão em empate técnico dentro da margem de erro. \nEm votos válidos, que exclui brancos, nulos e indecisos, Flávio Bolsonaro tem 51% e Lula, 49%. O número de votos válidos é o que a Justiça Eleitoral usa para determinar os resultados das eleições.\nO levantamento foi encomendado pelo jornal Folha de S.Paulo. A margem de erro é de dois pontos percentuais, para mais ou para menos. \nVeja os números - votos totais:\nFlávio Bolsonaro (PL): 47% (eram 49% na pesquisa anterior) \nLula (PT): 45% (eram 45%) \nEm branco/nulo/nenhum: 6% (eram 5%) \nIndecisos: 2% (era 1%) \nDatafolha, 2º turno: estimulada\nArte/g1\nEm relação à pesquisa anterior, da semana passada, Flávio Bolsonaro oscilou dois pontos para baixo, de 49% para 47%, e Lula manteve 45%. A diferença entre eles era de quatro pontos há uma semana, e agora é de dois pontos. \nSaiba mais:\nPágina especial traz as pesquisas eleitorais com dados detalhados\nA pesquisa é a primeira do Datafolha após as manifestações de apoio a Lula ocorridas em diversas capitais do país. No domingo, o presidente discursou para apoiadores na Avenida Paulista, e desde então houve mobilizações de eleitores do petista no Rio de Janeiro, em Brasília e outras cidades. \nFlávio Bolsonaro e Lula\nREUTERS/Diego Vara e REUTERS/Adriano Machado\nO Datafolha ouviu 2.520 pessoas de 16 anos ou mais, entre os dias 13 e 14 de outubro. A margem de erro é de dois pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro da pesquisa na Justiça Eleitoral é BR-00466/2026. \nDatafolha, 2º turno: votos válidos\nArte/g1\nAlguns destaques da pesquisa: \nFlávio Bolsonaro bate Lula no Sudeste, a região com o maior número de eleitores, por 51% a 41%. \nNo segmento de classe média, que corresponde a 37% dos entrevistados, Flávio Bolsonaro supera Lula por 55% a 40%. \nO candidato do PL também lidera com folga na Região Sul (62% a 29%) e entre os evangélicos (62% a 29%), embora tenha oscilado sete pontos para baixo, dentro da margem de erro específica deste segmento, de quatro pontos percentuais. \nLula supera Flávio Bolsonaro entre os eleitores mais pobres (53% a 38%). \nO petista vence o adversário também entre os católicos (52% a 42%) e entre os eleitores do Nordeste (61% a 32%). \nNo eleitorado feminino, Lula tem vantagem de nove pontos (49% a 40%), enquanto Flávio Bolsonaro fica à frente entre os homens (52% a 40%). \nRejeição \nO Datafolha mostra também que Lula tem uma rejeição de 46% (mesmo patamar da pesquisa anterior), enquanto a rejeição de Flávio Bolsonaro é de 44% (eram 43%). \nSegundo a pesquisa, 3% dos eleitores dizem rejeitar ambos, e 7% não rejeitam nenhum dos dois. \nDatafolha, 2º turno: rejeição\nArte/g1\nAprovação do governo Lula \nDesaprovam: 50% (eram 49% na pesquisa anterior) \nAprovam: 48% (eram 48%) \nNão sabe: 3% (eram 2%) \nAvaliação do governo Lula \nRuim/péssimo: 41% (eram 40%) \nÓtimo/bom: 35% (eram 35%) \nRegular: 23% (eram 24%) \nNão sabe: 1% (era 1%)",
-    "published": "2026-10-17T16:38:18+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "Datafolha, 2º turno: Flávio Bolsonaro, 47%; Lula, 45%\nA mudança e a alternância de poder são os principais motivos declarados por eleitores que pretendem votar em Flávio Bolsonaro (PL) no segundo turno da eleição presidencial, segundo pesquisa Datafolha. \nEntre os eleitores do pr",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/blogs/pulso/post/2026/10/datafolha-mudanca-motiva-voto-em-flavio-e-protecao-social-e-a-principal-razao-dos-eleitores-de-lula.ghtml"
       }
     ]
   }
