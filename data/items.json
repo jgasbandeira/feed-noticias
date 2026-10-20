@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "Lula nega “bomba fiscal” e critica a autonomia do BC",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-nega-bomba-fiscal-e-critica-a-autonomia-do-bc/",
+    "description": "Presidente defende reajuste do Bolsa Família e afirma que não precisa aprender sobre controle de gastos com a Faria Lima",
+    "published": "2026-10-20T00:36:30+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Presidente defende reajuste do Bolsa Família e afirma que não precisa aprender sobre controle de gastos com a Faria Lima",
+    "relevance": 5
+  },
+  {
     "source": "Folha",
     "title": "Governo Lula preparou documentos para reajustar Bolsa Família na véspera do anúncio e sob sigilo",
     "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/governo-lula-preparou-documentos-para-reajustar-bolsa-familia-na-vespera-do-anuncio-e-sob-sigilo.shtml",
@@ -2690,7 +2702,13 @@
       "Politica"
     ],
     "summary": "O governo pretende enviar nesta semana ao Congresso Nacional a Proposta de Emenda à Constituição (PEC) que permitirá destinar parte das emendas parlamentares impositivas ao financiamento da tarifa zero no transporte público aos fins de semana e feriados, disse ao Valor o ministro",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Folha",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/lula-fala-em-briguinha-com-congresso-por-tarifa-zero-para-transporte-com-financiamento-por-emendas.shtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -4026,17 +4044,5 @@
         "link": "https://valor.globo.com/politica/noticia/2026/10/19/deputado-do-pl-e-detido-em-sp-apos-disparar-arma-em-festa-dizem-testemunhas.ghtml"
       }
     ]
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Braskem, M. Dias, Caixa Seguridade, Unifique e mais ações para acompanhar hoje",
-    "link": "https://www.infomoney.com.br/mercados/braskem-m-dias-caixa-seguridade-unifique-e-mais-acoes-para-acompanhar-hoje/",
-    "description": "Veja os principais destaques do noticiário corporativo desta segunda-feira\nThe post Braskem, M. Dias, Caixa Seguridade, Unifique e mais ações para acompanhar hoje appeared first on InfoMoney.",
-    "published": "2026-10-19T10:49:24+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Veja os principais destaques do noticiário corporativo desta segunda-feira\nThe post Braskem, M. Dias, Caixa Seguridade, Unifique e mais ações para acompanhar hoje appeared first on InfoMoney.",
-    "relevance": 5
   }
 ]
