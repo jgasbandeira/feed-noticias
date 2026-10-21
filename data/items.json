@@ -1,5 +1,53 @@
 [
   {
+    "source": "Folha",
+    "title": "Conselho da Helbor recomenda oferta pública de aquisição da HBR para fechar capital e deixar a B3",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/conselho-da-helbor-recomenda-oferta-publica-de-aquisicao-da-hbr-para-fechar-capital-e-deixar-a-b3.shtml",
+    "description": "O conselho de administração da incorporadora Helbor recomendou nesta terça-feira (20) que os acionistas da companhia aceitem a oferta pública de aquisição (OPA) lançada pela HBR Realty para comprar o controle da empresa e fechar seu capital.\nLeia mais (10/20/2026 - 23h19)",
+    "published": "2026-10-21T02:19:00+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "O conselho de administração da incorporadora Helbor recomendou nesta terça-feira (20) que os acionistas da companhia aceitem a oferta pública de aquisição (OPA) lançada pela HBR Realty para comprar o controle da empresa e fechar seu capital.\nLeia mais (10/20/2026 - 23h19)",
+    "relevance": 5
+  },
+  {
+    "source": "Financial Times",
+    "title": "Australian data centre group falls 44% on profit warning",
+    "link": "https://www.ft.com/content/023caf76-40df-485d-8a28-0ff62aa7ec6f?syn-25a6b1a6=1",
+    "description": "NextDC plunge adds to sector woes as Nvidia holds talks over injecting capital into Firmus after failed IPO",
+    "published": "2026-10-21T02:00:40+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "NextDC plunge adds to sector woes as Nvidia holds talks over injecting capital into Firmus after failed IPO",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Uso de IA, reajuste para servidores, concursos e privatizações colocam Lula e Flávio em lados opostos",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/uso-de-ia-reajuste-para-servidores-concursos-e-privatizacoes-colocam-lula-e-flavio-em-lados-opostos.shtml",
+    "description": "As propostas de uso de inteligência artificial no serviço público, o modelo de reforma administrativa, a política de reajuste de salários, concursos e as privatizações de empresas estatais colocam em lados opostos os candidatos Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) nas eleições deste ano.\nLeia mais (10/20/2026 - 23h00)",
+    "published": "2026-10-21T02:00:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "As propostas de uso de inteligência artificial no serviço público, o modelo de reforma administrativa, a política de reajuste de salários, concursos e as privatizações de empresas estatais colocam em lados opostos os candidatos Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (P",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Motta sinaliza apoio a proposta de Lula que concede transporte gratuito sem uso de verba de emendas",
+    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/20/motta-sinaliza-apoio-a-proposta-de-lula-que-concede-transporte-gratuito-no-fim-de-semana.ghtml",
+    "description": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), sinalizou a líderes da Casa ser favorável à Proposta de Emenda à Constituição (PEC) que concede transporte gratuito aos brasileiros no fim de semana. \nO deputado, porém, defende que a medida preserve as emendas parlamentares. A promessa foi feita por Luiz Inácio Lula da Silva durante a campanha do segundo turno. Ao fazer o anúncio, o petista afirmou que os recursos usados seriam remanejados das emendas. \nA informação da intenção de Motta foi publicada pela \"Folha de S. Paulo\". Ainda não há, porém, qualquer calendário definido para a tramitação da PEC no Congresso.  \nO presidente da Câmara fez campanha para Lula no primeiro turno em sua base eleitoral, a Paraíba, e continua a apoiar o petista na segunda etapa da eleição. \nA PEC da gratuidade no transporte público foi anunciada por Lula em um vídeo-selfie na quinta-feira da semana passada. Já o envio do texto será anunciado nesta quarta-feira em cerimônia no Palácio do Planalto. \nNa semana passada, a iniciativa foi divulgada um dia depois da aprovação pelo Senado da proposta de redução da jornada de 6x1 para 5x2. \nO petista argumentou que como o trabalhador terá uma folga a mais, deve ter o direito a usar o transporte público de graça para atividades de lazer.",
+    "published": "2026-10-21T01:51:02+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), sinalizou a líderes da Casa ser favorável à Proposta de Emenda à Constituição (PEC) que concede transporte gratuito aos brasileiros no fim de semana. \nO deputado, porém, defende que a medida preserve as emendas p",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Política",
     "title": "Campanha de Flávio Bolsonaro volta a acionar Nunes Marques diretamente sobre ‘Exército de Lula’; PT contesta pedido",
     "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/20/campanha-flavio-bolsonaro-nunes-marques-exercito-de-lula-pt.ghtml",
@@ -9,6 +57,18 @@
       "Politica"
     ],
     "summary": "Ministro Kassio Nunes Marques\nLuiz Roberto/TSE\nA defesa de Flávio Bolsonaro (PL) fez um novo pedido direto ao presidente do Tribunal Superior Eleitoral, ministro Kassio Nunes Marques, solicitando que obrigue a Meta a explicar por que o WhatsApp “não identificou sinais de comporta",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Romi tem lucro líquido de R$ 42,6 milhões no 3º trimestre, alta de 56,1% em base anual",
+    "link": "https://valor.globo.com/empresas/noticia/2026/10/20/romi-tem-lucro-lquido-de-r-426-milhes-no-3-trimestre-alta-de-561-pontos-percentuais-em-base-anual.ghtml",
+    "description": "A Romi, metalúrgica e fabricante de máquinas, registrou lucro líquido de R$ 42,6 milhões no terceiro trimestre de 2026, em alta de 56,1% sobre o lucro líquido de R$ 27,3 milhões do terceiro trimestre de 2025.\n\nDe acordo com as demonstrações de resultados divulgadas na noite desta terça-feira (20), a receita líquida no terceiro trimestre de 2026 foi de R$ 257,0 milhões, um recuo de 26,4% em comparação com os R$ 349,2 milhões do mesmo trimestre de 2025. \n\nO Ebitda (Resultado antes de juros, impostos, depreciação e amortização) da empresa no terceiro trimestre de 2026 ficou em R$ 28,8 milhões, queda de 24,0% em relação ao Ebitda de R$ 37,9 milhões no mesmo período do ano anterior.",
+    "published": "2026-10-21T01:42:44+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "A Romi, metalúrgica e fabricante de máquinas, registrou lucro líquido de R$ 42,6 milhões no terceiro trimestre de 2026, em alta de 56,1% sobre o lucro líquido de R$ 27,3 milhões do terceiro trimestre de 2025.\n\nDe acordo com as demonstrações de resultados divulgadas na noite desta",
     "relevance": 5
   },
   {
@@ -1895,6 +1955,18 @@
       "Economia"
     ],
     "summary": "Inflação virou assunto menor na campanha",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "A última pesquisa presidencial do Datafolha do segundo turno",
+    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/10/a-ultima-pesquisa-presidencial-do-datafolha-do-segundo-turno.ghtml",
+    "description": "O Datafolha entra em campo entre sexta-feira, 23, e sábado, 24, para medir as intenções de voto na eleição à Presidência da República. O resultado será divulgado no sábado à noite, véspera da eleição. É a quarta e última pesquisa do Datafolha deste segundo turno. Foi encomendada pela \"Folha de S. Paulo\" e pelo grupo Globo (TV Globo e jornal O GLOBO). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-10-20T18:04:22+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O Datafolha entra em campo entre sexta-feira, 23, e sábado, 24, para medir as intenções de voto na eleição à Presidência da República. O resultado será divulgado no sábado à noite, véspera da eleição. É a quarta e última pesquisa do Datafolha deste segundo turno. Foi encomendada ",
     "relevance": 5
   },
   {
@@ -3913,84 +3985,5 @@
     ],
     "summary": "O governador em exercício do Estado do Rio, desembargador Ricardo Couto, determinou o afastamento dos policiais militares envolvidos na abordagem que causou a morte do secretário de Desenvolvimento Econômico e ex-vereador de Queimados, Jefferson Dias da Silva, conhecido como Jeff",
     "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Em meio a crise fiscal, Colômbia aprova orçamento para 2027",
-    "link": "https://valor.globo.com/mundo/noticia/2026/10/20/em-meio-a-crise-fiscal-colmbia-aprova-oramento-para-2027.ghtml",
-    "description": "O Congresso da Colômbia aprovou na madrugada desta terça-feira a distribuição dos recursos do orçamento de 634,9 trilhões de pesos (US$ 201,1 bilhões) para o próximo ano, reduzindo os gastos associados a um acordo de paz firmado há dez anos e aumentando os recursos destinados à defesa.\n\nO orçamento, que prevê um déficit fiscal de 9,4% do Produto Interno Bruto (PIB) em 2027, representa um aumento significativo em relação aos 555,8 trilhões de pesos previstos para este ano.\n\nO orçamento de 2027 destina 144 trilhões de pesos (US$ 45,62 bilhões) ao pagamento da dívida, 93 trilhões de pesos à educação, 81,6 trilhões de pesos à saúde e 74,9 trilhões de pesos à defesa.\n\nA ampliação do orçamento ocorre em um momento em que a Colômbia, quarta maior economia da América Latina, enfrenta dificuldades para colocar suas contas públicas em ordem. A dívida pública deve aumentar neste ano e no próximo, afastando ainda mais o país da recuperação do grau de investimento perdido em 2021.\n\nO governo do novo presidente de direita, Abelardo de la Espriella, havia prometido reduzir os gastos restantes deste ano e afirmou que pretende apresentar ao Congresso uma \"Lei de Resgate\" para cortar as despesas de 2027 e reduzir o déficit fiscal para 7,2% do PIB.\n\nOs deputados aprovaram o projeto de orçamento por 112 votos a favor e apenas um contra.\n\n\"Agradeço a todos por nos darem esse voto de confiança. Vamos conseguir tirar o país desta situação econômica muito complexa\", afirmou o ministro da Fazenda, Miguel Gomez, depois que o Senado aprovou o projeto na segunda-feira.\n\nO orçamento reduz os recursos destinados à Jurisdição Especial para a Paz (JEP), tribunal criado no âmbito do acordo de paz de 2016 com a antiga guerrilha das Forças Armadas Revolucionárias da Colômbia (Farc) para julgar líderes rebeldes e ex-militares por crimes de guerra.\n\nO texto também reduz os recursos de custeio da Unidade de Busca de Pessoas Desaparecidas (UBPD), criada pelo acordo de paz para localizar pelo menos 137 mil pessoas desaparecidas durante o conflito armado, que ainda persiste no país.\n\nAs duas instituições e defensores dos direitos humanos afirmam que os cortes vão limitar as investigações e os julgamentos de violações de direitos humanos, além dos trabalhos de exumação e identificação dos desaparecidos.\nAbelardo de la Espriella\nLuisa Gonzalez/Reuters",
-    "published": "2026-10-20T12:58:30+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O Congresso da Colômbia aprovou na madrugada desta terça-feira a distribuição dos recursos do orçamento de 634,9 trilhões de pesos (US$ 201,1 bilhões) para o próximo ano, reduzindo os gastos associados a um acordo de paz firmado há dez anos e aumentando os recursos destinados à d",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Milton Leite é transferido após regalias em cadeia na Grande São Paulo",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/10/20/milton-leite-e-transferido-apos-regalias-em-cadeia-na-grande-sao-paulo.ghtml",
-    "description": "O ex-vereador Milton Leite, preso há mais de um mês sob a acusação de participar de esquemas criminosos ligado ao transporte público de São Paulo, deixou a Cadeia Pública de Mogi das Cruzes, na Região Metropolitana, e foi levado a outro local ainda não informado. A transferência, ocorrida por volta das 9h desta terça-feira (20), se deu em virtude da descoberta de regalias a Leite.\nSegundo denúncia anônima feita ao Ministério Público e depois investigada pela Polícia Civil, o ex-presidente da Câmara Municipal de São Paulo teria sido beneficiado com visitas e outros benefícios incompatíveis com o cárcere na unidade. Entre as benesses estava o recebimento de alimentos, além da permanência de familiares e políticos no local, o que não é permitido. \nEntre os políticos que visitaram Milton Leite sem autorização formal estão Valdemar Costa Neto, presidente do PL, e os deputados estaduais Delegado Olin (PP) e Rogério Franco (PL). Para o MP, os fatos investigados podem configurar crimes de corrupção passiva e ativa, prevaricação, entre outros.\nQuem ganhou o debate da Band, Flávio Bolsonaro ou Lula? Colunistas do GLOBO dão notas e avaliam\nQuer acompanhar de perto o noticiário das eleições? Participe da comunidade do GLOBO no WhatsApp\nNa semana passada, o Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) deu cumprimento a três mandados de busca e apreensão na unidade prisional e em outros endereços. Durante a operação, investigadores apreenderam R$ 155 mil e US$ 10 mil (cerca de R$ 55 mil), encontrados com um carcereiro em sua residência. \nImagens de câmeras de segurança mostram a chegada de uma caminhonete ligada à empresa da família de Milton Leite à cadeia nos dias 8 e 9 de outubro e a entrada de um carro de luxo na unidade. As imagens também registram a chegada de uma viatura descaracterizada ao 1º Distrito Policial, da qual desembarcaram dois homens e uma mulher que aparenta ser uma delegada.\nSegundo a investigação, um dos homens entrou na cadeia e retornou com Milton Leite, levado à delegacia pela entrada administrativa, de acesso restrito. O ex-vereador permaneceu no local por quase uma hora e depois foi levado de volta à carceragem. Pouco depois, a mulher deixou a delegacia na mesma viatura. Segundo as informações apuradas, o processo não informa o motivo da retirada de Milton Leite da cadeia nem do encontro na delegacia.\nNo dia seguinte à busca e apreensão, a Polícia Civil decidiu afastar três delegados, um investigador e o carcereiro que teve o dinheiro encontrado, por suspeitas de promover e autorizar as regalias. \nJustiça prorrogou prisão\nA Justiça de São Paulo prorrogou na quinta-feira (15), por mais 30 dias, a prisão temporária do ex-vereador. A investigação, conduzida pela Polícia Civil com participação do Ministério Público de São Paulo (MP-SP), busca esclarecer como integrantes da facção teriam estabelecido relações com empresas de ônibus, empresários e agentes públicos, além de apurar possíveis interferências em decisões estratégicas do setor.\nO ex-presidente da Câmara Municipal é apontado pelos investigadores como possível articulador político do esquema e suspeito de ser o proprietário de fato da Transwolff, empresa que já havia sido alvo de uma investigação sobre lavagem de dinheiro para o PCC. Ele nega as acusações.\nA apuração que levou à prisão do ex-vereador foi feita com a análise de celulares e de conversas atribuídas a integrantes da organização criminosa. Em um dos diálogos, um homem apontado como membro do PCC afirma que seria necessário envolver Leite para resolver uma questão. Em outra conversa, os investigadores identificaram preocupação em informar o político sobre acontecimentos relacionados à UpBus, outra empresa de transporte coletivo investigada.\nA defesa de Milton Leite já havia recorrido ao Superior Tribunal de Justiça (STJ) para tentar revogar a prisão temporária. Em 25 de setembro, o ministro Rogerio Schietti Cruz negou liminarmente o pedido. Os advogados alegaram que o ex-vereador tem comorbidades e pediram, alternativamente, que ele cumprisse prisão domiciliar com monitoramento eletrônico.",
-    "published": "2026-10-20T12:53:55+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O ex-vereador Milton Leite, preso há mais de um mês sob a acusação de participar de esquemas criminosos ligado ao transporte público de São Paulo, deixou a Cadeia Pública de Mogi das Cruzes, na Região Metropolitana, e foi levado a outro local ainda não informado. A transferência,",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Taxas do Tesouro Direto caem forte após novas pesquisas, mesmo com alta do petróleo",
-    "link": "https://www.infomoney.com.br/onde-investir/tesouro-direto-abertura-fechamento-20102026/",
-    "description": "Prefixados devolvem praticamente toda a alta registrada ao longo de segunda-feira, em dia de pesquisas Real Time Big Data e Alfa Inteligência com Flávio à frente de Lula\nThe post Taxas do Tesouro Direto caem forte após novas pesquisas, mesmo com alta do petróleo appeared first on InfoMoney.",
-    "published": "2026-10-20T12:52:17+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Prefixados devolvem praticamente toda a alta registrada ao longo de segunda-feira, em dia de pesquisas Real Time Big Data e Alfa Inteligência com Flávio à frente de Lula\nThe post Taxas do Tesouro Direto caem forte após novas pesquisas, mesmo com alta do petróleo appeared first on",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Economia",
-    "title": "Petróleo supera US$ 111 e atinge maior cotação em cinco meses",
-    "link": "https://g1.globo.com/economia/noticia/2026/10/20/petroleo-supera-us-111-e-atinge-maior-cotacao-em-cinco-meses.ghtml",
-    "description": "petróleo\nREUTERS/Dado Ruvic/Ilustração\nO preço do petróleo voltou a subir nesta terça-feira (20) e superou US$ 111 por barril, atingindo o maior nível em cinco meses. A alta ocorre em meio ao agravamento dos conflitos no Oriente Médio, que ameaçam o transporte de petróleo e aumentam as preocupações com a oferta mundial do combustível.\n🔎 Por volta das 9h, o barril do petróleo Brent, referência internacional, era negociado a US$ 111,12, com alta de 1,43%. Durante as negociações, a cotação chegou a US$ 111,69, avanço de 2%. Já o petróleo WTI, referência nos Estados Unidos, subiu 5,7%, para US$ 109,60 por barril.\n🗒️Tem alguma sugestão de reportagem? Mande para o g1\nA valorização ocorre após novos ataques na região. Os houthis do Iêmen, grupo alinhado ao Irã, afirmaram na segunda-feira (19) ter realizado ataques contra alvos energéticos, aeroportuários e militares da Arábia Saudita. Entre os locais citados está uma instalação da petrolífera estatal saudita Aramco.\nAs autoridades sauditas não confirmaram imediatamente as alegações, que não puderam ser verificadas de forma independente pela Reuters.\nEstreito de Ormuz preocupa mercado\nUm dos principais focos de preocupação é o Estreito de Ormuz, passagem marítima estratégica entre o golfo Pérsico e o golfo de Omã. A rota é fundamental para o comércio internacional de petróleo, e as ameaças à navegação na região vêm dificultando o transporte do combustível.\nSegundo a empresa de análise Kpler, o fluxo de petróleo pela região caiu para uma média de aproximadamente 8,5 milhões de barris por dia na semana passada, ante mais de 20 milhões de barris diários na semana anterior.\nNo domingo (18), um petroleiro pegou fogo e explodiu após colidir com uma mina naval no sul do Estreito de Ormuz, segundo informações divulgadas pela Guarda Revolucionária do Irã e reproduzidas pela mídia iraniana.\nEnquanto isso, os conflitos no Oriente Médio continuam. Na segunda-feira, o secretário de Defesa americano, Pete Hegseth, discutiu a situação com o primeiro-ministro israelense, Benjamin Netanyahu, durante uma visita não anunciada a Israel.\nAIE pode liberar mais petróleo de reservas de emergência\nDiante da pressão sobre os preços, a Agência Internacional de Energia (AIE) afirmou estar preparada para coordenar uma nova liberação de petróleo das reservas de emergência de seus países membros, caso seja necessário.\nNa semana passada, a agência decidiu acelerar a liberação do petróleo restante de um pacote anunciado em março, que previa a disponibilização de mais de 400 milhões de barris. \nSegundo o diretor-executivo da AIE, Fatih Birol, cerca de 80% desse volume já havia sido liberado.\nA agência também trabalha para antecipar a disponibilização de mais de 20 milhões de barris de diesel. O cronograma depende de cada país e das condições do mercado, especialmente diante da chegada do inverno no Hemisfério Norte.\n🔎 O diesel é essencial para o transporte de cargas, a agricultura e diversas atividades industriais. Por isso, a alta do combustível pode elevar os custos de produção e transporte e pressionar os preços de outros produtos.\nNos EUA, o presidente Donald Trump anunciou na segunda-feira um programa de US$ 8 bilhões cerca de R$ 40,4 bilhões) em ajuda a agricultores para compensar parte dos custos com diesel durante a temporada de colheita. \nA iniciativa foi apresentada em meio à pressão sobre o custo de vida e à proximidade das eleições legislativas de novembro.\nA evolução dos preços do petróleo dependerá, entre outros fatores, da intensidade dos conflitos no Oriente Médio, das condições de navegação pelo Estreito de Ormuz e da capacidade de ampliar a oferta para compensar eventuais interrupções no abastecimento.\n*Com informações da agência Reuters",
-    "published": "2026-10-20T12:49:41+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "petróleo\nREUTERS/Dado Ruvic/Ilustração\nO preço do petróleo voltou a subir nesta terça-feira (20) e superou US$ 111 por barril, atingindo o maior nível em cinco meses. A alta ocorre em meio ao agravamento dos conflitos no Oriente Médio, que ameaçam o transporte de petróleo e aumen",
-    "relevance": 5
-  },
-  {
-    "source": "Folha",
-    "title": "Bolsa de Seul despenca mais de 3%; ações da China também caem",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/01/6562-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post467510",
-    "description": "A Bolsa de Seul desabou 3,73% nesta terça-feira (20), refletindo um dia de perdas do mercado asiático. O índice Nikkei, em Tóquio, caiu 1,3%, a 64.075 pontos.\nLeia mais (10/20/2026 - 09h48)",
-    "published": "2026-10-20T12:48:00+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A Bolsa de Seul desabou 3,73% nesta terça-feira (20), refletindo um dia de perdas do mercado asiático. O índice Nikkei, em Tóquio, caiu 1,3%, a 64.075 pontos.\nLeia mais (10/20/2026 - 09h48)",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Economia",
-    "title": "Trump anuncia pacote de US$ 8 bilhões para agricultores, às vésperas das eleições nos EUA",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/10/20/trump-8bi-agricultores.ghtml",
-    "description": "Popularidade de Trump cai ao pior nível a duas semanas das eleições nos EUA\nO presidente dos Estados Unidos, Donald Trump, anunciou na segunda-feira (19) um plano de US$ 8 bilhões para ajudar agricultores americanos a enfrentar o aumento dos custos de produção, especialmente com o diesel. \nO anúncio ocorre a duas semanas das eleições legislativas de meio de mandato, marcadas para 3 de novembro, que podem alterar o equilíbrio de forças no Congresso americano. O programa prevê pagamentos únicos aos produtores durante a safra de 2026.\n🗒️Tem alguma sugestão de reportagem? Mande para o g1\nBatizada de Harvest Fuel Relief (alívio de combustível para a colheita), a iniciativa será administrada pelo Departamento de Agricultura dos Estados Unidos (USDA), por meio da Farm Service Agency, agência responsável por programas de apoio a produtores rurais.\n➡️ Segundo o governo americano, os recursos serão usados para compensar parte das perdas estimadas dos agricultores diante de perturbações temporárias do mercado e do aumento dos custos de insumos.\nOs pagamentos serão calculados com base em uma fórmula que considera a área plantada informada pelos produtores, as estimativas de custos de produção e as projeções de produtividade e preços agrícolas. \nAs taxas de pagamento para as principais culturas contempladas devem ser divulgadas em novembro. A metodologia para outras atividades elegíveis será anunciada posteriormente.\nOs recursos virão da Commodity Credit Corporation, entidade ligada ao Departamento de Agricultura americano. O governo informou ainda que os produtores não precisarão contratar seguro agrícola para participar do programa.\nAlta do diesel pressiona custos da produção agrícola\nO aumento do preço do diesel tem elevado os gastos dos agricultores americanos, que dependem do combustível para operar tratores, colheitadeiras e outros equipamentos usados no plantio e na colheita.\nO combustível também é importante para o transporte de insumos e produtos agrícolas. Quando fica mais caro, pode pressionar os custos de diferentes etapas da produção e reduzir as margens dos produtores.\nNo Kansas, onde Trump anunciou o pacote, agricultores enfrentam dificuldades com a alta do diesel e de outros insumos. Segundo a Associated Press (AP), o combustível ultrapassou US$ 6,30 por galão no estado, valor mais de 70% superior ao registrado um ano antes.\nA alta dos combustíveis também pode encarecer fertilizantes e outros insumos cuja produção ou distribuição depende de energia e transporte. O impacto varia conforme a cultura, o consumo de combustível e as condições de cada propriedade.\nA disparada dos preços da energia ocorre em meio às perturbações no mercado internacional provocadas pelo conflito envolvendo Estados Unidos, Israel e Irã, que têm pressionado os preços dos combustíveis.\nAjuda é anunciada antes das eleições legislativas\nAs eleições de meio de mandato serão realizadas em 3 de novembro e definirão a composição da Câmara dos Representantes e de parte do Senado americano. A votação é considerada importante para o governo Trump, já que pode alterar o equilíbrio de forças no Congresso durante a segunda metade de seu mandato.\nTrump e o Partido Republicano tentam manter apoio em estados rurais, onde o aumento dos custos de produção tem gerado insatisfação entre agricultores e outros eleitores.\nEm reportagem publicada nesta semana, a Reuters destacou que os custos elevados e os preços dos combustíveis estão entre as preocupações de produtores em estados agrícolas, como o Kansas. O estado tem uma disputa pelo Senado considerada competitiva, apesar de seu histórico de apoio aos republicanos.\nA nova iniciativa integra uma série de medidas e promessas econômicas anunciadas pelo governo Trump antes da votação. O programa, porém, ainda depende da divulgação dos valores específicos por cultura e dos detalhes operacionais para que os agricultores saibam quanto poderão receber.\n*Com informações da Reuters\nDonald Trump fala a jornalistas ao deixar a Casa Branca, em Washington, em 13 de outubro de 2026.\nKevin Lamarque/ Reuters",
-    "published": "2026-10-20T12:44:05+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Popularidade de Trump cai ao pior nível a duas semanas das eleições nos EUA\nO presidente dos Estados Unidos, Donald Trump, anunciou na segunda-feira (19) um plano de US$ 8 bilhões para ajudar agricultores americanos a enfrentar o aumento dos custos de produção, especialmente com ",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/mundo/trump-anuncia-pacote-de-us-8-bi-para-compensar-gastos-de-agricultores-com-diesel/"
-      }
-    ]
   }
 ]
