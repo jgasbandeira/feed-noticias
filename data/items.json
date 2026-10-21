@@ -1,5 +1,29 @@
 [
   {
+    "source": "G1 - Política",
+    "title": "Campanha de Flávio Bolsonaro volta a acionar Nunes Marques diretamente sobre ‘Exército de Lula’; PT contesta pedido",
+    "link": "https://g1.globo.com/politica/blog/julia-duailibi/post/2026/10/20/campanha-flavio-bolsonaro-nunes-marques-exercito-de-lula-pt.ghtml",
+    "description": "Ministro Kassio Nunes Marques\nLuiz Roberto/TSE\nA defesa de Flávio Bolsonaro (PL) fez um novo pedido direto ao presidente do Tribunal Superior Eleitoral, ministro Kassio Nunes Marques, solicitando que obrigue a Meta a explicar por que o WhatsApp “não identificou sinais de comportamento coordenado” no canal  “Exército do Lula”. A campanha já havia acionado o magistrado a respeito do tema na semana passada, o que levou a uma batalha de liminares dentro da Corte.\nO caso do canal “Exército do Lula” já é analisado pelo corregedor-eleitoral do tribunal, ministro Ricardo Villas Bôas Cueva. A campanha de Flávio entrou com uma ação de investigação judicial eleitoral em 7 de outubro alegando uso indevido de comunicação social. Alguns dias depois, fez um pedido direto à Presidência solicitando a suspensão da comunidade por suposta disseminação de notícias falsas, que foi atendido.\nCueva chegou a derrubar a decisão de Nunes Marques, mas o presidente deu liminares sobrepondo-se ao corregedor duas vezes. \nEm resposta ao novo pedido, a coligação “Brasil Pronto pra Mais”, de Lula (PT), apresentou manifestação pedindo o indeferimento integral dos onze pedidos. \nA equipe argumenta que a via do pedido é inadequada. Para os advogados, a petição pretende, na prática, instruir por outro caminho uma ação de investigação judicial eleitoral já existente sobre o assunto. Segundo a manifestação, o corregedor deu prazo ao autor para esclarecer pedidos e juntar prova digital, e o requerente não teria respondido desde então.",
+    "published": "2026-10-21T01:43:34+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Ministro Kassio Nunes Marques\nLuiz Roberto/TSE\nA defesa de Flávio Bolsonaro (PL) fez um novo pedido direto ao presidente do Tribunal Superior Eleitoral, ministro Kassio Nunes Marques, solicitando que obrigue a Meta a explicar por que o WhatsApp “não identificou sinais de comporta",
+    "relevance": 5
+  },
+  {
+    "source": "Estadão",
+    "title": "O Brasil fez, na economia, o que era difícil; falta o mais simples",
+    "link": "https://www.estadao.com.br/economia/o-brasil-fez-na-economia-o-que-era-dificil-falta-o-mais-simples/",
+    "description": "",
+    "published": "2026-10-21T01:00:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O Brasil fez, na economia, o que era difícil; falta o mais simples",
+    "relevance": 5
+  },
+  {
     "source": "Money Times",
     "title": "“Se não fizermos a lição de casa, vamos sofrer”: o alerta do CEO do BTG para o Brasil",
     "link": "https://www.moneytimes.com.br/se-nao-fizermos-a-licao-de-casa-vamos-sofrer-o-alerta-do-ceo-do-btg-para-o-brasil-miql/",
@@ -16,6 +40,18 @@
     "source": "Valor Econômico",
     "title": "Em reunião no TSE, Meta admite falha, mas diz que não beneficiou Flávio",
     "link": "https://valor.globo.com/noticia/2026/10/20/em-reunio-no-tse-meta-admite-falha-mas-diz-que-no-beneficiou-flvio.ghtml",
+    "description": "O ministro Marco Aurélio Bellizze, do Tribunal Superior Eleitoral (TSE), se reuniu na noite desta terça-feira (20) com representantes da Meta e das campanhas dos candidatos à Presidência Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL). Bellizze é relator da ação em que ficou determinado o tratamento igualitário entre as campanhas em plataformas como Instagram, WhatsApp e Facebook, de responsabilidade da Meta. \n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-10-21T00:47:57+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O ministro Marco Aurélio Bellizze, do Tribunal Superior Eleitoral (TSE), se reuniu na noite desta terça-feira (20) com representantes da Meta e das campanhas dos candidatos à Presidência Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL). Bellizze é relator da ação em que fic",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Em reunião no TSE, Meta admite falha, mas diz que não beneficiou Flávio",
+    "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/20/em-reunio-no-tse-meta-admite-falha-mas-diz-que-no-beneficiou-flvio.ghtml",
     "description": "O ministro Marco Aurélio Bellizze, do Tribunal Superior Eleitoral (TSE), se reuniu na noite desta terça-feira (20) com representantes da Meta e das campanhas dos candidatos à Presidência Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL). Bellizze é relator da ação em que ficou determinado o tratamento igualitário entre as campanhas em plataformas como Instagram, WhatsApp e Facebook, de responsabilidade da Meta. \n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
     "published": "2026-10-21T00:47:57+00:00",
     "themes": [
@@ -345,7 +381,13 @@
       "Politica"
     ],
     "summary": "Mensagens e documentos apreendidos pela Polícia Federal indicam que o advogado Willer Tomaz, amigo do senador Flávio Bolsonaro (PL-RJ), fez pagamentos para retirar do ar reportagens que o relacionavam ao parlamentar, que é candidato à Presidência. Os dois são investigados em um i",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/politica/noticia/2026/10/20/pf-aponta-que-willer-tomaz-pagou-para-retirar-do-ar-noticias-que-citavam-relacao-com-flavio-bolsonaro.ghtml"
+      }
+    ]
   },
   {
     "source": "G1 - Economia",
@@ -3950,47 +3992,5 @@
         "link": "https://www.infomoney.com.br/mundo/trump-anuncia-pacote-de-us-8-bi-para-compensar-gastos-de-agricultores-com-diesel/"
       }
     ]
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "FFT5 transforma experiência de mulheres 50+ em negócio, autoridade e legado",
-    "link": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/10/20/fft5-transforma-experiencia-de-mulheres-50-em-negocio-autoridade-e-legado-1.ghtml",
-    "description": "Depois de mais de 45 anos atuando em posições estratégicas de gestão, pessoas, operações e expansão em empresas como Rhodia, Walmart, Zara e Bath & Body Works, Viviane Marrese decidiu transformar em método uma experiência que atravessa diferentes momentos do mercado: a capacidade de identificar potencial, estruturar caminhos e transformar conhecimento em resultado.\nÉ dessa trajetória que nasce a FFT5 Essência Executiva, consultoria de desenvolvimento humano e negócios voltada especialmente para mulheres 50+ que desejam transformar décadas de experiência profissional em autoridade, novos negócios e legado.\nA proposta parte de uma mudança de perspectiva sobre a maturidade profissional. Em vez de tratar os 50 anos como um momento de encerramento ou de reinvenção completa, a FFT5 trabalha com a ideia de que essa fase pode representar justamente o momento em que conhecimento, repertório, contatos e visão estratégica estão mais consolidados.\nDa experiência acumulada a um método próprio\nA FFT5 foi estruturada a partir da própria trajetória de sua fundadora. Aos 55 anos, depois de ter seu cargo extinto em uma reestruturação, Viviane precisou iniciar uma nova fase profissional. Foi nesse momento que decidiu colocar em prática o repertório acumulado ao longo de décadas e empreender.\nA partir dessa experiência, a proposta passou a partir de uma lógica diferente: não começar do zero, mas identificar o que já foi construído ao longo de décadas e encontrar maneiras de transformar esse repertório em uma nova proposta de valor.\nNa visão da FFT5, cada profissional possui uma combinação particular de experiência, competências, interesses e perspectivas. O trabalho da consultoria é identificar essa assinatura e criar as condições para que ela possa se transformar em um projeto concreto.\nPor isso, a empresa não trabalha com programas padronizados. O processo começa com um diagnóstico aprofundado de perfil, expectativas, necessidades e objetivos. A partir daí, é construído um plano individualizado, acompanhado por especialistas de diferentes áreas.\nA abordagem reúne conhecimentos de gestão, negócios, comunicação, carreira, artes e ciências, permitindo atender profissionais em diferentes momentos e campos de atuação.\nMais do que carreira: uma nova relação com a própria experiência\nUm dos principais programas da FFT5 é o Essência Executiva, mentoria individual voltada a mulheres 50+ que desejam transformar sua experiência em uma nova frente profissional ou negócio.\nAo longo de dez semanas, o programa percorre etapas que vão desde o reconhecimento de competências pouco percebidas pela própria profissional até a definição de posicionamento, modelo de negócio, primeira oferta, precificação, narrativa de vendas, ativação de rede e construção de um plano de ação de 90 dias.\nA lógica é simples: antes de buscar uma nova identidade profissional, é preciso reconhecer o valor da identidade que já foi construída.\n\"Não é sobre se reinventar. É sobre revelar e monetizar uma potência que já existe\", resume Viviane.\nComunicação como ferramenta de posicionamento\nA metodologia da FFT5 também incorpora uma dimensão fundamental para essa nova etapa profissional: a capacidade de comunicar e ocupar espaço.\nÉ nesse ponto que entra Catarina Marcato, especialista em oratória, linguagem corporal e comunicação executiva. Seu trabalho complementa a mentoria de negócios ao ajudar as participantes a traduzir experiência em presença, discurso e posicionamento.\nA proposta é trabalhar não apenas o que a profissional sabe, mas como esse conhecimento é percebido pelo mercado.\nUma nova economia da experiência\nA criação da FFT5 acontece em um momento em que o Brasil passa por uma transformação demográfica que muda também a relação entre carreira, trabalho e longevidade profissional. O país já soma mais de 104,5 milhões de mulheres, segundo o Censo 2022, e a população com 65 anos ou mais cresceu 57,4% em apenas 12 anos.\nAo mesmo tempo, o empreendedorismo feminino ganha escala. Mais de 10 milhões de mulheres já estão à frente de negócios no país, segundo o Sebrae. Entre os brasileiros que pretendiam empreender até 2026, elas representavam 54,6%.\nO recorte etário também chama atenção: 67% das mulheres empreendedoras estão entre 35 e 64 anos, de acordo com levantamento do Sebrae baseado em dados do GEM e da PNAD. O dado reforça que o empreendedorismo feminino não está restrito às novas gerações: mulheres em fases mais maduras da vida já representam uma parcela importante desse movimento.\nÉ nesse cenário que a FFT5 identifica uma oportunidade ainda pouco explorada: transformar a experiência acumulada por mulheres 50+ em um ativo econômico. Depois de décadas de carreira, muitas chegam a essa etapa com conhecimento técnico, capacidade de liderança, repertório, rede de contatos e uma compreensão profunda de seus mercados, mas nem sempre sabem como transformar esse conjunto de competências em uma nova proposta profissional.\nA FFT5 nasce justamente para fazer essa ponte. Em vez de propor uma reinvenção completa, a consultoria trabalha a partir do patrimônio profissional já construído para identificar possibilidades de posicionamento, negócio e legado.\nA provocação é direta: se a longevidade está aumentando e as mulheres permanecem economicamente ativas por mais tempo, por que os modelos de carreira ainda tratam os 50 anos como uma linha de chegada?\nPara Viviane Marrese, a resposta passa por mudar a forma como a própria experiência é percebida. \"Não existe currículo que perca valor depois dos 50. O que existe é experiência que nunca foi ensinada a virar negócio.\"\nA FFT5 transforma essa ideia em metodologia, combinando diagnóstico individual, mentoria, estratégia de negócios e comunicação para ajudar mulheres maduras a identificar o que sabem fazer melhor, encontrar seu espaço no mercado e transformar conhecimento em uma nova fonte de valor.\nViviane Marrese: a mentora que já esteve dos dois lados\nViviane Marrese é psicóloga, executiva, consultora e mentora, com mais de 45 anos de experiência em Recursos Humanos, Operações, Desenvolvimento Organizacional e gestão de negócios. É formada em Psicologia pela PUC-SP, possui DEA em Psicologia Organizacional pela Université de la Sorbonne Paris V, especialização em Administração de Recursos Humanos pela FGV e Short MBA pelo IESE/ISE.\nAo longo da carreira, atuou em empresas como Rhodia, Walmart, Zara, Grupo Saga, Neeche Haute Parfumerie e Bath & Body Works, além de ter fundado o Giro no Brás e, desde 2017, estar à frente da FFT5 Gestão de Negócios e da FFT5 Essência Executiva.\nFluente em português, inglês, francês e espanhol, com compreensão verbal e leitura em alemão e italiano, Viviane construiu uma carreira marcada pela interseção entre pessoas, negócios, expansão e desenvolvimento de lideranças.\nHoje, sua principal missão é levar essa experiência para mulheres que chegaram à maturidade profissional e não querem encerrar a própria trajetória; querem transformá-la.\n\"A segunda metade da carreira não precisa ser uma repetição da primeira. Pode ser o momento em que toda a experiência finalmente encontra o seu próprio negócio, a sua própria voz e o seu próprio legado\".\nCatarina Marcato: a voz que dá corpo à autoridade\nCatarina Marcato é atriz, cantora, diretora musical, dubladora e especialista em oratória, linguagem corporal e comunicação executiva. Com formação internacional na New York Film Academy e mais de 24 anos de carreira artística, construiu uma trajetória entre teatro, música, audiovisual e preparação vocal.\nAo longo de sua carreira, atuou em palcos ao lado de nomes como Miguel Falabella, participou de concertos com a OSESP e esteve envolvida em produções relacionadas a Disney+ e Amazon Prime Video.\nHoje, desenvolve uma metodologia que combina técnicas de teatro, voz e presença com comunicação executiva. Dentro da FFT5, trabalha com mulheres 50+ para que consigam comunicar, com autenticidade e segurança, a autoridade que décadas de experiência profissional já construíram.\nhttps://www.instagram.com/fft5consultoria/\nInformações à Imprensa: AGÊNCIA VIVA\nRenata Nascimento - renata@agenciaviva.com\nAndressa Bregalanti - andressa@agenciaviva.com",
-    "published": "2026-10-20T12:43:33+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Depois de mais de 45 anos atuando em posições estratégicas de gestão, pessoas, operações e expansão em empresas como Rhodia, Walmart, Zara e Bath & Body Works, Viviane Marrese decidiu transformar em método uma experiência que atravessa diferentes momentos do mercado: a capacidade",
-    "relevance": 5
-  },
-  {
-    "source": "Folha",
-    "title": "OpenAI busca acelerar captação de recursos antes da IPO da Anthropic, diz agência",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/openai-busca-acelerar-captacao-de-recursos-antes-da-ipo-da-anthropic-diz-agencia.shtml",
-    "description": "A OpenAI está correndo contra o tempo para garantir compromissos de investidores antes da esperada estreia da rival Anthropic no mercado de capitais, prevista para meados de novembro, em uma captação de recursos excepcionalmente rápida que poderia avaliar a fabricante do ChatGPT em mais de US$ 1,4 trilhão (R$ 7,07 trilhões), de acordo com duas pessoas a par do assunto.\nLeia mais (10/20/2026 - 09h41)",
-    "published": "2026-10-20T12:41:00+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A OpenAI está correndo contra o tempo para garantir compromissos de investidores antes da esperada estreia da rival Anthropic no mercado de capitais, prevista para meados de novembro, em uma captação de recursos excepcionalmente rápida que poderia avaliar a fabricante do ChatGPT ",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/financas/noticia/2026/10/20/openai-busca-acelerar-captao-de-recursos-antes-da-abertura-de-capital-da-anthropic-dizem-fontes.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "Folha",
-    "title": "MP opina a favor de recuperação extrajudicial da Ri Happy, mas recomenda perícia",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/mp-opina-a-favor-de-recuperacao-extrajudicial-da-ri-happy-mas-recomenda-pericia.shtml",
-    "description": "O Ministério Público de São Paulo se manifestou, nesta segunda-feira (20), em favor da recuperação extrajudicial da Ri Happy. No documento, o órgão pede a realização de perícia para verificar a documentação enviada pela empresa. Caso a juíza do caso não veja necessidade de nomear perito, o MP recomenda o deferimento do pedido de reestruturação.\nLeia mais (10/20/2026 - 09h41)",
-    "published": "2026-10-20T12:41:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O Ministério Público de São Paulo se manifestou, nesta segunda-feira (20), em favor da recuperação extrajudicial da Ri Happy. No documento, o órgão pede a realização de perícia para verificar a documentação enviada pela empresa. Caso a juíza do caso não veja necessidade de nomear",
-    "relevance": 5
   }
 ]
