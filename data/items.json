@@ -14,6 +14,18 @@
     "relevance": 5
   },
   {
+    "source": "Valor Econômico",
+    "title": "MPF cobra transparência na eleição e diz que Meta não deve excluir conteúdos sem justificativa",
+    "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/21/mpf-cobra-transparncia-na-eleio-e-diz-que-meta-no-deve-excluir-contedos-sem-justificativa.ghtml",
+    "description": "O Ministério Público Federal (MPF) enviou nesta quarta-feira (21) à Meta, empresa responsável por Instagram, Facebook e WhatsApp, uma recomendação pedindo que conteúdos e contas não sejam retirados do ar no período eleitoral sem a devida justificação e motivação. Em outra frente, o órgão ingressou com uma ação civil pública na Justiça do Rio Grande do Sul pedindo que a Meta seja obrigada a restabelecer contas e perfis suspensos ou bloqueados. O MPF solicitou que, em caso de descumprimento, seja aplicada multa diária de R$ 500 mil.\nONU aponta falta de isenção da Meta no país\nNunes Marques e Mendonça estudam barrar canais de WhatsApp 48 horas antes do 2º turno\nAs manifestações ocorrem no momento em que a campanha do presidente Luiz Inácio Lula da Silva (PT) acusa a empresa de restringir o alcance de seus conteúdos.\n\nSegundo a recomendação, a Meta deve se abster de remover publicações e de suspender contas nos próximos cinco dias, período que coincide com a reta final das eleições presidenciais deste ano. Também solicitou que sejam direcionados recursos técnicos para ajustar a moderação automática de postagens que contenham termos como “manifestação”, “convocação”, “ato público”, “passeata” e “marcha”.\n\nAinda segundo o MPF, a empresa deve atuar de forma isonômica, sem privilegiar determinados candidatos em detrimento de outros. Por fim, sugere que haja revisão humana obrigatória para validar suspensões decorrentes de denúncias em massa durante as eleições.\n\n“Nesses ambientes, mais do que em quaisquer outros, a liberdade de expressão, o direito de acesso à informação e as liberdades de reunião e associação, portanto, se imbricam e ganham uma dimensão social superlativa. A atuação das empresas controladoras de plataformas digitais, por sua centralidade na vida social contemporânea, precisa ser compatível com o plexo de normas que protegem direitos fundamentais ligados à participação política e à liberdade de expressão”, diz o MPF.\nMPF pede para Meta restabelecer contas e perfis\n\nNa ação civil pública na Justiça do Rio Grande do Sul, o MPF pede que a Meta restabeleça contas e perfis suspensos ou bloqueados. O MPF solicitou que, em caso de descumprimento, seja aplicada multa diária de R$ 500 mil.\n\nA ação reúne denúncias de bloqueios, remoções de publicações e restrições de alcance que teriam atingido movimentos sociais, entidades estudantis, jornalistas e veículos de imprensa. Ao todo, foram colhidos mais de mil relatos de práticas em tese irregulares. \n\n“A imediata intervenção do Poder Judiciário revela-se, portanto, indispensável para estancar essa atmosfera de intimidação e autocensura, restabelecendo a plena eficácia das garantias constitucionais da liberdade de expressão, da liberdade de associação, do acesso à informação e do devido processo informacional”, sustenta o MPF. \n\nA recomendação e a ação foram formuladas pela Procuradoria Federal dos Direitos do Cidadão (PFDC), órgão do MPF. Ambas têm como base representações das organizações Artigo 19, Conectas, Sleeping Giants e CTRL+Z.\n\nAs entidades afirmaram que a Meta aplicou, de setembro a outubro de 2026, um número expressivo de sanções sem devida justificação. As restrições, sustentam, atingiram entidades estudantis, movimentos sociais, coletivos culturais, veículos e profissionais de imprensa, comentaristas políticos e cidadãos.\n\nO Valor entrou em contato com a Meta, mas não obteve resposta até a publicação desta reportagem. \n\nMPF cobra transparência e isonomia da Meta, responsável por Instagram, Facebook e WhatsApp\nUnsplash",
+    "published": "2026-10-22T00:46:53+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O Ministério Público Federal (MPF) enviou nesta quarta-feira (21) à Meta, empresa responsável por Instagram, Facebook e WhatsApp, uma recomendação pedindo que conteúdos e contas não sejam retirados do ar no período eleitoral sem a devida justificação e motivação. Em outra frente,",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Política",
     "title": "Campanha de Lula pede cassação da chapa de Flávio Bolsonaro em ação sobre atuação da Meta nas eleições",
     "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/campanha-de-lula-pede-cassacao-da-chapa-de-flavio-bolsonaro-em-acao-sobre-atuacao-da-meta-nas-eleicoes.ghtml",
@@ -24,7 +36,13 @@
       "Politica"
     ],
     "summary": "A campanha do presidente Luiz Inácio Lula da Silva (PT) entrou com uma ação no Tribunal Superior Eleitoral (TSE)  para pedir a cassação do registro da chapa de Flávio Bolsonaro (PL) e Alfredo Gaspar (PL) à presidência por suposto abuso de poder econômico e uso indevido dos meios ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-eleicoes/campanha-de-lula-pede-ao-tse-cassacao-da-chapa-de-flavio-bolsonaro/"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -3931,18 +3949,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Pesquisa Quaest do segundo turno, divulgada nesta quarta, mostra Flávio Bolsonaro (PL) com 45% das intenções de voto, contra 44% de Lula\nThe post Ibovespa zera ganhos após nova pesquisa Quaest mostrar disputa apertada appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Folha",
-    "title": "Promessa em 2022, regulação do trabalho por aplicativo fica de escanteio nas eleições deste ano",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/promessa-em-2022-regulacao-do-trabalho-por-aplicativo-fica-de-escanteio-nas-eleicoes-deste-ano.shtml",
-    "description": "Prometida pelo presidente Luiz Inácio Lula da Silva (PT) na campanha de 2022, a regulamentação do trabalho em aplicativos ficou de escanteio no debate das eleições de 2026.\nLeia mais (10/21/2026 - 10h24)",
-    "published": "2026-10-21T13:24:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Prometida pelo presidente Luiz Inácio Lula da Silva (PT) na campanha de 2022, a regulamentação do trabalho em aplicativos ficou de escanteio no debate das eleições de 2026.\nLeia mais (10/21/2026 - 10h24)",
     "relevance": 5
   }
 ]
