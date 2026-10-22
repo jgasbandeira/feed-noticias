@@ -1,6 +1,43 @@
 [
   {
     "source": "Valor Econômico",
+    "title": "Preço do petróleo avança na Ásia com temor de escalada no conflito entre EUA e Irã",
+    "link": "https://valor.globo.com/financas/noticia/2026/10/22/preco-do-petroleo-avanca-na-asia-com-temor-de-escalada-no-conflito-entre-eua-e-ira.ghtml",
+    "description": "O petróleo subiu e as ações asiáticas registraram queda com o retorno das atenções para os desdobramentos geopolíticos no Oriente Médio, após o alívio na ansiedade dos mercados globais em relação à inteligência artificial.\nO petróleo ganhou força no início desta quinta-feira em meio a preocupações com uma reescalada do conflito no Oriente Médio. Embora o presidente americano, Donald Trump, tenha afirmado que os EUA não atacarão o Irã antes das eleições de meio de mandato norte-americanas em 3 de novembro, os militares dos EUA vêm preparando uma série de opções para atingir o Irã, informou o The Wall Street Journal, citando autoridades familiarizadas com o planejamento.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-10-22T04:06:22+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "O petróleo subiu e as ações asiáticas registraram queda com o retorno das atenções para os desdobramentos geopolíticos no Oriente Médio, após o alívio na ansiedade dos mercados globais em relação à inteligência artificial.\nO petróleo ganhou força no início desta quinta-feira em m",
+    "relevance": 5
+  },
+  {
+    "source": "Financial Times",
+    "title": "Which G7 economy is the profligacy poster child?",
+    "link": "https://www.ft.com/content/43a2e871-2e82-4af7-8d56-2f00202df949?syn-25a6b1a6=1",
+    "description": "Among the group, France and the US are heading into a wall",
+    "published": "2026-10-22T04:00:21+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Among the group, France and the US are heading into a wall",
+    "relevance": 5
+  },
+  {
+    "source": "Financial Times",
+    "title": "AI and inflation: how worried should central bankers be?",
+    "link": "https://www.ft.com/content/68b04a9b-714e-4a5a-8dde-d9d7b8a65197?syn-25a6b1a6=1",
+    "description": "Relative price shifts can affect the overall price level",
+    "published": "2026-10-22T04:00:11+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Relative price shifts can affect the overall price level",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
     "title": "Presidente da Micron rejeita superioridade de tecnologia de chips da rival chinesa CXMT",
     "link": "https://valor.globo.com/empresas/noticia/2026/10/22/presidente-da-micron-rejeita-superioridade-de-tecnologia-de-chips-da-rival-chinesa-cxmt.ghtml",
     "description": "A fabricante americana de chips Micron Technology não tem planos de migrar para a tecnologia de memória 4F-squared, apesar de a concorrente chinesa CXMT ter anunciado recentemente um avanço com esse tipo de arquitetura.\n\nA Micron não inclui a tecnologia 4F-squared em seu \"roteiro de desenvolvimento atual\", após tê-la avaliado por mais de 20 anos, disse Scott DeBoer, presidente e diretor de tecnologia e produtos da empresa, em entrevista ao “Nikkei Asia” na quarta-feira.\n\nEm vez disso, a companhia continuará apostando na estrutura 6F-squared e na tecnologia 3D DRAM de próxima geração.\n\nA memória de acesso aleatório dinâmica (DRAM) é um componente fundamental utilizado em diversos tipos de dispositivos eletrônicos, desde computadores e smartphones até servidores de data centers e automóveis. A DRAM armazena dados em unidades chamadas células, e a área ocupada por uma única célula é designada como \"F-squared\".\n\nA maioria dos chips de memória atuais utiliza a estrutura 6F-squared, que se refere ao espaço ocupado por cada célula no chip. Teoricamente, quanto menor esse número, mais compactadas ficam as células, permitindo uma maior capacidade de armazenamento.\n\nNo início deste mês, a chinesa ChangXin Memory Technologies (CXMT) anunciou um avanço importante em uma arquitetura de células de memória denominada 4F-squared, que permitiria acomodar mais células em um chip de mesmo tamanho em comparação com a estrutura 6F-squared.\n\nA notícia provocou uma queda nas ações de outras fabricantes de chips de memória. A CXMT é a quarta maior fabricante de chips DRAM do mundo, atrás de Samsung, SK Hynix e Micron.\n\nNo entanto, durante um webinar realizado na quarta-feira, DeBoer afirmou que parte da discussão recente sobre 4F-squared versus 6F-squared não passa de \"cortina de fumaça\", uma vez que a arquitetura 4F-squared não garante, necessariamente, uma capacidade maior. \"É, de certa forma, um mito que a arquitetura 4F ofereça, de fato, alguma vantagem em relação à 6F. O que define a DRAM é o espaçamento entre capacitores\", afirmou DeBoer, acrescentando que a 4F é \"mais complexa e cara\", sem proporcionar grandes benefícios reais sobre a 6F.\n\nO espaçamento entre capacitores é a distância entre os centros de capacitores adjacentes em um chip de DRAM. Ele ajuda a determinar a densidade com que as células de memória, responsáveis pelo armazenamento de dados, podem ser organizadas.\n\nComo cada capacitor precisa armazenar carga suficiente para permitir uma leitura confiável, reduzir esse espaçamento é uma tarefa muito mais difícil do que simplesmente diminuir o tamanho dos transistores.\n\n\"Ao pensarmos em escalar a arquitetura 4F além do patamar atual, esbarramos em questões físicas\", explicou DeBoer, ressaltando que os limites da física fundamental acabarão direcionando o design de chips de memória para a DRAM 3D, em vez da 4F.\n\n\"Na DRAM 3D, a estrutura é totalmente vertical; portanto, os capacitores estão dispostos em uma orientação diferente. Consequentemente, a otimização e a capacidade de desenvolvimento da DRAM 3D seguem uma lógica de escala distinta\", disse DeBoer ao “Nikkei Asia”.\n\nPor outro lado, resta saber se a CXMT conseguirá ampliar a produção de chips de memória baseados na arquitetura 4F sem ter acesso às máquinas de litografia por ultravioleta extremo (EUV) da fabricante holandesa ASML — equipamentos que estão sujeitos a controles de exportação impostos pelos Estados Unidos.\n\n\"Para a Micron, a necessidade de utilizar a tecnologia EUV permanece exatamente a mesma, independentemente de o chip ser fabricado com a arquitetura 4F ou 6F\", observou DeBoer.",
@@ -3899,48 +3936,6 @@
       "Politica"
     ],
     "summary": "Presidente do Supremo afirma que um tribunal que substitui o debate político por sua própria vontade “trai a sua missão”",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Cunhado de Vorcaro presta depoimento nesta quarta-feira",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/10/21/cunhado-de-vorcaro-presta-depoimento.ghtml",
-    "description": "O empresário Fabiano Zettel, cunhado do banqueiro Daniel Vorcaro, presta depoimento à Polícia Federal nesta quarta-feira na investigação envolvendo as fraudes financeiras do Banco Master. Homem de confiança do banqueiro, ele é casado com Natália Vorcaro Zettel, irmã de Vorcaro, e também atua como advogado e pastor. Ele está preso e o depoimento será às 14 horas, por videoconferência. \nUm dos integrantes do grupo de WhatsApp intitulado “A Turma”, Zettel era responsável por operacionalizar pagamentos de Vorcaro. O grupo era usado para realizar atividades de vigilância, coleta de informações e intimidação de pessoas consideradas adversárias do grupo ligado ao Banco Master.  \nSegundo a investigação da Polícia Federal, o grupo era coordenado por Luiz Phillipi Machado de Moraes Mourão, identificado nas comunicações como \"Felipe Mourão\" e apelidado de \"Sicário\", responsável por organizar uma estrutura dedicada ao monitoramento de pessoas e obtenção de informações sensíveis. \nComo O GLOBO mostrou em março, o Conselho de Controle de Atividades Financeiras (Coaf) apontou que Zettel movimentou em sete meses R$ 99,2 milhões, montante \"incompatível com a capacidade financeira\". O volume representa, em média, R$ 14,1 milhões em transações a cada 30 dias, valor mais de duzentas vezes superior à renda de R$ 66 mil mensais declarada por ele.\nO relatório mapeou R$ 49,9 milhões que entraram na conta e R$ 49,3 milhões em débitos entre junho de 2021 e janeiro de 2022. O órgão afirma ainda que o perfil da movimentação indica que a conta \"aparentemente\" foi usada para o \"trânsito de recursos de terceiros\". O mecanismo reforça, segundo investigadores, a suspeita sobre a atuação de Zettel como operador financeiro de Vorcaro.",
-    "published": "2026-10-21T14:16:13+00:00",
-    "themes": [
-      "XP"
-    ],
-    "summary": "O empresário Fabiano Zettel, cunhado do banqueiro Daniel Vorcaro, presta depoimento à Polícia Federal nesta quarta-feira na investigação envolvendo as fraudes financeiras do Banco Master. Homem de confiança do banqueiro, ele é casado com Natália Vorcaro Zettel, irmã de Vorcaro, e",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/financas/noticia/2026/10/21/cunhado-de-vorcaro-depoe-nesta-quarta-feira-a-pf-em-inquerito-sobre-o-grupo-a-turma.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "O Globo",
-    "title": "Campanha de Flávio descarta clima de já ganhou e vê eleição em aberto: “meio a meio”",
-    "link": "https://oglobo.globo.com/blogs/bela-megale/post/2026/10/campanha-de-flavio-descarta-clima-de-ja-ganhou-e-ve-eleicao-em-aberto-meio-a-meio.ghtml",
-    "description": "Com Flávio Bolsonaro numericamente a frente de Lula nas pesquisas, mas em empate técnico nas intenções de voto, a campanha do senador tem evitado o clima de já ganhou e pregado cautela. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-10-21T14:14:31+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Com Flávio Bolsonaro numericamente a frente de Lula nas pesquisas, mas em empate técnico nas intenções de voto, a campanha do senador tem evitado o clima de já ganhou e pregado cautela. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Maiara, que quase perdeu todo o cabelo por alopecia, anuncia doação de perucas para mulheres com câncer",
-    "link": "https://oglobo.globo.com/cultura/noticia/2026/10/21/maiara-que-quase-perdeu-todo-o-cabelo-por-alopecia-anuncia-doacao-de-perucas-para-mulheres-com-cancer.ghtml",
-    "description": "A cantora sertaneja Maiara anunciou, nesta quarta-feira (21), que vai doar laces — perucas que reproduzem a aparência natural dos cabelos — a mulheres que enfrentam o tratamento contra o câncer. A iniciativa faz parte das ações de conscientização do Outubro Rosa, campanha realizada anualmente para alertar sobre a importância da prevenção e do diagnóstico precoce do câncer de mama. \"Sei que a mulherada está precisando\", disse a artista, de 38 anos.\nDe Fernanda Takai a Xande de Pilares: Artistas exaltam a inventividade de Benito di Paula e sua influência no samba\nCinco anos após morte: Marília Mendonça é tema de série documental que recupera material inédito de seu acervo\nEm vídeo publicado no Instagram, Maiara e o cabeleireiro Carlos Cirqueira, responsável pelos cuidados do visual da cantora, mostram algumas das peças que serão destinadas às pacientes. Maiara aparece, na publicação, segurando duas laces longas, com fios em diferentes tonalidades de castanho e loiro, enquanto apresenta a iniciativa. \"Vocês vivem me pedindo lace, e agora estou com duas aqui para doar para vocês\", contou a artista, em vídeo direcionado aos seguidores no Instagram.\nMaiara mostra laces que serão doadas para mulheres em tratamento de câncer\nReprodução/Instagram\nAs perucas serão sorteadas entre mulheres que precisam dos acessórios durante o tratamento oncológico. A proposta é contribuir para a autoestima de pacientes que enfrentam a queda de cabelo, um dos possíveis efeitos colaterais da quimioterapia. \nInitial plugin text\nMaiara, que faz dupla com a irmã Maraisa, costuma chamar atenção pelas mudanças de penteado, comprimento e coloração dos fios. As laces estão entre os recursos utilizados para variar o visual sem precisar recorrer a transformações permanentes nos cabelos naturais.\nMaiara já enfrentou queda acentuada de cabelo\nA relação de Maiara com os cabelos, aliás, já foi motivo de preocupação para a artista. A sertaneja revelou anteriormente que enfrenta um quadro de alopecia androgenética, condição que provoca o afinamento e a queda progressiva dos fios. \nMaiara: cantora enfrentra alopecia, com queda de cabelo\nReprodução Instagram / TV Globo\nSegundo ela, o uso frequente de produtos químicos e alongamentos acabou agravando o problema, a ponto de deixá-la com pouquíssimo cabelo. \"O meu cabelo foi caindo, foi quebrando com alguns métodos e algumas formas que usei. Cheguei num ponto onde eu já não tinha mais cabelo. O bulbo não tinha mais em alguns lugares\", relatou, conforme noticiou O GLOBO. \nMaiara anuncia doação de peruca por meio das redes sociais\nReprodução/Instagram\nA cantora contou ainda que passou a fazer tratamento especializado para recuperar os fios, que ficaram mais finos e cacheados. A alopecia androgenética tem origem genética e pode afetar tanto homens quanto mulheres, embora seja mais frequente no público masculino. Entre as mulheres, costuma se manifestar pela redução do volume capilar, especialmente no topo da cabeça, e pelo afinamento progressivo dos fios.\nO tratamento, acompanhado por dermatologistas, pode incluir medicamentos para estimular o crescimento capilar e controlar a perda dos fios. A condição enfrentada por Maiara é diferente da queda de cabelo que pode ocorrer durante a quimioterapia. \nInitial plugin text",
-    "published": "2026-10-21T14:13:57+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A cantora sertaneja Maiara anunciou, nesta quarta-feira (21), que vai doar laces — perucas que reproduzem a aparência natural dos cabelos — a mulheres que enfrentam o tratamento contra o câncer. A iniciativa faz parte das ações de conscientização do Outubro Rosa, campanha realiza",
     "relevance": 5
   }
 ]
