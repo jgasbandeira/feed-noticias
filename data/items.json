@@ -1,5 +1,126 @@
 [
   {
+    "source": "Poder360",
+    "title": "Decreto permite que MEI use declaração anual como documento fiscal",
+    "link": "https://www.poder360.com.br/poder-economia/decreto-permite-que-mei-use-declaracao-anual-como-documento-fiscal/",
+    "description": "Regra para microempreendedores e nanoempreendedores federais está condicionada a deliberações e entra em vigor na data da publicação",
+    "published": "2026-10-22T13:29:36+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Regra para microempreendedores e nanoempreendedores federais está condicionada a deliberações e entra em vigor na data da publicação",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Fundo soberano da Noruega mostra cautela com ações e empresas de tecnologia",
+    "link": "https://www.infomoney.com.br/mundo/fundo-soberano-da-noruega-mostra-cautela-com-acoes-e-empresas-de-tecnologia/",
+    "description": "Retorno do fundo ficou 0,18 ponto percentual abaixo do índice de referência no trimestre\nThe post Fundo soberano da Noruega mostra cautela com ações e empresas de tecnologia appeared first on InfoMoney.",
+    "published": "2026-10-22T13:28:02+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Retorno do fundo ficou 0,18 ponto percentual abaixo do índice de referência no trimestre\nThe post Fundo soberano da Noruega mostra cautela com ações e empresas de tecnologia appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Falhas no PHP levam tribunais no Brasil e Anatel a suspender sistemas; governo emite alerta",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/10/22/falhas-no-php-levam-tribunais-no-brasil-e-anatel-a-suspender-sistemas-governo-emite-alerta.ghtml",
+    "description": "O que é PHP e a falha grave de segurança detectada por IA que tirou sites do ar\nA Agência Nacional de Telecomunicações (Anatel) e tribunais suspenderam, por precaução, o uso do Sistema Eletrônico de Informações (SEI), plataforma de processos administrativos, após a identificação de duas falhas graves de segurança no PHP. \n🔎 O PHP é uma das linguagens de programação mais populares para criar sites. O software de mesmo nome, gratuito e de código aberto, interpreta e executa o código escrito nessa linguagem. A tecnologia é usada em serviços como Facebook, Wikipedia e WordPress, além do Moodle, utilizado por instituições de ensino, e do Magento, voltado à criação de lojas virtuais.\nAs falhas podem permitir que invasores assumam o controle dos servidores que mantêm os sites funcionando, sem precisar de login ou senha. Já há uma atualização disponível para corrigir o problema, que foi descoberto graças à IA. (Saiba mais abaixo).\nO governo brasileiro emitiu um alerta para que órgãos públicos atualizem imediatamente o software. O aviso foi divulgado na quarta-feira (21) pelo Centro Integrado de Segurança Cibernética do Governo Digital (CISC).\nPrédio do Tribunal Regional Federal da 4ª Região\nJoão Victor Teixeira/G1RS\nAté o momento, não há relatos de grandes impactos no Brasil, segundo especialistas consultados pelo g1.\n\"Essa vulnerabilidade, por sua extensão, tem potencial para gerar um grande efeito dominó, com vazamentos de dados e interrupções de serviços, atingindo até sistemas que não usam PHP e que, até então, eram considerados seguros\", diz o diretor de tecnologia da Sage Networks e especialista em telecomunicações.\nSuspensão do sistema SEI no Brasil\nA Anatel suspendeu temporariamente o acesso externo ao Sistema Eletrônico de Informações (SEI) e a outros serviços da agência na internet. Segundo eles, a medida é preventiva e busca proteger seus sistemas e informações enquanto são feitas avaliações técnicas.\nO Tribunal Regional Federal da 4ª Região (TRF4) e o Tribunal Regional Federal da 1ª Região (TRF1) confirmaram a suspensão do acesso externo à plataforma.\n\"A medida tem caráter preventivo e visa resguardar a segurança do sistema e a integridade das informações institucionais\", afirmou o TRF1. \"No momento, não há previsão para o restabelecimento do acesso externo ao SEI\".\nO Tribunal Regional Federal da 6ª Região (TRF6) também suspendeu o acesso ao sistema de processo judicial eletrônico e ao SEI pelo mesmo motivo, mas disse ter restabelecido de ambos nesta quinta-feira (22).\nO g1 procurou o Tribunal Superior Eleitoral (TSE) para saber se as falhas também afetam seus sistemas e se há possíveis impactos nas eleições deste ano e aguarda resposta.\nSites retirados do ar em outros países\nAgências governamentais e empresas de diferentes países também tiraram sites do ar na quarta após a descoberta das falhas. A Agência de Segurança Nacional dos Estados Unidos (NSA) pediu que as organizações corrigissem os problemas imediatamente ou desligassem os sistemas vulneráveis.\nNa França, sites de administrações locais, incluindo o da Prefeitura de Polícia de Paris, ficaram inacessíveis a partir da tarde de quarta-feira, a pedido da Agência Nacional de Cibersegurança francesa. Segundo o Ministério do Interior, a medida foi tomada após a \"detecção de uma vulnerabilidade crítica de segurança\".\nAs falhas foram reportadas inicialmente em agosto deste ano pela empresa de segurança Calif e pela OpenAI, dona do ChatGPT, que as identificaram de forma independente no mesmo dia. Depois, a Wiz, empresa de segurança na nuvem, informou ter encontrado outras formas de explorar as vulnerabilidades.\n\"Essas descobertas estão entre as vulnerabilidades mais graves descobertas no PHP e, possivelmente, na história do software\", afirmou a Wiz na quarta-feira (21).\nA Wiz afirmou ter usado os modelos de IA Gemini 4 Argon, do Google, e GPT-5.6 Sol, da OpenAI, na identificação das vulnerabilidades no PHP. \"Por mais de uma década, essas vulnerabilidades críticas permaneceram sem resposta porque a descoberta e exploração de vulnerabilidades eram incrivelmente complexas [sem o uso da IA]\", disse a Wiz.",
+    "published": "2026-10-22T13:27:04+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O que é PHP e a falha grave de segurança detectada por IA que tirou sites do ar\nA Agência Nacional de Telecomunicações (Anatel) e tribunais suspenderam, por precaução, o uso do Sistema Eletrônico de Informações (SEI), plataforma de processos administrativos, após a identificação ",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "DeepSeek capta US$ 15 bi em nova rodada e acelera planos de IPO em Xangai",
+    "link": "https://www.infomoney.com.br/business/deepseek-capta-us-15-bi-em-nova-rodada-e-acelera-planos-de-ipo-em-xangai/",
+    "description": "A empresa quase dobrou sua meta inicial por conta do forte interesse de investidores\nThe post DeepSeek capta US$ 15 bi em nova rodada e acelera planos de IPO em Xangai appeared first on InfoMoney.",
+    "published": "2026-10-22T13:23:37+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A empresa quase dobrou sua meta inicial por conta do forte interesse de investidores\nThe post DeepSeek capta US$ 15 bi em nova rodada e acelera planos de IPO em Xangai appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Ibovespa cede pressão externa e cai com eleições em foco; 5 coisas para saber antes de investir hoje (22)",
+    "link": "https://www.moneytimes.com.br/ibovespa-5-coisas-22-10-26-lils/",
+    "description": "O Ibovespa (IBOV) acompanha a cautela externa com a escalada das tensões no Oriente Médio e salto dos preços do petróleo para o nível de US$ 112 por barril. O cenário eleitoral segue no centro das atenções. Por volta de 10h10 (horário de Brasília), o principal índice da bolsa brasileira tinha queda de 0,35%, aos [&#8230;]",
+    "published": "2026-10-22T13:14:54+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "O Ibovespa (IBOV) acompanha a cautela externa com a escalada das tensões no Oriente Médio e salto dos preços do petróleo para o nível de US$ 112 por barril. O cenário eleitoral segue no centro das atenções. Por volta de 10h10 (horário de Brasília), o principal índice da bolsa bra",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Dexxos autoriza retomada de estudos sobre possível conversão de ações preferenciais em ordinárias",
+    "link": "https://valor.globo.com/empresas/noticia/2026/10/22/dexxos-autoriza-retomada-de-estudos-sobre-possvel-converso-de-aes-preferenciais-em-ordinrias.ghtml",
+    "description": "A Dexxos Par disse que seu conselho de administração aprovou a retomada dos estudos para avaliar eventual proposta de conversão das suas ações preferenciais em ordinárias.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-10-22T13:06:45+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A Dexxos Par disse que seu conselho de administração aprovou a retomada dos estudos para avaliar eventual proposta de conversão das suas ações preferenciais em ordinárias.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Vasco planeja contratar goleiro, e futuro de Léo Jardim entra em discussão para 2027",
+    "link": "https://oglobo.globo.com/blogs/diogo-dantas/coluna/2026/10/vasco-planeja-contratar-goleiro-e-futuro-de-leo-jardim-entra-em-discussao-para-2027.ghtml",
+    "description": "Aos 31 anos, Léo Jardim tem futuro indefinido no Vasco em meio ao planejamento para 2027. Apesar de ter renovado contrato até 2030, com salário superior a R$ 1 milhão por mês, o goleiro passou a ser questionado após falhar em partidas importantes, como na semifinal contra o Boca Juniors. \nDiante desse cenário, o departamento de futebol já trabalha com a possibilidade de contratar um jogador para disputar a posição na próxima temporada. A movimentação faz parte do planejamento para a montagem do elenco após a conclusão da venda da SAF para a Almirante Participações, da família Lamacchia. \nA chegada de um concorrente para Jardim é uma das prioridades identificadas pelo departamento de futebol, que também pretende investir em um atacante de maior peso e em um volante capaz de reduzir a dependência de Thiago Mendes, hoje considerado sem reposição no elenco.Richarlison ainda pode voltar à pauta como opção para o ataque. A ideia é elevar o nível do elenco para 2027, com novos investimentos sob a estrutura da SAF.\nOutras situações\nAntes de avançar nas contratações, porém, o Vasco terá de resolver situações de jogadores emprestados até dezembro. As primeiras medidas previstas para o fim do ano incluem a compra do zagueiro Robert Renan e do lateral-esquerdo Cuiabano. \nNo caso de Robert Renan, o investimento será de 8 milhões de euros (cerca de R$ 47 milhões) por 70% dos direitos econômicos. O Vasco pretende exercer a opção de compra junto ao Zenit até 31 de outubro. Internamente, há a avaliação de que o defensor poderá receber propostas de valores superiores em breve, permitindo ao clube recuperar o investimento.\nCuiabano, por sua vez, custará 10 milhões de euros, aproximadamente R$ 60 milhões. Como o lateral pertence ao Nottingham Forest, da Inglaterra, a operação também dependerá do aporte financeiro do novo investidor.",
+    "published": "2026-10-22T13:05:46+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Aos 31 anos, Léo Jardim tem futuro indefinido no Vasco em meio ao planejamento para 2027. Apesar de ter renovado contrato até 2030, com salário superior a R$ 1 milhão por mês, o goleiro passou a ser questionado após falhar em partidas importantes, como na semifinal contra o Boca ",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Com Vini Jr. suspenso, Endrick pode ganhar chance no Real Madrid contra o Barcelona",
+    "link": "https://oglobo.globo.com/esportes/futebol-internacional/noticia/2026/10/22/com-vini-jr-suspenso-endrick-pode-ganhar-chance-no-real-madrid-contra-o-barcelona.ghtml",
+    "description": "Com Vinícius Junior obrigado a assistir ao Clássico de casa, a partida contra o Barcelona, no domingo, se desenha como uma nova oportunidade para o jovem Endrick se redimir aos olhos de José Mourinho.\nO jovem atacante brasileiro brilhou na virada contra a Roma na Liga dos Campeões na semana passada e, no domingo, voltou a corresponder como titular diante do Sevilla, atuando como ponta-direita.\nAções que lhe permitem sonhar com uma vaga contra o Barça no domingo, no Camp Nou, em um confronto crucial para que os merengues não percam de vista os blaugranas.\n— É um jogador que eu adoro — afirmou o técnico do Real Madrid, José Mourinho, em 14 de outubro, após vencer a Roma por 4 a 3.\nO jovem brasileiro terminou como o melhor jogador da partida, apesar de ter jogado apenas meia hora após substituir Vinícius (59'), período em que revolucionou a equipe.\nO jovem atacante brasileiro deu a assistência para Espí no segundo gol merengue (82') e marcou o gol de empate por 3 a 3 apenas três minutos depois.\nObstaculizado pela enorme concorrência no ataque merengue, Endrick só conseguiu jogar 107 minutos distribuídos em cinco partidas oficiais.\nPorém, o ex-jogador do Palmeiras, clube de onde chegou ao Real Madrid em 2024, tem sabido aproveitar cada minuto que Mourinho lhe deu.",
+    "published": "2026-10-22T13:03:41+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Com Vinícius Junior obrigado a assistir ao Clássico de casa, a partida contra o Barcelona, no domingo, se desenha como uma nova oportunidade para o jovem Endrick se redimir aos olhos de José Mourinho.\nO jovem atacante brasileiro brilhou na virada contra a Roma na Liga dos Campeõe",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Que horas será o debate presidencial da Globo nesta sexta? Veja como assistir",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/22/que-horas-sera-o-debate-presidencial-da-globo-nesta-sexta-veja-como-assistir.ghtml",
+    "description": "Flávio Bolsonaro (PL) e Lula (PT) durante o horário eleitoral gratuito dessa quarta-feira (21)\nReprodução\nO debate presidencial da TV Globo entre Flávio Bolsonaro (PL) e Lula (PT) será realizado nesta sexta, dia 23 de outubro, com início programado para às 21h20.\nO encontro será transmitido ao vivo após o Jornal Nacional, com mediação do jornalista César Tralli.\nOnde assistir ao debate da Globo?\nO público poderá acompanhar o debate presidencial ao vivo pelos seguintes canais e plataformas:\nTV Globo: ao vivo após o Jornal Nacional;\ng1: transmissão simultânea\nGloboNews: transmissão simultânea;\nGloboplay: entrevista completa disponível após a exibição;\ng1: conteúdo na íntegra após a transmissão.\nAgora no g1\nQuem vai participar do debate da Globo?\nForam convidados os dois candidatos que disputam o segundo turno da eleição presidencial:\nLuiz Inácio Lula da Silva (PT): presidente da República e candidato à reeleição;\nFlávio Bolsonaro (PL): senador e candidato à Presidência.\nSabatina com Lula e Flávio na Globo\nAntes do debate, a TV Globo também realizou entrevistas ao vivo com os dois candidatos, conduzidas pela jornalista Renata Lo Prete.\nLula foi entrevistado da quinta-feira (15), enquanto Flávio Bolsonaro participou na sexta-feira (16). As conversas estão disponíveis na íntegra no g1.",
+    "published": "2026-10-22T13:01:34+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Flávio Bolsonaro (PL) e Lula (PT) durante o horário eleitoral gratuito dessa quarta-feira (21)\nReprodução\nO debate presidencial da TV Globo entre Flávio Bolsonaro (PL) e Lula (PT) será realizado nesta sexta, dia 23 de outubro, com início programado para às 21h20.\nO encontro será ",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Estado do Rio retoma pacto contra a evasão escolar com adesão de 12 municípios",
+    "link": "https://oglobo.globo.com/blogs/ancelmo-gois/post/2026/10/estado-do-rio-retoma-pacto-contra-a-evasao-escolar-com-adesao-de-12-municipios.ghtml",
+    "description": "O Governo do Estado do Rio de Janeiro está ampliando as ações para combater a evasão escolar na rede estadual, cuja estimativa de abandono gira em torno de 10%. Retomado pela Secretaria de Estado de Educação, o Pacto Estadual pelo Enfrentamento às Causas da Infrequência, do Abandono e da Evasão Escolar conta agora com a adesão de 12 municípios. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-10-22T13:00:00+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "O Governo do Estado do Rio de Janeiro está ampliando as ações para combater a evasão escolar na rede estadual, cuja estimativa de abandono gira em torno de 10%. Retomado pela Secretaria de Estado de Educação, o Pacto Estadual pelo Enfrentamento às Causas da Infrequência, do Aband",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Flávio mantém vantagem ou Lula encurta distância? Datafolha sai nesta quinta",
     "link": "https://www.infomoney.com.br/politica/flavio-mantem-vantagem-ou-lula-encurta-distancia-datafolha-sai-nesta-quinta/",
@@ -9,6 +130,30 @@
       "Politica"
     ],
     "summary": "Penúltima pesquisa do instituto será divulgada a três dias da eleição, após Quaest mostrar diferença de apenas um ponto entre os candidatos\nThe post Flávio mantém vantagem ou Lula encurta distância? Datafolha sai nesta quinta appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Lojas Renner (LREN3): BlackRock eleva participação na varejista",
+    "link": "https://www.moneytimes.com.br/lojas-renner-lren3-blackrock-eleva-participacao-na-varejista-lmrs/",
+    "description": "A Lojas Renner (LREN3) informou ao mercado nesta quinta-feira (22) que recebeu correspondência da BlackRock sobre a aquisição de participação acionária na companhia. Em 19 de outubro de 2026, a gestora passou a deter 101.573.795 ações ordinárias de emissão da varejista, representativas de aproximadamente 10,088% do total de ações ordinárias e 13.736.247 instrumentos financeiros derivativos [&#8230;]",
+    "published": "2026-10-22T12:58:19+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A Lojas Renner (LREN3) informou ao mercado nesta quinta-feira (22) que recebeu correspondência da BlackRock sobre a aquisição de participação acionária na companhia. Em 19 de outubro de 2026, a gestora passou a deter 101.573.795 ações ordinárias de emissão da varejista, represent",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Eleições 2026: Rio terá transporte público gratuito no 2º turno",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/22/eleicoes-transporte-publico-gratuito.ghtml",
+    "description": "Moradores do RJ terão transporte gratuito neste domingo\nTânia Rêgo / Agência Brasil\nOs eleitores do Rio de Janeiro terão transporte público gratuito novamente no dia de votação do segundo turno nas Eleições 2026 no próximo domingo (25). A medida também havia sido tomada no primeiro turno.\nMedida busca atender aos deslocamentos dos eleitores até os locais de votação das 6h às 20h.\n✅Clique aqui para seguir o canal do g1 RJ no WhatsApp\nAgora no g1\nNa cidade do Rio, de acordo com a  Secretaria Municipal de Transportes (SMTR), a medida vale para ônibus municipais, BRT, VLT, cabritinhos e vans ao longo do dia, com ampliação de horários e viagens extras. \nA gratuidade atende às Resoluções TSE nº 23.751/2026 e TRE-RJ nº 1.404/2026, que estabelecem a oferta gratuita de transporte coletivo urbano e intermunicipal nos dias de votação.\n🟩O g1 Rio está no GloboPop, o novo aplicativo de vídeos curtos verticais da Globo, disponível gratuitamente no seu celular. Lá no app, você pode seguir o palco do g1 Rio para não perder nenhum episódio. Baixe o GloboPop.",
+    "published": "2026-10-22T12:57:39+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Moradores do RJ terão transporte gratuito neste domingo\nTânia Rêgo / Agência Brasil\nOs eleitores do Rio de Janeiro terão transporte público gratuito novamente no dia de votação do segundo turno nas Eleições 2026 no próximo domingo (25). A medida também havia sido tomada no primei",
     "relevance": 5
   },
   {
@@ -25,6 +170,18 @@
     "relevance": 5
   },
   {
+    "source": "O Globo",
+    "title": "Com Tarcísio, sem Marçal e a estratégia para Lula no púlpito: entenda a preparação de Flávio para o debate na Globo",
+    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/com-tarcisio-sem-marcal-e-a-estrategia-para-lula-no-pulpito-entenda-a-preparacao-de-flavio-para-o-debate-na-globo.ghtml",
+    "description": "A campanha de Flávio Bolsonaro (PL) prepara mudanças na atuação do candidato para o último debate presidencial, marcado para sexta-feira, na TV Globo. O governador de São Paulo, Tarcísio de Freitas (Republicanos), terá participação nos treinamentos, enquanto o influenciador Pablo Marçal, que auxiliou o senador no confronto anterior, ficará fora da preparação. A equipe também discute uma alternativa para manter a estratégia de aproximação física com o presidente Luiz Inácio Lula da Silva (PT), mesmo que o petista permaneça atrás do púlpito para evitar a repetição das movimentações feitas pelo adversário no debate da Band.\nFlávio está em Brasília nesta quinta-feira, onde participa de sessões de preparação conduzidas pelo marqueteiro Duda Lima. Na sexta-feira, o senador seguirá os treinamentos no Rio de Janeiro, antes do confronto com Lula. A intenção é corrigir pontos considerados negativos pela equipe no primeiro debate do segundo turno, especialmente o excesso de provocações e a dificuldade de apresentar propostas de maneira objetiva.\nA entrada de Tarcísio na preparação ocorre após avaliações internas sobre o desempenho de Flávio na Band. O governador deve contribuir principalmente com a discussão de propostas econômicas e administrativas, enquanto Duda Lima ficará responsável por orientar a postura e a comunicação do candidato. Tarcísio deve reforçar a preparação nas horas finais do debate, com dados e detalhes de programas de São Paulo que Flávio tem como intuito nacionalizar, caso seja eleito. Marçal, que participou dos treinamentos anteriores e defendeu uma atuação mais contundente, não integrará desta vez as sessões de preparação.\nApesar da orientação para adotar um tom mais equilibrado, a campanha não pretende abandonar completamente a estratégia de confronto visual com Lula. A equipe avalia que, caso o presidente permaneça atrás do púlpito, Flávio poderá se aproximar pela lateral da estrutura, desde que respeitadas as regras da emissora. A movimentação permitiria manter os candidatos próximos e produzir imagens que poderão ser exploradas nas redes sociais.\nA possibilidade passou a ser discutida após o ministro da Secretaria de Comunicação Social, Sidônio Palmeira, responsável pela preparação de Lula, afirmar nesta quarta-feira que o presidente adotará medidas para impedir que Flávio repita a movimentação feita na Band, quando circulou atrás do petista enquanto ele respondia às perguntas.\n— Lula vai ficar no púlpito se necessário. Essa estratégia da extrema direita, de ficar atrás do candidato, é usada no mundo inteiro e não vai acontecer neste debate — disse Sidônio, no Palácio do Planalto.\nO ministro afirmou ainda que Flávio “não vai ficar atrás de Lula” e chamou o candidato do PL de “papagaio de pirata”. Segundo ele, o presidente poderá permanecer mais tempo no púlpito, mas não deixará de circular pelo estúdio. \nNo debate da Band, Flávio circulou atrás de Lula, fez gestos negativos com a cabeça e reagiu às declarações do presidente enquanto ele falava. A movimentação provocou irritação na equipe petista, que passou a discutir formas de impedir a repetição da estratégia no último confronto.\nAjustes para o debate\nAlém das mudanças na preparação, a campanha orienta Flávio a reduzir provocações pessoais, responder mais diretamente às perguntas do adversário e dedicar maior espaço à apresentação de propostas. A avaliação é que o senador precisa transmitir uma imagem mais equilibrada e demonstrar domínio dos assuntos discutidos, especialmente diante dos eleitores indecisos.\nA equipe também prepara respostas para possíveis ataques de Lula sobre investigações envolvendo Flávio e suas propostas econômicas. Uma das principais preocupações é evitar que a controvérsia provocada pelas declarações da coordenadora econômica Daniella Marques sobre o Bolsa Família volte a dominar o debate.\nDaniella defendeu mudanças nas regras do programa para estimular a entrada de beneficiários no mercado de trabalho, o que abriu espaço para que a campanha petista acusasse Flávio de planejar restrições ao benefício. A repercussão ocorreu justamente quando o senador intensificava a tentativa de conquistar eleitores de baixa renda, segmento em que Lula mantém vantagem.\nPara conter o desgaste, Flávio deverá reforçar o compromisso de manter e reajustar o Bolsa Família, além de defender mecanismos para que beneficiários que consigam emprego não percam imediatamente o auxílio. A orientação é evitar novas declarações que possam alimentar dúvidas sobre a continuidade do programa.\nA preparação ocorre em um momento em que a campanha atribui importância crescente ao último debate. Integrantes da equipe avaliam que o confronto será uma das últimas oportunidades de Flávio para conquistar indecisos e reduzir a vantagem de Lula antes da votação de domingo.",
+    "published": "2026-10-22T12:56:40+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A campanha de Flávio Bolsonaro (PL) prepara mudanças na atuação do candidato para o último debate presidencial, marcado para sexta-feira, na TV Globo. O governador de São Paulo, Tarcísio de Freitas (Republicanos), terá participação nos treinamentos, enquanto o influenciador Pablo",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "JPMorgan rebaixa Ultrapar para neutro e reitera recomendação de compra para Vibra",
     "link": "https://www.infomoney.com.br/mercados/jpmorgan-rebaixa-ultrapar-ugpa3-para-neutro-e-reitera-recomendacao-de-compra-para-vibra-vbbr3/",
@@ -37,6 +194,18 @@
     "relevance": 5
   },
   {
+    "source": "Valor Econômico",
+    "title": "Votação antecipada dispara em Estados decisivos para controle do Senado dos EUA",
+    "link": "https://valor.globo.com/mundo/noticia/2026/10/22/votao-antecipada-dispara-em-estados-decisivos-para-controle-do-senado-dos-eua.ghtml",
+    "description": "A votação antecipada nas eleições legislativas dos Estados Unidos registra um forte crescimento em vários Estados que podem definir o controle do Senado, em um sinal de maior mobilização dos eleitores a menos de duas semanas do pleito de 3 de novembro, mostrou uma análise da Associated Press (AP). O número de votos depositados antecipadamente aumentou 74% no Texas em relação a 2022 e mais que dobrou no Kansas em comparação com o mesmo período.\nLeia também:\nEUA votam sobre regras eleitorais que Trump quer influenciar\nNa Carolina do Norte, Trump desafia pesquisas eleitorais e aposta em vitória republicana\nMaioria dos americanos não acredita que Trump aceitará derrota republicana nas eleições\n\nMaine, Carolina do Norte e Ohio também registraram aumentos superiores a 30% na votação presencial antecipada e pelo correio. Em todos esses Estados, os democratas tentam conquistar cadeiras atualmente ocupadas por republicanos. Na maioria deles, a participação dos eleitores republicanos no total de votos antecipados é menor do que há quatro anos.\n\nO movimento ocorre em meio à crescente insatisfação com o presidente Donald Trump, especialmente por causa das tarifas comerciais, do custo de vida elevado e da alta dos preços da gasolina e do diesel provocada pela guerra contra o Irã. Esses fatores ampliaram as dificuldades eleitorais dos republicanos em Estados onde o partido não esperava enfrentar disputas tão competitivas.\n\nEm todo o país, mais de 13 milhões de americanos já votaram antecipadamente, ante 9 milhões no mesmo período das eleições legislativas de 2022. Parte do crescimento reflete mudanças nas regras de votação em alguns Estados e o fato de outros terem passado a disponibilizar mais dados desde as últimas eleições legislativas.\n\nOs republicanos controlam atualmente o Senado por 53 cadeiras a 47, além de terem a maioria na Câmara dos Deputados e a Casa Branca. Historicamente, as eleições de meio de mandato tendem a favorecer o partido de oposição, o que coloca os democratas em uma posição diferente da de 2022, quando ocupavam a Presidência.\n\nA queda da popularidade de Trump e a pressão dos preços sobre os consumidores têm levado o partido republicano a ampliar sua atuação em redutos conservadores. Um dos exemplos mais expressivos é o Kansas, onde Trump venceu por 16 pontos percentuais em 2024. Os republicanos destinaram quase US$ 12 milhões à disputa para defender o senador Roger Marshall contra o democrata Adam Hamilton, enquanto reduziram os gastos de campanha na Carolina do Norte.\n\nTrump realizou um comício no Kansas na segunda-feira (19), em uma tentativa de mobilizar seus apoiadores. Mais de 55 mil eleitores já haviam votado no Estado até terça-feira, mais que o dobro dos cerca de 27 mil registrados no mesmo momento de 2022.\n\nNo Texas, a disputa entre o democrata James Talarico e o procurador-geral republicano Ken Paxton também tem impulsionado a participação. Quase 1 milhão de votos haviam sido depositados a duas semanas da eleição, ante aproximadamente 550 mil quatro anos antes, embora a votação antecipada presencial tenha começado apenas na segunda-feira.\n\nO Estado também terá uma disputa pelo governo entre o republicano Greg Abbott, que busca a reeleição, e a deputada estadual democrata Gina Hinojosa.\nAtivistas pelo direito ao voto exibem cartazes em frente à Suprema Corte dos Estados Unidos para incentivar a participação dos eleitores\nREUTERS/Kevin Lamarque\n\nEm Ohio, onde há disputas acirradas pelo Senado, pela Câmara e pelo governo estadual, a votação antecipada cresceu 30%, com 156 mil votos a mais do que em 2022. A corrida pelo Senado deve movimentar quase US$ 500 milhões em gastos eleitorais, segundo a AdImpact. Parte do aumento na votação antecipada também pode estar relacionada a mudanças nas regras para o recebimento de cédulas enviadas pelo correio.\n\nNo Maine, a votação antecipada cresceu 39% em relação ao mesmo período de 2022. A senadora republicana Susan Collins, que busca seu sexto mandato, enfrenta o democrata Troy Jackson em outra disputa acompanhada de perto pelos dois partidos.\n\nO avanço da participação, porém, não é uniforme. Em Michigan e na Geórgia, por exemplo, onde os democratas defendem cadeiras no Senado, o número de votos antecipados permanece próximo ao registrado há quatro anos. Ambos os Estados tiveram participação recorde nas eleições legislativas de 2022, impulsionada por disputas importantes.\n\nJá em Iowa, que votou majoritariamente em Trump nas últimas três eleições presidenciais e terá disputas competitivas pelo governo, pelo Senado e por três cadeiras na Câmara, a votação antecipada está cerca de 6% abaixo do nível registrado no mesmo período de 2022.",
+    "published": "2026-10-22T12:56:18+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A votação antecipada nas eleições legislativas dos Estados Unidos registra um forte crescimento em vários Estados que podem definir o controle do Senado, em um sinal de maior mobilização dos eleitores a menos de duas semanas do pleito de 3 de novembro, mostrou uma análise da Asso",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Qual o risco econômico nos EUA da mosca-da-bicheira, que devora a carne do gado",
     "link": "https://www.infomoney.com.br/economia/qual-o-risco-economico-nos-eua-da-mosca-da-bicheira-que-devora-a-carne-do-gado/",
@@ -46,6 +215,18 @@
       "Economia"
     ],
     "summary": "Parasita que se alimenta da carne viva foi detectado num animal silvestre no México e colocou em alerta a cadeia de gado, que já sofreu perdas de centenas milhões de dólares com a praga no passado\nThe post Qual o risco econômico nos EUA da mosca-da-bicheira, que devora a carne do",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Flávio Bolsonaro visita o pai no condomínio onde o ex-presidente cumpre prisão domiciliar",
+    "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/22/flavio-bolsonaro-visita-o-pai-no-condominio-onde-o-ex-presidente-cumpre-prisao-domiciliar.ghtml",
+    "description": "O senador Flávio Bolsonaro (PL), candidato à Presidência da República, visita o pai e ex-presidente Jair Bolsonaro pela última vez antes do segundo turno das eleições. Ele chegou pouco depois das 8h ao condomínio onde o pai cumpre prisão domiciliar, em Brasília. O encontro acontece na véspera do debate com o presidente Luiz Inácio Lula da Silva (PT), na TV Globo.\n\nEsta é a terceira visita de Flávio ao ex-presidente desde o fim de um período de 90 dias sem encontros, determinado pelo ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF). O ex-presidente Jair Bolsonaro está preso após ser condenado por sua participação na trama golpista para impedir a posse de Lula depois das eleições de 2022. \n\nComo advogado constituído no processo do ex-presidente, Flávio tem autorização para visitar o pai diariamente por até 30 minutos. Até o momento, não foram divulgadas informações sobre os assuntos tratados na visita desta quinta-feira.",
+    "published": "2026-10-22T12:53:33+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O senador Flávio Bolsonaro (PL), candidato à Presidência da República, visita o pai e ex-presidente Jair Bolsonaro pela última vez antes do segundo turno das eleições. Ele chegou pouco depois das 8h ao condomínio onde o pai cumpre prisão domiciliar, em Brasília. O encontro aconte",
     "relevance": 5
   },
   {
@@ -84,6 +265,24 @@
       "Mercado Financeiro"
     ],
     "summary": "A Canopus, incorporadora referência em alto padrão, lança o Sync Ibirapuera, novo empreendimento residencial no Paraíso, na Zona Sul de São Paulo, com Valor Geral de Vendas (VGV) de R$ 149 milhões. Localizado na rua Sampaio Viana, o projeto reúne 262 studios e apartamentos de um ",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/10/22/sync-ibirapuera-chega-ao-paraiso-com-foco-em-bemestar-1.ghtml"
+      }
+    ]
+  },
+  {
+    "source": "O Globo",
+    "title": "Quem foi o padre italiano que pode se tornar o primeiro santo de Mato Grosso do Sul",
+    "link": "https://oglobo.globo.com/brasil/noticia/2026/10/22/quem-foi-o-padre-italiano-que-pode-se-tornar-o-primeiro-santo-de-mato-grosso-do-sul.ghtml",
+    "description": "A Arquidiocese de Campo Grande (MS) abriu, na última terça (20), o inquérito diocesano da causa de beatificação do padre italiano João Crippa. Missionário salesiano e discípulo de São João Bosco, o religioso dedicou parte de sua vida à educação, à assistência social e à evangelização na capital sul-mato-grossense. Considerado um dos nomes ligados à fundação da cidade, ele poderá se tornar o primeiro santo de Mato Grosso do Sul caso avance até a canonização.\nDeolane Bezerra diz ter sofrido ameaça de morte e intolerância religiosa na prisão, relata irmã da influenciadora\nFrança registra primeiro caso humano do vírus Shamonda, comum em gado; autoridades descartam risco à população\nCrippa nasceu na Itália e integrou a Congregação Salesiana, fundada por Dom Bosco, com quem conviveu. Antes de desembarcar no então Mato Grosso, o sacerdote passou pelo Uruguai, onde começou sua atuação missionária na América do Sul, segundo a agência de notícias católica aci digital.\nEm Campo Grande, o padre participou do desenvolvimento de iniciativas religiosas e educacionais que marcaram a história da cidade. Entre elas, estão a criação da Paróquia São José e do Oratório São José, espaços que contribuíram para a evangelização e a formação de jovens.\nSua atuação também foi importante para a consolidação da educação salesiana na região. Crippa mobilizou recursos e benfeitores para a construção do Colégio Salesiano Dom Bosco e participou da fundação do Colégio Salesiano Nossa Senhora Auxiliadora.\nAlém do trabalho religioso e educacional, o sacerdote se envolveu em ações de assistência a indígenas, pessoas em situação de vulnerabilidade e detentos. Na área da saúde, colaborou para a organização da Santa Casa de Campo Grande como associação. Sua atuação o aproximou de personalidades da história regional, como Dom Aquino Corrêa, então governador de Mato Grosso, e o senador Pedro Celestino.\nO padre morreu em Três Lagoas, também em Mato Grosso do Sul, em 1941. Dez anos depois, seus restos mortais foram transferidos para Campo Grande, após solicitações de moradores da cidade. Atualmente, estão sepultados na Paróquia São José, na região central da capital.\nProcesso de beatificação\nCom a autorização da Santa Sé, concedida por meio do documento Nihil Obstat, o religioso recebeu o título de Servo de Deus, primeira etapa oficial do caminho que pode levar à declaração de santidade.\nA investigação busca reunir informações sobre a vida do sacerdote, suas virtudes e a reputação de santidade entre os fiéis. A arquidiocese também pretende examinar relatos de graças atribuídas à intercessão de Crippa, incluindo cartas deixadas espontaneamente por devotos junto ao seu túmulo.\nOs preparativos para a abertura do inquérito começaram cerca de três anos antes, com a formação de uma comissão encarregada de reunir documentos e encaminhar a solicitação às autoridades do Vaticano. O processo conta com a participação do postulador italiano Paolo Vilotta, que também trabalhou na causa de canonização de Santa Dulce dos Pobres.\nA abertura da investigação não garante que Crippa será beatificado ou canonizado. Depois da conclusão da fase diocesana, os documentos serão encaminhados para análise das autoridades da Igreja. Em regra, a beatificação depende do reconhecimento de um milagre atribuído à intercessão do candidato, enquanto a canonização costuma exigir a comprovação de um segundo milagre, ocorrido após a beatificação.",
+    "published": "2026-10-22T12:46:04+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A Arquidiocese de Campo Grande (MS) abriu, na última terça (20), o inquérito diocesano da causa de beatificação do padre italiano João Crippa. Missionário salesiano e discípulo de São João Bosco, o religioso dedicou parte de sua vida à educação, à assistência social e à evangeliz",
     "relevance": 5
   },
   {
@@ -2463,28 +2662,6 @@
     "relevance": 5
   },
   {
-    "source": "O Globo",
-    "title": "A nova pesquisa Datafolha para o segundo turno entre Flávio Bolsonaro e Lula",
-    "link": "https://oglobo.globo.com/blogs/pulso/post/2026/10/a-nova-pesquisa-datafolha-para-o-segundo-turno-entre-flavio-bolsonaro-e-lula.ghtml",
-    "description": "O Datafolha divulga na noite desta quinta-feira a penúltima pesquisa de intenção de voto antes do presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL) disputarem o segundo turno da eleição ao Planalto.\nEleição: Sidônio diz que Lula adotará estratégia para evitar que Flávio fique atrás dele durante debate da Globo\nSigilo de Lula e Flávio: André Mendonça é o relator no TSE de pedido do petista sobre dados dele e do rival\nOs pesquisadores foram às ruas entre terça e quinta-feira. Ocorreram 2.520 entrevistas feitas pessoalmente. O levantamento, contratado pela TV Globo e pela Folha de S. Paulo, tem margem de erro de dois pontos percentuais e nível de confiança de 95%. O registro junto à Justiça Eleitoral foi feito sob o código BR-09709/2026.\nEsta é a primeira pesquisa do instituto sobre o segundo turno após o debate entre Lula e Flávio, que foi exibido pela TV Band no domingo. Repleto de ataques mútuos, o encontro colocou os adversários frente a frente pela primeira vez nesse ciclo eleitoral.\nNa pesquisa Datafolha anterior, divulgada em 15 de outubro, Flávio Bolsonaro aparece com 47% das intenções de voto, contra 45% de Lula. A margem de erro é de dois pontos percentuais.\nSaiba datas importantes deste 2º turno\n9 a 23 de outubro: Veiculação da propaganda eleitoral gratuita no rádio e na TV.\n10 de outubro: Candidatos participantes do 2º turno não podem ser presos, exceto em flagrante.\n19 de outubro: Eleitores não podem ser presos, exceto em flagrante, por crime inafiançável ou quebra de salvo-conduto.\n24 a 26 de outubro: Nova restrição de porte e transporte de armas de fogo para CACs em território nacional.\n25 de outubro: 2º turno das Eleições 2026",
-    "published": "2026-10-22T03:00:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O Datafolha divulga na noite desta quinta-feira a penúltima pesquisa de intenção de voto antes do presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL) disputarem o segundo turno da eleição ao Planalto.\nEleição: Sidônio diz que Lula adotará estratégia para e",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "G1 - Política",
-        "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/22/lula-x-flavio-bolsonaro-o-que-diz-a-pesquisa-quaest-sobre-o-2o-turno-o-assunto-1830.ghtml"
-      },
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/22/lula-ou-flavio-bolsonaro-quem-esta-na-frente-nas-ultimas-pesquisas-para-presidente-em-cada-regiao.ghtml"
-      }
-    ]
-  },
-  {
     "source": "Poder360",
     "title": "Lula faz convite a Flávio para abrir sigilos nesta 5ª feira no TSE",
     "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-faz-convite-a-flavio-para-abrir-sigilos-nesta-5a-feira-no-tse/",
@@ -2971,6 +3148,20 @@
     "relevance": 5
   },
   {
+    "source": "G1 - Política",
+    "title": "Quebra de sigilo: Lula diz que Flávio Bolsonaro trucou e que 'não tem nenhuma carta boa, só tem mentira'",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/quebra-de-sigilo-lula-diz-que-flavio-trucou-mas-nao-tem-nenhuma-carta-boa-so-tem-mentira.ghtml",
+    "description": "O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quarta-feira (21) que o senador e candidato à Presidência Flávio Bolsonaro (PL) \"trucou\" ao colocar condições para a quebra de sigilo, e que o senador \"não tem nenhuma carta boa, só tem mentira\".\n\"Essa semana eu pedi para o Flavio abrir sigilo. Hoje ele inventou um monte de mentiras e trucou 6. Eu vou meter um 9 na cara dele amanhã. Vou meter um 9. Ele não tem nenhuma carta boa, só tem mentira. As cartas dele são todas falsas. Eu to com zap, sete copas, espada e ouro. E ainda tenho três de reserva. Ele vai saber o que é um campeão de truco que aprendeu a jogar como mineiro\", disse Lula. \nA declaração foi durante ato de campanha em Belo Horizonte, Minas Gerais.\nAgora no g1\nNesta quarta, coordenadores da campanha do presidente Lula afirmaram que o petista não se opõe às condições colocadas pelo seu adversário, o senador Flávio Bolsonaro (PL), para autorizar a quebra de sigilos.\n'Desafio dos sigilos': veja as diferenças das manifestações de Lula e Flávio sobre divulgação de dados\nAlém disso, afirmaram que a campanha vai ao Tribunal Superior Eleitoral (TSE) às 11h desta quinta-feira (22) protocolar a resposta ao senador Flávio Bolsonaro.\nApós Lula desafiar, no debate da Band e em entrevistas, Flávio a abrir os seus sigilos, e os de familiares, relativos aos últimos 8 anos, o senador fez uma contraproposta impondo novas exigências.\nO presidente também protocolou um documento no Tribunal Superior Eleitoral (TSE) afirmando que autoriza a liberação de seus sigilos bancário, fiscal e eletrônico relativos aos últimos 8 anos, e também os de seus parentes, desde que o seu adversário na disputa presidencial, Flávio Bolsonaro (PL), faça o mesmo (veja mais abaixo).\nO vice-presidente Geraldo Alckmin (PSB) afirmou nesta quarta que Flávio fez 19 exigências para abrir seus sigilos e que, na avaliação do vice, não quer torná-los públicos. Alckmin defendeu que presidente e vice-presidente não deveriam ter sigilos fiscal, bancário nem telefônico.\n“Eu acho até que quem é eleito presidente e vice-presidente não devia ter sigilo, nem fiscal nem bancário nem telefônico. Vida pública é pública, tem que ser transparente. Quem quer ter vida privada vai cuidar do setor privado. Agora não é possível ter vida pública e não prestar contas para a sociedade”, disse Alckmin na Casa de Portugal, na região da Liberdade.\nDurante o ato em Belo Horizonte, o presidente Lula afirmou que seus apoiadores são iguais ao \"exército do Vietnã que derrotou os Estados Unidos\".\nLula deu a declaração em meio a discussões sobre a manutenção dos canais de Whatsapp \"Exército do Lula\", que conta com quase 8 milhões de seguidores, e o canal \"Tropa do Flávio\", que tem 2,7 milhões.\nO presidente do Tribunal Superior Eleitoral (TSE), Kassio Nunes Marques, e o vice-presidente da Corte, André Mendonça, discutiram com colegas a possibilidade de impor restrições aos canais de WhatsApp com mais de 200 mil usuários nas 48 horas anteriores ao segundo turno das eleições, no próximo domingo (25). \nÀ TV Globo, Nunes Marques afirmou não ser \"favorável a mudança de última hora\". A resolução não deve avançar, segundo informações de outros ministros da Corte.\nTambém durante a caminhada na capital mineira, o candidato petista contou que ganhou um celular de presente do governador do Piauí, Rafael Fonteles (PT), e que a partir de agora vai começar a atuar no canal de Whatsapp criado pelo deputado André Janones (PV-MG).\n\"O general Janones e o marechal Silva, nós vamos comandar essa derrota do exército adversário. Podem ficar tranquilos. Eles pensam que nós somos fracos, mas somos que nem exército do Vietnã que derrotou os EUA\", disse Lula.\nO presidente brasileiro Luiz Inácio Lula da Silva, candidato do Partido dos Trabalhadores (PT) à reeleição, segura uma placa com os dizeres \"Abram os registros, Flávio\", durante um comício de campanha antes do segundo turno das eleições presidenciais, em Porto Alegre, Rio Grande do Sul, Brasil, em 19 de outubro de 2026\nREUTERS/Diego Vara\nO que propôs Lula?\nA defesa de Lula disse que o petista pode autorizar a liberação de seus sigilos bancário, fiscal e eletrônico referentes aos últimos 8 anos, desde que Flávio também o faça.\nO documento de Lula estendeu a abertura de dados a familiares do petista, abrangendo:\na esposa, Janja;\ne seus cinco filhos: Lurian, Marcos Cláudio, Sandro Luís, Luís Cláudio e Fábio Luís, o Lulinha, que é alvo de apurações da Polícia Federal.\nLula condicionou a liberação de dados à exigência de que Flávio Bolsonaro autorizasse a divulgação de seus sigilos e também os de seus parentes diretos e empresas ligadas ao seu grupo.\nNa manifestação protocolada pelo petista, a cobrança de transparência direcionada ao adversário abrangeu os seguintes familiares de Flávio:\nJair Bolsonaro (pai)\nRogéria Bolsonaro (mãe)\nCarlos Bolsonaro (irmão)\nEduardo Bolsonaro (irmão)\nJair Renan Bolsonaro (irmão)\nFernanda Bolsonaro (esposa)\nAlém dos parentes, Lula exigiu que o senador abrisse os dados de empresas ligadas a ele e ao seu grupo.\nAs condições impostas por Flávio\nEm resposta, Flávio condiciona o levantamento de dados a exigências que abrangem tanto o período em que Lula exerceu mandatos anteriores quanto a atual gestão federal.\nEntre as principais exigências feitas pela campanha de Flávio Bolsonaro estão:\nSigilos de assessores próximos: apresentação de termos de autorização de quebra de sigilo de assessores, como Marco Aurélio Santana Ribeiro, o \"Marcola\", ex-chefe de gabinete.\nEmpresas de familiares e sócios: abertura de contas e sigilos de empresas ligadas a familiares do presidente, incluindo sociedades do filho Fábio Luís Lula da Silva, o \"Lulinha\", negócios recentes no exterior, empresas de outros filhos, além do Instituto Lula e da empresa L.I.L.S. Palestras desde o ano de 2003.\nCaso Master: divulgação integral de registros de visitantes no Palácio do Planalto e detalhes da reunião mantida entre Lula e Daniel Vorcaro em dezembro de 2024.\nINSS: esclarecimentos sobre as relações do governo com a lobista Roberta Luchsinger, registros de suas entradas em palácios presidenciais e voos na Força Aérea Brasileira (FAB), e a quebra de sigilo do sindicalista Frei Chico, irmão de Lula.\nCartão corporativo: abertura de todos os gastos do cartão corporativo da Presidência da República desde janeiro de 2023, e de agendas institucionais da primeira-dama, Janja, desde o primeiro ano de mandato.",
+    "published": "2026-10-21T22:26:09+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "XP"
+    ],
+    "summary": "O presidente Luiz Inácio Lula da Silva (PT) afirmou nesta quarta-feira (21) que o senador e candidato à Presidência Flávio Bolsonaro (PL) \"trucou\" ao colocar condições para a quebra de sigilo, e que o senador \"não tem nenhuma carta boa, só tem mentira\".\n\"Essa semana eu pedi para ",
+    "relevance": 5
+  },
+  {
     "source": "Folha",
     "title": "Meta reforça aposta em IA com projeção de gastos e nova classe de ações",
     "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/10/meta-reforca-aposta-em-ia-com-projecao-de-gastos-e-nova-classe-de-acoes.shtml",
@@ -3199,25 +3390,6 @@
     "relevance": 5
   },
   {
-    "source": "O Globo",
-    "title": "Campanha de Lula diz que aceita condições de Flávio sobre abertura de sigilo",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/10/21/campanha-de-lula-diz-que-aceita-condicoes-de-flavio-sobre-abertura-de-sigilo.ghtml",
-    "description": "O comando da campanha à reeleição do presidente Luiz Inácio Lula da Silva informou que aceita as condições impostas por Flávio Bolsonaro para divulgação de sigilos bancários e telefônico do candidato e de seus familiares.\nO senador Camilo Santana (PT-CE), que faz parte da coordenação da campanha petista, disse que será protocolado na quinta-feira às 11h um documento no Tribunal Superior Eleitoral (TSE) para responder que aceita as exigências de Flávio.\n— O candidato a adversário protocolou no TSE, depois de três dias que o presidente fez o desafio para que ele pudesse abrir o seu sigilo bancário, fiscal, telefônico, colocando uma série de condicionantes numa tentativa de manobra em relação ao que havia sido colocada de forma muito objetiva para mostrar claramente quem é o ladrão e quem não é o ladrão nesse país. E todas as condicionantes que ele colocou, a única resposta que o presidente tem é dizer que não se opõe a absolutamente nada. Contanto que ele também cumpra e abra tudo.\nFlávio Bolsonaro apresentou nesta quarta-feira uma lista de 19 condições para atender ao chamado do petista. São pedidos de acesso a informações financeiras, telefônicas e administrativas envolvendo o adversário na disputa do segundo turno, seus familiares e pessoas próximas ao governo. O documento foi juntado ao procedimento do PT protocolado junto ao Tribunal Superior Eleitoral (TSE). \nEntre as solicitações estão dados bancários e fiscais de empresas ligadas aos filhos de Lula, registros de encontros do presidente com Daniel Vorcaro, dono do Banco Master, informações sobre a lobista Roberta Luchsinger e despesas do cartão corporativo da Presidência. O senador também pede informações sobre voos da Força Aérea Brasileira (FAB), visitas aos palácios presidenciais e reuniões de pessoas próximas ao governo com autoridades.\nOs pedidos estão divididos em quatro frentes na petição apresentada ao TSE. A primeira trata de empresas e pessoas ligadas à família do presidente e ao Instituto Lula. A segunda reúne informações sobre a relação do governo com Vorcaro. A terceira aborda Roberta Luchsinger e o caso das fraudes contra aposentados do INSS. A última trata de despesas custeadas com dinheiro público.",
-    "published": "2026-10-21T21:06:06+00:00",
-    "themes": [
-      "Economia",
-      "XP"
-    ],
-    "summary": "O comando da campanha à reeleição do presidente Luiz Inácio Lula da Silva informou que aceita as condições impostas por Flávio Bolsonaro para divulgação de sigilos bancários e telefônico do candidato e de seus familiares.\nO senador Camilo Santana (PT-CE), que faz parte da coorden",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/22/flavio-bolsonaro-e-lula-escalam-desafio-sobre-quebra-de-sigilo.ghtml"
-      }
-    ]
-  },
-  {
     "source": "G1 - Economia",
     "title": "Desenrola 3.0: Durigan diz que governo vai lançar edital para comprar dívidas na quinta",
     "link": "https://g1.globo.com/economia/noticia/2026/10/21/desenrola-30-durigan-diz-que-governo-vai-lancar-edital-para-comprar-dividas-na-quinta.ghtml",
@@ -3378,6 +3550,42 @@
     ],
     "summary": "A International Business Machines (IBM) registrou um lucro maior no terceiro trimestre e um aumento na receita em seus segmentos de software e infraestrutura, em um momento que a empresa busca provar aos investidores que o desempenho decepcionante do segundo trimestre foi apenas ",
     "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Campanha diz que Lula não se opõe a condições de Flávio Bolsonaro para quebra de sigilo",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/21/campanha-diz-que-lula-nao-se-opoe-a-comdocoes-de-flavio-bolsonaro-para-quebra-de-sigilo.ghtml",
+    "description": "Coordenadores da campanha do presidente Luiz Inácio Lula da Silva (PT) afirmaram nesta quarta-feira (21) que o petista não se opõe às condições colocadas pelo seu adversário, o senador Flávio Bolsonaro (PL), para autorizar a quebra de sigilos.\nSegundo o coordenador político da campanha de Lula, senador Camilo Santana (PT-CE), Flávio Bolsonaro fez as condicionantes como forma de \"manobra\".\n\"Todas as condicionantes a única resposta é que o presidente não se opõe em absolutamente nada que ele colocou, contanto que ele [Flávio Bolsonaro] faça\".\n'Desafio dos sigilos': veja as diferenças das manifestações de Lula e Flávio sobre divulgação de dados\nAgora no g1\nCamilo Santana disse ainda que a campanha de Lula vai ao Tribunal Superior Eleitoral (TSE) às 11h desta quinta-feira (22) protocolar a resposta ao senador Flávio Bolsonaro. \n\"Se não tem nada a dever, que ele cumpra o que o presidente propôs. Presidente não tem nada a se opor ao que ele colocou condicionantes. Amanhã às 11h estaremos no TSE para protocolar a resposta do presidente e é o prazo para ele estar la também\", disse Santana.\nEm um ato de campanha em Belo Horizonte, Lula comentou o caso e disse que o senador \"inventou um monte de mentiras\".\n\"Essa semana eu pedi para o Flávio abrir sigilo. Hoje ele inventou um monte de mentiras e trucou 6. Eu vou meter um 9 na cara dele amanhã. Vou meter um 9. Ele não tem nenhuma carta boa, só tem mentira. As cartas dele são todas falsas. Eu to com zap, sete copas, espada e ouro. E ainda tenho três de reserva. Ele vai saber o que é um campeão de truco que aprendeu a jogar como mineiro\", disse Lula.\nAs condições impostas por Flávio\nEm resposta ao desafio de quebras de sigilo lançado nesta semana pelo presidente Lula, Flávio condiciona o levantamento de dados a exigências que abrangem tanto o período em que Lula exerceu mandatos anteriores quanto a atual gestão federal.\nEntre as principais exigências feitas pela campanha de Flávio Bolsonaro estão:\nSigilos de assessores próximos: apresentação de termos de autorização de quebra de sigilo de assessores, como Marco Aurélio Santana Ribeiro, o \"Marcola\", ex-chefe de gabinete.\nEmpresas de familiares e sócios: abertura de contas e sigilos de empresas ligadas a familiares do presidente, incluindo sociedades do filho Fábio Luís Lula da Silva, o \"Lulinha\", negócios recentes no exterior, empresas de outros filhos, além do Instituto Lula e da empresa L.I.L.S. Palestras desde o ano de 2003.\nCaso Master: divulgação integral de registros de visitantes no Palácio do Planalto e detalhes da reunião mantida entre Lula e Daniel Vorcaro em dezembro de 2024.\nINSS: esclarecimentos sobre as relações do governo com a lobista Roberta Luchsinger, registros de suas entradas em palácios presidenciais e voos na Força Aérea Brasileira (FAB), e a quebra de sigilo do sindicalista Frei Chico, irmão de Lula.\nCartão corporativo: abertura de todos os gastos do cartão corporativo da Presidência da República desde janeiro de 2023, e de agendas institucionais da primeira-dama, Janja, desde o primeiro ano de mandato.\nO 'desafio' de Lula\nEm um documento protocolado no Tribunal Superior Eleitoral (TSE), o candidato do PT à reeleição afirma que autoriza a liberação de seus sigilos bancário, fiscal e eletrônico relativos aos últimos 8 anos, e também os de seus parentes, desde que o seu adversário na disputa presidencial, Flávio Bolsonaro (PL), faça o mesmo.\nDe acordo com a petição apresentada pela defesa de Lula ao TSE, a liberação e a ampla divulgação dos dados – seja por meio do sistema Divulga CandContas da Corte Eleitoral, ou de outro site de acesso público – vão abranger os seguintes familiares de Lula:\nRosângela Lula da Silva, a Janja, esposa do presidente;\nLurian Cordeiro Lula da Silva, filha;\nMarcos Cláudio Lula da Silva, filho;\nFábio Luís Lula da Silva, o Lulinha, filho que é alvo de investigações da PF;\nSandro Luís Lula da Silva, filho;\nLuís Claudio Lula da Silva, filho.\nLula condiciona a liberação dos seus sigilos e os de parentes à autorização, por Flávio Bolsonaro, da divulgação dos sigilos dele e dos seguintes familiares:\nJair Bolsonaro, pai;\nRogéria Bolsonaro, mãe;\nCarlos Bolsonaro, irmão;\nEduardo Bolsonaro, irmão;\nJair Renan Bolsonaro, irmão;\nFernanda Bolsonaro, esposa.\nE também das seguintes empresas ligadas ao candidato do PL:\nFlávio Bolsonaro Sociedade Individual de Advocacia;\nAll In One Corretora de Seguros Ltda;\nBravo Grafeno Tecnologia e Inovação Ltda;\nBolsonaro Digital Ltda;\nAlcazar Holdings, empresa de propriedade de Willer Tomaz, que tem uma conta em que Flávio foi cadastrado como \"usuário master\".\nNo entanto, ao responder ao desafio de Lula, Flávio não incluiu a empresa Alcazar Holdings na lista de empresas a terem o sigilo quebrado. \nFlávio Bolsonaro é alvo de dois inquéritos em tramitação no Supremo Tribunal Federal (STF). Um deles, sobre lavagem de dinheiro, investiga a relação do candidato do PL com o advogado Willer Tomaz.\nO outro inquérito trata do financiamento de \"Dark Horse\", uma cinebiografia sobre Jair Bolsonaro. Essa investigação apura negociações envolvendo recursos do banqueiro Daniel Vorcaro, do Banco Master, para a produção do filme.\nFlávio Bolsonaro e Lula em entrevista com Renata Lo Prete\nGlobo/ Manoella Mello\nInterferência da Meta\nA campanha de Lula afirmou que segue preocupada com a atuação da Meta durante o período eleitoral mesmo após a reunião de terca-feira (20) no TSE com a empresa.\nSegundo a coordenação, a ala jurídica da campanha vai entrar ainda nesta quarta-feira (21) com representações na Justiça Eleitoral contra a Meta.\n\"A Meta é motivo de grande preocupação para gente e para o mundo democrático. Não vamos aceitar esse tipo de interferência, esse tipo de coisa\" afirmou Sidônio Palmeira, ministro da Secretaria de Comunicação (Secom).",
+    "published": "2026-10-21T20:42:10+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "XP"
+    ],
+    "summary": "Coordenadores da campanha do presidente Luiz Inácio Lula da Silva (PT) afirmaram nesta quarta-feira (21) que o petista não se opõe às condições colocadas pelo seu adversário, o senador Flávio Bolsonaro (PL), para autorizar a quebra de sigilos.\nSegundo o coordenador político da ca",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/10/21/campanha-de-lula-diz-que-aceita-condicoes-de-flavio-sobre-abertura-de-sigilo.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/22/flavio-bolsonaro-e-lula-escalam-desafio-sobre-quebra-de-sigilo.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/blogs/pulso/post/2026/10/a-nova-pesquisa-datafolha-para-o-segundo-turno-entre-flavio-bolsonaro-e-lula.ghtml"
+      },
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/10/22/lula-x-flavio-bolsonaro-o-que-diz-a-pesquisa-quaest-sobre-o-2o-turno-o-assunto-1830.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/22/lula-ou-flavio-bolsonaro-quem-esta-na-frente-nas-ultimas-pesquisas-para-presidente-em-cada-regiao.ghtml"
+      }
+    ]
   },
   {
     "source": "InfoMoney",
@@ -3661,204 +3869,6 @@
       "XP"
     ],
     "summary": "O Conselho de Direitos Humanos da Organização das Naçõs Unidas (ONU) publicou uma carta nesta quarta (21) na qual pede à Meta explicações e mecanismos \"adequados\" de reparação para sua atuação no processo eleitoral brasileiro. Segundo o órgão, as ações da empresa de Mark Zuckerbe",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "O que é proibido no dia da eleição?",
-    "link": "https://www.infomoney.com.br/politica/proibido-no-dia-eleicao/",
-    "description": "Há uma série de acessórios e atividades que são vetadas em dia de eleição\nThe post O que é proibido no dia da eleição? appeared first on InfoMoney.",
-    "published": "2026-10-21T20:07:59+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Há uma série de acessórios e atividades que são vetadas em dia de eleição\nThe post O que é proibido no dia da eleição? appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Quaest no DF: 34% avaliam gestão Celina Leão como positiva e 25%, como negativa",
-    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/21/quaest-df-avaliacao-governo-celina-21-outubro.ghtml",
-    "description": "Eleições 2026: segunda pesquisa Quaest do 2º turno mostra Celina na liderança, com 50%\nPesquisa Quaest divulgada nesta quarta-feira (21) mostra como está a avaliação do governo Celina Leão (PP).\n➡️ A atual governadora assumiu o cargo em março deste ano – até então, era vice de Ibaneis Rocha (MDB). Ibaneis deixou o governo do DF para disputar o Senado, mas desistiu em seguida.\nSegundo a pesquisa Quaest, 34% dos eleitores consideram a gestão Celina Leão \"ótima ou boa\" e 25% consideram \"ruim ou péssima\".\nMichelle Bolsonaro (PL), Celina Leão (PP) e Bia Kicis (PL)\nTV Globo/Reprodução\nA Quaest ouviu 1.104 pessoas de 16 anos ou mais entre os dias 17 e 20 de outubro. A margem de erro é de 3 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro da pesquisa é DF-0402/2026.\nVeja abaixo os números:\nAvaliação da gestão Celina Leão\nÓtima ou boa: 34% (eram 39% no levantamento anterior, em 12 de outubro);\nRegular: 35% (eram 30%);\nRuim ou péssima: 25% (eram 25%);\nNão sabe: % (eram 6%).\nQuaest, 21 de outubro: avaliação do governo Celina Leão (PP)\nArte/g1\nTrabalho de Celina Leão como governadora\nA Quaest também perguntou aos eleitores qual a avaliação sobre o trabalho de Celina Leão como governadora. Veja os resultados:\nAprova: 51% (eram 57% em 12 de outubro);\nDesaprova: 35% (eram 33%);\nNão sabe: 14% (eram 10%).\nQuaest, 21 de outubro: aprovação do governo Celina Leão (PP)\nArte/g1\nLeia mais notícias sobre a região no g1 DF.",
-    "published": "2026-10-21T20:07:43+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Eleições 2026: segunda pesquisa Quaest do 2º turno mostra Celina na liderança, com 50%\nPesquisa Quaest divulgada nesta quarta-feira (21) mostra como está a avaliação do governo Celina Leão (PP).\n➡️ A atual governadora assumiu o cargo em março deste ano – até então, era vice de Ib",
-    "relevance": 5
-  },
-  {
-    "source": "Financial Times",
-    "title": "Meta to create new non-voting share class",
-    "link": "https://www.ft.com/content/b34502b6-38dc-4a46-a8e7-d9131726cd31?syn-25a6b1a6=1",
-    "description": "Change would enable the social media group to sell shares to fund AI investment without reducing Mark Zuckerberg’s control",
-    "published": "2026-10-21T20:07:01+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Change would enable the social media group to sell shares to fund AI investment without reducing Mark Zuckerberg’s control",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Wall Street avança com recuperação de techs e balanços em foco; Nasdaq sobe 1% com SpaceX e Tesla",
-    "link": "https://www.moneytimes.com.br/wall-street-21-10-26-lils/",
-    "description": "Sem indicadores relevantes, os índices de Wall Street encerraram o pregão desta quarta-feira (21) com os investidores repercutindo balanços corporativos e recuperação das ações do setor de tecnologia. Confira o fechamento dos índices: O que movimenta Wall Street? Os investidores concentraram as atenções nos balanços do terceiro trimestre. Entre eles, a SpaceX (SPCX) registrou um [&#8230;]",
-    "published": "2026-10-21T20:06:21+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Sem indicadores relevantes, os índices de Wall Street encerraram o pregão desta quarta-feira (21) com os investidores repercutindo balanços corporativos e recuperação das ações do setor de tecnologia. Confira o fechamento dos índices: O que movimenta Wall Street? Os investidores ",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Quaest no DF, 2º turno: Flávio Bolsonaro, 50%; Lula, 39%",
-    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/21/quaest-df-presidente-segundo-turno-21-outubro.ghtml",
-    "description": "Flávio Bolsonaro (PL) e Lula (PT) durante o horário eleitoral gratuito dessa quarta-feira (21)\nReprodução\nPesquisa Quaest divulgada nesta quarta-feira (21) mostra como está a disputa presidencial no Distrito Federal para o segundo turno nas eleições de outubro.\nEsta é a segunda rodada da pesquisa desde que o segundo turno entre Flávio Bolsonaro (PL) e Lula foi confirmado, no último dia 4.\nO segundo turno será no próximo domingo (25). Na data, eleitores do DF também decidem a eleição para governador, entre Celina Leão (PP) e Leandro Grass.\nAgora no g1\n📱Baixe o app do g1 para ver notícias do DF em tempo real e de graça\nVeja abaixo os números da pesquisa estimulada, em que a Quaest mostra aos eleitores entrevistados os nomes dos candidatos:\nFlávio Bolsonaro (PL): 50% (eram 50% no levantamento anterior, em 12 de outubro);\nLula (PT): 39% (eram 40%);\nEm branco/nulo/nenhum: 6% (eram 6%);\nNão sabe: 5% (eram 4%)\nPara 94% dos eleitores ouvidos no levantamento, a escolha do candidato é definitiva. Outros 6% dizem que ainda podem mudar o voto até o segundo turno.\nA Quaest ouviu 1.104 pessoas de 16 anos ou mais entre os dias 17 e 20 de outubro. A margem de erro é de 3 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro da pesquisa é BR-03163/2026.\nAvaliação e aprovação do governo\nA pesquisa divulgada nesta quarta (21) também mediu a aprovação do trabalho de Lula como presidente.\nVeja abaixo os números:\nAprova: 41% (eram 42%);\nDesaprova: 53% (eram 54%);\nNão sabe: 6% (eram 4%).\nLeia mais notícias sobre a região no g1 DF.",
-    "published": "2026-10-21T20:05:06+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Flávio Bolsonaro (PL) e Lula (PT) durante o horário eleitoral gratuito dessa quarta-feira (21)\nReprodução\nPesquisa Quaest divulgada nesta quarta-feira (21) mostra como está a disputa presidencial no Distrito Federal para o segundo turno nas eleições de outubro.\nEsta é a segunda r",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Quaest no DF, 2º turno: Celina Leão, 50%; Leandro Grass, 35%",
-    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/21/quaest-df-governador-segundo-turno-21-outubro.ghtml",
-    "description": "Celina Leão (PP) e Leandro Grass (PT), candidatos ao governo do DF no segundo turno\nIngrid Ribeiro/TV Globo; Amanda Sales/TV Globo\nPesquisa Quaest divulgada nesta quarta-feira (21) mostra como está a disputa pelo governo do Distrito Federal no segundo turno. O levantamento foi encomendado pela Globo. \nEsta é a segunda rodada da pesquisa desde a definição dos candidatos que avançaram ao segundo turno, no dia 4.\nA votação será no próximo domingo (25). Na data, eleitores em todo o país e no exterior também decidirão o segundo turno da eleição presidencial, entre Flávio Bolsonaro (PL) e Lula (PT).\nAgora no g1\n📱Baixe o app do g1 para ver notícias do DF em tempo real e de graça\nVeja abaixo os números da pesquisa estimulada, em que a Quaest mostra aos eleitores entrevistados os nomes dos candidatos:\nCelina Leão (PP): 50% (eram 53% no levantamento anterior, em 12 de outubro);\nLeandro Grass (PT): 35% (eram 33%);\nEm branco/nulo/nenhum: 7% (eram 8%);\nNão sabe: 8% (eram 6%)\nPara 88% dos eleitores ouvidos no levantamento, a escolha do candidato é definitiva. Outros 12% dizem que ainda podem mudar o voto até o segundo turno.\nA Quaest ouviu 1.104 pessoas de 16 anos ou mais entre os dias 17 e 20 de outubro. A margem de erro é de 3 pontos percentuais, para mais ou para menos, e o nível de confiança é de 95%. O número de registro da pesquisa é DF-00402/2026.\nAvaliação e aprovação do governo\nA pesquisa divulgada nesta quinta (21) também mediu a avaliação e a aprovação do governo Celina Leão (PP).\n➡️ A atual governadora assumiu o cargo em março deste ano – até então, era vice de Ibaneis Rocha (MDB). Ibaneis deixou o governo do DF para disputar o Senado, mas desistiu em seguida.\nSegundo a pesquisa Quaest, 34% dos eleitores consideram a gestão Celina Leão \"ótima ou boa\" e 25% consideram \"ruim ou péssima\".\nVeja abaixo os números:\nAvaliação da gestão Celina Leão\nÓtima ou boa: 34% (eram 39% no levantamento anterior, em 12 de outubro);\nRegular: 35% (eram 30%);\nRuim ou péssima: 25% (eram 25%);\nNão sabe: 6% (eram 6%).\nTrabalho de Celina Leão como governadora\nA Quaest também perguntou aos eleitores qual a avaliação sobre o trabalho de Celina Leão como governadora. Veja os resultados:\nAprova: 51% (eram 57% em 12 de outubro);\nDesaprova: 35% (eram 33%);\nNão sabe: 14% (eram 10%).\nLeia mais notícias sobre a região no g1 DF.",
-    "published": "2026-10-21T20:04:59+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Celina Leão (PP) e Leandro Grass (PT), candidatos ao governo do DF no segundo turno\nIngrid Ribeiro/TV Globo; Amanda Sales/TV Globo\nPesquisa Quaest divulgada nesta quarta-feira (21) mostra como está a disputa pelo governo do Distrito Federal no segundo turno. O levantamento foi en",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Dólar sobe e fecha a R$ 5,02 após Quaest mostrar Flávio Bolsonaro mais perto de Lula",
-    "link": "https://www.moneytimes.com.br/dolar-21-10-26-lils/",
-    "description": "O dólar interrompeu a sequência de três perdas consecutivas e terminou o pregão em alta com o acirramento de Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT) na disputa à Presidência em segundo turno. Nesta quarta-feira (21), o dólar encerrou R$ 5,0279 no mercado à vista, com alta de 0,18%. O [&#8230;]",
-    "published": "2026-10-21T20:03:05+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O dólar interrompeu a sequência de três perdas consecutivas e terminou o pregão em alta com o acirramento de Flávio Bolsonaro (PL) e o presidente Luiz Inácio Lula da Silva (PT) na disputa à Presidência em segundo turno. Nesta quarta-feira (21), o dólar encerrou R$ 5,0279 no merca",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/mercados/dolar-hoje-abertura-fechamento-comercial-turismo-21102026/"
-      }
-    ]
-  },
-  {
-    "source": "O Globo",
-    "title": "Congresso resiste a usar verba de emendas para financiar promessa de Lula de garantir transporte de graça no fim de semana",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/10/21/congresso-resiste-a-usar-verba-de-emendas-para-financiar-promessa-de-lula-de-garantir-transporte-de-graca-no-fim-de-semana.ghtml",
-    "description": "Lideranças do Congresso Nacional afirmam que haverá resistência para aprovar a redução dos valores das emendas parlamentares para financiar o transporte público gratuito aos finais de semana, proposta pelo governo Luiz Inácio Lula da Silva (PT) às vésperas do segundo turno. Senadores e deputados afirmam, sob reserva, que qualquer proposta que resulte na diminuição do montante das emendas parlamentares não deve prosperar, ainda mais às vésperas de uma eleição presidencial. \nEsses parlamentares dizem enxergar no movimento de Lula gestos aos eleitores tanto pelo alcance e a popularidade da medida, quanto pelo ataque ao valor expressivo das emendas, que é criticada por parcela da população. Por outro lado, essas lideranças dizem tratar o tema em compasso de espera, já que o avanço ou não da medida será impactado pelo resultado das urnas no domingo. Em caso de vitória de Lula, dizem, a medida ganha força e pode ser aprovada por meio do diálogo e da busca de um meio-termo. Caso Flávio Bolsonaro (PL-RJ) seja eleito, esses parlamentares afirmam que dificilmente a proposta deve avançar.\nO Palácio do Planalto propôs destinar parte dos recursos das emendas parlamentares impositivas para custear a gratuidade nos serviços. Pelo texto da PEC, que foi assinada nesta quarta-feira pelo presidente, ao menos 26,8% do montante global das emendas individuais e de bancada seriam direcionadas para essa finalidade. O projeto de lei orçamentária anual de 2027 prevê R$ 44,8 bilhões em emendas parlamentares de execução obrigatória. Com esses valores, o governo estima que cerca de R$ 11,2 bilhões seriam usados para financiar a iniciativa.\nAs emendas são usadas como moeda de troca nas negociações entre Planalto e Congresso e a principal forma de parlamentares capitalizarem politicamente em seus redutos eleitorais. Nos últimos anos, foi motivo de tensionamento entre os três Poderes, com o Supremo Tribunal Federal (STF) impondo uma série de regras para dar transparência à destinação desses recursos. \nApesar desse cenário considerado adverso, aliados de Lula dizem apostar na mobilização popular para pressionar os parlamentares a discutir o tema, a exemplo de como foi a discussão da PEC que acabou com a jornada de trabalho 6x1. O Planalto também conta com a relação próxima estabelecida com os presidentes da Câmara, Hugo Motta (Republicanos-PB), e do Senado, Davi Alcolumbre (União Brasil-AP), para buscar avançar com o tema. De acordo com relatos, Motta sinalizou ser favorável ao andamento da medida, mas se queixou da decisão do governo em usar as emendas para custear a proposta. \nOs presidentes da Câmara e do Senado usam a distribuição desses recursos também para construir uma base de sustentação no Legislativo. Um interlocutor do presidente da Câmara, no entanto, afirma que, assim como demais medidas, haverá diálogo entre os líderes e o governo federal para buscar uma solução. O deputado federal Jilmar Tatto (PT-SP) diz que pediu a Motta para ser relator da PEC. Ele é coordenador da Frente Parlamentar em Defesa da Tarifa Zero. \nAo GLOBO o deputado diz que é possível buscar “outras fontes de financiamento” à medida, caso haja muita resistência às emendas. \n— O mais importante é que o governo está incidindo sobre o financiamento do transporte público nos municípios. Vamos buscar alternativas, pode ser por meio das emendas ou outras fontes de recurso. Envio emendas para custear a saúde. Por que não posso fazer isso com o transporte? \nDois senadores aliados de Lula reconhecem dificuldades em aprovar medidas que tratem das emendas parlamentares. Um deles diz, no entanto, que o Orçamento hoje não apresenta muitas alternativas e defende que o governo faça esse enfrentamento no Congresso —aproveitando a mobilização social das últimas semanas em torno da aprovação do fim da escala 6x1. Ele afirma ainda que a PEC dá início a uma discussão e é um ponto de partida, mas que não impede que o texto não possa sofrer alterações no Legislativo. \nO senador Otto Alencar (PSD-BA), aliado de Lula, afirma que não vê problemas em direcionar parte dessas emendas para garantir o transporte público gratuito. Ele afirmou que hoje as emendas de bancada são enviadas para obras em diferentes áreas como infraestrutura e saúde e que é “perfeitamente viável” direcioná-las para o transporte.  \nUm parlamentar do chamado Centrão afirma que dificilmente a PEC será aprovada se for mantida a previsão de direcionar recursos de emendas para garantir a gratuidade dos serviços. Ele prevê que a matéria não terá votos necessários na Câmara e sequer chegará para análise dos senadores. Esse político diz que a configuração do Parlamento eleito neste ano, com maior destaque ao bolsonarismo, dificultará ainda mais o avanço da proposta. \nA medida foi criticada por adversários políticos de Lula, que voltaram a se queixar do pacote apresentado pelo governo federal às vésperas das eleições. O líder da oposição na Câmara, Cabo Gilberto Silva (PL-PB), afirmou que é uma medida eleitoreira e que o presidente teve quatro anos para avançar com o tema e não o fez:\n—Qualquer discussão no Congresso agora só vai acontecer depois do segundo turno, nada será analisado agora. Não vi o texto, mas na próxima semana devemos sentar, fazer reunião de líderes e entender o que pode ser feito. Agora, por que o presidente não tinha pensado nisso antes e faz agora dias antes das eleições?— diz o deputado. \nDurante evento nesta quarta que marcou o envio da PEC ao Congresso, o presidente falou que até mesmo deputados e senadores da oposição deveriam apoiar a medida. Ele disse que os opositores haverão de concordar que “é melhor pegar uma parte da emenda e fazer com que o povo tenha um pouco de respeito e dignidade do que ficar gastando o dinheiro da forma que ele bem entende, sem muitas vezes prestar contas”.\nO presidente também defendeu que a PEC seja aprovada ainda neste ano —é necessário voto de 308 (dos 513) deputados e 49 (dos 81) senadores, em dois turnos de votação.",
-    "published": "2026-10-21T20:02:01+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Lideranças do Congresso Nacional afirmam que haverá resistência para aprovar a redução dos valores das emendas parlamentares para financiar o transporte público gratuito aos finais de semana, proposta pelo governo Luiz Inácio Lula da Silva (PT) às vésperas do segundo turno. Senad",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Sigilo bancário: Flávio Bolsonaro diz que vai aceitar desafio de Lula e ‘levar às últimas consequências’",
-    "link": "https://www.moneytimes.com.br/flavio-bolsonaro-diz-que-vai-aceitar-desafio-de-lula-e-levar-as-ultimas-consequencias-davs/",
-    "description": "Após Luiz Inácio Lula da Silva (PT) desafiar Flávio Bolsonaro (PL) a abrir sigilos bancário, fiscal e telefônico durante debate eleitoral no último domingo (16), o senador e candidato à presidente afirmou nesta quarta-feira (21) que &#8220;aceita o desafio&#8221;, mas impôs condições. Flávio cobrou a abertura do sigilo telefônico de Marco Aurélio Santana Ribeiro, ex-chefe [&#8230;]",
-    "published": "2026-10-21T20:00:32+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Após Luiz Inácio Lula da Silva (PT) desafiar Flávio Bolsonaro (PL) a abrir sigilos bancário, fiscal e telefônico durante debate eleitoral no último domingo (16), o senador e candidato à presidente afirmou nesta quarta-feira (21) que &#8220;aceita o desafio&#8221;, mas impôs condi",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "BlackRock adiciona ETF de robótica à crescente gama de produtos com foco em IA",
-    "link": "https://valor.globo.com/financas/noticia/2026/10/21/blackrock-adiciona-etf-de-robtica-crescente-gama-de-produtos-com-foco-em-ia.ghtml",
-    "description": "A BlackRock, maior gestora de ativos do mundo, lançou nesta quarta-feira mais um fundo negociado em bolsa (ETF) de uma série voltada para a inteligência artificial (IA).\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-10-21T19:59:09+00:00",
-    "themes": [
-      "XP"
-    ],
-    "summary": "A BlackRock, maior gestora de ativos do mundo, lançou nesta quarta-feira mais um fundo negociado em bolsa (ETF) de uma série voltada para a inteligência artificial (IA).\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Inadimplência bate recorde e chega a 9,3 milhões de empresas",
-    "link": "https://www.poder360.com.br/poder-economia/inadimplencia-bate-recorde-e-chega-a-93-milhoes-de-empresas/",
-    "description": "Micro e pequenas empresas têm 8,8 milhões de CNPJs com dívidas atrasadas, diz Serasa Experian; governo federal lançou programa para perdoar débitos",
-    "published": "2026-10-21T19:56:52+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Micro e pequenas empresas têm 8,8 milhões de CNPJs com dívidas atrasadas, diz Serasa Experian; governo federal lançou programa para perdoar débitos",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "INSS: Justiça libera R$ 2,9 bi em ações de concessão e revisão de aposentadorias",
-    "link": "https://www.infomoney.com.br/economia/inss-justica-libera-r-29-bi-em-acoes-de-concessao-e-revisao-de-aposentadorias/",
-    "description": "Mais de 193 mil pessoas foram contempladas em processos judiciais contra o instituto autuadas no mês de setembro deste ano\nThe post INSS: Justiça libera R$ 2,9 bi em ações de concessão e revisão de aposentadorias appeared first on InfoMoney.",
-    "published": "2026-10-21T19:54:09+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Mais de 193 mil pessoas foram contempladas em processos judiciais contra o instituto autuadas no mês de setembro deste ano\nThe post INSS: Justiça libera R$ 2,9 bi em ações de concessão e revisão de aposentadorias appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Esquerda resgata vídeo de Moro sobre pedido de Bolsonaro para livrar Flávio",
-    "link": "https://www.poder360.com.br/poder-eleicoes-2026/esquerda-resgata-video-de-moro-sobre-pedido-de-bolsonaro-para-livrar-flavio/",
-    "description": "Ex-ministro da Justiça criticou pedido de Bolsonaro sobre interferência em investigações sobre rachadinhas de Flávio",
-    "published": "2026-10-21T19:53:10+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Ex-ministro da Justiça criticou pedido de Bolsonaro sobre interferência em investigações sobre rachadinhas de Flávio",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Petróleo fecha perto da estabilidade, mas avança no pós-mercado com ataque à Saudi Aramco",
-    "link": "https://valor.globo.com/financas/noticia/2026/10/21/petroleo-fecha-perto-da-estabilidade-mas-avanca-no-pos-mercado-com-ataque-a-saudi-aramco.ghtml",
-    "description": "Os contratos futuros do petróleo Brent fecharam perto da estabilidade e os do WTI caíram nesta quarta-feira (21), enquanto investidores passaram o dia monitorando os desdobramentos das negociações para acabar com os conflitos no Oriente Médio e na Ucrânia. Após o encerramento das negociações, no entanto, os preços passaram a subir, diante de relatos de ataques à estrutura energética da Arábia Saudita.\n\nO petróleo tipo Brent (referência mundial) com vencimento em dezembro terminou o pregão perto da estabilidade (+0,03%), cotado a US$ 108,82 por barril, na Intercontinental Exchange (ICE). O WTI (referência americana) com entrega prevista para o mesmo mês caiu 0,68%, a US$ 97,15 por barril, na New York Mercantile Exchange (Nymex). \n\nMais cedo, o presidente russo, Vladimir Putin, concordou com a realização de negociações trilaterais com os Estados Unidos e a Ucrânia sobre um possível acordo de paz, segundo o Kremlin. Ontem, o rumor de que teria sido apresentada uma nova proposta de cessar-fogo aos Estados Unidos e ao Irã por intermediadores levou a uma firme queda nos preços do petróleo, mas não houve confirmação, enquanto o conflito segue sem perspectiva de acabar.\n\nApós o fechamento, os preços do petróleo apresentavam forte valorização, após relatos de ataques a instalações da Saudi Aramco no Arábia Saudita. Além disso, de acordo com a agência de notícias Reuters, o Departamento de Estado dos Estados Unidos estaria se preparando para determinar a saída de parte de seu pessoal e de familiares das embaixadas americanas na região do Golfo, ampliando os temores de uma escalada nas hostilidades. Por volta das 16h30 (de Brasília), o Brent subia 0,59%, a US$ 109,43.\nCampo de exploração da Saudi Aramco\nREUTERS/Maxim Shemetov",
-    "published": "2026-10-21T19:51:12+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Os contratos futuros do petróleo Brent fecharam perto da estabilidade e os do WTI caíram nesta quarta-feira (21), enquanto investidores passaram o dia monitorando os desdobramentos das negociações para acabar com os conflitos no Oriente Médio e na Ucrânia. Após o encerramento das",
-    "relevance": 5
-  },
-  {
-    "source": "Folha",
-    "title": "Pirataria digital no agro leva empresas à Justiça",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/pirataria-digital-no-agro-leva-empresas-a-justica.shtml",
-    "description": "O aumento de incidentes com pirataria digital em máquinas agrícolas tem levado a uma chuva de processos judiais, além de medidas para identificar, coibir e responsabilizar infratores. O escritório Kasznar Leonardos, especializado em propriedade intelectual, registrou crescimento interno de 50% na entrada de ações judiciais do tipo nos últimos nove meses em comparação com o mesmo período do ano passado.\nLeia mais (10/21/2026 - 16h48)",
-    "published": "2026-10-21T19:48:00+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "O aumento de incidentes com pirataria digital em máquinas agrícolas tem levado a uma chuva de processos judiais, além de medidas para identificar, coibir e responsabilizar infratores. O escritório Kasznar Leonardos, especializado em propriedade intelectual, registrou crescimento ",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Juristas criticam minuta do TSE sobre canais de WhatsApp e alertam para mudança nas regras às vésperas da eleição",
-    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/21/juristas-criticam-minuta-do-tse-sobre-canais-de-whatsapp-e-alertam-para-mudanca-nas-regras-as-vesperas-da-eleicao.ghtml",
-    "description": "Um grupo de juristas, professores e pesquisadores divulgou nesta quarta-feira uma nota técnica em que critica a proposta discutida no Tribunal Superior Eleitoral (TSE) para restringir a divulgação de conteúdos políticos em canais públicos de WhatsApp nas horas que antecedem e sucedem o segundo turno das eleições. Para os especialistas, a medida representa uma mudança nas regras da disputa a poucos dias da votação e pode comprometer a liberdade de expressão e a segurança jurídica.\nO documento foi encaminhado ao TSE nesta quarta-feira e questiona a possibilidade de equiparar publicações em canais de WhatsApp ao impulsionamento de propaganda eleitoral, modalidade de publicidade paga que está sujeita a restrições específicas durante o período eleitoral. \n\"Com a campanha do segundo turno já em sua reta final, a quatro dias da votação, veio a público proposta de mudar as regras do jogo: equiparar canais de WhatsApp ao impulsionamento e, assim, submetê-los à vedação do art. 29, § 11, que proíbe a propaganda paga ou impulsionada entre as 48 horas anteriores e as 24 horas posteriores à eleição. Não se busca interpretar norma existente, mas criar uma proibição nova\", afirmam os signatários.\nA nota reúne assinaturas de nomes de destaque do meio jurídico e acadêmico, como Oscar Vilhena Vieira, professor da Fundação Getulio Vargas (FGV), Daniel Sarmento, professor da Universidade do Estado do Rio de Janeiro (Uerj), Conrado Hübner Mendes, professor da Universidade de São Paulo (USP), Ingo Wolfgang Sarlet, constitucionalista, e Luciana Lóssio, ex-ministra do TSE. Também assinam o documento o jornalista e professor Eugenio Bucci, o especialista em direitos digitais Francisco Brito Cruz e as juristas Ana Frazão e Aline Osório.\nConforme mostrou O GLOBO, uma minuta elaborada pelo ministro André Mendonça, vice-presidente do TSE, prevê a proibição de canais de WhatsApp com conteúdo político e mais de 200 mil seguidores durante as 48 horas anteriores e as 24 horas posteriores à eleição. A proposta atingiria, por exemplo, o canal \"Exército do Lula\", que ultrapassou os 7 milhões de inscritos, e o canal \"Tropa do Flávio\", com cerca de 2 milhões de usuários.\nApesar da elaboração da proposta, o presidente do TSE, Nunes Marques, afirmou que a minuta não será analisada pela Corte antes do segundo turno. Segundo ele, a eventual regulamentação deverá ficar para as eleições de 2028, caso a futura composição do tribunal decida retomar o assunto.\n— A análise deve ficar para as próximas eleições (em 2028). Isso se a composição da época assim decidir. Isso cabe aos futuros membros da Corte — disse Nunes Marques ao GLOBO.\nO ministro classificou a minuta como um \"esboço\" e disse que o tema não foi discutido com profundidade.\nNa avaliação dos especialistas que assinam a nota técnica, a equiparação entre canais públicos e impulsionamento não encontra respaldo na legislação eleitoral. Eles argumentam que o impulsionamento pressupõe a contratação de um serviço pago para ampliar artificialmente o alcance de determinada publicação, enquanto os canais de WhatsApp funcionam de maneira gratuita e dependem da adesão voluntária dos usuários.\n\"A equiparação não se sustenta. Impulsionamento é o serviço que, mediante contratação com o provedor, potencializa o alcance do conteúdo para atingir usuários que normalmente não teriam acesso a ele\", afirma o documento. \nOs signatários também sustentam que a quantidade de seguidores ou o alcance de uma publicação não são suficientes para caracterizar impulsionamento irregular. Segundo eles, o mesmo raciocínio aplicado a perfis e páginas de redes sociais deve valer para os canais de WhatsApp.\nA nota cita ainda informações prestadas pela própria Meta à Justiça Eleitoral, segundo as quais o WhatsApp não oferece impulsionamento pago de conteúdo político-eleitoral e os usuários só recebem publicações de canais que decidiram acompanhar.\nOutro ponto levantado pelos especialistas é o risco de alteração das regras eleitorais às vésperas da votação. O documento menciona o artigo 105 da Lei das Eleições, que estabelece limites à edição de instruções pela Justiça Eleitoral e impede a criação de restrições ou sanções não previstas em lei.\n\"A introdução de uma nova equiparação jurídica, com efeitos restritivos sobre a comunicação política a poucos dias do segundo turno, suscitaria problemas relevantes de legalidade, previsibilidade e segurança jurídica\", diz a nota.\nO grupo ressalta que a posição não significa afastar a fiscalização da Justiça Eleitoral sobre eventuais irregularidades praticadas em canais de WhatsApp. A avaliação é de que conteúdos ilícitos podem ser investigados e removidos, desde que haja identificação de irregularidades concretas.",
-    "published": "2026-10-21T19:42:29+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Um grupo de juristas, professores e pesquisadores divulgou nesta quarta-feira uma nota técnica em que critica a proposta discutida no Tribunal Superior Eleitoral (TSE) para restringir a divulgação de conteúdos políticos em canais públicos de WhatsApp nas horas que antecedem e suc",
     "relevance": 5
   }
 ]
