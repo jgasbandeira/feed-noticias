@@ -1,5 +1,19 @@
 [
   {
+    "source": "Money Times",
+    "title": "Agenda econômica: O que pode mexer com Bolsa e dólar nesta quinta-feira (22)",
+    "link": "https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-bolsa-e-dolar-nesta-quinta-feira-mlem/",
+    "description": "A agenda econômica desta quinta-feira (22) tem como destaque a divulgação dos pedidos iniciais e contínuos de seguro-desemprego nos Estados Unidos. Os dados ajudam a avaliar as condições do mercado de trabalho norte-americano e podem influenciar as expectativas para os próximos passos da política monetária do Federal Reserve (Fed). No Brasil, os investidores acompanham a [&#8230;]",
+    "published": "2026-10-22T09:30:00+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "A agenda econômica desta quinta-feira (22) tem como destaque a divulgação dos pedidos iniciais e contínuos de seguro-desemprego nos Estados Unidos. Os dados ajudam a avaliar as condições do mercado de trabalho norte-americano e podem influenciar as expectativas para os próximos p",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Coreia do Sul: BC mantém taxa básica de juros em 3% após aumentos consecutivos",
     "link": "https://www.infomoney.com.br/mundo/coreia-do-sul-bc-mantem-taxa-basica-de-juros-em-3-apos-aumentos-consecutivos/",
@@ -1245,7 +1259,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O petróleo subiu e as ações asiáticas registraram queda com o retorno das atenções para os desdobramentos geopolíticos no Oriente Médio, após o alívio na ansiedade dos mercados globais em relação à inteligência artificial.\nO petróleo ganhou força no início desta quinta-feira em m",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Money Times",
+        "link": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-em-baixa-com-alta-do-petroleo-e-temor-sobre-ia-fets/"
+      }
+    ]
   },
   {
     "source": "Financial Times",
@@ -3871,18 +3891,6 @@
       "Mercado Financeiro"
     ],
     "summary": "“Parece que não pode ver um real sobrando.” Foi assim que um gestor de ações, que preferiu não se identificar, resumiu o acordo entre a Inspirali, controlada da Ânima (ANIM3), e o Hospital Israelita Albert Einstein. A reação ajuda a explicar o desconforto dos investidores com a o",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Justiça autoriza processo de recuperação judicial da Casas Bahia",
-    "link": "https://oglobo.globo.com/economia/negocios/noticia/2026/10/21/justica-autoriza-processo-de-recuperacao-judicial-da-casas-bahia.ghtml",
-    "description": "A Justiça de São Paulo aprovou nesta quarta-feira o processamento do pedido de recuperação judicial da Casas Bahia, e deu 30 dias para que o grupo resolva pendências na documentação apresentada ao juízo. A varejista tenta reestruturar um passivo que soma R$ 17,3 bilhões devidos a mais de 28 mil credores. \nSegundo a juíza Tainá Maria Leonardo de Oliveira, da 2ª Vara de Falências e Recuperações Judiciais do Tribunal de Justiça de São Paulo (TJ-SP), os fluxos de caixa das seis empresas do grupo precisam ser individualizados e a lista de credores ainda está em atualização. \n\"Trata-se de pendências identificadas, delimitadas e passíveis de esclarecimento ou complementação, e não de vícios que inviabilizam, por si sós, o processamento da recuperação judicial\", ressatou a magistrada.\nA juíza também manteve a proteção de 180 dias (período chamado de stay period) contra a execução de dívidas concedida a Casas Bahia em agosto, após a companhia admitir que houve \"corrida de credores contra o patrimônio\" da empresa desde a abertura do processo de recuperação, em 16 de agosto. \nNa decisão, a juíza também nomeou como administradora judicial da companhia a  AJ Ruiz Consultoria Empresarial, que deverá se manifestar quanto a possível necessidade de uma prorrogação no prazo do stay period. \nRedução de estoque e queda no e-commerce\nEm crise que atribui a juros elevados, restrição de crédito e pressão sobre consumo, a Casas Bahia pediu reestruturação, fechou quase 300 lojas e demitiu 3 mil funcionários.\nUma perícia judicial realizada em documentos e unidades da varejista apontou redução de estoque, áreas ociosas em alguns centros de distribuição e quadro de funcionários com 4,6 mil pessoas a menos em agosto. A análise ainda constatou que as vendas digitais tombaram 35% entre julho e agosto. A empresa entrou com pedido de recuperação judicial no dia 17 de agosto.\nRealizada pela ACFB Administração Judicial, a perícia visitou 744 lojas e 29 centros logísticos da Casas Bahia, e constatou que o grupo segue operando, mas há sinais de retração em parte da estrutura. Segundo o laudo, ao qual O GLOBO teve acesso, foi constatada atividade irregular em nove lojas e três centros de distribuição. \nJá a fábrica da Bartira, marca de móveis do grupo, funciona normalmente. Quanto à operação on-line, os peritos fizeram sete compras nos canais digitais da Casas Bahia, e os pedidos foram entregues dentro dos prazos informados.\nApesar da normalidade nas operações, a perícia constatou que entre julho e agosto, quando a Casas Bahia procurou a Justiça para se reestruturar, as vendas digitais da varejista caíram 35,3% em valor transacionado.  \n\"No campo de pedidos, o quantitativo passou de 1.068.648 para 706.335 registros, uma diminuição de 33,9%\", diz o documento.",
-    "published": "2026-10-21T17:08:58+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "A Justiça de São Paulo aprovou nesta quarta-feira o processamento do pedido de recuperação judicial da Casas Bahia, e deu 30 dias para que o grupo resolva pendências na documentação apresentada ao juízo. A varejista tenta reestruturar um passivo que soma R$ 17,3 bilhões devidos a",
     "relevance": 5
   }
 ]
