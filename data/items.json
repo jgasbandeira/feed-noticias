@@ -1,5 +1,41 @@
 [
   {
+    "source": "Poder360",
+    "title": "Poder360 fará live com análise e apuração do 2º turno das eleições",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/poder360-fara-live-com-analise-e-apuracao-do-2o-turno-das-eleicoes-2/",
+    "description": "Transmissão será a partir das 15h30 de domingo (25.out), com notícias, acompanhamento dos resultados e participação de especialistas e importantes nomes da política",
+    "published": "2026-10-23T09:00:24+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Transmissão será a partir das 15h30 de domingo (25.out), com notícias, acompanhamento dos resultados e participação de especialistas e importantes nomes da política",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Saiba como estão Lula e Flávio nas pesquisas a 2 dias da eleição",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-como-estao-lula-e-flavio-nas-pesquisas-a-2-dias-da-eleicao/",
+    "description": "Levantamentos realizados de 12 a 22 de outubro mostram vantagem numérica do senador em 15 estudos; presidente lidera em 1 e há 1 empate",
+    "published": "2026-10-23T09:00:23+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Levantamentos realizados de 12 a 22 de outubro mostram vantagem numérica do senador em 15 estudos; presidente lidera em 1 e há 1 empate",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Saiba quais indicadores e balanços saem nesta 6ª feira",
+    "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-6a-feira-11/",
+    "description": "Varejo no Reino Unido e no Canadá, juros na Rússia e prévia da inflação no Brasil movimentam o dia, com relatórios da American Express e Volvo",
+    "published": "2026-10-23T09:00:19+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Varejo no Reino Unido e no Canadá, juros na Rússia e prévia da inflação no Brasil movimentam o dia, com relatórios da American Express e Volvo",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "O que aconteceu com a Bolsa e dólar após o segundo turno, nas últimas eleições?",
     "link": "https://www.infomoney.com.br/mercados/o-que-aconteceu-com-a-bolsa-e-dolar-apos-o-segundo-turno-nas-ultimas-eleicoes/",
@@ -26,6 +62,32 @@
     "relevance": 5
   },
   {
+    "source": "Money Times",
+    "title": "Tempo real: Ibovespa acompanha IPCA-15 às vésperas do 2º turno",
+    "link": "https://www.moneytimes.com.br/tempo-real-23-10-26-apsa-lils/",
+    "description": "Resumo: O Ibovespa (IBOV) monitora a divulgação do IPCA-15, prévia da inflação oficial brasileira de outubro, às vésperas do segundo turno das eleições presidenciais. No exterior, os investidores acompanham os índices de gerentes de compras (PMIs) dos Estados Unidos, da zona do euro e do Reino Unido, além dos dados de vendas no varejo britânico. [&#8230;]",
+    "published": "2026-10-23T09:00:00+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Resumo: O Ibovespa (IBOV) monitora a divulgação do IPCA-15, prévia da inflação oficial brasileira de outubro, às vésperas do segundo turno das eleições presidenciais. No exterior, os investidores acompanham os índices de gerentes de compras (PMIs) dos Estados Unidos, da zona do e",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Justiça determina que varejistas liberem empregados para votar no domingo",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/justica-determina-que-varejistas-liberem-empregados-para-votar-no-domingo.shtml",
+    "description": "O Tribunal Regional do Trabalho da 2ª Região expediu uma série de decisões, na noite desta quinta (22), determinando que varejistas que funcionarem no período aberto para votação nas eleições deste domingo (25) -das 8h às 17h- ajustem suas escalas e liberem seus funcionários para que eles possam exercer o seu direito ao voto.\nLeia mais (10/23/2026 - 06h00)",
+    "published": "2026-10-23T09:00:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O Tribunal Regional do Trabalho da 2ª Região expediu uma série de decisões, na noite desta quinta (22), determinando que varejistas que funcionarem no período aberto para votação nas eleições deste domingo (25) -das 8h às 17h- ajustem suas escalas e liberem seus funcionários para",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Nasdaq futuro sobe após pior queda desde junho em meio a temores com IA",
     "link": "https://www.infomoney.com.br/mercados/nasdaq-futuro-sobe-apos-pior-queda-desde-junho-em-meio-a-temores-com-ia/",
@@ -35,6 +97,18 @@
       "Mercado Financeiro"
     ],
     "summary": "A cautela dos investidores reflete dúvidas sobre a sustentabilidade dos gastos com IA, que voltaram ao centro das atenções após resultados corporativos e planos de investimento de grandes empresas\nThe post Nasdaq futuro sobe após pior queda desde junho em meio a temores com IA ap",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Flávio supera Lula em gasto milionário para impulsionar posts às vésperas da eleição",
+    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/10/flavio-supera-lula-em-gasto-milionario-para-impulsionar-posts-as-vesperas-da-eleicao.ghtml",
+    "description": "Ao contrário do início da campanha, Flávio Bolsonaro tem investido pesado no impulsionamento de anúncios nas redes sociais nesta reta final de eleição.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-10-23T08:51:11+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Ao contrário do início da campanha, Flávio Bolsonaro tem investido pesado no impulsionamento de anúncios nas redes sociais nesta reta final de eleição.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
     "relevance": 5
   },
   {
@@ -2122,7 +2196,13 @@
       "Politica"
     ],
     "summary": "Lula e Flávio Bolsonaro afirmaram concordar com quebra de sigilo\nO ministro André Mendonça, vice-presidente do Tribunal Superior Eleitoral (TSE), definir ou não o que os candidatos querem divulgar. A decisão foi tomada no processo que tratava da quebra de sigilo do presidente Lui",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Money Times",
+        "link": "https://www.moneytimes.com.br/mendonca-diz-que-lula-e-flavio-podem-abrir-seus-sigilos-por-conta-propria-fets/"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
@@ -3787,85 +3867,6 @@
       "Politica"
     ],
     "summary": "O primeiro leilão de gás natural da União, no qual um total de 1,1 milhão de metros cúbicos (m³) por dia foram arrematados diretamente por grandes consumidores nesta quinta-feira (22), reduziu em até 57% o preço que era pago pela indústria por cada milhão de BTU, que equivale a 2",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "França prende 217 pessoas após onda de distúrbios, e julgamentos acelerados provocam críticas de advogados",
-    "link": "https://oglobo.globo.com/mundo/noticia/2026/10/22/franca-prende-217-pessoas-apos-onda-de-disturbios-e-julgamentos-acelerados-provocam-criticas-de-advogados.ghtml",
-    "description": "A Justiça francesa determinou a prisão de 217 pessoas condenadas em julgamentos acelerados relacionados à onda de distúrbios e saques que atingiu o país no fim de semana, disse nesta quinta-feira o ministro da Justiça, Gérald Darmin. Segundo ele, pelo menos 2,7 mil pessoas foram detidas desde sábado, das quais mais de mil já compareceram aos tribunais. O ministro elogiou a resposta “firme” do Judiciário, mas a rapidez dos processos foi alvo de críticas de advogados, que citam uma guinada repressiva. \nO que está acontecendo na França? Quatro perguntas para entender os protestos que tomaram o país\nQuer morar fora? Veja guia interativo do GLOBO que reúne informações sobre 36 países\nQuer ler mais notícias de Mundo? Acompanhe o canal no WhatsApp\nDiante da prisão de Fleury-Mérogis, nos arredores de Paris, Darmanin afirmou que o número de condenados à prisão continua aumentando. Segundo o ministro, metade das 217 pessoas encarceradas não tinha antecedentes. Em geral, disse, os condenados são homens com idades entre 18 e 25 anos, o que mostra que “estão prendendo pessoas que, até agora, não eram conhecidas pelo Judiciário e que são réus primários”: \n— Isso demonstra que as decisões da Justiça estão sendo aplicadas de maneira extremamente firme — disse Darmanin, segundo a AFP.\nA onda de violência começou no sábado, dias após manifestações conduzidas por estudantes e sindicatos contra o aumento do custo de vida e outras reivindicações não atendidas pelo governo do presidente Emmanuel Macron. Em Paris, a marcha percorreu a capital sem grandes incidentes, mas, à margem do protesto e depois de seu encerramento, grupos de pessoas vestidas de preto e mascaradas promoveram ataques, incendiaram prédios, bicicletas e lixeiras, depredaram restaurantes e saquearam lojas. \nEntenda: Macron classifica de ‘estúpidas’ declarações de Trump e Netanyahu sobre distúrbios na França\nInicialmente, a destruição foi atribuída a opositores de Macron e a governos anteriores, incluindo militantes da “ultraesquerda”, supostamente incentivados pelo líder da França Insubmissa, Jean-Luc Mélenchon. Muitos dos acusados de vandalismo, violência, roubo e danos ao patrimônio público ou privado, porém, foram classificados pelas autoridades como “delinquentes oportunistas”, cujas motivações seriam mais imediatas do que políticas. Em Paris, 68% das pessoas encaminhadas à custódia policial eram adultas.\nTribunais sobrecarregados \nPara lidar com o aumento súbito de processos, as autoridades recorreram ao procedimento conhecido como “comparecimento imediato”, que permite julgar os acusados logo após a detenção ou pouco tempo depois. Nos casos em que permanecem em prisão preventiva, os réus podem ser levados a julgamento em até três dias. Mais de 900 pessoas presas durante os distúrbios foram submetidas a esse mecanismo. \nApós protestos: França contabiliza destruição de lojas e prédios públicos, e distúrbios viram instrumento eleitoral\nO procedimento sobrecarregou os tribunais e provocou a indignação de advogados de defesa, que afirmam não ter tempo suficiente para se reunir com os clientes. Darmanin, por sua vez, ampliou de 48 para 72 horas o período durante o qual os detidos poderiam permanecer sob custódia policial e prometeu supervisionar os julgamentos acelerados, tanto para reduzir o acúmulo de processos quanto para desencorajar novos episódios de violência. O ministro também pediu aos tribunais que fossem “firmes” e “implacáveis” com vândalos. \nEm resposta, 125 advogados enviaram uma carta aberta ao presidente da Ordem dos Advogados de Paris denunciando o que classificaram como uma “guinada ultrarrepres­siva”: “A manifestação nacional revelou a nós, advogados, uma repressão histórica, orquestrada e deliberada. Recusamo-nos a permitir que julgamentos sumários se tornem instrumento de uma resposta política à revolta social”, escreveram. \n‘Uma situação triste’\nEntre os casos analisados pela Justiça está o de Awa, uma jovem de 18 anos presa após participar do saque a uma loja da Yves Saint Laurent no Boulevard Saint-Germain, em Paris, na noite de domingo. Ela foi detida em uma estação de metrô próxima ao estabelecimento, com uma balaclava preta, luvas da mesma cor e quatro bolsas da marca, avaliadas em um total de € 5 mil (cerca de R$ 28 mil), dentro da mochila.\nArtigo: O que os vândalos nos dizem, às vezes sem perceber, por Édouard Louis\nAo comparecer ao tribunal dois dias depois, ainda com as roupas pretas que usava no momento da prisão, Awa demonstrou dificuldade para compreender e responder às perguntas do juiz. Agarrava os cabelos, mordiscava os lábios e, incapaz de falar, cobriu o rosto e começou a chorar, publicou o Guardian. Entre murmúrios e respostas monossilábicas, conseguiu explicar que havia roubado as bolsas para revendê-las e que estava arrependida.\nSua advogada, Hamma Bouchareb, disse que a jovem havia concluído o ensino médio e estudava para obter um diploma técnico superior em comércio internacional. Afirmou, ainda, que Awa vivia em uma instituição de acolhimento desde que fugiu do pai, que a espancava, a obrigava a tomar banhos frios e havia provocado fraturas em seu crânio e em um de seus braços. A defesa questionou a resposta judicial à onda de distúrbios e responsabilizou a classe política pelas condições econômicas que, disse, estão por trás de parte dos crimes. \n— Ela acabou de completar 18 anos e mal saiu da infância. Quase não consegue se expressar. Awa roubou, e não estou justificando isso, mas ela roubou porque precisa de dinheiro — disse. — Esse procedimento de comparecimento imediato ao tribunal é complicado, e precisamos refletir sobre o que estamos fazendo. Essas pessoas perderam suas referências, estão com medo. A resposta a essa explosão de revolta deveria ser política, não judicial. Os políticos são responsáveis por uma situação econômica em que algumas pessoas não têm dinheiro para comprar comida ou roupas, como é o caso da minha cliente.\nOutros países: Da França à Albânia, onda de protestos liderada por jovens se espalha pela Europa contra o custo de vida\nO advogado da YSL afirmou que não buscaria “agravar a situação” da jovem, embora tenha destacado que duas lojas da empresa haviam sido saqueadas e centenas de bolsas, levadas. O promotor reconheceu que se tratava de “uma situação triste” e decidiu não pedir uma pena de prisão. Awa foi condenada a 12 meses de prisão com execução suspensa, além do pagamento de multa e indenização e da prestação de 140 horas de serviços comunitários.\n‘Questão de oportunidade’\nOutro caso envolveu um estudante de 19 anos, sem antecedentes criminais, que havia participado da manifestação autorizada em Paris. Ele foi detido a caminho de casa com vários suéteres pretos roubados de uma loja saqueada. O jovem recebeu uma multa e uma pena de 14 meses de prisão com execução suspensa, considerada severa por sua mãe.\n— Foi apenas uma questão de oportunidade. Pensei: todo mundo está fazendo isso, por que eu não? Eu me arrependo — disse o estudante.\nAnálise: Extrema direita na França capitaliza onda de violência para impulsionar campanha eleitoral\nEntre os demais acusados estavam Aboubacar, de 23 anos, funcionário da organização beneficente Emmaüs; Boumedine, de 25, influenciador do TikTok; Oussama, 37, entregador; e Victor, de 21 anos, estudante que compareceu ao tribunal com um olho roxo, acusado de atacar um policial. A diversidade dos perfis também apareceu em processos analisados em outras cidades francesas, publicou o jornal britânico.\nPrisões lotadas\nA política de encarceramento defendida por Darmanin também ocorre em meio à superlotação do sistema penitenciário francês. Em 1º de setembro, o país registrava 90 mil detentos, embora suas prisões tivessem capacidade para apenas 63,3 mil pessoas. O número de presos representava um novo recorde, segundo o Ministério da Justiça.\nQuestionado sobre o problema, Darmanin afirmou que a solução não seria “prender menos pessoas, mas criar mais vagas nas prisões”. O ministro mantém a defesa de uma resposta rigorosa aos envolvidos nos distúrbios, enquanto novos protestos contra o aumento do custo de vida estão previstos para este fim de semana.\nEm Marselha, segunda maior cidade da França, as autoridades anunciaram nesta quinta a proibição de todas as manifestações previstas para sábado, além da suspensão do transporte público nesse dia. Ampliaram, ainda, o toque de recolher para menores de idade no centro da cidade, estendendo a medida aos adultos nas noites de sábado e domingo. As decisões foram justificadas por “razões evidentes de segurança”, diante do receio de novos episódios de violência.\n(Com AFP)",
-    "published": "2026-10-22T17:23:48+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A Justiça francesa determinou a prisão de 217 pessoas condenadas em julgamentos acelerados relacionados à onda de distúrbios e saques que atingiu o país no fim de semana, disse nesta quinta-feira o ministro da Justiça, Gérald Darmin. Segundo ele, pelo menos 2,7 mil pessoas foram ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Últimas pesquisas para presidente no segundo turno saem nos próximos dias; veja as datas",
-    "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/22/ultimas-pesquisas-para-presidente-no-segundo-turno-saem-nos-proximos-dias-veja-as-datas.ghtml",
-    "description": "Datafolha e Quaest têm novas pesquisas previstas para a reta final do segundo turno das eleições presidenciais de 2026, que será disputado no domingo (25), entre Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT). Os levantamentos buscam medir as intenções de voto, a rejeição aos candidatos e o grau de decisão dos eleitores. \nA rodada final do Datafolha também investigará a avaliação dos entrevistados sobre o debate da TV Globo, previsto para esta sexta-feira (23), enquanto a Quaest perguntará qual dos dois cenários políticos — a volta da família Bolsonaro ao poder ou mais um mandato de Lula — causa mais medo aos eleitores.\nO Datafolha prevê divulgar no sábado (24), véspera da votação, sua última pesquisa sobre a disputa presidencial. Além das intenções de voto espontânea e estimulada, o questionário abordará a rejeição aos candidatos e se a escolha eleitoral já é definitiva. \nA pesquisa também investigará a repercussão do debate da TV Globo: quem assistir ao confronto será questionado sobre qual candidato teve melhor desempenho e se o encontro ou as notícias a respeito dele influenciaram sua decisão.\nO levantamento será realizado entre sexta e sábado, com 4.050 entrevistas em todo o país. A margem de erro máxima prevista é de dois pontos percentuais, para mais ou para menos, com nível de confiança de 95%. A pesquisa foi contratada pelo jornal Folha de S.Paulo e pela TV Globo e está registrada no Tribunal Superior Eleitoral (TSE) sob o número BR-09540/2026.\nA Quaest também tem divulgação prevista para sábado. O questionário inclui perguntas sobre intenção de voto espontânea e estimulada, indecisos, rejeição e eleitores que pretendem votar em branco ou nulo ou que afirmam não querer votar. O instituto também perguntará qual cenário causa mais medo aos entrevistados: a volta da família Bolsonaro ao poder ou um novo mandato de Lula. \nDiferentemente do Datafolha, o levantamento não prevê perguntas específicas sobre o debate da TV Globo. O instituto fará 3.702 entrevistas em todo o país, entre sexta e sábado. A margem de erro máxima prevista é de aproximadamente dois pontos percentuais, com nível de confiança de 95%. O levantamento foi contratado pela Editora Globo S.A. e pela Globo Comunicação e Participações S.A., por R$ 570.108, e registrado no TSE em 18 de outubro, sob o número BR-09158/2026.\nResultados de pesquisas de segundo turno mais recentes\nOs levantamentos divulgados até agora têm mostrado uma disputa apertada, com Flávio Bolsonaro e Lula dentro da margem de erro em pesquisas recentes. Na pesquisa Datafolha divulgada em 15 de outubro, Flávio tinha 47% das intenções de voto, contra 45% de Lula. Brancos e nulos somavam 6%, e os indecisos, 2%. Na contagem de votos válidos — que exclui brancos, nulos e indecisos —, o resultado era de 51% para Flávio e 49% para Lula, em empate técnico considerando a margem de erro de dois pontos percentuais.\nNa pesquisa Quaest divulgada em 21 de outubro, Flávio apareceu com 45% das intenções de voto, e Lula, com 44%. Brancos, nulos e eleitores que afirmaram não pretender votar somaram 9%, enquanto 2% estavam indecisos. No recorte de votos válidos, calculado a partir dos percentuais divulgados, Flávio registrou 50,56%, e Lula, 49,44%. A diferença também ficou dentro da margem de erro de dois pontos percentuais.\nFlávio Bolsonaro e Lula foram os dois candidatos mais votados no primeiro turno, realizado em 4 de outubro. Flávio recebeu 56.104.503 votos, equivalentes a 47,03% dos votos válidos. Lula obteve 53.879.538 votos, ou 45,16%.",
-    "published": "2026-10-22T17:23:45+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Datafolha e Quaest têm novas pesquisas previstas para a reta final do segundo turno das eleições presidenciais de 2026, que será disputado no domingo (25), entre Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva (PT). Os levantamentos buscam medir as intenções de voto, a rejeição",
-    "relevance": 5
-  },
-  {
-    "source": "Estadão",
-    "title": "Resultado de eleição presidencial pode afetar ESG em empresas no Brasil? O que dizem líderes da área",
-    "link": "https://www.estadao.com.br/economia/governanca/resultado-de-eleicao-presidencial-pode-afetar-esg-em-empresas-no-brasil-o-que-dizem-lideres-da-area/",
-    "description": "",
-    "published": "2026-10-22T17:19:27+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Resultado de eleição presidencial pode afetar ESG em empresas no Brasil? O que dizem líderes da área",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Dallagnol é escolhido por campanha de Flávio para análise de documentos de  Lula antes da quebra de sigilos",
-    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/22/dallagnol-e-escolhido-por-campanha-de-flavio-para-analise-de-documentos-de-lula-antes-da-quebra-de-sigilos.ghtml",
-    "description": "O senador eleito pelo Paraná Deltan Dallagnol (Novo) foi escalado pela equipe de Flávio Bolsonaro (PL) para participar da análise dos documentos disponibilizados pela campanha do presidente Lula (PT) antes da autorização da quebra dos sigilos bancário e telefônico do presidenciável do PL. A escolha do ex-procurador da Lava-Jato para acompanhar o processo foi anunciada em coletiva de imprensa nesta quinta-feira pela advogada de Flávio, Maria Cláudia Bucchianeri. \nFlávio afastado de Marçal e ministros de Lula no canal de Janones: Colunistas do GLOBO trazem bastidores finais das campanhas\nVoto indefinido: Veja as cidades com mais eleitores que podem decidir o segundo turno\nNa ocasião, ela afirmou que a equipe jurídica do senador já tem os documentos de Flávio reunidos, mas a entrega só acontecerá após se certificarem de que o petista apresentou tudo conforme foi estabelecido como condicionante. As duas campanhas teriam chegado a um acordo e têm até 23h59 desta quinta-feira para apresentarem as autorizações para a quebra dos sigilos. Em seguida, caberá ao ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), decidir se libera a divulgação das informações dos candidatos. Antes disso, os dois candidatos também assinaram uma petição que autorizava o levantamento imediato de seus dados e dos familiares. \nA pressão para a quebra dos sigilos teve início após Lula desafiar Flávio a tornar públicas suas informações durante o debate da Band, realizado no último domingo. Após o programa, perfis de apoiadores do presidente também subiram publicações sobre o tema nas redes sociais, também incentivados pelo canal de WhatsApp \"Exército do Lula\", administrado pelo deputado federal André Janones (Rede-MG). O parlamentar acompanhou o debate da plateia do estúdio e repassou esses e outros comandos aos apoiadores pelo grupo de mensagens na ocasião, como mostrou o GLOBO.  Já Flávio foi acompanhado por integrantes de sua campanha e aliados, como Nikolas Ferreira, Lucas Pavanato e Deltan, que usou uma camisa com a frase \"eu prendi o Lula\". \nNeste ano, Dallagnol conseguiu se eleger para o Senado pelo Paraná pela chapa do senador Sergio Moro (PL-PR), que venceu a disputa pelo governo. O ex-procurador, no entanto, ainda enfrenta o questionamento jurídico de sua elegibilidade levantado por adversários, que acionaram o TSE para a análise de seu registro de candidatura. \nEm 2023, a Corte cassou o mandato de Deltan na Câmara por considerar que ele cometeu uma fraude à Lei da Ficha Limpa ao deixar o Ministério Público Federal (MPF) enquanto respondia a procedimentos internos que poderiam levar à sua demissão. Neste ano, ele chegou a ser autorizado a concorrer pelo Tribunal Regional Eleitoral do Paraná, mas a decisão foi contestada e levada para a deliberação do TSE. A análise da Corte estava marcada para o dia 8 de outubro, quatro dias após o primeiro turno, mas foi adiada.",
-    "published": "2026-10-22T17:15:34+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O senador eleito pelo Paraná Deltan Dallagnol (Novo) foi escalado pela equipe de Flávio Bolsonaro (PL) para participar da análise dos documentos disponibilizados pela campanha do presidente Lula (PT) antes da autorização da quebra dos sigilos bancário e telefônico do presidenciáv",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "A conta da Previdência vai piorar, mas os candidatos evitam o tema",
-    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/10/a-conta-da-previdencia-vai-piorar-mas-os-candidatos-evitam-o-tema.ghtml",
-    "description": "Essa campanha eleitoral à Presidência da República tem passado anos-luz dos problemas reais da economia brasileira, principalmente das contas públicas. A reportagem de Geralda Doca, publicada no GLOBO, traz um tema que representa um dos principais gastos da União, a Previdência, que foi ignorado pelas duas campanhas à Presidência da República. Os dois candidatos estão prometendo manter a política de aumento real do salário mínimo, ao qual estão vinculados os benefícios previdenciários. Isso significa que os gastos previdenciários vão subir acima da inflação. A questão é que essa conta já está alta demais e compromete o Orçamento da União. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-10-22T17:08:02+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "Essa campanha eleitoral à Presidência da República tem passado anos-luz dos problemas reais da economia brasileira, principalmente das contas públicas. A reportagem de Geralda Doca, publicada no GLOBO, traz um tema que representa um dos principais gastos da União, a Previdência, ",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "G1 - Política",
-        "link": "https://g1.globo.com/politica/eleicoes/2026/ao-vivo/debate-globo-segundo-turno.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "Money Times",
-    "title": "Copa BTG Trader 2026: 74,5% dos participantes tiveram lucro na penúltima fase; grande final se aproxima",
-    "link": "https://www.moneytimes.com.br/copa-btg-trader-2026-745-dos-participantes-tiveram-lucro-na-penultima-fase-mlem/",
-    "description": "O maior campeonato de trading simulado do Brasil, a Copa BTG Trader 2026, criado pelo BTG Pactual, se aproxima do fim. Na próxima quinta-feira (29) acontece a grande final. Durante a semifinal, que aconteceu entre os dias 13 e 16 de outubro, 74,5% dos participantes tiveram lucro, sendo que 17%, ou 1.483 pessoas, tiveram mais [&#8230;]",
-    "published": "2026-10-22T17:05:33+00:00",
-    "themes": [
-      "XP"
-    ],
-    "summary": "O maior campeonato de trading simulado do Brasil, a Copa BTG Trader 2026, criado pelo BTG Pactual, se aproxima do fim. Na próxima quinta-feira (29) acontece a grande final. Durante a semifinal, que aconteceu entre os dias 13 e 16 de outubro, 74,5% dos participantes tiveram lucro,",
     "relevance": 5
   }
 ]
