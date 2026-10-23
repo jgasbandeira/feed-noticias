@@ -1,5 +1,198 @@
 [
   {
+    "source": "Poder360",
+    "title": "Dólar cai 0,90% e fecha em R$ 4,993; Ibovespa sobe",
+    "link": "https://www.poder360.com.br/poder-economia/dolar-cai-090-e-fecha-em-r-4993-ibovespa-sobe/",
+    "description": "O mercado reagiu à divulgação dos dados IPCA-15, considerando a prévia da inflação, que subiu 0,32% em outubro",
+    "published": "2026-10-23T20:26:30+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "O mercado reagiu à divulgação dos dados IPCA-15, considerando a prévia da inflação, que subiu 0,32% em outubro",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Pimenta vai à Argentina e critica modelo econômico de Milei",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/pimenta-vai-a-argentina-e-critica-modelo-economico-de-milei/",
+    "description": "Em vídeo publicado por Lula, deputado criticou cortes em aposentadorias, programas sociais e universidades argentinas; também mirou o \"tesouraço\" proposto por Flávio Bolsonaro",
+    "published": "2026-10-23T20:25:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Em vídeo publicado por Lula, deputado criticou cortes em aposentadorias, programas sociais e universidades argentinas; também mirou o \"tesouraço\" proposto por Flávio Bolsonaro",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Eleições: Organizações acionam TSE e PGR por transporte para quilombolas e comunidades tradicionais",
+    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/10/eleicoes-organizacoes-acionam-tse-e-pgr-por-transporte-para-quilombolas-e-comunidades-tradicionais.ghtml",
+    "description": "A Rede Cerrado e o Movimento Negro Unificado (MNU) acionaram o TSE e a PGR para que garantam a eleitores quilombolas e de outras comunidades tradicionais condições de chegar aos locais de votação e retornar a seus territórios no segundo turno. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-10-23T20:21:01+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A Rede Cerrado e o Movimento Negro Unificado (MNU) acionaram o TSE e a PGR para que garantam a eleitores quilombolas e de outras comunidades tradicionais condições de chegar aos locais de votação e retornar a seus territórios no segundo turno. Matéria exclusiva para assinantes. P",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Atlético-MG e Banco Inter anunciam conta exclusiva para torcedores",
+    "link": "https://www.poder360.com.br/poder-sportsmkt/atletico-mg-e-banco-inter-anunciam-conta-exclusiva-para-torcedores/",
+    "description": "Parceria promete conta 100% gratuita, cartão personalizado e vantagens aos atleticanos",
+    "published": "2026-10-23T20:18:57+00:00",
+    "themes": [
+      "XP"
+    ],
+    "summary": "Parceria promete conta 100% gratuita, cartão personalizado e vantagens aos atleticanos",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Taxas têm baixas leves com mercado mantendo vitória de Flávio sobre Lula",
+    "link": "https://www.infomoney.com.br/mercados/taxas-tem-baixas-leves-com-mercado-mantendo-vitoria-de-flavio-sobre-lula/",
+    "description": "Expectativa em torno da eleição deixou em segundo plano durante o dia o resultado do IPCA-15 de outubro e a alta dos rendimentos ‌dos Treasuries no exterior\nThe post Taxas têm baixas leves com mercado mantendo vitória de Flávio sobre Lula appeared first on InfoMoney.",
+    "published": "2026-10-23T20:17:47+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Expectativa em torno da eleição deixou em segundo plano durante o dia o resultado do IPCA-15 de outubro e a alta dos rendimentos ‌dos Treasuries no exterior\nThe post Taxas têm baixas leves com mercado mantendo vitória de Flávio sobre Lula appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Por que o debate da Globo será definidor, na opinião de políticos",
+    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/10/por-que-o-debate-da-globo-sera-definidor-na-opiniao-de-politicos.ghtml",
+    "description": "Políticos e especialistas em eleição que eu ouvi dizem o debate desta sexta-feira será realmente definidor, mais do que qualquer outro.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-10-23T20:16:23+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Políticos e especialistas em eleição que eu ouvi dizem o debate desta sexta-feira será realmente definidor, mais do que qualquer outro.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Bolsas de NY fecham em queda com avanço do petróleo e aversão ao risco",
+    "link": "https://valor.globo.com/financas/noticia/2026/10/23/bolsas-de-ny-fecham-em-queda-com-avanco-do-petroleo-e-aversao-ao-risco.ghtml",
+    "description": "Com as atenções voltadas para a decisão do Federal Reserve (Fed) na semana que vem, as bolsas americanas encerraram esta sexta-feira (23) em forte queda, sobretudo o Dow Jones, frente aos crescentes riscos inflacionários causados pelo choque do petróleo. A piora na percepção de risco na região do Golfo Pérsico levou o barril do Brent ao maior nível desde maio, penalizando os ativos de risco para além do setor de tecnologia, que mostrou algum respiro após a liquidação vista ontem.\n\nO índice Dow Jones encerrou em queda de 1,24%, aos 52.214,21 pontos, o S&amp;P 500 perdeu 0,52%, aos 7.623,63 pontos, e o Nasdaq recuou 0,21%, aos 25.955,34 pontos. Apenas os setores de energia, tecnologia e imobiliário terminaram o dia no campo positivo.\n\nOs preços do petróleo seguem em elevação pela perspectiva de uma escalada militar no Golfo Pérsico, após o New York Times informar que a Casa Branca e Israel elaboraram planos para novos ataques contra o Irã após as eleições americanas de meio de mandato, no início de novembro. A referência global, o Brent, encerrou o dia cotado acima da faixa de US$ 116 por barril, no maior nível desde maio.\n\nCom uma manutenção dos juros amplamente precificada, os investidores observarão a comunicação do banco central americano, na próxima decisão, à procura de sinais sobre as próximas reuniões e sobre a avaliação do comitê de política monetária sobre o cenário macroeconômico. O consenso aponta para pelo menos duas altas nos juros  dos EUA até junho, segundo dados compilados pelo CME Group.\n\nPainel de cotações da bolsa de valores de Nova York (Nyse)\nMichael Nagle/Bloomberg",
+    "published": "2026-10-23T20:11:39+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Com as atenções voltadas para a decisão do Federal Reserve (Fed) na semana que vem, as bolsas americanas encerraram esta sexta-feira (23) em forte queda, sobretudo o Dow Jones, frente aos crescentes riscos inflacionários causados pelo choque do petróleo. A piora na percepção de r",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Quem está na frente nas pesquisas para presidente hoje? Veja resultados por gênero, idade e escolaridade",
+    "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/23/quem-esta-na-frente-nas-pesquisas-para-presidente-hoje-veja-resultados-por-genero-idade-e-escolaridade.ghtml",
+    "description": "No segundo turno das eleições 2026, Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) são os dois nomes na disputa pela presidência da República. \nAs pesquisas Datafolha e Quaest recortam as intenções de votos por gênero, idade e escolaridade, em que Flávio Bolsonaro lidera entre o público masculino, quem tem ensino médio ou superior completo e quem tem entre 25 e 59 anos. Já Lula é o favorito entre quem tem 60 anos ou mais em ambas as pesquisas e entre 16 e 24 anos no Datafolha.\nNo primeiro pleito mais apertado da história, o candidato do PL terminou na frente, com 56.104.503 votos (47,03%). Já o petista somou 53.879.538 votos (45,16%), de acordo com a Justiça Eleitoral. \nO Datafolha foi divulgado na última quinta-feira (22). A pesquisa ouviu 2.520 eleitores com 16 anos ou mais entre os dias 20 e 22 de outubro. A margem de erro da amostra é de 2 pontos percentuais, para mais ou para menos, com confiança de 95%. O levantamento, contratado pelo jornal Folha de S. Paulo e TV Globo, custou R$ 384.552,00 e está registrada sob o código BR-09709/2026 no Tribunal Superior Eleitoral (TSE). \nJá a Quaest foi divulgada na última quarta-feira (21). O levantamento entrevistou 2.154 pessoas com 16 anos ou mais entre os dias 7 e 20 de outubro. A margem de erro é de 2 pontos percentuais, para mais ou para menos, com confiança de 95%. A amostra foi contratada pelo Grupo Globo por R$ 338.178,00. No TSE, está sob o protocolo BR-08535/2026. \nConfira as intenções de votos estimuladas para o segundo turno por gênero, idade e escolaridade: \nGênero \nEm ambas as pesquisas, Lula lidera as intenções de votos femininos, enquanto Flávio Bolsonaro é o preferido no público masculino.\nIntenções de votos estimulados para o segundo turno por gênero, segundo o Datafolha\nIntenções de votos estimulados para o segundo turno por gênero, segundo a Quaest\nIdade \nO Datafolha divide os resultados por idade em cinco cálculos, nos quais Lula lidera em dois e Bolsonaro em três. \nIntenções de votos estimulados para o segundo turno por idade, segundo o Datafolha\nJá a Quaest junta as faixas etárias em três cálculos. Deles, o senador do PL lidera dois, enquanto Lula segue o favorito entre os maiores de 60 anos. \nIntenções de votos estimulados para o segundo turno por idade, segundo a Quaest\nEscolaridade \nNa divisão por escolaridade – ensino fundamental, ensino médio e ensino superior –, Bolsonaro lidera entre os cidadãos que têm ensino médio ou superior completo. Isso ocorre em ambos os levantamentos.\n Intenções de votos estimulados para o segundo turno por escolaridade, segundo o Datafolha\nIntenções de votos estimulada para o segundo turno por escolaridade, segundo a Quaest\n*Estagiária sob supervisão de Diogo Max",
+    "published": "2026-10-23T20:09:27+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "No segundo turno das eleições 2026, Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) são os dois nomes na disputa pela presidência da República. \nAs pesquisas Datafolha e Quaest recortam as intenções de votos por gênero, idade e escolaridade, em que Flávio Bolsonaro lidera ",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Judiciário tem 75,5 milhões de processos pendentes",
+    "link": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/23/judiciario-tem-755-milhoes-de-processos-pendentes-1.ghtml",
+    "description": "O Conselho Nacional de Justiça (CNJ) divulgou, em junho de 2026, a 23ª edição do relatório Justiça em Números, com dados consolidados até dezembro de 2025. Segundo o documento, o Poder Judiciário brasileiro encerrou o ano com 75,5 milhões de processos pendentes, uma redução de 3,5 milhões (4,5%) que leva o estoque ao patamar de nove anos atrás.\nProcessos novos e baixados\nForam iniciados 40,9 milhões de novos processos em 2025, alta de 1,5 milhão (3,5%) e o maior volume da série histórica. No mesmo período, 45,2 milhões de processos foram baixados, no mesmo patamar de 2024, também recorde histórico, segundo o relatório.\nTempo de tramitação e processos suspensos\nO tempo médio de tramitação dos processos pendentes foi de 3 anos e 7 meses. Na fase de conhecimento, a média foi de 2 anos e 5 meses; na fase de execução, de 4 anos e 9 meses. Entre os ramos da Justiça, a Justiça Federal registrou a fase de execução mais longa, com 5 anos e 3 meses de duração média.\nDo total de pendentes, 16,4 milhões de processos, o equivalente a 21,7%, estavam suspensos, sobrestados ou em arquivo provisório. O número representa queda de 1,3 milhão de casos (7,5%) em relação a 2024.\nDe acordo com o relatório, a suspensão pode ocorrer por diferentes motivos, entre eles o aguardo do julgamento de repercussão geral no Supremo Tribunal Federal (STF), de recurso repetitivo no Superior Tribunal de Justiça (STJ), de Incidente de Assunção de Competência (IAC) ou de Incidente de Resolução de Demandas Repetitivas (IRDR) nos tribunais de segundo grau, a captura de réu condenado foragido, o pagamento de precatório ou de Requisição de Pequeno Valor (RPV) e o julgamento de outra causa ou incidente relacionado ao processo. O indicador reúne todas essas situações, sem detalhar a participação de cada uma.\nA proporção de processos suspensos varia entre os ramos da Justiça. Em relação ao total de pendentes de cada ramo, a Justiça Federal registrou 33%, seguida pela Justiça do Trabalho, com 32,9%, pela Justiça Estadual, com 18,8%, pela Justiça Eleitoral, com 13,2%, pelos Tribunais Superiores, com 9,7%, e pela Justiça Militar, com 6,2%.\nPara a PrecPago, uma das empresas líderes no setor de cessão de crédito no Brasil, reforça que a divulgação periódica de dados e relatórios densos como esse é de alta importância, uma vez que dá visibilidade ao andamento dos processos e contribui para a transparência do sistema de Justiça, o que auxilia em medidas que possam acelerar e otimizar os processos pendentes e em andamento.\nCustos e arrecadação\nO custo total do Poder Judiciário em 2025 foi de R$ 164,6 bilhões, equivalente a 1,3% do Produto Interno Bruto (PIB) e a 2,7% dos gastos de União, estados, Distrito Federal e municípios. A arrecadação do Judiciário no período somou R$ 68,2 bilhões, o que cobre 41% das despesas do setor.",
+    "published": "2026-10-23T20:08:19+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O Conselho Nacional de Justiça (CNJ) divulgou, em junho de 2026, a 23ª edição do relatório Justiça em Números, com dados consolidados até dezembro de 2025. Segundo o documento, o Poder Judiciário brasileiro encerrou o ano com 75,5 milhões de processos pendentes, uma redução de 3,",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/10/23/judiciario-tem-755-milhoes-de-processos-pendentes-1.ghtml"
+      }
+    ]
+  },
+  {
+    "source": "O Globo",
+    "title": "MPT vai apurar carta do Zona Sul aos funcionários pedindo 'voto consciente' e 'necessidade de mudar'",
+    "link": "https://oglobo.globo.com/blogs/ancelmo-gois/post/2026/10/mpt-vai-apurar-carta-do-zona-sul-aos-funcionarios-pedindo-voto-consciente-e-necessidade-de-mudar.ghtml",
+    "description": "O Ministério Público do Trabalho (MPT) no Rio de Janeiro registrou uma Notícia de Fato (NF) para apurar as informações relativas à carta distribuída pelos Supermercados Zona Sul aos funcionários, pedindo \"voto consciente\" e destacando a \"necessidade de mudar\". Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-10-23T20:07:53+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O Ministério Público do Trabalho (MPT) no Rio de Janeiro registrou uma Notícia de Fato (NF) para apurar as informações relativas à carta distribuída pelos Supermercados Zona Sul aos funcionários, pedindo \"voto consciente\" e destacando a \"necessidade de mudar\". Matéria exclusiva p",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Investidor opta por segurança depois da ‘euforia’ do 1º turno nas opções do EWZ, mas volume supera em 5 vezes 2022",
+    "link": "https://www.moneytimes.com.br/investidor-opta-por-seguranca-depois-da-euforia-do-1o-turno-nas-opcoes-do-ewz-mas-volume-supera-em-5-vezes-2022/",
+    "description": "O investidor teve uma surpresa com o primeiro turno das eleições de 2026. A maioria dos gestores previa o favoritismo do atual presidente, Luiz Inácio Lula da Silva (PT), ante o senador Flávio Bolsonaro (PL). No entanto, a surpresa veio com a vantagem de mais de 2 pontos percentuais para o candidato do PL. Diante [&#8230;]",
+    "published": "2026-10-23T20:04:42+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "O investidor teve uma surpresa com o primeiro turno das eleições de 2026. A maioria dos gestores previa o favoritismo do atual presidente, Luiz Inácio Lula da Silva (PT), ante o senador Flávio Bolsonaro (PL). No entanto, a surpresa veio com a vantagem de mais de 2 pontos percentu",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Datafolha no DF, 2º turno: Flávio Bolsonaro, 51%; Lula, 42%",
+    "link": "https://g1.globo.com/df/distrito-federal/eleicoes/2026/noticia/2026/10/23/datafolha-df-presidente-segundo-turno-23-outubro.ghtml",
+    "description": "Flávio Bolsonaro e Lula em entrevista com Renata Lo Prete\nGlobo/ Manoella Mello\nPesquisa Datafolha divulgada nesta sexta-feira (23) mostra como está a disputa presidencial no Distrito Federal para o segundo turno nas eleições de outubro.\nEsta é a segunda rodada da pesquisa desde que o segundo turno entre Flávio Bolsonaro (PL) e Lula foi confirmado, no último dia 4.\nO segundo turno será no próximo domingo (25). Na data, eleitores do DF também decidem a eleição para governador, entre Celina Leão (PP) e Leandro Grass.\n📱Baixe o app do g1 para ver notícias do DF em tempo real e de graça\nVeja abaixo os números da pesquisa estimulada, em que o Datafolha mostra aos eleitores entrevistados os nomes dos candidatos:\nFlávio Bolsonaro (PL): 51% (eram 49% no levantamento anterior, em 9 de outubro);\nLula (PT): 42% (eram 43%);\nEm branco/nulo/nenhum: 6% (eram 6%)\nNão sabe: 1% (eram 2%).\nConsiderando apenas os votos válidos, Flávio Bolsonaro (PL) tem 55% das intenções de voto no DF, e Lula (PT), 45%.\nA pesquisa foi contratada pela Globo e pelo jornal \"Folha de S.Paulo\". O Datafolha ouviu 910 pessoas entre os dias 20 e 22 de outubro. A margem de erro é de três pontos percentuais, para mais ou para menos. O nível de confiança é de 95%. O número de registro da pesquisa é BR-00875/2026.\nAvaliação e aprovação do governo\nA pesquisa divulgada nesta sexta (23) também mediu a avaliação e a aprovação do governo Lula.\nSegundo a pesquisa Datafolha, 30% dos eleitores consideram a gestão Lula \"ótima ou boa\" e 50% consideram \"ruim ou péssima\".\nVeja abaixo os números:\nAvaliação da gestão Lula\nÓtima ou boa: 30% (eram 32% no levantamento anterior, em 8 de outubro);\nRegular: 19% (eram 22%);\nRuim ou péssima: 50% (eram 46%);\nNão sabe: 1% (era 1%).\nTrabalho de Lula como presidente\nO Datafolha também perguntou aos eleitores qual a avaliação sobre o trabalho de Lula como presidente. Veja os resultados:\nDesaprova: 55% (eram 52% no dia 8);\nAprova: 42% (eram 45%);\nNão sabe: 3% (eram 4%).\nLeia mais notícias sobre a região no g1 DF.",
+    "published": "2026-10-23T20:02:39+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Flávio Bolsonaro e Lula em entrevista com Renata Lo Prete\nGlobo/ Manoella Mello\nPesquisa Datafolha divulgada nesta sexta-feira (23) mostra como está a disputa presidencial no Distrito Federal para o segundo turno nas eleições de outubro.\nEsta é a segunda rodada da pesquisa desde ",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Menino de 3 anos morre após atirar acidentalmente contra si mesmo com arma do pai nos EUA",
+    "link": "https://oglobo.globo.com/mundo/epoca/noticia/2026/10/23/menino-de-3-anos-morre-apos-atirar-acidentalmente-contra-si-mesmo-com-arma-do-pai-nos-eua.ghtml",
+    "description": "Um menino de 3 anos morreu na noite desta quinta-feira (22) após atirar acidentalmente contra si mesmo com a arma do pai, dentro de um carro no estacionamento de um restaurante Burger King em Bartow, na Flórida, nos Estados Unidos. Segundo o xerife do condado de Polk, Grady Judd, a criança estava no banco de trás do veículo quando pegou a pistola, que havia sido retirada da cintura do pai enquanto ele tentava resolver um problema com o pagamento do jantar.\nCarregava 650kg: Novas imagens mostram elefante virando carro, depois de se revoltar em procissão na Índia\nFoi parar em museu: Ladrões roubam joias de casa na Romênia, mas deixam passar pedra de âmbar avaliada em R$ 5,6 milhões\nO menino foi levado ao hospital Lakeland Regional Health, onde morreu por volta das 19h30, no horário local, apesar das tentativas de reanimação. A criança faria aniversário quatro dias depois do acidente, segundo as autoridades.\nO caso aconteceu por volta das 18h23, na área de drive-thru do restaurante, na Van Fleet Drive. De acordo com a investigação preliminar, o pai havia parado para comprar comida quando o cartão de crédito não funcionou. Para tentar solucionar o problema, ele estacionou o carro e começou a verificar as informações de pagamento.\nDurante a tentativa, o homem retirou uma pistola Glock da cintura porque a arma estava desconfortável enquanto ele se inclinava para conferir o cartão. Segundo o xerife, o pai deixou a arma dentro do veículo e voltou a se concentrar no pagamento.\nAs autoridades acreditam que o menino viu a pistola, pegou o objeto e apertou o gatilho. O disparo atingiu o rosto da criança. Os investigadores também encontraram um buraco no teto do carro, compatível com a trajetória do tiro.\nImagens de câmeras de segurança do estabelecimento mostram o pai saindo do veículo e correndo ao redor do carro após ouvir o disparo, segundo Judd. Uma mulher que estava em um automóvel próximo também deixou o veículo e acionou o serviço de emergência.\nPoliciais de Bartow chegaram ao local e iniciaram os procedimentos para tentar salvar a criança. O menino foi levado ao hospital, mas não resistiu.\nPai pode responder criminalmente\nDurante uma entrevista coletiva, o xerife classificou o episódio como uma tragédia e afirmou que, com base nas informações preliminares, não recomendaria que o pai fosse processado criminalmente caso a investigação confirme a dinâmica relatada.\nA legislação da Flórida prevê a possibilidade de acusação por negligência culposa, um crime de terceiro grau, em determinadas circunstâncias nas quais uma criança tem acesso a uma arma de fogo e acaba ferindo a si mesma ou outra pessoa. Segundo o xerife, porém, a lei exige que as autoridades aguardem pelo menos sete dias antes de adotar medidas legais com base nesse dispositivo e encaminhem as informações ao Ministério Público estadual.\nA decisão final sobre uma eventual acusação caberá às autoridades responsáveis pela análise do caso, em conjunto com a polícia de Bartow e os investigadores do gabinete do xerife. Até o momento, a investigação continua em andamento.\nO chefe adjunto da polícia de Bartow, Kyle Dowdy, também lamentou a morte e destacou o impacto da ocorrência sobre a família e os agentes que atenderam ao chamado.\n— Haverá uma família sem um filho, sem um sobrinho, sem um primo — afirmou Dowdy.\nO menino e os pais não tiveram os nomes divulgados publicamente. Segundo as autoridades, a família havia se mudado de Connecticut para a Flórida cerca de quatro meses antes do acidente.",
+    "published": "2026-10-23T19:54:03+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Um menino de 3 anos morreu na noite desta quinta-feira (22) após atirar acidentalmente contra si mesmo com a arma do pai, dentro de um carro no estacionamento de um restaurante Burger King em Bartow, na Flórida, nos Estados Unidos. Segundo o xerife do condado de Polk, Grady Judd,",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "'Brasil visto de fora': leia as seis entrevistas da série com estrategistas  sobre as eleições brasileiras e fenômenos globais",
+    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/brasil-visto-de-fora-leia-as-seis-entrevistas-da-serie-com-estrategistas-sobre-as-eleicoes-e-fenomenos-globais.ghtml",
+    "description": "Seis estrategistas internacionais que trabalharam em campanhas de destaque analisaram, na série do GLOBO 'Brasil visto de fora', fenômenos que rondam a eleição brasileira de 2026. Nas entrevistas, abordaram pautas como a \"maldição do incumbente\", que tem dificultado a reeleição de presidentes mundo afora, e o descompasso entre indicadores econômicos e a percepção de melhora no dia a dia. Outros tópicos incluíram as mudanças que as redes sociais causaram na política e a presença de uma direita mais radicalizada em vários países.\nForam ouvidos o americano Karl Rove, o espanhol Antoni Gutiérrez-Rubí, a argentina Ana Iparraguirre, a britânica Deborah Mattinson, o equatoriano Jaime Durán Barba e o chileno Sebastián Kraljevich. \nVeja abaixo, pela ordem de publicação, o que disse cada um.\nKarl Rove\nConhecido como \"arquiteto\" das vitórias do republicano George W. Bush nas eleições presidenciais americanas, o consultor afirmou que um presidente como Lula, que enfrenta dificuldade para convencer os eleitores de que o governo conseguiu bons números econômicos, precisa ter empatia e pés no chão, em vez de insistir naquilo que as pessoas não estão sentindo. Rove também criticou a política externa do governo Donald Trump, que tenta interferir em diversas eleições pelo mundo, como a do Brasil.\nLeia aqui a entrevista completa.\nAntoni Gutiérrez-Rubí\nO espanhol que trabalhou em campanhas marcantes na América Latina nos últimos anos, como a de Gustavo Petro na Colômbia e a de Claudia Sheimbaum no México, avaliou que as sociedades contemporâneas estão ansiosas, exigentes e imediatistas. A frustração com a falta de resultados rápidos, disse, acaba castigando governos. \nLeia aqui a entrevista completa\nAna Iparraguirre\nA estrategista argentina que fez campanhas em diferentes países da região e hoje é sócia da consultoria americana GBAO afirmou que a integração da direita no continente tem riscos. Se um dos países começa a dar errado, apontou, outros acabam pagando um preço, como aconteceu com a esquerda na esteira da crise do chavismo na Venezuela. O segundo turno brasileiro deu pistas disso quando Lula passou a associar Flávio Bolsonaro ao argentino Javier Milei. \nLeia aqui a entrevista completa \nDeborah Mattinson\nResponsável pela campanha que fez os trabalhistas voltarem ao poder no Reino Unido depois de 14 anos na oposição, a britânica diagnosticou que o eleitorado tradicional de esquerda, diante das mudanças no mercado de trabalho, mudou drasticamente, e que é preciso se adaptar a isso. Mattinson também disse que, no mundo todo, as pessoas têm sentido que os governos não funcionam para elas, o que dificulta a continuidade de grupos no poder. \nLeia aqui a entrevista completa\nJaime Durán Barba\nAos 78 anos, o equatoriano que ficou famoso por consagrar o argentino Mauricio Macri afirmou que vivemos a política \"do espetáculo\" e \"do scroll\", e não das ideologias. Para ele, assim como outros da série, a América do Sul vive muito mais uma onda \"antissistema\" do que de direita. \nLeia aqui a entrevista completa\nSebastián Kraljevich\nO chileno que trabalhou na campanha paradigmática de Gabriel Boric no Chile e depois serviu à Organização dos Estados Americanos (OEA) fez a leitura de que há um setor na região propenso a votar contra o sistema de forma difusa. A lua de mel, no entanto, tem sido curta, e os presidentes eleitos acabam não conseguindo manter aprovações elevadas.\nLeia aqui a entrevista completa",
+    "published": "2026-10-23T19:52:02+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Seis estrategistas internacionais que trabalharam em campanhas de destaque analisaram, na série do GLOBO 'Brasil visto de fora', fenômenos que rondam a eleição brasileira de 2026. Nas entrevistas, abordaram pautas como a \"maldição do incumbente\", que tem dificultado a reeleição d",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Para Camilo Santana, Flávio recuou de abrir sigilos ao condicionar divulgação a uma decisão judicial",
+    "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/23/para-camilo-santana-flavio-recuou-de-abrir-sigilos-ao-condicionar-divulgacao-a-uma-decisao-judicial.ghtml",
+    "description": "O senador Camilo Santana (PT-CE), um dos coordenadores da campanha à reeleição do presidente Luiz Inácio Lula da Silva, afirmou, nesta sexta-feira (23), que Flávio Bolsonaro (PL), adversário do petista na disputa presidencial, recuou do compromisso de abrir seus sigilos bancário e telefônico. Segundo o parlamentar, o candidato condicionou a divulgação dos dados a uma decisão judicial.\nAs campanhas dos dois presidenciáveis assinaram, na quinta-feira (22), um termo em que autorizam a abertura total e simultânea dos respectivos sigilos bancário, fiscal e telefônico, com a divulgação das informações em um site de acesso público.\nApós o acordo, o ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), decidiu que os candidatos podem divulgar voluntariamente informações protegidas por sigilo. Segundo o ministro, cabe aos próprios postulantes decidir sobre a divulgação, e não à Justiça Eleitoral arbitrar a questão.\n“As procurações que eles entregaram autorizam a divulgação pública de todos os dados e informações obtidos a partir de decisão judicial do Tribunal Superior Eleitoral. Ou seja, não é espontâneo, é só se o tribunal exigir que eles abram. Então, assim, é um absurdo”, disse Camilo a jornalistas.\nO senador afirmou ainda que Flávio só aceitou o desafio após sofrer pressão nas redes sociais. Segundo Camilo, o candidato do PL levou quatro dias para responder e apresentou uma série de condicionantes para a divulgação dos dados, que foram aceitas por Lula.\n“Além de terem demorado quatro dias para responder e imposto dezenas de condicionantes, a gente conclui que eles fugiram porque não querem mostrar a verdade para o povo brasileiro saber quem é ladrão e quem não é neste país\", ressaltou.",
+    "published": "2026-10-23T19:50:42+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O senador Camilo Santana (PT-CE), um dos coordenadores da campanha à reeleição do presidente Luiz Inácio Lula da Silva, afirmou, nesta sexta-feira (23), que Flávio Bolsonaro (PL), adversário do petista na disputa presidencial, recuou do compromisso de abrir seus sigilos bancário ",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Real ainda pode subir após eleição, mas riscos aumentam, diz Goldman Sachs",
     "link": "https://www.infomoney.com.br/mercados/real-ainda-pode-subir-apos-eleicao-mas-riscos-aumentam-diz-goldman-sachs/",
@@ -643,7 +836,13 @@
       "Politica"
     ],
     "summary": "O Departamento de Justiça dos Estados Unidos entrou com uma ação judicial nesta quinta-feira para impedir preventivamente que o Alasca certifique o resultado da eleição para o Senado americano caso o candidato republicano que busca a reeleição seja derrotado por uma margem estrei",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/mundo/noticia/2026/10/23/atras-nas-pesquisas-trump-quer-barrar-possivel-vitoria-de-democrata-em-disputa-do-senado-no-alasca.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -907,7 +1106,13 @@
       "Politica"
     ],
     "summary": "O Tribunal Superior Eleitoral (TSE) afirmou nesta sexta-feira (23) que não há decisão da Justiça Eleitoral determinando que canais de WhatsApp sejam retirados do ar. \nO tribunal também pediu que as plataformas digitais adotem as mesmas regras e medidas em relação às campanhas de ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Money Times",
+        "link": "https://www.moneytimes.com.br/tse-afirma-que-nao-mandou-derrubar-canais-politicos-do-whatsapp-na-reta-final-da-disputa-eleitoral-davs/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -1481,7 +1686,13 @@
       "Politica"
     ],
     "summary": "O Fato ou Fake, serviço de checagem do Grupo Globo, reúne jornalistas de sete Redações: TV Globo, g1, GloboNews, \"O Globo\", \"Valor Econômico\", \"Extra\" e CBN. Criada em julho de 2018, a ferramenta unificou iniciativas até então independentes, ampliando a escala de produção e a agi",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/fato-ou-fake/noticia/2026/10/23/fato-ou-fake-existe-desde-2018-conheca-o-historico-do-servico-de-checagens-do-grupo-globo.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -1560,7 +1771,13 @@
       "Politica"
     ],
     "summary": "A Universidade de Michigan informou que seu Índice de Confiança do Consumidor caiu para 48,0 neste mês\nThe post Confiança do consumidor nos EUA cai antes de eleições de meio de mandato appeared first on InfoMoney.",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Folha",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/01/6562-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post467524"
+      }
+    ]
   },
   {
     "source": "Folha",
@@ -2522,7 +2739,13 @@
       "Politica"
     ],
     "summary": "O presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL) estão tecnicamente empatados no segundo turno das eleições 2026 para presidente da República, segundo as pesquisas mais recentes da Quaest e Datafolha, divulgados após a debate da Band e da aprovação da",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/blogs/pulso/post/2026/10/ultimas-pesquisas-para-presidente-veja-os-numeros-na-reta-final-do-segundo-turno-das-eleicoes-2026.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -2899,6 +3122,10 @@
       {
         "source": "Valor Econômico",
         "link": "https://valor.globo.com/financas/noticia/2026/10/23/juros-futuros-sobem-com-cautela-antes-do-2-turno-apesar-de-ipca-15-abaixo-do-esperado.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/financas/intraday/post/2026/10/no-ultimo-pregao-antes-do-2o-turno-trackings-e-calls-movimentam-a-faria-lima.ghtml"
       }
     ]
   },
@@ -3788,201 +4015,6 @@
       "Politica"
     ],
     "summary": "Um homem matou uma pessoa e feriu outras quatro nesta sexta-feira após abrir fogo de dentro de um carro em localidades próximas a Paris, na França. O suspeito foi detido pouco depois, segundo as autoridades. A Procuradoria Nacional Antiterrorista (Pnat) assumiu a investigação, ab",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Estrangeiro é espancado e morto por grupo de cerca de 50 pessoas na África do Sul",
-    "link": "https://oglobo.globo.com/mundo/noticia/2026/10/23/estrangeiro-e-morto-por-grupo-de-cerca-de-50-pessoas-na-africa-do-sul.ghtml",
-    "description": "Um homem estrangeiro morreu após ser espancado por um grupo de aproximadamente 50 pessoas em Durban, na África do Sul, em meio a uma onda de protestos contra a imigração marcada por episódios de violência. A polícia abriu uma investigação por assassinato, mas ainda não determinou a motivação do crime nem confirmou se o ataque teve relação com a hostilidade contra imigrantes.\nQuer morar fora do Brasil? Guia interativo reúne informações sobre 36 países\nQuer ler mais notícias de Mundo? Acompanhe o canal no WhatsApp\nSegundo reportagem da emissora BBC, autoridades disseram que a vítima aparentava ter entre 30 e 40 anos. Ela foi inicialmente abordada por dois indivíduos à beira de uma estrada antes de ser agredida pelo grupo. A identidade do homem e a dos responsáveis pelo ataque ainda não foram divulgadas.\nO porta-voz da polícia provincial, Robert Netshiunda, afirmou à BBC que não seria possível especular sobre o motivo do assassinato. Segundo ele, novas informações serão divulgadas após a verificação dos fatos.\nProtestos contra estrangeiros se espalham pelo país\nO assassinato ocorreu em meio a manifestações contra a imigração na África do Sul. No início de outubro, lojas e veículos foram incendiados em Durban e em Soweto, localidade próxima a Joanesburgo. Os atos reúnem grupos que contestam a presença de estrangeiros e cobram mudanças na política migratória do país.\nO movimento March and March havia estabelecido inicialmente 30 de junho como prazo para que estrangeiros sem documentos deixassem a África do Sul. Manifestações realizadas antes da data foram acompanhadas por relatos de agressões contra pessoas de outros países africanos.\nO governo pediu que os atos ocorressem pacificamente e reconheceu a necessidade de reformas na política migratória. As autoridades também informaram que dezenas de milhares de estrangeiros haviam sido deportados ou repatriados desde o início de uma operação de repressão à imigração, no começo do ano.\nAté o momento, não há confirmação de que o assassinato em Durban tenha sido motivado por xenofobia ou esteja diretamente relacionado aos protestos.\nViolência provoca reações em outros países africanos\nOs episódios de violência contra estrangeiros provocaram reações diplomáticas e levaram governos africanos a tomar medidas para retirar seus cidadãos da África do Sul.\nA Nigéria acusou as autoridades sul-africanas de responsabilidade pela morte de dois cidadãos nigerianos naquele mês. Gana, por sua vez, confirmou a morte de Bashiru Isak, cidadão ganês e pai de três filhos, morto a tiros na Cidade do Cabo durante manifestações contra estrangeiros. O caso provocou uma crise diplomática entre os dois países.\nO governo sul-africano contestou a dimensão atribuída à violência e afirmou que a gravidade dos episódios havia sido exagerada.\nJacinta Ngobese-Zuma, uma das líderes do March and March, negou que o movimento seja xenófobo. Em entrevista ao programa Focus on Africa, da BBC, ela contestou as críticas feitas ao grupo.\n— Não podemos viver com essas pessoas durante tantos anos e, agora, quando dizemos que é demais, que basta, ouvirmos que somos xenófobos — afirmou.\nIntegrantes do movimento acusam estrangeiros de ocupar vagas de emprego que poderiam ser destinadas a sul-africanos, contribuir para a criminalidade e sobrecarregar os serviços públicos. Pesquisadores, porém, afirmam que essas alegações generalizadas não são sustentadas por evidências.\nA África do Sul enfrenta dificuldades econômicas e uma taxa de desemprego que atinge aproximadamente um terço da força de trabalho. O país, ainda assim, continua entre os principais destinos de migrantes no continente, atraídos por oportunidades de trabalho, segurança e melhores condições de vida.\nAtaques contra estrangeiros têm histórico no país\nA África do Sul registra episódios de violência xenófoba há quase duas décadas. Em 2008, uma onda de ataques contra estrangeiros deixou mais de 60 mortos e provocou o deslocamento de dezenas de milhares de pessoas.\nOs distúrbios registrados em 2026 ocorrem em um cenário de dificuldades econômicas, desigualdade social e desemprego elevado. As autoridades, porém, ainda não estabeleceram uma relação direta entre as manifestações e o assassinato em Durban.",
-    "published": "2026-10-23T09:35:23+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Um homem estrangeiro morreu após ser espancado por um grupo de aproximadamente 50 pessoas em Durban, na África do Sul, em meio a uma onda de protestos contra a imigração marcada por episódios de violência. A polícia abriu uma investigação por assassinato, mas ainda não determinou",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta sexta-feira (23)",
-    "link": "https://www.moneytimes.com.br/agenda-economica-231026-bolsa-dolar-nesta-sexta-feira-mlem/",
-    "description": "A agenda econômica desta sexta-feira (23) tem como destaque a divulgação do IPCA-15 de outubro no Brasil, prévia da inflação oficial do país. No exterior, os investidores acompanham os índices de gerentes de compras (PMIs) preliminares da Zona do Euro, do Reino Unido e dos Estados Unidos, além dos dados de vendas no varejo britânico. [&#8230;]",
-    "published": "2026-10-23T09:30:00+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "A agenda econômica desta sexta-feira (23) tem como destaque a divulgação do IPCA-15 de outubro no Brasil, prévia da inflação oficial do país. No exterior, os investidores acompanham os índices de gerentes de compras (PMIs) preliminares da Zona do Euro, do Reino Unido e dos Estado",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Lula recebe R$ 127 mi em doações e Flávio, R$ 106 mi na eleição de 2026",
-    "link": "https://www.poder360.com.br/poder-eleicoes-2026/lula-recebe-r-127-mi-em-doacoes-e-flavio-r-106-mi-na-eleicao-de-2026/",
-    "description": "Petista teve acesso a mais recursos na campanha em relação ao candidato do PL",
-    "published": "2026-10-23T09:25:53+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Petista teve acesso a mais recursos na campanha em relação ao candidato do PL",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Eleições, debate na Globo, IPCA-15 e mais destaques desta sexta",
-    "link": "https://www.infomoney.com.br/mercados/eleicoes-debate-globo-ipca-15-agenda-23102026/",
-    "description": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta sexta-feira (23)\nThe post Eleições, debate na Globo, IPCA-15 e mais destaques desta sexta appeared first on InfoMoney.",
-    "published": "2026-10-23T09:20:48+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta sexta-feira (23)\nThe post Eleições, debate na Globo, IPCA-15 e mais destaques desta sexta appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "PMI Composto da França recua para 48,4 na prévia de outubro",
-    "link": "https://valor.globo.com/mundo/noticia/2026/10/23/pmi-composto-da-franca-recua-para-484-na-previa-de-outubro.ghtml",
-    "description": "A atividade econômica do setor privado da França voltou a se contrair em outubro, revertendo a recuperação observada em setembro. A prévida do índice de gerentes de compras (PMI) Composto caiu de 51,1 para 48,4, atingindo o menor nível em quatro meses e retornando ao território de contração (abaixo de 50 pontos).\n\nO enfraquecimento foi impulsionado pela queda mais acentuada da demanda por bens e serviços desde maio, refletindo incertezas econômicas e políticas, além da postergação de investimentos e decisões de compra por parte dos clientes.\n\nO PMI de Serviços recuou de 51,2 para 48,4, enquanto o índice de produção da indústria passou de 50,3 para 48,5. Já o PMI Industrial caiu de 50,6 para 49,3, o menor patamar em 11 meses.\n\nAs empresas também relataram redução de novos pedidos, fraqueza das exportações e continuidade do corte de empregos.\n\nAs expectativas para os próximos 12 meses atingiram o nível mais pessimista em cerca de seis anos e meio, em meio a preocupações com o cenário econômico, fiscal e político do país.\n\nPor outro lado, as pressões inflacionárias deram sinais de arrefecimento, principalmente no setor de serviços, embora a indústria tenha enfrentado aumento de custos ligados a problemas nas cadeias de suprimentos.",
-    "published": "2026-10-23T09:20:30+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "A atividade econômica do setor privado da França voltou a se contrair em outubro, revertendo a recuperação observada em setembro. A prévida do índice de gerentes de compras (PMI) Composto caiu de 51,1 para 48,4, atingindo o menor nível em quatro meses e retornando ao território d",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "PMI Composto da Alemanha recua pra 52,8 em outubro, mostram prévias",
-    "link": "https://valor.globo.com/mundo/noticia/2026/10/23/pmi-composto-da-alemanha-recua-pra-528-em-outubro-mostram-previas.ghtml",
-    "description": "A economia alemã continuou em expansão em outubro, embora em ritmo mais moderado do que no mês anterior.\n\nA prévia do índice de gerentes de compras (PMI) Composto recuou de 53,8 em setembro para 52,8 em outubro, atingindo uma mínima de dois meses, mas permanecendo acima da marca de 50 pontos, que separa crescimento de contração.\n\nO PMI de Serviços também desacelerou, passando de 52,9 para 51,7, refletindo a estagnação da demanda e a postergação de decisões por parte dos clientes. Já o PMI Industrial apresentou melhora, avançando de 53,9 para 54,2, máxima de dois meses, indicando fortalecimento das condições no setor manufatureiro.\n\nA produção industrial, por sua vez, continuou crescendo, mas em ritmo mais lento, com o índice de produção caindo de 56,0 para 55,1.\n\nO relatório destaca que a recuperação da maior economia da zona do euro segue frágil, diante da demanda ainda moderada e das incertezas econômicas, embora o setor industrial continue sendo sustentado pelo avanço das exportações e pelos investimentos em defesa e infraestrutura.\n\nNo mercado de trabalho, houve leve melhora nas contratações, enquanto as pressões de custos aumentaram na indústria devido à alta dos preços de matérias-primas e componentes. Apesar disso, a inflação dos preços cobrados pelas empresas desacelerou para o menor nível em sete meses.\n\nAs empresas seguem otimistas em relação aos próximos 12 meses, mas a confiança do setor manufatureiro enfraqueceu diante da preocupação com custos mais elevados.",
-    "published": "2026-10-23T09:19:05+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "A economia alemã continuou em expansão em outubro, embora em ritmo mais moderado do que no mês anterior.\n\nA prévia do índice de gerentes de compras (PMI) Composto recuou de 53,8 em setembro para 52,8 em outubro, atingindo uma mínima de dois meses, mas permanecendo acima da marca ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Expectativas de inflação na zona do euro sobem para 3,1%",
-    "link": "https://valor.globo.com/mundo/noticia/2026/10/23/expectativas-de-inflao-na-zona-do-euro-sobem-para-31-pontos-percentuais.ghtml",
-    "description": "As expectativas de inflação entre as famílias da zona do euro subiram ligeiramente em setembro, após a continuidade da alta nos preços de energia com o prolongamento da guerra no Oriente Médio.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-10-23T09:17:26+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "As expectativas de inflação entre as famílias da zona do euro subiram ligeiramente em setembro, após a continuidade da alta nos preços de energia com o prolongamento da guerra no Oriente Médio.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "PMI Composto da zona do euro recua para 51,9 em outubro, segundo prévias",
-    "link": "https://valor.globo.com/mundo/noticia/2026/10/23/pmi-composto-da-zona-do-euro-recua-para-519-em-outubro-segundo-previas.ghtml",
-    "description": "A atividade econômica da zona do euro continuou crescendo em outubro, porém em ritmo mais fraco do que em setembro.\n\nA prévia do índice de gerentes de compras (PMI) Composto recuou de 53,1 para 51,9, atingindo o menor nível em quatro meses, embora permaneça acima da marca de 50 pontos, indicando expansão da atividade.\n\nO PMI de Serviços também desacelerou, passando de 53,0 para 51,7, enquanto o PMI Industrial caiu de 52,9 para 52,4, registrando mínima de três meses.\n\nJá o índice de produção industrial recuou de 53,6 para 52,4, no menor patamar em quatro meses.\n\nO relatório destaca que a produção e os novos pedidos avançaram pelo quarto mês consecutivo, mas em intensidade menor, refletindo o arrefecimento da demanda e o impacto de custos mais elevados e juros mais altos sobre a atividade.\n\nO emprego ficou praticamente estável, com as empresas demonstrando menor disposição para ampliar seus quadros diante do crescimento mais moderado. Ao mesmo tempo, a inflação de custos voltou a ganhar força, especialmente na indústria, impulsionada pela alta dos preços de energia, combustíveis e transporte, embora o ritmo de repasse aos preços finais tenha desacelerado.\n\nO sentimento empresarial também enfraqueceu, com a confiança atingindo o menor nível em cinco meses, em meio à desaceleração da atividade e ao aumento das pressões inflacionárias.",
-    "published": "2026-10-23T09:16:01+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "A atividade econômica da zona do euro continuou crescendo em outubro, porém em ritmo mais fraco do que em setembro.\n\nA prévia do índice de gerentes de compras (PMI) Composto recuou de 53,1 para 51,9, atingindo o menor nível em quatro meses, embora permaneça acima da marca de 50 p",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Plenário do STF: saiba quais ações estão na pauta desta 6ª feira",
-    "link": "https://www.poder360.com.br/poder-justica/plenario-do-stf-saiba-quais-acoes-estao-na-pauta-desta-6a-feira-5/",
-    "description": "Plenário virtual julga piso nacional da enfermagem e compartilhamento obrigatório de torres de telecomunicações",
-    "published": "2026-10-23T09:15:25+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Plenário virtual julga piso nacional da enfermagem e compartilhamento obrigatório de torres de telecomunicações",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Onda gigante atinge repórter ao vivo durante cobertura de temporal na Espanha; veja vídeo",
-    "link": "https://oglobo.globo.com/blogs/clima-extremo/noticia/2026/10/23/onda-gigante-atinge-reporter-ao-vivo-durante-cobertura-de-temporal-na-espanha-veja-video.ghtml",
-    "description": "Uma onda avançou sobre o passeio marítimo de Ondarroa, no norte da Espanha, e atingiu um repórter e um cinegrafista durante uma transmissão ao vivo na televisão basca. O incidente ocorreu na quinta-feira, enquanto Sergio Ovejero fazia uma reportagem sobre a piora das condições do mar para o programa “Euskadi Quédate”, da emissora ETB2. A força da água interrompeu a transmissão e provocou preocupação no estúdio, mas os dois profissionais não ficaram feridos, segundo a emissora. \nVai chover no dia da eleição? Veja a previsão para todas as regiões do Brasil\nCapital da Índia, Nova Délhi fica encoberta por névoa de poluição; vídeo\nOvejero estava diante de uma área costeira quando alertou para os riscos provocados pelo piso molhado e pela força das ondas. Pouco depois, uma massa de água ultrapassou a barreira de proteção e atingiu a equipe. A imagem foi tomada pela água, e a transmissão saiu do ar momentaneamente.\nVeja vídeo: \nInitial plugin text\nNo estúdio, o apresentador Odei Esnaola reagiu com preocupação e pediu informações sobre os colegas. “Esperamos que nosso companheiro Sergio e Raquel estejam bem”, afirmou, antes de informar que a situação seria atualizada assim que houvesse notícias.\nMais tarde, o programa publicou uma mensagem nas redes sociais para confirmar que Ovejero e Raquel estavam bem e que o episódio havia sido apenas um susto. O jornalista também se manifestou no X para tranquilizar os seguidores. Ele explicou que a equipe estava justamente informando sobre o alerta meteorológico previsto para a noite quando foi surpreendida pela força do mar.\nO incidente ocorreu em Ondarroa, município costeiro da província de Biscaia, na comunidade autônoma do País Basco, banhada pelo mar Cantábrico. A região enfrentava a aproximação de um temporal, com previsão de ventos fortes e aumento significativo da altura das ondas.\nO governo basco anunciou um alerta laranja para o risco marítimo na sexta-feira, 23 de outubro, entre meio-dia e 21h, no horário local. De acordo com a agência meteorológica regional Euskalmet, as ondas significativas poderiam superar cinco metros. Também foram emitidos avisos para o risco de água e respingos atingirem passeios e estruturas costeiras, além do impacto das ondas na costa durante a maré alta.",
-    "published": "2026-10-23T09:08:42+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Uma onda avançou sobre o passeio marítimo de Ondarroa, no norte da Espanha, e atingiu um repórter e um cinegrafista durante uma transmissão ao vivo na televisão basca. O incidente ocorreu na quinta-feira, enquanto Sergio Ovejero fazia uma reportagem sobre a piora das condições do",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "'Fora da Bolha': Debate da Globo ou guerra digital entre Flávio e Lula, o que vai definir a eleição domingo?",
-    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/fora-da-bolha-debate-da-globo-ou-guerra-digital-entre-flavio-e-lula-o-que-vai-definir-a-eleicao-domingo.ghtml",
-    "description": "O último episódio do \"Fora da Bolha\" antes do segundo turno abordou o desempenho dos presidenciáveis no debate da Band, no último domingo, e a expectativa para o confronto desta sexta-feira na TV Globo. Além disso, discutiu os efeitos do \"desafio das quebras do sigilo\", proposto pelo presidente Luiz Inácio Lula da Silva (PT) contra o senador Flávio Bolsonaro (PL), e a mobilização nas ruas e nas redes nessa reta final das eleições. O \"Fora da Bolha\" é o videocast semanal de O GLOBO que reúne jornalistas da redação para analisar os principais acontecimentos da campanha presidencial e das disputas estaduais. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-10-23T09:05:42+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O último episódio do \"Fora da Bolha\" antes do segundo turno abordou o desempenho dos presidenciáveis no debate da Band, no último domingo, e a expectativa para o confronto desta sexta-feira na TV Globo. Além disso, discutiu os efeitos do \"desafio das quebras do sigilo\", proposto ",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Poder360 fará live com análise e apuração do 2º turno das eleições",
-    "link": "https://www.poder360.com.br/poder-eleicoes-2026/poder360-fara-live-com-analise-e-apuracao-do-2o-turno-das-eleicoes-2/",
-    "description": "Transmissão será a partir das 15h30 de domingo (25.out), com notícias, acompanhamento dos resultados e participação de especialistas e importantes nomes da política",
-    "published": "2026-10-23T09:00:24+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Transmissão será a partir das 15h30 de domingo (25.out), com notícias, acompanhamento dos resultados e participação de especialistas e importantes nomes da política",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Saiba quais indicadores e balanços saem nesta 6ª feira",
-    "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-6a-feira-11/",
-    "description": "Varejo no Reino Unido e no Canadá, juros na Rússia e prévia da inflação no Brasil movimentam o dia, com relatórios da American Express e Volvo",
-    "published": "2026-10-23T09:00:19+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Varejo no Reino Unido e no Canadá, juros na Rússia e prévia da inflação no Brasil movimentam o dia, com relatórios da American Express e Volvo",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "O que aconteceu com a Bolsa e dólar após o segundo turno, nas últimas eleições?",
-    "link": "https://www.infomoney.com.br/mercados/o-que-aconteceu-com-a-bolsa-e-dolar-apos-o-segundo-turno-nas-ultimas-eleicoes/",
-    "description": "Enquanto o Ibovespa e o índice Small Caps frequentemente registram ganhos nesse intervalo, o dólar e o euro apresentam trajetórias mais irregulares\nThe post O que aconteceu com a Bolsa e dólar após o segundo turno, nas últimas eleições? appeared first on InfoMoney.",
-    "published": "2026-10-23T09:00:00+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Enquanto o Ibovespa e o índice Small Caps frequentemente registram ganhos nesse intervalo, o dólar e o euro apresentam trajetórias mais irregulares\nThe post O que aconteceu com a Bolsa e dólar após o segundo turno, nas últimas eleições? appeared first on InfoMoney.",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/economia/financas/ao-vivo/ibovespa-hoje-acompanhe-bolsa-e-dolar.ghtml"
-      },
-      {
-        "source": "Folha",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/gestores-preveem-volatilidade-na-bolsa-e-no-real-apos-segundo-turno-das-eleicoes-diz-citi.shtml"
-      }
-    ]
-  },
-  {
-    "source": "InfoMoney",
-    "title": "O que Lula e Flávio terão de enfrentar para equilibrar as contas públicas",
-    "link": "https://www.infomoney.com.br/politica/o-que-lula-e-flavio-terao-de-enfrentar-para-equilibrar-as-contas-publicas/",
-    "description": "Economista da Tendências Consultoria afirma que ajuste fiscal exigirá revisão de despesas obrigatórias e alerta que medidas anunciadas pelos candidatos são insuficientes para estabilizar a dívida pública\nThe post O que Lula e Flávio terão de enfrentar para equilibrar as contas públicas appeared first on InfoMoney.",
-    "published": "2026-10-23T09:00:00+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Economista da Tendências Consultoria afirma que ajuste fiscal exigirá revisão de despesas obrigatórias e alerta que medidas anunciadas pelos candidatos são insuficientes para estabilizar a dívida pública\nThe post O que Lula e Flávio terão de enfrentar para equilibrar as contas pú",
     "relevance": 5
   }
 ]
