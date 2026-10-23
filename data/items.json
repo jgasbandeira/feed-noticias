@@ -1,5 +1,43 @@
 [
   {
+    "source": "Money Times",
+    "title": "CSN (CSNA3): o que está por trás do salto de 12% antes do 2º turno das eleições?",
+    "link": "https://www.moneytimes.com.br/csn-csna3-o-que-esteve-por-tras-do-salto-de-12-antes-do-2o-turno-das-eleicoes-apsa/",
+    "description": "A CSN (CSNA3) liderou a ponta positiva do Ibovespa (IBOV) no pregão desta sexta-feira (23) com salto de 12,41%, cotada a R$ 6,07, em um movimento que destoa da tendência de baixa da ação nos últimos dias. Segundo especialistas consultados pelo Money Times, o otimismo com a ação reflete a notícia de andamento das negociações [&#8230;]",
+    "published": "2026-10-23T21:52:20+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "A CSN (CSNA3) liderou a ponta positiva do Ibovespa (IBOV) no pregão desta sexta-feira (23) com salto de 12,41%, cotada a R$ 6,07, em um movimento que destoa da tendência de baixa da ação nos últimos dias. Segundo especialistas consultados pelo Money Times, o otimismo com a ação r",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "BC anuncia medidas para coibir abusos nas ofertas de crédito que favoreçam superendividamento",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/bc-anuncia-medidas-para-coibir-abusos-nas-ofertas-de-credito-que-favorecam-superendividamento.shtml",
+    "description": "O Banco Central anunciou nesta sexta-feira (23), a dois dias do segundo turno das eleições, três medidas para proteger os consumidores contra abusos nas ofertas de crédito e trazer mais transparência antes da contratação das operações.\nLeia mais (10/23/2026 - 18h51)",
+    "published": "2026-10-23T21:51:00+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O Banco Central anunciou nesta sexta-feira (23), a dois dias do segundo turno das eleições, três medidas para proteger os consumidores contra abusos nas ofertas de crédito e trazer mais transparência antes da contratação das operações.\nLeia mais (10/23/2026 - 18h51)",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "OpenAI retoma treinamento de IA, mas sem acesso à internet",
+    "link": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/10/23/openai-retoma-treinamento-de-ia-mas-sem-acesso-a-internet.ghtml",
+    "description": "A OpenAI começou a bloquear o acesso à internet para seus modelos de inteligência artificial mais avançados durante o processo de treinamento, em resposta a incidentes anteriores nos quais seus sistemas causaram danos a outras empresas.\nA empresa informou, em uma postagem no blog nesta sexta-feira, que, após uma pausa no mês passado, retomou o treinamento de seus modelos mais avançados, mas pretende bloquear o acesso à internet até considerar que possui medidas de segurança adequadas para mitigar o risco de que modelos ainda não lançados possam realizar ações não aprovadas on-line durante o treinamento.\n“Com base no estado atual da pesquisa sobre alinhamento, dos sistemas de monitoramento e da segurança da infraestrutura da internet, acreditamos que a abordagem responsável seja conduzir o treinamento de modelos de ponta sem acesso à internet”, escreveu a empresa.\nNo final de setembro, a empresa anunciou que suspenderia o treinamento de seus modelos de IA mais avançados após descobrir que um de seus sistemas de agentes de IA — que estava sendo treinado no que deveria ser um ambiente seguro e sem internet — conseguiu acessar a web para se conectar a um chatbot externo de terceiros.\nNa época, a OpenAI descreveu a fuga de dados como o primeiro incidente de segurança desse tipo desde que uma combinação de modelos obteve acesso à internet durante testes internos e, inadvertidamente, invadiu o sistema da plataforma de IA Hugging Face em julho.\nOs modelos envolvidos na violação acidental da Hugging Face estavam operando sem as habituais medidas de segurança, segundo a empresa, porque a OpenAI pretendia que eles permanecessem em uma área de testes conhecida como “sandbox” — essencialmente, um ambiente virtual isolado destinado a executar testes de segurança ou analisar códigos inseguros de maneira controlada. \nNo entanto, os modelos conseguiram escapar dessa sandbox, aproveitando uma vulnerabilidade de software para acessar a internet aberta.\nA OpenAI afirmou que, após o incidente com a Hugging Face, reduziu as conexões por meio das quais seus modelos poderiam acessar a internet durante o treinamento e os testes, mas manteve algumas para fins de métricas, registro e autenticação. \nAlém disso, dedicou uma enorme quantidade de poder de computação para encarregar sistemas de IA autônomos de identificar vulnerabilidades em seus ambientes de treinamento, como parte de um esforço de “red teaming” — expressão normalmente usada para descrever tentativas deliberadas de invadir sistemas a fim de descobrir vulnerabilidades antes que invasores reais o façam.\n“Nossos agentes de ‘red-teaming’ encontraram vulnerabilidades em quase todos esses serviços, o que lhes proporcionou formas limitadas de acesso à internet”, afirmou a empresa em sua publicação.\nA empresa afirmou que, desde então, implantou correções de software, impôs restrições de rede mais rígidas e divulgou as descobertas aos fornecedores.\nNos últimos meses, houve uma série de divulgações por parte da OpenAI e de concorrentes, incluindo a Anthropic, sobre incidentes nos quais seus modelos realizaram ataques autônomos ou ações não autorizadas em sites e sistemas de terceiros.\nEsses casos, somados a uma série de alertas contundentes vindos do próprio setor, trouxeram o debate sobre segurança para o centro das atenções. Desenvolvedores de IA alertaram que seus sistemas podem em breve se tornar sofisticados demais para serem controlados por pessoas, o que aumenta as preocupações de que a tecnologia possa ser usada por agentes humanos mal-intencionados para criar armas biológicas ou realizar ataques cibernéticos devastadores.",
+    "published": "2026-10-23T21:46:12+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A OpenAI começou a bloquear o acesso à internet para seus modelos de inteligência artificial mais avançados durante o processo de treinamento, em resposta a incidentes anteriores nos quais seus sistemas causaram danos a outras empresas.\nA empresa informou, em uma postagem no blog",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Quem está na frente nas pesquisas para presidente em cada região do Brasil? Veja os últimos resultados",
     "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/23/quem-esta-na-frente-nas-pesquisas-para-presidente-em-cada-regiao-do-brasil-veja-os-ultimos-resultados.ghtml",
@@ -257,6 +295,18 @@
       "Economia"
     ],
     "summary": "A infiltração do crime organizado na economia formal atingiu um novo nível de sofisticação com o uso do mercado de capitais e estruturas de fundos de investimentos e de fintechs para lavar recursos bilionários. \n Matéria exclusiva para assinantes. Para ter acesso completo, acesse",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Bradesco tem nova alta seguida no lucro e ações sobem, mas inadimplência preocupa",
+    "link": "https://www.infomoney.com.br/mercados/bradesco-bbdc4-11-altas-seguidas-no-lucro-mas-inadimplencia-preocupa-mercado-3t26-desempenho-acoes/",
+    "description": "O Bradesco manteve a sequência de expansão dos lucros e avançou em eficiência operacional, mas a piora da qualidade dos ativos e a pressão sobre spreads seguem no radar dos analistas\nThe post Bradesco tem nova alta seguida no lucro e ações sobem, mas inadimplência preocupa appeared first on InfoMoney.",
+    "published": "2026-10-23T20:41:40+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "O Bradesco manteve a sequência de expansão dos lucros e avançou em eficiência operacional, mas a piora da qualidade dos ativos e a pressão sobre spreads seguem no radar dos analistas\nThe post Bradesco tem nova alta seguida no lucro e ações sobem, mas inadimplência preocupa appear",
     "relevance": 5
   },
   {
@@ -1159,6 +1209,10 @@
       {
         "source": "InfoMoney",
         "link": "https://www.infomoney.com.br/politica/ministro-do-tse-barra-suspensao-monocratica-do-canal-exercito-do-lula/"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/23/em-meio-a-decisoes-judiciais-canal-exercito-do-lula-passa-dos-10-milhoes-de-seguidores.ghtml"
       }
     ]
   },
@@ -3998,61 +4052,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Só em 2026, foram ao menos 4 processos, entre ações criminais e pedidos de censura com indenização por danos morais movidos contra jornalistas",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "SK Hynix suspende IPO da unidade de chips nos EUA após Seul manifestar preocupações",
-    "link": "https://www.infomoney.com.br/mercados/sk-hynix-suspende-ipo-da-unidade-de-chips-nos-eua-apos-seul-manifestar-preocupacoes/",
-    "description": "A abertura de capital da Solidigm, uma antiga unidade da Intel especializada em memória flash NAND e unidades de estado sólido, vinha sendo considerada para ajudar a financiar uma nova fábrica nos EUA\nThe post SK Hynix suspende IPO da unidade de chips nos EUA após Seul manifestar preocupações appeared first on InfoMoney.",
-    "published": "2026-10-23T11:11:42+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A abertura de capital da Solidigm, uma antiga unidade da Intel especializada em memória flash NAND e unidades de estado sólido, vinha sendo considerada para ajudar a financiar uma nova fábrica nos EUA\nThe post SK Hynix suspende IPO da unidade de chips nos EUA após Seul manifestar",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Money Times",
-        "link": "https://www.moneytimes.com.br/sk-hynix-suspende-ipo-da-unidade-de-chips-nos-eua-apos-autoridades-de-seul-manifestarem-preocupacoes/"
-      }
-    ]
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "SpaceX mira 80 mil torres para se tornar operadora de celular nos EUA e derruba ações do setor de telecom",
-    "link": "https://valor.globo.com/empresas/noticia/2026/10/23/spacex-mira-80-mil-torres-para-se-tornar-operadora-de-celular-nos-eua-e-derruba-aes-do-setor-de-telecom.ghtml",
-    "description": "A SpaceX estaria buscando assegurar pelo menos 80 mil pontos de torres celulares para transformar a Starlink em uma operadora móvel de alcance nacional nos Estados Unidos.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-10-23T11:10:46+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A SpaceX estaria buscando assegurar pelo menos 80 mil pontos de torres celulares para transformar a Starlink em uma operadora móvel de alcance nacional nos Estados Unidos.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "TSE dá 24h para Meta e X explicarem regras para uso de IA e distribuição de conteúdos políticos",
-    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/tse-da-24h-para-meta-e-x-explicarem-regras-para-uso-de-ia-e-distribuicao-de-conteudos-politicos.ghtml",
-    "description": "TSE dá 24 horas para Meta explicar regras para IA\nO corregedor-geral da Justiça Eleitoral, Ricardo Villas Bôas Cueva, determinou nesta sexta-feira (23) que a Meta (dona do WhatsApp, Facebook e Instagram) e o X apresentem um relatório detalhando as regras das plataformas sobre uso de inteligência artificial (IA), distribuição de conteúdos políticos, veiculação de anúncios eleitorais e remoção de publicações.\nO corregedor analisa um pedido de investigação da campanha do presidente Luiz Inácio Lula da Silva (PT), candidato à reeleição, contra o adversário nas urnas, senador Flávio Bolsonaro (PL). \nA coligação do petista alega abuso de poder econômico e uso indevido dos meios de comunicação social, com suposto favorecimento da chapa adversária pelas plataformas digitais, além de restrições ao alcance de conteúdos favoráveis a Lula e falhas na distribuição de propaganda eleitoral. \nEntre os casos citados pela campanha, está a remoção pela Meta de um vídeo do projeto Revelando no Instagram, apresentado pelo cantor MC Cabelinho e com críticas a Flávio Bolsonaro, sob alegação de uso excessivo de IA (entenda mais abaixo). \nMC Cabelinho volta a publicar vídeo contra Flávio Bolsonaro após postagem ser derrubada pela Meta\nLula (PT) e Flávio Bolsonaro (PL) durante horário eleitoral nesta quinta-feira (22)\nReprodução\nA equipe do presidente Lula também alega que o Grok, ferramenta do X, apresentaria respostas distintas a solicitações materialmente equivalentes relacionadas às candidaturas, além de apontar a possibilidade de geração de conteúdos político-eleitorais sem solicitação específica dos usuários.\n➡️Nesta sexta-feira (23), o presidente do TSE, ministro Nunes Marques, deve se reunir com representantes das plataformas X, Meta, TikTok e Kwai para uma reunião de alinhamento final antes do segundo turno. Eleitores vão às urnas no próximo domingo (25). \nVídeo removido\nA Meta, dona do Instagram, derrubou nessa quinta-feira (22) um vídeo do cantor MC Cabelinho em parceria com o portal Revelando sobre o candidato à presidência da República Flávio Bolsonaro (PL).\nA publicação original abordava a acusação de que Flávio foi funcionário fantasma no gabinete do pai, Jair Bolsonaro, aos 19 anos.\nProcurada pelo g1, a Meta afirmou que a derrubada do vídeo está relacionada às regras eleitorais para conteúdos produzidos ou alterados por inteligência artificial (IA).\nEm 23 de setembro, a plataforma já tinha retirado um vídeo do mesmo canal, apresentado por Fábio Porchat. \nSegundo o corregedor eleitoral, a retirada do vídeo apresentado pelo cantor \"apresenta contornos suficientemente individualizados e, diante da proximidade do segundo turno, justifica a adoção de providências destinadas a esclarecer os fundamentos da remoção e a assegurar sua pronta reavaliação\".\nPorém, ele destaca que os \"elementos apresentados, contudo, não permitem concluir, neste momento, que a medida decorreu de classificação equivocada do conteúdo ou de tratamento diferenciado em razão de sua orientação político- eleitoral\". \nPor isso, determina que a Meta que, no prazo de 24 horas, submeta a remoção do vídeo indicado no aditamento à revisão humana, caso ainda não realizada, e informe o resultado dessa avaliação, com indicação dos fundamentos concretos para a manutenção ou reversão da medida.",
-    "published": "2026-10-23T11:09:38+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "TSE dá 24 horas para Meta explicar regras para IA\nO corregedor-geral da Justiça Eleitoral, Ricardo Villas Bôas Cueva, determinou nesta sexta-feira (23) que a Meta (dona do WhatsApp, Facebook e Instagram) e o X apresentem um relatório detalhando as regras das plataformas sobre uso",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Alfa Inteligência: Flávio Bolsonaro lidera votos válidos a dois dias do segundo turno",
-    "link": "https://www.moneytimes.com.br/alfa-inteligencia-flavio-bolsonaro-lidera-votos-validos-a-dois-dias-do-segundo-turno-jcav/",
-    "description": "O senador Flávio Bolsonaro (PL) aparece com 52% dos votos válidos, enquanto o presidente Luiz Inácio Lula da Silva (PT) soma 48%, segundo pesquisa Alfa Inteligência divulgada nesta sexta-feira (23), a dois dias do segundo turno das eleições presidenciais. Na comparação com o levantamento divulgado na terça-feira (20), Flávio oscilou de 51,5% para 52%, enquanto [&#8230;]",
-    "published": "2026-10-23T11:06:26+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O senador Flávio Bolsonaro (PL) aparece com 52% dos votos válidos, enquanto o presidente Luiz Inácio Lula da Silva (PT) soma 48%, segundo pesquisa Alfa Inteligência divulgada nesta sexta-feira (23), a dois dias do segundo turno das eleições presidenciais. Na comparação com o leva",
     "relevance": 5
   }
 ]
