@@ -2952,7 +2952,13 @@
       "Politica"
     ],
     "summary": "A Meta afirmou ao Tribunal Superior Eleitoral (TSE) que não encontrou irregularidades no canal 'Exército do Lula' no Whatsapp. Ao presidente da Corte, Kassio Nunes Marques, a empresa afirmou que não há, no espaço digital comandado pelo deputado André Janones (Rede-MG), \"violação ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/meta-diz-que-canal-exercito-do-lula-nao-viola-politicas-da-empresa.ghtml"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
@@ -3726,6 +3732,10 @@
       {
         "source": "InfoMoney",
         "link": "https://www.infomoney.com.br/politica/eleicoes-2026-como-foram-as-votacoes-nos-paises-no-primeiro-turno/"
+      },
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/24/eleicoes-2026-veja-as-ultimas-pesquisas-de-intencao-de-voto-para-presidente.ghtml"
       }
     ]
   },
