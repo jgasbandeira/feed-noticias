@@ -1,6 +1,80 @@
 [
   {
     "source": "Poder360",
+    "title": "Eleições 2026: leia os horários de votação em cada Estado e no DF",
+    "link": "https://www.poder360.com.br/poder-eleicoes/eleicoes-2026-leia-os-horarios-de-votacao-em-cada-estado-e-no-df/",
+    "description": "Seções eleitorais funcionarão das 8h às 17h, conforme o horário de Brasília (DF); 6 Estados ou territórios têm fuso horário diferente",
+    "published": "2026-10-24T09:02:57+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Seções eleitorais funcionarão das 8h às 17h, conforme o horário de Brasília (DF); 6 Estados ou territórios têm fuso horário diferente",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Lei Seca: veja onde haverá restrição a bebidas no 2º turno das eleições",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/lei-seca-veja-onde-havera-restricao-a-bebidas-no-2o-turno-das-eleicoes/",
+    "description": "Ao menos 9 Estados proíbem venda de álcool em todo o território no domingo; Rondônia aplica veto em cidades específicas",
+    "published": "2026-10-24T09:02:26+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Ao menos 9 Estados proíbem venda de álcool em todo o território no domingo; Rondônia aplica veto em cidades específicas",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Saiba o que é proibido no dia da eleição",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/saiba-o-que-e-proibido-no-dia-da-eleicao/",
+    "description": "Regras do TSE definem ordem de votação e restrições sobre celulares, propaganda e manifestações políticas",
+    "published": "2026-10-24T09:02:24+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Regras do TSE definem ordem de votação e restrições sobre celulares, propaganda e manifestações políticas",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Eleições: saiba quais documentos são aceitos para votar no 2º turno",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/eleicoes-saiba-quais-documentos-sao-aceitos-para-votar-no-2o-turno/",
+    "description": "Eleitor pode apresentar documento oficial com foto, físico ou digital, incluindo carteira de identidade e CNH",
+    "published": "2026-10-24T09:02:06+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Eleitor pode apresentar documento oficial com foto, físico ou digital, incluindo carteira de identidade e CNH",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Lula reduz poder de Edinho e derrota pode mudar comando do PT",
+    "link": "https://www.poder360.com.br/poder-partidos-politicos/lula-reduz-poder-de-edinho-e-derrota-pode-mudar-comando-do-pt/",
+    "description": "Há quem cogite antecipar eleições internas da sigla se petista não vencer Flávio Bolsonaro; campanha sofreu mudanças no 2º turno",
+    "published": "2026-10-24T09:00:59+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Há quem cogite antecipar eleições internas da sigla se petista não vencer Flávio Bolsonaro; campanha sofreu mudanças no 2º turno",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Membros do MP criticam falhas da CVM e atribuem fraudes em fundos à falta de fiscalização",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/membros-do-mp-criticam-falhas-da-cvm-e-atribuem-fraudes-em-fundos-a-falta-de-fiscalizacao.shtml",
+    "description": "A explosão de fraudes envolvendo fundos de investimento no Brasil se explica mais por falhas de fiscalização do que por lacunas nas regras do mercado, segundo integrantes do Ministério Público.\nLeia mais (10/24/2026 - 06h00)",
+    "published": "2026-10-24T09:00:00+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro",
+      "XP"
+    ],
+    "summary": "A explosão de fraudes envolvendo fundos de investimento no Brasil se explica mais por falhas de fiscalização do que por lacunas nas regras do mercado, segundo integrantes do Ministério Público.\nLeia mais (10/24/2026 - 06h00)",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
     "title": "Ansiedade, apatia e ataques de pânico aumentam durante eleições",
     "link": "https://www.poder360.com.br/poder-saude/ansiedade-apatia-e-ataques-de-panico-aumentam-durante-eleicoes/",
     "description": "Estudos demonstram associações entre acontecimentos eleitorais, sofrimento psicológico e alterações do funcionamento cotidiano",
@@ -58,7 +132,13 @@
       "Politica"
     ],
     "summary": "Casos de flagrante e desrespeito a outras regras podem levar à prisão antes das eleições\nThe post Candidatos e eleitores podem ser presos na véspera da eleição? appeared first on InfoMoney.",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-eleicoes/eleitores-nao-podem-ser-presos-ate-48-horas-depois-da-eleicao/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -2642,7 +2722,13 @@
       "Politica"
     ],
     "summary": "Pagamento da multa corresponde a cada turno que o eleitor ou eleitora deixou de votar, e pode ser feito com Pix e cartão de crédito\nThe post Quanto é a multa por não votar nas eleições de 2026? appeared first on InfoMoney.",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/24/quais-partidos-apoiam-lula-no-segundo-turno-das-eleicoes-2026.ghtml"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
@@ -3441,7 +3527,13 @@
       "Politica"
     ],
     "summary": "Após o ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), afirmar em decisão que os candidatos à Presidência Flávio Bolsonaro (PL) e Lula (PT) podem divulgar dados referentes a sigilos bancário e telefônico sem necessidade de ordem judicial, as duas campanhas entregar",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/24/flavio-e-lula-fazem-atos-no-sudeste-no-ultimo-dia-de-campanha-de-rua.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3958,86 +4050,6 @@
       "Politica"
     ],
     "summary": "O presidente dos Estados Unidos, Donald Trump, saiu em defesa de uma propaganda eleitoral controversa do republicano Vivek Ramaswamy, candidato ao governo do estado americano de Ohio, que usa o depoimento da mãe afastada de sua adversária democrata, Amy Acton, para atacar a credi",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "IPCA-15 surpreende para baixo, mas serviços e clima seguem como preocupações, diz FGV Ibre",
-    "link": "https://valor.globo.com/brasil/noticia/2026/10/23/ipca-15-surpreende-para-baixo-mas-servios-e-clima-seguem-como-preocupaes-diz-fgv-ibre.ghtml",
-    "description": "O resultado do IPCA-15 de outubro, abaixo das expectativas do mercado, é uma notícia positiva, mas as pressões sobre os preços dos serviços ainda preocupa, segundo o economista André Braz, do FGV Ibre. Na avaliação dele, a queda das passagens aéreas (-9,24%) e o recuo da energia elétrica (-0,89%), favorecido pela adoção da bandeira tarifária verde, contribuíram para aliviar o índice.\n\nO economista destaca negativamente, porém, a composição dos serviços, com a alta dos preços de refeições fora de casa (0,44%) e empregados domésticos (0,62%), por exemplo. Segundo ele, o encarecimento do primeiro item em outubro chama a atenção por ocorrer fora de períodos de maior demanda sazonal, como férias. \n\n\"Serviço, se subir, esperar que ele volte ao preço antigo é muito difícil\", afirma. Para o economista, a pressão na alimentação fora de casa pode estar relacionada à demanda ainda aquecida, sustentada pelo mercado de trabalho e pela baixa taxa de desemprego.\n\nOutro ponto de atenção é a inflação dos alimentos, concentrada neste mês em produtos como tomate (24,54%), cebola (13,63%) e batata-inglesa (10,96%). André avalia que as condições climáticas já podem estar provocando efeitos discretos sobre a oferta desses itens, mas alerta que um eventual agravamento do El Niño pode ampliar as pressões para produtos de ciclos mais longos, como arroz, feijão e trigo.\n\n“O tomate, a batata e a cebola têm safras muito curtas. Então, se há algum problema agora, logo depois eles já se recuperam. Chama a atenção porque as famílias comem, não tem jeito, a gente tem que comprar. Mas, mesmo com todos esses aumentos, não é nada que as famílias não consigam driblar. O arroz e feijão não dá. Se a safra deles quebrar, aí é ruim”, afirma.\n\nApesar do resultado mais favorável de outubro, o economista mantém a expectativa de inflação próxima de 5% no encerramento de 2026, acima do teto da meta, de 4,5%. \"Não é para a gente comemorar\", afirma, ao destacar que o cenário ainda exige cautela diante da persistência da inflação de serviços e dos riscos climáticos para os preços dos alimentos.\n\nA alta dos preços de refeições fora de casa (0,44%) fora de períodos de maior demanda sazonal preocupa\nLuisa Brimble/Unsplash",
-    "published": "2026-10-23T15:37:47+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O resultado do IPCA-15 de outubro, abaixo das expectativas do mercado, é uma notícia positiva, mas as pressões sobre os preços dos serviços ainda preocupa, segundo o economista André Braz, do FGV Ibre. Na avaliação dele, a queda das passagens aéreas (-9,24%) e o recuo da energia ",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Ibovespa após o 2º turno: mira 230 mil ou volta abaixo dos 200 mil?",
-    "link": "https://www.infomoney.com.br/mercados/ibovespa-apos-segundo-turno-230-mil-200-mil/",
-    "description": "Gráficos diário e semanal mostram os níveis que podem definir a direção da Bolsa após a votação\nThe post Ibovespa após o 2º turno: mira 230 mil ou volta abaixo dos 200 mil? appeared first on InfoMoney.",
-    "published": "2026-10-23T15:37:06+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Gráficos diário e semanal mostram os níveis que podem definir a direção da Bolsa após a votação\nThe post Ibovespa após o 2º turno: mira 230 mil ou volta abaixo dos 200 mil? appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Martinelli, do Fluminense, fará artroscopia no joelho esquerdo e deve perder restante da temporada",
-    "link": "https://oglobo.globo.com/esportes/futebol/fluminense/noticia/2026/10/23/martinelli-do-fluminense-fara-artroscopia-no-joelho-esquerdo-e-ficara-afastado-por-seis-semanas.ghtml",
-    "description": "O volante Martinelli, do Fluminense, precisará passar por um procedimento cirúrgico após a lesão sofrida na derrota para o Palmeiras por 2 a 1, na primeira partida da semifinal da Libertadores. O jogador de 25 anos será submetido, na próxima semana, a uma artroscopia no joelho esquerdo, para recuperação de uma lesão detectada no menisco lateral.\nSegundo informou o Fluminense, o tempo previsto de recuperação é de seis semanas. Com isso, a tendência é que Martinelli retorne somente nas últimas partidas do Campeonato Brasileiro ou sequer volte a atuar pelo time carioca em 2026.\nMartinelli se lesionou na semana passada, durante a partida no Maracanã. Aos 14 minutos do primeiro tempo, o volante pisou de mau jeito após disputar uma bola pelo alto com Marlon Freitas. Desde então, aparentou sentir dores no joelho esquerdo e acabou dando lugar a Hércules na volta do intervalo.\nMartinelli, do Fluminense, se lesionou na derrota para o Palmeiras\nMAURO PIMENTEL / AFP\nO jogador da seleção brasileira conseguiu assistir ao restante da partida no banco de reservas e deixou o estádio mancando levemente.\nO Fluminense tentou com que Martinelli estivesse à disposição do técnico Marcão para o jogo de volta da semifinal da Libertadores no Nubank Parque, na quarta-feira. O volante até viajou com a delegação e apareceu na lista de relacionados. \nEle, porém, voltou a sentir dores no treino da última segunda-feira e, enquanto fazia tratamento no hotel da concentração, foi reavaliado no pré- jogo, ficando decidida a não utilização do jogador.\nTitular absoluto e destaque do Fluminense na temporada, Martinelli chegou a ser convocação por Carlo Ancelotti na última Data Fifa para a seleção brasileira. Agora, ele passará por recuperação da lesão no joelho com foco em 2027.",
-    "published": "2026-10-23T15:33:17+00:00",
-    "themes": [
-      "XP"
-    ],
-    "summary": "O volante Martinelli, do Fluminense, precisará passar por um procedimento cirúrgico após a lesão sofrida na derrota para o Palmeiras por 2 a 1, na primeira partida da semifinal da Libertadores. O jogador de 25 anos será submetido, na próxima semana, a uma artroscopia no joelho es",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Após dois dias presas no Egito, Malévola e amiga chegam ao Brasil: 'Não volto de maneira alguma'",
-    "link": "https://oglobo.globo.com/brasil/noticia/2026/10/23/apos-dois-dias-presas-no-egito-malevola-e-amiga-chegam-ao-brasil-nao-volto-de-maneira-alguma.ghtml",
-    "description": "Após ficarem presas no Egito por dois dias, sob acusação de \"comportamento obsceno\", as influenciadoras trans brasileiras Mariana Alves, a Malévola, e Bruna Mercatelli chegaram ao Brasil por volta das 22h30 desta quinta-feira (22), no Aeroporto Internacional de São Paulo, em Guarulhos.\nOnda gigante atinge repórter ao vivo durante cobertura de temporal na Espanha; veja vídeo\nVai chover no dia da eleição? Veja a previsão para todas as regiões do Brasil\nSegundo elas, para conseguirem a liberação, tiveram que pagar, juntas, uma fiança de R$ 8 mil. Agora, responderão ao processo em liberdade.\nMalévola definiu o retorno ao Brasil como um \"alívio\" e agradeceu o carinho dos fãs, que foram ao aeroporto receber a dupla.\n— Um sentimento de alívio, né? Ser recebida com tanto carinho pelos brasileiros é incrível. Acho que igual aos brasileiros não tem.\nEla também comentou que não pretende retornar ao país africano.\n— Eu não volto para o Egito de maneira alguma. A gente está sem celular, a gente não teve acesso a comida, a gente não teve acesso a água... foram 24 horas numa sala, sentadas numa cadeira de ferro ali em Alexandria — afirmou ao g1.\nMalévola ainda revelou que precisou ficar nua diante das autoridades e que, após constatarem que ela era uma mulher, o tratamento teve uma pequena melhora.\nA defesa das influenciadoras afirmou que vai acionar o Itamaraty e organismos internacionais de direitos humanos para apurar as denúncias de transfobia e abuso feitas pelas amigas contra a polícia egípcia.",
-    "published": "2026-10-23T15:32:34+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Após ficarem presas no Egito por dois dias, sob acusação de \"comportamento obsceno\", as influenciadoras trans brasileiras Mariana Alves, a Malévola, e Bruna Mercatelli chegaram ao Brasil por volta das 22h30 desta quinta-feira (22), no Aeroporto Internacional de São Paulo, em Guar",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Fato ou Fake existe desde 2018; conheça o histórico do serviço de checagens do Grupo Globo",
-    "link": "https://g1.globo.com/fato-ou-fake/noticia/2026/10/23/fato-ou-fake-existe-desde-2018-conheca-o-historico-do-servico-de-checagens-do-grupo-globo.ghtml",
-    "description": "O Fato ou Fake, serviço de checagem do Grupo Globo, reúne jornalistas de sete Redações: TV Globo, g1, GloboNews, \"O Globo\", \"Valor Econômico\", \"Extra\" e CBN. Criada em julho de 2018, a ferramenta unificou iniciativas até então independentes, ampliando a escala de produção e a agilidade das verificações.\nDesde o lançamento, mais de 5 mil checagens foram publicadas. O trabalho inclui o monitoramento diário de conteúdos virais nas redes sociais e em aplicativos de mensagens, como o WhatsApp, além da verificação de declarações de políticos, especialmente durante debates e entrevistas eleitorais.\nRelembre, abaixo, o histórico do Fato ou Fake:\n2018 - Lançamento do Fato ou Fake, em 30 de julho. Naquele ano, os veículos do Grupo Globo se uniram para criar um serviço de checagem de informações e alertar os brasileiros sobre conteúdos enganosos que circulavam na internet. Equipes do g1, GloboNews, \"O Globo\", \"Valor Econômico\", \"Extra\" \"Época\" e CBN passaram a monitorar, com um leque de ferramentas, as redes sociais para identificar mensagens suspeitas e verificar se eram verdadeiras ou falsas. Já naquele ano, o projeto checou entrevistas e debates dos candidatos nas eleições. Esse mesmo trabalho de verificação se repetiu em 2020, 2022, 2024 e, agora, em 2026.\nO que é checável? Conteúdos virais que têm impacto no debate público. Tudo que pode ser verificado de forma independente e imparcial. O trabalho de apuração jornalística é norteado pelos atributos da informação de qualidade descrito nos Princípios Editoriais do Grupo Globo: isenção, correção e agilidade. O que não checamos? Opiniões, rumores ofensas, previsões de futuro, teorias da conspiração.\nCom transparência sobre as fontes consultadas, as verificações explicitam ao público o processo de apuração. Além de recorrer a essas fontes primárias, o Fato ou Fake usa ferramentas de detecção de conteúdos criados com inteligência artificial (IA), pesquisa fatos e dados estatísticos, documentos oficiais, estudos e registros históricos e entrevista especialistas.\n2019 - Um ano após o lançamento, o Fato ou Fake superou a marca de mil checagens. Em 12 meses, a equipe verificou 764 declarações de políticos e 391 conteúdos que circulavam na internet. Naquele ano, o projeto também lançou um tutorial com orientações para ajudar o público a identificar materiais falsos e verificar a autenticidade de fotos, vídeos e textos compartilhados nas redes sociais.\n2020 - Em um ano marcado pela pandemia de Covid-19, o Fato ou Fake publicou mais de mil checagens, com média de uma checagem a cada oito horas. Foram verificados 584 conteúdos compartilhados nas redes sociais, quase dois terços deles relacionados ao coronavírus. Entre as checagens mais vistas, estavam vídeos e mensagens com informações controversas sobre a prevenção e a própria doença. Além disso, as equipes verificaram 426 declarações de políticos, a maioria durante as eleições municipais.\n2022 - O Fato ou Fake publicou mais de 1,2 mil checagens ao longo do ano. Assim como havia ocorrido dois anos antes, houve intensa cobertura de debates e entrevistas durante a campanha eleitoral. Além disso, uma reportagem do Fato ou Fake explicou como funcionava a \"fábrica de desinformação política\" no Brasil, e uma série abordou temas relacionados à desinformação, como a criação e o compartilhamento de \"notícias\" falsas.\n2024 - A checagem eleitoral ganhou um novo ritmo. Pela primeira vez, verificações foram publicadas ainda durante os debates, antes do encerramento dos programas. O modelo também será adotado no debate presidencial na Globo desta sexta-feira (23) – veja detalhes mais abaixo.\n2025 - Fato ou Fake também estreou um quadro no programa Mais Você, apresentado por Ana Maria Braga. Na primeira edição, foi explicada a origem do termo \"fake news\", como funciona o processo de checagem e como evitar golpes na internet.\n2026 - O manterá a publicação vai manter a publicação das primeiras checagens com o debate ainda em andamento, já adotado nas eleições municipais de 2024. Para o debate presidencial entre Flávio Bolsonaro (PL) e Lula (PT), na Globo, o projeto preparou uma cobertura especial, com mais de 30 jornalistas trabalhando em conjunto para verificar as declarações dos candidatos (saiba mais no vídeo a seguir). Com apoio da tecnologia, a equipe vai transcrever as falas em tempo real e selecionar declarações que podem ser verificadas com base em dados e informações objetivas. As primeiras checagens serão publicadas no g1 e nos sites de \"O Globo\", \"Valor Econômico\", \"Extra\" e CBN. A GloboNews também exibirá um programa especial após o confronto com as verificações.\nSaiba como o Fato ou Fake checará declarações dos candidatos no debate da Globo\nFato ou Fake do g1\ng1\n\nEditoria de Arte/g1\nVeja também\nVídeo mostra homem tomando 'banho com fogo' em fonte natural de água na Rússia\nÉ #FATO: Vídeo mostra 'banho com fogo' em fonte de água na Rússia\nVÍDEOS: Os mais vistos agora no g1\nAgora no g1\nVÍDEOS: Fato ou Fake explica\nVEJA outras checagens feitas pela equipe do FATO ou FAKE\nAdicione nosso número de WhatsApp +55 (21) 97305-9827 (após adicionar o número, mande uma saudação para ser inscrito)\nGloboPop: clique para ver vídeos do palco de Fato ou Fake",
-    "published": "2026-10-23T15:29:36+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O Fato ou Fake, serviço de checagem do Grupo Globo, reúne jornalistas de sete Redações: TV Globo, g1, GloboNews, \"O Globo\", \"Valor Econômico\", \"Extra\" e CBN. Criada em julho de 2018, a ferramenta unificou iniciativas até então independentes, ampliando a escala de produção e a agi",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/fato-ou-fake/noticia/2026/10/23/fato-ou-fake-existe-desde-2018-conheca-o-historico-do-servico-de-checagens-do-grupo-globo.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Trump diz que EUA poderiam tomar petróleo do Irã e encerrar guerra ‘rapidamente’",
-    "link": "https://valor.globo.com/mundo/noticia/2026/10/23/trump-diz-que-eua-poderiam-tomar-petrleo-do-ir-e-encerrar-guerra-rapidamente.ghtml",
-    "description": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (23) que poderia encerrar a guerra com o Irã \"muito rapidamente\" e chegou a sugerir que os EUA poderiam tomar todo o petróleo iraniano. Segundo ele, a questão agora é decidir entre acabar com o Irã ou deixá-lo \"definhar\".\n\nLeia também:\nIrã ameaça atacar instalações de petróleo e de IA no Golfo se guerra for retomada\nIrã diz ter atingido navios e pressão sobre petróleo cresce\nPIB do Oriente Médio, Norte da África e Paquistão deve recuar 1,3% em 2026, diz FMI\nA declaração do mandatário americano se deu após o jornal britânico Guardian ter informado que autoridades iranianas ameaçaram atacar instalações petrolíferas, cabos submarinos, centros de dados e estruturas de inteligência artificial (IA) de até sete países do Golfo aliados de Washington caso os EUA e Israel retomem a ofensiva militar contra o país.\n\nMohsen Rezaei, secretário do Conselho Supremo de Segurança Nacional iraniano, afirmou que a República Islâmica prepara uma resposta mais ampla para eventuais novos ataques. \"Em caso de guerra, cabos, centros de dados e instalações de inteligência artificial também poderão ser alvos\", declarou, segundo a imprensa iraniana citada pelo jornal britânico.\n\nA ameaça foi reforçada por Mehdi Mohammadi, assessor de Mohammad Ghalibaf, responsável pelas negociações iranianas com Washington para encerrar o conflito anterior. De acordo com ele, uma nova guerra seria vista por Teerã como uma ameaça existencial, e a resposta iraniana não teria \"nenhuma linha vermelha\", podendo ampliar tanto a duração quanto o alcance geográfico do confronto.\n\nAs declarações ocorrem em meio a relatos de que os EUA preparam uma lista de alvos para uma possível ofensiva conjunta com Israel após as eleições legislativas americanas de 3 de novembro. Washington e Tel Aviv também intensificaram exercícios militares na região, ao mesmo tempo em que o governo Trump planeja reforçar sua presença no Oriente Médio com porta-aviões, caças e milhares de militares.\n\nNesta semana, a tensão se estendeu novamente ao Estreito de Ormuz, onde a Guarda Revolucionária iraniana (IRGC, na sigla em inglês) afirmou ter atingido sete embarcações, incluindo três que teriam colidido com minas. O episódio contribuiu para pressionar os preços do petróleo, com o Brent negociado acima de US$ 116 por barril nesta sexta-feira.\n\nApesar das ameaças, as negociações mediadas pelo Paquistão para um cessar-fogo continuam. Entre as propostas discutidas estão a liberação de ativos iranianos congelados em troca do fim do bloqueio de Ormuz, a retomada de inspeções nucleares da ONU no Irã e a transferência de urânio da República Islâmica altamente enriquecido para um terceiro país. Teerã tem condicionado os avanços à suspensão das sanções americanas.\nMísseis iranianos são exibidos ao lado de uma faixa com a imagem do líder supremo do Irã, Mojtaba Khamenei, em uma rua de Teerã\nMajid Asgaripour/WANA (West Asia News Agency) via REUTERS",
-    "published": "2026-10-23T15:29:11+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta sexta-feira (23) que poderia encerrar a guerra com o Irã \"muito rapidamente\" e chegou a sugerir que os EUA poderiam tomar todo o petróleo iraniano. Segundo ele, a questão agora é decidir entre acabar com o Irã ou deixá-",
     "relevance": 5
   }
 ]
