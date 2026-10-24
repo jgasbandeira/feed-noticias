@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "“Se não fosse o PT, o salário mínimo seria R$ 900”, diz Lula",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/se-nao-fosse-o-pt-o-salario-minimo-seria-r-900-diz-lula/",
+    "description": "Petista associou Flávio a Milei no debate da \"Globo\" e atribuiu a seus governos os reajustes acima da inflação",
+    "published": "2026-10-24T01:38:57+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Petista associou Flávio a Milei no debate da \"Globo\" e atribuiu a seus governos os reajustes acima da inflação",
+    "relevance": 5
+  },
+  {
     "source": "Estadão",
     "title": "É a economia, idiota; mas qual? A das estatísticas ou a que a população experimenta no dia a dia?",
     "link": "https://www.estadao.com.br/economia/fabio-gallo/e-a-economia-idiota-mas-qual-a-das-estatisticas-ou-a-que-a-populacao-experimenta-no-dia-a-dia/",
@@ -57,7 +69,17 @@
       "Politica"
     ],
     "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), determinou nesta sexta-feira (23) o bloqueio de até R$ 6 bilhões do advogado Willer Tomaz e uma ampla análise sobre a rede de correntistas da empresa Alcazar Holdings, que era a dona da conta que tinha o senador F",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/10/23/moraes-manda-bloquear-ate-r-6-bilhoes-de-advogado-ligado-a-flavio-bolsonaro-e-determina-quebra-de-sigilo-de-empresas.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/financas/noticia/2026/10/23/moraes-manda-bloquear-r-6-bi-de-willer-tomaz-e-determina-que-bancos-informem-dados-da-empresa-alcazar.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -181,7 +203,17 @@
       "Politica"
     ],
     "summary": "Durante o debate da Globo, nesta noite, o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL) poderão contar com apenas três assessores no estúdio. Só eles estarão próximos e poderão passar instruções aos candidatos. \nDo lado de Lula (PT) estarão o marquet",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/fato-ou-fake/eleicoes/noticia/2026/10/23/veja-o-que-e-fato-ou-fake-nas-falas-de-flavio-bolsonaro-e-lula-no-debate-da-globo-no-2o-turno-das-eleicoes-2026.ghtml"
+      },
+      {
+        "source": "Money Times",
+        "link": "https://www.moneytimes.com.br/debate-da-globo-lula-e-flavio-bolsonaro-trocam-acusacoes-sobre-infraestrutura-agronegocio-e-poder-de-compra-rnda/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -4025,17 +4057,5 @@
         "link": "https://www.moneytimes.com.br/dolar-23-10-26-lils/"
       }
     ]
-  },
-  {
-    "source": "Money Times",
-    "title": "Day trade: Compre Marcopolo (POMO4) e venda Gerdau (GGBR4) para ganhar até 1,4% hoje (23), segundo a Ágora",
-    "link": "https://www.moneytimes.com.br/day-trade-compre-marcopolo-pomo4-e-venda-gerdau-ggbr4-para-ganhar-ate-14-hoje-23-segundo-a-agora/",
-    "description": "Marcopolo (POMO4) é uma das recomendações de compra em day trade da Ágora Investimentos para esta sexta-feira (23). As ações da empresa fecharam a sessão da última quinta-feira (22) cotadas a R$ 4,75. O potencial de ganho é de 1,47% e o stop sugerido é de R$ 4,72. Recomendações day trade &#8211; compra Empresa Ticker [&#8230;]",
-    "published": "2026-10-23T12:30:35+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Marcopolo (POMO4) é uma das recomendações de compra em day trade da Ágora Investimentos para esta sexta-feira (23). As ações da empresa fecharam a sessão da última quinta-feira (22) cotadas a R$ 4,75. O potencial de ganho é de 1,47% e o stop sugerido é de R$ 4,72. Recomendações d",
-    "relevance": 5
   }
 ]
