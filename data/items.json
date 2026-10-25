@@ -1,5 +1,17 @@
 [
   {
+    "source": "InfoMoney",
+    "title": "Kassio questiona TRE Bahia sobre prorrogação de votação no estado",
+    "link": "https://www.infomoney.com.br/politica/kassio-questiona-tre-bahia-sobre-prorrogacao-de-votacao-no-estado/",
+    "description": "Cidades do estado nordestino tiveram a frota de ônibus reduzida ao longo do dia. “Vamos nos debruçar em detectar qual é o nível do problema que nós temos na Bahia\", disse o ministro a jornalistas\nThe post Kassio questiona TRE Bahia sobre prorrogação de votação no estado appeared first on InfoMoney.",
+    "published": "2026-10-25T19:52:50+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Cidades do estado nordestino tiveram a frota de ônibus reduzida ao longo do dia. “Vamos nos debruçar em detectar qual é o nível do problema que nós temos na Bahia\", disse o ministro a jornalistas\nThe post Kassio questiona TRE Bahia sobre prorrogação de votação no estado appeared ",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Quem é o prefeito de Salvador, acusado pelo PT de atrapalhar votação com falta de ônibus",
     "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/25/quem-e-o-prefeito-de-salvador-acusado-pelo-pt-de-atrapalhar-votacao-com-falta-de-onibus.ghtml",
@@ -33,6 +45,24 @@
       "Politica"
     ],
     "summary": "O deputado federal Pedro Rousseff (PT) sofreu um acidente de carro na tarde deste domingo na rodovia Fernão Dias. O parlamentar foi eleito neste ano e é sobrinho de Dilma Rousseff (PT).\nO GLOBO traz apuração dos votos para presidente: Siga aqui\n— O parlamentar e seu assessor de c",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/politica/deputado-eleito-sobrinho-neto-de-dilma-rousseff-sofre-acidente-em-mg/"
+      }
+    ]
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Plataformas falham em barrar propaganda eleitoral no 2º turno, diz NetLab",
+    "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/25/plataformas-falham-em-barrar-propaganda-eleitoral-no-2-turno-diz-netlab.ghtml",
+    "description": "Centenas de anúncios político-eleitorais em circulação foram identificados durante o período de resguardo do segundo turno das eleições de 2026, quando esse tipo de publicidade é proibido pela legislação eleitoral. O levantamento foi realizado pelo Laboratório de Estudos de Internet e Redes Sociais da Universidade Federal do Rio de Janeiro (NetLab UFRJ).\n\nDe acordo com boletim divulgado neste domingo (25), pesquisadores localizaram 394 anúncios político-eleitorais ativos nas plataformas da Meta, controladora de Facebook, Instagram e WhatsApp. O levantamento também encontrou 328 anunciantes que teriam veiculado propaganda considerada irregular durante o período de restrição.\n\nO resguardo compreende o período de 48 horas antes a 24 depois das eleições.\n\nNo documento, o Netlab UFRJ destaca que as plataformas “falham em fazer cumprir as regras eleitorais”, permitindo a circulação de anúncios fraudulentos e propaganda irregular enquanto mantêm “ferramentas de transparência insuficientes” para garantir a fiscalização e a responsabilização dos envolvidos.\n\n“Na prática, compromissos públicos de integridade não se traduzem em controle efetivo, deixando a publicidade política digital sujeita a regras que as plataformas não conseguem, ou não demonstram conseguir, respeitar”, afirma.\n\nEntre os casos apontados estão anúncios fraudulentos que utilizavam indevidamente a identidade do Tribunal Superior Eleitoral (TSE) para divulgar supostas oportunidades de resgate de recursos financeiros. Segundo o laboratório, os anúncios direcionavam usuários para páginas que imitavam canais oficiais do governo federal.\n\nO estudo também identificou conteúdos comerciais associados à imagem do candidato Flávio Bolsonaro (PL), incluindo anúncios de produtos e serviços. “Assim como no primeiro turno, os casos evidenciam os limites pouco claros entre a comercialização de produtos e a propaganda eleitoral, além de levantarem questões sobre a aplicação das regras de publicidade da Meta durante o período eleitoral”, dizem os pesquisadores em relatório.\n\nAlém disso, foi registrado um anúncio vinculado ao ex-diretor-geral da Polícia Rodoviária Federal, Silvinei Vasques.\n\nNo Kwai, o laboratório relatou inconsistências nos dados da Biblioteca de Anúncios da plataforma. Segundo o boletim, 19 anúncios eleitorais tiveram datas alteradas para incluir o dia da votação, embora aparecessem como inativos na interface pública. As divergências impediram a confirmação definitiva sobre a efetiva exibição dos conteúdos no dia do pleito.\n\nO relatório também avaliou os sistemas de recomendação algorítmica de TikTok, Instagram e YouTube. Entre mais de 4,3 mil recomendações analisadas, o Instagram apresentou o maior volume de conteúdo político sugerido aos usuários simulados. Já o YouTube foi a única plataforma a recomendar conteúdo de perfil oficial de candidata, com duas recomendações de conteúdos publicados por Celina Leão (PP), candidata ao governo do Distrito Federal.",
+    "published": "2026-10-25T19:45:42+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Centenas de anúncios político-eleitorais em circulação foram identificados durante o período de resguardo do segundo turno das eleições de 2026, quando esse tipo de publicidade é proibido pela legislação eleitoral. O levantamento foi realizado pelo Laboratório de Estudos de Inter",
     "relevance": 5
   },
   {
@@ -180,6 +210,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/politica/noticia/2026/10/25/campanha-de-lula-aciona-o-stf-pedindo-extensao-ate-as-19h-de-votacao-em-salvador-e-mais-duas-cidades-da-bahia.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/25/campanha-de-lula-pede-prorrogao-do-horrio-de-votao-em-10-estados.ghtml"
       }
     ]
   },
@@ -300,7 +334,13 @@
       "Politica"
     ],
     "summary": "Mais cedo, a Justiça Eleitoral do Estado determinou o restabelecimento do transporte coletivo em 3 cidades baianas",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/25/nunes-marques-da-30-minutos-para-tre-e-mp-da-bahia-se-manifestarem-sobre-reducao-de-circulacao-de-onibus.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -894,7 +934,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Em editorial publicado no dia do segundo turno da eleição presidencial brasileira (“Trump Should Stay out of Brazilian Politics”), o jornal americano The New York Times (NYT) afirma que a pressão sobre o Brasil integra uma estratégia de favorecimento de aliados políticos no exter",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Money Times",
+        "link": "https://www.moneytimes.com.br/trump-deveria-ficar-fora-da-politica-brasileira-diz-editorial-do-nyt-lils/"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -4000,6 +4046,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/noticia/2026/10/25/apuracao-para-governador-nas-eleicoes-2026-veja-resultado-do-2o-turno-ao-vivo.ghtml"
+      },
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/politica/ao-vivo-eleicoes-segundo-turno-2026/"
       }
     ]
   },
@@ -4106,6 +4156,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/politica/eleicoes-2026/guia/quem-nao-votou-no-primeiro-turno-pode-votar-no-segundo.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/25/quem-venceu-as-eleicoes-no-exterior-no-primeiro-turno.ghtml"
       }
     ]
   },
@@ -4218,36 +4272,6 @@
       "Politica"
     ],
     "summary": "O ex-presidente dos Estados Unidos Barack Obama atribuiu a inflação e os preços elevados ao presidente Donald Trump e instou os democratas a comparecerem às urnas — especialmente para apoiar o candidato ao Senado Abdul El-Sayed — em um esforço final, no momento em que a votação a",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Quaest: Pazolini lidera no Espírito Santo com 55%, enquanto Ferraço tem 45%",
-    "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/24/quaest-pazolini-lidera-no-esprito-santo-com-55-pontos-percentuais-enquanto-ferrao-tem-45.ghtml",
-    "description": "Pesquisa Quaest divulgada neste sábado (24), véspera do segundo turno das eleições, mostra a liderança de Lorenzo Pazolini (Republicanos) nas intenções de votos vélidos na disputa para o Governo do Espírito Santo.\n\nEle marca 55% no levantamento, ante 45% do atual governador, Ricardo Ferraço (MDB).\n\nA pesquisa, encomendada pela TV Gazeta, ouviu 2.154 eleitores de 16 anos ou mais entre sexta-feira (23) e este sábado (24). O nível de confiança das estimativas é de 95% e a margem de erro máxima prevista é de dois pontos percentuais para mais ou para menos.\n\nO levantamento está registrado no TSE (Tribunal Superior Eleitoral) sob o código ES-04365/2026.\n\nConsiderando-se apenas os votos totais, incluindo votos em branco, nulos e eleitores que afirmam estar indecisos, Pazolini atinge 45%, ante 41% de Ferraço. Outros 9% dos entrevistados afirmaram estar indecisos, enquanto 5% disseram que votarão em branco ou anularão seus votos.\n\nEsta é a segunda pesquisa realizada pela empresa no estado durante a campanha de segundo turno. No levantamento divulgado no último dia 14, Pazolini marcava 47% dos votos totais, ante 38% de Ferraço (MDB). Brancos e nulos eram 10%, enquanto indecisos somavam 5%.\n\nPazolini é ex-prefeito de Vitória, reeleito em primeiro turno em 2024. Candidato apoiado pelo senador e presidenciável Flávio Bolsonaro (PL), o advogado e ex-delegado da Polícia Civil afirmou durante a campanha que, caso eleito, faria o primeiro governo de direita da história do Espírito Santo.\n\nEle participou do Bloco do 22 realizado na cidade no último sábado (17) ao lado de Flávio e de outros aliados do campo bolsonarista, como Tarcísio de Freitas (Republicanos-SP), governador reeleito de São Paulo, e os políticos Nikolas Ferreira (PL-MG) e Lucas Pavanato (PL-SP), ambos eleitos deputados federais com mais de 3 milhões de votos em seus respectivos estados.\n\nNo primeiro turno, Pazolini obteve 49,65% dos votos válidos, ante 34,06% de Ferraço.\n\nO emedebista, que figurava na liderança da maioria das pesquisas de intenção de voto no primeiro turno, assumiu o governo do estado no início de abril, quando Renato Casagrande (PSB), então governador, renunciou ao cargo para concorrer ao Senado.\n\nCasagrande foi eleito com 24,70% dos votos válidos junto a Evair de Melo (Republicanos), que atingiu 24,39%.\n\nDurante a campanha, Ferraço não recebeu o apoio formal de nenhum candidato à presidência e também evitou declarar voto em Lula (PT) ou Flávio. No segundo turno, porém, passou a contar com o apoio público de João Coser, presidente estadual do PT.\n\nEle chegou a se definir como um candidato de centro-direita em sabatina para A Gazeta e a CBN Vitória.\n\nCom uma trajetória política iniciada aos 19 anos, Ferraço já foi vereador de Cachoeiro de Itapemirim, deputado estadual por dois mandatos, deputado federal e senador pelo Espírito Santo. O candidato também já exerceu dois mandatos como vice-governador.",
-    "published": "2026-10-25T02:13:26+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Pesquisa Quaest divulgada neste sábado (24), véspera do segundo turno das eleições, mostra a liderança de Lorenzo Pazolini (Republicanos) nas intenções de votos vélidos na disputa para o Governo do Espírito Santo.\n\nEle marca 55% no levantamento, ante 45% do atual governador, Rica",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/apuracao-eleicoes-2026/guia/qual-e-o-numero-de-lorenzo-pazolini-para-o-governo-do-espirito-santo.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "O Globo",
-    "title": "Obama critica 'crueldade e incompetência' de Trump: 'Decidiu iniciar uma guerra desnecessária'",
-    "link": "https://oglobo.globo.com/mundo/noticia/2026/10/24/obama-critica-crueldade-e-incompetencia-de-trump-decidiu-iniciar-uma-guerra-desnecessaria.ghtml",
-    "description": "O ex-presidente americano Barack Obama teceu duras críticas ao seu sucessor, Donald Trump, durante comícios realizados no sábado em Ohio e Michigan, em apoio a candidatos democratas para as eleições de meio de mandato de 3 de novembro. Os democratas tentam recuperar o controle de uma ou de ambas as casas do Congresso dos Estados Unidos, atualmente sob domínio dos republicanos.\nDivisão republicana: Trump defende anúncio de candidato que explora rompimento de rival com sua mãe por denúncia de abuso sexual\nAtrás nas pesquisas: Trump quer barrar possível vitória de democrata em disputa do Senado no Alasca\nObama mantém uma popularidade considerável junto à base democrata, a qual ele está disposto a aproveitar para apoiar os candidatos de seu partido. O ex-presidente, de 65 anos, atribuiu à administração Trump o custo de vida cada vez mais elevado — uma preocupação crescente, agravada pela alta nos preços dos combustíveis.\n\"O atual presidente optou por tomar uma série de decisões ruins\", disse Obama em Ohio, onde participou de um comício em prol do ex-senador democrata Sherrod Brown. \"Mais importante ainda: ele decidiu iniciar uma guerra desnecessária que ninguém pediu\", acrescentou.\n\"Após dois anos de caos, crueldade, corrupção e incompetência, como não se via na era moderna, vocês têm a chance de dizer: 'Já chega'\", declarou em Cleveland. \"Estamos votando por uma mudança aqui mesmo, em Ohio.\"\nMais tarde, em Michigan, Obama manifestou apoio ao também democrata Abdul El-Sayed, que disputa com o republicano Mike Rogers uma vaga no Senado. Obama também instou os presentes a votarem sem demora, em ambos os estados.\n\"Não deixem para depois, não se enganem\", disse ele.\nEm nível nacional, as pesquisas indicam que os democratas podem retomar o controle da Câmara dos Representantes, mas enfrentam uma disputa muito mais acirrada no Senado.",
-    "published": "2026-10-25T02:00:04+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O ex-presidente americano Barack Obama teceu duras críticas ao seu sucessor, Donald Trump, durante comícios realizados no sábado em Ohio e Michigan, em apoio a candidatos democratas para as eleições de meio de mandato de 3 de novembro. Os democratas tentam recuperar o controle de",
     "relevance": 5
   }
 ]
