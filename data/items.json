@@ -3391,19 +3391,6 @@
     "relevance": 5
   },
   {
-    "source": "Bloomberg Línea",
-    "title": "Lula e Flávio divergem sobre juros, dívida e impostos no último debate antes da eleição",
-    "link": "https://www.bloomberglinea.com.br/brasil/lula-e-flavio-divergem-sobre-juros-divida-e-impostos-no-ultimo-debate-antes-da-eleicao/",
-    "description": "A dois dias do segundo turno, os candidatos dedicaram parte do confronto na Globo a acusações; nas propostas, Lula defendeu o crescimento como caminho para reduzir a dívida, e Flávio atribuiu os juros ao gasto público e prometeu refinanciar dívidas das famílias pela Caixa",
-    "published": "2026-10-24T04:05:18+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "A dois dias do segundo turno, os candidatos dedicaram parte do confronto na Globo a acusações; nas propostas, Lula defendeu o crescimento como caminho para reduzir a dívida, e Flávio atribuiu os juros ao gasto público e prometeu refinanciar dívidas das famílias pela Caixa",
-    "relevance": 5
-  },
-  {
     "source": "Valor Econômico",
     "title": "'Exército do Lula' x 'Tropa do Flávio': as estratégias dos canais no debate da Globo",
     "link": "https://valor.globo.com/politica/noticia/2026/10/24/exercito-do-lula-x-tropa-do-flavio-as-estrategias-dos-canais-no-debate-da-globo.ghtml",
@@ -3715,7 +3702,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O jogador de futebol Richarlison tem acusado o senador Flávio Bolsonaro (PL) de ter se apropriado de uma ilha comprada por ele em Angra dos Reis, na Costa Verde do Rio de Janeiro. O atleta afirma que o parlamentar obteve a posse do imóvel sem pagar por ele e pediu que a Polícia F",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/politica/noticia/2026/10/24/entenda-polemica-ilha-richarlison-flavio-bolsonaro.ghtml"
+      }
+    ]
   },
   {
     "source": "InfoMoney",
@@ -3919,6 +3912,25 @@
     ],
     "summary": "O segundo bloco do debate presidencial da TV Globo desta sexta-feira (23) foi marcado por um confronto direto entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) sobre dívida pública, taxa de juros e os rumos do Sistema Único de Saúde (SUS). Um dos momentos marcantes foi",
     "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Debate na Globo: Flávio Bolsonaro pergunta a Lula sobre dívida pública e juros; VÍDEO",
+    "link": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/23/debate-na-globo-flavio-bolsonaro-pergunta-a-lula-sobre-divida-publica-e-juros-video.ghtml",
+    "description": "Debate na Globo: Flávio Bolsonaro pergunta a Lula sobre dívida pública e juros\nNo debate da Globo entre os candidatos a presidente da República, realizado nesta sexta (23), Flávio Bolsonaro (PL) pergunta a Lula (PT) sobre dívida pública e juros.\nVeja o trecho no vídeo acima - que também inclui a réplica e a tréplica.\n📱Favorite o g1 no Google e acompanhe as principais notícias do dia\nO debate da Globo, o último do segundo turno entre os presidenciáveis, foi mediado por César Tralli e transmitido ao vivo pela TV Globo, pela GloboNews e pelo g1.\nParticiparam os candidatos Flávio Bolsonaro (PL) e Luiz Inácio Lula da Silva.\nO segundo turno da eleição de 2026 acontece neste domingo (25).\nDebate de presidenciáveis na Globo acontece nesta sexta (25).\nDivulgação",
+    "published": "2026-10-24T02:07:39+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Debate na Globo: Flávio Bolsonaro pergunta a Lula sobre dívida pública e juros\nNo debate da Globo entre os candidatos a presidente da República, realizado nesta sexta (23), Flávio Bolsonaro (PL) pergunta a Lula (PT) sobre dívida pública e juros.\nVeja o trecho no vídeo acima - que",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Bloomberg Línea",
+        "link": "https://www.bloomberglinea.com.br/brasil/lula-e-flavio-divergem-sobre-juros-divida-e-impostos-no-ultimo-debate-antes-da-eleicao/"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
