@@ -1,5 +1,53 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Modelos preditivos cravaram reeleição de Lula com menos de 3% das urnas apuradas",
+    "link": "https://valor.globo.com/noticia/2026/10/26/modelos-preditivos-cravaram-reeleio-de-lula-com-menos-de-3-pontos-percentuais-das-urnas-apuradas.ghtml",
+    "description": "Plataformas independentes que utilizam modelos preditivos anteciparam a reeleição do presidente Luiz Inácio Lula da Silva (PT) contra Flávio Bolsonaro (PL) ainda nos primeiros momentos da apuração do segundo turno, no domingo (25). As ferramentas analisaram os votos contabilizados pelo Tribunal Superior Eleitoral (TSE) e os compararam com os resultados do primeiro turno para estimar a votação nas seções que ainda não haviam sido apuradas. Em uma das ferramentas, dados de eleições anteriores também foram utilizados para testar a precisão do modelo.\n\nFoi o caso da ferramenta Janela, desenvolvida pelo cientista político e fundador da consultoria Plano Político, Vinícius Justo. Com apenas 0,12% das seções apuradas, a plataforma estimava 51,19% dos votos válidos para Lula e 48,81% para Flávio. A faixa de incerteza, porém, ainda admitia a vitória de qualquer um dos dois. Ao longo da apuração, a projeção para o petista chegou a superar 54% no início, antes de se estabilizar na casa dos 51%, com pequenas variações decimais na reta final.\n\nJá o Panorama do Voto, criado pelo sócio-fundador da Seiko Partners, Diego Cavalcante, projetava 51,83% dos votos válidos para Lula e 48,17% para Flávio com cerca de 2% das urnas apuradas. Durante a contagem, a estimativa para o presidente chegou à casa dos 49%, mas voltou a superar 51% e, com aproximadamente 30% da apuração, a plataforma passou a indicar  “vitória projetada” para o petista. \n\nNesse sentido, ambas as ferramentas chegaram a percentuais próximos do resultado consolidado, de 51,79% para Lula e 48,21% para Flávio.\n\nSegundo o fundador do Plano Político, o método se apoia na estabilidade geográfica dos padrões de votação. Se uma seção eleitoral apresentou crescimento de Lula entre o primeiro e o segundo turno, essa variação ajuda a estimar o que poderá ocorrer em outras urnas com histórico semelhante.\n\n“Quando você agrupa seções suficientes, você tem uma estimativa de como o resto do país vai ser contado. E, a partir daí, você consegue estimar qual vai ser o percentual de voto, porque você sabe quais já foram apuradas e quais não foram ainda”, explica.\n\nJusto disse que uma amostra de 1% a 2% das seções, dependendo de sua distribuição, já pode produzir uma projeção nacional robusta. A Janela não utilizou pesquisas de intenção de voto, diferentemente do modelo pré-eleitoral mantido pelo Plano Político. “O meu modelo não tinha nenhuma pesquisa para a Janela. Era só com base na votação”, diz.\n\nO resultado projetado pela ferramenta surpreendeu o próprio pesquisador, pois São Paulo e Rio de Janeiro estavam com poucas urnas apuradas no início e apresentavam uma mudança de comportamento diferente da observada no restante do país.\n\n“Eu publiquei no X o ‘call’ [projeção de vitória]  de que o Lula tinha sido reeleito com 30% das seções apuradas, mas isso foi porque eu segurei por causa de São Paulo. Se eu tivesse deixado solto, o ‘call’ teria saído com 13% das seções”, afirmou.\n\nPara reduzir o risco de anunciar um vencedor equivocadamente, Justo realizou mais de 50 simulações, incluindo cenários de disputas decididas por apenas 500 mil votos. Quanto menor a diferença entre os candidatos, explica, maior a possibilidade de uma pequena imprecisão alterar a indicação do vencedor.\n\nO pesquisador destaca ainda que a inteligência artificial (IA) facilitou a construção da ferramenta, sobretudo na programação e no desenvolvimento do site. Na avaliação dele, a rapidez da apuração no Brasil reduz a necessidade desses modelos em comparação com os Estados Unidos, mas as ferramentas permitem antecipar em uma ou duas horas a confirmação do resultado.\n\nO Panorama do Voto também foi desenvolvido para esta eleição por Cavalcante. Após testar uma versão mais simples no primeiro turno, ele aprimorou o cálculo para considerar a votação anterior de cada seção eleitoral e as mudanças verificadas nas urnas já contabilizadas.\n\n“Eu olho como mudaram as que já foram apuradas, como elas mudaram do primeiro para o segundo turno. E as que não foram apuradas ainda, eu olho como foi no primeiro turno e aplico basicamente essa variação”, explica Cavalcante.\n\nO executivo também utilizou resultados das eleições presidenciais de 2018 e 2022 e de disputas para governador para testar a metodologia e estimar suas margens de incerteza. Esses testes com eleições anteriores foram retrospectivos: 2026 foi a primeira experiência do Panorama do Voto com projeções em tempo real.\n\nA plataforma passou a exibir o aviso de “vitória projetada” para Lula quando aproximadamente 30% das seções estavam apuradas. Pelas regras do modelo, a indicação só aparece quando a chance estimada de um candidato superar 50% dos votos válidos ultrapassa 95%, depois de ao menos 2% de avanço da apuração.\n\nCavalcante também temeu que o atraso na chegada dos resultados de São Paulo e Rio de Janeiro distorcesse as primeiras estimativas. “Se você tiver todos os Estados com 15% de apuração, é melhor do que você ter 30% em alguns Estados e zero em outros. Porque você consegue fazer uma correção melhor por Estado”, declarou.\n\nO modelo aplica ajustes para evitar que um número reduzido de seções determine uma mudança exagerada na projeção. À medida que a contagem avança, os dados de cada Estado ganham peso e permitem corrigir possíveis distorções.\n\nAssim como a Janela, o Panorama do Voto dispensou pesquisas eleitorais. Cavalcante considera o primeiro turno uma referência mais precisa para essa finalidade porque revela o perfil de votação de cada seção, enquanto os levantamentos apresentam estimativas mais gerais. “O primeiro turno me dá especificamente qual foi o perfil de cada seção. Isso a pesquisa não vai me dar”, diz.\n\nA IA também acelerou o desenvolvimento da plataforma. Cavalcante explicou que conseguiria elaborar o modelo estatístico, mas precisaria de ajuda para criar a interface do site. “Sabendo orientar e direcionar a IA para puxar os dados e tudo mais, você consegue avançar muito rápido nos desenvolvimentos”, disse.\n\nPara ele, a concentração da disputa em dois candidatos favoreceu a precisão. Em eleições com três candidaturas fortes no primeiro turno, a transferência de votos torna as projeções iniciais mais incertas.",
+    "published": "2026-10-26T23:53:45+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Plataformas independentes que utilizam modelos preditivos anteciparam a reeleição do presidente Luiz Inácio Lula da Silva (PT) contra Flávio Bolsonaro (PL) ainda nos primeiros momentos da apuração do segundo turno, no domingo (25). As ferramentas analisaram os votos contabilizado",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Erika Hilton aciona PF para investigar casos de violência nas eleições",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/erika-hilton-aciona-pf-para-investigar-casos-de-violencia-nas-eleicoes/",
+    "description": "Deputada associa escalada das ocorrências à postura de Flávio Bolsonaro diante do resultado eleitoral",
+    "published": "2026-10-26T23:50:44+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Deputada associa escalada das ocorrências à postura de Flávio Bolsonaro diante do resultado eleitoral",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Alcolumbre e Motta visitam Lula após reeleição e defendem atuação conjunta entre Poderes",
+    "link": "https://valor.globo.com/politica/noticia/2026/10/26/alcolumbre-e-motta-visitam-lula-apos-reeleicao-e-defendem-atuacao-conjunta-entre-poderes.ghtml",
+    "description": "s presidentes da Câmara, Hugo Motta (Republicanos-PB), e do Senado, Davi Alcolumbre (União-AP), visitaram nesta segunda-feira (26) o presidente Luiz Inácio Lula da Silva, no Palácio da Alvorada, para cumprimentá-lo pela reeleição. Nas manifestações divulgadas após o encontro, ambos defenderam o diálogo institucional e a atuação conjunta entre Executivo e Legislativo.\n\nMotta afirmou que desejou êxito a Lula no novo mandato e reafirmou o compromisso com a harmonia entre os Poderes. “Estivemos hoje com o presidente Lula para cumprimentá-lo e desejar êxito no novo mandato, reafirmar nosso compromisso de harmonia entre os Poderes e o trabalho conjunto do Congresso pelo avanço do Brasil”, escreveu nas redes sociais, ao publicar uma foto dos três.\n\nEm comunicado, Alcolumbre destacou que o Senado e a Câmara seguirão atuando com independência, responsabilidade e disposição para somar esforços em nome dos brasileiros. O presidente do Congresso também reafirmou o compromisso com a construção de entendimentos. “Os brasileiros esperam de nós resultados. Temos muito trabalho pela frente”, afirmou.\n\nO encontro ocorreu um dia após a vitória de Lula sobre Flávio Bolsonaro (PL), que assegurou ao petista o quarto mandato na Presidência. A aproximação também ocorre em meio às articulações para as eleições das Mesas Diretoras do Congresso, em fevereiro de 2027, nas quais Motta e Alcolumbre buscam renovar seus mandatos à frente das duas Casas.",
+    "published": "2026-10-26T23:46:25+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "s presidentes da Câmara, Hugo Motta (Republicanos-PB), e do Senado, Davi Alcolumbre (União-AP), visitaram nesta segunda-feira (26) o presidente Luiz Inácio Lula da Silva, no Palácio da Alvorada, para cumprimentá-lo pela reeleição. Nas manifestações divulgadas após o encontro, amb",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Risco país sobe ao maior nível desde março de 2026",
+    "link": "https://www.poder360.com.br/poder-economia/risco-pais-sobe-ao-maior-nivel-desde-marco-de-2026/",
+    "description": "Indicador avançou depois da vitória de Lula; dólar, bolsa e juros futuros também registraram forte reação",
+    "published": "2026-10-26T23:31:22+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Indicador avançou depois da vitória de Lula; dólar, bolsa e juros futuros também registraram forte reação",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Flávio prepara AIJE contra chapa de Lula após derrota no 2° turno",
     "link": "https://www.poder360.com.br/poder-eleicoes-2026/flavio-prepara-aije-contra-chapa-de-lula-apos-derrota-no-2-turno/",
@@ -9,6 +57,18 @@
       "Economia"
     ],
     "summary": "Assessoria do senador confirmou ao Poder360 que ação questionará possíveis abusos de poder político e econômico na campanha petista",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Netanyahu pressionou por um ataque ao Irã antes das eleições israelenses, dizem autoridades",
+    "link": "https://oglobo.globo.com/mundo/noticia/2026/10/26/netanyahu-pressionou-por-um-ataque-ao-ira-antes-das-eleicoes-israelenses-dizem-autoridades.ghtml",
+    "description": "Antes da crucial eleição israelense desta terça-feira, o primeiro-ministro Benjamin Netanyahu tentou, durante semanas, orquestrar um novo ataque aéreo contra o Irã, mas encontrou resistência por parte do chefe do Estado-Maior das Forças Armadas, de acordo com três altos funcionários da defesa israelense e outras três pessoas informadas sobre o assunto.\nGuga Chacra: Oposição liderada por Eisenkot pode ser melhor para israelenses, palestinos e vizinhos de Israel\nQuer ler mais notícias de Mundo? Acompanhe o canal no WhatsApp\nQuer morar fora? Veja guia interativo do GLOBO que reúne informações sobre 36 países\nNos últimos dias, o chefe do Estado-Maior, tenente-general Eyal Zamir, passou a se preocupar com o fato de Netanyahu estar pressionando por uma ação separada contra o Irã, que não chegasse a ser um ataque declarado, segundo um oficial israelense e uma pessoa a par do assunto, nenhum dos quais descreveu a natureza dessa ação. O general Zamir acreditava que isso seria um erro de cálculo que poderia provocar um ataque do Irã contra Israel.\nOs porta-vozes de Netanyahu não responderam imediatamente aos pedidos de comentários.\nOs funcionários israelenses e as pessoas informadas sobre as deliberações falaram sob condição de anonimato, pois não estavam autorizados a falar publicamente.\nA justificativa de Netanyahu para insistir em um ataque ao Irã antes da eleição não ficou clara, mas um retorno à guerra poderia ter potencialmente interrompido ou mesmo atrasado a votação.\nEleições gerais em 27 de outubro: Votação é vista como referendo sobre Netanyahu\nAs tensões nos bastidores sobre um possível ataque israelense ou outra ação contra o Irã surgem em um momento em que Netanyahu vem retratando publicamente a importância da eleição em termos cada vez mais apocalípticos. No fim de semana, ele publicou nas redes sociais uma imagem gerada por inteligência artificial de uma nuvem em forma de cogumelo sobre Tel Aviv e alertou, em uma aparição na televisão, que a votação decidiria “a existência de Israel”.\nOs apelos aos medos dos israelenses visam levar os eleitores a enxergarem o conflito com o Irã como a questão mais urgente e a confiarem a ele a continuidade da liderança na luta contra o principal adversário regional de Israel.\nQuando Netanyahu pressionou para acirrar o conflito com o Irã, o general Zamir levantou uma série de objeções e preocupações e, por fim, concluiu que não havia necessidade imediata ou urgente de ação, disseram as autoridades e pessoas informadas sobre o assunto.\nUma decisão desse chefe militar tem um peso especial: pode dificultar a apresentação da medida como uma necessidade militar.\nAnálise: A Guerra do Irã e as eleições nos EUA e em Israel\nEmbora o general Zamir não se opusesse, em princípio, a tomar medidas contra o Irã, ele se opôs a fazê-lo antes das eleições, segundo um oficial israelense e duas pessoas a par do assunto. O general Zamir e o comandante da Força Aérea Israelense, major-general Omer Tischler, citaram as sensibilidades políticas e a dificuldade de explicar ao público por que isso teria que ocorrer naquele momento, de acordo com dois altos funcionários da defesa israelense.\nEm comunicado, as Forças Armadas de Israel afirmaram que suas decisões operacionais se baseiam estritamente em “considerações de segurança”, bem como em “sua responsabilidade como instituição nacional”.\nAs preocupações sobre as motivações políticas de um ataque ao Irã não se dissipam nesta terça-feira. De acordo com três altos funcionários da defesa israelense e duas pessoas a par do assunto, uma retomada dos combates com o Irã nas semanas seguintes à eleição também poderia ter um grande impacto.\nVeja antes e depois: Novas imagens de satélite expõem a destruição de três anos de guerra em Gaza\nCaso os oponentes de Netanyahu vençam as eleições, provavelmente terão a oportunidade de formar o novo governo, mas um retorno à guerra poderia dificultar ou mesmo impedir sua capacidade de formar uma coalizão governista dentro do prazo legal. A retomada dos combates também poderia gerar pressão política para a formação de um governo de unidade nacional que inclua Netanyahu.\nNotícias sobre um desentendimento entre Netanyahu e os militares a respeito de um possível ataque, divulgadas inicialmente pelo Canal 12 de Israel, provocaram indignação no país. Um dos rivais de Netanyahu, Avigdor Liberman, exigiu nesta segunda-feira que o procurador-geral abrisse uma investigação para apurar se o primeiro-ministro havia cometido traição.\n“A tentativa de arrastar Israel para uma guerra às vésperas das eleições, incluindo o sacrifício de soldados israelenses, apenas por medo de perder as eleições, é uma traição à nação”, escreveu Liberman, ministro da Defesa e ministro das Relações Exteriores em governos anteriores de Netanyahu, em uma queixa formal.\nNetanyahu, de 77 anos, luta para manter-se no poder diante da oposição liderada por Gadi Eisenkot, ex-chefe do Estado-Maior das Forças Armadas.",
+    "published": "2026-10-26T23:24:34+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Antes da crucial eleição israelense desta terça-feira, o primeiro-ministro Benjamin Netanyahu tentou, durante semanas, orquestrar um novo ataque aéreo contra o Irã, mas encontrou resistência por parte do chefe do Estado-Maior das Forças Armadas, de acordo com três altos funcionár",
     "relevance": 5
   },
   {
@@ -3260,7 +3320,13 @@
       "Politica"
     ],
     "summary": "Os candidatos derrotados no primeiro turno da eleição presidencial reagiram de formas distintas à reeleição do presidente Luiz Inácio Lula da Silva (PT)\nThe post Derrotados no 1º turno reagem à vitória de Lula; só Zema contesta resultado appeared first on InfoMoney.",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-eleicoes-2026/pl-reconhece-vitoria-de-lula-apos-flavio-contestar-resultado/"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -3895,76 +3961,6 @@
       "Politica"
     ],
     "summary": "Enquanto o presidente dos Estados Unidos, Donald Trump, permanecia em silêncio sobre a vitória de Luiz Inácio Lula da Silva (PT) nas eleições brasileiras, parlamentares americanos se dividiram entre manifestações de apoio ao petista e questionamentos ao resultado. Até a manhã des",
-    "relevance": 5
-  },
-  {
-    "source": "Folha",
-    "title": "Tesouro cancela leilões de títulos prefixados e atrelados à inflação previstos para esta semana",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/tesouro-cancela-leiloes-de-titulos-prefixados-e-atrelados-a-inflacao-previstos-para-esta-semana.shtml",
-    "description": "O Tesouro Nacional cancelou nesta segunda-feira (26) os leilões de títulos prefixados e atrelados à inflação previstos para a terça-feira (27) e a quinta-feira (29). A medida foi tomada em dia de tensão no mercado financeiro após a vitória do atual presidente Luiz Inácio Lula da Silva (PT) sobre Flávio Bolsonaro no segundo turno da eleição presidencial\nLeia mais (10/26/2026 - 11h43)",
-    "published": "2026-10-26T14:43:00+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O Tesouro Nacional cancelou nesta segunda-feira (26) os leilões de títulos prefixados e atrelados à inflação previstos para a terça-feira (27) e a quinta-feira (29). A medida foi tomada em dia de tensão no mercado financeiro após a vitória do atual presidente Luiz Inácio Lula da ",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/onde-investir/tesouro-amplia-intervencao-e-anuncia-recompra-de-titulos-atrelados-a-inflacao/"
-      }
-    ]
-  },
-  {
-    "source": "O Globo",
-    "title": "Com alta do dólar, perspectiva é de salto em exportações do agro brasileiro, pressionando preços de commodities",
-    "link": "https://oglobo.globo.com/economia/noticia/2026/10/26/com-alta-do-dolar-perspectiva-e-de-salto-em-exportacoes-do-agro-brasileiro-pressionando-precos-de-commodities.ghtml",
-    "description": "Após a vitória de Lula nas eleições, que pressionou o real, melhorando as perspectivas de exportações do agronegócio brasileiro, os  contratos futuros de soja caíram ao menor nível em dois meses em Chicago, enquanto café e açúcar recuaram com força. \nLula conquistou um quarto mandato, derrotando Flávio Bolsonaro em uma reviravolta política que representa um revés para investidores que apoiavam seu adversário na expectativa de que ele contivesse o déficit público. \nO dólar comercial abriu em forte alta, de 8,65%, a R$ 5,42. As negociações foram interrompidas e, quando foram reabertas, pouco antes das 10h, o dólar chegou a R$ 5,60, alta de 12,2%. Depois de nova interrupção, o dólar voltou a ser negociado nas máximas de R$ 5,60 e, de novo, os negócios foram suspensos.\nUm real mais fraco aumenta a competitividade dos produtos brasileiros e estimula as exportações, pois os agricultores recebem mais moeda local por suas safras. Como o Brasil é o maior exportador mundial de açúcar, café e soja, esse cenário pressiona os preços dessas commodities.\n'Posição dominante'\nO contrato futuro de soja mais negociado na Bolsa de Chicago (CBOT) recuou até 1,7%, atingindo o menor nível desde o fim de agosto. A ênfase de Lula em manter uma relação pragmática com a China pode consolidar ainda mais a posição dominante do Brasil como principal fornecedor de soja para o país asiático e reduzir a participação dos Estados Unidos no maior mercado importador de soja do mundo.\nO Brasil vem ampliando sua fatia do mercado chinês e respondeu por quase 80% das importações do país nos primeiros nove meses do ano, apesar do acordo comercial de Pequim com os Estados Unidos, seu segundo maior fornecedor. \nAo mesmo tempo, a China ampliou os investimentos na infraestrutura portuária brasileira, incluindo terminais no porto de Santos construídos pela Cofco, uma das principais tradings agrícolas do mundo.\n— Lula é favorável às exportações de soja para a China, portanto isso é negativo para a soja americana se o Brasil conseguir atender a uma parcela maior da demanda chinesa — afirmou Joe Davis, diretor de vendas de commodities da Futures International LLC.\nEfeito no óleo de soja\nA queda também atingiu os óleos vegetais. Os contratos futuros de óleo de soja recuaram até 1,2% em Chicago, enquanto os de óleo de palma caíram até 1,1% em Kuala Lumpur, interrompendo uma sequência de dois dias de alta. \nO óleo de palma costuma acompanhar as oscilações do óleo de soja porque os dois produtos competem em muitos dos mesmos mercados de alimentos e biocombustíveis.\nOs elevados estoques da Malásia também pressionaram o mercado, apesar da melhora da demanda por exportações, segundo Tasvinderjit Singh, diretor e chefe da área de contratos futuros da CGS International Futures Malaysia.\nOs contratos futuros de açúcar e café também caíram na abertura dos mercados nesta segunda-feira. O contrato de açúcar mais negociado recuou até 3,6%, a maior queda em mais de um mês, enquanto o café arábica caiu até 3,3%. O café robusta atingiu o menor nível em dois anos.\n'Reação técnica'\nO movimento é uma “simples reação técnica” à esperada desvalorização cambial, segundo Arnaud Lorioz, presidente-executivo da corretora Deepcore, com sede em Paris:\n— O mercado está sinalizando que o real favorecerá um aumento das exportações dos produtores de açúcar do Brasil.\nA reeleição de Lula coloca em questão a relação do Brasil com os Estados Unidos, diante das diferenças ideológicas entre o presidente brasileiro e Donald Trump. Em julho, o presidente americano impôs uma tarifa de 25% ao Brasil, mas também elogiou a inteligência de Lula e afirmou considerá-lo “um bom homem”.\nA evolução da relação entre os dois líderes poderá ter efeitos de longo prazo sobre os mercados agrícolas, afirmou Carlos Mera, chefe de pesquisa de commodities agrícolas do Rabobank. \n— Os Estados Unidos podem impor uma série de medidas a países que consideram inimigos —acrescentou.",
-    "published": "2026-10-26T14:42:56+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Após a vitória de Lula nas eleições, que pressionou o real, melhorando as perspectivas de exportações do agronegócio brasileiro, os  contratos futuros de soja caíram ao menor nível em dois meses em Chicago, enquanto café e açúcar recuaram com força. \nLula conquistou um quarto man",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Wall Street sobe com pedido de IPO da Anthropic e alívio nos preços do petróleo",
-    "link": "https://www.moneytimes.com.br/wall-street-sobe-com-pedido-de-ipo-da-anthropic-davs/",
-    "description": "Os índices de Wall Street operam em alta no pregão desta segunda-feira (26) à medida que os investidores reagem positivamente ao pedido de IPO da Anthropic. Confira o desempenho dos índices após a abertura do pregão: O que movimenta Wall Street? Wall Street tenta recuperar as perdas da semana anterior, com alívio nos preços do [&#8230;]",
-    "published": "2026-10-26T14:42:10+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Os índices de Wall Street operam em alta no pregão desta segunda-feira (26) à medida que os investidores reagem positivamente ao pedido de IPO da Anthropic. Confira o desempenho dos índices após a abertura do pregão: O que movimenta Wall Street? Wall Street tenta recuperar as per",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Eleitores desiludidos com Netanyahu são alvo da disputa eleitoral em Israel",
-    "link": "https://valor.globo.com/mundo/noticia/2026/10/26/eleitores-desiludidos-com-netanyahu-so-alvo-da-disputa-eleitoral-em-israel.ghtml",
-    "description": "Na remota cidade de Dimona, no deserto do Neguev, há muito tempo um reduto do partido Likud, de Benjamin Netanyahu, eleitores desiludidos estão fazendo campanha de porta em porta para seu principal adversário, na esperança de derrubar o veterano primeiro-ministro na eleição de terça-feira em Israel.\nLeia também:\nPolítica de defesa será mantida em Israel com qualquer governo eleito\nEmigrantes israelenses retornam ao país para votar\nQuem são os principais rivais de Netanyahu nas eleições de Israel?\nA votação será a primeira em Israel desde o ataque surpresa do Hamas em 7 de outubro de 2023, que abalou o país e mergulhou a região em turbulência, quando Israel entrou em guerra contra o grupo militante em Gaza e seus aliados no Líbano e no Irã.\n\nA falha de segurança de 7 de outubro fez a popularidade do Likud despencar. Há meses, pesquisas de opinião preveem que a coalizão de Netanyahu, formada por partidos de direita, extrema direita e ultraortodoxos, perderá sua maioria. Mas seu principal adversário, o centrista Gadi Eisenkot, também não tem um caminho claro para chegar ao poder, e a disputa ficou mais acirrada à medida que a eleição se aproxima.\n\nDimona, onde um míssil iraniano deixou dezenas de feridos em março, tornou-se um campo de batalha político. “Precisamos de mudança. Bibi tem que sair”, disse Yossi Assayag, de 74 anos, ao mencionar Netanyahu pelo apelido. Embora tenha apoiado o Likud durante a maior parte da vida, Assayag agora considera que o premiê  “trouxe o desastre para Israel”.\n\nAssayag faz parte de um grupo de moradores da cidade que tenta convencer a comunidade a votar no partido Yashar, de Eisenkot, que está tecnicamente empatado com o Likud nas pesquisas.\n\nÉ uma tarefa difícil em Dimona, onde metade dos eleitores votou no Likud na eleição anterior, em 2022.\n\n“Nunca vou trair o Likud”, disse Ruti Ohana, uma aposentada que afirma votar no partido desde que imigrou para Israel, vinda do norte da África, há mais de 60 anos. Ela disse que Netanyahu é superior a seus adversários e que é injusto responsabilizá-lo pelo ataque de 7 de outubro, como fazem seus críticos.\n\nO Likud, de direita, formou há muito tempo uma base eleitoral central entre judeus de origem no Oriente Médio e no norte da África, conhecidos como mizrahim, que se sentiam negligenciados pelo Partido Trabalhista, de centro-esquerda e influência europeia, que dominou Israel por gerações.\n\nDesde então, o Partido Trabalhista foi reduzido a uma força política residual, à medida que a política israelense se deslocou para a direita. Atualmente, cerca de meia dúzia de outros partidos, do centro à extrema direita, disputam os eleitores do Likud. Mas o vínculo com o partido continua forte entre seus antigos apoiadores.\n\n“A maioria das pessoas aqui vota no Likud simplesmente porque foi criada assim”, disse Oria Asaf, de 25 anos, que já votou no Likud e agora apoia o Yashar. “A mudança virá quando as pessoas começarem a pensar no futuro de seus filhos, em vez de no passado de seus pais.”\n\nEmbora Netanyahu tenha um núcleo fiel de apoiadores que não pode ser conquistado, o grande prêmio são os eleitores indecisos que “entendem que estamos em uma situação de crise” e estão abertos à persuasão, disse Michal Elmalem Abu, eleita vereadora pelo Likud e que agora lidera a campanha de Eisenkot em Dimona.\n\nCerca de 13% dos eleitores israelenses ainda não decidiram em quem votar, segundo dados coletados pelo Centro Viterbi de Pesquisa de Opinião Pública e Políticas Públicas, do Instituto de Democracia de Israel.\n\nEntre os que votaram no Likud em 2022, apenas 55% afirmam agora que voltarão a votar no partido na terça-feira. Outros 15% apoiarão partidos que se opõem a Netanyahu, incluindo 8% que votarão no Yashar. Outros 14% votarão em partidos alternativos de direita, enquanto 9% estão indecisos.\n\nÉ em lugares como Dimona que Eisenkot tem a chance de conquistar uma parcela significativa da base do Likud, disse Amotz Asa-El, cientista político do Instituto Hartman.\nPessoas atravessam uma ponte sob um outdoor de campanha eleitoral com a imagem de Gadi Eisenkot, líder do partido Yashar, às vésperas das eleições gerais de Israel\nAP/Oded Balilty\n\nFilho de imigrantes marroquinos que ascendeu na carreira militar até se tornar chefe do Estado-Maior das Forças Armadas, Eisenkot, de 66 anos, tem uma história pessoal de origens humildes na comunidade mizrahi que “atrai uma grande parcela do eleitorado israelense, particularmente o eleitorado tradicional do Likud”, disse Asa-El.\n\nEm uma disputa eleitoral repleta de ex-militares, suas credenciais incomparáveis na área de segurança são um trunfo. A perda de seu filho, morto em combate em Gaza em dezembro de 2023, também sensibiliza os eleitores.\n\nDurante um encontro com moradores em uma visita a Dimona, em julho, participantes disseram estar entusiasmados com a perspectiva de um líder de origem mizrahi. Outros se aproximaram dele com abraços e condolências emocionadas pela perda do filho.\n\nMas, uma semana depois, Netanyahu realizou seu próprio evento, demonstrando seu forte apelo no Neguev, uma região de condições de vida difíceis, onde governos do Likud há muito se orgulham de ter destinado recursos para o desenvolvimento.\n\n“Olhem ao redor, olhem para sua comunidade, vejam o que havia aqui antes e o que existe agora, e perguntem a si mesmos quais governos investiram nesse esforço monumental. E faço isso por um amor imenso”, disse.\n\nLior Katzav, ex-prefeito de Kiryat Malachi pelo Likud, outro reduto do partido em uma cidade pequena, afirmou que pesquisas internas mostram que eleitores que haviam abandonado o Likud estão voltando à medida que a eleição se aproxima.\n\nMas até mesmo alguns dos que simpatizam com Netanyahu dizem que talvez tenha chegado a hora de uma mudança. O primeiro-ministro mais jovem da história de Israel quando foi eleito pela primeira vez, há 30 anos, tornou-se desde então o que permaneceu mais tempo no cargo. Agora, aos 77 anos, governou durante 18 anos, distribuídos por seis mandatos.\n\n“Está na hora de ele sair”, disse David Iskali, engenheiro de software de Dimona. “Ele fez muito por Israel, mas isso não pode continuar. Não vou dar meu voto a alguém com quase 80 anos.”\n\nO primeiro-ministro de Israel, Benjamin Netanyahu, líder do partido Likud, reage durante uma visita ao mercado Mahane Yehuda, às vésperas das eleições nacionais\nReuters/Kevin Coombs",
-    "published": "2026-10-26T14:41:38+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Na remota cidade de Dimona, no deserto do Neguev, há muito tempo um reduto do partido Likud, de Benjamin Netanyahu, eleitores desiludidos estão fazendo campanha de porta em porta para seu principal adversário, na esperança de derrubar o veterano primeiro-ministro na eleição de te",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Mau humor do mercado brasileiro castiga ações na Espanha com exposição ao Brasil",
-    "link": "https://www.infomoney.com.br/mercados/mau-humor-do-mercado-brasileiro-castiga-acoes-na-espanha-com-exposicao-ao-brasil/",
-    "description": "Ações do Santander caíam 3,72% nesta manhã, enquanto a Telefónica recuava 5,94% e a Mapfre encolhia 2%; o Índice IBEX estava em alta de 0,20%\nThe post Mau humor do mercado brasileiro castiga ações na Espanha com exposição ao Brasil appeared first on InfoMoney.",
-    "published": "2026-10-26T14:41:31+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Ações do Santander caíam 3,72% nesta manhã, enquanto a Telefónica recuava 5,94% e a Mapfre encolhia 2%; o Índice IBEX estava em alta de 0,20%\nThe post Mau humor do mercado brasileiro castiga ações na Espanha com exposição ao Brasil appeared first on InfoMoney.",
     "relevance": 5
   }
 ]
