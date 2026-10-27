@@ -1,5 +1,29 @@
 [
   {
+    "source": "Poder360",
+    "title": "Marinho vê risco de perseguição a Flávio em pedido da PF após eleição",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/marinho-ve-risco-de-perseguicao-a-flavio-em-pedido-da-pf-apos-eleicao/",
+    "description": "Senador diz que solicitação para reter passaportes foi feita 7 minutos depois da divulgação do resultado do 2º turno",
+    "published": "2026-10-27T23:00:07+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Senador diz que solicitação para reter passaportes foi feita 7 minutos depois da divulgação do resultado do 2º turno",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Trump deve explicações ao Congresso americano sobre fuga de Flávio Bolsonaro, diz deputado às vésperas de eleição nos EUA",
+    "link": "https://valor.globo.com/mundo/noticia/2026/10/27/trump-deve-explicacoes-ao-congresso-americano-sobre-fuga-de-flavio-bolsonaro-diz-deputado-as-vesperas-de-eleicao-nos-eua.ghtml",
+    "description": "O deputado democrata Joaquin Castro, membro da Comissão de Relações Exteriores da Câmara de Representantes dos Estados Unidos, afirmou que \"perder uma eleição não é motivo para asilo\", ao se referir à entrada do senador e ex-candidato Flávio Bolsonaro (PL) em solo americano.\n\n\"Mesmo assim, o governo Trump está dando refúgio a Flávio Bolsonaro nos Estados Unidos\", disse Castro, que é o principal representante democrata (ranking member) na subcomissão do Hemisfério Ocidental, nome que os americanos dão para todo o continente, incluindo a América do Sul.\n\n\"O governo Trump deve explicações ao Congresso sobre seu papel em ajudar Bolsonaro a fugir do Brasil, em violação à lei brasileira\", afirmou Castro em sua rede social.\n\nUma autoridade do governo dos Estados Unidos confirmou na tarde deste terça-feira (27) que a administração de Donald Trump irá acolher Flávio Bolsonaro e sua família no país.\n\n\"O Departamento de Estado emitirá vistos para Flavio Bolsonaro e sua família e permitirá sua entrada nos Estados Unidos\", afirmou a fonte.\n\nFlávio chegou aos EUA nesta terça depois de ter sido intimado a entregar seus passaportes comum e diplomático e proibido de deixar o país no domingo (25) devido a um processo em que é investigado por lavagem de dinheiro. Flávio perdeu a eleição presidencial para Luiz Inácio Lula da Silva (PT). \n\nSegundo a agência Reuters, uma fonte do governo americano confirmou que o senador está acompanhado da esposa e das duas filhas. Seu irmão, o ex-deputado Eduardo Bolsonaro, mora nos EUA desde 2025.\n\nAinda não há detalhes sobre como ocorreu a saída de Flávio e familiares do Brasil.\n\nNa próxima terça-feira, 3, ocorrem as eleições de meio de mandato nos EUA, e é praticamente dado como certo que os democratas conquistarão a maioria na Câmara e, talvez, até no Senado.\n\nTodos na capital Washington, democratas e republicanos, estão preparados para, no caso de um Congresso democrata, haver uma bateria de investigações sobre atuações da administração Trump. \nFlávio encontrou Trump antes da campanha eleitoral\nReprodução/Redes sociais",
+    "published": "2026-10-27T22:51:21+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O deputado democrata Joaquin Castro, membro da Comissão de Relações Exteriores da Câmara de Representantes dos Estados Unidos, afirmou que \"perder uma eleição não é motivo para asilo\", ao se referir à entrada do senador e ex-candidato Flávio Bolsonaro (PL) em solo americano.\n\n\"Me",
+    "relevance": 5
+  },
+  {
     "source": "Money Times",
     "title": "Azzas 2154 (AZZA3) diz à CVM que planos citados para Farm Rio não são projeções oficiais da companhia",
     "link": "https://www.moneytimes.com.br/azzas-2154-azza3-diz-a-cvm-que-planos-citados-para-farm-rio-nao-sao-projecoes-oficiais-da-companhia/",
@@ -15,6 +39,18 @@
     "source": "Poder360",
     "title": "Ministro do Comércio diz que asilo a Flávio não afeta negócios com EUA",
     "link": "https://www.poder360.com.br/brasil/ministro-do-comercio-diz-que-asilo-a-flavio-nao-afeta-negocios-com-eua/",
+    "description": "Márcio Elias Rosa avalia que a saída do senador do país era esperada e acredita que o governo Trump concederá asilo",
+    "published": "2026-10-27T22:46:41+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Márcio Elias Rosa avalia que a saída do senador do país era esperada e acredita que o governo Trump concederá asilo",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Ministro do Comércio diz que asilo a Flávio não afeta negócios com EUA",
+    "link": "https://www.poder360.com.br/poder-governo/ministro-do-comercio-diz-que-asilo-a-flavio-nao-afeta-negocios-com-eua/",
     "description": "Márcio Elias Rosa avalia que a saída do senador do país era esperada e acredita que o governo Trump concederá asilo",
     "published": "2026-10-27T22:46:41+00:00",
     "themes": [
@@ -390,7 +426,13 @@
       "Politica"
     ],
     "summary": "Fora do Brasil, a possível ida do senador Flávio Bolsonaro (PL) para os Estados Unidos após a derrota nas urnas neste domingo começou a ganhar espaço na mídia internacional. O filho do ex-presidente Jair Bolsonaro (PL) não entregou os passaportes à Polícia Federal (PF) no prazo d",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "NeoFeed",
+        "link": "https://neofeed.com.br/poder/a-fuga-de-flavio-bolsonaro-e-o-pragmatismo-de-trump-o-que-esta-em-jogo-para-o-brasil-segundo-celso-lafer/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -613,7 +655,13 @@
       "Politica"
     ],
     "summary": "A bancada do PT na Câmara dos Deputados decidiu apoiar a reeleição de Hugo Motta (Republicanos-PB) para a presidência da Casa, apurou o Valor. O pleito acontece em fevereiro do próximo ano.\n\nAlém do PT, Motta tem o apoio formal do PSB e do PDT à sua reeleição, assim como do bloco",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/10/27/pt-oficializa-apoio-a-motta-e-presidente-da-camara-reune-15-partidos-para-buscar-reconducao-isolando-pl.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -945,6 +993,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/10/os-bolsonaristas-que-deixaram-o-brasil-em-meio-a-investigacoes-e-condenacoes.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/10/27/de-ramagem-a-eduardo-ida-de-flavio-para-os-eua-amplia-lista-de-bolsonaristas-que-sairam-do-pais-em-meio-a-investigacoes.ghtml"
       }
     ]
   },
@@ -3901,24 +3953,6 @@
     "relevance": 5
   },
   {
-    "source": "Money Times",
-    "title": "Tesouro cancela leilão de LFT e anuncia recompra de NTN-B para 2030, 2035, 2040 e 2045",
-    "link": "https://www.moneytimes.com.br/tesouro-cancela-leilao-de-lft-e-anuncia-recompra-de-ntn-b-para-2030-2035-2040-e-2045/",
-    "description": "O Tesouro Nacional anunciou o cancelamento do leilão regular de Letras Financeiras do Tesouro (LFT), títulos indexados à Selic, programado para esta terça-feira. Em comunicado, o Tesouro também anunciou a realização de recompra de Notas do Tesouro Nacional &#8211; Série B (NTN-B) com vencimentos em 15/08/2030, 15/05/2035, 15/08/2040 e 15/05/2045. As condições para o leilão [&#8230;]",
-    "published": "2026-10-27T13:09:56+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O Tesouro Nacional anunciou o cancelamento do leilão regular de Letras Financeiras do Tesouro (LFT), títulos indexados à Selic, programado para esta terça-feira. Em comunicado, o Tesouro também anunciou a realização de recompra de Notas do Tesouro Nacional &#8211; Série B (NTN-B)",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/financas/noticia/2026/10/27/tesouro-anuncia-recompra-de-ate-4-milhoes-de-ntn-bs-para-4-vencimentos-em-leilao-extraordinario.ghtml"
-      }
-    ]
-  },
-  {
     "source": "Valor Econômico",
     "title": "Número de superendividados no Brasil cresce 75% em cinco anos, para 20,3 milhões, diz BC",
     "link": "https://valor.globo.com/financas/noticia/2026/10/27/numero-de-superendividados-no-brasil-cresce-75percent-em-cinco-anos-para-203-milhoes-diz-bc.ghtml",
@@ -4035,38 +4069,6 @@
       "XP"
     ],
     "summary": "BTG Pactual oferece cartões de crédito com benefícios e vantagens exclusivas para clientes, desde o início da sua trajetória na construção de patrimônio; confira",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Ministro da Fazenda diz que vai apresentar medidas para perseguir centro da meta fiscal e que espera 'racionalidade' do mercado",
-    "link": "https://oglobo.globo.com/economia/noticia/2026/10/27/governo-vai-apresentar-medidas-para-perseguir-centro-da-meta-fiscal-diz-ministro-da-fazenda.ghtml",
-    "description": "O ministro da Fazenda, Dario Durigan, disse nesta terça-feira que o governo vai apresentar uma medida para perseguir o centro da meta fiscal. Ele também afirmou esperar \"racionalidade\" do mercado financeiro, diante do derretimento dos ativos na véspera. \nAtualmente há uma banda de -0,25% do PIB a 0,25% — quando for necessário fazer um contingenciamento. Atualmente, essa contenção é feita observando o piso.\nA meta fiscal de 2027 é de 0,50% do Produto Interno Bruto (PIB), ou R$ 73,2 bilhões, mas o limite de tolerância inferior é positivo em R$ 36,6 bilhões. O Orçamento foi enviado ao Congresso em agosto com a previsão de superávit de R$ 83,4 bilhões em 2027 — numa conta que deduz despesas como parte dos precatórios. Considerando todos os gastos, o superávit previsto caía para R$ 18,6 bilhões.\nComo mostrou O GLOBO, a medida é vista como necessária por analistas para melhorar o resultado primário, interromper o crescimento da dívida bruta — que subiu mais de 11 pontos no governo Lula 3, para 82,9% do Produto Interno Bruto (PIB) —, e contribuir para a queda dos juros básicos da economia (Selic). \nDurante a campanha, o ministro da Fazenda disse que o governo faria a sua parte no controle das contas públicas para baixar os juros, considerado a “última milha” do ajuste fiscal. Em conjunto com o Desenrola 3.0, que pretende limpar o passivo financeiro das famílias, a equipe de Lula avalia que a queda estrutural dos juros vai permitir uma normalização do mercado de crédito.\nEm atualização.",
-    "published": "2026-10-27T12:56:34+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O ministro da Fazenda, Dario Durigan, disse nesta terça-feira que o governo vai apresentar uma medida para perseguir o centro da meta fiscal. Ele também afirmou esperar \"racionalidade\" do mercado financeiro, diante do derretimento dos ativos na véspera. \nAtualmente há uma banda d",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "G1 - Economia",
-        "link": "https://g1.globo.com/economia/noticia/2026/10/27/ministro-da-fazenda-anuncia-projeto-para-mirar-centro-da-meta-fiscal-e-diz-que-espera-racionalidade-do-mercado.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Milei ainda não reconheceu vitória de Lula e segue sem manifestação após eleição",
-    "link": "https://www.infomoney.com.br/politica/milei-ainda-nao-reconheceu-vitoria-de-lula-e-segue-sem-manifestacao-apos-eleicao/",
-    "description": "Presidente argentino apoiou Flávio Bolsonaro durante a campanha e protagonizou troca de críticas com o petista\nThe post Milei ainda não reconheceu vitória de Lula e segue sem manifestação após eleição appeared first on InfoMoney.",
-    "published": "2026-10-27T12:56:27+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Presidente argentino apoiou Flávio Bolsonaro durante a campanha e protagonizou troca de críticas com o petista\nThe post Milei ainda não reconheceu vitória de Lula e segue sem manifestação após eleição appeared first on InfoMoney.",
     "relevance": 5
   }
 ]
