@@ -14,6 +14,19 @@
   },
   {
     "source": "Poder360",
+    "title": "Fux marca audiência pública sobre bets para 3 de novembro",
+    "link": "https://www.poder360.com.br/poder-justica/fux-marca-audiencia-publica-sobre-bets-para-3-de-novembro/",
+    "description": "STF ouvirá governo, entidades, clubes de futebol e CBF em ações que discutem regras do mercado de apostas",
+    "published": "2026-10-27T00:29:36+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "STF ouvirá governo, entidades, clubes de futebol e CBF em ações que discutem regras do mercado de apostas",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
     "title": "Queda das ações atinge quase todos os setores da Bolsa",
     "link": "https://www.poder360.com.br/poder-economia/queda-das-acoes-atinge-quase-todos-os-setores-da-bolsa/",
     "description": "Varejo e construção lideram perdas; Hapvida recua 54,1%, Cosan perde 46,3% e Cyrela cai 44,7%",
@@ -2827,7 +2840,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Ibovespa caiu 16,26% no início da sessão nesta 2ª feira (26.out) depois da reeleição de Lula, segundo dados da Elos Ayta",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Economia",
+        "link": "https://g1.globo.com/economia/noticia/2026/10/26/ibovespa-desaba-reeleicao-lula-acoes-recuam.ghtml"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -3087,6 +3106,10 @@
       {
         "source": "Folha",
         "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/apos-vitoria-de-lula-dolar-fecha-na-maior-alta-diaria-desde-1999.shtml"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-economia/dolar-tem-3a-maior-alta-diaria-desde-o-plano-real/"
       }
     ]
   },
@@ -3949,18 +3972,6 @@
       "Politica"
     ],
     "summary": "Diante da reeleição do presidente Luiz Inácio Lula da Silva (PT), a perspectiva de um ajuste fiscal crível desaparece do radar dos agentes financeiros nesta segunda-feira. Isso faz com que, além do desmonte de posições, o dólar englobe prêmio de risco em seu preço e dispare perto",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Demanda por criptoativos no exterior cai 49% em setembro ante mesmo mês em 2025, diz BC",
-    "link": "https://valor.globo.com/financas/criptomoedas/noticia/2026/10/26/demanda-por-criptoativos-no-exterior-cai-49percent-em-setembro-ante-mesmo-mes-em-2025-diz-bc.ghtml",
-    "description": "A demanda por criptoativos caiu em setembro. Dados do Banco Central (BC) mostram que os investimentos nestes ativos virtuais no exterior, em especial stablecoins, somaram US$ 843 milhões, com queda de 48,95% em relação ao mesmo mês do ano passado. Em setembro de 2025, havia totalizado US$ 1,651 bilhão.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-10-26T14:47:06+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "A demanda por criptoativos caiu em setembro. Dados do Banco Central (BC) mostram que os investimentos nestes ativos virtuais no exterior, em especial stablecoins, somaram US$ 843 milhões, com queda de 48,95% em relação ao mesmo mês do ano passado. Em setembro de 2025, havia total",
     "relevance": 5
   }
 ]
