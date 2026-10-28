@@ -1,5 +1,17 @@
 [
   {
+    "source": "Folha",
+    "title": "MPF arquiva denúncia de Nikolas Ferreira contra redator da lei das bets",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/10/mpf-arquiva-denuncia-de-nikolas-ferreira-contra-redator-da-lei-das-bets.shtml",
+    "description": "O deputado federal Nikolas Ferreira (PL-MG) pediu que o Ministério Público Federal investigasse o advogado José Francisco Manssur, principal autor da lei que regulamentou as apostas online no Brasil, por um possível conflito de interesse em sua saída do Ministério da Fazenda, mas a representação foi arquivada na última segunda-feira (26).\nLeia mais (10/27/2026 - 23h34)",
+    "published": "2026-10-28T02:34:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O deputado federal Nikolas Ferreira (PL-MG) pediu que o Ministério Público Federal investigasse o advogado José Francisco Manssur, principal autor da lei que regulamentou as apostas online no Brasil, por um possível conflito de interesse em sua saída do Ministério da Fazenda, mas",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Empresários dizem que vão demitir funcionários que votaram em Lula",
     "link": "https://www.poder360.com.br/poder-eleicoes-2026/empresarios-dizem-que-vao-demitir-funcionarios-que-votaram-em-lula/",
@@ -549,7 +561,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/noticia/2026/10/27/cvm-condena-nestor-cervero-ex-petrobras-no-caso-pasadena.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -4012,18 +4030,5 @@
         "link": "https://www.infomoney.com.br/politica/lula-se-reune-com-ministro-da-defesa-que-nao-deve-permanecer-em-novo-governo/"
       }
     ]
-  },
-  {
-    "source": "InfoMoney",
-    "title": "PGR pede urgência ao STF para analisar delação que pode localizar R$ 20 bi de Vorcaro",
-    "link": "https://www.infomoney.com.br/politica/pgr-pede-urgencia-ao-stf-para-analisar-delacao-que-pode-localizar-r-20-bi-de-vorcaro/",
-    "description": "Acordo com fundador da Reag aguarda aval judicial desde setembro\nThe post PGR pede urgência ao STF para analisar delação que pode localizar R$ 20 bi de Vorcaro appeared first on InfoMoney.",
-    "published": "2026-10-27T13:37:14+00:00",
-    "themes": [
-      "Politica",
-      "XP"
-    ],
-    "summary": "Acordo com fundador da Reag aguarda aval judicial desde setembro\nThe post PGR pede urgência ao STF para analisar delação que pode localizar R$ 20 bi de Vorcaro appeared first on InfoMoney.",
-    "relevance": 5
   }
 ]
