@@ -1,6 +1,30 @@
 [
   {
     "source": "Poder360",
+    "title": "Marinho diz esperar que Trump não interfira na política brasileira",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/marinho-diz-esperar-que-trump-nao-interfira-na-politica-brasileira/",
+    "description": "Senador declarou que presidente dos EUA tem direito de opinar sobre política externa, mas defendeu que brasileiros resolvam os assuntos internos",
+    "published": "2026-10-29T02:56:32+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Senador declarou que presidente dos EUA tem direito de opinar sobre política externa, mas defendeu que brasileiros resolvam os assuntos internos",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Coligação de Lula diz que Flávio fugiu para não enfrentar Justiça",
+    "link": "https://www.poder360.com.br/poder-governo/coligacao-de-lula-diz-que-flavio-fugiu-para-nao-enfrentar-justica/",
+    "description": "Senador fugiu para os EUA 2 dias depois de perder as eleições presidenciais; nesta 4ª feira (28.out), declarou-se “líder do Brasil”",
+    "published": "2026-10-29T02:53:41+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Senador fugiu para os EUA 2 dias depois de perder as eleições presidenciais; nesta 4ª feira (28.out), declarou-se “líder do Brasil”",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
     "title": "Leia o relatório da PF com o indiciamento de Vorcaro e mais 14",
     "link": "https://www.poder360.com.br/poder-justica/leia-o-relatorio-da-pf-com-o-indiciamento-de-vorcaro-e-mais-14/",
     "description": "Vorcaro foi indiciado por suspeitas de gestão fraudulenta de instituição financeira, crimes relacionados a organização criminosa e lavagem de dinheiro",
@@ -9,6 +33,18 @@
       "XP"
     ],
     "summary": "Vorcaro foi indiciado por suspeitas de gestão fraudulenta de instituição financeira, crimes relacionados a organização criminosa e lavagem de dinheiro",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Vazam dados de 41 mil funcionários do governo dos EUA após ciberataque, diz coletivo",
+    "link": "https://oglobo.globo.com/mundo/noticia/2026/10/28/vazam-dados-de-41-mil-funcionarios-do-governo-dos-eua-apos-ciberataque-diz-coletivo.ghtml",
+    "description": "Uma organização sem fins lucrativos dedicada à divulgação de informações digitais afirmou, nesta quarta-feira, ter publicado dados de mais de 41 mil funcionários do Departamento de Segurança Interna dos Estados Unidos (DHS), incluindo servidores envolvidos nas medidas de controle migratório do presidente Donald Trump. A Distributed Denial of Secrets (DDoSecrets) disse que obteve as informações sensíveis de um grupo hacktivista conhecido como Departamento de Paz, que criou uma ferramenta chamada \"Icepick\" para pesquisar nomes de funcionários, escritórios e funções.\nLeia também: Austrália alerta sobre ameaça cibernética 'sem precedentes' da IA\nSaúde mental: Meta e Snapchat enfrentam julgamento nos EUA em caso sobre vício em redes sociais entre jovens\n\"Esse conjunto de dados é enorme tanto em tamanho quanto em impacto\", declarou Maia Arson Crimew, ativista ligada ao grupo, em comunicado divulgado pela DDoSecrets. \"Ele oferece uma visão sem precedentes da estrutura organizacional do Departamento de Segurança Interna, destacando quais pessoas realizam quais funções em várias agências do DHS, incluindo o ICE\", a polícia migratória dos EUA, acrescentou.\nEmma Best, cofundadora da DDoSecrets, classificou o vazamento como \"extraordinário\". O DHS e o Serviço de Imigração e Controle de Alfândegas dos Estados Unidos (ICE) estão no centro da ofensiva contra a imigração irregular determinada por Trump no início de seu segundo mandato, em janeiro de 2025. A campanha resultou na detenção e deportação de milhares de imigrantes em situação irregular.\nO Instituto de Política Migratória afirmou que o DHS ampliou suas prisões e deportações nos últimos meses, superando os esforços de aplicação das leis de imigração realizados durante o governo de seu antecessor, Joe Biden. Segundo o instituto, o DHS, incluindo o ICE, realizou cerca de 980 mil deportações nos primeiros 18 meses do segundo mandato presidencial de Trump.",
+    "published": "2026-10-29T02:21:29+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Uma organização sem fins lucrativos dedicada à divulgação de informações digitais afirmou, nesta quarta-feira, ter publicado dados de mais de 41 mil funcionários do Departamento de Segurança Interna dos Estados Unidos (DHS), incluindo servidores envolvidos nas medidas de controle",
     "relevance": 5
   },
   {
@@ -902,6 +938,10 @@
       {
         "source": "Valor Econômico",
         "link": "https://valor.globo.com/politica/noticia/2026/10/28/apesar-de-flavio-bolsonaro-pl-vice-e-aliados-reconheceram-vitoria-de-lula-pt-chama-senador-de-guaido-tupiniquim.ghtml"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-eleicoes-2026/comissao-internacional-de-bispos-questiona-vitoria-de-lula/"
       }
     ]
   },
@@ -3383,19 +3423,6 @@
     "relevance": 5
   },
   {
-    "source": "O Globo",
-    "title": "Reforma Tributária: alíquota de 11,3% para CBS abre disputa política e será decisiva para ajuste fiscal do governo",
-    "link": "https://oglobo.globo.com/economia/fabio-graner/noticia/2026/10/28/reforma-tributaria-aliquota-de-113percent-para-cbs-abre-disputa-politica-e-sera-decisiva-para-ajuste-fiscal-do-governo.ghtml",
-    "description": "A alíquota de referência da Contribuição sobre Bens e Serviços (CBS) fixada pelo Tribunal de Contas da União (TCU), de 11,3%, foi considerada elevada por integrantes do setor privado e fontes do Senado ouvidas sobre o tema. Na avaliação da área econômica do governo, porém, o percentual está dentro da faixa que os técnicos vinha trabalhando e parece mais alinhado às projeções de arrecadação do governo e à necessidade de equilíbrio das contas públicas, embora ainda haja pontos em aberto.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-10-28T16:06:23+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "A alíquota de referência da Contribuição sobre Bens e Serviços (CBS) fixada pelo Tribunal de Contas da União (TCU), de 11,3%, foi considerada elevada por integrantes do setor privado e fontes do Senado ouvidas sobre o tema. Na avaliação da área econômica do governo, porém, o perc",
-    "relevance": 5
-  },
-  {
     "source": "Valor Econômico",
     "title": "Por trás da queda contínua da bolsa, um ajuste incompleto dos investidores locais",
     "link": "https://valor.globo.com/financas/intraday/post/2026/10/por-tras-da-queda-continua-da-bolsa-um-ajuste-incompleto-dos-investidores-locais.ghtml",
@@ -3968,30 +3995,6 @@
       "Politica"
     ],
     "summary": "Os preços globais das commodities devem disparar 23% em 2026, informou o Banco Mundial nesta quarta-feira (28), citando a alta dos preços da energia e as interrupções no transporte marítimo de cargas durante a guerra no Oriente Médio, problemas no embarque de grãos no Mar Negro e",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Economia",
-    "title": "Projeto de lei quer deixar que candidato leve instrutor de sua escolha para exame da CNH",
-    "link": "https://g1.globo.com/carros/noticia/2026/10/28/projeto-de-lei-quer-deixar-que-candidato-leve-instrutor-de-sua-escolha-para-exame-da-cnh.ghtml",
-    "description": "Carro de autoescola\nLia de Paula/Agência Senado\nProjeto de lei aprovado nesta quarta-feira (28) na Comissão de Viação e Transportes da Câmara dos Deputados quer permitir que o candidato leve um instrutor de sua própria escolha para acompanhar o exame prático da Carteira Nacional de Habilitação (CNH).\nO texto prevê que o profissional seja credenciado junto ao órgão de trânsito estadual, do Distrito Federal ou à Secretaria Nacional de Trânsito (Senatran). Para virar lei, o projeto ainda precisa ser votado no Congresso e ser sancionado.\n✅ Clique aqui para seguir o canal do g1 Carros no WhatsApp\nA proposta tem autoria da deputada Adriana Ventura (Novo-SP). O relator na comissão, deputado Flávio Nogueira (PT-PI), recomendou a aprovação do texto com mudanças.\nO substitutivo apresentado pelo relator restringe o acompanhamento a instrutores credenciados, que poderão ou não pertencer à entidade responsável pela formação do candidato. A lotação do veículo também deverá ser respeitada.\nAgora no g1\nNa proposta, o profissional não poderá fazer comentários, gestos ou qualquer intervenção que interfira na realização da prova. Caso descumpra essa regra, o exame poderá ser invalidado.\nA versão original do projeto, apresentada pela deputada, permitia que o candidato escolhesse qualquer pessoa para acompanhá-lo e previa a gravação de áudio e vídeo durante toda a avaliação. O relator retirou essa possibilidade do texto.\nSuspeita de fraude\nNa justificativa, a parlamentar relatou um caso de suspeita de fraude no processo de concessão da habilitação e manifestou preocupação com possíveis irregularidades envolvendo examinadores dos departamentos estaduais de trânsito (Detrans) e autoescolas.\nA autora descreveu o problema como “a associação entre servidores/examinadores do DETRAN e autoescolas que apostam na reprovação a fim de vender carteiras em troca de pagamento de propinas”.\nFlávio Nogueira considera que a presença de uma pessoa de confiança pode ajudar a acompanhar a regularidade do exame, que é um procedimento da administração pública e deve observar princípios como transparência e eficiência.\n\"Dessa forma, o indivíduo avaliado terá mais segurança durante o seu exame de direção, visto que um terceiro poderá acompanhar e fiscalizar, evitando assim que haja coação para pagamento de propinas\", diz o texto do projeto.\nPor outro lado, o deputado apontou no voto que a prova prática exige atenção especial porque o candidato ainda não tem habilitação para dirigir.\nFim da baliza e carro automático liberado: entenda as mudanças do Detran de SP no teste de prova prática para tirar CNH\nReprodução/TV Globo\nNa avaliação dele, a presença de alguém sem conhecimento técnico pode prejudicar a concentração do examinador e do candidato, com possíveis consequências para a segurança dos ocupantes do veículo e dos demais usuários da via.\nPor isso, o relator defende que apenas instrutores credenciados possam acompanhar o exame. Segundo ele, esses profissionais têm treinamento específico e experiência no atendimento a candidatos à habilitação.\nNogueira também rejeitou a gravação de áudio e vídeo. Para o deputado, eventuais irregularidades devem ser investigadas pelos meios adequados, sem que pessoas sem conhecimento técnico façam avaliações que possam resultar em acusações infundadas contra examinadores.\nO relator argumenta ainda que a exposição desses profissionais deve respeitar o direito ao contraditório e à ampla defesa.\nA proposta deve avançar para a Comissão de Constituição e Justiça e de Cidadania, responsável pela análise de constitucionalidade, juridicidade e técnica legislativa.",
-    "published": "2026-10-28T14:08:58+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Carro de autoescola\nLia de Paula/Agência Senado\nProjeto de lei aprovado nesta quarta-feira (28) na Comissão de Viação e Transportes da Câmara dos Deputados quer permitir que o candidato leve um instrutor de sua própria escolha para acompanhar o exame prático da Carteira Nacional ",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Câmbio ajuda e busca de argentinos por pacotes turísticos no Brasil cresce 40%",
-    "link": "https://www.infomoney.com.br/economia/cambio-ajuda-e-busca-de-argentinos-por-pacotes-turisticos-no-brasil-cresce-40/",
-    "description": "Perda de valor da moeda brasileira ante o dólar favorece o bolso dos turistas do país vizinho; até agosto, 2,2 milhões de argentinos entraram no Brasil, especialmente entre janeiro e março \nThe post Câmbio ajuda e busca de argentinos por pacotes turísticos no Brasil cresce 40% appeared first on InfoMoney.",
-    "published": "2026-10-28T14:04:40+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Perda de valor da moeda brasileira ante o dólar favorece o bolso dos turistas do país vizinho; até agosto, 2,2 milhões de argentinos entraram no Brasil, especialmente entre janeiro e março \nThe post Câmbio ajuda e busca de argentinos por pacotes turísticos no Brasil cresce 40% ap",
     "relevance": 5
   }
 ]
