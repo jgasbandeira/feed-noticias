@@ -1,6 +1,43 @@
 [
   {
     "source": "InfoMoney",
+    "title": "Juros disparam após eleição: quanto R$ 10 mil no Tesouro podem render ou encolher",
+    "link": "https://www.infomoney.com.br/onde-investir/juros-disparam-apos-eleicao-quanto-r-10-mil-no-tesouro-podem-render-ou-encolher/",
+    "description": "Quem comprou o Prefixado 2029 antes do segundo turno e vendeu durante o pânico da segunda-feira perdeu R$ 458; simulação mostra cenários para os próximos seis meses \nThe post Juros disparam após eleição: quanto R$ 10 mil no Tesouro podem render ou encolher appeared first on InfoMoney.",
+    "published": "2026-10-30T09:00:00+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Quem comprou o Prefixado 2029 antes do segundo turno e vendeu durante o pânico da segunda-feira perdeu R$ 458; simulação mostra cenários para os próximos seis meses \nThe post Juros disparam após eleição: quanto R$ 10 mil no Tesouro podem render ou encolher appeared first on InfoM",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Lula empodera Edinho para tratar das alianças partidárias para o quarto mandato",
+    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/10/lula-empodera-edinho-para-tratar-das-aliancas-para-o-quarto-mandato.ghtml",
+    "description": "Da reunião comandada por Lula na tarde de terça-feira no Palácio do Planalto com Rui Costa, Rafael Fonteles, Camilo Santana, Fernando Haddad e Edinho Silva para começar a montar o novo governo, a única decisão concreta foi: empoderar o presidente do PT para começar a conversas com as lideranças partidárias a fim de saber quem poderá compor a base parlamentar do Lula 4. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-10-30T08:33:32+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Da reunião comandada por Lula na tarde de terça-feira no Palácio do Planalto com Rui Costa, Rafael Fonteles, Camilo Santana, Fernando Haddad e Edinho Silva para começar a montar o novo governo, a única decisão concreta foi: empoderar o presidente do PT para começar a conversas co",
+    "relevance": 5
+  },
+  {
+    "source": "Estadão",
+    "title": "Balança comercial resiste a choques externos e caminha para 2º maior superávit da história",
+    "link": "https://www.estadao.com.br/economia/balanca-comercial-resiste-a-choques-externos-e-caminha-para-2-maior-superavit-da-historia/",
+    "description": "",
+    "published": "2026-10-30T08:30:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Balança comercial resiste a choques externos e caminha para 2º maior superávit da história",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
     "title": "Viraram pechinchas? ITUB3 e ALPA4 testam suportes; MGLU3 e VAMO3 pressionadas",
     "link": "https://www.infomoney.com.br/mercados/viraram-pechinchas-itub3-e-alpa4-testam-suportes-mglu3-e-vamo3-pressionadas/",
     "description": "Analista da XP vê Itaú e Alpargatas em regiões que podem favorecer reação, enquanto Magazine Luiza e Vamos ainda mantêm configuração técnica negativa\nThe post Viraram pechinchas? ITUB3 e ALPA4 testam suportes; MGLU3 e VAMO3 pressionadas appeared first on InfoMoney.",
@@ -542,6 +579,18 @@
     "relevance": 5
   },
   {
+    "source": "Valor Econômico",
+    "title": "STF começa a julgar tempo de contribuição de mulheres na previdência complementar",
+    "link": "https://valor.globo.com/legislacao/noticia/2026/10/30/stf-comeca-a-julgar-tempo-de-contribuicao-de-mulheres-na-previdencia-complementar.ghtml",
+    "description": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-10-30T08:00:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Cúpula do PL tenta convencer Flávio a abandonar discurso de fraude e teme novas declarações nos EUA",
     "link": "https://oglobo.globo.com/politica/noticia/2026/10/30/cupula-do-pl-tenta-convencer-flavio-a-abandonar-discurso-de-fraude-e-teme-novas-declaracoes-nos-eua.ghtml",
@@ -940,7 +989,13 @@
       "Politica"
     ],
     "summary": "O Banco do Japão (BoJ) manteve sua taxa básica de juros em 1,25% ao ano nesta sexta-feira, ao mesmo tempo em que elevou sua projeção de inflação para 2027.\n\nComo amplamente esperado pelo mercado, o banco central manteve inalterada sua taxa de empréstimos interbancários de curtíss",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-economia/banco-do-japao-mantem-taxa-basica-de-juros-em-125/"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
@@ -1556,6 +1611,10 @@
       {
         "source": "G1 - Economia",
         "link": "https://g1.globo.com/economia/noticia/2026/10/30/maior-plataforma-de-criptomoedas-do-mundo-suspende-saques-e-depositos-apos-possivel-ataque-hacker.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/noticia/2026/10/30/binance-o-que-se-sabe-sobre-ataque-hacker-bilionario-contra-gigante-das-criptomoedas.ghtml"
       }
     ]
   },
@@ -2375,7 +2434,13 @@
       "Mercado Financeiro"
     ],
     "summary": "As bolsas americanas encerraram esta quinta-feira em queda, sobretudo o índice Nasdaq, pressionadas pelos ajustes de posições nos setores de tecnologia e comunicação. O gatilho para o movimento foi o resultado trimestral da Alphabet, que mostrou lucros abaixo do esperado e indico",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/mercados/nasdaq-futuro-recua-2-apos-resultados-decepcionantes-de-amazon-e-intel/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3374,18 +3439,6 @@
     "relevance": 5
   },
   {
-    "source": "Money Times",
-    "title": "Dívida bruta brasileira atinge 82,93% do PIB em setembro, maior nível em mais de cinco anos",
-    "link": "https://www.moneytimes.com.br/divida-bruta-brasileira-atinge-8293-do-pib-em-setembro-maior-nivel-em-mais-de-cinco-anos-jcav/",
-    "description": "A dívida bruta do Brasil ficou em 82,93% do Produto Interno Bruto (PIB) em setembro, ligeiramente acima do patamar de 82,87% registrado em agosto, alcançando o maior nível em mais de cinco anos, conforme dados do Banco Central divulgados nesta quinta-feira. O desempenho reflete pressão de gastos do governo com juros sobre o endividamento, enquanto [&#8230;]",
-    "published": "2026-10-29T18:47:19+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "A dívida bruta do Brasil ficou em 82,93% do Produto Interno Bruto (PIB) em setembro, ligeiramente acima do patamar de 82,87% registrado em agosto, alcançando o maior nível em mais de cinco anos, conforme dados do Banco Central divulgados nesta quinta-feira. O desempenho reflete p",
-    "relevance": 5
-  },
-  {
     "source": "Valor Econômico",
     "title": "Em áudio ao canal de Janones, Lula agradece por voto e promete pronunciamento na semana que vem",
     "link": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/29/em-audio-ao-canal-de-janones-lula-agradece-por-voto-e-promete-pronunciamento-na-semana-que-vem.ghtml",
@@ -3818,43 +3871,6 @@
       "Mercado Financeiro"
     ],
     "summary": "A presidente interina da Venezuela, Delcy Rodríguez, afirmou nesta quinta-feira que o governo avançou na identificação de ativos estatais a serem oferecidos ao setor privado e aos antigos proprietários, uma medida que poderia reverter as nacionalizações generalizadas ordenadas pe",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Helicóptero militar italiano cai na Bósnia; agência aponta três mortes",
-    "link": "https://oglobo.globo.com/mundo/noticia/2026/10/29/helicoptero-militar-italiano-cai-na-bosnia-agencia-aponta-tres-mortes.ghtml",
-    "description": "Um helicóptero militar italiano caiu nesta quinta-feira na Bósnia e Herzegovina durante uma operação da missão de paz da União Europeia (EUFOR). Segundo informações da agência italiana ANSA, o prefeito de Brčko, Siniša Milić, informou que três pessoas morreram e outras 12 ficaram feridas. As circunstâncias do acidente ainda são investigadas, e as autoridades não confirmaram a identidade nem a nacionalidade das vítimas.\nA aeronave, um modelo CH-47, participava da Operação EUFOR Althea, missão internacional que atua no país. O acidente ocorreu nas proximidades da cidade de Gorica, no distrito de Brčko, perto da fronteira com a Sérvia.\nEquipes de resgate foram mobilizadas imediatamente após a queda, segundo o Ministério da Defesa da Itália. Em comunicado, a pasta afirmou que ainda não poderia fornecer informações adicionais, especialmente sobre o estado de saúde dos militares que estavam a bordo.\nDe acordo com a ANSA, Milić confirmou à agência que os feridos foram atendidos em um hospital de Brčko.\n— Três pessoas morreram e 12 ficaram feridas. Todos foram atendidos em um hospital de Brčko. As equipes médicas permanecem em estado de alerta — afirmou o prefeito.\nApesar das informações divulgadas pelo prefeito, ainda não está claro se as três mortes correspondem aos ocupantes da aeronave. Relatos não oficiais indicam que todos os três tripulantes teriam morrido na queda, mas a informação não foi confirmada pelas autoridades.\nEm nota, a EUFOR informou que iniciou uma investigação completa sobre o acidente e que divulgará novas informações quando os fatos forem esclarecidos e houver condições para torná-las públicas. A missão também pediu que a população evite disseminar informações não verificadas e acompanhe as atualizações pelos canais oficiais.\nA Itália ocupa atualmente o comando da missão militar da União Europeia na Bósnia e Herzegovina. As causas da queda ainda são desconhecidas.",
-    "published": "2026-10-29T17:36:24+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Um helicóptero militar italiano caiu nesta quinta-feira na Bósnia e Herzegovina durante uma operação da missão de paz da União Europeia (EUFOR). Segundo informações da agência italiana ANSA, o prefeito de Brčko, Siniša Milić, informou que três pessoas morreram e outras 12 ficaram",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Os dois pragmáticos que lideram a disputa pela presidência do BCE",
-    "link": "https://valor.globo.com/financas/noticia/2026/10/29/os-dois-pragmaticos-que-lideram-a-disputa-pela-presidencia-do-bce.ghtml",
-    "description": "A disputa para definir o próximo presidente do Banco Central Europeu (BCE) resume-se, no momento, a um embate entre dois pragmáticos da área de bancos centrais — um do norte e outro do sul da Europa —, ambos demonstrando disposição para rever convicções de longa data sobre política monetária.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-10-29T17:31:45+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "A disputa para definir o próximo presidente do Banco Central Europeu (BCE) resume-se, no momento, a um embate entre dois pragmáticos da área de bancos centrais — um do norte e outro do sul da Europa —, ambos demonstrando disposição para rever convicções de longa data sobre políti",
-    "relevance": 5
-  },
-  {
-    "source": "Bloomberg Línea",
-    "title": "JHSF do Nordeste? Hotel de grife ajuda a vender casas de luxo no Ceará, diz ex-XP",
-    "link": "https://www.bloomberglinea.com.br/negocios/jhsf-do-nordeste-hotel-de-grife-ajuda-a-vender-casas-de-luxo-no-ceara-diz-ex-xp/",
-    "description": "Grupo Carnaúba, de Julio Capua, apresenta 24 residências com serviço Anantara no Preá e vê na paulistana dona do Fasano um modelo; aeroporto sob gestão da Fraport e data center do TikTok compõem o cenário da expansão",
-    "published": "2026-10-29T17:28:53+00:00",
-    "themes": [
-      "XP"
-    ],
-    "summary": "Grupo Carnaúba, de Julio Capua, apresenta 24 residências com serviço Anantara no Preá e vê na paulistana dona do Fasano um modelo; aeroporto sob gestão da Fraport e data center do TikTok compõem o cenário da expansão",
     "relevance": 5
   }
 ]
