@@ -639,7 +639,13 @@
       "Asset"
     ],
     "summary": "Um suposto ataque hacker, que afetou bilhões de dólares em fundos na corretora de criptomoedas Binance, levou ao congelamento emergencial de ativos e provocou uma queda acentuada no preço de ativos digitais. Executivos da maior plataforma de negociação de criptomoedas do mundo in",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Economia",
+        "link": "https://g1.globo.com/economia/noticia/2026/10/30/maior-plataforma-de-criptomoedas-do-mundo-suspende-saques-e-depositos-apos-possivel-ataque-hacker.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
