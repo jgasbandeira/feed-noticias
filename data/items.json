@@ -1,6 +1,67 @@
 [
   {
     "source": "Poder360",
+    "title": "Vorcaro culpa investigação por crise no BRB e nega prejuízo",
+    "link": "https://www.poder360.com.br/poder-justica/vorcaro-culpa-investigacao-por-crise-no-brb-e-nega-prejuizo/",
+    "description": "Ex-banqueiro afirma em depoimento que liquidação e sua prisão provocaram perda de credibilidade e saques bilionários no BRB",
+    "published": "2026-10-30T02:24:34+00:00",
+    "themes": [
+      "XP"
+    ],
+    "summary": "Ex-banqueiro afirma em depoimento que liquidação e sua prisão provocaram perda de credibilidade e saques bilionários no BRB",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Alíquota da reforma tributária mostra de forma crua uma carga que o Brasil não conseguia ver",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/aliquota-da-reforma-tributaria-mostra-de-forma-crua-uma-carga-que-o-brasil-nao-conseguia-ver.shtml",
+    "description": "Após o resultado das eleições presidenciais, o Brasil ficou sabendo da alíquota de 11,3% da CBS (Contribuição sobre Bens e Serviços), sugerida pelo TCU (Tribunal de Contas da União), órgão auxiliar do Legislativo incumbido de fazer os cálculos da reforma tributária.\nLeia mais (10/29/2026 - 23h00)",
+    "published": "2026-10-30T02:00:00+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Após o resultado das eleições presidenciais, o Brasil ficou sabendo da alíquota de 11,3% da CBS (Contribuição sobre Bens e Serviços), sugerida pelo TCU (Tribunal de Contas da União), órgão auxiliar do Legislativo incumbido de fazer os cálculos da reforma tributária.\nLeia mais (10",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Bancos privados aumentam taxas do crédito da casa própria em resposta à alta nos juros futuros",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/10/bancos-privados-aumentam-taxas-do-credito-da-casa-propria-em-resposta-a-alta-nos-juros-futuros.shtml",
+    "description": "Depois de pequenas reduções entre o fim de 2025 e o início de 2026, as taxas do financiamento imobiliário voltam a subir nos bancos privados, em razão da disparada nos juros futuros. Nesta última semana de outubro, Bradesco, Itaú e Santander anunciam reajustes nos percentuais cobrados pelos empréstimos para a compra da casa própria.\nLeia mais (10/29/2026 - 23h00)",
+    "published": "2026-10-30T02:00:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Depois de pequenas reduções entre o fim de 2025 e o início de 2026, as taxas do financiamento imobiliário voltam a subir nos bancos privados, em razão da disparada nos juros futuros. Nesta última semana de outubro, Bradesco, Itaú e Santander anunciam reajustes nos percentuais cob",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Tamanho do ajuste nas contas públicas gera impasse no governo Lula, e equipe discute medidas",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/tamanho-do-ajuste-nas-contas-publicas-gera-impasse-no-governo-lula-e-equipe-discute-medidas.shtml",
+    "description": "A extensão das medidas de ajuste fiscal após a reeleição do presidente Luiz Inácio Lula da Silva (PT) abriu um impasse dentro do governo, uma vez que o chefe do Executivo demonstra resistência em propor medidas mais robustas e que poderiam configurar um estelionato eleitoral.\nLeia mais (10/29/2026 - 23h00)",
+    "published": "2026-10-30T02:00:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "A extensão das medidas de ajuste fiscal após a reeleição do presidente Luiz Inácio Lula da Silva (PT) abriu um impasse dentro do governo, uma vez que o chefe do Executivo demonstra resistência em propor medidas mais robustas e que poderiam configurar um estelionato eleitoral.\nLei",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Nova contribuição da reforma tributária, CBS terá alíquota de 11,3% com carga efetiva de 8,5%; tire dúvidas",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/nova-contribuicao-da-reforma-tributaria-cbs-tera-aliquota-de-113-com-carga-efetiva-de-85-tire-duvidas.shtml",
+    "description": "A alíquota de 11,3% para a CBS (Contribuição sobre Bens e Serviços) calculada pelo TCU (Tribunal de Contas da União) ainda é um número preliminar, que poderá ser alterado pelo Senado até dezembro.\nLeia mais (10/29/2026 - 23h00)",
+    "published": "2026-10-30T02:00:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "A alíquota de 11,3% para a CBS (Contribuição sobre Bens e Serviços) calculada pelo TCU (Tribunal de Contas da União) ainda é um número preliminar, que poderá ser alterado pelo Senado até dezembro.\nLeia mais (10/29/2026 - 23h00)",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
     "title": "Vorcaro diz que seu celular virou uma “maldição”",
     "link": "https://www.poder360.com.br/poder-justica/vorcaro-diz-que-seu-celular-virou-uma-maldicao/",
     "description": "Fundador do Banco Master disse que mensagens extraídas do aparelho foram descontextualizadas na investigação",
@@ -3314,6 +3375,10 @@
       {
         "source": "Poder360",
         "link": "https://www.poder360.com.br/poder-eleicoes-2026/mpt-processa-meta-em-r-50-milhoes-por-posts-de-assedio-eleitoral/"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/noticia/2026/10/29/justica-determina-que-meta-remova-posts-de-assedio-eleitoral.ghtml"
       }
     ]
   },
@@ -3863,70 +3928,6 @@
       "Mercado Financeiro"
     ],
     "summary": "O presidente Luiz Inácio Lula da Silva (PT) chamou o deputado federal André Janones (Rede-MG) para uma reunião nesta quinta-feira, em Brasília. O encontro está previsto para ocorrer no horário do almoço, no Palácio da Alvorada.\nJanones foi um dos principais nomes da estratégia de",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Bolsa em queda: 34 ações atingem a mínima do ano após 2º turno; 12 tombam mais de 40%",
-    "link": "https://www.moneytimes.com.br/bolsa-em-queda-34-acoes-atingem-a-minima-do-ano-apos-2o-turno-12-tombam-mais-de-40/",
-    "description": "O segundo turno das eleições presidenciais de 2026 foi seguido por um movimento expressivo de desvalorização em parte do mercado acionário brasileiro. Levantamento da Elos Ayta, realizado com 148 ações pertencentes às carteiras teóricas do Ibovespa, do Índice Dividendos (IDIV) e do Índice Small Cap (SMLL), identificou que 34 papéis, equivalentes a 22,97% do universo [&#8230;]",
-    "published": "2026-10-29T14:32:03+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O segundo turno das eleições presidenciais de 2026 foi seguido por um movimento expressivo de desvalorização em parte do mercado acionário brasileiro. Levantamento da Elos Ayta, realizado com 148 ações pertencentes às carteiras teóricas do Ibovespa, do Índice Dividendos (IDIV) e ",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Imprensa internacional repercute carta de Flávio Bolsonaro com teor golpista",
-    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/29/imprensa-internacional-repercute-carta-de-flavio-bolsonaro-com-teor-golpista.ghtml",
-    "description": "Após a derrota no segundo turno das eleições, Flávio Bolsonaro (PL) fugiu para os Estados Unidos. A saída do Brasil aconteceu em etapas, e o senador só desembarcou efetivamente em Miami nesta quarta-feira. Além da fuga, Flávio também publicou uma carta com teor golpista na qual se autoproclama “o verdadeiro presidente” do país e afirmava, sem provas, que o processo eleitoral havia sido fraudado. A manifestação por escrito, que teve pelo menos três versões, foi repercutida por veículos de imprensa de vários países, principalmente na Argentina, por onde Flávio passou antes de chegar aos Estados Unidos, destino do ex-candidato à Presidência.\nThiago Prado: Flávio Bolsonaro rasga a fantasia de moderado após meses de família margarina na campanha e na TV\nEUA: Trump diz que não vai se 'envolver' após Flávio afirmar em carta golpista que é o 'verdadeiro presidente' do Brasil\nNo New York Times, dos Estados Unidos, a chegada de Flávio foi parar na capa da edição desta quinta-feira. Na parte central da capa, uma foto do senador e de sua família descendo do jatinho foi acompanhada da seguinte legenda: “Candidato brasileiro derrotado desembarca nos Estados Unidos: Flávio Bolsonaro, que teve o passaporte cancelado, chegou a Miami com a família nesta quarta-feira”.\nCapa do New York Times desta quinta deu destaque a Flávio Bolsonaro\nReprodução/New Tork Times\nO filho de Jair Bolsonaro também ganhou uma reportagem própria na edição desta quinta-feira. Nela, o Times aborda a viagem e destaca a carta em que o senador se autoproclama presidente da República. Segundo o jornal, o Departamento de Estado americano planeja emitir vistos que permitirão a entrada legal de Flávio e de sua família no país.\nNo texto, o periódico afirma que a assistência americana à viagem de Flávio pode interferir nas relações entre Brasil e Estados Unidos. “A assistência do governo dos EUA a Flávio pode aumentar as tensões entre a administração Trump e o presidente do Brasil, Luiz Inácio Lula da Silva (PT), que acusou o presidente Trump de interferir nos assuntos internos de seu país”, diz o texto.\nA agência de notícias Reuters também deu destaque à viagem. Ao abordar a carta, em reportagem publicada nesta quarta-feira, a agência lembrou que a vitória de Lula foi reconhecida pelo Tribunal Superior Eleitoral (TSE), por líderes mundiais, por observadores internacionais e pelo próprio partido de Bolsonaro.\n“A eleição no Brasil ocorreu em total conformidade com as exigências legais e constitucionais, disse o chefe da autoridade eleitoral, Kassio Nunes Marques, em um comunicado, sem fazer referência à carta de Bolsonaro”, também escreveu a Reuters.\nO britânico The Guardian, ao comentar a carta, lembrou o termo usado pelo GLOBO, pela Folha de S.Paulo e pelo Estadão para classificar o texto: golpista.\n“Os três principais jornais do Brasil — Folha de S.Paulo, O Globo e O Estado de S. Paulo — descreveram a declaração de Bolsonaro como ‘golpista’. O senador posteriormente apagou a carta e publicou uma nova, na qual, em vez de se autodenominar o ‘verdadeiro presidente’, descreveu-se como ‘o líder do Brasil’”, escreveu o Guardian.\nO periódico britânico também lembrou que Flávio agradeceu ao presidente da Argentina, Javier Milei, “pela coragem, justiça e legalidade”, além de agradecer a Donald Trump e ao “maravilhoso povo americano que o acolheu”. O Guardian também ressaltou que as alegações de fraude eleitoral apresentadas na carta não têm evidências que as sustentem.\n\"Bolsonaro se chama de 'líder do Brasil' após fugir para Miami\", diz o Guardian\nReprodução\nO jornal argentino La Nación, que também acompanhou de perto a viagem, publicou reportagens detalhando a saída do Brasil, a passagem pela Argentina e a chegada da família de Flávio aos Estados Unidos. O periódico também abordou o conteúdo da carta e os brasões utilizados nas diferentes versões.\nEm uma reportagem sobre o texto publicado pelo senador, o La Nación destacou as comparações com Juan Guaidó, que se autoproclamou presidente da Venezuela em meio à disputa política com Nicolás Maduro, e Charles de Gaulle, líder francês que assumiu o governo provisório da França após a Segunda Guerra Mundial.\nO La Nación também explicou que a primeira versão do brasão utilizado na carta fazia parte do “período da Proclamação da República, em 1889” e permaneceu válida até 1968, “quando foi substituída durante a ditadura militar”. Treze minutos depois, a carta foi republicada com uma nova versão do texto, já com o brasão correto da República Federativa do Brasil.\nFlávio também virou passarinho no ninho de Milei em charge do La Nación\nReprodução",
-    "published": "2026-10-29T14:31:57+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Após a derrota no segundo turno das eleições, Flávio Bolsonaro (PL) fugiu para os Estados Unidos. A saída do Brasil aconteceu em etapas, e o senador só desembarcou efetivamente em Miami nesta quarta-feira. Além da fuga, Flávio também publicou uma carta com teor golpista na qual s",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Saque aniversário do FGTS: limite de antecipação deve ser mantido em 5 parcelas",
-    "link": "https://oglobo.globo.com/economia/noticia/2026/10/29/saque-aniversario-do-fgts-limite-de-antecipacao-5-parcelas.ghtml",
-    "description": "O Conselho Curador do FGTS deve aprovar a ampliação do prazo de vigência das regras na antecipação do saque aniversário, em vigor desde novembro de 2025. Com a medida, o limite  de saques anuais que podem ser antecipados deve ser mantido em cinco parcelas até  31 de março de 2027. \nPela regra anterior, o limite do número de parcelas cairia de cinco para três a partir de 1º de novembro deste ano.   \nA reunião do Conselho está prevista para o início da tarde desta quinta-feira. \nNa prática, a medida dá mais prazo para que os trabalhadores que aderiram à modalidade de saque aniversário possam continuar tomando empréstimos com juros mais baratos ao antecipar os recursos. O teto da taxa de juros é 1,8% ao mês.\nEssa modalidade de crédito começou a vigorar no governo de Jair Bolsonaro, após a criação da modalidade de saque aniversário. Até novembro de 2025, não havia limitações de parcelas e valores na antecipação dos recursos. \nContudo, o Ministério do Trabalho que sempre se posicionou contra a modalidade de saque aniversário passou a defender a restrição das operações de crédito na antecipação dos recursos.  \nVeja como funciona\nValor por parcela: cada saque antecipado deve ter o valor de R$ 100,00 a R$ 500,00.\n⁠Valor total máximo: O teto de empréstimo R$ 1.500,00.\nCarência: é preciso respeitar um prazo de 90 dias após aderir à modalidade do saque-aniversário antes de poder autorizar bancos a consultarem os dados e contratarem a antecipação.\nFrequência de contratação: é permitida 1 contratação por competência, e uma nova operação só pode ser feita após a quitação da antecipação vigente.\nImpossibilidade de sacar o saldo total: ao aderir ao saque-aniversário, o trabalhador abre mão de sacar o saldo total do FGTS em caso de demissão sem justa causa, tendo diereito apenas à multa rescisória de 40%.",
-    "published": "2026-10-29T14:30:47+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O Conselho Curador do FGTS deve aprovar a ampliação do prazo de vigência das regras na antecipação do saque aniversário, em vigor desde novembro de 2025. Com a medida, o limite  de saques anuais que podem ser antecipados deve ser mantido em cinco parcelas até  31 de março de 2027",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Wall Street abre sessão no vermelho após balanço do Google reacender dúvidas sobre IA",
-    "link": "https://www.moneytimes.com.br/bolsas-eua-29102026-davs/",
-    "description": "As bolsas dos Estados Unidos abriram o pregão desta quinta-feira (29) em queda, pressionadas pelos resultados da Alphabet, controladora do Google. Os números divulgados pela big tech reacenderam preocupações com o aumento expressivo dos custos da inteligência artificial (IA). Os investidores também avaliam novos dados sobre a inflação após a decisão do Federal Reserve (Fed, [&#8230;]",
-    "published": "2026-10-29T14:27:24+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "As bolsas dos Estados Unidos abriram o pregão desta quinta-feira (29) em queda, pressionadas pelos resultados da Alphabet, controladora do Google. Os números divulgados pela big tech reacenderam preocupações com o aumento expressivo dos custos da inteligência artificial (IA). Os ",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Com a derrota de Flávio, revisão criminal de Jair Bolsonaro é um tiro n'água",
-    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/10/com-a-derrota-de-flavio-revisao-criminal-de-jair-bolsonaro-e-um-tiro-nagua.ghtml",
-    "description": "Nunes Marques, que recentemente foi protagonista de revelações de suas impressionantes performances em festas com uma penca de mulheres no apartamento de Daniel Vorcaro e no domingo de sua morosidade em tomar decisões no TSE, cumpriu ontem o que prometeu recentemente: aliado da família Bolsonaro, quer levar em novembro a julgamento no plenário do STF um pedido de revisão criminal apresentado pela defesa do ex-presidente. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-10-29T14:22:00+00:00",
-    "themes": [
-      "Politica",
-      "XP"
-    ],
-    "summary": "Nunes Marques, que recentemente foi protagonista de revelações de suas impressionantes performances em festas com uma penca de mulheres no apartamento de Daniel Vorcaro e no domingo de sua morosidade em tomar decisões no TSE, cumpriu ontem o que prometeu recentemente: aliado da f",
     "relevance": 5
   }
 ]
