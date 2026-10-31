@@ -642,24 +642,6 @@
     "relevance": 5
   },
   {
-    "source": "O Globo",
-    "title": "Ibovespa tem quinta maior queda semanal desde o Plano Real",
-    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/10/ibovespa-tem-quinta-maior-queda-semanal-desde-o-plano-real.ghtml",
-    "description": "O Ibovespa encerrou a semana de 30 de outubro com queda de 18,12%, a quinta maior desvalorização semanal desde o início do Plano Real, em julho de 1994, segundo levantamento da Elos Ayta com dados da B3.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-10-30T21:50:05+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "O Ibovespa encerrou a semana de 30 de outubro com queda de 18,12%, a quinta maior desvalorização semanal desde o início do Plano Real, em julho de 1994, segundo levantamento da Elos Ayta com dados da B3.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link ",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Poder360",
-        "link": "https://www.poder360.com.br/poder-economia/bolsa-tem-5a-maior-queda-desde-plano-real-apos-reeleicao-de-lula/"
-      }
-    ]
-  },
-  {
     "source": "Money Times",
     "title": "Mercado de carbono: indústria terá de começar a medir emissões a partir de 2027; veja setores",
     "link": "https://www.moneytimes.com.br/mercado-de-carbono-industria-tera-de-comecar-a-medir-emissoes-a-partir-de-2027-veja-setores/",
@@ -1048,21 +1030,6 @@
       "Mercado Financeiro"
     ],
     "summary": "O Estado do Rio de Janeiro passa a contar com uma plataforma digital que reúne mais de 150 indicadores para acompanhar o avanço de metas da Agenda 2030, plano global da Organização das Nações Unidas (ONU) para promover o desenvolvimento sustentável em áreas como meio ambiente, re",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Ibovespa cai 18% no pós-reeleição de Lula, maior perda semanal desde março de 2020",
-    "link": "https://valor.globo.com/financas/noticia/2026/10/30/ibovespa-cai-18percent-no-pos-reeleicao-de-lula-maior-perda-semanal-desde-marco-de-2020.ghtml",
-    "description": "A liquidação dos ativos engatilhada pelo resultado eleitoral manteve o Ibovespa no negativo pelo quinto pregão consecutivo. Após oscilar entre os 167.008 e os 169.185 pontos, o índice terminou com recuo de 0,75%, aos 167.922 pontos, encerrando perto de patamares vistos em agosto.  \nAssim, o tombo da principal referência acionária chegou a 18,12% na semana, o que é a maior desvalorização semanal desde 20 de março de 2020, quando cedeu 18,88%. No período, as empresas do Ibovespa perderam R$ 870 bilhões em valor de mercado, com o montante passando de R$ 5,2 trilhões para R$ 4,3 trilhões hoje. No mês, o Ibovespa cedeu 9,88%.  \nAs perdas no índice só não foram mais intensas devido à alta das ações da Vale e da Petrobras. A explicação é que o mercado permanece mais cauteloso e atento à formação da equipe econômica para o ano que vem, especialmente à escolha do próximo ministro da Fazenda e sua postura na condução da política fiscal. Ontem, rumores sobre a indicação do governador do Piauí, Rafael Fonteles (PT), à pasta ajudou a minimizar as perdas dos ativos locais. \nEntre as blue chips, as ON da Vale subiram 3,28%. Investidores reagiram positivamente ao tom adotado pela diretoria da mineradora na teleconferência de resultados, embora o balanço tenha vindo em linha com o esperado.  \nSegundo o analista da Genial Investimentos, Luca Izzo, a \"call\" foi mais positiva em termos qualitativos sobre as perspectivas para o câmbio e para a parte de metais básicos da mineradora do que o resultado em si.   \n\"A direção da Vale não disse nada quantitativo que tenha ajudado a animar, mas o qualitativo foi positivo em termos de perspectiva de câmbio, preço de minério de ferro para 2027 e da parte de 'metals' da Vale\", afirma o analista. \nDa mesma forma, as PN da Petrobras ganharam 0,98%, em um dia de valorização dos preços de petróleo e após a apresentação de dados operacionais da empresa.  \nPara os analistas do Jefferies, os resultados operacionais da Petrobras foram \"robustos\", superando em 1% o consenso de mercado, que já estava bastante otimista, levando o foco dos investidores agora para os dividendos no próximo plano estratégico.  \nBancos, por outro lado, fecharam majoritariamente no negativo, especialmente as units do BTG Pactual, que cederam 4,66%. Na semana, as perdas ultrapassaram os 35%. A exceção ficou para as ON do Banco do Brasil, que terminaram estáveis (+0,06%).  \nO volume financeiro negociado pelo Ibovespa foi de R$ 31,6 bilhões e de R$ 42,2 bilhões na B3. Já em Wall Street, o Nasdaq cedeu 2,86%; o S&amp;P 500 perdeu 1,82%; e o Dow Jones exibiu baixa de 1,09%.",
-    "published": "2026-10-30T20:34:16+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro",
-      "XP"
-    ],
-    "summary": "A liquidação dos ativos engatilhada pelo resultado eleitoral manteve o Ibovespa no negativo pelo quinto pregão consecutivo. Após oscilar entre os 167.008 e os 169.185 pontos, o índice terminou com recuo de 0,75%, aos 167.922 pontos, encerrando perto de patamares vistos em agosto.",
     "relevance": 5
   },
   {
@@ -3838,5 +3805,46 @@
         "link": "https://oglobo.globo.com/economia/noticia/2026/10/30/desemprego-cai-para-52percent-e-chega-ao-menor-nivel-ja-registrado-em-setembro.ghtml"
       }
     ]
+  },
+  {
+    "source": "G1 - Economia",
+    "title": "Ibovespa recua 18,12% na semana e tem 5ª maior queda desde o Plano Real; dólar sobe a R$ 5,44",
+    "link": "https://g1.globo.com/economia/noticia/2026/10/30/dolar-ibovespa.ghtml",
+    "description": "Entenda o que faz o preço do dólar subir ou cair\n \nO Ibovespa, principal índice da bolsa brasileira, fechou em queda de 0,75% nesta sexta-feira (30), aos 167.922 pontos. Com o resultado, o índice chegou à quinta baixa consecutiva e acumulou desvalorização de 18,12% na semana — a quinta maior perda semanal desde o início do Plano Real, em julho de 1994, segundo levantamento da Elos Ayta. (veja mais abaixo)\nJá o dólar subiu 1,05% no dia, encerrando cotado a R$ 5,4442. Durante as negociações, a moeda americana chegou a atingir R$ 5,4621 na máxima do pregão.\nNo Brasil, investidores acompanharam novos dados de emprego e sinais de desaceleração da economia, além da expectativa por uma definição da nova equipe econômica do governo Lula (PT). No exterior, indicadores de atividade dos Estados Unidos também estiveram no radar do mercado.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\n▶️ A taxa de desemprego ficou em 5,2% no terceiro trimestre deste ano. O indicador, divulgado nesta sexta-feira (30) pelo Instituto Brasileiro de Geografia e Estatística (IBGE) mostra um mercado de trabalho ainda resiliente, mesmo em meio aos sinais de desaceleração da economia no país.\n▶️ No cenário político, a busca pela definição da nova equipe econômica de Lula (PT) seguiu no radar. Isso porque os nomes escolhidos devem ajudar a dar o tom sobre o futuro das contas públicas, em meio à pressão de investidores e empresários por um reajuste fiscal por parte do governo. Possíveis nomes para as vagas abertas na diretoria do Banco Central também ficam no centro das atenções.\n▶️ A agenda econômica ainda contou com uma série de indicadores americanos. Na véspera, o Índice de Preços de Despesas de Consumo Pessoal (PCE) subiu 0,5% em setembro, em meio à alta da gasolina e de outros bens, enquanto a economia americana cresceu mais do que o esperado no terceiro trimestre. Os dados reforçam a expectativa de uma nova alta de juros na próxima reunião do Fed.\nVeja abaixo mais detalhes do dia no mercado.\n💲Dólar\n\na\nAcumulado da semana: +9,04%;\nAcumulado do mês: +5,22%;\nAcumulado do ano: -0,81%.\n📈Ibovespa\n\nAcumulado da semana: --18,12%\nAcumulado do mês: --9,88%;\nAcumulado do ano: +4,22%.\nBolsa tem queda histórica\nO Ibovespa acumulou desvalorização de 18,12% na semana encerrada em 30 de outubro de 2026, após o segundo turno das eleições presidenciais. \nSegundo levantamento da Elos Ayta, com dados da B3, foi a quinta maior queda semanal desde o início do Plano Real, em julho de 1994.\nO recuo igualou, com duas casas decimais, a perda registrada na semana dos atentados de 11 de setembro de 2001, quando o índice também caiu 18,12%. \nAs maiores baixas do período ocorreram durante a crise financeira asiática, em 1997 (-22,17%); a crise financeira global, em 2008 (-20,01%); e o início da pandemia de Covid-19, em 2020 (-18,88%).\nDiferentemente desses episódios, a queda de outubro de 2026 teve como principal catalisador um acontecimento político doméstico: a reeleição do presidente Luiz Inácio Lula da Silva (PT). \nSegundo a análise da Elos Ayta, o resultado contrariou as expectativas de parte dos investidores sobre uma possível mudança na condução da política econômica e provocou uma reavaliação dos preços dos ativos brasileiros.\nOs próximos passos da reforma tributária\nO TCU aprovou na quarta-feira (28) uma proposta para que a alíquota de referência da Contribuição sobre Bens e Serviços (CBS), novo tributo aprovado no âmbito da reforma tributária sobre o consumo, seja de 11,3% em 2027.\nO valor será encaminhado ao Congresso Nacional, que poderá concordar ou não. Caberá ao Senado fixar o valor final da alíquota, que será cobrada a partir de 2027, até 15 de dezembro.\nAlém da CBS, haverá a cobrança transitória do Imposto sobre Bens e Serviços (IBS) com uma alíquota total de 0,1% em 2027 e 2028, dividida entre estados (0,05%) e municípios (0,05%). Essa alíquota começa a subir gradualmente a partir de 2029.\nCom a reforma tributária, os tributos sobre o consumo passarão a seguir o modelo de Imposto sobre Valor Agregado (IVA), adotado em grande parte do mundo, com cobrança não cumulativa.\nIsso significa que o imposto será recolhido em cada etapa da cadeia produtiva, mas as empresas poderão descontar os tributos pagos nas fases anteriores.\nPor exemplo: se o IVA for de 20%, um produto vendido ao consumidor final por R$ 100 terá imposto, que, ao final da cadeia, totalizará R$ 20, após os mecanismos de crédito e compensação entre os diferentes empresas da produção e comercialização. Veja o que muda para empresas em 2027.\nICMS sobre combustíveis vai aumentar\nOutro ponto de atenção fica com a aprovação, por parte do Conselho Nacional de Política Fazendária (Confaz), da atualização anual das alíquotas do ICMS sobre gasolina, diesel e gás de cozinha.\nBolsas globais\nNos Estados Unidos, os três principais índices de Wall Street fecharam em queda, conforme os resultados da Alphabet reacenderam preocupações com o aumento vertiginoso dos custos de inteligência artificial.\nInvestidores também avaliavam novos dados sobre a inflação após a decisão do Federal Reserve (Fed, o banco central americano) de manter as taxas de juros inalteradas.\nNo final do pregão, o Dow Jones teve queda de 1,09%, enquanto o S&amp;P 500 recuou 1,80% e o Nasdaq Composite perdeu 2,84%.\nO dia também foi negativo na Europa, também refletindo as preocupações com os papéis de tecnologia. O índice pan-europeu STOXX 600 fechou em queda de 0,36%.\nEntre os demais índices da região, o DAX, da Alemanha, caiu 0,85%, enquanto o CAC-40, da França, perdeu 0,01%. Já o FTSE 100, do Reino Unido, foi na contramão e subiu 0,07%. \nNa Ásia, as ações chinesas fecharam em queda nesta sexta-feira, registrando a maior perda mensal desde o início de 2016, à medida que uma onda global de venda de ações do setor de inteligência artificial pesou sobre os ânimos do mercado.\nO SSEC, Índice de Xangai, e o CSI300, que reúne grandes empresas chinesas, caíram 1,4%. No Japão, o Nikkei recuou 2,12% e o Kospi, da Coreia do Sul, desvalorizou 3,48%. O Hang Seng, de Hong Kong, teve ganhos de 1,5%.\n* Com informações da agência de notícias Reuters.\nNotas de real e dólar\nAmanda Perobelli/ Reuters",
+    "published": "2026-10-30T12:00:21+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Entenda o que faz o preço do dólar subir ou cair\n \nO Ibovespa, principal índice da bolsa brasileira, fechou em queda de 0,75% nesta sexta-feira (30), aos 167.922 pontos. Com o resultado, o índice chegou à quinta baixa consecutiva e acumulou desvalorização de 18,12% na semana — a ",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/financas/noticia/2026/10/30/ibovespa-cai-18percent-no-pos-reeleicao-de-lula-maior-perda-semanal-desde-marco-de-2020.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/10/ibovespa-tem-quinta-maior-queda-semanal-desde-o-plano-real.ghtml"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-economia/bolsa-tem-5a-maior-queda-desde-plano-real-apos-reeleicao-de-lula/"
+      }
+    ]
+  },
+  {
+    "source": "G1 - Economia",
+    "title": "Após roubo bilionário na Binance, entenda o que são criptomoedas e os riscos de investir",
+    "link": "https://g1.globo.com/g1-explica/noticia/2026/10/30/apos-roubo-bilionario-na-binance-entenda-o-que-sao-criptomoedas-e-os-riscos-de-investir.ghtml",
+    "description": "O que são as criptomoedas?\nA Binance, maior corretora de criptomoedas do mundo, foi alvo de um ataque hacker que resultou no roubo de US$ 6,3 bilhões (cerca de R$ 34 bilhões). Segundo especialistas, foi o maior roubo de moedas digitais já registrado.\nCriptomoedas são ativos digitais, e não moedas oficiais como o real ou o dólar. Elas não são emitidas por governos e utilizam tecnologias como o blockchain para registrar e validar transações. (Entenda mais no vídeo acima).\nNotebook invadido pode ter aberto caminho para roubo na Binance\nO bitcoin foi a primeira criptomoeda e continua sendo a mais conhecida. Esses ativos atraem investidores pelo potencial de valorização, mas também estão sujeitos a fortes oscilações de preço, o que faz deles investimentos de alto risco.\nNo Brasil, a compra e a venda de criptoativos são permitidas, e o setor vem sendo regulamentado pelo Banco Central. A regulamentação, porém, não garante rentabilidade nem protege o investidor de prejuízos.\nToda semana, o g1 Explica descomplica a economia, o mercado financeiro e a educação financeira, mostrando o impacto de tudo isso no seu bolso.\nLogo da Binance.\nUnsplash/Kanchanara",
+    "published": "2026-10-30T11:59:54+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "O que são as criptomoedas?\nA Binance, maior corretora de criptomoedas do mundo, foi alvo de um ataque hacker que resultou no roubo de US$ 6,3 bilhões (cerca de R$ 34 bilhões). Segundo especialistas, foi o maior roubo de moedas digitais já registrado.\nCriptomoedas são ativos digit",
+    "relevance": 5
   }
 ]
