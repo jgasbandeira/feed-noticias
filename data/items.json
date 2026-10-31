@@ -1964,6 +1964,19 @@
   },
   {
     "source": "Valor Econômico",
+    "title": "Nasdaq despenca com liquidação de posições no setor de tecnologia",
+    "link": "https://valor.globo.com/financas/noticia/2026/10/30/nasdaq-despenca-com-liquidacao-de-posicoes-no-setor-de-tecnologia.ghtml",
+    "description": "Após uma série de resultados trimestrais aquém do esperado de empresas de tecnologia ter revivido os receios com relação à tese de inteligência artificial (IA), as bolsas americanas encerraram em forte queda e o índice Nasdaq teve o pior dia desde junho. Os investidores também repercutiram declarações mais conservadoras (“hawkish”) de dirigentes do Federal Reserve (Fed), dias após o banco central americano ter mantido os juros inalterados.\n\nO índice Dow Jones encerrou em queda de 1,09%, aos 51.771,14 pontos; e o S&amp;P 500 caiu 1,82%, aos 7.579,82 pontos. O Nasdaq despencou 2,86%, aos 25.437,00 pontos, refletindo as perdas dos setores de tecnologia (-4,24%) e comunicação (-1,11%). A rotação para fora do setor de tecnologia deu suporte a outros segmentos da bolsa, como bens de consumo (+1,38%) e utilities (+0,64%). O pessimismo com a tese de IA levou os índices a caírem 0,85%, 0,57% e 2%  na semana, respectivamente.\n\nAinda que o segmento de tecnologia tenha registrado algum alívio no início da semana, após a turbulência causada pelos receios com relação ao risco de crédito de empresas de IA na semana passada, os resultados trimestrais aquém do esperado de empresas como Tesla, Meta, Alphabet, Amazon e Intel, provocaram mais uma onda de liquidações. \n\nDentre as companhias que divulgaram resultados trimestrais hoje, a Amazon perdeu 1,41%, a Intel derreteu 28,58% e a SanDisk despencou 13,47%.\n\nO mercado também precisou digerir uma série de declarações mais “hawkish” (favoráveis ao aperto monetário) de dirigentes do Fed. O presidente da distrital de St Louis, Alberto Musalem, afirmou que novas restrições são necessárias para trazer a inflação de volta à meta em tempo hábil, enquanto a presidente de Dallas, Lorie Logan, defendeu a necessidade de pelo menos mais duas altas nos juros. Com uma postura mais moderada, Tom Barkin, de Richmond, argumentou que uma abordagem gradual para as taxas seria apropriada.",
+    "published": "2026-10-30T20:27:45+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Após uma série de resultados trimestrais aquém do esperado de empresas de tecnologia ter revivido os receios com relação à tese de inteligência artificial (IA), as bolsas americanas encerraram em forte queda e o índice Nasdaq teve o pior dia desde junho. Os investidores também re",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
     "title": "Juros futuros têm forte alta com piora na percepção de risco após reeleição de Lula",
     "link": "https://valor.globo.com/financas/noticia/2026/10/30/juros-futuros-tem-forte-alta-com-piora-na-percepcao-de-risco-apos-reeleicao-de-lula.ghtml",
     "description": "Os juros futuros enfrentaram uma nova rodada de estresse nesta sexta-feira, na medida em que o mercado embutiu na curva prêmios de risco adicionais em meio ao contexto de incerteza fiscal elevada no pós-eleição. A reprecificação do cenário inflacionário também ajudou a intensificar os movimentos da curva a termo, diante da depreciação da taxa de câmbio e da valorização dos preços do petróleo, o que tem elevado a sensação de dificuldade para uma queima de prêmios no mercado de juros no curto prazo.\n\nNo fim dos negócios regulares, a taxa do contrato de Depósito Interfinanceiro (DI) para janeiro de 2028 subia de 14,37% no ajuste anterior para 14,485%; a do DI para janeiro de 2029 avançava de 14,805% para 14,965%; e a do DI para janeiro de 2031 passava de 15,155% para 15,265%.",
@@ -3778,17 +3791,5 @@
         "link": "https://oglobo.globo.com/mundo/noticia/2026/10/30/papa-leao-xiv-vota-pelo-correio-nas-eleicoes-de-meio-de-mandato-dos-eua.ghtml"
       }
     ]
-  },
-  {
-    "source": "Money Times",
-    "title": "Wall Street abre última sessão da semana em queda em reação aos balanços de tecnologia",
-    "link": "https://www.moneytimes.com.br/bolsa-eua-abertura-30102026-davs/",
-    "description": "As bolsas dos Estados Unidos abriram o pregão desta sexta-feira (30) em queda, pressionadas pelos resultados da Amazon e da Intel, divulgados na noite de ontem (29). O balanço da companhia veio abaixo das expectativas do mercado. Os números divulgados pela big tech reacenderam preocupações com o aumento expressivo dos custos da inteligência artificial (IA), [&#8230;]",
-    "published": "2026-10-30T14:50:36+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "As bolsas dos Estados Unidos abriram o pregão desta sexta-feira (30) em queda, pressionadas pelos resultados da Amazon e da Intel, divulgados na noite de ontem (29). O balanço da companhia veio abaixo das expectativas do mercado. Os números divulgados pela big tech reacenderam pr",
-    "relevance": 5
   }
 ]
