@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "Flávio fala em perseguição de Moraes e anuncia reação jurídica",
+    "link": "https://www.poder360.com.br/poder-justica/flavio-fala-em-perseguicao-de-moraes-e-anuncia-reacao-juridica/",
+    "description": "Dos EUA, senador criticou a decisão do STF e afirmou que está com a mulher e as filhas",
+    "published": "2026-10-31T01:36:53+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Dos EUA, senador criticou a decisão do STF e afirmou que está com a mulher e as filhas",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Finep aprova crédito de R$ 280 milhões para projeto de inteligência clínica e saúde digital do Einstein",
     "link": "https://valor.globo.com/empresas/noticia/2026/10/30/finep-aprova-credito-de-r-280-milhoes-para-projeto-de-inteligencia-clinica-e-saude-digital-do-einstein.ghtml",
@@ -313,7 +325,13 @@
       "Economia"
     ],
     "summary": "O Itaú Unibanco promoveu um forte ajuste de suas projeções para o ano que vem. Em sua revisão de cenário, o banco disse, agora, esperar que a inflação termine o ano de 2027 em 6,1%, de 4,6% anteriormente, e que o PIB desacelere para 0,5%, contra 1,2% no cenário anterior.\n\nOs econ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Folha",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/10/itau-corta-projecao-do-pib-de-2027-para-05-e-ve-inflacao-acima-da-meta.shtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -1152,6 +1170,18 @@
       "Mercado Financeiro"
     ],
     "summary": "Resultados da Amazon e da Intel nos EUA reacenderam preocupações com os altos custos de construção da infraestrutura de IA\nThe post Ações europeias recuam por preocupações com IA ao fim de melhor mês desde junho appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "B3 ajusta horários de negociação com fim do horário de verão nos EUA",
+    "link": "https://valor.globo.com/financas/noticia/2026/10/30/b3-ajusta-horarios-de-negociacao-com-fim-do-horario-de-verao-nos-eua.ghtml",
+    "description": "A B3 ajustará os horários de negociação dos mercados de ações e de derivativos a partir de 3 de novembro, diante do fim do horário de verão nos Estados Unidos. Segundo a bolsa, as mudanças buscam manter o alinhamento daqui com os principais mercados internacionais, contribuindo para a sincronia das operações e a eficiência na formação de preços. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-10-30T19:00:00+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A B3 ajustará os horários de negociação dos mercados de ações e de derivativos a partir de 3 de novembro, diante do fim do horário de verão nos Estados Unidos. Segundo a bolsa, as mudanças buscam manter o alinhamento daqui com os principais mercados internacionais, contribuindo p",
     "relevance": 5
   },
   {
@@ -3799,30 +3829,6 @@
       "Mercado Financeiro"
     ],
     "summary": "A Telefônica Brasil confirmou que vem mantendo negociações preliminares com a Vero Internet, mas que até o momento não há decisão quanto à realização de eventual operação envolvendo a empresa.\nA dona da Vivo, que respondeu a questionamento da Comissão de Valores Mobiliários (CVM)",
-    "relevance": 5
-  },
-  {
-    "source": "Folha",
-    "title": "BC do Japão afirma que inflação atingiu meta de 2% após 13 anos",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468004",
-    "description": "O Banco do Japão, o BC japonês, anunciou nesta sexta-feira (30) que a inflação alcançou a meta de 2%, mais de 13 anos após a adoção do objetivo em uma tentativa de retirar a economia da deflação.\nLeia mais (10/30/2026 - 08h18)",
-    "published": "2026-10-30T11:18:00+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O Banco do Japão, o BC japonês, anunciou nesta sexta-feira (30) que a inflação alcançou a meta de 2%, mais de 13 anos após a adoção do objetivo em uma tentativa de retirar a economia da deflação.\nLeia mais (10/30/2026 - 08h18)",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Aneel leiloa 8 lotes de ativos de transmissão com aportes estimados em R$ 8,9 bilhões",
-    "link": "https://valor.globo.com/empresas/noticia/2026/10/30/aneel-leiloa-8-lotes-de-ativos-de-transmisso-com-aportes-estimados-em-r-89-bilhes.ghtml",
-    "description": "A Agência Nacional de Energia Elétrica (Aneel) realiza nesta sexta-feira (30), na B3, em São Paulo, o último leilão de transmissão do ano. Empresas do setor disputarão oito lotes, com obras em sete Estados, que devem demandar R$ 8,9 bilhões em investimentos, segundo estimativa da própria agência.\nOs lotes somam 1.866 quilômetros (km) de novas linhas de transmissão e 12.694 megavolt-amperes (MVA) em capacidade de transformação nas subestações. Também preveem a continuidade da operação de 483 km de linhas existentes, a manutenção de outros 600 MVA e a instalação de compensadores síncronos, equipamentos usados para estabilizar a rede.\nA Receita Anual Permitida (RAP) de referência total a ser paga aos empreendedores é de cerca de R$ 1,6 bilhão. As concessões têm prazo de 30 anos, e os contratos devem ser assinados em fevereiro de 2027. A partir daí, os empreendimentos que serão construídos em Bahia, Goiás, Mato Grosso do Sul, Paraíba, Paraná, Rondônia e São Paulo terão de 42 a 60 meses para entrar em operação comercial.\nA sessão começa às 10h. Nela, os participantes oferecerão deságio sobre a RAP máxima definida pela Aneel para cada lote, e vencerá a empresa ou o consórcio que se dispuser a construir e operar o ativo pelo menor valor.\nNo caso do lote 4, dividido nos sublotes 4A e 4B, os interessados deverão entregar simultaneamente três envelopes fechados, com lances para o lote completo e para cada sublote. A definição do vencedor ocorrerá por competição cruzada: será comparada a menor proposta para o lote inteiro com a soma das menores propostas para os dois sublotes.\n\nAto Press/Agência O Globo",
-    "published": "2026-10-30T11:16:22+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A Agência Nacional de Energia Elétrica (Aneel) realiza nesta sexta-feira (30), na B3, em São Paulo, o último leilão de transmissão do ano. Empresas do setor disputarão oito lotes, com obras em sete Estados, que devem demandar R$ 8,9 bilhões em investimentos, segundo estimativa da",
     "relevance": 5
   }
 ]
