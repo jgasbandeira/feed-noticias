@@ -1,5 +1,42 @@
 [
   {
+    "source": "InfoMoney",
+    "title": "Ministro argentino defende livre comércio e critica barreiras ambientais no G20",
+    "link": "https://www.infomoney.com.br/mundo/ministro-argentino-defende-livre-comercio-e-critica-barreiras-ambientais-no-g20/",
+    "description": "Pablo Quirno esteve na reunião de chanceleres do G20\nThe post Ministro argentino defende livre comércio e critica barreiras ambientais no G20 appeared first on InfoMoney.",
+    "published": "2026-10-31T21:29:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Pablo Quirno esteve na reunião de chanceleres do G20\nThe post Ministro argentino defende livre comércio e critica barreiras ambientais no G20 appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Os avanços da COP 17 no Fundo Cáli, que se abastece de natureza e ciência",
+    "link": "https://valor.globo.com/mundo/noticia/2026/10/31/os-avanos-da-cop-17-no-fundo-cli-que-se-abastece-de-natureza-e-cincia.ghtml",
+    "description": "Um dos avanços da COP17, a conferência das Nações Unidas sobre Biodiversidade que acabou este sábado (31) em Yerevan, na capital da Armênia, mistura natureza e doses de ciência, ações do setor privado e muita diplomacia. É a base de um dos mecanismos financeiros da agenda da biodiversidade, o Fundo Cáli, e atende pela sigla DSI – ou dados sobre o sequenciamento genético digital dos recursos naturais.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-10-31T21:01:16+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Um dos avanços da COP17, a conferência das Nações Unidas sobre Biodiversidade que acabou este sábado (31) em Yerevan, na capital da Armênia, mistura natureza e doses de ciência, ações do setor privado e muita diplomacia. É a base de um dos mecanismos financeiros da agenda da biod",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Como dividir sua renda fixa entre CDI, prefixados e IPCA+?",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/10/como-dividir-sua-renda-fixa-entre-cdi-prefixados-e-ipca.shtml",
+    "description": "Dois investidores têm R$ 2 milhões, o mesmo perfil de risco e acesso às mesmas aplicações. Ainda assim, um deveria concentrar sua renda fixa no CDI, enquanto o outro poderia manter a maior parte em IPCA+.\nLeia mais (10/31/2026 - 18h00)",
+    "published": "2026-10-31T21:00:00+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Dois investidores têm R$ 2 milhões, o mesmo perfil de risco e acesso às mesmas aplicações. Ainda assim, um deveria concentrar sua renda fixa no CDI, enquanto o outro poderia manter a maior parte em IPCA+.\nLeia mais (10/31/2026 - 18h00)",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Ex-ministro Adolfo Sachsida lança site com análises políticas",
     "link": "https://www.poder360.com.br/poder-gente/ex-ministro-adolfo-sachsida-lanca-site-com-analises-politicas/",
@@ -1008,7 +1045,13 @@
       "XP"
     ],
     "summary": "Willer Tomaz tem outras cinco casas em ilhas de Angra além da que disputou com Richarlison\nO advogado Willer Tomaz, investigado no Supremo Tribunal Federal (STF) junto com o senador Flávio Bolsonaro (PL-RJ) por suspeitas de lavagem de dinheiro, tem outras cinco casas em ilhas de ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/post/2026/10/amigo-de-flavio-bolsonaro-willer-tomaz-tem-outras-cinco-casas-em-ilhas-de-angra-alem-da-disputada-com-richarlison.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3733,50 +3776,6 @@
       "XP"
     ],
     "summary": "Os resgates líquidos em fundos de crédito privado e de infraestrutura aceleraram em outubro, em meio à volatilidade dos títulos de dívida das empresas. Nos fundos de crédito tradicional, as saídas chegaram a R$ 15 bilhões até o dia 26, ante R$ 9 bilhões em setembro. Já os fundos ",
-    "relevance": 5
-  },
-  {
-    "source": "Financial Times",
-    "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-    "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f?syn-25a6b1a6=1",
-    "description": "Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance",
-    "published": "2026-10-30T16:45:48+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Private capital giant says AI group is expected to receive ‘high’ junk rating in shift from previous guidance",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Folha",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/blackstone-ve-risco-de-anthropic-ficar-sem-grau-de-investimento-apos-ipo.shtml"
-      }
-    ]
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Deputados democratas cobram Rubio sobre suposta ajuda do governo dos EUA a fuga de Flávio",
-    "link": "https://valor.globo.com/politica/noticia/2026/10/30/deputados-democratas-cobram-rubio-sobre-suposta-ajuda-do-governo-dos-eua-a-fuga-de-flavio.ghtml",
-    "description": "Deputados democratas dos Estados Unidos enviaram uma carta cobrando do secretário Marco Rubio explicações sobre o papel do Departamento de Estado, caso tenha tido, em facilitar a partida do senador brasileiro Flávio Bolsonaro do Brasil e a sua entrada nos EUA.\n\n\"A questão central é direta: o Departamento de Estado, a Embaixada dos EUA no Brasil ou qualquer outra agência do governo dos EUA auxiliaram o senador Bolsonaro a viajar para os Estados Unidos ou a entrar no país, apesar da suposta restrição judicial brasileira à sua partida?\", questionam.\n\nSe tal assistência ocorreu, dizem, o Congresso americano precisa entender o que foi fornecido, quem a autorizou, quando ocorreu e quais informações estavam disponíveis às autoridades dos EUA no momento.\n\nNa carta, assinada por 25 deputados, eles pedem uma resposta até 13 de novembro. Os parlamentares solicitam também que o Departamento de Estado disponibilize funcionários para uma reunião de briefing com a equipe do Congresso dentro desse período.\n\n\"O povo americano e o Congresso têm um interesse legítimo de supervisão em compreender se os recursos diplomáticos e de imigração dos EUA foram utilizados para facilitar a viagem de uma figura política estrangeira sob tais circunstâncias. A transparência é particularmente importante quando os eventos relatados envolvem um processo judicial estrangeiro, relações bilaterais delicadas e a aplicação consistente das políticas de imigração e diplomáticas dos EUA\", afirmam.\n\nSegundo os congressistas, o que causa \"particular preocupação é o fato de as notícias indicarem que um alto funcionário do Departamento de Estado afirmou que os Estados Unidos emitiriam vistos para o senador Bolsonaro e membros de sua família, permitindo-lhes a entrada no país\".\n\nNa terça-feira, antes de Flávio chegar aos EUA, uma autoridade do governo Trump informou que o Departamento de Estado emitiria vistos para o senador, sua esposa e as duas filhas e permitiria o ingresso deles no país. A fonte não havia explicado, no entanto, a categoria do visto nem a duração.\n\nFlávio entrou nos EUA na quarta-feira com uma classe de admissão do tipo \"DT\", sigla que se refere a \"parole\" (\"liberdade condicional\"), isto é, uma permissão oferecida de forma discricionária pelas autoridades para a pessoa entrar e residir temporariamente nos EUA sem admissão formal, geralmente por razões humanitárias urgentes ou benefício público significativo.\n\nOntem, uma reportagem do The New York Times apontou que Jason Miller, da equipe de comunicações da Casa Branca, teria providenciado o jato particular que levou Flávio e sua família da Argentina até Miami.\n\nO passaporte de Flávio foi cancelado antes de ele entrar nos EUA por determinação do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), após ele não entregar o documento no prazo determinado pela Corte.\n\n\"Esses desdobramentos levantam questões significativas sobre o processo de tomada de decisão do Departamento, o seu conhecimento da ordem do tribunal brasileiro e se algum funcionário do governo dos EUA prestou assistência antes ou depois da emissão dessa ordem\", afirmam os deputados democratas.",
-    "published": "2026-10-30T16:44:54+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Deputados democratas dos Estados Unidos enviaram uma carta cobrando do secretário Marco Rubio explicações sobre o papel do Departamento de Estado, caso tenha tido, em facilitar a partida do senador brasileiro Flávio Bolsonaro do Brasil e a sua entrada nos EUA.\n\n\"A questão central",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Volumes e custos do minério de ferro e da VBM estão dentro do esperado, afirma Vale",
-    "link": "https://valor.globo.com/empresas/noticia/2026/10/30/volumes-e-custos-do-minerio-de-ferro-e-da-vbm-estao-dentro-do-esperado-afirma-vale.ghtml",
-    "description": "O vice-presidente executivo de finanças e relações com investidores da Vale, Marcelo Bacci, afirmou nesta sexta-feira (30), em entrevista sobre os resultados do terceiro trimestre que os volumes e custos do minério de ferro e da Vale Base Metals (VBM) estão dentro do esperado, assim como os recursos alocados em investimentos.\nSegundo ele, o “capex” (investimento) está sob controle, a dívida está reduzindo, o que dá à empresa flexibilidade para crescer e continuar a remunerar os acionistas. O executivo afirmou que o resultado divulgado ontem ficou “um pouco melhor” que o esperado pelo mercado, o que se reflete na alta das ações da companhia.\nVale registra queda de 53% no lucro do terceiro trimestre, para US$ 1,25 bi\nEstamos bem posicionados para entregar projeção do ano, diz CEO Vale\nCerca de 10% da produção do mercado de minério de ferro está perdendo dinheiro, diz CEO da Vale\nConfira os resultados e indicadores da Vale e das demais companhias de capital aberto no portal Valor Empresas 360\nEntre julho e setembro, o lucro líquido da Vale foi de US$ 1,255 bilhão, queda de 53% ante igual período do ano passado. Mas a receita operacional líquida ficou em US$ 10,599 bilhões, 2% acima do terceiro trimestre do ano passado. A dívida líquida expandida — que inclui os compromissos com a recuperação de Brumadinho e Mariana (MG) — terminou o trimestre em U$ 16,413 bilhões, queda de 1% ante igual período do ano passado. Os investimentos no período foram de US$ 1,250 bilhão, em linha com o terceiro trimestre do ano passado.\nNo momento, a ação da Vale sobe 3,70% na B3, cotada a R$ 62,27.\nPerguntado sobre os programas de recompra e sobre possível dividendo extraordinário, Bacci lembrou que a companhia tem um programa de recompra de até 100 milhões de ações em aberto. \"Nesse momento tivemos queda expressiva das ações e isso dá oportunidade para comprar. A gente acha que vai ter oportunidade nos próximos meses de fazermos recompras, mas não podemos antecipar nem volume nem ‘timing’\", disse Bacci.\n\nO executivo afirmou ainda que os dividendos extraordinários “não devem acontecer este ano” devido ao cenário de grandes incertezas geopolíticas. “Preferimos ficar mais no lado conservador. À medida que cenário ficar mais claro, podemos discutir para 2027, mas ainda é cedo para falar sobre isso.”\n\nCenários políticos \nBacci afirmou que a empresa se prepara para todos os cenários políticos. O executivo ressaltou que a mineradora tinha estratégias diferentes tanto para o caso da eleição do candidato derrotado, Flávio Bolsonaro (PL), quanto para o cenário que se confirmou, com vitória do presidente reeleito Luiz Inácio Lula da Silva (PT).\n“Temos interação grande com o atual governo e não haverá interrupção”, disse Bacci, acrescentando que enviou para ambos os candidatos estudo que mostra que a mineração pode ser o motor de crescimento para o Brasil nos próximos anos, tanto nos minerais críticos, quanto no minério de ferro. Ele lembrou que o setor hoje responde por cerca de 4% do Produto Interno Bruto (PIB) brasileiro, enquanto em países como Austrália e Chile esse patamar é de cerca de 10%.\nBacci frisou também que o estudo mostra que o total de impostos pagos pelo setor no país pode dobrar nos próximos anos caso determinadas medidas de incentivo sejam tomadas, chegando a R$ 1,3 trilhão. “[O estudo] Foi muito bem recebido e o governo terá esses insumos [o estudo] para trabalhar. A expectativa é muito positiva”, disse.\nO vice-presidente executivo destacou que o plano de crescimento de cobre da companhia se dá quase todo no Brasil e afirmou que a expectativa da empresa é que a legislação de minerais críticos, aprovada este ano no Congresso, faça com que a produção de cobre fique ainda maior que o planejado. “Esperamos que a regulação seja um impulsionador para que possamos fazer até mais. Nosso plano não depende dessas mudanças. As mudanças podem permitir que se faça mais.”\nEntre os pontos de atuação do governo e de interesse para a Vale está o decreto de cavidades, que versará sobre a exploração de minérios em cavernas subterrâneas. O tema é importante ambientalmente, uma vez que se tratam de biomas muitas vezes únicos e sensíveis. Bacci afirmou que a empresa monitora os desdobramentos sobre o decreto e acredita que a visão será “convergente” entre o que desejam o setor ambiental e o setor mineral.\n“O decreto é parte necessária para avançar com a mineração. A visão deverá ser convergente e o decreto que vem sendo trabalhando já vem também harmonizado com a visão ambiental. Será uma visão equilibrada entre os diferentes stakeholders [partes interessadas]”, disse Bacci.\nO executivo apontou ainda que a companhia está otimista para que o acordo sobre as outorgas das ferrovias da empresa tenha conclusão ainda este ano. O tema voltou a ser discutido com a posse de Lula em 2023, mesmo depois que a empresa conseguiu, no governo do ex-presidente Jair Bolsonaro (PL) renovar as outorgas. “Outorga de ferrovias está em andamento. Acreditamos que teremos conclusão disso até o fim do ano.”\n\nLeo Pinheiro/Valor",
-    "published": "2026-10-30T16:44:28+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O vice-presidente executivo de finanças e relações com investidores da Vale, Marcelo Bacci, afirmou nesta sexta-feira (30), em entrevista sobre os resultados do terceiro trimestre que os volumes e custos do minério de ferro e da Vale Base Metals (VBM) estão dentro do esperado, as",
     "relevance": 5
   }
 ]
