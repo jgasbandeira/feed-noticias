@@ -1,5 +1,18 @@
 [
   {
+    "source": "Poder360",
+    "title": "Boulos diz ser “chantagem” pressão do mercado por ajuste fiscal",
+    "link": "https://www.poder360.com.br/poder-economia/boulos-diz-ser-chantagem-pressao-do-mercado-por-ajuste-fiscal/",
+    "description": "Em entrevista à \"Folha\", ministro defendeu cortes em privilégios, como desonerações fiscais de R$ 600 bilhões",
+    "published": "2026-10-31T23:16:28+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Em entrevista à \"Folha\", ministro defendeu cortes em privilégios, como desonerações fiscais de R$ 600 bilhões",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Democrata sofre com ‘fogo amigo’ no Michigan às vésperas da eleição",
     "link": "https://valor.globo.com/mundo/noticia/2026/10/31/democrata-sofre-com-fogo-amigo-no-michigan-s-vsperas-da-eleio.ghtml",
@@ -3755,24 +3768,5 @@
     ],
     "summary": "O Rio de Janeiro registra um aumento recente de casos de Mpox, infecção viral transmitida pelo contato e que tem entre os sintomas lesões de pele, e médicos fazem alertas para conter o avanço da doença. De acordo com os dados mais recentes do Centro de Informações Estratégicas e ",
     "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Bolsas da Europa fecham majoritariamente em queda com ‘sell-off’ de tecnologia",
-    "link": "https://valor.globo.com/financas/noticia/2026/10/30/bolsas-da-europa-fecham-majoritariamente-em-queda-com-sell-off-de-tecnologia.ghtml",
-    "description": "As bolsas europeias encerraram esta sexta-feira (30) entre estáveis e queda, em meio ao “sell-off” (venda forte) global no setor de tecnologia, após uma série de resultados trimestrais negativos nos Estados Unidos reviver os temores com relação aos gastos em inteligência artificial (IA). Os investidores também repercutiram uma série de indicadores de atividade econômica e de inflação nos países da zona do euro, que mostraram uma forte divergência entre as principais economias.\n\nO índice pan-europeu Stoxx 600 encerrou em queda de 0,38%, aos 646,64 pontos, o DAX, de Frankfurt, perdeu 0,85%, aos 25.818,21 pontos, o FTSE 100, de Londres, encerrou com leve alta de 0,07%, aos 10.729,78 pontos, e o CAC 40, de Paris, anotou queda marginal de 0,01%, aos 7.969,42 pontos. Na semana, DAX subiu 2,53%, o FTSE avançou 0,37% e o CAC subiu 2,40%. No mês, o DAX avançou 2,46%, o FTSE subiu 1,17% e o CAC ficou estável (+0,06%).\n\nO setor de tecnologia do Stoxx teve queda de 3,04% na sessão, em linha com o forte ajuste de posições visto nos pares americano e sul-coreano. Outros segmentos relevantes do índice também registraram fortes perdas, como o financeiro (-2,16%) e de mineração (-2,74%).\n\nOs ativos de tecnologia têm passado por um forte ajuste de posições desde a semana passada, quando os receios com relação ao risco de crédito em empresas de IA derrubaram as bolsas americanas. Embora o setor tenha registrado algum alívio no início da semana, os resultados trimestrais aquém do esperado e as projeções elevadas de “capex” de algumas das principais companhias do segmento, como Tesla, Meta, Alphabet, Amazon e Intel, levaram a um novo “sell-off.”\n\nNo cenário macroeconômico, a economia da zona do euro cresceu 0,4% no terceiro trimestre, mas com diferenças significativas entre os maiores países, com avanço de 0,6% na Espanha e recuo de 0,1% na França. O PIB italiano ficou estagnado no período, enquanto a Alemanha teve crescimento de 0,2%. \nHá também uma diferença marcante entre a inflação nos países. A leitura preliminar do índice de preços ao consumidor (CPI) de outubro na Alemanha foi a 2,8% no acumulado de 12 meses, enquanto o indicador foi a 3,4% na França e 4,9%, na Espanha.",
-    "published": "2026-10-30T17:08:59+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "As bolsas europeias encerraram esta sexta-feira (30) entre estáveis e queda, em meio ao “sell-off” (venda forte) global no setor de tecnologia, após uma série de resultados trimestrais negativos nos Estados Unidos reviver os temores com relação aos gastos em inteligência artifici",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Poder360",
-        "link": "https://www.poder360.com.br/poder-economia/bolsas-dos-eua-fecham-em-forte-queda-com-tombo-da-tecnologia/"
-      }
-    ]
   }
 ]
