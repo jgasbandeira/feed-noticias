@@ -982,6 +982,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/politica/noticia/2026/11/01/flavio-bolsonaro-pode-ficar-quanto-tempo-quiser-nos-eua-diz-trump.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/11/01/trump-diz-que-flvio-bolsonaro-pode-ficar-nos-eua-pelo-tempo-que-quiser.ghtml"
       }
     ]
   },
@@ -1130,7 +1134,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Um juiz federal rejeitou o processo de difamação de US$ 10 bilhões movido pelo presidente dos EUA, Donald Trump, contra o Wall Street Journal (WSJ) e decidiu que a ação não pode ser apresentada novamente, representando mais um revés nas batalhas judiciais do presidente contra a i",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/mundo/noticia/2026/11/01/juiz-rejeita-processo-de-trump-contra-o-wall-street-journal.ghtml"
+      }
+    ]
   },
   {
     "source": "G1 - Economia",
