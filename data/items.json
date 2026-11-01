@@ -1,5 +1,18 @@
 [
   {
+    "source": "Folha",
+    "title": "Proposta de Lara Resende para limitar Selic entra no radar de Lula e assusta mercado",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/proposta-de-lara-resende-para-limitar-selic-entra-no-radar-de-lula-e-assusta-mercado.shtml",
+    "description": "Uma proposta do economista André Lara Resende, um dos formuladores do Plano Real, para reduzir a taxa Selic por meio de um novo arranjo entre as políticas fiscal e monetária entrou no radar do presidente Luiz Inácio Lula da Silva (PT) e já provoca apreensão no mercado financeiro.\nLeia mais (11/01/2026 - 17h35)",
+    "published": "2026-11-01T20:35:00+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Uma proposta do economista André Lara Resende, um dos formuladores do Plano Real, para reduzir a taxa Selic por meio de um novo arranjo entre as políticas fiscal e monetária entrou no radar do presidente Luiz Inácio Lula da Silva (PT) e já provoca apreensão no mercado financeiro.",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Lula diz que não encerrará nenhum programa social e pode criar novos",
     "link": "https://valor.globo.com/politica/noticia/2026/11/01/lula-diz-que-no-encerrar-nenhum-programa-social-e-pode-criar-novos.ghtml",
@@ -64,6 +77,10 @@
       {
         "source": "Poder360",
         "link": "https://www.poder360.com.br/poder-internacional/juiza-rejeita-acao-de-trump-para-barrar-resultado-da-eleicao-no-alasca/"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-internacional/leia-o-que-trump-disse-ate-agora-sobre-as-eleicoes-no-brasil/"
       }
     ]
   },
@@ -3780,18 +3797,6 @@
       "Politica"
     ],
     "summary": "Suspeita de vazar a operação  que acabou prendendo o então deputado estadual Thiego Raimundo dos Santos Silva, o TH Jóias,  o desembargador Macário Ramos Júdice Neto, do Tribunal Regional Federal da 2ª Região (TRF-2), foi colocado em liberdade na noite desta sexta-feira pelo mini",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Papa Leão 14 se torna 1º pontífice a votar em eleições dos EUA",
-    "link": "https://www.poder360.com.br/poder-internacional/papa-leao-14-se-torna-1o-pontifice-a-votar-em-eleicoes-dos-eua/",
-    "description": "Nascido em Chicago, líder da Igreja Católica enviou voto pelo correio para as eleições legislativas de 3 de novembro",
-    "published": "2026-10-31T00:11:39+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Nascido em Chicago, líder da Igreja Católica enviou voto pelo correio para as eleições legislativas de 3 de novembro",
     "relevance": 5
   }
 ]
