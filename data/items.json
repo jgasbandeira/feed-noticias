@@ -1,6 +1,30 @@
 [
   {
     "source": "Poder360",
+    "title": "Tabata defende Alckmin na Fazenda e admite disputar SP em 2028",
+    "link": "https://www.poder360.com.br/poder-congresso/tabata-defende-alckmin-na-fazenda-e-admite-disputar-sp-em-2028/",
+    "description": "Deputada do PSB apoia vice-presidente para comandar a economia no Lula 4 e diz que voltar a concorrer à Prefeitura de São Paulo é desejo seu e do partido",
+    "published": "2026-11-01T00:57:07+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Deputada do PSB apoia vice-presidente para comandar a economia no Lula 4 e diz que voltar a concorrer à Prefeitura de São Paulo é desejo seu e do partido",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Direita sem Bolsonaro é oportunismo, diz Gilson Machado",
+    "link": "https://www.poder360.com.br/poder-eleicoes-2026/direita-sem-bolsonaro-e-oportunismo-diz-gilson-machado/",
+    "description": "Ex-ministro critica políticos que buscam protagonismo na direita após a fuga de Flávio Bolsonaro para os Estados Unidos",
+    "published": "2026-11-01T00:45:36+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Ex-ministro critica políticos que buscam protagonismo na direita após a fuga de Flávio Bolsonaro para os Estados Unidos",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
     "title": "Aldeias Guarani Kaiowá vão receber proteção da Força Nacional",
     "link": "https://www.poder360.com.br/poder-sustentavel/aldeias-guarani-kaiowa-vao-receber-protecao-da-forca-nacional/",
     "description": "Denúncias de violência política na região cresceram desde o 2º turno das eleições presidenciais",
@@ -3737,36 +3761,6 @@
       "Politica"
     ],
     "summary": "A Irani disse que o cenário macroeconômico influenciará o ritmo de novas decisões de investimento da empresa. A fabricante de papéis e embalagens anunciou neste ano a plataforma Neos, plano para dobrar sua participação no mercado nacional de papelão ondulado até 2034, com duas no",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "FT: Anthropic pode não ter ‘grau de investimento’ após IPO, diz Blackstone a investidores",
-    "link": "https://valor.globo.com/financas/noticia/2026/10/30/ft-anthropic-pode-no-ter-grau-de-investimento-aps-ipo-diz-blackstone-a-investidores.ghtml",
-    "description": "A Blackstone informou aos investidores que a Anthropic pode não receber uma classificação de \"grau de investimento\" (“investment-grade” em inglês) logo após sua abertura de capital. A mudança em relação a uma projeção anterior pode complicar a capacidade da empresa de inteligência artificial (IA) de financiar seus gastos vultosos.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-10-30T17:23:09+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A Blackstone informou aos investidores que a Anthropic pode não receber uma classificação de \"grau de investimento\" (“investment-grade” em inglês) logo após sua abertura de capital. A mudança em relação a uma projeção anterior pode complicar a capacidade da empresa de inteligênci",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Folha",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/blackstone-ve-risco-de-anthropic-ficar-sem-grau-de-investimento-apos-ipo.shtml"
-      }
-    ]
-  },
-  {
-    "source": "NeoFeed",
-    "title": "Os dois trunfos regulatórios que a Vale espera tirar do papel com o fim das Eleições",
-    "link": "https://neofeed.com.br/negocios/os-dois-trunfos-regulatorios-que-a-vale-espera-tirar-do-papel-com-o-fim-das-eleicoes/",
-    "description": "Com o fim das Eleições, a Vale espera avanços em Brasília em duas iniciativas que podem destravar novos investimentos em cobre e ampliar a competitividade de suas operações de minério de ferro. A mineradora vê na regulamentação da Lei de Minerais Críticos e na publicação de um novo decreto sobre cavidades naturais duas oportunidades para [&#8230;]\nO post Os dois trunfos regulatórios que a Vale espera tirar do papel com o fim das Eleições apareceu primeiro em NeoFeed.",
-    "published": "2026-10-30T17:18:25+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Com o fim das Eleições, a Vale espera avanços em Brasília em duas iniciativas que podem destravar novos investimentos em cobre e ampliar a competitividade de suas operações de minério de ferro. A mineradora vê na regulamentação da Lei de Minerais Críticos e na publicação de um no",
     "relevance": 5
   }
 ]
