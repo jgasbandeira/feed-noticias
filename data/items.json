@@ -1,6 +1,19 @@
 [
   {
     "source": "Poder360",
+    "title": "Restringir mineração pode favorecer garimpo ilegal, diz Gilmar",
+    "link": "https://www.poder360.com.br/poder-justica/restringir-mineracao-pode-favorecer-garimpo-ilegal-diz-gilmar/",
+    "description": "Ministro do STF defende análise dos impactos e benefícios da exploração mineral em terras indígenas e cobra equilíbrio entre desenvolvimento econômico e proteção ambiental",
+    "published": "2026-11-01T01:39:30+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Ministro do STF defende análise dos impactos e benefícios da exploração mineral em terras indígenas e cobra equilíbrio entre desenvolvimento econômico e proteção ambiental",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
     "title": "Flávio pode ficar nos EUA o tempo que quiser, diz Trump",
     "link": "https://www.poder360.com.br/poder-internacional/flavio-pode-ficar-nos-eua-o-tempo-que-quiser-diz-trump/",
     "description": "Presidente norte-americano afirma que senador foi tratado “muito mal”, critica eleição brasileira e diz não ter planos de encontrá-lo na Flórida",
@@ -3748,18 +3761,6 @@
       "Politica"
     ],
     "summary": "Proposta de 65 deputados petistas estabelece penas de até 6 anos para discriminação por convicção política",
-    "relevance": 5
-  },
-  {
-    "source": "Financial Times",
-    "title": "US tech stocks tumble as earnings stoke AI spending fears",
-    "link": "https://www.ft.com/content/3ba953ae-84bb-4de4-959e-baec3e908fb3?syn-25a6b1a6=1",
-    "description": "Intel’s shares on track to plunge by the most since 1974 after chipmaker’s results spook investors",
-    "published": "2026-10-30T17:30:44+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Intel’s shares on track to plunge by the most since 1974 after chipmaker’s results spook investors",
     "relevance": 5
   }
 ]
