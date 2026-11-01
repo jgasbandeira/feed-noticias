@@ -1,5 +1,42 @@
 [
   {
+    "source": "O Globo",
+    "title": "Confrontos pelo acesso à água deixam pelo menos 25 mortos em região do Chade",
+    "link": "https://oglobo.globo.com/blogs/clima-extremo/post/2026/11/confrontos-pelo-acesso-a-agua-deixam-pelo-menos-25-mortos-em-regiao-do-chade.ghtml",
+    "description": "Confrontos entre grupos étnicos, motivados pela disputa pelo acesso à água no centro do Chade, deixaram, nos últimos dias, pelo menos 25 mortos e 22 feridos, informou o governo neste domingo (1º).\nVolta pra casa: Orangotangos resgatados de florestas em chamas na Indonésia são devolvidos à natureza\nVídeo: tubarão-branco se aproxima de barco, e mulher encosta em animal, que reage\nO Chade, considerado pela Organização das Nações Unidas um dos países africanos mais vulneráveis ​​às mudanças climáticas, registra frequentemente confrontos entre comunidades relacionados ao acesso à água, à terra e ao gado.\nA violência eclodiu na sexta-feira (30), após uma disputa entre um pastor da comunidade Kreda — que havia levado seu gado para beber em um reservatório — e um integrante da comunidade Kuka, explicou um deputado local à AFP.\n— Após a discussão, o homem da comunidade Kreda sacou sua arma e atirou no pé do integrante da comunidade Kuka. Isso desencadeou uma troca de tiros entre as duas comunidades. Posteriormente, 22 feridos foram levados ao hospital de Ngoura [capital do departamento] — acrescentou o parlamentar.\nA linguagem secreta dos gatos: por que esses felinos se aproximam com o rabo levantado?\nAs forças de segurança conseguiram, mais tarde, controlar em grande parte a situação, informou outra autoridade local à AFP.\nO Ministério da Administração Territorial informou, neste domingo, que a violência resultou em 25 mortos e 22 feridos em uma área situada na fronteira entre as províncias de Hadjer-Lamis e Bahr el Ghazal.\nSegundo a ONU, menos de 10% dos domicílios no Chade tinham acesso confiável à água potável encanada em 2024.\nEm abril, uma disputa por um poço de água no leste do Chade deixou 44 mortos e dez feridos.",
+    "published": "2026-11-01T13:08:03+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Confrontos entre grupos étnicos, motivados pela disputa pelo acesso à água no centro do Chade, deixaram, nos últimos dias, pelo menos 25 mortos e 22 feridos, informou o governo neste domingo (1º).\nVolta pra casa: Orangotangos resgatados de florestas em chamas na Indonésia são dev",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "A falsa oposição entre crescimento econômico, responsabilidade fiscal e combate à desigualdade",
+    "link": "https://valor.globo.com/brasil/noticia/2026/11/01/a-falsa-oposio-entre-crescimento-econmico-responsabilidade-fiscal-e-combate-desigualdade.ghtml",
+    "description": "O Brasil é um país que insiste em desperdiçar o seu potencial econômico, e as últimas eleições nacionais mostram que esse cenário não deve ser revertido no curto prazo, de acordo com os autores do livro \"Os Custos das Desigualdades: uma carta às elites econômicas\". Em conversa com o Valor, Michael França e Daniel Duque afirmam que a desigualdade econômica e social brasileira não é apenas um dilema moral ou de justiça social, mas um severo entrave ao crescimento da economia.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-01T13:05:10+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O Brasil é um país que insiste em desperdiçar o seu potencial econômico, e as últimas eleições nacionais mostram que esse cenário não deve ser revertido no curto prazo, de acordo com os autores do livro \"Os Custos das Desigualdades: uma carta às elites econômicas\". Em conversa co",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Proibição das bets começa a impulsionar vendas no varejo; veja quem ganha para o BTG Pactual",
+    "link": "https://www.moneytimes.com.br/proibicao-das-bets-comeca-a-impulsionar-vendas-no-varejo-quem-ganha-para-btg-mlem/",
+    "description": "A proibição das plataformas de apostas online, mais conhecidas como bets, no Brasil já começa a impulsionar vendas em supermercados e no varejo, segundo o BTG Pactual. Em relatório publicado na quinta-feira (29), o banco cita dados divulgados pela Associação Brasileira de Supermercados (ABRAS) no mesmo dia. Segundo a associação, as vendas do varejo alimentar [&#8230;]",
+    "published": "2026-11-01T13:00:00+00:00",
+    "themes": [
+      "XP"
+    ],
+    "summary": "A proibição das plataformas de apostas online, mais conhecidas como bets, no Brasil já começa a impulsionar vendas em supermercados e no varejo, segundo o BTG Pactual. Em relatório publicado na quinta-feira (29), o banco cita dados divulgados pela Associação Brasileira de Superme",
+    "relevance": 5
+  },
+  {
     "source": "Money Times",
     "title": "Retornos de até 12%: 5 ações para ter na carteira de dividendos de novembro, segundo a Ágora Investimentos",
     "link": "https://www.moneytimes.com.br/retornos-de-ate-12-5-acoes-para-ter-na-carteira-de-dividendos-de-novembro-segundo-a-agora-investimentos-lmrs/",
@@ -1629,7 +1666,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Binance promete cobrir prejuízo de investidores após roubo bilionário de hackers\nA corretora de criptomoedas Binance, alvo de um ataque hacker que resultou no roubo de mais de US$ 6 bilhões, anunciou neste sábado (31) que já conseguiu cobrir 90% do valor das perdas. \nA empresa af",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/financas/noticia/2026/11/01/binance-retomara-saques-de-clientes-apos-ataque-hacker.ghtml"
+      }
+    ]
   },
   {
     "source": "Money Times",
@@ -3737,43 +3780,6 @@
       "Mercado Financeiro"
     ],
     "summary": "A plataforma cripto Bitget protocolou junto ao Banco Central do Brasil um pedido de autorização para operar no país como prestadora de serviços de ativos virtuais (PSAV).\n\nSegundo a Bitget, o pedido de autorização ao Banco Central representa mais um passo na trajetória de expansã",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Do rali à queda histórica: como o Ibovespa caiu 9,88% no mês, maior baixa desde 2022",
-    "link": "https://www.infomoney.com.br/mercados/do-rali-a-queda-historica-como-ibovespa-caiu-988-outubro-2026-maior-baixa-desde-2022/",
-    "description": "Ibovespa saiu de máximas históricas acima de 209 mil pontos para encerrar o mês abaixo de 170 mil; eleições mudaram completamente a narrativa do mercado e desencadearam uma das maiores rotações setoriais dos últimos anos\nThe post Do rali à queda histórica: como o Ibovespa caiu 9,88% no mês, maior baixa desde 2022 appeared first on InfoMoney.",
-    "published": "2026-10-30T20:44:11+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Ibovespa saiu de máximas históricas acima de 209 mil pontos para encerrar o mês abaixo de 170 mil; eleições mudaram completamente a narrativa do mercado e desencadearam uma das maiores rotações setoriais dos últimos anos\nThe post Do rali à queda histórica: como o Ibovespa caiu 9,",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Economia",
-    "title": "Trump diz que EUA investigam se ataque contra a Binance foi feito por hackers da Coreia do Norte",
-    "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/trump-diz-que-eua-investigam-se-ataque-contra-a-binance-foi-feita-por-hackers-da-coreia-do-norte.ghtml",
-    "description": "Hackers roubam US$ 6,3 bilhões da Binance, maior corretora de criptomoedas do mundo\nO presidente americano Donald Trump afirmou nesta sexta-feira (30) que os Estados Unidos estão investigando se hackers da Coreia do Norte estão por trás do ataque hacker contra a Binance, maior corretora de criptomoedas do mundo.\n\"Estamos investigando\", disse Trump a jornalistas na Casa Branca, ao ser questionado se o ataque deveria ser atribuído a um grupo de hackers da Coreia do Norte.\n🗒️Tem alguma sugestão de reportagem? Mande para o g1\n\"Você sabe como era antigamente, quando você assinava um cheque e o sacava? Essas pessoas são diferentes. Nunca mais vemos o dinheiro. Então, sempre achei isso um pouco perigoso\", afirmou.\nA ação contra a Binance levou cerca de 20 minutos, terminou com o roubo de US$ 6,3 bilhões (cerca de R$ 34 bilhões) e é apontada como o maior ataque hacker da história do setor de criptomoedas. \nDonald Trump, presidente dos Estados Unidos, em foto de 30 de outubro de 2026\nAFP/Alex Wroblewski\nBinance: notebook invadido pode ter aberto caminho para roubo bilionário\nSegundo a Reuters, a Binance está trabalhando com autoridades policiais em todo o mundo, incluindo o Departamento Federal de Investigação (FBI) e o Serviço Secreto dos Estados Unidos (USSS).\nAs empresas americanas TRM Labs e Chainalysis, especializadas em rastrear movimentações de criptomoedas, afirmam que os responsáveis pelo roubo são hackers ligados à Coreia do Norte.\nMas a Binance afirmou pela manhã que não tinha identificado os criminosos.\nA empresa informou que investimentos de clientes brasileiros permanecem seguros porque são ativos mantidos em cold wallets, conhecidas como carteiras frias. Apesar da garantia de segurança, os saques de criptomoedas foram temporariamente suspensos.\n🔎 Cold wallet, ou carteira fria, é uma forma de guardar criptomoedas que mantém as chaves necessárias para movimentá-las desconectadas da internet. Isso dificulta a ação de hackers e reduz o risco de roubos virtuais, mas não elimina completamente a possibilidade de perdas.\nEm comunicado, a Binance disse que, no Brasil, segue as regras do Banco Central, que, desde fevereiro, exige a separação dos recursos dos usuários aos da corretora. A exigência, porém, não elimina o risco de ataques hackers nem garante o ressarcimento de eventuais perdas.\nHackers roubam US$ 6 bilhões em criptomoedas",
-    "published": "2026-10-30T20:41:15+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Hackers roubam US$ 6,3 bilhões da Binance, maior corretora de criptomoedas do mundo\nO presidente americano Donald Trump afirmou nesta sexta-feira (30) que os Estados Unidos estão investigando se hackers da Coreia do Norte estão por trás do ataque hacker contra a Binance, maior co",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Pitney Bowes Brasil e Clique Retire oficializam parceria",
-    "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/10/30/pitney-bowes-brasil-e-clique-retire-oficializam-parceria-1.ghtml",
-    "description": "A Pitney Bowes Brasil e a Clique Retire oficializam uma parceria estratégica voltada à expansão de soluções de armários inteligentes no mercado brasileiro. A iniciativa combina tecnologias para gestão e rastreabilidade de encomendas da Pitney Bowes com a atuação da Clique Retire no ecossistema de smart lockers, criando mais possibilidades de automação para condomínios residenciais, edifícios corporativos e outras operações com grande circulação de encomendas.\nA parceria responde a uma mudança na rotina desses ambientes. O crescimento das compras online ampliou a quantidade de volumes que chegam diariamente a portarias e recepções, tornando atividades como recebimento, registro, armazenamento, notificação e retirada parte relevante da gestão condominial.\nA proposta das empresas é conectar tecnologia e infraestrutura física para tornar essa jornada mais digital, flexível e rastreável para quem administra e para os usuários. A Pitney Bowes já oferece no mercado brasileiro o PB One Tracking, voltado à gestão de encomendas, e o PB Smart Locker, solução baseada em IoT para gestão de armários inteligentes. Segundo a companhia, o PB Smart Locker pode ser integrado ao sistema de mensageria PB One Tracking, permitindo concentrar a gestão desses processos em um único ambiente.\nJá a Clique Retire é reconhecida no Brasil como líder em entregar infraestrutura de lockers robusta, segura e de alta qualidade, no qual complementa essa camada tecnológica e amplia as possibilidades para projetos em que a retirada autônoma faz parte da estratégia operacional.\nTecnologia e lockers para uma nova rotina de encomendas\nO avanço dos smart lockers acompanha a busca por menor dependência de processos manuais e maior autonomia dos usuários. Em sua operação, a Clique Retire possui mais de 1.000 pontos no Brasil e mais de 500 mil usuários.\nJá a tecnologia da Pitney Bowes Brasil permite a gestão digital de lockers e acessos. De acordo com informações da própria companhia, o PB One Locker utiliza IoT para gerenciamento de fechaduras inteligentes e permite acompanhar portas utilizadas, tempo de uso e permissões de acesso. A solução pode ser aplicada tanto a estruturas existentes quanto a projetos de armários inteligentes.\n\"A combinação amplia o escopo para projetos em que gestão de encomendas, rastreabilidade e retirada autônoma precisam fazer parte de uma mesma estratégia de digitalização de forma integrada e eficiente, sem complicações tanto na implantação quanto no dia a dia.\" Afirma Thais Mendes, Head de Smart Solutions da Pitney Bowes.\nUma parceria voltada à evolução do mercado\nA oficialização da parceria busca ampliar essa atuação, aproximando a tecnologia aplicada à gestão das encomendas da infraestrutura necessária para automatizar a etapa de armazenamento e retirada.\n\"A parceria amplia nossa capacidade de entregar uma jornada mais completa para empresas de diversos setores e condomínios. Ao conectar gestão digital, rastreabilidade e armários inteligentes, criamos condições para reduzir etapas manuais e, ao mesmo tempo, dar mais autonomia aos usuários.\", complementa Gustavo Artuzo da Clique Retire.\nMais do que receber pacotes\nA parceria também acompanha uma evolução no papel dos lockers. Além do recebimento de encomendas, armários inteligentes podem ser incorporados a diferentes rotinas de armazenamento e gestão de objetos dentro das organizações, centros logísticos e condomínios.\nPara Facilities e gestores condominiais, o avanço desse modelo representa uma transição importante: o armário deixa de ser apenas espaço físico para se tornar um ponto conectado da operação, capaz de gerar registros, aumentar a rastreabilidade e transferir determinadas interações para o autosserviço.\nSobre a Pitney Bowes\nA Pitney Bowes (NYSE: PBI) é uma empresa orientada por tecnologia que oferece soluções digitais de envio, inovação em correspondências e serviços financeiros a clientes em todo o mundo, incluindo mais de 90% das empresas da Fortune 500. No Brasil, a companhia oferece soluções para logística e intralogística, incluindo esteiras, sistemas de triagem, equipamentos de pesagem e cubagem, além de tecnologias para mensageria, expedição e inteligência operacional.\nSobre a Clique Retire\nA Clique é líder absoluta em soluções logísticas de autoatendimento no Brasil e redefinimos a conexão entre o delivery de encomendas e o morador. Operando a maior e mais avançada rede de armários inteligentes (smart lockers) do país, com mais de 2.500 equipamentos em todo o Brasil. Transformamos os pontos de retirada no principal hub de conveniência urbana do território nacional, gerando satisfação e redução de custos. Com um crescimento exponencial, já impactamos mais de 1 milhão de brasileiros, consolidando nossa liderança no mercado e abrindo oportunidades para marcas que desejam se conectar com um público em constante movimento.\nContato de imprensa\nPitney Bowes Brasil pbs@pitneybowes.com.br",
-    "published": "2026-10-30T20:39:22+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A Pitney Bowes Brasil e a Clique Retire oficializam uma parceria estratégica voltada à expansão de soluções de armários inteligentes no mercado brasileiro. A iniciativa combina tecnologias para gestão e rastreabilidade de encomendas da Pitney Bowes com a atuação da Clique Retire ",
     "relevance": 5
   }
 ]
