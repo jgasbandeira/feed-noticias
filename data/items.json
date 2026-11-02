@@ -1,5 +1,29 @@
 [
   {
+    "source": "Poder360",
+    "title": "Zé Trovão anuncia candidatura à presidência da Câmara contra Motta",
+    "link": "https://www.poder360.com.br/poder-congresso/ze-trovao-anuncia-candidatura-a-presidencia-da-camara-contra-motta/",
+    "description": "Deputado afirma que disputará o comando da Casa se o PL não apresentar candidato para a eleição",
+    "published": "2026-11-02T01:59:34+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Deputado afirma que disputará o comando da Casa se o PL não apresentar candidato para a eleição",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Não vou ser ministro do governo Lula, diz Janones",
+    "link": "https://www.poder360.com.br/poder-governo/nao-vou-ser-ministro-do-governo-lula-diz-janones/",
+    "description": "Reeleito em 2026, deputado afirmou que ficará na Câmara \"representando o povo\"",
+    "published": "2026-11-02T01:53:23+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Reeleito em 2026, deputado afirmou que ficará na Câmara \"representando o povo\"",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Boulos e Tarcísio trocam ataques por alta prevista no preço do diesel",
     "link": "https://valor.globo.com/politica/noticia/2026/11/01/boulos-e-tarcsio-trocam-ataques-por-alta-prevista-no-preo-do-diesel.ghtml",
@@ -3784,29 +3808,5 @@
         "link": "https://www.poder360.com.br/poder-internacional/vice-ministro-da-justica-do-chile-renuncia-apos-reduzir-pena-de-abusadores/"
       }
     ]
-  },
-  {
-    "source": "Poder360",
-    "title": "Leia a íntegra da nota do PT sobre a mobilização popular nas eleições",
-    "link": "https://www.poder360.com.br/poder-eleicoes-2026/leia-a-integra-da-nota-do-pt-sobre-a-mobilizacao-popular-nas-eleicoes/",
-    "description": "Partido agradeceu militância e traçou objetivos para novo mandato de Lula",
-    "published": "2026-10-31T02:32:56+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Partido agradeceu militância e traçou objetivos para novo mandato de Lula",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Turquia indica seu próprio candidato para dirigir a ONU após sete votações indefinidas",
-    "link": "https://oglobo.globo.com/mundo/noticia/2026/10/30/turquia-indica-seu-proprio-candidato-para-dirigir-a-onu-apos-sete-votacoes-indefinidas.ghtml",
-    "description": "A Turquia nomeou Feridun Hadi Sinirlioglu, chefe da Organização para Segurança e Cooperação na Europa (OSCE), como candidato ao cargo de secretário-geral da ONU, informou a agência de notícias Anadolu na madrugada local deste sábado (31).\nUma carta de candidatura datada de sexta (30) e assinada pelo presidente turco, Recep Tayyip Erdogan, foi enviada aos presidentes da Assembleia Geral e do Conselho de Segurança, sinalizou o veículo citando fontes do Ministério das Relações Exteriores.\nO anúncio acontece após um impasse no processo de seleção do próprio secretário-geral, já que a última votação realizada na sexta na sede das Nações Unidas chegou a um resultado inconclusivo.\nAo fim da sétima rodada de eleições, a ex-vice-presidente da Costa Rica, Rebeca Grynspan, voltou a ficar em primeiro lugar. \nDurante a votação a portas fechadas, os 15 membros do Conselho de Segurança atribuem a cada candidato, de forma anônima, uma classificação de \"apoio\", \"não tem apoio\" ou \"sem opinião\".\nAo contrário do que ocorreu na rodada anterior, os votos dos cinco membros permanentes do Conselho — Estados Unidos, França, Reino Unido, Rússia e China — não foram distinguidos com cédulas de cores diferentes.\nNo entanto, nenhum dos sete candidatos na corrida conseguiu evitar um voto negativo de algum destes membros permanentes — países com direito de veto.\nAssim que um candidato superar todos os obstáculos, seu nome será levado para a Assembleia Geral para sua confirmação.\nO secretário-geral atual, o português António Guterres, termina seu segundo mandato de cinco anos em 31 de dezembro.",
-    "published": "2026-10-31T02:18:46+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A Turquia nomeou Feridun Hadi Sinirlioglu, chefe da Organização para Segurança e Cooperação na Europa (OSCE), como candidato ao cargo de secretário-geral da ONU, informou a agência de notícias Anadolu na madrugada local deste sábado (31).\nUma carta de candidatura datada de sexta ",
-    "relevance": 5
   }
 ]
