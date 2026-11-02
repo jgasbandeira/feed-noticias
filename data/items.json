@@ -1,5 +1,17 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "'Se os democratas estiverem na frente, é muito provável que Trump conteste os resultados', diz historiador",
+    "link": "https://valor.globo.com/mundo/noticia/2026/11/02/se-os-democratas-estiverem-na-frente-e-muito-provavel-que-trump-conteste-os-resultados-diz-historiador.ghtml",
+    "description": "As eleições de meio de mandato desta terça-feira (3) nos Estados Unidos são uma oportunidade para a reconstrução da força da democracia no país, avalia o historiador Alexander Keyssar, professor da Harvard Kennedy School em entrevista ao Valor por meio de uma plataforma de vídeo, Keyssar, de 79 anos, autor de diversos livros sobre o processo eleitoral americano, traça cenários para a segunda metade do mandato Trump 2, desde a recuperação dos poderes de investigação da Câmara em caso de vitória do Partido Democrata até um improvável impeachment do presidente. Keyssar considera provável que o presidente Donald Trump ceste os resultados, caso candidatos do Partido Democrata apareçam à frente na apuração dos votos. Serão eleitos 435 deputados, 35 senadores (1/3 da Casa) e 36 governadores. Estes são os principáis trechos da conversa: Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-02T10:00:01+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "As eleições de meio de mandato desta terça-feira (3) nos Estados Unidos são uma oportunidade para a reconstrução da força da democracia no país, avalia o historiador Alexander Keyssar, professor da Harvard Kennedy School em entrevista ao Valor por meio de uma plataforma de vídeo,",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Economia",
     "title": "Investidores retiram US$ 3,6 bilhões da Binance após ataque hacker",
     "link": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/02/investidores-retiram-us-36-bilhoes-da-binance-apos-ataque-hacker.ghtml",
@@ -470,7 +482,13 @@
       "Politica"
     ],
     "summary": "Começam a valer nesta segunda-feira as novas regras para os Serviços de Atendimento ao Consumidor (SACs) de empresas de setores regulados pelo governo federal, como telecomunicações, energia elétrica, aviação e bancos. A principal mudança é o direito de falar com um ser humano da",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Economia",
+        "link": "https://g1.globo.com/politica/noticia/2026/11/02/empresas-devem-oferecer-atendimento-humano-para-o-consumidor-a-partir-desta-segunda-feira.ghtml"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -1495,6 +1513,18 @@
       "Politica"
     ],
     "summary": "O fantasma de Dilma 2 assombra Luiz Inácio Lula da Silva. É preocupação que o presidente externou na semana que passou a pessoas que trataram com ele de ideias econômicas, Congresso, programas sociais ou política digital. Fica entre assustado e revoltado.\nLeia mais (11/01/2026 - ",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Novembro é o mês com mais feriados nacionais em 2026; confira",
+    "link": "https://valor.globo.com/brasil/noticia/2026/11/01/novembro-e-o-mes-com-mais-feriados-nacionais-em-2026-confira.ghtml",
+    "description": "Novembro já começa com uma folga garantida para os brasileiros. O Dia de Finados, comemorado nesta segunda-feira (2), é o primeiro de três feriados nacionais previstos para o penúltimo mês de 2026, de acordo com o calendário oficial do governo federal. \nAlém da homenagem àqueles que já se foram, os brasileiros celebrarão a Proclamação da República, no dia 15, e o Dia Nacional de Zumbi e da Consciência Negra, no dia 20.  \nEm 2026, o dia 15 cairá em um domingo e o dia 20 em uma sexta-feira, garantindo pelo menos uma folga a mais neste mês. \nEnquanto os dois primeiros feriados são previstos pela Lei nº 10.607/2002, a data da luta de Zumbi é feriado devido à Lei nº 14.759/2023. Entre as 10 folgas nacionais previstas para esse ano, o Dia Nacional de Zumbi e da Consciência Negra é a mais recente a integrar o calendário. \nVeja os feriados restantes em 2026:\nFeriados nacionais restantes em 2026\nFeriados Estaduais \nEm âmbito estadual e distrital, quatro unidades federativas terão comemorações locais.  \nNo dia 17 (terça-feira), o Acre celebra o Tratado de Petrópolis em um feriado estadual previsto pela Lei nº 57/1965. Uma semana depois, é a vez do Amapá, que homenageia o Dia do Doador de Sangue. A folga será no dia 25 (quarta-feira) e é prevista pela Lei nº 393/1997. \nJá no fim de novembro, residentes do Distrito Federal e do Alagoas comemoram o Dia do Evangélico, pelo feriado estadual (e distrital, no caso do DF) previsto pelas leis nº 963/1995 e nº 7.530/2013, respectivamente. \n*Estagiária sob supervisão de Diogo Max",
+    "published": "2026-11-01T11:00:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Novembro já começa com uma folga garantida para os brasileiros. O Dia de Finados, comemorado nesta segunda-feira (2), é o primeiro de três feriados nacionais previstos para o penúltimo mês de 2026, de acordo com o calendário oficial do governo federal. \nAlém da homenagem àqueles ",
     "relevance": 5
   },
   {
@@ -3779,30 +3809,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Funai prevê R$ 37,3 milhões para recuperar áreas degradadas pelo garimpo nos próximos 5 anos",
-    "relevance": 5
-  },
-  {
-    "source": "Estadão",
-    "title": "Centro de SP ganha liquidez com avanço dos estúdios, mas preços sobem abaixo da inflação",
-    "link": "https://www.estadao.com.br/economia/negocios/centro-de-sp-ganha-liquidez-com-avanco-dos-estudios-mas-precos-sobem-abaixo-da-inflacao/",
-    "description": "",
-    "published": "2026-10-31T08:30:00+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Centro de SP ganha liquidez com avanço dos estúdios, mas preços sobem abaixo da inflação",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Projeto propõe financiamento do Move Brasil para representantes comerciais",
-    "link": "https://www.poder360.com.br/poder-economia/projeto-propoe-financiamento-do-move-brasil-para-representantes-comerciais/",
-    "description": "Texto está em análise na Câmara dos Deputados e prevê crédito para a compra de veículos novos",
-    "published": "2026-10-31T08:20:27+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Texto está em análise na Câmara dos Deputados e prevê crédito para a compra de veículos novos",
     "relevance": 5
   }
 ]
