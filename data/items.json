@@ -1,5 +1,56 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Apple lucra US$ 30,7 bilhões no quarto trimestre fiscal, alta de 11,8%",
+    "link": "https://valor.globo.com/empresas/noticia/2026/11/02/apple-lucra-us-307-bilhoes-no-quarto-trimestre-fiscal-alta-de-118percent.ghtml",
+    "description": "A Apple apresentou lucro líquido de US$ 30,7 bilhões no quarto trimestre fiscal de 2026, resultado 11,8% acima do divulgado no período equivalente de 2025.\n\nA companhia sediada em Cupertino, na Califórnia apresentou lucro líquido acima das projeções de analistas sondados pelaFacSet, que esperavam ganho de US$ 29,1 bilhões para o trimestre encerrado em 26 de setembro. \n\nA receita da dona do iPhone somou US$ 114,5 bilhões no trimestre encerrado em 26 de setembro, avanço de 11,7% na comparação anual. O resultado também ficou acima da receita de US$ 113,4 bilhões estimada pelos analistas. \n\nAs vendas do iPhone somaram US$ 57,6 bilhões no trimestre, alta de 17,54% na comparação com o período equivalente de 2025. A receita da companhia com serviços, incluindo streaming de vídeos, jogos e armazenamento de dados na nuvem somou US$ 31,6 bilhões, crescimento de 9,8% na base anual.\n\nO ganho diluído de US$ 2,10 por ação no trimestre ficou acima da expectativa de analistas que previam lucro de US$ 1,99 no período.\n\nA ação da Apple recuou mais de 0,79% logo após da divulgação do balanço, por volta das 18h30 e depois passou a operar em pequena alta: subia 0,20% às 18h56 (horário de Brasília).\n\nOs papéis fecharam em queda de 1,83% no pregão regular da Nasdaq, antes da divulgação dos resultados.\n\nNo consolidado do ano fiscal de 2026, a empresa lucrou US$ 132,2 bilhões, alta de 18% em relação ao ano de 2025. A receita anual alcançou US$ 478,8 bilhões nos 12 meses encerrados em 26 de setembro, crescimento de 15,1% na comparação anual. \n\nAs ações da Apple acumulam alta de 27% em 2026.\n\nApple\nDivulgação/Apple",
+    "published": "2026-11-02T22:19:37+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "A Apple apresentou lucro líquido de US$ 30,7 bilhões no quarto trimestre fiscal de 2026, resultado 11,8% acima do divulgado no período equivalente de 2025.\n\nA companhia sediada em Cupertino, na Califórnia apresentou lucro líquido acima das projeções de analistas sondados pelaFacS",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Leia a íntegra do documento sobre política fiscal de Lula",
+    "link": "https://www.poder360.com.br/poder-integras/leia-a-integra-do-documento-sobre-politica-fiscal-de-lula/",
+    "description": "Texto de José Sérgio Gabrielli defende corte de juros sem impor austeridade e apoia tese de André Lara Resende",
+    "published": "2026-11-02T22:14:16+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Texto de José Sérgio Gabrielli defende corte de juros sem impor austeridade e apoia tese de André Lara Resende",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Trump admite indultos a aliados e promete vetos se democratas vencerem eleição",
+    "link": "https://www.infomoney.com.br/mundo/trump-admite-indultos-a-aliados-e-promete-vetos-se-democratas-vencerem-eleicao/",
+    "description": "Questionado sobre a possibilidade de perdoar antecipadamente aliados diante de ameaças de investigações, Trump citou o antecessor Joe Biden\nThe post Trump admite indultos a aliados e promete vetos se democratas vencerem eleição appeared first on InfoMoney.",
+    "published": "2026-11-02T22:13:31+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Questionado sobre a possibilidade de perdoar antecipadamente aliados diante de ameaças de investigações, Trump citou o antecessor Joe Biden\nThe post Trump admite indultos a aliados e promete vetos se democratas vencerem eleição appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Focus deve mostrar piora das expectativas antes do Copom",
+    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/focus-deve-mostrar-piora-das-expectativas-antes-do-copom.ghtml",
+    "description": "Uma piora relevante das expectativas de inflação, câmbio e Selic é esperada para o Boletim Focus, que será divulgado excepcionalmente nesta terça-feira, por conta do feriado de Finados. A dinâmica inflacionária poderá reforçar o cenário de interrupção do ciclo de queda da Selic, pelo Comitê de Política Monetária (Copom), do Banco Central, que passou a ser a aposta predominante entre os analistas, segundo o Valor Investe. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-02T22:05:28+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Uma piora relevante das expectativas de inflação, câmbio e Selic é esperada para o Boletim Focus, que será divulgado excepcionalmente nesta terça-feira, por conta do feriado de Finados. A dinâmica inflacionária poderá reforçar o cenário de interrupção do ciclo de queda da Selic, ",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Coordenador do programa de governo de Lula endossa Lara Resende",
     "link": "https://www.poder360.com.br/poder-economia/coordenador-do-programa-de-governo-de-lula-endossa-lara-resende/",
@@ -11,6 +62,18 @@
       "Mercado Financeiro"
     ],
     "summary": "Gabrielli defendeu criar órgão para metas de juros e criticou o mercado financeiro em artigo sobre política econômica",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Nikolas Ferreira anuncia que será pai pela segunda vez: 'filhos são luz'",
+    "link": "https://oglobo.globo.com/blogs/sonar-a-escuta-das-redes/post/2026/11/nikolas-ferreira-anuncia-que-sera-pai-pela-segunda-vez-filhos-sao-luz.ghtml",
+    "description": "O deputado federal Nikolas Ferreira (PL-MG) anunciou, por meio de uma publicação nas redes sociais nesta segunda-feira, que será pai pela segunda vez. Ele é casado com a modelo Lívia Bergamim Orletti.\nReceita contra 'puxadores': sob objeção de PT e PL, Centrão aposta em racha nas siglas para emplacar voto distrital misto\n'Não aprovo aquela teoria de Deus, pátria e família': bispo Edir Macedo critica lema do bolsonarismo em culto\n—  Durante as eleições foram 69 dias, 80 cidades e no meio disso tudo — disse Nikolas no vídeo, antes do casal exibir o teste de gravidez: — Mais um ou mais uma, não sabemos ainda. Mas, hoje, quando a Lívia me contou, eu tive só um sentimento no meu coração: resposta de Deus. Porque num mundo tão turbulento, um mundo tão de trevas, filhos são luz, são herança do Senhor.\nNa publicação em que foi feito o anúncio, o deputado recebeu felicitações do senador Magno Malta (PL-ES), do deputado federal Carlos Jordy (PL-RJ) e da deputada federal Júlia Zanatta. O casal já tem uma outra filha, Aurora, nascida em 2024. Nikolas e Lívia se casaram em 2023, em uma cerimônia que contou com a presença de Michelle Bolsonaro. \nNatural de Belo Horizonte, o político mineiro foi o deputado federal mais votado do Brasil em 2022, com 1,47 milhão de votos, quando tinha 26 anos. Nas eleições deste ano, ele alcançou a marca de 3,1 milhõe de votos, ultrapassando o correlegionário Eduardo Bolsonaro, que em 2018 havia obtido 1,8 milhão. Com isso, Nikolas se tornou o deputado federal mais votado da história do país.",
+    "published": "2026-11-02T21:47:29+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O deputado federal Nikolas Ferreira (PL-MG) anunciou, por meio de uma publicação nas redes sociais nesta segunda-feira, que será pai pela segunda vez. Ele é casado com a modelo Lívia Bergamim Orletti.\nReceita contra 'puxadores': sob objeção de PT e PL, Centrão aposta em racha nas",
     "relevance": 5
   },
   {
@@ -173,7 +236,13 @@
       "Economia"
     ],
     "summary": "Parlamentares governistas aumentam críticas a mercado e juros altos antes de reunião do Copom",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/politica/parlamentares-governistas-aumentam-criticas-a-juros-altos-antes-de-reuniao-do-copom/"
+      }
+    ]
   },
   {
     "source": "NeoFeed",
@@ -3819,67 +3888,6 @@
       "Economia"
     ],
     "summary": "Sabe-se que certos medicamentos, tanto com receita quanto sem receita, mantêm as pessoas acordadas. Pedimos a especialistas que nos indicassem alguns dos principais responsáveis por esse efeito colateral.\nSempre que David Neubauer atende pacientes com queixas de sono, sua primeir",
-    "relevance": 5
-  },
-  {
-    "source": "Folha",
-    "title": "Investidores reduzem apostas em crescimento dos EUA em meio a temores de exposição excessiva a IA",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/investidores-reduzem-apostas-em-crescimento-dos-eua-em-meio-a-temores-de-exposicao-excessiva-a-ia.shtml",
-    "description": "Os investidores estão reduzindo expectativas para o crescimento dos Estados Unidos e comprando títulos públicos em meio ao aumento dos temores em relação às apostas em inteligência artificial.\nLeia mais (11/01/2026 - 04h00)",
-    "published": "2026-11-01T07:00:00+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Os investidores estão reduzindo expectativas para o crescimento dos Estados Unidos e comprando títulos públicos em meio ao aumento dos temores em relação às apostas em inteligência artificial.\nLeia mais (11/01/2026 - 04h00)",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Família Bolsonaro, promessas e presença fora de São Paulo: os desafios de Tarcísio para virar liderança nacional em 2030",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/11/01/familia-bolsonaro-promessas-e-presenca-fora-de-sao-paulo-os-desafios-de-tarcisio-para-virar-lideranca-nacional-em-2030.ghtml",
-    "description": "Com a fuga de Flávio Bolsonaro (PL) para os Estados Unidos após o resultado das eleições, o governador de São Paulo, Tarcísio de Freitas (Republicanos), ganha força como liderança da direita e já admite haver uma “possibilidade” de disputar a Presidência em 2030, mas que isso será avaliado “em grupo, e não sozinho”. Nos bastidores, integrantes do campo começam a discutir a opção, mas apontam desafios no caminho do governador, como a relação com o bolsonarismo e a articulação de pautas nacionais.\nEntrevista: 'Fuga enfraquece a família, mas bolsonarismo como força não vai se desfazer', diz antropóloga Isabela Kalil\nApós a fuga: Tarcísio provoca mal-estar no PL ao falar de candidatura em 2030, e aliados de Flávio veem oportunismo\nAlém disso, o próprio Tarcísio falou, em entrevista ao jornal O Estado de S. Paulo, que uma candidatura nacional seria consequência de “terminar bem o segundo mandato” de governador, o que envolve entregar ou ao menos avançar em grandes projetos, cumprir promessas e apresentar melhorias em temas caros aos paulistas, como a segurança pública.\nNa carta em que se autodeclarou “presidente eleito” e, posteriormente, “líder do Brasil”, Flávio diz que vai comandar a oposição ao presidente reeleito Luiz Inácio Lula da Silva (PT) do exterior, e que nos próximos dias vai apresentar uma “estratégia” de mobilização. Mas aliados de Tarcísio e de Flávio admitem que, com o senador fora do país, abre-se uma janela de oportunidade para outros nomes se destacarem — o governador de São Paulo e a ex-primeira-dama e senadora eleita Michelle Bolsonaro (PL-DF) entre eles.\nPedras no caminho\nEquilibrar a relação com o bolsonarismo: Tarcísio precisa administrar a relação com Jair Bolsonaro e sua família sem abrir mão de construir um projeto político próprio. O desafio é evitar o rótulo de traidor ou oportunista, diante das críticas à possibilidade de uma candidatura presidencial.\nConstruir uma identidade política própria: O governador terá que demonstrar que pode liderar a direita para além do bolsonarismo. Isso significa definir posições próprias, inclusive diante de questionamentos à democracia, e se diferenciar de setores mais radicalizados.\nDar projeção nacional à sua liderança: Tarcísio precisará deixar de ser visto apenas como um gestor estadual e ganhar protagonismo no debate nacional. Uma das possibilidades é articular uma oposição organizada ao governo Lula no Congresso.\nEntregar resultados em São Paulo: O desempenho no segundo mandato será decisivo para suas ambições presidenciais. Tarcísio precisará avançar em projetos de grande porte, além de demonstrar que consegue cumprir promessas e melhorar os serviços públicos.\nMelhorar índices de segurança pública: O tema será um teste importante para a gestão. Apesar da redução de alguns indicadores criminais, o governo enfrenta problemas relacionados à violência contra a mulher e a denúncias de abusos e corrupção envolvendo policiais.\nUm correligionário ouvido pelo GLOBO afirma que Tarcísio precisaria de “diálogo e acordo com a família Bolsonaro” para evitar ser rotulado de traidor ou oportunista. Em mais de uma ocasião, o governador foi criticado por bolsonaristas por se posicionar de maneira diversa de integrantes da família.\nDesta vez, menos de 24 horas após a entrevista em que admitiu a possibilidade de concorrer, ele passou a ser bombardeado com comentários negativos em suas redes sociais de apoiadores bolsonaristas, foi alvo de críticas de influenciadores de direita e mesmo uma ala do PL já começou a mirá-lo.\nEm São Paulo, porém, mesmo os mais próximos de Jair e Flávio se colocam a favor de Tarcísio e alguns até foram a público defender o governador. Na sexta-feira, o ex-secretário estadual da Agricultura Guilherme Piai, que deixou a gestão no fim do ano passado e tentou se eleger deputado com o apoio de Flávio, publicou um vídeo em seu Instagram defendendo a “lealdade de Tarcísio” e afirmando que ele resistiu “às pressões do Centrão” para concorrer à Presidência em nome do alinhamento com a família Bolsonaro.\nO governador, dizem aliados, não fará nada sem a bênção de Jair Bolsonaro, a quem sempre mostrou gratidão publicamente e também nos bastidores, pois foi o ex-presidente que o alçou à política em 2022, quando foi lançado candidato ao Palácio dos Bandeirantes e saiu vencedor.\nTanto é que, desde que as urnas declararam a vitória de Lula, o governador vem se equilibrando entre dizer que “a eleição passou”, evitando endossar o discurso de fraude eleitoral, e a “compreensão” quanto às decisões de Flávio de questionar o resultado e fugir do país. Mas Tarcísio não ignora, apontam pessoas próximas, que existe um desejo de parte da direita de que ele seja candidato ao Planalto.\nEm entrevista ao GLOBO, o senador Eduardo Gomes (PL-TO), vice-presidente do Senado e ex-líder do governo Bolsonaro no Congresso, mencionou o nome de Tarcísio como uma das lideranças que se destacam agora que Flávio deixou o país.\nOposição organizada\nAlém de lidar com os desejos da família Bolsonaro, outro desafio de qualquer governador que almeja se lançar à disputa presidencial é o de ganhar visibilidade nacional. Nessa toada, um parlamentar próximo ao governador aponta que caberá não só a ele, mas à direita como um todo, se organizar no Congresso para fazer uma “oposição séria, e não só de redes sociais” a medidas do governo Lula, e que isso poderia ser uma chance de Tarcísio se destacar. O fato de o governador ter elegido seus dois candidatos ao Senado, André do Prado (PL) e Guilherme Derrite (PP), pode ajudá-lo a ganhar projeção em pautas nacionais ao longo dos próximos quatro anos.\nComo o próprio Tarcísio reconheceu na entrevista ao Estadão, a disputa nacional depende de concluir seu segundo mandato com saldo positivo, o que inclui a entrega ou ao menos avanço de obras robustas para o estado, como o túnel Santos-Guarujá, cuja obra deve começar em 2027. A promessa é que os primeiros acessos sejam entregues em 2030. Também estão na lista de prioridades a entrega completa da Linha 6-Laranja do Metrô, prometida para até o fim de 2027, e melhorar a segurança pública, preocupação número um dos paulistas, e a educação — as duas áreas enfrentaram problemas no primeiro mandato.\nCEO do Instituto Ideia, Cila Schulman aponta que governadores de São Paulo historicamente têm dificuldade de conquistar a Presidência porque nem sempre o restante da população brasileira “se enxerga” no estado, que tem o orçamento muito mais alto que a maioria das outras unidades federativas e já parte de condições de infraestrutura e desenvolvimento mais favoráveis.\n— Se você tem bons resultados em São Paulo, a pessoa que mora num outro estado fala, “ah, mas é porque é São Paulo”. Essa é uma questão. E ele vai enfrentar oposição dos dois lados, porque vai ser atacado tanto pelo PT quanto pelos bolsonaristas-raiz, que são muito ruidosos nas redes sociais. O maior problema é a rede social — opina Schulman.\nPara o cientista político Rui Tavares Maluf, a possível liderança de Tarcísio será testada também por sua capacidade de se desvencilhar do bolsonarismo mesmo sob o risco de desagradar esse segmento. Outro desafio, reforça Maluf, é melhorar a gestão na segurança pública. Mesmo com a redução de alguns indicadores criminais, houve aumento em áreas como a violência contra a mulher e uma série de casos de abusos e de corrupção envolvendo policias militares e civis no primeiro mandato.\n— O líder é aquele que consegue se posicionar, mesmo reconhecendo no fundo que existe uma parte de sua base eleitoral do outro lado. Jair Bolsonaro não existia para o mundo antes de 2018, mas ele veio e se enraizou em boa parte da sociedade brasileira. Isso mostra que coisas que parecem eternas também podem ter um tempo de duração. É aí que entra o líder — afirma Maluf.",
-    "published": "2026-11-01T06:30:01+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Com a fuga de Flávio Bolsonaro (PL) para os Estados Unidos após o resultado das eleições, o governador de São Paulo, Tarcísio de Freitas (Republicanos), ganha força como liderança da direita e já admite haver uma “possibilidade” de disputar a Presidência em 2030, mas que isso ser",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Com Flávio nos EUA, governadores da direita 'viram página' da eleição diante de desafios fiscais e relação com Planalto",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/11/01/com-flavio-nos-eua-governadores-da-direita-viram-pagina-da-eleicao-diante-de-desafios-fiscais-e-relacao-com-planalto.ghtml",
-    "description": "Com a necessidade de a direita se reorganizar após a derrota na disputa presidencial e da fuga de Flávio Bolsonaro (PL) para os Estados Unidos, governadores eleitos que apoiaram o senador buscaram se afastar dos movimentos golpistas do aliado. Levantamento feito pelo GLOBO mostra que, dos 15 nomes que estiveram ao lado do candidato do PL no segundo turno, 13 se manifestaram para reconhecer expressamente a reeleição do presidente Luiz Inácio Lula da Silva. Ao mesmo tempo, nenhum deles endossou a carta na qual o filho do ex-presidente Jair Bolsonaro contesta, sem provas, o resultado das urnas. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-01T06:30:01+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Com a necessidade de a direita se reorganizar após a derrota na disputa presidencial e da fuga de Flávio Bolsonaro (PL) para os Estados Unidos, governadores eleitos que apoiaram o senador buscaram se afastar dos movimentos golpistas do aliado. Levantamento feito pelo GLOBO mostra",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Ala paulista do PT perde influência no partido para grupo do Nordeste após eleição",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/11/01/ala-paulista-do-pt-perde-influencia-no-partido-para-grupo-do-nordeste-apos-eleicao.ghtml",
-    "description": "A ala paulista do PT saiu da campanha à reeleição de Luiz Inácio Lula da Silva (PT) menos influente e pode perder espaço no quarto mandato. Em contrapartida, o PT do Nordeste e o vice-presidente Geraldo Alckmin (PSB) ganharam força. A montagem do próximo governo dará pistas de como esse rearranjo se reflete na disputa pelo espólio político do presidente e na sucessão, em 2030.\nMais Janones, menos Haddad: fotos mostram mudança de protagonismo na campanha de Lula entre primeiro e segundo turnos\nJogo Político: 'Governo Lula já procurou o PSD, e podemos ter uma relação mais profunda', diz Kassab\nApós quatro anos marcados pelo protagonismo da esquerda, apesar da promessa de uma frente ampla contra o bolsonarismo, Lula dá sinais de que pretende imprimir uma nova dinâmica à gestão a partir do próximo ano, abrindo espaço para partidos além do PT em postos estratégicos. A queda de braço dentro da aliança pela influência nos rumos do Executivo já começou.\n\nNa reorganização do entorno presidencial, petistas reconhecem que a ala paulista perdeu espaço na campanha. O presidente da sigla, Edinho Silva, deputado federal eleito por São Paulo, viu o senador e ex-ministro Camilo Santana (PT-CE), o governador reeleito do Piauí, Rafael Fonteles (PT), e o senador eleito Rui Costa (PT-BA) assumirem a linha de frente da coordenação no segundo turno, enquanto o deputado André Janones (Rede-MG) ganhou papel central na mobilização digital, com o canal de WhatsApp “Exército do Lula”.\nEdinho foi alvo de queixas internas pela condução do partido e da candidatura presidencial. Em uma reunião da cúpula do PT, a ex-senadora e ex-ministra Kátia Abreu, filiada ao partido, criticou a coordenação nacional da campanha, formada segundo ela por “paulistas sem voto”.\nLula também chegou a dizer que aquela havia sido a campanha mais desorganizada que já disputou. No discurso da vitória, não citou o coordenador-geral. O apoio público veio na quarta-feira, em publicação nas redes sociais, na qual Lula afirmou que a dedicação do dirigente foi “fundamental para a pavimentação desse caminho que nos conduziu à vitória”. Aliados de Edinho afirmam que ele conta com o apoio do presidente e das principais lideranças petistas, incluindo as do Nordeste.\n\nEm entrevista ao GLOBO, Edinho disse que, se o PT estiver forte, organizado nacionalmente e em “sintonia com os anseios do povo brasileiro”, a liderança que vai suceder o presidente “vai emergir naturalmente”.\nPapel em São Paulo\nO ex-ministro da Fazenda Fernando Haddad também enfrenta críticas internas após ser derrotado no primeiro turno por Tarcísio de Freitas (Republicanos) na disputa pelo governo paulista. Aliados minimizam as queixas e as classificam como “fogo amigo”. Na avaliação deles, Haddad foi para o “sacrifício”, a pedido de Lula, ao disputar uma eleição na qual provavelmente sairia derrotado. Também destacam sua atuação no segundo turno e atribuem a ele parte do desempenho do presidente no estado de São Paulo, onde Lula passou de 38,20% dos votos válidos no primeiro turno para 46,15% no segundo.\nAntes cotado como principal nome para a Casa Civil, Haddad também é lembrado para os ministérios das Relações Exteriores e da Justiça e Segurança Pública.\nAinda que aliados digam que é cedo para falar de sucessão, há a avaliação de que o PT do Nordeste e Alckmin se fortaleceram principalmente pela atuação no segundo turno. Fonteles, Camilo Santana e o grupo petista da Bahia, que elegeu a chapa completa, com o governador Jerônimo Rodrigues e os senadores Rui Costa e Jaques Wagner, ampliaram a influência.\nFonteles, Camilo e Rui Costa são cotados para postos de destaque no próximo governo. Fonteles é apontado como possível nome para a Fazenda, enquanto Camilo é cotado para a Casa Civil ou a Segurança Pública. Rui Costa é lembrado para uma pasta da área de infraestrutura.\nAlckmin também teve papel de destaque na reta final da campanha. Logo no início do discurso da vitória, Lula passou a palavra ao vice e disse que ele havia sido um dos responsáveis pelo resultado: “Ele tem muito a ver com essa nossa vitória”. Em ato da militância pelos seus 81 anos, na terça-feira, o petista voltou a elogiar o companheiro de chapa, afirmando que ele tem ajudado de “forma extraordinária” e que terá “um papel muito importante” no novo mandato.\nInterlocutores de Lula veem como natural que Alckmin assuma uma pasta de maior destaque. A Fazenda é uma das possibilidades, o que o coloca em rota de disputa com Fonteles. A projeção de Alckmin tem implicações que vão além da distribuição de cargos. Associado a uma condução econômica mais comprometida com o equilíbrio fiscal, o vice representa uma visão que contrasta com a de integrantes do governo e do PT, e essas divergências apareceram nos últimos dias.\nNa terça-feira, o ministro José Guimarães (Relações Institucionais) afirmou que o governo não discute um ajuste fiscal e que o tema não está entre as prioridades do Executivo no Congresso até o fim do ano. Na mesma noite, recuou nas redes sociais: “Responsabilidade fiscal e compromisso social caminham como prioridade no governo Lula”.\nJá o ministro Guilherme Boulos (Secretaria-Geral da Presidência) escreveu que quem defende ajuste com cortes em políticas sociais “não entendeu nada do que foi essa eleição” e que a agenda econômica “será a que venceu as eleições, não a que perdeu”.\nDo outro lado, o ministro da Fazenda, Dario Durigan, defendeu no início da semana uma política fiscal voltada ao centro da meta de resultado primário e o avanço na revisão de despesas obrigatórias. A ex-ministra Simone Tebet, que deve ser acomodada na Esplanada, segundo aliados, e o próprio Alckmin também defendem maior atenção às contas públicas.\nCentrão e juventude\nUm interlocutor do petista diz que Lula sabe que o resultado de 25 de outubro não reflete uma aprovação de seu governo ou dele próprio, e que por isso será preciso ampliar o leque de forças representadas no próximo mandato. Em 2022, o presidente foi eleito sob o mote de uma frente ampla contra o bolsonarismo, mas partidos aliados reclamaram da falta de espaço, sobretudo nas pastas de maior visibilidade.\nNo segundo turno, siglas de centro aderiram à candidatura de Flávio Bolsonaro (PL), apesar de terem indicados na Esplanada. Desde o resultado, o governo destacou emissários para se aproximar de lideranças do Centrão em busca de governabilidade no Congresso.\nAliados do presidente dizem que é preciso obter desses partidos compromisso com a agenda do Planalto, diferentemente do terceiro mandato, em que as siglas se declaravam independentes, mas mantinham indicados no primeiro escalão. Interlocutores também apostam que Lula dará mais espaço a jovens, após ter sido cobrado pela falta de representatividade no Ministério. O próprio petista tem destacado o papel da juventude na campanha.\nO deputado Rubens Pereira Jr. (PT-MA), um dos vice-presidentes do PT, diz que “está cedo” para falar no novo governo, mas que Lula “já sabe onde acertou e onde errou” na composição do terceiro mandato:\n— É normal que o Nordeste tenha maior representatividade, porque o desempenho foi muito bom. Mas isso não significa reduzir a influência de São Paulo. É natural que o novo governo deva refletir a campanha, com alguns ganhando protagonismo e outros perdendo, e apontar para o futuro.\nA composição do governo pode indicar lideranças com potencial para disputar a sucessão, mas aliados dizem ser precipitado falar no pós-Lula, já que muita coisa pode acontecer até 2030. A avaliação de um aliado de longa data do presidente, porém, é que Haddad já não está sozinho. Se antes era considerado o sucessor natural de Lula e “navegava sozinho” nesse sentido, agora divide espaço com nomes como Fonteles e Camilo.",
-    "published": "2026-11-01T06:30:01+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "A ala paulista do PT saiu da campanha à reeleição de Luiz Inácio Lula da Silva (PT) menos influente e pode perder espaço no quarto mandato. Em contrapartida, o PT do Nordeste e o vice-presidente Geraldo Alckmin (PSB) ganharam força. A montagem do próximo governo dará pistas de co",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "O voto distrital é coisa séria",
-    "link": "https://oglobo.globo.com/opiniao/elio-gaspari/coluna/2026/11/o-voto-distrital-e-coisa-seria.ghtml",
-    "description": "No meio da quizumba provocada por Flávio Bolsonaro, o presidente da Câmara, Hugo Motta, reuniu líderes para começar a desenhar um projeto de reforma eleitoral. Parece bobagem, mas pode resultar numa tunga parcial do direito de escolha dos parlamentares. É um assunto complicado e chato, mas mudará a cara da política nacional e, se bobear, realizará o sonho do cacique que quer mandato sem ter voto. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-01T06:30:01+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "No meio da quizumba provocada por Flávio Bolsonaro, o presidente da Câmara, Hugo Motta, reuniu líderes para começar a desenhar um projeto de reforma eleitoral. Parece bobagem, mas pode resultar numa tunga parcial do direito de escolha dos parlamentares. É um assunto complicado e ",
     "relevance": 5
   }
 ]
