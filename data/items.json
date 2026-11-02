@@ -1,5 +1,49 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Aprovação de Trump segue perto da mínima histórica antes de eleição, diz pesquisa",
+    "link": "https://valor.globo.com/mundo/noticia/2026/11/02/aprovao-de-trump-segue-perto-da-mnima-histrica-antes-de-eleio-diz-pesquisa.ghtml",
+    "description": "O índice de aprovação do presidente Donald Trump permaneceu próximo da mínima histórica, enquanto uma ampla parcela do eleitorado americano vê seu voto nas eleições legislativas de terça-feira (3) como uma forma de se opor ao presidente republicano, segundo uma pesquisa Reuters/Ipsos concluída nesta segunda-feira (2).\nLeia também:\nAmericanos demonstram pessimismo com economia às vésperas de eleição nos EUA\nOfensiva de Trump contra suposto voto ilegal gera temor de intimidação nas eleições\nRepublicanos e democratas intensificam esforços finais para eleições de meio de mandato\nOs resultados da pesquisa nacional, realizada ao longo de cinco dias, também mostraram sinais de que a disputa entre democratas e republicanos pode estar se acirrando às vésperas da votação.\n\nAproximadamente 32% dos entrevistados disseram aprovar o trabalho de Trump na Casa Branca, percentual inalterado em relação à semana anterior e pouco acima da mínima histórica de 31% registrada duas semanas antes.\n\nEntre os eleitores registrados, cerca de 50% dos independentes disseram considerar seu voto nas eleições legislativas como um voto contra Trump, em comparação com 13% que afirmaram vê-lo como um voto a favor do presidente e 33% que disseram que Trump não era um fator em sua decisão.\n\nCerca de 46% dos eleitores registrados entrevistados disseram que escolheriam os democratas nas eleições para o Congresso, ante 38% que optariam pelos republicanos, em uma pergunta conhecida como \"voto genérico\". Essa vantagem de oito pontos percentuais dos democratas foi menor do que a registrada em uma pesquisa Reuters/Ipsos realizada uma semana antes, quando o partido liderava por 11 pontos.\n\nAs pesquisas de voto genérico são levantamentos nacionais que oferecem uma visão geral de qual partido os eleitores gostariam de ver no comando do Congresso. Embora forneçam um panorama do sentimento da opinião pública nacional, essas pesquisas não captam as particularidades das disputas em cada Estado e distrito eleitoral que determinam o controle do Senado e da Câmara dos Deputados dos EUA, disputas nas quais os republicanos têm algumas vantagens estruturais.\n\nA pesquisa Reuters/Ipsos mais recente ouviu 1.765 adultos americanos pela internet e teve margem de erro de dois pontos percentuais.\nCerca de 46% dos eleitores registrados entrevistados disseram que escolheriam os democratas nas eleições para o Congresso, ante 38% que optariam pelos republicanos\nReuters/Umit Bektas",
+    "published": "2026-11-02T20:38:25+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O índice de aprovação do presidente Donald Trump permaneceu próximo da mínima histórica, enquanto uma ampla parcela do eleitorado americano vê seu voto nas eleições legislativas de terça-feira (3) como uma forma de se opor ao presidente republicano, segundo uma pesquisa Reuters/I",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/mundo/aprovacao-de-trump-fica-perto-da-minima-historica-mostra-pesquisa-da-reuters-ipsos/"
+      }
+    ]
+  },
+  {
+    "source": "Poder360",
+    "title": "Defesa de Vorcaro pede audiência no STF sobre pedidos pendentes",
+    "link": "https://www.poder360.com.br/poder-justica/defesa-de-vorcaro-pede-audiencia-no-stf-sobre-pedidos-pendentes/",
+    "description": "Advogados devem ser recebidos por juiz auxiliar da Presidência do Supremo; ex-banqueiro está preso preventivamente",
+    "published": "2026-11-02T20:34:16+00:00",
+    "themes": [
+      "Politica",
+      "XP"
+    ],
+    "summary": "Advogados devem ser recebidos por juiz auxiliar da Presidência do Supremo; ex-banqueiro está preso preventivamente",
+    "relevance": 5
+  },
+  {
+    "source": "Estadão",
+    "title": "Parlamentares governistas aumentam críticas a mercado e juros altos antes de reunião do Copom",
+    "link": "https://www.estadao.com.br/economia/parlamentares-governistas-aumentam-criticas-a-mercado-e-juros-altos-antes-de-reuniao-do-copom/",
+    "description": "",
+    "published": "2026-11-02T20:24:27+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Parlamentares governistas aumentam críticas a mercado e juros altos antes de reunião do Copom",
+    "relevance": 5
+  },
+  {
     "source": "NeoFeed",
     "title": "A Bolsa não dorme mais? Como a negociação de ações fora do pregão está mudando Wall Street",
     "link": "https://neofeed.com.br/wealth-management/a-bolsa-nao-dorme-mais-como-a-negociacao-de-acoes-fora-do-pregao-esta-mudando-wall-street/",
@@ -3814,42 +3858,6 @@
       "Economia"
     ],
     "summary": "Prices could rise for other EU countries as bloc’s biggest economy will be forced to rely on more spot market purchases",
-    "relevance": 5
-  },
-  {
-    "source": "Financial Times",
-    "title": "Bond investors sit out ‘most consequential’ US midterm elections in years",
-    "link": "https://www.ft.com/content/937308d7-aa2e-4dac-b19b-423d83bc1253?syn-25a6b1a6=1",
-    "description": "Big fund managers are pressing ‘pause’ as vote and economic data releases loom",
-    "published": "2026-11-01T05:00:17+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Big fund managers are pressing ‘pause’ as vote and economic data releases loom",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Médico que deu injeção letal falha em Christa Pike se compara a Jesus, mas quer ela seja executada: 'Não sou uma pessoa ruim'",
-    "link": "https://oglobo.globo.com/mundo/noticia/2026/11/01/medico-que-deu-injecao-letal-falha-em-christa-pike-se-compara-a-jesus-mas-quer-ela-seja-executada-nao-sou-uma-pessoa-ruim.ghtml",
-    "description": "O médico que conduziu a execução frustrada de Christa Pike rompeu finalmente seu silêncio neste sábado (31) e diz esperar que outra tentativa seja feita, já que \"não tem dúvidas\" de que detentos como ela merecem a morte. \nÀ revista New York Magazine, Mark Fowler, de 69 anos, ainda justificou que a execução de Pike traria \"um sentimento de justiça\" à mãe de sua vítima — Colleen Slemmer, torturada e assassinada aos 19 anos por Christa Pike em 1995 — que também estava presente no momento da injeção letal falha.\nO profissional contou que sua certeza de que os detentos que ajudou a executar mereciam suas mortes vem do hábito de estudar seus casos.\n— Geralmente pesquiso seus históricos e procuro o que eles fizeram e assim por diante — revelou, sem arrependimentos.\nEu lamento apenas que eu tenha que lidar com Christa Pike, que espancou outra mulher até a morte. Ela é o que ela é.\nFowler, que também dá aulas de estudos bíblicos em sua igreja evangélica, acredita que o Estado tem direito à impor a pena de morte em casos brutais. \n— [O sexto mandamento] 'não matarás' não tem nenhuma aplicação para ações legítimas do governo em termos de executar assassinos, nem tem nenhuma aplicação [em casos] de legítima defesa, e não tem nenhuma aplicação moral em uma guerra. Quando o Estado diz 'acreditamos que há algumas coisas tão hediondas que devemos efetuar a punição máxima', acredito que é legítimo — justificou à publicação.\nEle também disse se ver como alguém que faz o \"serviço sujo\".\n—  Como você pode dizer moralmente: 'sou a favor da pena de morte contanto que outra pessoa faça o trabalho'? Eu faço as coisas que ninguém quer fazer — destacou.\nMédico está ligado a casos de execuções falhas consideradas \"tortura\"\nNos últimos anos, o nome de Fowler não ficou associado apenas às suas visões políticas conservadoras — a favor do ICE (a polícia de imigração americana) ou de Israel — ou às execuções de que participou, mas principalmente àquelas que deram errado como a de Pike.\nEm 2025, ele deu a injeção letal de Byron Black com seu desfibrilador cardíaco ligado, um caso denunciado pelos advogados do criminoso como \"tortura\" já que o método teria causado dor e prolongado sua agonia; ele levou cerca de 10 minutos para morrer, segundo registros oficiais.\nEm maio de 2026, Fowler também esteve envolvido na execução frustrada de Tony Carruthers. Depois que paramédicos falharam em insertar o acesso intravenoso para a administração das drogas letais, o médico tentou realizar um procedimento \"semi-cirúrgico\" para instalar um em uma veia próxima à clavícula, que levaria o veneno direto ao coração. \nO advogado do detento relatou ter visto \"muito sangue\" e Fowler interrompeu o procedimento, segundo ele, não porque não conseguiria fazê-lo, mas porque não havia anestésicos adequados e estava se tornando doloroso demais para Carruthers.\n— Sem falar no fato de que havia advogados ali anotando e rabiscando furiosamente — alfinetou.\nEle admite que houve erros no caso de Pike\nAs execuções no Tennessee seguem um protocolo em que diferentes pessoas realizam cada etapa do processo, para diluir responsabilidades sobre a morte do detento.\nNo caso de Pike, paramédicos instalaram o acesso intravenoso e Fowler só entrou em cena depois, para injetar efetivamente a droga pentobarbital. Ela recebeu duas injeções, mas o médico foi chamado de volta só 45 minutos depois.\nEle esperava voltar à sala cerca de 10 minutos após a injeção, para confirmar o óbito, mas foi alertado de que Christa Pike estava respirando com dificuldade na maca. Para Fowler, neste momento, ficou claro que algo aconteceu com o acesso. \n— Estava levando a droga para o tecido subcutâneo —, explicou, em vez da corrente sanguínea da condenada.\nO médico disse ter se preocupado, neste momento, que ela sobrevivesse com dano cerebral irreversível. — Ela ficará em um estado vegetativo permamente com uma conta de gastos médicos de um quarto de milhão de dólares — confessou ter pensado.\nPor isso, Fowler acredita que as execuções precisam mudar. \n— As pessoas que colocam os acessos intravenosos devem posteriormente ficar observando o que está acontecendo [com os condenados] enquanto a droga entra. [Pike] reclamou de dor no seu braço. Eles deveriam ter parado e reavaliado, mas eles não fizeram isso — criticou.\n'Não sou cruel'\nEle ainda defende que execuções sejam retomadas com um coquetel de três drogas que inclui cloreto de potássio, proibido em alguns estados americanos por ser \"doloroso demais\". Para Mark, a combinação é mais eficiente.\nApesar disso, ele não se vê como um homem cruel e rejeita as críticas que recebeu pela condução das execuções. \n— Gostaria de ser lembrado como um homem da Renascença. Alguém que tem um apreço avançado pela vida. Não sou uma pessoa má, perversa. Não sou inescrupuloso. Não sou insensível ou incompetente. Não estou envergonhado. As pessoas disseram coisas ruins sobre Jesus, não disseram? — comparou.\nFowler insiste que não vai abandonar as execuções porque acredita estar correto no que faz.\n— As pessoas dizem 'por que você não deixa isso pra lá?' e a resposta é que isso é exatamento o que os que advogam contra a pena de morte querem. Eles acharam que podiam me humilhar e eu me afastaria disso, porque eu prometo a vocês, não há ninguém mais no Tennessee que vai se candidatar a fazer isso agora, e a resposta é: eu não posso ser empurrado de um caminho que acho certo. Eu me recuso a ceder — garantiu.",
-    "published": "2026-11-01T04:00:34+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "O médico que conduziu a execução frustrada de Christa Pike rompeu finalmente seu silêncio neste sábado (31) e diz esperar que outra tentativa seja feita, já que \"não tem dúvidas\" de que detentos como ela merecem a morte. \nÀ revista New York Magazine, Mark Fowler, de 69 anos, aind",
-    "relevance": 5
-  },
-  {
-    "source": "Brazil Journal",
-    "title": "OPINIÃO. Coragem. O Brasil é isso aí",
-    "link": "https://braziljournal.com/opiniao-coragem-o-brasil-e-isso-ai",
-    "description": "Há um número impressionante de pessoas inconsoláveis com o resultado das eleições. Algumas parecem genuinamente deprimidas. Outras exibem um desalento que normalmente se reserva à perda de um ente querido. Há quem fale em deixar o País, quem tenha perdido a vontade de investir, e até quem pareça ter desistido de trabalhar.",
-    "published": "2026-11-01T03:10:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Há um número impressionante de pessoas inconsoláveis com o resultado das eleições. Algumas parecem genuinamente deprimidas. Outras exibem um desalento que normalmente se reserva à perda de um ente querido. Há quem fale em deixar o País, quem tenha perdido a vontade de investir, e",
     "relevance": 5
   }
 ]
