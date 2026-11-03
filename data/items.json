@@ -426,6 +426,18 @@
     "relevance": 5
   },
   {
+    "source": "Valor Econômico",
+    "title": "Eleições nos EUA: acompanhe as últimas notícias, análises e resultados da votação de meio de mandato",
+    "link": "https://valor.globo.com/mundo/ao-vivo/2026/11/03/eleicoes-eua-2026-midterms.ghtml",
+    "description": "Eleições nos EUA: acompanhe as últimas notícias, análises e resultados da votação de meio de mandato Americanos votam nas 'midterms' para definir qual partido terá o controle do Congresso, em eleição que será crucial para o governo de Donald Trump",
+    "published": "2026-11-03T21:29:59+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Eleições nos EUA: acompanhe as últimas notícias, análises e resultados da votação de meio de mandato Americanos votam nas 'midterms' para definir qual partido terá o controle do Congresso, em eleição que será crucial para o governo de Donald Trump",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Apontado como chefe do tráfico em Niterói, Drill é solto após decisão da Justiça",
     "link": "https://oglobo.globo.com/rio/bairros/niteroi/noticia/2026/11/03/apontado-como-chefe-do-trafico-em-niteroi-drill-e-solto-apos-decisao-da-justica.ghtml",
@@ -3916,27 +3928,5 @@
     ],
     "summary": "O dólar à vista exibe forte alta no início do pregão desta terça-feira, volta do feriado de Dia de Finados no Brasil. A preocupação dos investidores acerca da agenda econômica e o plano fiscal do governo leva a uma nova adição de prêmios nos ativos brasileiros após o colunista La",
     "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Planalto se reúne e discute estratégia para evitar votação da redução da maioridade penal junto com PEC da Segurança",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/11/03/planalto-se-reune-e-discute-estrategia-para-evitar-votacao-da-reducao-da-maioridade-penal-junto-com-pec-da-seguranca.ghtml",
-    "description": "O ministro das Relações Institucionais, José Guimarães, se reúne na manhã desta terça-feira com líderes do governo para definir estratégias para a votação da PEC da Segurança e evitar que uma proposta sobre a redução da maioridade penal, atualmente fixada em 18 anos, seja analisada junto com o texto. O Planalto vai sugerir ao presidente do Senado, Davi Alcolumbre (União Brasil-AP), a separação da emenda.\nA redução da maioridade penal, que não consta no texto principal da PEC, foi alvo de emendas apresentadas por parlamentares e se tornou o principal ponto de divergência antes da votação. O líder da oposição no Senado, Rogério Marinho (PL-RN), apresentou uma proposta para reduzir a maioridade penal para 16 anos como regra geral e para 14 anos em casos de crimes graves, como tráfico de drogas e participação em organizações criminosas. Em resposta, o senador Camilo Santana (PT-CE) defendeu a redução para 16 anos em casos de crimes hediondos, mas o Planalto passou a articular pela análise separada dos temas.\nDurante o segundo turno da campanha eleitoral, Lula afirmou ser favorável à redução da maioridade penal para 16 anos em caso de crimes hediondos. Ele defende que o tema seja tratado em um projeto independente. \nNa conversa com líderes aliados, o Planalto fará um mapeamento de votos. É necessária a adesão de 49 senadores para aprovar a PEC, assim como a oposição precisa de 49 votos para aprovar a emenda da redução da maioridade penal. Articuladores de Lula veem o jogo como empatado, mas esperam contar com apoio de Alcolumbre para evitar o avanço da emenda. \nDepois desse encontro, Alcolumbre vai se reunir com líderes do Senado para discutir o texto. A votação foi marcada para esta terça-feira. O texto prevê mudanças nas atribuições das forças policiais, amplia a cooperação entre União, estados e municípios, estabelece regras mais rigorosas para integrantes de facções e milícias e cria mecanismos para aumentar o financiamento da segurança pública. A aprovação da PEC é uma das principais apostas do governo do presidente Luiz Inácio Lula da Silva (PT) para o enfrentamento ao crime organizado.\nCom a PEC aprovada, Lula deve criar o Ministério da Segurança que terá como foco o combate ao crime organizado e ao feminicídio e a redução dos roubos de celulares. Assim, a área da segurança pública seria desmembrada do Ministério da Justiça, que ficaria focado em elaborar a proposta de reforma do Judiciário.",
-    "published": "2026-11-03T12:45:48+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O ministro das Relações Institucionais, José Guimarães, se reúne na manhã desta terça-feira com líderes do governo para definir estratégias para a votação da PEC da Segurança e evitar que uma proposta sobre a redução da maioridade penal, atualmente fixada em 18 anos, seja analisa",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/politica/noticia/2026/11/03/reducao-da-maioridade-penal-sera-tratada-em-relatorio-a-parte-da-pec-da-seguranca-diz-lider-do-governo.ghtml"
-      },
-      {
-        "source": "G1 - Política",
-        "link": "https://g1.globo.com/politica/noticia/2026/11/03/senado-federal-decide-votar-pec-da-seguranca-sem-discutir-reducao-da-maioridade-penal.ghtml"
-      }
-    ]
   }
 ]
