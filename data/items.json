@@ -1955,7 +1955,13 @@
       "Politica"
     ],
     "summary": "Os americanos vão às urnas na terça-feira (3) para as eleições de meio de mandato, as chamadas \"midterms\", que renovarão parte do Senado e toda a Câmara dos Deputados, em um pleito que definirá os dois últimos anos do segundo mandato do presidente dos Estados Unidos, Donald Trump",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/podcast/o-assunto/noticia/2026/11/03/eua-trump-em-xeque-nas-eleicoes-de-meio-de-mandato-o-assunto-1837.ghtml"
+      }
+    ]
   },
   {
     "source": "InfoMoney",
