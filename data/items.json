@@ -26,6 +26,18 @@
     "relevance": 5
   },
   {
+    "source": "Valor Econômico",
+    "title": "Northern Star eleva produção de ouro sob pressão de investidores",
+    "link": "https://valor.globo.com/empresas/noticia/2026/11/03/northern-star-eleva-produo-de-ouro-sob-presso-de-investidores.ghtml",
+    "description": "A gigante da mineração de ouro australiana Northern Star Resources está aumentando a produção, parte de um esforço para elevar o valor da empresa enquanto enfrenta pressão de acionistas ativistas.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-03T06:04:37+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A gigante da mineração de ouro australiana Northern Star Resources está aumentando a produção, parte de um esforço para elevar o valor da empresa enquanto enfrenta pressão de acionistas ativistas.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da maté",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "EUA apontam avanços em conversas com Irã para evitar escalada de tensão durante eleições",
     "link": "https://oglobo.globo.com/mundo/noticia/2026/11/03/eua-apontam-avancos-em-conversas-com-ira-para-evitar-escalada-de-tensao-durante-eleicoes.ghtml",
@@ -636,7 +648,13 @@
       "XP"
     ],
     "summary": "A defesa do senador Flávio Bolsonaro (PL-RJ) pediu que o ministro André Mendonça, do Supremo Tribunal Federal (STF), assuma a relatoria de uma investigação, hoje com Alexandre de Moraes, em que ele e o seu amigo, o advogado Willer Tomaz, são investigados por lavagem de dinheiro.\n",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/politica/noticia/2026/11/03/fachin-deve-negar-pedido-de-flavio-bolsonaro-para-afastar-moraes-de-investigacao-no-stf.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3907,19 +3925,6 @@
       "Politica"
     ],
     "summary": "O Abono Salarial PIS/Pasep ainda pode ser sacado até o dia 30 de dezembro deste ano, independentemente do mês do aniversário do trabalhador. \nCom R$ 5,2 bilhões em pagamentos, cerca de 4,1 milhões de brasileiros tinham direito ao pagamento de agosto, que contemplava nascidos em n",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Décimo terceiro salário cai em novembro; veja a data limite para o pagamento da primeira parcela",
-    "link": "https://valor.globo.com/legislacao/noticia/2026/11/01/decimo-terceiro-salario-cai-em-novembro-veja-a-data-limite-para-o-pagamento-da-primeira-parcela.ghtml",
-    "description": "A primeira parcela do décimo terceiro salário em 2026 deve ser paga até, no máximo, dia 30 de novembro, de acordo com a Lei nº 4.749/1965, e a segunda até o dia 20 de dezembro. \nEm 2026, o prazo final para pagar a segunda parcela do décimo terceiro cai em 20 de dezembro, um domingo. Por isso, o pagamento deve ser antecipado para o último dia útil anterior, a sexta-feira, 18 de dezembro, explica Luana Couto Bizerra, advogada especialista em Direito Empresarial e Trabalhista da Ferraz dos Passos Advocacia e Consultoria.\nA primeira parcela do décimo terceiro é isenta de desconto de INSS e Imposto de Renda Retido na Fonte (IRRF). Pela legislação, esses descontos são previstos somente para a segunda parcela, informa a advogada. \nComo é calculado o 13º salário? \nO valor a ser pago no 13º salário é calculado de forma proporcional ao tempo de trabalho daquele cidadão, em que um mês corresponde, no mínimo, a 15 dias. \nBizerra explicou que o cálculo do décimo terceiro começa com o salário total do trabalhador dividido por 12. O resultado é multiplicado pela quantidade de meses em que ele trabalhou na empresa no ano.\nPorém, um mês só entra na conta se o trabalhador tiver atuado por pelo menos 15 dias nele, diz Bizerra. Por exemplo: se ele trabalhou apenas 14 dias em janeiro, mas trabalhou normalmente de fevereiro até dezembro, janeiro não é contado. Assim, o cálculo considera 11 meses, e não 12\nAlém disso, a primeira parcela também integra verbas de natureza salarial, como comissão, horas extras, adicional de insalubridade, adicional noturno. O valor, porém, varia entre adicionais fixos e variáveis, explica a especialista. \nHoras extras habituais, comissões e outros ganhos que mudam de mês para mês entram como uma média: o total recebido ao longo do ano é dividido por 12, e essa média é incluída no décimo terceiro de forma proporcional. Já valores fixos — aqueles pagos sempre no mesmo valor, como um adicional constante — entram por inteiro no cálculo. \nO que acontece se o trabalhador for demitido? \nEm caso de demissão sem justa causa, por pedido do trabalhador ou pelo fim do contrato em acordo mútuo, o pagamento do décimo terceiro é mantido, conforme o sistema proporcional de tempo trabalhado. O oposto ocorre para demissão por justa causa, que não prevê o pagamento do benefício ao trabalhador, explica Bizerra. \n\"Se a gente tem uma demissão sem justa causa, uma demissão a pedido do trabalhador ou até uma rescisão por um acordo mútuo, isso vai fazer jus à parcela do décimo terceiro, seja de forma proporcional ou de forma integral, se ele tiver trabalhado os 12 meses mais de 15 dias. Só no caso de rescisão por justa causa que o trabalhador não vai fazer jus a esse pagamento de décimo terceiro proporcional\", afirma. \nE se a empresa atrasar o pagamento? \nEm caso de atraso ou falta de pagamento, a advogada explica que o trabalhador pode recorrer em busca de quitação, juros e correção monetária do período não pago. \n\"O trabalhador pode recorrer para buscar a quitação desse valor, por meio de buscar os direitos dele na Justiça do Trabalho. Ele também pode fazer denúncia ao Ministério do Trabalho, que já faz fiscalizações e pode aplicar uma sanção para a empresa, que inclui uma multa administrativa por cada trabalhador que sofreu esse atraso no pagamento da parcela\", diz Bizerra. \n*Estagiária sob supervisão de Diogo Max",
-    "published": "2026-11-01T11:00:00+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "A primeira parcela do décimo terceiro salário em 2026 deve ser paga até, no máximo, dia 30 de novembro, de acordo com a Lei nº 4.749/1965, e a segunda até o dia 20 de dezembro. \nEm 2026, o prazo final para pagar a segunda parcela do décimo terceiro cai em 20 de dezembro, um domin",
     "relevance": 5
   }
 ]
