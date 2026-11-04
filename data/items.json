@@ -1484,7 +1484,13 @@
       "XP"
     ],
     "summary": "Justiça dos EUA convoca Martha Graeff a depor sobre ligações financeiras com Vorcaro, seu ex-noivo",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/justica-dos-eua-intima-ex-noiva-de-vorcaro-a-depor/"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -1976,6 +1982,18 @@
       "Mercado Financeiro"
     ],
     "summary": "Wall Street e os participantes do mercado financeiro estão acompanhando as eleições de meio de mandato (“midterms elections”) nos EUA este ano, observando questões que vão além de qual partido controlará o Congresso. Algumas disputas, excepcionalmente competitivas, podem definir ",
+    "relevance": 5
+  },
+  {
+    "source": "CNBC",
+    "title": "Stock market after midterm elections: What S&P 500 history shows",
+    "link": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html",
+    "description": "Midterms historically precede a strong year for the S&amp;P 500. What to know if Democrats win back Congress",
+    "published": "2026-11-03T18:21:05+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Midterms historically precede a strong year for the S&amp;P 500. What to know if Democrats win back Congress",
     "relevance": 5
   },
   {
@@ -3352,7 +3370,13 @@
       "Politica"
     ],
     "summary": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta terça-feira (3) que fechou um acordo com o primeiro-ministro israelense, Benjamin Netanyahu, segundo o qual Washington deixará de repassar US$ 4 bilhões em recursos a Israel após o fim deste ano.\nLeia também:\nAcordo ent",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-internacional/trump-anuncia-fim-de-ajuda-militar-de-us-4-bilhoes-a-israel/"
+      }
+    ]
   },
   {
     "source": "Money Times",
@@ -3943,19 +3967,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Na retomada do feriado de Finados, o Ibovespa (IBOV) abre o primeiro pregão de novembro em queda, a caminho para o sexto dia de perdas consecutivas. Os investidores reagem ao Boletim Focus e as incertezas sobre a política econômica do &#8216;Lula 4&#8217;. Hoje também é o primeir",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Dólar chega aos R$ 5,51; Bolsa estende queda",
-    "link": "https://oglobo.globo.com/economia/financas/ao-vivo/ibovespa-hoje-acompanhe-bolsa-e-dolar.ghtml",
-    "description": "Dólar chega aos R$ 5,51; Bolsa estende queda Incerteza quanto a política econômica de Lula 4 segue pressionando ativos; juros futuros saltam ao longo de toda a curva",
-    "published": "2026-11-03T13:31:01+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "Dólar chega aos R$ 5,51; Bolsa estende queda Incerteza quanto a política econômica de Lula 4 segue pressionando ativos; juros futuros saltam ao longo de toda a curva",
     "relevance": 5
   }
 ]
