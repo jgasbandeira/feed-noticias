@@ -1,5 +1,128 @@
 [
   {
+    "source": "Poder360",
+    "title": "Governo Lula: leia a agenda de ministros do governo nesta 5ª feira",
+    "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-5a-feira-15/",
+    "description": "Planalto discute comunicação e segurança; regulamentação do fim da escala 6 X 1 e cúpula na Espanha também estão na agenda",
+    "published": "2026-11-05T09:15:57+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Planalto discute comunicação e segurança; regulamentação do fim da escala 6 X 1 e cúpula na Espanha também estão na agenda",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Governo Lula: leia a agenda do presidente nesta 5ª feira",
+    "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-do-presidente-nesta-5a-feira/",
+    "description": "Conselho de Minerais Críticos com Alckmin, despachos no Planalto e live com o deputado Janones movimentam o dia",
+    "published": "2026-11-05T09:15:34+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Conselho de Minerais Críticos com Alckmin, despachos no Planalto e live com o deputado Janones movimentam o dia",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Plenário do STF: saiba quais ações estão na pauta desta 5ª feira",
+    "link": "https://www.poder360.com.br/poder-justica/plenario-do-stf-saiba-quais-acoes-estao-na-pauta-desta-5a-feira-11/",
+    "description": "Supremo julga ação do extinto PSL sobre estrutura e autonomia do Ministério Público do Rio Grande do Sul",
+    "published": "2026-11-05T09:15:31+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Supremo julga ação do extinto PSL sobre estrutura e autonomia do Ministério Público do Rio Grande do Sul",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Saiba quais indicadores e balanços saem nesta 5ª feira",
+    "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-5a-feira-13/",
+    "description": "Produção industrial, endividamento, juros no exterior e balanços de Sabesp, Suzano, Localiza, Renner e Toyota movimentam o dia",
+    "published": "2026-11-05T09:15:23+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Produção industrial, endividamento, juros no exterior e balanços de Sabesp, Suzano, Localiza, Renner e Toyota movimentam o dia",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Saiba quais ações estão na pauta do Congresso nesta 5ª feira",
+    "link": "https://www.poder360.com.br/poder-congresso/saiba-quais-acoes-estao-na-pauta-do-congresso-nesta-5a-feira-2/",
+    "description": "Câmara analisa proposta que cria sistema integrado de acompanhamento em tempo real do estoque e consumo de medicamentos",
+    "published": "2026-11-05T09:15:10+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Câmara analisa proposta que cria sistema integrado de acompanhamento em tempo real do estoque e consumo de medicamentos",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Bolsas da Ásia fecham mistas com queda de ações de IA e repercussão de eleição nos EUA",
+    "link": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-mistas-com-queda-de-acoes-de-ia-e-repercussao-de-eleicao-nos-eua-fets/",
+    "description": "As bolsas asiáticas fecharam sem direção única nesta quinta-feira (5), com a forte realização de lucros em ações ligadas à inteligência artificial (IA) pesando em mercados mais expostos ao tema e limitando o apetite por risco, apesar da repercussão positiva em parte do mercado global da ampla vitória dos democratas nas eleições de meio de [&#8230;]",
+    "published": "2026-11-05T09:14:00+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "As bolsas asiáticas fecharam sem direção única nesta quinta-feira (5), com a forte realização de lucros em ações ligadas à inteligência artificial (IA) pesando em mercados mais expostos ao tema e limitando o apetite por risco, apesar da repercussão positiva em parte do mercado gl",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Reação ao Copom, indústria, balanços, BoE e mais destaques desta quinta-feira",
+    "link": "https://www.infomoney.com.br/mercados/copom-industria-balancos-boe-agenda-05112026/",
+    "description": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quinta-feira (5)\nThe post Reação ao Copom, indústria, balanços, BoE e mais destaques desta quinta-feira appeared first on InfoMoney.",
+    "published": "2026-11-05T09:06:45+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "InfoMoney reúne as principais informações que devem movimentar os mercados nesta quinta-feira (5)\nThe post Reação ao Copom, indústria, balanços, BoE e mais destaques desta quinta-feira appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Brasil deixa prescrever R$ 1,65 bilhão em multas ambientais em cinco anos, diz Transparência Internacional",
+    "link": "https://oglobo.globo.com/brasil/meio-ambiente/noticia/2026/11/05/brasil-deixa-prescrever-r-165-bilhao-em-multas-ambientais-em-cinco-anos-diz-transparencia-internacional.ghtml",
+    "description": "O Ibama deixou de prescrever R$ 1,65 bilhão em multas ambientais entre 2020 e 2024, valor que supera o total de R$ 1,45 bilhão arrecadado pelo órgão nesta frente no período. Ou seja, o país perdeu mais dinheiro do que conseguiu cobrar de quem cometeu infrações e ilícitos contra o meio ambiente. A denúncia está presente em estudo da ONG Transparência Internacional-Brasil divulgado nesta quinta-feira, que identificou fragilidades em todas as etapas da responsabilização por irregularidades no campo. \nO que é a Preparação de Belém: Primeiro passo do ‘mapa do caminho’ apresentado pela presidência brasileira da COP30\nEspécie invasora, peixe-leão se espalha no Nordeste, e especialistas alertam: 'Caos será grande quando chegar ao Sudeste'\nOs pesquisadores encontraram limitações na capacidade de atuação de órgãos ambientais e na estratégia de fiscalização, como a falta de servidores em número suficiente para cobrir o território. Há também desafios na gestão de processos, que contribuem para prescrição de casos, dificuldade na aplicação e execução de multas, e fragilidades na transparência, no controle e no monitoramento da prática sancionatória. \nO estudo aponta que o sistema brasileiro falha nas três frentes de trabalho essenciais para que uma sanção ambiental desestimule novas infrações. Os fatores são: a identificação do ilícito, a percepção do infrator de que será responsabilizado pela ação e a aplicação de uma punição com peso suficiente para inibir novas práticas criminosas. \nPara Olivia Ainbinder, coordenadora do Programa de Integridade Socioambiental da Transparência Internacional – Brasil, o combate à corrupção associada aos crimes ambientais exige o fortalecimento do processo de punição. A pesquisadora defende que um processo íntegro, transparente e efetivo contribui para garantir que as infrações ambientais tenham consequências. \n— Quando há espaço excessivo para decisões discricionárias, fragilidades na fiscalização ou falhas na aplicação e na execução das sanções, criam-se oportunidades para favorecimentos, interferências indevidas e impunidade. Por isso, além de fortalecer a capacidade dos órgãos ambientais, a pesquisa aponta que é fundamental ampliar a transparência e o monitoramento dos processos, além de reduzir a margem para decisões arbitrárias e favorecimentos — afirma. \nA responsabilização é conduzida pelos órgãos do Sistema Nacional de Meio Ambiente (Sisnama), que abrange o Ibama e entidades como o Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio). Também engloba órgãos estaduais e municipais de meio ambiente. \nFalta de servidores em órgãos ambientais \nA ONG aponta que há efetividade limitada no sistema. Um dos entraves citados é falta de funcionários. Os dados presentes no estudo mostram que, em 2024, o Ibama tinha apenas 52,6% dos caros efetivos previstos em lei.  \nA situação tem mais gravidade nas equipes responsáveis por analisar e julgar os autos de infração. O levantamento ressalta que, segundo a Controladoria-Geral da União (CGU), o tamanho do grupo caiu de 233 servidores, em outubro de 2024, para 113, em maio de 2026 — desses, somente 28 se dedicavam exclusivamente à função. \nDurante o período, o estoque total de processos manteve patamar estável, na casa dos 124 mil. O volume concentrado nas etapas de instrução e julgamento, entretanto, aumentou 43,9%. No ano passado, diante de 15.955 autos de infração lavrados, o órgão julgou apenas 3.460 (pouco mais de dois para cada dez iniciados). \n\"Entrevistas com servidores de órgãos federais e estaduais de meio ambiente mostraram problemas parecidos nos estados: equipes reduzidas, rotinas que atrasam a tramitação e pouca capacitação. A maioria dos órgãos estaduais não oferece treinamento periódico para quem julga os autos\", ressalta o estudo.  \nNo Ibama, por exemplo, 61% das autoridades julgadoras disseram à CGU que nunca receberam capacitação específica. \nCaminho do dinheiro \nO levantamento conclui que, mesmo quando a tramitação chega ao fim, a punição \"dificilmente se concretiza\". Para a Transparência Internacional-Brasil, o cenário \"acontece em parte por falhas nos autos de infração, ou na análise e julgamento dos processos\". A demora nos procedimentos é outro favor agravante, uma vez que faz multas prescreverem. \n\"A cobrança judicial, que ocorre quando a multa não é paga espontaneamente, também é lenta e cara e muitos infratores encontram meios de escapar das punições, geralmente blindando os sócios ou o grupo econômico responsável pelo ilícito ambiental\", diz o estudo. \nA pesquisa também identificou que \"quase nenhum órgão acompanha ativamente se os embargos e as apreensões estão sendo cumpridos\". Os dados apontam também que a falta de transparência também é um obstáculo: dos 29 órgãos ambientais consultados por meio da Lei de Acesso à Informação, apenas 16 responderam à ONG, e mesmo assim \"só em parte\". \n\"Metade dos que responderam não tinha pelo menos um dos dados pedidos. O Sistema Nacional de Informações sobre Meio Ambiente, previsto em lei desde 1981, nunca foi implementado de fato, e os sistemas federais, estaduais e municipais sobre sanções ambientais não conversam entre si\", dizem os pesquisadores. \nSoluções e recomendações\nPor outro lado, o estudo reconhece haver soluções já em implementação. Entre elas estão as unidades do Ibama em aeroportos para combater o tráfico de animais, as parcerias com polícias para monitorar a venda ilegal de fauna na internet e o cruzamento de dados entre diferentes órgãos. \nO relatório cita também boas práticas que podem ser replicadas no país, como a notificação eletrônica de autuados no Pará, a exigência de curso específico para julgadores em Goiás, as câmaras recursais especializadas em Santa Catarina, e o uso da conversão de multas para financiar os Centros de Triagem de Animais Silvestres (Cetas). \nAs principais recomendações que constam no estudo para os órgãos ambientais são:  \nImplementar o Sinima e criar uma base pública e integrada de decisões administrativas ambientais;  \nReforçar as equipes de instrução e julgamento, definir critérios objetivos para escolher julgadores e calcular multas, tornar a notificação eletrônica a regra e ampliar o uso de inteligência e tecnologia na fiscalização, sem abandonar o trabalho de campo;  \nCondicionar o acesso a crédito e benefícios à regularidade ambiental, divulgar as sanções definitivas e integrar a reparação do dano à resposta administrativa. \nA ONG recomenda também soluções para outros entes, incluindo órgãos de controle, como auditar e acompanhar regularmente indicadores como a taxa de confirmação de autos, a taxa de arrecadação de multas e o tempo de tramitação dos processos.\n— Já vimos o impacto que o fortalecimento da fiscalização ambiental pode ter na redução do desmatamento, que registrou uma queda histórica neste ano. É fundamental que, no próximo ciclo de governo, esse esforço se traduza em responsabilização efetiva — aponta Ainbinder.",
+    "published": "2026-11-05T09:00:01+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O Ibama deixou de prescrever R$ 1,65 bilhão em multas ambientais entre 2020 e 2024, valor que supera o total de R$ 1,45 bilhão arrecadado pelo órgão nesta frente no período. Ou seja, o país perdeu mais dinheiro do que conseguiu cobrar de quem cometeu infrações e ilícitos contra o",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Feriados 2027: veja todas as folgas prolongadas — e planeje suas viagens",
+    "link": "https://valor.globo.com/brasil/noticia/2026/11/05/feriados-2027-veja-todas-as-folgas-prolongadas-e-planeje-suas-viagens.ghtml",
+    "description": "Dos 10 feriados nacionais de 2027, seis cairão em dias que permitirão folgas prolongadas — três a menos que os registrados em 2026. Previstos em lei federal, sete feriados vão cair durante a semana e três nos fins de semana.\nAs folgas prolongadas ocorrerão duas vezes no primeiro semestre e quatro no segundo. No primeiro semestre, serão em 1º de janeiro (Confraternização Universal) e 26 de março (Sexta-Feira Santa). No segundo, em 7 de setembro (Independência do Brasil), 12 de outubro (Nossa Senhora Aparecida, padroeira do Brasil), 2 de novembro (Finados) e 15 de novembro (Proclamação da República).\nEm 2026, o calendário oficial do governo federal contou com nove feriados prolongados. \nVeja abaixo o calendário de feriados nacionais de 2027:\nFeriados nacionais em 2027\nO feriado do dia 20 de novembro é o mais recente na legislação brasileira, pela Lei nº 14.759/2023. Já 12 de outubro é previsto pela Lei nº 6.802/1980, enquanto a Sexta-Feira Santa integra a Lei nº 9.093/1995. As outras sete datas são as mais antigas, previstas pela Lei nº 662/1949. \nPontos facultativos \nApesar de não estarem presentes na legislação, o Carnaval, Corpus Christi e Dia do Servidor Público são pontos facultativos comuns no calendário dos brasileiros. Em 2027, essas comemorações serão: \nCarnaval: 8 e 9 de fevereiro (com ponto facultativo até o meio-dia da Quarta-Feira de Cinzas, dia 10) \nCorpus Christi: 27 de maio (quinta-feira) \nDia do Servidor Público: 28 de outubro (quinta-feira) \nFeriados estaduais \nO calendário de feriados estaduais de 2027 ainda não foi divulgado pelos respectivos governos. Porém, as datas previstas em legislação são: \nSão Paulo \nRevolução Constitucionalista de 1932: 9 de julho (sexta-feira) \nRio de Janeiro \nTerça-feira de Carnaval: 9 de fevereiro (terça-feira)  \nDia de São Jorge: 23 de abril (sexta-feira) \nEspírito Santo \nData Magna do estado, dedicada à Padroeira, Nossa Senhora da Penha: 13 de abril (terça-feira) \nSanta Catarina \nData Magna de Santa Catarina: 11 de agosto (quarta-feira) \nRio Grande do Sul \nData Magna do Rio Grande do Sul: 20 de setembro (segunda-feira) \nMato Grosso do Sul \nData da criação do Estado de Mato Grosso do Sul: 11 de outubro (segunda-feira) \nGoiás \nFundação de Goiás: 26 de julho (segunda-feira)\nDistrito Federal \nAniversário de Brasília: 21 de abril (quarta-feira)  \nDia do Evangélico: 30 de novembro (terça-feira) \nTocantins \nDia do Senhor do Bonfim: 15 de agosto (domingo) \nNossa Senhora da Natividade, Padroeira do Estado do Tocantins: 8 de setembro (quarta-feira) \nData de criação do Estado do Tocantins e da promulgação da primeira Constituição Estadual: 5 de outubro (terça-feira) \nPará \nDia da Adesão do Pará (Data Magna): 15 de agosto (domingo) \nAmapá \nPadroeiro do Estado do Amapá: 19 de março (sexta-feira) \nDia de Cabralzinho: 15 de maio (sábado) \nAniversário do Ex-Território: 13 de setembro (segunda-feira) \nRoraima \nData Magna de Roraima: 5 de outubro (terça-feira) \nRondônia \nData Magna de Rondônia: 4 de janeiro (segunda-feira) \nAcre \nDia Estadual do Católico: 20 de janeiro (quarta-feira) \nDia Estadual do Evangélico: 23 de janeiro (sábado) \nDia da Mulher: 8 de março (segunda-feira) \nAniversário do Estado do Acre: 15 de junho (terça-feira) \nTratado de Petrópolis: 17 de novembro (quarta-feira) \nBahia \nIndependência da Bahia: 2 de julho (sexta-feira) \nPernambuco \nData Magna de Pernambuco: 6 de março (sábado) \nCeará \nData Magna do Ceará: 25 de março (quinta-feira) \n Maranhão \nDia da Adesão do Maranhão à Independência do Brasil: 28 de julho (quarta-feira) \nPiauí \nDia do Piauí: 19 de outubro (terça-feira) \nRio Grande do Norte \nDia dos Santos Mártires de Cunhaú e Uruaçu: 3 de outubro (domingo) \nAlagoas \nDia de São João: 24 de junho (quinta-feira) \nDia de São Pedro: 29 de junho (terça-feira)\nEmancipação do Estado do Alagoas: 16 de setembro (quinta-feira) \nDia do Evangélico: 30 de novembro (terça-feira) \nParaíba \nData Magna do Estado da Paraíba: 5 de agosto (quinta-feira) \nFeriados nas capitais\nNas capitais brasileiras, os feriados previstos pelas legislações municipais são: \nSão Paulo (SP) \nAniversário de São Paulo: 25 de janeiro (segunda-feira) \nSexta-Feira Santa: 26 de março (sexta-feira) \nCorpus Christi: 27 de maio (quinta-feira) \nRio de Janeiro (RJ) \nDia de São Sebastião: 20 de janeiro (quarta-feira) \nBelo Horizonte (MG) \nSexta-Feira Santa: 26 de março (sexta-feira) \nCorpus Christi: 27 de maio (quinta-feira) \nDia da Assunção de Nossa Senhora: 15 de agosto (domingo) \nDia de Imaculada Conceição: 8 de dezembro (quarta-feira) \nVitória (ES) \nSexta-Feira Santa: 26 de março (sexta-feira) \nCorpus Christi: 27 de maio (quinta-feira) \nNossa Senhora da Vitória: 8 de setembro (quarta-feira) \nFlorianópolis (SC) \nAniversário de emancipação do Município de Florianópolis: 23 de março (terça-feira) \nCuritiba (PR) \nCorpus Christi: 27 de maio (quinta-feira) \nNossa Senhora da Luz: 8 de setembro (quarta-feira) \nPorto Alegre (RS) \nNossa Senhora dos Navegantes e Iemanjá: 2 de fevereiro (terça-feira) \nSexta-Feira Santa: 26 de março (sexta-feira) \nCorpus Christi: 27 de maio (quinta-feira) \nGoiânia (GO) \nDia de Nossa Senhora Auxiliadora: 24 de maio (segunda-feira) \nAniversário de Goiânia: 24 de outubro (domingo) \nCuiabá (MT) \nFundação da Cidade de Cuiabá: 8 de abril (quinta-feira) \nCorpus Christi: 27 de maio (quinta-feira) \nDia de Nossa Senhora da Conceição: 8 de dezembro (quarta-feira) \nBelém (PA) \nSexta-Feira Santa: 26 de março (sexta-feira) \nCorpus Christi: 27 de maio (quinta-feira) \nDia de Nossa Senhora da Conceição: 8 de dezembro (quarta-feira) \nRio Branco (AC) \nAniversário do Município de Rio Branco: 28 de dezembro (terça-feira) \nBoa Vista (RR) \nDia de São Sebastião: 20 de janeiro (quarta-feira) \nDia de São Pedro: 29 de junho (terça-feira) \nAniversário de Boa Vista: 9 de julho (sexta-feira) \nPorto Velho (RO) \nDia de Francisco de Sales: 24 de janeiro (domingo) \nSexta-Feira Santa: 26 de março (sexta-feira) \nDia de Nossa Senhora Auxiliadora: 24 de maio (segunda-feira) \nCriação do Município de Porto Velho: 2 de outubro (sábado) \nMacapá (AP) \nAniversário de Macapá: 4 de fevereiro (quinta-feira) \nPalmas (TO) \nDia de São José: 19 de março (sexta-feira) \nAniversário de Palmas: 20 de maio (quinta-feira) \nManaus (AM) \nElevação do Amazonas à categoria de Província: 5 de setembro (domingo) \nElevação de Manaus à categoria de Cidade: 24 de outubro (domingo) \nDia de Nossa Senhora da Conceição: 8 de dezembro (quarta-feira) \nSalvador (BA) \nSexta-feira Santa: 26 de março (sexta-feira) \nCorpus Christi: 27 de maio (quinta-feira) \nDia de São João: 24 de junho (quarta-feira) \nDia de Nossa Senhora da Conceição da Praia: 8 de dezembro (terça-feira) \nTeresina (PI) \nAniversário de Teresina: 16 de agosto (segunda-feira)  \nDia de Nossa Senhora da Conceição: 8 de dezembro (terça-feira) \nRecife (PE) \nSexta-feira Santa: 26 de março (sexta-feira) \nDia de São João: 24 de junho (quarta-feira) \nNossa Senhora do Carmo, padroeira de Recife: 16 de julho (sexta-feira) \nDia de Nossa Senhora da Conceição: 8 de dezembro (terça-feira) \nFortaleza (CE) \nDia da Assunção de Nossa Senhora: 15 de agosto (domingo) \nAracaju (SE) \nAniversário de Aracaju: 17 de março (quarta-feira) \nDia de São João: 24 de junho (quarta-feira) \nSão Luís (MA) \nDia de São Pedro: 29 de junho (terça-feira) \nAniversário de São Luís: 8 de setembro (quarta-feira) \nDia de Nossa Senhora da Conceição: 8 de dezembro (terça-feira) \nNatal (RN) \nDia de Santos Reis: 6 de janeiro (quarta-feira) \nSexta-feira Santa: 26 de março (sexta-feira)\nCorpus Christi: 27 de maio (quinta-feira)\nNossa Senhora da Apresentação: 21 de novembro (domingo)\nJoão Pessoa (PB) \nDia de São João: 24 de junho (quarta-feira)\nMaceió (AL) \nSexta-feira Santa: 26 de março (sexta-feira)  \nCorpus Christi: 27 de maio (quinta-feira)\nMarechal Floriano Peixoto: 29 de junho (terça-feira) \nDia de Nossa Senhora dos Prazeres: 27 de agosto (sexta-feira) \nDia de Nossa Senhora da Conceição: 8 de dezembro (terça-feira) \n*Estagiária sob supervisão de Diogo Max",
+    "published": "2026-11-05T09:00:01+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Dos 10 feriados nacionais de 2027, seis cairão em dias que permitirão folgas prolongadas — três a menos que os registrados em 2026. Previstos em lei federal, sete feriados vão cair durante a semana e três nos fins de semana.\nAs folgas prolongadas ocorrerão duas vezes no primeiro ",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Salário mínimo 2027: veja o que falta para novo valor de R$ 1.741 ser definido",
+    "link": "https://valor.globo.com/brasil/noticia/2026/11/05/salario-minimo-2027-veja-o-que-falta-para-novo-valor-de-r-1741-ser-definido.ghtml",
+    "description": "A previsão é que o salário mínimo aumente para R$ 1.741 em 2027. O novo valor representa um acréscimo de R$ 120 da remuneração paga neste ano, o equivalente a 7,4% a mais. Apesar de integrar o planejamento do governo federal no Projeto de Lei Orçamentária Anual para o próximo ano (PLOA 24/2026), o valor ainda precisa ser aprovado pelo Congresso. Por isso, o novo salário mínimo ainda pode sofrer alterações. \nA Lei Orçamentária Anual (LOA), que estabelece não só o salário mínimo, mas também o orçamento de programas sociais, obras e políticas públicas, só pode ser definida a partir da aprovação da Lei de Diretrizes Orçamentárias (LDO), que fixa metas fiscais e a projeção esperada de Produto Interno Bruto (PIB) e inflação. \nAmbas as leis estão em tramitação no poder Legislativo nacional. Pelo calendário do Congresso, a LDO será votada entre os dias 1º e 9 de dezembro, enquanto a LOA terá sua votação no dia 17 de dezembro.  \nO valor do salário mínimo não é usado somente como base para a remuneração de trabalhadores sob o regime da Consolidação das Leis de Trabalho (CLT), mas também é o valor de referência de programas sociais do governo federal, como auxílios do Instituto Nacional do Seguro Social (INSS), seguro-desemprego, abono salarial PIS/Pasep e Benefício de Prestação Continuada (BPC). \nTrabalhadores que atuam como pessoa jurídica (PJ) não têm direito ao salário mínimo, devido ao tipo de contrato definido entre o empregado e o empregador. \nComo é calculado o reajuste do salário mínimo? \nO reajuste do salário mínimo é feito a partir da análise da inflação do ano interior (que vai buscar o ganho real dos trabalhadores a partir desse número) e o desempenho da economia, de acordo com a Lei nº 14.633/2023.  \nA inflação é calculada pelo acúmulo nos 12 meses anteriores (até novembro), medido pelo Índice Nacional de Preços ao Consumidor (INPC), e o quanto esse valor reflete na variação do custo de vida das famílias de menor renda e no poder de compra dos trabalhadores brasileiros. \nAlém disso, o governo também avalia o crescimento do Produto Interno Bruto (PIB) de dois anos antes da entrada em vigor do novo salário mínimo, ou seja, para o salário de 2027, será usado o PIB de 2025. Esse aumento sobre a inflação, chamado de ganho real (aumento acima da inflação), não pode ultrapassar os 2,5%. \n*Estagiária sob supervisão de Diogo Max",
+    "published": "2026-11-05T09:00:01+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "A previsão é que o salário mínimo aumente para R$ 1.741 em 2027. O novo valor representa um acréscimo de R$ 120 da remuneração paga neste ano, o equivalente a 7,4% a mais. Apesar de integrar o planejamento do governo federal no Projeto de Lei Orçamentária Anual para o próximo ano",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Selic fica em 13,75%, mas não deve baratear o financiamento imobiliário; entenda",
     "link": "https://www.infomoney.com.br/minhas-financas/selic-fica-em-1375-mas-nao-deve-baratear-o-financiamento-imobiliario-entenda/",
@@ -9,6 +132,56 @@
       "Economia"
     ],
     "summary": "ancos elevaram taxas olhando para os juros futuros e para o custo de captação; mercado avalia que decisão do Copom não altera esse cenário no curto prazo\nThe post Selic fica em 13,75%, mas não deve baratear o financiamento imobiliário; entenda appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Turista paulista que morreu durante  viagem para o Rio foi atingido por tiro enquanto dormia no banco do carona do carro",
+    "link": "https://oglobo.globo.com/rio/noticia/2026/11/05/turista-paulista-que-morreu-durante-viagem-para-o-rio-foi-atingido-por-tiro-enquanto-dormia-no-banco-do-carona-do-carro.ghtml",
+    "description": "Na noite do último dia 30, o morador de São Paulo e professor de Matemática Daniel Oliveira de Andrade, de 27 anos, entrou em um carro, junto com dois amigos, para iniciar uma viagem de turismo com destino ao Rio de Janeiro. O passeio comemorava a conclusão do mestrado de Daniel e a notícia de que ele havia sido aprovado para cursar o doutorado na Universidade de São Paulo (USP). A aproximadamente 40 quilômetros do Rio, já na madrugada do dia 31, a alegria se transformou em dor e morte.\nNa Baixada Fluminense: paulista é morto a tiros na Dutra, em Nova Iguaçu, durante viagem ao Rio\nViolência: traficantes do TCP cortam dedos e raspam cabelo de mulher em Volta Redonda\nUm dos amigos dirigia o veículo, enquanto o segundo estava no banco traseiro. O professor dormia no banco do carona, com o assento reclinado, quando quatro disparos atingiram o carro, por volta das 2h30. Uma das balas acertou Daniel na altura da axila. O caso ocorreu quando o automóvel trafegava na Rodovia Presidente Dutra, na altura de Austin, em Nova Iguaçu, na Baixada Fluminense.\nMarca de um dos quatro tiros que atingiram carro onde professor foi baleado na Dutra\nReprodução\nA vítima chegou a ser levada de ambulância para o Hospital Geral de Nova Iguaçu, mas já deu entrada sem vida na unidade de saúde. Segundo a família do rapaz, os tiros teriam sido disparados por ocupantes de um veículo que tentavam parar um caminhão, provavelmente para realizar um assalto.\n—Falamos com um dos amigos que acompanhava Daniel na viagem, Ele era o estava dirigindo. Nos contou que havia um caminhão à frente deles e, atrás, um carro. Esse veículo começou a acelerar e a piscar os faróis, pedindo passagem. Ele retirou o carro do caminho, e o veículo fez a ultrapassagem, passando também o caminhão. Em seguida, começou a frear e a reduzir a velocidade do caminhão, o que nos faz acreditar que seria uma tentativa de assalto à carga. O motorista do automóvel em que meu cunhado estava acelerou para fugir, porque achou que estava acontecendo algo errado, e ultrapassou os dois veículos. Segundos depois, o carro que tentou parar o veículo de carga emparelhou com o automóvel, e homens armados efetuaram disparos. Isso nos faz pensar também que os bandidos podem ter achado que o carro em que meu cunhado estava fosse uma escolta armada do caminhão — disse Alannys Oliveira, cunhada do professor de Matemática.\nDaniel Oliveira de Andrade foi baleado na Rodovia Presidente Dutra\nReprodução\nSegundo a família, Daniel Oliveira era uma pessoa gentil, inteligente e que adorava estudar e praticar esportes. Para Iolanda de Oliveira, mãe da vítima, além de realizar o sonho de concluir o mestrado, o filho também conquistou uma legião de amigos.\n—Era um menino que, desde pequeno, é inspiração, é luz. Um menino que nunca deu trabalho, nunca me respondeu, a mim, que sou mãe, nem ao pai. Era um iluminado. Um cara que cresceu, estudou em escola pública, batalhou para fazer sua faculdade na USP, conseguiu e se formou professor. E que adorava esporte. Ele não conquistou apenas o objetivo de ser professor e de fazer o mestrado. O sonho dele era concluir o doutorado. Ele também conquistou uma legião de amigos, colegas, que foram na despedida dele. Foi algo que eu nunca vi na minha vida. Tanto amor, tanto carinho, só palavras lindas sobre ele. Eu achei que ele era só o Daniel. Esse gigante, gigante em tudo que fazia, em tudo. E ver uma multidão de alunos, professores da USP, professores do Crescer Sempre, onde ele ensinava, colegas de infância, familiares, amigos, era uma multidão que eu nunca vi. E isso é algo assim que, meu Deus, enche de orgulho e, ao mesmo tempo, arrasa o coração— disse a mãe, em um vídeo gravado pela família.\nEleições nos EUA: de casa simples em Duque de Caxias ao Parlamento da Flórida; conheça a trajetória do deputado eleito\nO corpo de Daniel foi levado para São Paulo, onde foi sepultado no Cemitério da Saudade, na Zona Leste. O caso está sendo investigado pela Delegacia de Homicídios da Baixada Fluminense (DHBF). Nas redes sociais, a família do professor publicou mensagens cobrando respostas sobre o crime.\nCaso Rosalina: ex-deputado acusado de assassinato em Saquarema diz que crime já prescreveu\n\"Queremos respostas da Polícia do Rio de Janeiro. Quem matou o nosso menino Daniel Oliveira de Andrade? Queremos justiça\", dizia um trecho da publicação.\nA Polícia Civil informou que testemunhas foram ouvidas e que a perícia foi feita. Em nota, a corporação afirmou que a investigação está estágio avançado, a fim de elucidar todos os fatos.\nInitial plugin text",
+    "published": "2026-11-05T09:00:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Na noite do último dia 30, o morador de São Paulo e professor de Matemática Daniel Oliveira de Andrade, de 27 anos, entrou em um carro, junto com dois amigos, para iniciar uma viagem de turismo com destino ao Rio de Janeiro. O passeio comemorava a conclusão do mestrado de Daniel ",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Tempo real: Ibovespa reage à pausa no ciclo de cortes na Selic",
+    "link": "https://www.moneytimes.com.br/tempo-real-5-11-26-lils-davs/",
+    "description": "Resumo: O Ibovespa (IBOV) reage à decisão do Comitê de Política Monetária (Copom) do Banco Central de manter a Selic em 13,75% ao ano, interrompendo o ciclo de cinco cortes consecutivos, em uma pausa já esperada pelo mercado. Em segundo plano, os investidores acompanham novos dados de produção industrial de setembro. No exterior, as atenções [&#8230;]",
+    "published": "2026-11-05T09:00:00+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Resumo: O Ibovespa (IBOV) reage à decisão do Comitê de Política Monetária (Copom) do Banco Central de manter a Selic em 13,75% ao ano, interrompendo o ciclo de cinco cortes consecutivos, em uma pausa já esperada pelo mercado. Em segundo plano, os investidores acompanham novos dad",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Ajuste fiscal com justiça social",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/ajuste-fiscal-com-justica-social.shtml",
+    "description": "Segundo o Banco Central, a dívida bruta do governo geral chegou a 82,9% do PIB (Produto Interno Bruto) em setembro de 2026, R$ 11,1 trilhões, 4,3 pontos percentuais acima do registrado no início do ano. Estimativas recentes situam o ajuste primário necessário para estabilizá-la em pelo menos 3 pontos percentuais do PIB.\nLeia mais (11/05/2026 - 06h00)",
+    "published": "2026-11-05T09:00:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Segundo o Banco Central, a dívida bruta do governo geral chegou a 82,9% do PIB (Produto Interno Bruto) em setembro de 2026, R$ 11,1 trilhões, 4,3 pontos percentuais acima do registrado no início do ano. Estimativas recentes situam o ajuste primário necessário para estabilizá-la e",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Partido de Renan Santos foi o que mais cresceu em outubro; 26 encolheram",
+    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/11/partido-de-renan-santos-foi-o-que-mais-cresceu-em-outubro-26-encolheram.ghtml",
+    "description": "O Missão, que teve o registro aprovado pelo TSE há exatamente um ano, foi o partido que mais cresceu em número de filiados em outubro, mês das eleições. A legenda que lançou Renan Santos, seu fundador e presidente, como candidato ao Palácio do Planalto, teve um salto de 79% e, de 29.867 para 53.468 membros. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-05T08:53:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O Missão, que teve o registro aprovado pelo TSE há exatamente um ano, foi o partido que mais cresceu em número de filiados em outubro, mês das eleições. A legenda que lançou Renan Santos, seu fundador e presidente, como candidato ao Palácio do Planalto, teve um salto de 79% e, de",
     "relevance": 5
   },
   {
@@ -82,6 +255,18 @@
       "Mercado Financeiro"
     ],
     "summary": "A Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) e a Confederação Nacional da Indústria (CNI) apresentaram ações diretas de inconstitucionalidade ao STF pedindo o adiamento da implementação das novas jornadas de trabalho com o fim da escala 6x1. A CNC pede qu",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Honorato, do Bradesco: BC fez um pedido implícito de ajuda ao governo",
+    "link": "https://valor.globo.com/financas/intraday/post/2026/11/ha-conjunto-de-incertezas-e-bc-busca-equilibrar-pratos-diz-honorato-do-bradesco.ghtml",
+    "description": "Na avaliação do economista-chefe do Bradesco, Fernando Honorato, o BC buscou equilibrar pratos entre uma economia que enfrenta choques de oferta, piora das expectativas e desaceleração econômica. A barra para subir os juros, neste ambiente, é bastante elevada e o Copom entrou em um “período de observação”. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-05T08:00:03+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Na avaliação do economista-chefe do Bradesco, Fernando Honorato, o BC buscou equilibrar pratos entre uma economia que enfrenta choques de oferta, piora das expectativas e desaceleração econômica. A barra para subir os juros, neste ambiente, é bastante elevada e o Copom entrou em ",
     "relevance": 5
   },
   {
@@ -490,6 +675,19 @@
       "Politica"
     ],
     "summary": "A avassaladora vitória do Partido Democrata nas eleições de meio de mandato nos EUA, com controle da Câmara e do Senado, representam mais um golpe moral ao presidente Donald Trump do que uma barreira real à sua agenda de política externa, incluindo ao Brasil e à América Latina. A",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Dilema do Copom escancara risco de estagflação",
+    "link": "https://valor.globo.com/financas/intraday/post/2026/11/dilema-do-copom-escancara-risco-de-estagflacao.ghtml",
+    "description": "O dilema que atravessa todo o comunicado divulgado pelo Comitê de Política Monetária (Copom) do Banco Central pode servir como prenúncio do que a economia do Brasil virá a enfrentar no ano que vem. Se há um reconhecimento claro por parte do Copom de que a economia vem perdendo força, os riscos à inflação também pioraram materialmente. Isso indica que, sem uma melhora da confiança dos agentes econômicos e das expectativas, a combinação pode levar a um cenário de inflação alta, juros elevados e crescimento fraco — algo que já começa a entrar no radar de importantes participantes do mercado. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-05T08:00:01+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O dilema que atravessa todo o comunicado divulgado pelo Comitê de Política Monetária (Copom) do Banco Central pode servir como prenúncio do que a economia do Brasil virá a enfrentar no ano que vem. Se há um reconhecimento claro por parte do Copom de que a economia vem perdendo fo",
     "relevance": 5
   },
   {
@@ -3707,226 +3905,6 @@
       "Mercado Financeiro"
     ],
     "summary": "O bitcoin sobe nesta quarta-feira (4) e volta a negociar acima dos US$ 80 mil, depois de cair a cerca de US$ 75,7 mil durante a apuração das eleições de meio de mandato nos Estados Unidos. Naquele momento, os futuros do Nasdaq chegaram a cair 2%. Nas horas seguintes, porém, os fu",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Economia perde força, emprego resiste: os dados que vão pesar na decisão do Copom",
-    "link": "https://www.moneytimes.com.br/economia-perde-forca-emprego-resiste-os-dados-que-vao-pesar-na-decisao-do-copom-nesta-quarta-feira-4-jcav/",
-    "description": "A inflação perdeu força no mês, mas o mercado de trabalho continua aquecido e a atividade econômica apresenta sinais mistos. É com esse conjunto de indicadores que o Comitê de Política Monetária (Copom) chega à decisão desta quarta-feira (4), quando define o futuro da Selic, atualmente em 13,75% ao ano. Os números ajudam a dimensionar [&#8230;]",
-    "published": "2026-11-04T18:24:15+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "A inflação perdeu força no mês, mas o mercado de trabalho continua aquecido e a atividade econômica apresenta sinais mistos. É com esse conjunto de indicadores que o Comitê de Política Monetária (Copom) chega à decisão desta quarta-feira (4), quando define o futuro da Selic, atua",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Bolsas da Europa fecham com alta de mais de 1% com ‘onda azul’ nos EUA",
-    "link": "https://www.moneytimes.com.br/europa-4-11-26-lils/",
-    "description": "As bolsas da Europa fecharam em alta robusta nesta quarta-feira (4), em repercussão à vitória dos democratas na Câmara e no Senado dos Estados Unidos (EUA), um quadro que pode remodelar a condução da política externa do presidente norte-americano, Donald Trump. A Europa tem saído prejudicada por muitas das medidas externas do presidente nor. O [&#8230;]",
-    "published": "2026-11-04T18:21:06+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "As bolsas da Europa fecharam em alta robusta nesta quarta-feira (4), em repercussão à vitória dos democratas na Câmara e no Senado dos Estados Unidos (EUA), um quadro que pode remodelar a condução da política externa do presidente norte-americano, Donald Trump. A Europa tem saído",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Nos EUA, 'terceiro turno das eleições' potencializa vitória de Lula e enfraquece influência dos Bolsonaros, diz especialista",
-    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/nos-eua-terceiro-turno-das-eleicoes-potencializa-vitoria-de-lula-e-enfraquece-influencia-dos-bolsonaros-diz-especialista.ghtml",
-    "description": "As eleições de meio de mandato americanas, que há quatro semanas o cientista político Carlos Melo chamou de terceiro turno do pleito brasileiro, potencializam a vitória de Lula e abrem espaço para a direita brasileira se descolar do bolsonarismo. A análise é do próprio Melo, que disse ao blog ver na derrocada de Donald Trump, de um lado, a abertura de canais de diálogo do presidente brasileiro com novas lideranças americanas e, de outro, o enfraquecimento do movimento de extrema direita no Brasil, representado pela família Bolsonaro.\nAnálise: Eleições nos EUA representam vitória contundente da democracia\nEntenda: Derrotado, Trump terá menos poderes para provocar turbulências econômicas\n— A derrota tira capacidade de pressão do governo Trump e dos Bolsonaros, que não terão o mesmo ambiente para articular politicamente de lá. O Texas, onde mora Eduardo Bolsonaro, teve um resultado muito claro pró-democrata, que deixa a família numa situação em que seu raio de ação fica muito encurtado. Ao mesmo tempo, para o governo brasileiro, o cenário melhora. Abre-se interlocução com as novas lideranças norte-americanas. O presidente Lula já tem uma interlocução grande com o prefeito de Nova York, Zohran Mamdani, que é hoje muito influente nos Estados Unidos de uma forma geral e no Partido Democrata, especificamente — exemplifica o cientista político, que é professor do Insper.\nE acrescenta:\n— Esse movimento dos Estados Unidos também ajuda a direita no movimento de descolamento do bolsonarismo, que sai enfraquecido dessa que é uma segunda derrota, após a de Flávio Bolsonaro.\nEleição de Haaland para governar o Novo México, é inspiração para povos indígenas do Brasil e do mundo, diz Eloy Terena\nPara Melo, as novas lideranças com as quais se abrem canais de interlocução para o governo brasileiro podem ajudar a evitar que o Congresso americano ceda às pressões da extrema direita americana contra o Brasil. Ele, no entanto, pondera:\n— A questão agora é se o presidente Lula vai saber aproveitar isso, se vai tirar vantagem dessa onda, se terá capacidade política e diplomática para interagir nesse novo ambiente. Vamos ter que observar no dia a dia e acompanhar os sinais.",
-    "published": "2026-11-04T18:19:54+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "As eleições de meio de mandato americanas, que há quatro semanas o cientista político Carlos Melo chamou de terceiro turno do pleito brasileiro, potencializam a vitória de Lula e abrem espaço para a direita brasileira se descolar do bolsonarismo. A análise é do próprio Melo, que ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Taxação do sol: como funciona o marco da energia solar?",
-    "link": "https://valor.globo.com/patrocinado/dino/noticia/2026/11/04/taxacao-do-sol-como-funciona-o-marco-da-energia-solar-1.ghtml",
-    "description": "A Lei 14.300 estabelece nova fase na cobrança da energia solar no Brasil, ao regulamentar a cobrança gradual pelo uso da infraestrutura de distribuição de energia. O marco legal da geração distribuída foi sancionado em janeiro de 2022 para encerrar a isenção irrestrita da tarifa do uso da rede. A medida aplica descontos sobre os créditos de energia compensados na conta de luz sem criar um imposto direto sobre a geração fotovoltaica em si.\nO cronograma de transição tarifária estipula a cobrança de 60% do componente tarifário em 2026 sobre a energia injetada na rede pelas novas instalações. A parcela escalonada subirá para 75% em 2027 e 90% em 2028, alcançando a regra definitiva do sistema de compensação em 2029. Em contrapartida, os consumidores que protocolaram solicitações de acesso até janeiro de 2023 mantêm a isenção de taxas até o ano de 2045.\nViabilidade econômica e posição do setor de integração\nApesar da cobrança gradual do Fio B, empresas integradoras ressaltam que a tecnologia fotovoltaica mantém alta rentabilidade e alívio imediato no orçamento. O engenheiro eletricista Anderson Oliveira, CEO e cofundador da EcoPower Energia Solar, explica que a economia orçamentária do cliente começa logo no início do contrato de financiamento.\n\"O cliente já começa a economizar no primeiro mês. Isso porque o valor da parcela do financiamento fica menor do que o valor que ele pagava todo mês para a concessionária. A diferença é que a conta da distribuidora é para sempre, enquanto as parcelas do projeto são finitas, em prazos como 36 ou 60 meses, por exemplo\", aponta o CEO.\nNesse sentido, a substituição de uma despesa contínua por um financiamento com prazo determinado transforma o custo fixo mensal em patrimônio próprio. \"Assim que o consumidor quita o projeto, esse recurso que antes ia para a concessionária vira investimento direto para a família, para a empresa, para a indústria ou para o produtor rural\", afirma Oliveira.\nAlém disso, a facilidade operacional e a autonomia do sistema aceleram a atratividade do investimento frente às concessionárias locais. \"Para o produtor rural e para o consumidor urbano, o maior obstáculo nunca foi o preço da energia, mas a falta de infraestrutura e a dependência da rede. Agora não precisa mais esperar obra: gera lá, consome lá, armazena lá e resolve lá\", complementa Anderson.\nOrigem regulatória e motivação econômica da transição\nA discussão sobre a regra de compensação começou com a promulgação da Resolução Normativa nº 482 da Agência Nacional de Energia Elétrica (Aneel) em abril de 2012. A norma inicial permitiu a conexão de sistemas consumidores à rede e criou o sistema de créditos energéticos. Posteriormente, a Resolução nº 687 de 2015 expandiu as modalidades operacionais para incluir o autoconsumo remoto, a geração compartilhada e os condomínios com múltiplas unidades.\nA isenção concedida nos primeiros anos visava incentivar a adoção inicial da fonte fotovoltaica no mercado nacional. Todavia, a expansão acelerada do segmento reduziu a necessidade de subsídios públicos contínuos. O modelo anterior transferia a totalidade dos custos de manutenção da fiação para os consumidores atendidos exclusivamente pelas distribuidoras locais, gerando distorções tarifárias sobre parcelas de menor renda da população.\nDiretrizes técnicas, garantias operacionais e regulamentação\nNesse contexto, a legislação aprovada pelo Congresso Nacional definiu a incidência do Custo do Fio B no cálculo de compensação. A cobrança incide apenas sobre o excedente energético cedido à distribuidora e retornado em forma de créditos ao imóvel gerador. A lei fixou ainda garantias de fiel cumprimento para grandes projetos, estabelecendo o percentual de 2,5% do valor total para usinas entre 500 kW e 1.000 kW, e de 5% para instalações acima de 1.000 kW de potência.\nA imposição de garantias financeiras visa coibir a especulação imobiliária e a negociação indevida de pareceres de acesso junto às concessionárias estaduais. Paralelamente, o Conselho Nacional de Política Energética (CNPE) e a Aneel mantêm a atribuição legal de calcular os custos e benefícios operacionais do sistema descentralizado.\nO acompanhamento das regras operacionais e do retorno do investimento orienta consumidores e integradores no momento em que a Lei 14.300 estabelece nova fase na cobrança da energia solar.",
-    "published": "2026-11-04T18:19:12+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "A Lei 14.300 estabelece nova fase na cobrança da energia solar no Brasil, ao regulamentar a cobrança gradual pelo uso da infraestrutura de distribuição de energia. O marco legal da geração distribuída foi sancionado em janeiro de 2022 para encerrar a isenção irrestrita da tarifa ",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/04/taxacao-do-sol-como-funciona-o-marco-da-energia-solar-1.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "O Globo",
-    "title": "Decreto do fim da escala 6x1 deve ser publicado na segunda-feira, diz ministro",
-    "link": "https://oglobo.globo.com/economia/noticia/2026/11/04/decreto-do-fim-da-escala-6x1-deve-ser-publicado-na-segunda-feira-diz-ministro.ghtml",
-    "description": "O governo pretende publicar na próxima segunda-feira o decreto que regulamentará o fim da escala de trabalho 6x1, segundo o ministro do Trabalho, Luiz Marinho. A afirmação foi feita durante coletiva com jornalistas para apresentação do balanço de vagas formais criadas em setembro, medidas pelo Cadastro Geral de Empregados e Desempregados (Caged), do ministério. \nSegundo Marinho, a medida deverá estabelecer um processo coordenado de transição para os novos modelos de jornada, considerando as particularidades de cada setor da economia.\n— Pretendo que a gente crie condições de, durante o fim da semana, prepararmos para publicar na segunda-feira o decreto para trazer um processo coordenado, junto aos setores da economia, para implantação das várias escalas que cada setor pretende implantar — afirmou.\nO ministro destacou a regulamentação deverá respeitar os parâmetros previstos na Proposta de Emenda à Constituição (PEC) que trata do tema, com redução da jornada de trabalho e garantia de duas folgas semanais. As negociações coletivas entre empresas e trabalhadores terão papel importante na definição das escalas.\n— O decreto vai orientar que as partes se acertem na convenção coletiva para ajustar o seu melhor modelo. Melhor modelo para quem? Para a atividade econômica e seus trabalhadores — diz. — O que a PEC não permite é que não esteja garantido as duas folgas e redução de salário.\nCombate ao assédio eleitoral\nO ministro também apontou como segunda prioridade a proteção dos trabalhadores contra o assédio eleitoral. Ele criticou práticas de intimidação por posicionamento político no ambiente de trabalho, como ameaças de demissão.\n— Essa percepção do ódio... É preciso proteger o trabalhador de qualquer tipo de ilicitude política — afirmou.",
-    "published": "2026-11-04T18:18:58+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O governo pretende publicar na próxima segunda-feira o decreto que regulamentará o fim da escala de trabalho 6x1, segundo o ministro do Trabalho, Luiz Marinho. A afirmação foi feita durante coletiva com jornalistas para apresentação do balanço de vagas formais criadas em setembro",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/brasil/noticia/2026/11/04/marinho-diz-que-governo-deve-publicar-decreto-para-regulamentar-fim-da-6x1-na-segunda-feira.ghtml"
-      },
-      {
-        "source": "Poder360",
-        "link": "https://www.poder360.com.br/poder-governo/decreto-do-fim-da-6-x-1-deve-ser-publicado-na-2a-feira-diz-luiz-marinho/"
-      }
-    ]
-  },
-  {
-    "source": "Poder360",
-    "title": "Marinho fica com a voz embargada em reunião do PL: “Cabeça erguida”",
-    "link": "https://www.poder360.com.br/poder-congresso/marinho-fica-com-a-voz-embargada-em-reuniao-do-pl-cabeca-erguida/",
-    "description": "Senador e coordenador da campanha de Flávio disse que oposição está do \"lado certo\" e fez sua parte nas eleições; ele lançou seu nome à presidência do Senado",
-    "published": "2026-11-04T18:17:52+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Senador e coordenador da campanha de Flávio disse que oposição está do \"lado certo\" e fez sua parte nas eleições; ele lançou seu nome à presidência do Senado",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Avião espião raro dos EUA cruza o Atlântico em meio a tensões com o Irã",
-    "link": "https://oglobo.globo.com/mundo/epoca/noticia/2026/11/04/aviao-espiao-raro-dos-eua-cruza-o-atlantico-em-meio-a-tensoes-com-o-ira.ghtml",
-    "description": "Um dos dois aviões de reconhecimento RC-135U Combat Sent da Força Aérea dos Estados Unidos cruzou o Atlântico em direção à Europa nesta quarta-feira, em meio às tensões com o Irã. A movimentação, identificada por plataformas de monitoramento de voos, alimentou especulações sobre uma possível operação de inteligência ligada ao Oriente Médio, mas o destino da aeronave não foi confirmado oficialmente. \n'The Bolsonaro's Effect': brasileiros fazem memes com derrota de Trump e comparam eleições dos EUA às do Brasil\n'Visita inesperada': Jacaré invade padaria nos EUA, passeia pela cozinha e deixa funcionários assustados; vídeo\nO avião, de matrícula 64-14849 e indicativo de chamada COBRA49, decolou na terça-feira da base aérea de Offutt, no estado americano de Nebraska, e fez uma escala na base de Pease, em New Hampshire. Na manhã seguinte, foi identificado próximo a St. John's, no Canadá, enquanto seguia em direção ao leste, segundo informações divulgadas por veículos especializados e perfis de monitoramento aeronáutico. Voando com o indicativo de chamada COBRA49, a aeronave pousou na base aérea da RAF em Mildenhall, Suffolk, Inglaterra, após seis horas e 42 minutos.\nA movimentação ocorre em um cenário de incerteza sobre os próximos passos de Washington em relação a Teerã. Embora a viagem tenha sido associada por observadores a uma possível mobilização militar, não há confirmação pública de que a aeronave tenha sido enviada para preparar um ataque ou participar de uma operação contra o Irã. \nAeronave “RC-135U Combat Sent” em rota\nReprodução | Captura de tela | FlightRadar\nAté o momento, não foi confirmado oficialmente se a aeronave seguirá para outro destino ou o motivo do voo. As informações disponíveis são baseadas em registros públicos de rastreamento de voos e análises de fontes independentes. Um manual da Força Aérea dos EUA descreve a inteligência do Combat Sent como um suporte ao desenvolvimento de armas avançadas e à reprogramação de equipamentos de alerta radar.\nA movimentação ocorre após o presidente americano, Donald Trump, afirmar ao Financial Times, nesta quarta-feira, que os Estados Unidos não têm planos imediatos de atacar o Irã, mas estão preparados para agir caso seja necessário. A declaração mantém em aberto a possibilidade de uma escalada militar, apesar da ausência de confirmação de uma nova operação.",
-    "published": "2026-11-04T18:16:02+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Um dos dois aviões de reconhecimento RC-135U Combat Sent da Força Aérea dos Estados Unidos cruzou o Atlântico em direção à Europa nesta quarta-feira, em meio às tensões com o Irã. A movimentação, identificada por plataformas de monitoramento de voos, alimentou especulações sobre ",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Do Irã ao comércio: como as eleições nos EUA afetam o restante do mundo",
-    "link": "https://www.infomoney.com.br/mundo/do-ira-ao-comercio-como-as-eleicoes-nos-eua-afetam-o-restante-do-mundo/",
-    "description": "\"Onda azul\" nos EUA já repercute no restante do mundo\nThe post Do Irã ao comércio: como as eleições nos EUA afetam o restante do mundo appeared first on InfoMoney.",
-    "published": "2026-11-04T18:11:26+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "\"Onda azul\" nos EUA já repercute no restante do mundo\nThe post Do Irã ao comércio: como as eleições nos EUA afetam o restante do mundo appeared first on InfoMoney.",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Money Times",
-        "link": "https://www.moneytimes.com.br/do-ira-ao-comercio-como-as-eleicoes-de-meio-de-mandato-nos-eua-afetam-o-restante-do-mundo-davs/"
-      }
-    ]
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "James Talarico é de direita ou esquerda? Entenda",
-    "link": "https://valor.globo.com/mundo/noticia/2026/11/04/james-talarico-e-de-direita-ou-esquerda-entenda.ghtml",
-    "description": "O democrata James Talarico foi eleito senador pelo Texas nas eleições de meio de mandato dos Estados Unidos, realizadas nesta terça-feira (3), ao derrotar o republicano Ken Paxton, apoiado pelo presidente Donald Trump. Ex-professor da rede pública e presbiteriano, o político de 37 anos ganhou projeção ao defender pautas progressistas e criticar o nacionalismo cristão em um estado tradicionalmente conservador. Mas, afinal, James pode ser considerado um político de esquerda? \nA sua eleição para o Senado encerrou uma sequência de 32 anos sem que um democrata conquistasse uma eleição estadual no Texas. A última vitória democrata para o Senado federal aconteceu em 1988, com a reeleição de Lloyd Bentsen. \nApesar de ser associada à ala progressista do partido Democrata, não seria possível categorizar o democrata como um político de \"esquerda\" como se é entendido no Brasil. A professora Flavia Loss, do curso de Relações Internacionais do Instituto Mauá de Tecnologia, explica que as noções de \"direita\" e \"esquerda\" existentes na política brasileira não se traduzem para o cenário dos EUA. \n\"Por conta da Guerra Fria, a esquerda americana desapareceu\", afirma Loss. \"Até tinha um partido comunista nos EUA, mas ele acabou sumindo do ambiente político e os democratas absorveram algumas dessas pautas\".\nO mesmo vale para as matérias de costumes, nas quais os democratas acolhem temas mais progressistas, como os direitos de pessoas LGBTQIAPN+, enquanto os republicanos reúnem visões mais conservadoras. \nQuem é James Talarico? \nNascido em 1989, em Round Rock, no Texas, James foi criado principalmente pela mãe, que se separou de seu pai biológico quando ele ainda era bebê. Em seu relato autobiográfico, o político afirma que a mãe enfrentou um relacionamento abusivo com seu pai biológico, que tinha problemas com o consumo de álcool e apresentava comportamentos violentos. \nEle se formou em ciência política pela Universidade do Texas e fez mestrado em políticas educacionais na Universidade de Harvard. Em 2025, concluiu também um mestrado em estudos teológicos no Austin Presbyterian Theological Seminary.  \nEle trabalhou por dois anos como professor de língua e literatura do ensino fundamental na cidade de San Antonio, em uma instituição que atende uma região historicamente ligada à comunidade mexicana nos EUA e marcada por elevados índices de pobreza, o que James disse, em entrevistas, ter influenciado a sua decisão de atuar politicamente. \nJames foi eleito deputado estadual do Texas pela primeira vez em 2018, quando tinha 29 anos, e manteve a sua cadeira na Câmara por quatro mandatos. Como legislador, ele ajudou a aprovar medidas de financiamento para escolas públicas, ampliação do acesso a programas de saúde mental para estudantes e redução dos custos de creches e medicamentos. Entre as iniciativas estão uma reforma do financiamento escolar, a limitação do tamanho das turmas da pré-escola e uma lei que estabeleceu um teto de US$ 25 para o copagamento mensal de insulina em determinados planos de saúde. \nParte da sua atuação política é ligada ao seu perfil religioso. James é presbiteriano e costuma recorrer a passagens bíblicas para argumentar em favor de políticas de combate à pobreza, investimentos em serviços públicos e proteção a grupos vulneráveis. Ainda assim, o democrata argumenta que a religião não deve ser utilizada pelo Estado para impor crenças específicas à população. \nSua oposição ao nacionalismo cristão ganhou destaque durante debates legislativos sobre a presença de símbolos e ensinamentos religiosos nas escolas públicas do Texas. James defende que a fé deve orientar as escolhas individuais, mas não servir como instrumento para impor uma religião à sociedade. \nQual foi a sua plataforma nesta eleição? \nNa disputa pelo Senado, James criticou bilionários e aqueles que \"estão no topo\", que na sua visão, contribuem para a polarização, \"para que não percebamos que estão retirando verbas das nossas escolas, destruindo nosso sistema de saúde e reduzindo impostos para si mesmos e para seus amigos ricos.\" \n\"A maior divisão neste país não é entre esquerda e direita. É entre o topo e a base. Os bilionários querem que fiquemos olhando uns para os outros — para a esquerda e para a direita — em vez de olharmos para cima, para eles. Aqueles que estão no topo se esforçam ao máximo para nos manter irritados e divididos, porque a nossa união representa uma ameaça à riqueza e ao poder deles. Por isso, suas redes de televisão a cabo e os algoritmos de suas redes sociais nos separam\", descreve o site da campanha de James.  \nNa economia, sua plataforma eleitoral propôs aumentar a tributação sobre os mais ricos e grandes empresas, elevar o salário mínimo federal para US$ 15 por hora e ampliar os direitos trabalhistas, incluindo licença familiar remunerada e pagamento de horas extras. O democrata também defendeu a ampliação de benefícios fiscais para famílias de baixa e média renda e medidas para reduzir os custos de moradia. \nNa saúde, Talarico propôs a criação de uma opção pública de seguro-saúde que concorresse com os planos privados, além de medidas para reduzir os preços de medicamentos e ampliar o acesso aos serviços médicos. Na educação, defendeu o fortalecimento das escolas públicas e a ampliação do acesso à educação infantil. \nO combate à corrupção e à influência do dinheiro na política também esteve entre as prioridades de sua campanha. Entre suas propostas estavam a proibição da negociação de ações por parlamentares e restrições ao financiamento eleitoral por grandes grupos econômicos. \nSeu discurso também faz referência aos seus princípios cristãos, em especial ao amor ao próximo e à ideia de união: \"Cada pessoa é sagrada — e não apenas aqueles que se parecem comigo, rezam como eu ou votam como eu\".",
-    "published": "2026-11-04T18:08:58+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O democrata James Talarico foi eleito senador pelo Texas nas eleições de meio de mandato dos Estados Unidos, realizadas nesta terça-feira (3), ao derrotar o republicano Ken Paxton, apoiado pelo presidente Donald Trump. Ex-professor da rede pública e presbiteriano, o político de 3",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Fim da escala 6×1: Comércio diz que 60 dias é pouco e pede mais prazo ao STF",
-    "link": "https://www.moneytimes.com.br/cnc-aciona-stf-para-adiar-fim-da-escala-6x1/",
-    "description": "A Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) entrou com uma ação no Supremo Tribunal Federal (STF) para adiar o início da transição para a nova jornada de trabalho após o fim da escala 6&#215;1. A emenda constitucional promulgada em outubro reduz a carga horária de 44 para 40 horas semanais sem [&#8230;]",
-    "published": "2026-11-04T18:08:03+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) entrou com uma ação no Supremo Tribunal Federal (STF) para adiar o início da transição para a nova jornada de trabalho após o fim da escala 6&#215;1. A emenda constitucional promulgada em outubro reduz a carga ",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Líder do PT aciona MPT contra Zé Trovão por apoio a campanha de demissões de petistas",
-    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/11/lider-do-pt-aciona-mpt-contra-ze-trovao-por-apoio-a-campanha-de-demissoes-de-petistas.ghtml",
-    "description": "Líder do PT na Câmara, Pedro Uczai acionou a Procuradoria-Geral do Trabalho para que apure o apoio do deputado Zé Trovão (PL-SC) à demissão de trabalhadores em razão de sua posição política.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-04T18:08:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Líder do PT na Câmara, Pedro Uczai acionou a Procuradoria-Geral do Trabalho para que apure o apoio do deputado Zé Trovão (PL-SC) à demissão de trabalhadores em razão de sua posição política.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e ",
-    "relevance": 5
-  },
-  {
-    "source": "Bloomberg Línea",
-    "title": "Dona da Raia e Drogasil, RD precisa crescer sem o impulso do GLP-1, dizem analistas",
-    "link": "https://www.bloomberglinea.com.br/negocios/dona-da-raia-e-drogasil-rd-precisa-crescer-sem-o-impulso-do-glp-1-dizem-analistas/",
-    "description": "Com os remédios para obesidade estabilizados em 12% das vendas, bancos veem teste para a maior rede de farmácias do país; desaceleração das vendas, uma base de comparação dura no quarto trimestre e uma economia mais fraca impõem desafios, segundo analistas",
-    "published": "2026-11-04T18:04:21+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Com os remédios para obesidade estabilizados em 12% das vendas, bancos veem teste para a maior rede de farmácias do país; desaceleração das vendas, uma base de comparação dura no quarto trimestre e uma economia mais fraca impõem desafios, segundo analistas",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Governador da Flórida diz que derrota republicana foi algo próximo ao ´nível de extinção’",
-    "link": "https://valor.globo.com/mundo/noticia/2026/11/04/governador-da-flrida-diz-que-derrota-republicana-foi-algo-prximo-ao-nvel-de-extino.ghtml",
-    "description": "Diversos republicanos avaliam desde ontem, em publicações em redes sociais, as razões da derrota eleitoral do partido na terça-feira (3), creditando responsabilidade ao presidente Donald Trump. Os democratas conquistaram maiorias na Câmara e no Senado, em Congresso antes controlado pelo partido de Trump, com efeito para o restante do mandato na Casa Branca.\nLeia também:\nTrump minimiza possibilidade de ataques ao Irã após derrota dos republicanos\nDerrota eleitoral limita poder de Trump, mas mundo teme mais instabilidade\nTrump parabeniza democratas e reconhece papel da guerra no Irã, mas sinaliza que governará por veto\n\nApós ter lançado dúvidas, nos dias que antecederam a eleição, sobre se reconheceria o resultado, Trump admitiu ontem a derrota para os democratas. E disse que se o próprio nome dele estivesse na cédula, os republicanos não teriam perdido apesar da impopularidade em torno da guerra ao Irã, que Trump reconheceu, também, como razão para a derrota nas urnas.\n\nO que ocorreu na eleição de ontem nos EUA, destacou o governador republicano da Flórida, Ron DeSantis em postagem no X, foi  “algo próximo ao nível de extinção”, embora tenha apontado que o seu Estado foi uma “grande exceção” entre os 10 maiores da federação.\n\n“É hora de os republicanos retomarem os valores  conservadores tradicionais que antes nos definiam, e que abandonamos ao longo da última década”, disse o senador John Curtis, de  Utah, em publicação no X, com referência ao período em que o trumpismo prevaleceu e dominou o partido.\n\nO deputado Thomas Massie, do Kentucky, que entrou em rota de colisão com Trump sobre a guerra ao Irã e também sobre a condução  do caso relativo aos arquivos Epstein, afirmou que os republicanos precisam fazer autocrítica.\n\n“A derrota não é sobre depositar confiança nos democratas ou nos princípios socialistas: é sobre responsabilizar os republicanos por terem traído suas promessas”, escreveu Massie no X.\n\nApesar das críticas públicas, houve entre os republicanos quem defendesse o partido e também o presidente Trump. “Nos últimos dois anos, os republicanos do Senado mostraram um grande histórico, no sentido de tornar as ruas mais seguras, colocar mais dinheiro no bolso dos americanos, e trazer novas oportunidades para que as famílias e as empresas sigam adiante”, disse o líder da atual maioria republicana no Senado, John Thune, em publicação no X.\n\n“Ainda temos o presidente Trump na Casa Branca e trabalharemos com ele para frear os piores impulsos do extremismo democrata”, acrescentou Thune.",
-    "published": "2026-11-04T18:00:19+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Diversos republicanos avaliam desde ontem, em publicações em redes sociais, as razões da derrota eleitoral do partido na terça-feira (3), creditando responsabilidade ao presidente Donald Trump. Os democratas conquistaram maiorias na Câmara e no Senado, em Congresso antes controla",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Veja como aproveitar as altas taxas do Tesouro Direto com guia gratuito",
-    "link": "https://www.infomoney.com.br/onde-investir/veja-como-aproveitar-as-altas-taxas-do-tesouro-direto-com-guia-gratuito/",
-    "description": "Ebook explica como funcionam os títulos públicos, mostra quais são as principais estratégias para investir e ajuda o investidor a tomar decisões em um momento de juros ainda elevados\nThe post Veja como aproveitar as altas taxas do Tesouro Direto com guia gratuito appeared first on InfoMoney.",
-    "published": "2026-11-04T18:00:00+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Ebook explica como funcionam os títulos públicos, mostra quais são as principais estratégias para investir e ajuda o investidor a tomar decisões em um momento de juros ainda elevados\nThe post Veja como aproveitar as altas taxas do Tesouro Direto com guia gratuito appeared first o",
-    "relevance": 5
-  },
-  {
-    "source": "Folha",
-    "title": "Uber planeja colocar 2.000 carros autônomos em operação até o fim de 2027",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/uber-planeja-colocar-2000-carros-autonomos-em-operacao-ate-o-fim-de-2027.shtml",
-    "description": "A Uber afirmou que planeja colocar mais de 2.000 carros autônomos -robotáxis- em operação no próximo ano, em uma tentativa de tranquilizar investidores sobre sua aposta em veículos autônomos. O anúncio ocorre em um momento em que seu principal negócio enfrenta dificuldades com a escassez de motoristas e a alta dos preços dos combustíveis.\nLeia mais (11/04/2026 - 14h59)",
-    "published": "2026-11-04T17:59:00+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A Uber afirmou que planeja colocar mais de 2.000 carros autônomos -robotáxis- em operação no próximo ano, em uma tentativa de tranquilizar investidores sobre sua aposta em veículos autônomos. O anúncio ocorre em um momento em que seu principal negócio enfrenta dificuldades com a ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Com menores receitas, lucro da Marcopolo recua 42,2% para R$ 187 milhões no 3º trimestre",
-    "link": "https://valor.globo.com/empresas/noticia/2026/11/04/com-menores-receitas-lucro-da-marcopolo-recua-422percent-para-r-187-milhoes-no-3o-trimestre.ghtml",
-    "description": "A Marcopolo registrou lucro líquido de R$ 187 milhões no terceiro trimestre de 2026, representando uma piora de cerca de 42,2% em comparação com o mesmo período de 2025.\nEntre julho e setembro, a fabricante de carrocerias para ônibus acumulou receita de R$ 2,29 bilhões, sendo 8,5% inferior na comparação anual. De acordo com a companhia, a piora é explicada principalmente pela retração das entregas nas operações internacionais, especialmente, no México, na Argentina e na África do Sul.\nAs receitas da Marcopolo no Brasil totalizaram R$ 1,21 bilhão no trimestre, retração de 2,5%, enquanto a receita no exterior recuou 21,4%, para R$ 703,2 milhões. Por outro lado, as receitas de exportação a partir do Brasil cresceram 3% em um ano, atingindo R$ 377,8 milhões no terceiro trimestre.\nNo trimestre, a produção brasileira de carrocerias para ônibus atingiu 6.740 unidades, redução de 7,1% em base anual. \nO resultado antes de juros, impostos, depreciação e amortização (Ebitda, na sigla em inglês) ficou em R$ 274,1 milhões no trimestre, piora de 34,7% na base anual.\n“No trimestre, o Ebitda foi afetado negativamente pelos mesmos efeitos que impactaram a margem bruta, em especial, pela desalavancagem operacional observada nas operações internacionais da companhia, especialmente pela queda expressiva de entregas nas operações de México, Argentina e África do Sul, pela menor eficiência fabril gerada pela retração de entregas de micros e urbanos em nossas operações brasileiras, pela valorização do real frente ao dólar norte-americano na rentabilidade das exportações, bem como pelo aumento dos custos de matérias-primas em patamar superior ao previsto no momento da venda”, explica a companhia, em comunicado que acompanhou o balanço. \nO resultado financeiro líquido do terceiro trimestre de 2026 foi positivo em R$ 15,3 milhões, ante um resultado também positivo de R$ 33 milhões registrados no terceiro trimestre de 2025. \nAo final de setembro, a dívida líquida da Marcopolo era de aproximadamente R$ 1,8 bilhão, ante a dívida de R$ 1,81 bilhão do final de junho.\n\n\nDivulgação/Marcopolo",
-    "published": "2026-11-04T17:57:18+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "A Marcopolo registrou lucro líquido de R$ 187 milhões no terceiro trimestre de 2026, representando uma piora de cerca de 42,2% em comparação com o mesmo período de 2025.\nEntre julho e setembro, a fabricante de carrocerias para ônibus acumulou receita de R$ 2,29 bilhões, sendo 8,5",
     "relevance": 5
   }
 ]
