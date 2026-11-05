@@ -1,5 +1,18 @@
 [
   {
+    "source": "Folha",
+    "title": "Governo define alíquotas do 'imposto do pecado' para 2027 e propõe manutenção do IPI em janeiro",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-define-aliquotas-do-imposto-do-pecado-para-2027-e-propoe-manutencao-do-ipi-em-janeiro.shtml",
+    "description": "O governo federal definiu na noite desta quarta-feira (4), por meio de MP (medida provisória), as alíquotas do Imposto Seletivo, criado pela reforma tributária para desestimular o consumo de produtos prejudiciais à saúde e ao meio ambiente.\nLeia mais (11/04/2026 - 23h03)",
+    "published": "2026-11-05T02:03:00+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O governo federal definiu na noite desta quarta-feira (4), por meio de MP (medida provisória), as alíquotas do Imposto Seletivo, criado pela reforma tributária para desestimular o consumo de produtos prejudiciais à saúde e ao meio ambiente.\nLeia mais (11/04/2026 - 23h03)",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Governo federal transfere hidrovia do São Francisco para a Bahia",
     "link": "https://www.poder360.com.br/poder-infra/governo-federal-transfere-hidrovia-do-sao-francisco-para-a-bahia/",
@@ -102,6 +115,10 @@
       {
         "source": "G1 - Economia",
         "link": "https://g1.globo.com/economia/noticia/2026/11/04/governo-edita-medida-provisoria-que-define-aliquotas-do-imposto-do-pecado.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/brasil/noticia/2026/11/04/governo-edita-mp-do-imposto-seletivo-com-previso-de-transio-at-2028.ghtml"
       }
     ]
   },
@@ -596,7 +613,13 @@
       "Politica"
     ],
     "summary": "Vitória da oposição pode favorecer investigações e questionamentos à política tarifária do republicano, inclusive contra o Brasil",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Folha",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/vitoria-democrata-no-senado-amplia-pressao-sobre-tarifas-de-trump-ao-brasil.shtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -1066,6 +1089,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/bc-mantem-juros-em-1375percent-e-economistas-veem-cenario-mais-dificil-para-novos-cortes.ghtml"
+      },
+      {
+        "source": "Folha",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/futuro-da-selic-depende-do-governo-lula-apos-copom-manter-taxa-em-1375-dizem-analistas.shtml"
       }
     ]
   },
@@ -2651,7 +2678,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Brasileiros que vivem no Paraguai e possuem conta no Ueno Bank devem ficar atentos às orientações do Banco Central do Paraguai (BCP) sobre a devolução dos depósitos após a intervenção na instituição, em meio à crise bancária. A previsão anunciada pelas autoridades é organizar os ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Folha",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/entenda-a-intervencao-no-ueno-bank-e-a-crise-politica-que-ela-provoca-no-paraguai.shtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -4026,20 +4059,6 @@
       "Politica"
     ],
     "summary": "Com a derrota republicana se desenhando de forma ampla, Trump afirmou ao The New York Times estar \"absolutamente disposto a aceitar\" o desfecho \nThe post Eleição nos EUA: dia de votação tem poucos problemas e frustra temor de interferência appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Quem é André Lara Resende, o economista que causou apreensão no mercado",
-    "link": "https://valor.globo.com/brasil/noticia/2026/11/04/quem-e-andre-lara-resende-o-economista-que-causou-apreensao-no-mercado.ghtml",
-    "description": "Autor da polêmica proposta para reduzir o déficit fiscal no quarto governo Lula, que ganhou apoio de quadros do PT e provocou apreensão no mercado financeiro, o economista André Lara Resende tem uma trajetória marcada por mudanças no pensamento econômico. Um dos formuladores do Plano Real e presidente do BNDES durante as grandes privatizações de 1998, foi se afastando do receituário liberal ao longo dos anos e se aproximando da esquerda e da heterodoxia econômica.\nLEIA TAMBÉM: Entenda a proposta de André Lara Resende para reduzir os juros no Brasil\nUm dos mais famosos filhos da PUC-RJ, tradicional exportadora de talentos para a Faria Lima, Lara Resende é autor, com Pérsio Arida, da proposta que ajudou a fundamentar o Plano Real. Concebido em 1984, o “Plano Larida” partia do diagnóstico de que a inflação brasileira tinha um forte componente inercial: a alta de preços se perpetuava por meio de reajustes baseados na inflação passada. A proposta previa a introdução de uma moeda indexada para permitir a transição a um padrão monetário estável.\nLara Resende foi diretor do Banco Central no governo José Sarney e participou da elaboração do Plano Cruzado, lançado em 1986, que fracassou na tentativa de estabilizar os preços. Ainda naquele ano, após sair do BC, o próprio Lara Resende já dava os primeiros alertas sobre os erros do plano. Anos depois, categoricamente atribuiu a derrota ao congelamento geral de preços e salários e ao déficit fiscal.  \nO desastre, porém, abriu caminho para o Real, que incorporou ideias do Plano Larida e aprendizados do Cruzado. Em 1993, Lara Resende participou, ao lado de economistas como Arida, Edmar Bacha e Gustavo Franco, da elaboração do programa que controlaria a hiperinflação no país.\nPassagem pelo BNDES e o caso dos grampos\nSua passagem pelo BNDES não durou um ano. Havia assumido em abril de 1998 e em novembro deixou a presidência do banco de fomento estatal diante do desgaste provocado pelo caso dos grampos, que revelou diálogos gravados clandestinamente com o então ministro das Comunicações, Luiz Carlos Mendonça de Barros. As conversas levantaram suspeitas de favorecimento no leilão do Sistema Telebrás. Em março de 2009, foi absolvido pela Justiça Federal, em primeira instância, em uma ação de improbidade administrativa relacionada à privatização.\nNo debate público, manteve-se discreto e chegou a se declarar “economista aposentado” no início dos anos 2000. Em 2003, porém, ajudou a fundar o Instituto de Estudos em Política Econômica da Casa das Garças, no Rio, ao lado de nomes como Arminio Fraga, Arida e Bacha. O instituto se tornou uma referência do pensamento liberal e da ortodoxia econômica associada à PUC-Rio.\nSua trajetória inclui ainda longas passagens pelo setor financeiro. Na década de 1980, foi sócio do Banco Garantia, instituição que teve entre seus principais nomes Jorge Paulo Lemann. Também foi diretor do Unibanco e um dos fundadores do Banco Matrix, em 1993. No meio acadêmico, atuou como professor visitante na Universidade Columbia, em Nova York\nA virada heterodoxa\nNo início da década de 2010, a virada no pensamento começa a dar sinais. Passou a dedicar mais atenção às questões ambientais em artigos e livros. Em 2013, publicou “Os limites do possível”, baseado em artigo publicado no Valor em 2012, no qual defendia uma revisão do conceito de progresso para incorporar os custos ambientais. “A capacidade de continuar a crescer nos padrões a que estamos acostumados esbarra nos limites físicos do planeta”, disse ao Globo, em entrevista em 2012.\nEm 2014, atuou como conselheiro econômico da candidata à Presidência Marina Silva. Nos anos seguintes, aprofundou as críticas à ortodoxia. Em artigos publicados no Valor em 2019, questionou a defesa da austeridade fiscal e tornou conhecida no país a Teoria Monetária Moderna (MMT). Também criticou o que considerava uma atenção excessiva à reforma da Previdência.\nConsolidou suas críticas nos livros “Consenso e contrassenso: por uma economia não dogmática” (2020) e “Camisa de força ideológica: a crise da macroeconomia” (2022). Em novembro de 2022, participou, com Arida, do grupo econômico da equipe de transição do então presidente eleito Luiz Inácio Lula da Silva.\nA proposta para reduzir os juros\nSua mais recente proposta foi apresentada no artigo “Eu acuso: uma proposta para eliminar os juros absurdos”, publicado em seu Substack em setembro de 2026. No texto, atribui aos juros elevados o principal peso no desequilíbrio fiscal e propõe uma nova coordenação entre as políticas fiscal e monetária.  \nA repercussão das ideias alimentou o nervosismo no mercado financeiro nesta terça-feira (3), mas o ministro da Fazenda, Dario Durigan, negou que haja reunião marcada entre o economista e Lula e afirmou que a proposta não está em avaliação pelo governo. Procurado pelo Valor, Lara Resende não comentou o assunto.",
-    "published": "2026-11-04T14:05:27+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Autor da polêmica proposta para reduzir o déficit fiscal no quarto governo Lula, que ganhou apoio de quadros do PT e provocou apreensão no mercado financeiro, o economista André Lara Resende tem uma trajetória marcada por mudanças no pensamento econômico. Um dos formuladores do P",
     "relevance": 5
   }
 ]
