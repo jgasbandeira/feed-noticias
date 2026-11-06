@@ -1,5 +1,31 @@
 [
   {
+    "source": "G1 - Economia",
+    "title": "PIX fora do ar: quase 10 mil usuários relatam dificuldades em bancos",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/06/pix-fora-do-ar-quase-10-mil-usuarios-relatam-dificuldades-em-bancos.ghtml",
+    "description": "PIX por engano: veja como devolver valor sem cair em golpe\nO PIX apresentou instabilidade nesta sexta-feira (6), e quase 10 mil usuários relataram dificuldades para realizar transferências e pagamentos por meio do sistema. \n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\nAs reclamações começaram a ser registradas no site Downdetector, por volta das 19h16, segundo dados da plataforma que monitora falhas em serviços digitais. Os problemas mais relatadas foram em aplicativos de celular (31%), pagamentos (27%) e transferências (24%). \nO Banco Central foi procurado pela redação do g1, mas ainda não retornou com orientações ou explicações. O espaço segue aberto.\nNo próprio Downdetector, alguns clientes especificaram bancos e reclamações. \"Santander, Inter, Itaú fora do ar...\", escreveu uma usuária. Outro diz que \"C6, Mercado Livre, Itaú caiu tudo. Eu ainda consegui tranferir através do C6 Banking, mas caiu tb\". \nNo X, antigo Twitter, o Itaú está respondendo alguns internautas. O banco explica que já está ciente do problema e predente realizar os ajustes necessários. (Veja mais abaixo) \nInitial plugin text\nOutro cliente publica uma foto da mensagem que está recebendo no aplicativo do banco: \nInitial plugin text\nBradesco está fazendo o mesmo movimento. \"Olá! Pedimos que tente acessar novamente mais tarde, por favor. Estamos à disposição\", respondeu o banco em outra publicação.\nInitial plugin text\nPor enquanto, os bancos e fintechs mais citados são: Bradesco, Itaú, Santander, Nubank, Inter, C6 e C6 Banking, Mercado Livre e 99Pay.  \nPolícia mapeou valor do prejuízo após analisar transferências via PIX do suspeito\nBruno Peres/Agência Brasil/Arquivo",
+    "published": "2026-11-06T22:51:04+00:00",
+    "themes": [
+      "Economia",
+      "XP"
+    ],
+    "summary": "PIX por engano: veja como devolver valor sem cair em golpe\nO PIX apresentou instabilidade nesta sexta-feira (6), e quase 10 mil usuários relataram dificuldades para realizar transferências e pagamentos por meio do sistema. \n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\nAs",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Ações dos EUA ensaiam recuperação tímida após derrocada de US$ 3,2 tri por temores com a IA",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/acoes-dos-eua-ensaiam-recuperacao-timida-apos-derrocada-de-us-32-tri-por-temores-com-a-ia.shtml",
+    "description": "As ações de Wall Street se estabilizaram nesta sexta-feira (6), um dia após a vitória dos democratas nas eleições de meio de mandato dos Estados Unidos desencadear uma debandada dos papéis ligados à inteligência artificial, eliminando US$ 3,2 trilhões (R$ 17,6 tri) do valor dos mercados acionários americanos.\nLeia mais (11/06/2026 - 19h50)",
+    "published": "2026-11-06T22:50:00+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "As ações de Wall Street se estabilizaram nesta sexta-feira (6), um dia após a vitória dos democratas nas eleições de meio de mandato dos Estados Unidos desencadear uma debandada dos papéis ligados à inteligência artificial, eliminando US$ 3,2 trilhões (R$ 17,6 tri) do valor dos m",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Bolsa sobe 1,39%; em alta, dólar fecha a R$ 5,508",
     "link": "https://www.poder360.com.br/poder-economia/bolsa-sobe-139-em-alta-dolar-fecha-a-r-5508/",
@@ -391,6 +417,20 @@
       "Politica"
     ],
     "summary": "O governo federal irá retomar a avaliação ambiental para liberar áreas com potencial para a exploração de petróleo. A medida está prevista em portarias assinadas pelos ministros de Minas e Energia, Alexandre Silveira, e do Meio Ambiente e Mudança do Clima, João Capobianco, nesta ",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Ibovespa e dólar sobem e juros futuros caem em dia de 'payroll' forte; Nasdaq e S&P 500 se recuperam após tombo",
+    "link": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
+    "description": "Ibovespa e dólar sobem e juros futuros caem em dia de 'payroll' forte; Nasdaq e S&amp;P 500 se recuperam após tombo Mercado também aguarda sinalizações sobre a política econômica no novo governo Lula Taxas ignoram ‘payroll’ forte e aprofundam recuo da véspera. Dólar fecha em alta com ‘payroll’ acima do previsto nos EUA e incerteza local. Bolsas de NY ganham força com recuperação de ‘techs’ e ‘payroll’ no radar. Ibovespa fecha em forte alta com recuperação e apoio de balanços",
+    "published": "2026-11-06T21:23:35+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Ibovespa e dólar sobem e juros futuros caem em dia de 'payroll' forte; Nasdaq e S&amp;P 500 se recuperam após tombo Mercado também aguarda sinalizações sobre a política econômica no novo governo Lula Taxas ignoram ‘payroll’ forte e aprofundam recuo da véspera. Dólar fecha em alta",
     "relevance": 5
   },
   {
@@ -3994,49 +4034,5 @@
         "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/reacoes-negativas-em-relacao-a-ia-podem-atrasar-ipo-da-anthropic-dizem-potenciais-investidores.shtml"
       }
     ]
-  },
-  {
-    "source": "Folha",
-    "title": "Ações ligadas à IA despencam na Ásia; Bolsa de Tóquio tem maior queda desde 'Dia da Libertação'",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468040",
-    "description": "As ações dos gigantes do setor de tecnologia desabaram nesta sexta-feira (6) nas Bolsas da Ásia, como aconteceu na quinta-feira (5) em Nova York, diante da perspectiva de uma regulamentação mais rígida da inteligência artificial com a vitória dos democratas nas eleições de meio de mandato dos EUA.\nLeia mais (11/06/2026 - 07h57)",
-    "published": "2026-11-06T10:57:00+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "As ações dos gigantes do setor de tecnologia desabaram nesta sexta-feira (6) nas Bolsas da Ásia, como aconteceu na quinta-feira (5) em Nova York, diante da perspectiva de uma regulamentação mais rígida da inteligência artificial com a vitória dos democratas nas eleições de meio d",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Agenda do dia: Relatório de empregos nos EUA é destaque",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/06/agenda-do-dia-relatorio-de-empregos-nos-eua-e-destaque.ghtml",
-    "description": "O relatório de empregos (“payroll”) de outubro dos Estados Unidos é o principal destaque da agenda desta sexta-feira. Além disso, o sentimento do consumidor americano e as expectativas de inflação da Universidade de Michigan também devem ser monitorados.\n\nVeja, abaixo, os principais destaques da agenda desta sexta-feira:\n\nFGV informa Índice de Variação de Aluguéis Residenciais de outubro - O Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV-Ibre) informa, às 8h, o Índice de Variação de Aluguéis Residenciais (Ivar/FGV) de outubro. O Ivar de setembro de 2026 registrou alta de 0,28%. A variação acumulada em 12 meses registrou leve desaceleração saindo de 5,09% em agosto de 2026 para 5,08% em setembro. Em setembro de 2026, o Ivar registrou alta mensal dos aluguéis em quase todas as capitais pesquisadas.\n\nIBGE divulga contas nacionais de 2024 — O Instituto Brasileiro de Geografia e Estatística (IBGE) divulga, às 10h, as Contas Nacionais 2024. Os dados fazem parte da revisão de rotina do Sistema de Contas Nacionais, que ajusta os indicadores com base em fontes adicionais.\n\nSecex apresenta balança comercial de outubro – A Secretaria de Comércio Exterior (Secex) do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) apresenta, às 15h, o resultado da balança comercial de outubro. Na quarta semana de outubro de 2026, a balança comercial registrou superávit de US$ 1,7 bilhão e corrente de comércio de US$ 15,2 bilhões, resultado de exportações no valor de US$ 8,5 bilhões e importações de US$ 6,8 bilhões.\n\nPresidente do Fed de Nova York discursa em evento - O presidente do Federal Reserve de Nova York, John Williams (vota no Fomc), às 8h30 (de Brasília), discursa em evento.\n\nEUA comunicam ‘payroll’ de outubro - O Departamento do Trabalho dos EUA comunica, às 10h30 (de Brasília), os relatórios de folhas de pagamento (payroll) não agrícolas dos EUA, que inclui o saldo líquido do número de novos postos de trabalho abertos, a taxa de desemprego, a participação na força de trabalho e os ganhos salariais médios por hora de outubro. A leitura anterior foi de abertura de 29 mil vagas (estimativa de abertura de 65 mil), com taxa de desemprego a 4,2% (expectativa de 4,2%). A taxa de participação foi de 61,8%, com estimativa de 61,9%, e os ganhos salariais médios por hora subiram 0,1% (margem) e 3% (ano), com estimativas, respectivamente, de 0,3% e 2,9%.\n\nPresidente do Fed de Saint Louis discursa em evento - O presidente do Federal Reserve de Saint Louis, Alberto Musalem, discursa em evento às 11h10 (de Brasília).\n\nUniversidade de Michigan expõe prévia da confiança do consumidor de novembro – A Universidade de Michigan expõe, às 12h (de Brasília), o dado preliminar do índice de confiança do consumidor dos EUA de novembro. A leitura anterior foi de 48. Expectativa de 48.\n\nUniversidade de Michigan mostra expectativa de inflação de novembro - A Universidade de Michigan mostra, às 12h, o dado preliminar de novembro da expectativa de inflação para cinco anos nos EUA. Na leitura anterior, a expectativa era de 3,5%, com estimativa de 3,6%.\n\nVice de supervisão do Fed discursa em evento - A vice-presidente para supervisão do Federal Reserve, Michelle Bowman (vota no Fomc), profere discurso em evento às 14h15 (de Brasília).\n\nLula participa de reunião do CNPE e sanciona Enamed - O presidente Luiz Inácio Lula da Silva participa, às 10h, de reunião extraordinária do Conselho Nacional de Política Energética (CNPE). Às 15h, sanciona o Projeto de Lei de Conversão nº 14/2026, que institui o Exame Nacional de Avaliação da Formação Médica (Enamed). Às 16h, reúne-se com a ministra da Casa Civil, Miriam Belchior, e o ministro da Justiça e Segurança Pública, Wellington César Lima e Silva; e, às 17h, com o ministro da Secretaria de Comunicação Social da Presidência da República, Sidônio Palmeira.\n\nDurigan participa de reunião do CNPE - O ministro da Fazenda, Dario Durigan, participa, às 10h, da 3ª Reunião Extraordinária do Conselho Nacional de Política Energética (CNPE). Às 11h30, terá reunião com o ministro da Previdência Social, Wolney Queiroz Maciel, e, às 14h, com o secretário executivo do Ministério da Gestão e da Inovação em Serviços Públicos, Adauto Modesto Junior. Depois, terá despachos internos.\n\nGalípolo viaja para reuniões do BIS em Basileia - O presidente do Banco Central (BC), Gabriel Galípolo, terá despachos internos em São Paulo e viajará ao exterior nesta sexta-feira (6). Ele participará das “Bimonthly Meetings”, promovidas pelo Banco de Compensações Internacionais (BIS), nos dias 8 e 9 de novembro, em Basileia, na Suíça.\n\nDiretores do BC participam de compromissos do BIS na Suíça - Os diretores do Banco Central de Política Monetária, Nilton David, e de Assuntos Internacionais e de Gestão de Riscos Corporativos, Paulo Picchetti, participarão de compromissos em Basileia, na suíça. David fará reuniões anuais promovidas pelo BIS nos dias 7 e 8 de novembro. Picchetti participará da Bimonthly meetings e da BIS Working Party on Domestic Monetary Policy, 7 a 11 do mesmo mês. O diretor de Fiscalização, Ailton de Aquino Santos, terá audiência, por videoconferência, às 10h, com representantes da Pinheiro Neto Advogados, em Brasília. Participarão o sócio José Luiz Homem de Mello, o associado sênior Marcelo Junqueira de Mello e o associado Daniel Filipini Ferreira de Castilho. Às 11h, Aquino fará reunião com o diretor-presidente do Banco Genial, André Schwartz, os advogados Luiz Felipe Amaral Calabró e Luiz Alfredo Ribeiro da Silva Paulin, do Levy & Salomão Advogados, em Brasília. O diretor de Regulação, Gilneu Vivan, terá reunião, às 14h30, com o conselheiro consultivo da QI Tech SCD, Maurício Costa de Moura, em Brasília. Os demais diretores terão despachos internos em Brasília, São Paulo ou Rio de Janeiro.\n\nMercadante reúne-se com presidente da Finep - O presidente do BNDES, Aloizio Mercadante, terá reunião, às 15h30, com o presidente da Financiadora de Estudos e Projetos (Finep), Luiz Antônio Elias.\n\nUnsplash",
-    "published": "2026-11-06T10:56:48+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O relatório de empregos (“payroll”) de outubro dos Estados Unidos é o principal destaque da agenda desta sexta-feira. Além disso, o sentimento do consumidor americano e as expectativas de inflação da Universidade de Michigan também devem ser monitorados.\n\nVeja, abaixo, os princip",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Folha",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/dolar-abre-em-alta-a-espera-de-novos-dados-de-emprego-nos-eua.shtml"
-      }
-    ]
-  },
-  {
-    "source": "NeoFeed",
-    "title": "OPINIÃO: O conflito entre os incentivos políticos de curto prazo e a sustentabilidade fiscal de longo prazo",
-    "link": "https://neofeed.com.br/insiders/opiniao-o-conflito-entre-os-incentivos-politicos-de-curto-prazo-e-a-sustentabilidade-fiscal-de-longo-prazo/",
-    "description": "A experiência de Elon Musk à frente do Departamento de Eficiência Governamental dos Estados Unidos (DOGE) trouxe uma reflexão que encontra um paralelo preocupante com a realidade brasileira. A dificuldade de promover cortes estruturais e enfrentar os interesses estabelecidos dentro do próprio governo pode ser sintetizada em uma frase atribuída a ele: “Nobody in power [&#8230;]\nO post OPINIÃO: O conflito entre os incentivos políticos de curto prazo e a sustentabilidade fiscal de longo prazo apareceu primeiro em NeoFeed.",
-    "published": "2026-11-06T10:56:30+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "A experiência de Elon Musk à frente do Departamento de Eficiência Governamental dos Estados Unidos (DOGE) trouxe uma reflexão que encontra um paralelo preocupante com a realidade brasileira. A dificuldade de promover cortes estruturais e enfrentar os interesses estabelecidos dent",
-    "relevance": 5
   }
 ]
