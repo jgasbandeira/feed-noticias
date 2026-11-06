@@ -1,5 +1,42 @@
 [
   {
+    "source": "Poder360",
+    "title": "Big techs perdem valor após derrota de aliados de Trump nos EUA",
+    "link": "https://www.poder360.com.br/poder-economia/big-techs-perdem-valor-apos-derrota-de-aliados-de-trump-nos-eua/",
+    "description": "Nasdaq registra perda histórica de US$ 2,5 trilhões; vitória democrata amplia incertezas sobre investimentos em inteligência artificial",
+    "published": "2026-11-06T02:26:26+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Nasdaq registra perda histórica de US$ 2,5 trilhões; vitória democrata amplia incertezas sobre investimentos em inteligência artificial",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Lara Resende nega que proponha tabelamento de juros",
+    "link": "https://valor.globo.com/brasil/noticia/2026/11/05/lara-resende-nega-que-proponha-tabelamento-de-juros.ghtml",
+    "description": "O economista André Lara Resende Lara Resende refutou, em entrevista à BBC Brasil nesta quinta-feira, que sua proposta de reduzir a taxa Selic a cerca de 7,5% em 12 meses sugira um tabelamento dos juros. \"Simplesmente se propõe levar os juros hoje a um nível compatível com os juros internacionais, que é pelo menos metade da taxa de juros real hoje\", afirmou.\n\nEm artigo publicado em 25 de setembro, Lara Resende atribui aos juros elevados o principal peso no desequilíbrio fiscal e propõe uma nova coordenação entre as políticas fiscal e monetária.  A proposta sugere reduzir a taxa Selic gradualmente, buscando ancorar a taxa básica em uma faixa delimitada pela meta de inflação (atualmente em 3%) e pelo crescimento nominal potencial da economia (estimado em 5,5%).\n\nSobre a viabilidade de sua proposta, o economista ilustrou quando da adoção da URV (Unidade Real de Valor) - unidade de conta criada em 1994 para preparar a transição para o real, plano do qual foi um dos autores - , que, segundo ele, também enfrentou reações e dúvidas sobre sua eficácia quando foi adotada. Conforme o economista, à época também não havia experiências anteriores para combate à hiperinflação.\n\nDa mesma forma, continua, não há garantia de que essa proposta vai dar certo. \"Não há garantia de nada no mundo. Mas acho que ela, bem entendida e bem implementada, tem alta probabilidade de dar certo.\"\n\nQuanto aos boatos de que ele teria uma reunião marcada com o presidente Luiz Inácio Lula da Silva, ele frisou que não tem contato com ele nem que foi marcado algum encontro com o presidente. \"Isso foi plantado. Muita gente gostou da proposta, caso da Gleisi Hoffman [deputada federal, ex-presidente nacional do PT e ex-ministra de Relações Institucionais]. Quem não gostou foi o pessoal do mercado financeiro.\"\n\nSegundo ele, ao difundirem um suposto encontro dele com o presidente, \"estão querendo queimar a proposta\", reforçando que não tem interesse em compor a equipe de governo no quarto mandato de Lula. Para ele, tudo isso se deve a uma briga interna do PT na qual ele entrou \"como Judas no padre-nosso\".",
+    "published": "2026-11-06T02:07:06+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "O economista André Lara Resende Lara Resende refutou, em entrevista à BBC Brasil nesta quinta-feira, que sua proposta de reduzir a taxa Selic a cerca de 7,5% em 12 meses sugira um tabelamento dos juros. \"Simplesmente se propõe levar os juros hoje a um nível compatível com os juro",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Imposto Seletivo agrada setores e adia debate sobre tributação 'do pecado'",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/imposto-seletivo-agrada-setores-e-adia-debate-sobre-tributacao-do-pecado.shtml",
+    "description": "A medida provisória que define as alíquotas do Imposto Seletivo para 2027 foi avaliada como positiva pela maioria dos setores alcançados pelo novo tributo, que fecharam acordo com o Ministério da Fazenda para manter a carga atual sobre esses produtos, correspondente hoje à tributação pelo IPI (Imposto sobre Produtos Industriais).\nLeia mais (11/05/2026 - 23h00)",
+    "published": "2026-11-06T02:00:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A medida provisória que define as alíquotas do Imposto Seletivo para 2027 foi avaliada como positiva pela maioria dos setores alcançados pelo novo tributo, que fecharam acordo com o Ministério da Fazenda para manter a carga atual sobre esses produtos, correspondente hoje à tribut",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Economia",
     "title": "Bolsa do Japão cai mais de 6% após tombo de ações de IA nos EUA",
     "link": "https://g1.globo.com/economia/noticia/2026/11/05/bolsa-do-japao-cai-mais-de-6percent-apos-tombo-de-acoes-de-ia-nos-eua.ghtml",
@@ -2845,7 +2882,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O Ministério da Saúde autorizou a compra de até 20 mil doses da vacina contra a mpox por meio do Fundo Rotatório da Organização Pan-Americana da Saúde (Opas) após uma reunião sobre o tema realizada nesta quarta-feira. Segundo a pasta, a medida busca reforçar o estoque estratégico",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-saude/ministerio-da-saude-vai-comprar-ate-20-000-doses-da-vacina-contra-mpox/"
+      }
+    ]
   },
   {
     "source": "Folha",
@@ -3971,43 +4014,6 @@
       "Mercado Financeiro"
     ],
     "summary": "AI trade remains in the spotlight as investors weigh possible impact of ‘blue wave’ on sectors favoured by Trump administration",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "BP-Beneficência Portuguesa e empresa de cursos de medicina do Mubadala criam ‘joint venture’",
-    "link": "https://valor.globo.com/empresas/noticia/2026/11/05/bp-beneficencia-portuguesa-e-empresa-de-cursos-de-medicina-do-mubadala-criam-joint-venture.ghtml",
-    "description": "A BP-Beneficência Portuguesa de São Paulo e a Clariens, braço de cursos de medicina do Mubadala Capital, que é a gestora de private equity do fundo soberano de Abu Dhabi, criaram uma ‘joint venture’ para ofertar cursos de pós-graduação e de educação continuada a médicos e profissionais da área de saúde. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-05T14:12:28+00:00",
-    "themes": [
-      "Asset"
-    ],
-    "summary": "A BP-Beneficência Portuguesa de São Paulo e a Clariens, braço de cursos de medicina do Mubadala Capital, que é a gestora de private equity do fundo soberano de Abu Dhabi, criaram uma ‘joint venture’ para ofertar cursos de pós-graduação e de educação continuada a médicos e profiss",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Champagne oficial da Fórmula 1, Moët & Chandon promove programação especial em São Paulo",
-    "link": "https://valor.globo.com/conteudo-de-marca/moet-chandon/noticia/2026/11/05/champagne-oficial-da-formula-1-moet-and-chandon-promove-programacao-especial-em-sao-paulo.ghtml",
-    "description": "Quando o Autódromo de Interlagos receber o Fórmula 1 MSC Cruises Grande Prêmio de São Paulo 2026, de 6 a 8 de novembro, a Moët & Chandon vai dar continuidade a uma tradição que conecta sua história à emoção do automobilismo. Participando do esporte novamente como champagne oficial da Fórmula 1, a Maison vai reunir convidados em espaços de acesso limitado nos bastidores e realizar ações distribuídas pela capital paulista, levando celebrações a hotéis, restaurantes e festas. \nA presença em São Paulo integra o acordo global de dez anos entre a LVMH e a F1, que marcou em 2025 o retorno da Moët & Chandon à categoria após mais de duas décadas. O champagne está associado às vitórias de campeões lendários como Jackie Stewart, Ayrton Senna, Niki Lauda, Alain Prost, Mika Häkkinen e Michael Schumacher.\nPara a marca, a segunda temporada com a Fórmula 1 representa um retorno para uma presença duradoura e uma forma de transformar o pódio em um momento de vitória compartilhada, homenageando o espírito coletivo por trás de cada conquista. \nMenus harmonizados e bastidores da corrida \nA agenda da Moët & Chandon na semana da corrida em São Paulo inclui a apresentação da badalada POSH, festa oficial da F1 em São Paulo, realizada pela Posh Club, conhecida pelo entretenimento de luxo e por edições em Ibiza, Mônaco, Paris e St. Tropez. A Maison também marcará presença na festa na Tetto. \nA programação segue com welcome drinks nos hotéis Marriott, Tangará e Emiliano, experiência By the Glass no Grand Hyatt e no Tangará e menus harmonizados no NOR, durante o fim de semana do Grande Prêmio, e nos restaurantes Jojo e Le Président, ambos do chef Érick Jacquin. \nQuem faz parte do Talent Club, comunidade orgânica da Maison, terá acesso ao Global Sponsor Lounge LVMH, no Paddock Club, uma das áreas de maior prestígio do circuito, e de espaços altamente restritos, como a garagem dos pilotos e a sala de descompressão Pilots Room, para uma sessão de fotos. Parte da comunidade terá ainda a oportunidade de visitar o pódio, onde o piloto vencedor celebra a conquista com o tradicional champagne spray. \nO brinde que virou tradição\nFundada em 1743, a Moët & Chandon está presente em mais de 150 países e sua relação com a Fórmula 1 começou em 1950, no Grande Prêmio da França, em Reims-Gueux, quando o conde Frédéric Chandon de Briailles ofereceu espontaneamente uma garrafa ao vencedor da corrida, o piloto Juan Manuel Fangio. O gesto deu origem ao ritual do autógrafo dos campeões no Jeroboam (garrafa de três litros). Em 1967, Dan Gurney celebrou uma vitória sacudindo a garrafa sobre a multidão, e dali nasceu o banho de champagne. \nEste ano, em Interlagos, a cerimônia vai começar antes dos pilotos chegarem ao pódio. Depois da corrida, o reconhecimento do empenho das equipes no Parc Fermé abre uma sequência que inclui a assinatura da edição especial da garrafa pelo piloto vencedor e a passagem pela sala de descompressão.\nPara Sibylle Scherer, presidente e CEO da Moët & Chandon, a relação com a Fórmula 1 espelha a busca por precisão e excelência da Maison. \"Juntos, celebramos o savoir-faire, o trabalho em equipe e a paixão que definem nossos dois universos\", diz.",
-    "published": "2026-11-05T14:11:13+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Quando o Autódromo de Interlagos receber o Fórmula 1 MSC Cruises Grande Prêmio de São Paulo 2026, de 6 a 8 de novembro, a Moët & Chandon vai dar continuidade a uma tradição que conecta sua história à emoção do automobilismo. Participando do esporte novamente como champagne oficia",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Ultradireita da Europa se afasta de Trump e atribui derrota republicana à guerra no Irã",
-    "link": "https://valor.globo.com/mundo/noticia/2026/11/05/ultradireita-da-europa-se-afasta-de-trump-e-atribui-derrota-republicana-guerra-no-ir.ghtml",
-    "description": "Políticos da extrema direita europeia começaram a se distanciar do presidente Donald Trump após a vitória dos democratas nas eleições legislativas dos Estados Unidos, atribuindo o revés principalmente à guerra contra o Irã e ao aumento do custo de vida. Muitas das lideranças, que celebraram nos últimos anos seus laços ideológicos com Trump, evitaram, entretanto, criticar o mandatário republicano diretamente.\nLeia também:\nLíderes mundiais dizem que vitória democrata nas eleições é resposta ao trumpismo\nTrump atribui derrota à guerra e adota tom de conciliação com democratas\nDerrota afasta Trump de republicanos e amplia pressão por mudanças\n\nJordan Bardella, líder do partido francês Reunião Nacional, que, segundo a maioria das pesquisas, poderá formar o próximo governo, exemplificou essa mudança de posicionamento político.\n\nO segundo mandato de Trump foi menos isolacionista do que o primeiro, de 2017 a 2021, afirmou Bardella. \"A intervenção americana em relação ao Irã tem consequências muito graves\" para as economias de todo o mundo, acrescentou, sem mencionar que Trump estava por trás da intervenção.\n\nNa Alemanha, Alice Weidel, copresidente do partido de extrema direita Alternativa para a Alemanha (AfD), também atribuiu a derrota à guerra contra o Irã. \"Trump havia prometido a seus eleitores que não adotaria uma política externa intervencionista [...] Essa promessa não cumprida agora se voltou contra os republicanos\", disse ela ao veículo de notícias T-Online.\n\nTrump reconheceu que a guerra contra o Irã teve influência nas derrotas de seu partido, mas defendeu as ações militares americanas contra o país para evitar, de acordo com ele, que Teerã obtivesse uma arma nuclear.\n\nNa Itália, Matteo Salvini, líder do partido de extrema direita Liga, integrante da coalizão governista, afirmou que \"o resultado americano foi influenciado sobretudo pelas guerras, pelas tensões internacionais e pelo aumento do custo de vida, cujas consequências recaem diretamente sobre as famílias\".\n\n\"A esperança é que essa votação possa representar uma aceleração rumo ao fim dos conflitos e ao retorno da paz\", disse.\n\nRoberto Vannacci, ex-general italiano que lidera o partido de extrema direita Futuro Nacional, afirmou que o resultado nos Estados Unidos mostrou os riscos políticos de não cumprir promessas eleitorais.\n\nVannacci já havia manifestado admiração pela política nacionalista de Trump, sintetizada no lema \"América Primeiro\", mas passou a criticar o presidente por sua política externa.\n\n\"Trump não correspondeu às expectativas, não conseguiu pôr fim à guerra entre Rússia e Ucrânia e iniciou uma guerra contra o Irã\", disse Vannacci à agência de notícias Ansa.\n\nEle argumentou que a consequente alta dos preços da energia e as turbulências econômicas e nos mercados acionários prejudicaram a classe média americana e contribuíram para o resultado eleitoral.\nJordan Bardella, presidente do partido francês de extrema direita Reunião Nacional (RN), diz que guerra contra Irã contribuiu para vitória dos democratas nos EUA\nStephanie Lecocq/Reuters\n\n\nLaços com Trump podem se tornar 'passivo eleitoral'\nOs líderes da extrema direita europeia estão se distanciando de Trump em busca de vantagens políticas evidentes, segundo Mujtaba Rahman, diretor-gerente da consultoria de risco político Eurasia Group.\n\n\"Sua crescente impopularidade, particularmente em relação ao custo de vida, ameaça transformar o que antes era um ativo político em um passivo eleitoral\", afirmou à Reuters.\n\nDe acordo com Rahman, os líderes da extrema direita parecem querer obter vantagens dos dois lados: aproveitar o \"impulso ideológico do trumpismo\" sem serem associados ao \"caos e à perturbação econômica de sua Presidência\".\n\n\"O risco é que Trump e seus aliados do movimento Maga [Make America Great Again], que veem a extrema direita europeia como parceira ideológica em sua luta contra o establishment europeu, reajam retirando seu apoio político ou até mesmo se voltando contra esses líderes\", acrescentou.\n\nUm dos poucos a minimizar a dimensão da derrota republicana foi Dan Dungaciu, vice-presidente da Aliança para a União dos Romenos, partido de direita radical da oposição, que argumentou que as notícias sobre a \"morte política\" de Trump eram \"muito exageradas\".\n\n\"Donald Trump não se torna automaticamente um presidente sem poder. Em vez disso, ele passa de uma Presidência apoiada por maiorias republicanas para uma situação em que o Executivo e o Congresso exercerão um controle mútuo muito mais intenso\", acrescentou.\n\nNa Espanha, Santiago Abascal, líder do partido de extrema direita Vox, fez pouca questão de disfarçar seu distanciamento de Trump, dizendo a jornalistas que estava \"na Espanha, e não em Michigan\".\n\n\"Eu me importo muito pouco com o que acontece em outros lugares\", afirmou Abascal, que anteriormente havia destacado sua aliança com Trump e com o movimento Maga.\n\nRupert Lowe, líder do partido britânico de extrema direita Restore Britain, também atribuiu a derrota dos republicanos à decisão de atacar o Irã, classificando-a como um \"erro catastrófico\".\n\n\"O que essa guerra conseguiu? Absolutamente nada de valor\", prosseguiu.\n\nLowe, porém, não mencionou em sua longa publicação na rede social X o nome do presidente que iniciou a guerra.\nInitial plugin text\n\nO líder do partido populista de direita Reform UK, Nigel Farage, reconheceu na quarta-feira que a eleição havia sido uma \"derrota completa e absoluta\" para os republicanos, apesar de sua previsão anterior de que as expectativas de uma vitória esmagadora dos democratas eram exageradas.\n\nFarage, que frequentemente destaca sua amizade com o presidente americano e visitou a Casa Branca no ano passado, disse à GB News que agora havia a \"possibilidade\" de um rompimento entre Trump e o vice-presidente J.D. Vance.\n\n\"Acontece que muitos dos homens jovens, aqueles que acompanham todo tipo de influenciadores de direita e que votaram em Trump em 2024, na verdade votaram nos democratas ontem. Foi uma surra como punição, em grande parte, acredito, por causa da guerra, da guerra prolongada no Irã e do custo dos combustíveis\", acrescentou Farage.",
-    "published": "2026-11-05T14:07:16+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Políticos da extrema direita europeia começaram a se distanciar do presidente Donald Trump após a vitória dos democratas nas eleições legislativas dos Estados Unidos, atribuindo o revés principalmente à guerra contra o Irã e ao aumento do custo de vida. Muitas das lideranças, que",
     "relevance": 5
   }
 ]
