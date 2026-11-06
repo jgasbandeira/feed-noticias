@@ -1,5 +1,66 @@
 [
   {
+    "source": "Poder360",
+    "title": "Governo Lula: leia a agenda do presidente nesta 6ª feira",
+    "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-do-presidente-nesta-6a-feira/",
+    "description": "Reunião do CNPE discute transição energética para a COP31; sanção do Enamed e despachos no Planalto também movimentam o dia",
+    "published": "2026-11-06T09:15:41+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Reunião do CNPE discute transição energética para a COP31; sanção do Enamed e despachos no Planalto também movimentam o dia",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Pauta do STF: saiba quais ações estão na pauta desta 6ª feira",
+    "link": "https://www.poder360.com.br/poder-justica/pauta-do-stf-saiba-quais-acoes-estao-na-pauta-desta-6a-feira/",
+    "description": "Plenário Virtual analisa crimes patrimoniais contra mulheres, acesso a dados de celulares e penduricalhos nos MPs",
+    "published": "2026-11-06T09:15:14+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Plenário Virtual analisa crimes patrimoniais contra mulheres, acesso a dados de celulares e penduricalhos nos MPs",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Governo Lula: leia a agenda de ministros do governo nesta 6ª feira",
+    "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-6a-feira-15/",
+    "description": "Reunião do CNPE, sessão do Comitê de Mudança do Clima, honraria acadêmica e despachos no Planalto movimentam o dia",
+    "published": "2026-11-06T09:15:10+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Reunião do CNPE, sessão do Comitê de Mudança do Clima, honraria acadêmica e despachos no Planalto movimentam o dia",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "'Fora da Bolha': Onda azul decreta fim de Trump? Quem vai ser o ministro da Fazenda de Lula?",
+    "link": "https://oglobo.globo.com/politica/noticia/2026/11/06/fora-da-bolha-onda-azul-decreta-fim-de-trump-quem-vai-ser-o-ministro-da-fazenda-de-lula.ghtml",
+    "description": "A onda de vitórias dos democratas nos Estados Unidos e os motivos que levaram à derrota do partido do presidente americano Donald Trump nas eleições de meio de mandato são temas do episódio desta semana do Fora da Bolha, videocast semanal do GLOBO sobre política. Já sobre o Brasil, os jornalistas comentaram sobre o dilema enfrentado pelo presidente Lula (PT) na escolha dos indicados para o Supremo Tribunal Federal (STF) e para o comando dos ministérios, em uma articulação que precisará acomodar os interesses do presidente do Senado, Davi Alcolumbre (União), de partidos do centrão e das ruas. \nO programa também discutiu a movimentação de Eduardo Paes (PSD), ex-prefeito do Rio de Janeiro, para a realização de um segundo turno no estado e a reação de Douglas Ruas (PL), seu adversário nas urnas, eleito governador no início de outubro.\n— O custo de vida nos Estados Unidos já vem atormentando os americanos desde a era Biden, do pós-pandemia. O Trump venceu em 2024 ancorado numa promessa (de reverter esse quadro), mas todas as medidas tomadas desde que ele entrou no governo jogaram querosene nessa fogueira dos preços. Primeiro, houve o tarifaço e, depois, essa atabalhoada e desastrosa intervenção no Irã. Os dois mexeram nos preços não só do petróleo, mas de vários outros insumos. Essa foi a base da insatisfação americana. Ele não entregou o que tinha prometido — afirma Flávia Barbosa, editora executiva do GLOBO.\nAssista ao programa \nTodas as sextas-feiras pela manhã o videocast é publicado no site do GLOBO, no canal do jornal no YouTube e nas principais plataformas de áudio. Com participação da colunista Vera Magalhães, dos editores executivos Flávia Barbosa e Paulo Celso Pereira e do editor de Política e Brasil, Thiago Prado, o programa reúne análises e bastidores da política brasileira contados de forma direta e descontraída.\nInitial plugin text",
+    "published": "2026-11-06T09:02:05+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A onda de vitórias dos democratas nos Estados Unidos e os motivos que levaram à derrota do partido do presidente americano Donald Trump nas eleições de meio de mandato são temas do episódio desta semana do Fora da Bolha, videocast semanal do GLOBO sobre política. Já sobre o Brasi",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Construtora desiste de erguer residencial de R$ 120 milhões em Botafogo e culpa juros e endividamento das famílias",
+    "link": "https://oglobo.globo.com/blogs/capital/post/2026/11/construtora-desiste-de-erguer-residencial-de-r-120-milhoes-em-botafogo-e-culpa-juros-e-endividamento-das-familias.ghtml",
+    "description": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-06T09:00:01+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Lula negocia ajuste fiscal e apoio político em meio à pressão do mercado",
     "link": "https://www.infomoney.com.br/politica/lula-negocia-ajuste-fiscal-e-apoio-politico-em-meio-a-pressao-do-mercado/",
@@ -10,6 +71,30 @@
       "Politica"
     ],
     "summary": "Mapa de Risco analisa as negociações para o quarto mandato de Lula, a corrida pelo comando do Congresso e os efeitos das eleições americanas para o Brasil\nThe post Lula negocia ajuste fiscal e apoio político em meio à pressão do mercado appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Tempo real: Ibovespa acompanha dados de emprego nos EUA",
+    "link": "https://www.moneytimes.com.br/tempo-real-5-11-26-davs/",
+    "description": "Resumo: O Ibovespa (IBOV) concentra as atenções no cenário externo com dados de emprego nos Estados Unidos. Por aqui, o mercado monitora os dados da balança comercial de outubro, em segundo plano. Destaques: Confira os principais temas do Ibovespa e dos mercados em tempo real:",
+    "published": "2026-11-06T09:00:00+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Resumo: O Ibovespa (IBOV) concentra as atenções no cenário externo com dados de emprego nos Estados Unidos. Por aqui, o mercado monitora os dados da balança comercial de outubro, em segundo plano. Destaques: Confira os principais temas do Ibovespa e dos mercados em tempo real:",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Bolsas da Ásia: Nikkei entra em “bear market” e mercados despencam com liquidação tech",
+    "link": "https://www.moneytimes.com.br/bolsas-da-asia-nikkei-entra-em-bear-market-e-mercados-despencam-com-liquidacao-tech-fets/",
+    "description": "As bolsas asiáticas fecharam em forte baixa nesta sexta-feira (6), com destaque para o Japão, onde o Nikkei entrou em &#8220;bear market&#8221; ao acumular queda superior a 20% em relação ao último pico, em meio à liquidação global de ações de tecnologia ligada ao boom de inteligência artificial (IA). Ontem, em Nova York, o Nasdaq [&#8230;]",
+    "published": "2026-11-06T08:59:24+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "As bolsas asiáticas fecharam em forte baixa nesta sexta-feira (6), com destaque para o Japão, onde o Nikkei entrou em &#8220;bear market&#8221; ao acumular queda superior a 20% em relação ao último pico, em meio à liquidação global de ações de tecnologia ligada ao boom de intelig",
     "relevance": 5
   },
   {
@@ -1204,6 +1289,10 @@
       {
         "source": "InfoMoney",
         "link": "https://www.infomoney.com.br/onde-investir/tombo-bolsa-infla-dividend-yield-15-acoes-pagam-acima-cdi/"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/financas/noticia/2026/11/06/bolsas-da-asia-despencam-em-meio-ao-tombo-global-do-setor-de-ia.ghtml"
       }
     ]
   },
@@ -3847,99 +3936,6 @@
       "Politica"
     ],
     "summary": "A reunião do presidente Luiz Inácio Lula da Silva (PT) com economistas nesta quinta-feira (5) é o primeiro passo concreto para afunilar as medidas econômicas que já estão sendo estudadas para o quarto mandato. Até então, as conversas com o presidente estavam concentradas na tenta",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "FII TRBL11 reforça carteira com galpão da Amazon e investe R$ 456 mi em dois imóveis",
-    "link": "https://www.infomoney.com.br/onde-investir/fii-trbl11-reforca-carteira-com-galpao-da-amazon-e-investe-r-456-mi-em-dois-imoveis/",
-    "description": "O fundo imobiliário Tellus Rio Bravo (TRBL11) prepara uma mudança no perfil de sua carteira\nThe post FII TRBL11 reforça carteira com galpão da Amazon e investe R$ 456 mi em dois imóveis appeared first on InfoMoney.",
-    "published": "2026-11-05T17:18:34+00:00",
-    "themes": [
-      "Fundos Imobiliarios"
-    ],
-    "summary": "O fundo imobiliário Tellus Rio Bravo (TRBL11) prepara uma mudança no perfil de sua carteira\nThe post FII TRBL11 reforça carteira com galpão da Amazon e investe R$ 456 mi em dois imóveis appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Presidente do Paraguai apresenta renúncia e faz pronunciamento em vídeo; assista à íntegra",
-    "link": "https://oglobo.globo.com/mundo/noticia/2026/11/05/presidente-do-paraguai-apresenta-renuncia-e-faz-pronunciamento-em-video-confira.ghtml",
-    "description": "O presidente do Paraguai, Santiago Peña, anunciou nesta quinta-feira (5) que vai renunciar ao cargo, diante da crise no banco digital Ueno Bank, iniciada dois dias antes, o que levou grupos de paraguaios a tomar as ruas em protestos. Peña fez um pronunciamento em vídeo e publicou em seu perfil nas redes sociais.\nPresidente do Paraguai apresenta renúncia em meio à crise no banco digital Ueno no país\nCrise no Ueno: como o banco digital do Paraguai foi à lona\nCrise do Ueno Bank: Brasileiros têm dinheiro retido em banco digital que quebrou no Paraguai\nNa gravação de 2 minutos e 19 segundos, Peña afirmou que \"nenhum cargo pode estar acima do bem-estar do Paraguai\".\n\"Tomei a decisão de apresentar a minha renúncia à Presidência da República. Faço isso pensando na estabilidade do nosso país, na paz social e na necessidade de preservar as nossas instituições democráticas. Faço-o com absoluto respeito à nossa Constituição Nacional e aos mecanismos institucionais e democráticos que estabelecemos para nós mesmos como Nação. Estou convencido de que nenhum cargo pode estar acima do bem-estar do Paraguai\", adicionou.\nOs órgãos reguladores do país intervieram após concluírem que o banco digital Ueno Bank estava subcapitalizado, o que anteriormente já havia provocado a renúncia do presidente do Banco Central, Carlos Carvallo, e criado um problema político para o presidente. Um processo de impeachment contra o chefe de Estado foi aberto. Segundo a imprensa paraguaia, o Congresso do país precisa aceitar a renúncia. Uma sessão sobre o assunto deve ser convocada.\nInitial plugin text\nDepois que o Banco Central do país assumiu o controle do Ueno, correntistas e aposentados clientes do banco digital paraguaio realizaram protestos no centro da capital, Assunção, e em frente à residência oficial do presidente do Paraguai, Santiago Peña, para exigir a devolução integral de seus recursos.\nPeña é um importante aliado do presidente dos Estados Unidos, Donald Trump, na América Latina, que tem apresentado seu país como um paraíso fiscal de baixa tributação para investidores estrangeiros. Ainda na terça-feira, no início da crise, Peña descartou repetidamente as preocupações sobre o balanço patrimonial do Ueno Bank, criticando a atenção da imprensa, que, segundo ele, tinha a intenção de provocar temor na população.\nConfira a tradução da íntegra do pronunciamento de Santiago Peña:\n\"Queridos compatriotas, hoje me dirijo a vocês em um dos momentos mais difíceis da minha vida, com o coração voltado para o Paraguai e com a convicção de que a nossa República deve estar sempre acima de qualquer pessoa ou circunstância. A história se encarregará de julgar e colocar na sua devida dimensão os acontecimentos que hoje nos toca vivenciar. Tomei a decisão de apresentar a minha renúncia à Presidência da República.\nFaço isso pensando na estabilidade do nosso país, na paz social e na necessidade de preservar as nossas instituições democráticas. Faço-o com absoluto respeito à nossa Constituição Nacional e aos mecanismos institucionais e democráticos que estabelecemos para nós mesmos como Nação. Estou convencido de que nenhum cargo pode estar acima do bem-estar do Paraguai.\nTambém quero pedir desculpas ao povo, caso eu tenha falhado em algum momento. Nunca foi minha intenção defraudar a confiança que depositaram em mim. A cada dia, assumi esta responsabilidade com a vontade de trabalhar pelo Paraguai.\nMas, hoje, a minha prioridade é uma só: a tranquilidade dos paraguaios que confiaram as suas economias ao nosso sistema financeiro. Por trás de cada depósito, há anos de esforço, sacrifício e projetos familiares. O meu maior desejo é que seja garantida a preservação desses recursos, que o Fundo de Garantia de Depósitos cumpra a sua finalidade e que sejam protegidos os fundos públicos e os recursos que pertencem a todos os paraguaios.\nQueridos compatriotas, somos um país que atravessou momentos muito difíceis e que sempre soube se reerguer. Confio profundamente na força do nosso povo e na capacidade das nossas instituições para superar esta situação. Hoje, devemos demonstrar, mais uma vez, que a democracia é respeitada, que as instituições são preservadas e que o Paraguai está acima das nossas diferenças.\nNenhum cargo é mais importante do que a estabilidade da República. Nenhuma pessoa está acima do Paraguai. Agradeço pela confiança em cada momento vivido e por terem me dado a honra de servir a esta grande nação.\nQue Deus abençoe cada família paraguaia e que Deus abençoe o Paraguai.\"\nValores bloqueados\nO banco Ueno Bank, que atende 40% da população do país, fechou as portas e bloqueou o acesso de clientes a contas e investimentos, após ser considerado insolvente. Uma instituição financeira é considerada insolvente quando não consegue honrar seus compromissos. Para evitar que a situação piorasse, o BC paraguaio interveio no Ueno.\nPromessa: BC do Paraguai vai devolver R$ 14 milhões a clientes do Ueno Bank, a partir desta sexta-feira\nO episódio levou à prisão preventiva de oito executivos ou ex-executivos do banco e à renúncia do presidente e mais dois diretores da autoridade monetária, além de desencadear uma crise política e levar centenas de paraguaios às ruas para exigir que recebam o dinheiro imediatamente.\nOs recursos estavam bloqueados desde terça-feira, quando o Banco Central do Paraguai interveio no Ueno Bank. Nesta quinta, a instituição anunciou que vai devolver R$ 14 milhões a clientes do banco, a partir desta sexta-feira. Os clientes do banco digital paraguaio receberão hoje um e-mail informando o valor que terão a receber e a conta para a qual o dinheiro será transferido, segundo o jornal paraguaio Hoy. Quem possui contas em outros bancos receberá os recursos por meio dessas instituições. Para quem não tem outra conta, será aberta uma conta provisória em outro banco. Ao todo, serão transferidos 16 trilhões de guaranis ou US$ 2,6 milhões (cerca de R$ 14 milhões).",
-    "published": "2026-11-05T17:17:36+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O presidente do Paraguai, Santiago Peña, anunciou nesta quinta-feira (5) que vai renunciar ao cargo, diante da crise no banco digital Ueno Bank, iniciada dois dias antes, o que levou grupos de paraguaios a tomar as ruas em protestos. Peña fez um pronunciamento em vídeo e publicou",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Axia não prevê pagamento de dividendos além do mínimo de 25% do lucro líquido",
-    "link": "https://valor.globo.com/empresas/noticia/2026/11/05/axia-nao-preve-pagamento-de-dividendos-alem-do-minimo-de-25percent-do-lucro-liquido.ghtml",
-    "description": "O vice-presidente executivo financeiro e de relações com investidores da Axia Energia, Eduardo Haiama, afirmou nesta quinta-feira (5) em teleconferência com analistas que, com o atual cenário, a estratégia mais provável da empresa para alocação de capital ao acionista é a continuação dos resgates das Ações Preferenciais Classe C (PNC).\nO conselho de administração da companhia vem aprovando seguidas operações de resgate desse tipo de ação este ano e Haiama afirmou que, com o atual panorama de preços, a tendência para os dividendos é a manutenção do pagamento do mínimo de 25% do lucro líquido.\nConfira os resultados e indicadores da Axia Energia e das demais companhias de capital aberto no portal Valor Empresas 360\nRedução de custo foi importante, mas pode avançar com uso de IA, afirma presidente da Axia\nConcentramos esforços para reduzir efeitos de eventos climáticos sobre a companhia, diz presidente da Axia\nAxia reverte prejuízo e lucra R$ 1,11 bi no 3º trimestre\nNa teleconferência, a companhia informou ainda que os preços da energia seguem afetados pelo El Niño, com volumes muito altos de chuva no Sul e no Sudeste, além de temperaturas abaixo da média para o período, o que amplia os volumes de água armazenados nas hidrelétricas e reduz o consumo de energia que geralmente é impulsionado pelo calor.\n\nFachada da sede da Axia Energia\nDivulgação/Axia Energia",
-    "published": "2026-11-05T17:15:09+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "O vice-presidente executivo financeiro e de relações com investidores da Axia Energia, Eduardo Haiama, afirmou nesta quinta-feira (5) em teleconferência com analistas que, com o atual cenário, a estratégia mais provável da empresa para alocação de capital ao acionista é a continu",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "IA centraliza o atendimento das agências de viagens",
-    "link": "https://valor.globo.com/patrocinado/dino/noticia/2026/11/05/ia-centraliza-o-atendimento-das-agencias-de-viagens-1.ghtml",
-    "description": "A Just Travel, traveltech especializada em soluções digitais para agências de viagens, apresentou uma plataforma de atendimento com inteligência artificial que concentra, em um único ambiente, as conversas de chat, WhatsApp, Instagram Direct, SMS e e-mail. A solução foi lançada durante a Abav Expo 2026, realizada de 30 de setembro a 2 de outubro no Expo Center Norte, em São Paulo. Conectada ao CRM, a ferramenta organiza o histórico de cada contato e dá às equipes uma visão única do cliente, da primeira mensagem ao fechamento da venda. O desenvolvimento teve apoio do EmbraturLAB, iniciativa de inovação voltada ao turismo brasileiro.\nA solução responde a uma dificuldade comum no setor: o cliente alterna rapidamente entre canais, enquanto a agência precisa preservar contexto, velocidade e consistência. Quando as interações ficam dispersas, informações se perdem, respostas se repetem e oportunidades esfriam antes da conclusão da compra.\nCom a centralização, os atendentes podem visualizar o percurso da conversa e trabalhar em uma base compartilhada. A inteligência artificial apoia a rotina e reduz etapas operacionais, enquanto a equipe mantém a condução comercial e o relacionamento com o viajante. A proposta é dar escala à agência sem abrir mão da orientação humana que influencia decisões de viagem.\n\"Reunir canais e CRM dá contexto ao atendimento e ajuda a agência a aumentar em até três vezes a taxa de conversão em vendas\", afirma Fábio Barreto, co-fundador da Just Travel.\nNa prática, uma solicitação iniciada pelo Instagram pode seguir pelo WhatsApp ou por e-mail sem romper o histórico do cliente. Essa visão unificada ajuda a distribuir demandas entre os atendentes, registrar interações e definir os próximos passos de cada oportunidade.\nEntre os principais recursos da plataforma estão:\nCentralização de chat, WhatsApp, Instagram Direct, SMS e e-mail;\nIntegração das interações com o CRM;\nHistórico unificado para preservar o contexto do atendimento;\nApoio de inteligência artificial às rotinas da equipe;\nOrganização das oportunidades ao longo da jornada comercial;\nOperação compartilhada para atendimento e acompanhamento de clientes.\nO recurso passa a integrar o ecossistema de soluções da Just Travel e aproxima loja virtual, relacionamento e conversão em uma mesma estratégia digital. O lançamento ocorre em um período de expansão da empresa, que registra alta de 60% nas vendas de 2026 em relação ao mesmo intervalo de 2025.\nParalelamente, a Just Travel participa desde março de um programa de internacionalização da ApexBrasil em parceria com o Sebrae, voltado à entrada da empresa na Europa. Entre as ações realizadas está a participação na IFTM Top Resa, feira de turismo promovida em Paris.\nCanais oficiais da Just Travel\nSite: https://justtraveltour.com/ | LinkedIn: https://www.linkedin.com/company/justtraveloficial/ | Instagram: https://www.instagram.com/justtraveloficial/\nContato institucional (comercial): contato@justtraveltour.com · Telefone: (11) 4040-1070",
-    "published": "2026-11-05T17:14:37+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A Just Travel, traveltech especializada em soluções digitais para agências de viagens, apresentou uma plataforma de atendimento com inteligência artificial que concentra, em um único ambiente, as conversas de chat, WhatsApp, Instagram Direct, SMS e e-mail. A solução foi lançada d",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/05/ia-centraliza-o-atendimento-das-agencias-de-viagens-1.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Derrota de Trump alivia pressão sobre Warsh e dá ao Fed mais espaço para mexer nos juros",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/05/derrota-de-trump-alivia-pressao-sobre-warsh-e-da-ao-fed-mais-espaco-para-mexer-nos-juros.ghtml",
-    "description": "A ampla rejeição ao presidente dos EUA, Donald Trump, nas urnas na terça-feira pode tirar um peso das costas do presidente do Federal Reserve, Kevin Warsh, e permitir que ele se concentre — com menos interferência política — em controlar a inflação.\nEssa é uma das primeiras conclusões de alguns observadores do Fed, que afirmam que a derrota esmagadora do Partido Republicano nas “midterms”, as eleições de meio de mandato — com eleitores citando o custo de vida entre as principais preocupações — virou de cabeça para baixo a dinâmica política em torno do banco central americano.\n“Warsh e companhia agora podem se concentrar na política monetária”, disse Mark Spindel, gestor de investimentos da Potomac River Capital e coautor de um livro sobre a história da independência do Fed. “Warsh quer deixar um bom legado. Mas eles precisam começar a trabalhar.”\nTrump tem exercido forte pressão sobre o banco central e as decisões sobre juros desde a reeleição, em 2024. Ele pediu repetidamente juros mais baixos, apoiou uma investigação criminal sem precedentes sobre reformas em prédios do Fed e tentou demitir uma integrante do Conselho de Governadores em pleno mandato.\nEm meio a tudo isso, escolheu Warsh para comandar o Fed em maio, depois que Warsh adotou uma posição incomum em defesa de juros mais baixos. Isso levou democratas a temer que o novo presidente do banco central tivesse concordado em moldar a política monetária às preferências de Trump.\nPreocupações persistentes\nWarsh já fez bastante para mostrar que esses temores eram infundados. Com a inflação acima da meta do Fed há mais de cinco anos e voltando a acelerar no verão, Warsh contrariou os céticos que duvidavam da disposição dele para enfrentar críticas políticas ao elevar os juros em setembro. Os comentários feitos por ele na reunião de outubro do Fed também ajudaram a reforçar as expectativas de outra alta de juros em dezembro.\nAinda assim, Warsh liderou a decisão de manter os juros inalterados pouco antes das eleições de meio de mandato, mesmo com um dado de inflação de setembro acima do esperado. Ele insistiu que as eleições não tiveram qualquer influência, mas a decisão e a constante relutância em revelar as perspectivas para a economia alimentaram preocupações persistentes de que ele evita provocar o presidente.\nA derrota eleitoral pode mudar esse quadro.\nDaleep Singh, economista-chefe global da PGIM e ex-alto funcionário do governo Biden, sugeriu que a eleição ajuda o Fed não apenas por representar uma rejeição a Trump, mas também por indicar aos formuladores de política monetária o problema que os eleitores querem ver resolvido.\n“A questão é: com o controle do presidente sobre o país enfraquecido e os eleitores dizendo claramente que o custo de vida era a questão número um nesta eleição, Kevin Warsh e o Fed vão interpretar esse sinal e fazer o trabalho deles?”, questiona Singh na quarta-feira, em entrevista à Bloomberg Television. “Nossa avaliação é que sim.”\nSingh prevê que o Fed elevará os juros em 1 ponto percentual ao longo do próximo ano.\nA eleição também pode simplesmente desviar a atenção de Trump e da Casa Branca, reduzindo o interesse em atacar o Fed, disse Stephen Myrow, sócio-diretor da Beacon Policy Advisors e ex-funcionário do Departamento do Tesouro no governo George W. Bush.\n“Trump vai ter muitos outros problemas para resolver”, disse Myrow. “Então, o Fed não vai receber a mesma atenção que poderia ter recebido antes.”\nA vida pós-Trump\nAo mesmo tempo, Warsh pode agora pensar mais na vida pós-Trump. O mandato dele como presidente do Fed vai até 2030, já no próximo governo.\n“Warsh já permaneceria no cargo por mais tempo que Trump e, portanto, sempre teve motivação para resistir”, disse Tim Duy, economista-chefe para os EUA da SGH Macro Advisors.\nOutros analistas, porém, alertaram contra a suposição de que os juros passarão a seguir uma trajetória mais alta.\n“Tudo no padrão de comportamento do Fed neste ano — em termos de manter os juros, elevar e voltar a manter — poderia ter acontecido mesmo se a Casa Branca fosse totalmente normal e não estivesse pressionando o Fed aos gritos para reduzir os juros”, disse Claudia Sahm, economista-chefe da New Century Advisors. “Eu teria bastante cautela em dizer que, agora que a Casa Branca sofreu essa rejeição, o Fed realmente vai acelerar as altas de juros.”\nNa verdade, o Fed talvez nem precise elevar mais os juros se o resultado eleitoral levar Trump a encerrar o conflito no Irã e desistir de tarifas adicionais. “A trajetória efetiva dos juros a partir daqui pode acabar sendo mais baixa, e não mais alta”, disse Sahm.",
-    "published": "2026-11-05T17:13:43+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "A ampla rejeição ao presidente dos EUA, Donald Trump, nas urnas na terça-feira pode tirar um peso das costas do presidente do Federal Reserve, Kevin Warsh, e permitir que ele se concentre — com menos interferência política — em controlar a inflação.\nEssa é uma das primeiras concl",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Dívida externa de países em desenvolvimento atinge recorde de US$ 9,4 trilhões, diz Banco Mundial",
-    "link": "https://valor.globo.com/mundo/noticia/2026/11/05/dvida-externa-de-pases-em-desenvolvimento-atinge-recorde-de-us-94-trilhes-diz-banco-mundial.ghtml",
-    "description": "Os países de renda baixa e média estão tomando mais empréstimos e pagando mais caro para se financiar. Em 2025, a dívida externa desses países cresceu 5,5% e atingiu o recorde de US$ 9,4 trilhões, informou o Banco Mundial em um relatório nesta quinta-feira.\n\nA instituição, com sede em Washington, informou que esses países continuaram a captar recursos no mercado internacional de títulos em 2026. Isso levanta questões importantes sobre “se as condições são sustentáveis e se o capital captado está chegando às pessoas e aos lugares que mais precisam dele”.\nNo Relatório Anual sobre a Dívida Internacional, o Banco Mundial afirmou que o salto da dívida externa em 2025 foi o maior desde 2021, logo após a pandemia de covid, e ameaçava reduzir os recursos disponíveis para investimentos essenciais em educação, infraestrutura, saúde e geração de empregos.\n\nSegundo o banco, o acesso ao financiamento internacional melhorou, mas os países em desenvolvimento mais pobres pagavam juros médios de 8,2% nas novas operações contratadas com credores privados, a taxa mais alta desde 1989. Nas novas emissões de títulos, os juros chegavam a 9,4%.\nEm comparação, os países que não tinham acesso aos empréstimos com juros baixos ou sem juros da Associação Internacional de Desenvolvimento (IDA, na sigla em inglês) pagaram, em média, 5,5% nas novas emissões de títulos, ante 5,8% em 2024, informou o banco.\nNos últimos meses, dirigentes do Banco Mundial, do Fundo Monetário Internacional (FMI) e de outras instituições financeiras globais vêm alertando para os altos níveis de endividamento e os efeitos negativos dos juros mais elevados sobre os países em desenvolvimento.\nSegundo o relatório, nos países em desenvolvimento, os empréstimos obtidos com credores privados e as emissões de títulos por entidades públicas somaram US$ 251 bilhões, alta de quase 35% e o maior volume em cinco anos. A dívida externa cresceu mais rapidamente entre os países com acesso ao financiamento da IDA. Nesse grupo, a alta foi de 8,1% em 2025, para US$ 1,3 trilhão.\n“A retomada dos empréstimos privados aos países de renda baixa e média é bem-vinda, mas esses países estão tomando mais empréstimos, pagando mais caro e, em muitos casos, ficando com menos recursos para o desenvolvimento de longo prazo”, disse Haishan Fu, estatística-chefe do Banco Mundial. “Administrar a dívida com responsabilidade significa dar a todos, inclusive às futuras gerações, a oportunidade de prosperar.”\nO relatório mostrou que muitos governos emitiram novos títulos para recomprar dívidas próximas do vencimento. Com isso, alongaram os prazos de pagamento, muitas vezes a juros mais altos e sem reduzir de forma significativa o saldo da dívida. Apesar dos custos elevados, a procura por financiamento continuou a crescer neste ano. Até meados de agosto, mais de dez países já haviam emitido títulos em volume superior ao de todo o ano de 2025, enquanto vários outros voltaram a captar recursos nos mercados internacionais, segundo o relatório.\nEm 2025, os países de renda baixa e média desembolsaram US$ 1,4 trilhão em amortizações e juros, o quinto aumento anual consecutivo. A alta foi impulsionada pelos pagamentos a credores privados, que cresceram 13,7% e chegaram a US$ 363 bilhões, segundo o relatório.\n\nEntre 2022 e 2025, os países em desenvolvimento gastaram US$ 436 bilhões a mais com o pagamento de suas dívidas do que receberam em novos financiamentos. Em 2025, porém, o fluxo se inverteu, e o relatório registrou uma entrada líquida de US$ 45 bilhões.\n\nA forte desvalorização do dólar também teve impacto expressivo sobre os países em desenvolvimento, pois elevou o valor, medido em dólares, das dívidas contraídas em outras moedas. A queda do dólar respondeu por mais de 28% do aumento da dívida desses países. Vários dos maiores tomadores de crédito em linhas com juros reduzidos encerraram 2025 com saldo devedor mais alto, mesmo tendo continuado a pagar amortizações e juros.\n\nO relatório alertou que o aumento dos gastos com amortizações e juros pode reduzir os investimentos, limitar as oportunidades e deixar os países em desenvolvimento mais vulneráveis a choques. Nos países mais endividados, quando ocorre um choque externo, mais pessoas tendem a ficar sem condições de arcar com uma alimentação saudável.\nO Banco Mundial também defendeu a continuidade dos esforços para tornar mais transparentes os acordos de dívida, reforçar as normas e preencher lacunas nos dados. Segundo a instituição, o surgimento de novos credores, instrumentos, garantias e modalidades de financiamento pode dificultar a avaliação da real dimensão das obrigações financeiras de um país.\n\n\nPepi Stojanovski/Unsplash",
-    "published": "2026-11-05T17:13:23+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Os países de renda baixa e média estão tomando mais empréstimos e pagando mais caro para se financiar. Em 2025, a dívida externa desses países cresceu 5,5% e atingiu o recorde de US$ 9,4 trilhões, informou o Banco Mundial em um relatório nesta quinta-feira.\n\nA instituição, com se",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Guerra do delivery: iFood aciona Keeta na Justiça por aliciamento de parceiros e concorrência desleal",
-    "link": "https://oglobo.globo.com/economia/negocios/noticia/2026/11/05/guerra-do-delivery-ifood-aciona-keeta-na-justica-por-aliciamento-de-parceiros-e-concorrencia-desleal.ghtml",
-    "description": "O embate pelo domínio do ecossistema brasileiro de entregas de refeições acaba de ganhar um novo desdobramento nos tribunais. O iFood ingressou com uma ação na 1ª Vara Empresarial e de Conflitos de Arbitragem de São Paulo contra a Keeta, subsidiária da gigante chinesa Meituan, alegando condutas anticompetitivas que visam sufocar a concorrência. A líder do setor acusa a rival asiática de praticar preços predatórios e de estruturar um esquema ilícito para cooptar restaurantes parceiros por meio do vazamento de dados confidenciais. \nNova onda de queixas na Justiça: restaurantes e franqueadores reagem à venda não autorizada no app da Keeta\nVeja também: iFood amplia investimentos para R$ 24 bi e lança serviço de entrega para lojas fora do app\nNa petição inicial, a companhia brasileira solicita uma perícia econômico-financeira para dimensionar o volume de recursos injetados pela matriz estrangeira, tática conhecida no mercado como deep pockets, para bancar o que chamou de “descontos irracionais”. O iFood se baseou em laudos de três consultorias e aponta que a concorrente opera com receitas líquidas negativas por pedido no Brasil, subsidiando reduções médias superiores a 40%.\n— A participação de mercado que a Keeta alcança hoje é fictícia, financiada por meio de subsídios que desaparecem quando os descontos são racionalizados. É uma competição sobre quem tem o “bolso mais fundo” para subsidiar por mais tempo descontos irracionais, até que os competidores menos capitalizados encerrem suas atividades, os descontos desapareçam e o setor sofra as consequências desse ajuste — afirma Lucas Pittioni, vice-presidente Jurídico do iFood. \nSegundo a brasileira, essa estratégia criaria uma \"bolha de cupons\", obrigando os próprios estabelecimentos a cofinanciar parte das ofertas para reter clientes, o que acaba espremendo suas margens de lucro operacionais. Para ilustrar o problema, o iFood faz no processo um paralelo com um fenômeno agressivo de subsídios que provocou o fechamento de 1,61 milhão de pequenos negócios na China em 2025 e alerta para os riscos de involução do setor.\nA denúncia ganha contornos ainda mais sensíveis com a acusação de um esquema estruturado de aliciamento comercial. Foram anexadas ao processo transcrições de áudios nos quais um gerente da marca asiática relata a busca por informações mercadológicas da rival e admite a criação de uma equipe dedicada a abordar os estabelecimentos sujeitos à exclusividade com o aplicativo brasileiro.  \nEsse time de cooptação, segundo a denúncia, seria formado por ex-funcionários do próprio iFood munidos de dados confidenciais privilegiados. Nas gravações, o executivo declara que a plataforma estaria disposta a auxiliar no pagamento financeiro das multas decorrentes dessas quebras rescisórias.\nProcesso no Cade\nA escalada judicial caminha em paralelo a uma intensa guerra de narrativas já instaurada na esfera administrativa. No fim de agosto, a líder do segmento no país formalizou uma representação no Conselho Administrativo de Defesa Econômica (Cade), requerendo a adoção de medidas preventivas imediatas para frear a estratégia de precificação da concorrente.\nA acusação sustenta que o braço da Meituan estaria operando com prejuízos propositais e receitas líquidas negativas por pedido, configurando uma tentativa de eliminar concorrentes com base apenas em sua capacidade de financiamento estrangeiro.\nO pano de fundo que inflama os ânimos, no entanto, continua sendo o modelo de negócios pautado pelos arranjos de fidelidade. Em um posicionamento enviado ao GLOBO, a Keeta classifica a nova investida jurídica do iFood como uma manobra clara de uma \"plataforma monopolista\" que busca asfixiar a consolidação de entrantes.\n“A plataforma dominante — que consolidou sua posição no país por meio de uma estratégia agressiva de cláusulas de exclusividade impostas aos restaurantes, e que sufocou os concorrentes — agora tenta minar a capacidade de uma empresa entrante de competir minimamente (...). E, dessa forma, tenta também desviar a atenção das autoridades da investigação do CADE que enfrenta atualmente por descumprimento do acordo assinado com a autarquia referente a cláusulas de exclusividade e outras práticas indevidas que prejudicam gravemente o setor”, diz a nota.\nA novata asiática, que atua em 32 municípios brasileiros até o momento, argumenta que os descontos são uma tática comum em todo o varejo digital para incentivar a experimentação do consumidor. Segundo a Keeta, o iFood sufoca toda a cadeia logística com bloqueios comerciais restritivos, descumprindo o acordo firmado anteriormente com a autarquia federal.\n\"O Brasil é o único mercado do mundo dominado por um monopólio dessa proporção no segmento de entrega de refeições\", declarou a companhia chinesa. A empresa sustenta, ainda, que seu desembarque em território nacional fomenta oportunidades de renda e de diversificação de canais para lojistas e motociclistas.",
-    "published": "2026-11-05T17:06:55+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O embate pelo domínio do ecossistema brasileiro de entregas de refeições acaba de ganhar um novo desdobramento nos tribunais. O iFood ingressou com uma ação na 1ª Vara Empresarial e de Conflitos de Arbitragem de São Paulo contra a Keeta, subsidiária da gigante chinesa Meituan, al",
     "relevance": 5
   }
 ]
