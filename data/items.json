@@ -1,5 +1,17 @@
 [
   {
+    "source": "Financial Times",
+    "title": "‘Blue wave’ hopes for US economic change are likely to be disappointed",
+    "link": "https://www.ft.com/content/880c8ba8-2967-4d7a-87fb-d34135c676d8?syn-25a6b1a6=1",
+    "description": "A shift in the composition of Congress will have little impact on policymaking in the remainder of Trump’s term",
+    "published": "2026-11-06T05:00:14+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "A shift in the composition of Congress will have little impact on policymaking in the remainder of Trump’s term",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Vitória democrata nos EUA pode valorizar iene se investimento em IA sofrer reversão, avaliam operadores",
     "link": "https://valor.globo.com/financas/noticia/2026/11/06/vitria-democrata-nos-eua-pode-valorizar-iene-se-investimento-em-ia-sofrer-reverso-avaliam-operadores.ghtml",
@@ -555,7 +567,13 @@
       "Economia"
     ],
     "summary": "O economista André Lara Resende não imaginava que um artigo que ele publicou em sua newsletter na plataforma Substack, na metade de setembro, propondo a criação de um novo órgão de manejo das políticas monetária e fiscal, faria tanto alvoroço meses depois.\nLeia mais (11/05/2026 -",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Economia",
+        "link": "https://g1.globo.com/economia/noticia/2026/11/06/nao-falei-com-lula-nem-tenho-nada-marcado-isso-foi-plantado-para-queimar-alguem-que-defendeu-a-proposta-diz-economista-andre-lara-rezende.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3994,19 +4012,6 @@
       "Politica"
     ],
     "summary": "O promotor Lincoln Gakiya, que pode se tornar ministro da Segurança Pública no próximo mandato do presidente Lula, não sabe o que é privacidade na vida há muito tempo. Membro do Ministério Público de São Paulo desde 1991, quando ainda tinha 24 anos, ele começou a conviver com esc",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Bolsas de NY operam sem direção única com riscos da IA e alta do petróleo",
-    "link": "https://www.moneytimes.com.br/bolsas-de-ny-operam-sem-direcao-unica-com-riscos-da-ia-e-alta-do-petroleo-davs/",
-    "description": "As bolsas dos Estados Unidos estavam prestes a estender os ganhos da véspera após a vitória democrata nas eleições norte-americanas quando os temores em relação à inteligência artificial (IA) e a alta do petróleo voltaram a pesar. Wall Street abriu o pregão desta quinta-feira (5) sem direção única, enquanto os investidores se afastavam das ações [&#8230;]",
-    "published": "2026-11-05T14:58:31+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "As bolsas dos Estados Unidos estavam prestes a estender os ganhos da véspera após a vitória democrata nas eleições norte-americanas quando os temores em relação à inteligência artificial (IA) e a alta do petróleo voltaram a pesar. Wall Street abriu o pregão desta quinta-feira (5)",
     "relevance": 5
   }
 ]
