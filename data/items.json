@@ -1,5 +1,17 @@
 [
   {
+    "source": "Folha",
+    "title": "Ter 30 ações pode ser mais arriscado do que ter dez?",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/ter-30-acoes-pode-ser-mais-arriscado-do-que-ter-dez.shtml",
+    "description": "Você pode ter 30 ações na carteira e estar menos diversificado do que alguém que possui apenas dez.\nLeia mais (11/07/2026 - 18h00)",
+    "published": "2026-11-07T21:00:00+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Você pode ter 30 ações na carteira e estar menos diversificado do que alguém que possui apenas dez.\nLeia mais (11/07/2026 - 18h00)",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Presidente de Israel escolhe rival de Netanyahu para tentar formar governo",
     "link": "https://valor.globo.com/mundo/noticia/2026/11/07/presidente-de-israel-escolhe-rival-de-netanyahu-para-tentar-formar-governo.ghtml",
@@ -9,7 +21,13 @@
       "Politica"
     ],
     "summary": "O presidente de Israel, Isaac Herzog, escolheu neste sábado (27) Gadi Eisenkot, o principal rival do primeiro-ministro Benjamin Netanyahu, para tentar formar um novo governo após uma eleição sem resultado claro, na qual nenhum dos dois conseguiu chegar ao poder, informou neste sá",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/mundo/noticia/2026/11/07/rival-de-netanyahu-e-encarregado-de-formar-governo-em-israel.ghtml"
+      }
+    ]
   },
   {
     "source": "InfoMoney",
@@ -3930,18 +3948,6 @@
       "XP"
     ],
     "summary": "A XP Investimentos retirou os cortes da Selic de seu cenário e passou a projetar a taxa básica de juros em 13,75% ao ano até o fim de 2027. Antes, a casa esperava juros de 13,25% no encerramento de 2026 e de 11,50% ao final do próximo ano. A revisão consta do relatório macroeconô",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Governo se antecipa à ANP e aprova combate a fraudes em gás de cozinha",
-    "link": "https://www.poder360.com.br/poder-governo/governo-se-antecipa-a-anp-e-aprova-combate-a-fraudes-em-gas-de-cozinha/",
-    "description": "Conselho Nacional de Política Energética aprova mecanismos de rastreabilidade e controle do setor de GLP",
-    "published": "2026-11-06T16:37:59+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Conselho Nacional de Política Energética aprova mecanismos de rastreabilidade e controle do setor de GLP",
     "relevance": 5
   }
 ]
