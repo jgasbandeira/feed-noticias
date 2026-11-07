@@ -1,5 +1,17 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Presidente de Israel escolhe rival de Netanyahu para tentar formar governo",
+    "link": "https://valor.globo.com/mundo/noticia/2026/11/07/presidente-de-israel-escolhe-rival-de-netanyahu-para-tentar-formar-governo.ghtml",
+    "description": "O presidente de Israel, Isaac Herzog, escolheu neste sábado (27) Gadi Eisenkot, o principal rival do primeiro-ministro Benjamin Netanyahu, para tentar formar um novo governo após uma eleição sem resultado claro, na qual nenhum dos dois conseguiu chegar ao poder, informou neste sábado a agência Reuters.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-07T20:38:45+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O presidente de Israel, Isaac Herzog, escolheu neste sábado (27) Gadi Eisenkot, o principal rival do primeiro-ministro Benjamin Netanyahu, para tentar formar um novo governo após uma eleição sem resultado claro, na qual nenhum dos dois conseguiu chegar ao poder, informou neste sá",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Trump diz que ordenou investigação contra democratas e os acusa de extorsão",
     "link": "https://www.infomoney.com.br/mundo/trump-diz-que-ordenou-investigacao-contra-democratas-e-os-acusa-de-extorsao/",
@@ -9,6 +21,18 @@
       "Politica"
     ],
     "summary": "Declaração ocorre após eleições legislativas que deram ao Partido Democrata o controle da Câmara e do Senado\nThe post Trump diz que ordenou investigação contra democratas e os acusa de extorsão appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "PT abre 'vaquinha virtual' com meta de R$ 7 milhões em doações para quitar despesas de campanha de Lula",
+    "link": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/11/07/pt-abre-vaquinha-virtual-para-arrecadacao-de-r-7-milhoes-em-doacoes-para-quitar-despesas-de-campanha.ghtml",
+    "description": "Após a vitória no segundo turno da disputa presidencial, o Partido dos Trabalhadores (PT) anunciou a abertura de uma \"vaquinha virtual\" com a meta de arrecadar R$ 7 milhões para quitar as despesas feitas pela sigla durante o período eleitoral. A mobilização pede doações por Pix no valor de R$ 13, em referência ao número de urna do partido, para ajudar a sigla a \"fechar as contas\". A iniciativa repete a estratégia de financiamento coletivo adotada durante a campanha pela legenda e por outros candidatos presidenciais.\nReestruturação da Esplanada: Ministério da Segurança Pública terá foco em combater crime organizado, feminicídio e roubo de celular\nJogo Político: ‘Exército do Dudu’ de Paes pelo 2º turno no Rio é ignorado pelo PT e nem marqueteiro tem\nSegundo dados do Tribunal Superior Eleitoral (TSE), somente a candidatura de Lula custou R$ 93 milhões, abaixo do limite de gastos fixado para o cargo (R$ 133 milhões), e arrecadou cerca de R$ 129 milhões. Desse total, R$ 123 milhões vieram da fatia do Fundo Especial de Financiamento de Campanha direcionada ao PT. O partido recebeu a segunda maior verba (R$ 615 milhões) neste ano, atrás somente do PL (R$ 881 milhões). \nOutros R$ 1,3 milhão arrecadados pelo presidente vieram do fundo partidário comum do PT e R$ 4,1 milhões vieram de doações de apoiadores enviadas diretamente para a conta da campanha e registradas no TSE. Os métodos de financiamento coletivo das campanhas, como as \"vaquinhas virtuais\", são permitidos pela Justiça Eleitoral desde 2017 e já foram usados nas eleições de 2018, quando Lula teve o nome barrado nas urnas e levantou R$ 1,5 milhão. A estratégia foi repetida em 2022, quando o candidato arrecadou R$ 6,8 milhões.\nNeste ano, outros concorrentes também abriram \"vaquinhas\" para ampliar os valores arrecadados para o pagamento de suas despesas de campanha. Entre eles, Renan Santos, do Missão, conseguiu R$ 2,5 milhões doados por 37.810 pessoas. Já o senador Flávio Bolsonaro (PL), principal adversário de Lula, chegou a ter R$ 1,26 milhão arrecadados de 20,5 mil apoiadores, mas encerrou os pedidos de doação após a derrota. Além deles, o ex-governador Ronaldo Caiado (PSD) e o escritor e psiquiatra Augusto Cury (Avante) tiveram campanhas de financiamento coletivo, mas conseguiram somente R$ 8,1 mil e R$ 13,5 mil, respectivamente, enquanto Samara Martins (UP) recebeu R$ 90,6 mil.",
+    "published": "2026-11-07T20:25:02+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Após a vitória no segundo turno da disputa presidencial, o Partido dos Trabalhadores (PT) anunciou a abertura de uma \"vaquinha virtual\" com a meta de arrecadar R$ 7 milhões para quitar as despesas feitas pela sigla durante o período eleitoral. A mobilização pede doações por Pix n",
     "relevance": 5
   },
   {
@@ -233,7 +257,13 @@
       "XP"
     ],
     "summary": "O fechamento do Ueno Bank colocou em risco cerca de US$ 60 milhões da Caixa Fiscal do Paraguai, segundo Silvio Piris, presidente da Federação de Educadores do Paraguai (FEP). O dirigente afirmou que a situação deixou o sistema previdenciário dos servidores públicos à beira do col",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Folha",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/fundo-de-aposentadoria-dos-servidores-paraguaios-esta-praticamente-falido-apos-caso-ueno-diz-sindicato-a-jornal.shtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -1888,7 +1918,13 @@
       "Politica"
     ],
     "summary": "A Procuradoria-Geral da República (PGR) e o Conselho da Justiça Federal (CJF) querem que o governo abra um crédito extraordinário de R$ 533 milhões para bancar verbas extras a magistrados e integrantes do Ministério Público ainda este ano. A Advocacia-Geral da União (AGU) enviou ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/agu-leva-ao-stf-pedido-de-r-533-milhoes-extras-para-judiciario-e-mp/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3907,38 +3943,5 @@
     ],
     "summary": "Conselho Nacional de Política Energética aprova mecanismos de rastreabilidade e controle do setor de GLP",
     "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "BC do Paraguai revoga medida que suspendia resgates em alguns fundos ligados ao ueno bank",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/06/bc-do-paraguai-revoga-medida-que-suspendia-resgates-em-alguns-fundos-ligados-ao-ueno-bank.ghtml",
-    "description": "O Banco Central do Paraguai (BCP) revogou nesta sexta-feira (6) a medida aplicada ao Fundo Mútuo BNB PY Dólares Americanos, administrado pelo BNB. A medida havia determinado a suspensão de resgates para este fundo, em função de ligações com a quebra do ueno bank. Na quinta-feira, também já havia sido revogada a suspensão de resgates no Fundo Mútuo LP em dólares do Basa.\n\nCom a intervenção no ueno, o BCP havia suspendido temporariamente os resgates, novas aplicações e distribuições de 13 fundos de investimento. Segundo a autoridade, a liquidação do banco “inviabiliza os depósitos que os fundos mantêm nele, impede o cumprimento das obrigações de recompra e torna incerto o valor dos investimentos em instrumentos emitidos por ele até que se determine o mecanismo de resolução aplicável”.\n\nAssim, foram bloqueados cinco fundos da Cadiem, quatro da Puente, dois do ueno e os dois de BNB e Basa que foram liberados agora. “Cada fundo possui patrimônio próprio, separado daquele de sua administradora e do banco. A medida também não implica o encerramento nem a liquidação dos fundos. O dinheiro permanece em cada fundo e pertence aos seus investidores. Enquanto se determina o valor dos investimentos vinculados ao banco, a pausa busca assegurar que todos os investidores de cada fundo recebam o mesmo tratamento”, explicou o BCP.\n\nA quebra do ueno também provocou outros reflexos no setor. Na quarta-feira, o BCP disse que devido a uma demanda incomum, decorrente da abertura de novas contas no sistema financeiro, estão ocorrendo intermitências nos aplicativos móveis de instituições bancárias. “Essa situação afeta apenas os aplicativos. Os demais canais de atendimento das instituições do sistema financeiro funcionam normalmente”, disse o regulador, acrescentando que está realizando os trabalhos técnicos necessários, em conjunto com as instituições envolvidas, a fim de assegurar a normalização dos serviços.\n\nNesta sexta-feira, o BCP disse que, considerando a elevada demanda por dinheiro em espécie registrada no sistema financeiro, bem como as necessidades de numerário do comércio e do público em geral, decidiu-se antecipar a colocação em circulação das novas cédulas de 100 mil guaranis. “Essa medida visa contribuir para o atendimento adequado da demanda por dinheiro em espécie, facilitando as operações das instituições bancárias, as atividades comerciais e as transações cotidianas dos cidadãos.”\n\n\nJorge Saenz/AP",
-    "published": "2026-11-06T16:35:47+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro",
-      "XP"
-    ],
-    "summary": "O Banco Central do Paraguai (BCP) revogou nesta sexta-feira (6) a medida aplicada ao Fundo Mútuo BNB PY Dólares Americanos, administrado pelo BNB. A medida havia determinado a suspensão de resgates para este fundo, em função de ligações com a quebra do ueno bank. Na quinta-feira,",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Fachin nega pedido de revisão de prisão preventiva de Fabiano Zettel, cunhado de Vorcaro",
-    "link": "https://www.moneytimes.com.br/fachin-nega-pedido-de-revisao-de-prisao-preventiva-de-fabiano-zettel-cunhado-de-vorcaro/",
-    "description": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, negou nesta quinta-feira, 5, os pedidos da defesa de Fabiano Zettel, cunhado do banqueiro Daniel Vorcaro, para revisão de prisão preventiva e para substituição por prisão domiciliar humanitária. Zettel é apontado como operador financeiro de Vorcaro e está sendo investigado em operação que apura fraudes no [&#8230;]",
-    "published": "2026-11-06T16:31:57+00:00",
-    "themes": [
-      "Politica",
-      "XP"
-    ],
-    "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, negou nesta quinta-feira, 5, os pedidos da defesa de Fabiano Zettel, cunhado do banqueiro Daniel Vorcaro, para revisão de prisão preventiva e para substituição por prisão domiciliar humanitária. Zettel é apontado como ",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/politica/fachin-nega-revisao-de-prisao-preventiva-de-fabiano-zettel-cunhado-de-vorcaro/"
-      }
-    ]
   }
 ]
