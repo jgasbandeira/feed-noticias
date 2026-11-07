@@ -1,5 +1,35 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Presidente Lula vai levar Janones para viagem à Turquia",
+    "link": "https://valor.globo.com/brasil/noticia/2026/11/07/presidente-lula-vai-levar-janones-para-viagem-a-turquia.ghtml",
+    "description": "O presidente Luiz Inácio Lula da Silva (PT) confirmou neste sábado (7) que viajará à Turquia acompanhado do deputado federal André Janones (Rede-MG). Em vídeo publicado nas redes sociais, Lula pediu que os integrantes do grupo \"Exército do Lula\", no WhatsApp, permaneçam de \"prontidão\" durante sua ausência do Brasil.\n\n“Eu vou passar a semana inteira fora, mas eu quero dizer aos meus soldados, ao meu general (Janones), que a tropa tem que estar de prontidão para não deixar os nossos inimigos continuarem mentindo neste país”, afirmou o presidente. Lula embarca com Janones para a COP31, em Antália, na Turquia, na segunda-feira (9).\n\nAo defender o combate à desinformação, Lula também disse que \"não há financiamento ou impulsionamento que consiga destruir a verdade a vida inteira\". Ele anunciou que fará na Turquia uma transmissão ao vivo na internet para falar com os integrantes do \"Exército\" — estratégia que o presidente vem adotando desde o segundo turno das eleições no Brasil.\n\nO governo ainda não divulgou outros nomes que farão parte da comitiva. O presidente ficará na Turquia até o dia 12, depois embarca para uma visita de Estado nas Filipinas, onde participará da reunião de cúpula da Associação de Nações do Sudeste Asiático (Asean), na cidade de Manila. Ele deixa o país no dia 15 e deve chegar ao Brasil no dia 16. \nDeputado federal André Janones e o presidente Lula viajarão juntos para a Turquia\nDivulgação/Exército do Lula",
+    "published": "2026-11-07T21:39:46+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O presidente Luiz Inácio Lula da Silva (PT) confirmou neste sábado (7) que viajará à Turquia acompanhado do deputado federal André Janones (Rede-MG). Em vídeo publicado nas redes sociais, Lula pediu que os integrantes do grupo \"Exército do Lula\", no WhatsApp, permaneçam de \"pront",
+    "relevance": 5
+  },
+  {
+    "source": "Estadão",
+    "title": "Itaipu aciona Ministério Público do Paraguai para recuperar US$ 182 milhões depositados no Ueno Bank",
+    "link": "https://www.estadao.com.br/economia/itaipu-ministerio-publico-paraguai-recuperar-milhoes-depositados-ueno-bank/",
+    "description": "",
+    "published": "2026-11-07T21:18:53+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Itaipu aciona Ministério Público do Paraguai para recuperar US$ 182 milhões depositados no Ueno Bank",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/noticia/2026/11/07/ueno-bank-itaipu-tinha-quase-us-180-milhoes-no-banco-paraguaio-e-denuncia-dirigentes.ghtml"
+      }
+    ]
+  },
+  {
     "source": "Folha",
     "title": "Ter 30 ações pode ser mais arriscado do que ter dez?",
     "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/11/ter-30-acoes-pode-ser-mais-arriscado-do-que-ter-dez.shtml",
@@ -3917,37 +3947,6 @@
       "Mercado Financeiro"
     ],
     "summary": "O Fleury está avaliando se todas as unidades precisam ficar abertas aos domingos diante do fim da escala 6x1, segundo Jeane Tsutsui, CEO da companhia, que realizou teleconferência para analistas e investidores na manhã desta sexta-feira (6). \n\nEssa é uma das possibilidades analis",
-    "relevance": 5
-  },
-  {
-    "source": "Folha",
-    "title": "Nubank e Mercado Pago suspendem saques e depósitos de criptomoedas; entenda",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/nubank-e-mercado-pago-suspendem-saques-e-depositos-de-criptomoedas-entenda.shtml",
-    "description": "O Nubank e o Mercado Pago suspenderam temporariamente os saques e depósitos de criptomoedas nesta sexta-feira (6), segundo avisos exibidos nos aplicativos das instituições financeiras.\nLeia mais (11/06/2026 - 13h39)",
-    "published": "2026-11-06T16:39:00+00:00",
-    "themes": [
-      "XP"
-    ],
-    "summary": "O Nubank e o Mercado Pago suspenderam temporariamente os saques e depósitos de criptomoedas nesta sexta-feira (6), segundo avisos exibidos nos aplicativos das instituições financeiras.\nLeia mais (11/06/2026 - 13h39)",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/financas/noticia/2026/11/07/nubank-retoma-saques-e-depsitos-de-criptomoedas-aps-suspenso.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "Money Times",
-    "title": "Sem cortes: XP abandona previsão de queda da Selic até o fim de 2027 – e não descarta altas",
-    "link": "https://www.moneytimes.com.br/sem-cortes-xp-abandona-previsao-de-queda-da-selic-ate-o-fim-de-2027-e-nao-descarta-altas/",
-    "description": "A XP Investimentos retirou os cortes da Selic de seu cenário e passou a projetar a taxa básica de juros em 13,75% ao ano até o fim de 2027. Antes, a casa esperava juros de 13,25% no encerramento de 2026 e de 11,50% ao final do próximo ano. A revisão consta do relatório macroeconômico mensal [&#8230;]",
-    "published": "2026-11-06T16:38:17+00:00",
-    "themes": [
-      "Economia",
-      "XP"
-    ],
-    "summary": "A XP Investimentos retirou os cortes da Selic de seu cenário e passou a projetar a taxa básica de juros em 13,75% ao ano até o fim de 2027. Antes, a casa esperava juros de 13,25% no encerramento de 2026 e de 11,50% ao final do próximo ano. A revisão consta do relatório macroeconô",
     "relevance": 5
   }
 ]
