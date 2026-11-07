@@ -339,6 +339,19 @@
     ]
   },
   {
+    "source": "Money Times",
+    "title": "Ibovespa volta a superar os 168 mil pontos com apoio de Wall Street",
+    "link": "https://www.moneytimes.com.br/ibovespa-06-11-2026-davs/",
+    "description": "Em dia de recuperação do setor de tecnologia em Wall Street, o Ibovespa (IBOV) pegou carona no impulso e fechou o pregão desta sexta-feira (5) em alta de 1,39%, a 168.498,45 pontos. No acumulado da semana, o principal índice da B3 registrou leve alta de 0,30%. Já o dólar à vista encerrou o dia a [&#8230;]",
+    "published": "2026-11-06T21:50:53+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Em dia de recuperação do setor de tecnologia em Wall Street, o Ibovespa (IBOV) pegou carona no impulso e fechou o pregão desta sexta-feira (5) em alta de 1,39%, a 168.498,45 pontos. No acumulado da semana, o principal índice da B3 registrou leve alta de 0,30%. Já o dólar à vista ",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Alpargatas tem lucro de R$ 175,5 milhões no terceiro trimestre",
     "link": "https://valor.globo.com/empresas/noticia/2026/11/06/alpargatas-tem-lucro-de-r-1755-milhoes-no-terceiro-trimestre.ghtml",
@@ -637,7 +650,13 @@
       "Politica"
     ],
     "summary": "A CNI (Confederação Nacional da Indústria) entrou com uma nova ação no STF (Superior Tribunal Federal) contra o fim da escala 6x1. Desta vez, a confederação pede ao Supremo que limite a competência da Justiça do Trabalho e do MPT (Ministério Público do Trabalho) nos processos e f",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Estadão",
+        "link": "https://www.estadao.com.br/economia/cni-entra-com-nova-acao-contra-fim-da-escalada-6x1-e-dino-inclui-entidade-para-falar-no-stf/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -4014,18 +4033,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Confira os principais destaques do noticiário corporativo desta sexta-feira (6)\nThe post Suzano, Localiza, Lojas Renner, Ânima, Assaí e mais ações para acompanhar hoje appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Grupo Toky recebe indicação de Marcel Malczewsk ao conselho de administração",
-    "link": "https://valor.globo.com/empresas/noticia/2026/11/06/grupo-toky-recebe-indicao-de-marcel-malczewsk-ao-conselho-de-administrao.ghtml",
-    "description": "O Grupo Toky informou ter recebido de determinados acionistas a indicação de Marcel Malczewsk como candidato ao conselho de administração da companhia, cuja eleição será deliberada em assembleia geral extraordinária nesta sexta-feira (6).\n\nSegundo a companhia, a indicação foi feita pela gestora MoS Capital em nome dos fundos Quartzo Estratégia, LHL e PRT.\n\nMalczewsk foi cofundador da empresa de tecnologia Bematech, que foi comprada pela Totvs em 2015 e posteriormente vendida para a Elgin. Ele atua hoje como presidente da holding de investimentos Quartzo Capital e como presidente do conselho de administração da Companhia Paranaense de Energia (Copel).\n\nGuito Moreto/Agência O Globo",
-    "published": "2026-11-06T11:01:19+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O Grupo Toky informou ter recebido de determinados acionistas a indicação de Marcel Malczewsk como candidato ao conselho de administração da companhia, cuja eleição será deliberada em assembleia geral extraordinária nesta sexta-feira (6).\n\nSegundo a companhia, a indicação foi fei",
     "relevance": 5
   }
 ]
