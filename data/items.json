@@ -3748,7 +3748,13 @@
       "XP"
     ],
     "summary": "O aperto das condições financeiras visto após o segundo turno das eleições marcou o início de uma deterioração mais aguda do cenário econômico, que deve gerar uma inflação mais alta, crescimento menor e juros que não devem ceder tão cedo. Os alertas são feitos pela Genoa Capital,",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Folha",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/risco-de-recessao-no-brasil-ganha-forca-para-2027.shtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
