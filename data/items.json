@@ -1,5 +1,30 @@
 [
   {
+    "source": "Poder360",
+    "title": "Selic fica no patamar inicial de Lula 3 e dívida sobe",
+    "link": "https://www.poder360.com.br/poder-economia/selic-fica-no-patamar-inicial-de-lula-3-e-divida-sobe/",
+    "description": "A 2 meses do fim do mandato, taxa básica de juros está em 13,75%; economistas esperam manutenção",
+    "published": "2026-11-08T13:00:07+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "A 2 meses do fim do mandato, taxa básica de juros está em 13,75%; economistas esperam manutenção",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Quaest: 48% aprovam e 44% desaprovam governo Lula na primeira pesquisa após a eleição",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/08/quaest-48percent-aprovam-e-44percent-desaprovam-governo-lula-na-primeira-pesquisa-apos-a-eleicao.ghtml",
+    "description": "Aprovação do governo Lula\nReprodução/Quaest\nPesquisa Quaest divulgada neste domingo (8) mostra que 48% dos brasileiros aprovam o governo do presidente Luiz Inácio Lula da Silva, enquanto 44% desaprovam a atual gestão. Este é o primeiro levantamento sobre a avaliação do governo realizado após as eleições.\n🗒️Tem alguma sugestão de reportagem? Envie para o g1 \nA pesquisa também indica que 94% dos entrevistados torcem para que Lula faça um bom governo. O percentual é o mesmo registrado em dezembro de 2022, depois da eleição presidencial daquele ano.\n➡️ A Quaest ouviu 2.004 pessoas entre os dias 30 de outubro e 2 de novembro. A pesquisa tem nível de confiança de 95% e margem de erro de dois pontos percentuais.\nAgora no g1\nFim da escala 6x1 está entre as prioridades\nOs entrevistados também apontaram quais medidas consideram mais importantes para o próximo período. Entre as principais prioridades estão o fim da escala 6x1, a isenção de impostos sobre os produtos da cesta básica, a valorização do salário mínimo e a criação de um pacto de enfrentamento aos feminicídios.\nQuais devem ser as prioridades do governo Lula?\nReprodução\nO levantamento mostra ainda que 48% dos brasileiros estão preocupados com o futuro do país, enquanto 44% se dizem otimistas. Na comparação com dezembro de 2022, o nível de preocupação diminuiu e o otimismo aumentou.\nExpectativas em relação ao futuro do Brasil.\nReprodução/Quaest\nEntre os otimistas, as principais razões mencionadas são a defesa da democracia e o combate ao bolsonarismo, o fortalecimento dos programas sociais e a redução da desigualdade, além da regulação das casas de apostas, conhecidas como bets, e das redes sociais.\nO que mais traz otimismo?\nReprodução\nJá entre os entrevistados preocupados com o futuro do país, os motivos mais citados são a situação da economia, a dívida pública e os juros; a violência e a atuação do crime organizado; e a corrupção.\nO que mais preocupa?\nReprodução\nPresidente da República, Luiz Inácio Lula da Silva, durante  1ª Reunião do Conselho Nacional para Industrialização de Minerais Críticos e Estratégicos (CIMCE), no Palácio do Planalto, Brasília - DF\nRicardo Stuckert",
+    "published": "2026-11-08T12:38:32+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Aprovação do governo Lula\nReprodução/Quaest\nPesquisa Quaest divulgada neste domingo (8) mostra que 48% dos brasileiros aprovam o governo do presidente Luiz Inácio Lula da Silva, enquanto 44% desaprovam a atual gestão. Este é o primeiro levantamento sobre a avaliação do governo re",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Lula precisa de alguém alinhado com o mercado para a Fazenda, diz CEO da BR Partners",
     "link": "https://www.infomoney.com.br/economia/lula-precisa-de-alguem-alinhado-com-o-mercado-para-a-fazenda-diz-ceo-da-br-partners/",
@@ -83,7 +108,13 @@
       "Mercado Financeiro"
     ],
     "summary": "A Companhia Siderúrgica Nacional (CSN) anunciou oficialmente, conforme antecipado pelo Pipeline, site de negócios do Valor, a assinatura de um acordo para a venda de sua participação na CSN Cimentos ao grupo chinês Huaxin, em uma operação que avalia a cimenteira em R$ 12,7 bilhõe",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Folha",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/csn-assina-contrato-para-vender-unidade-de-cimentos-a-chinesa-huaxin-por-r-127-bi.shtml"
+      }
+    ]
   },
   {
     "source": "InfoMoney",
@@ -1720,6 +1751,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/economia/noticia/2026/11/07/crise-do-ueno-bank-12-milhao-de-correntistas-ja-receberam-dinheiro-de-volta-diz-bc-paraguaio.ghtml"
+      },
+      {
+        "source": "Money Times",
+        "link": "https://www.moneytimes.com.br/banco-central-do-paraguai-diz-que-devolveu-dinheiro-a-64-das-contas-com-saldo-no-ueno-bank-igdl/"
       }
     ]
   },
@@ -3835,30 +3870,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Potenciais investidores na oferta pública inicial (IPO, na sigla em inglês) da Anthropic enfrentam um fim de semana de incerteza antes do início da apresentação formal da oferta ao mercado, depois que a forte queda das ações de inteligência artificial no período pós-eleição nos E",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Dólar fecha no maior nível de 2026 com ajuda do payroll; na semana, alta foi de 1,18%",
-    "link": "https://www.moneytimes.com.br/dolar-06-11-2026-davs/",
-    "description": "O dólar encerrou a sessão desta sexta-feira (6) acima dos R$ 5,50, alcançando o maior valor de fechamento desde 30 de dezembro de 2025. A divisa norte-americana fechou o dia cotada a R$ 5,5087, com alta de 0,37%, no mercado à vista. Já no acumulado da semana, a moeda registrou alta de 1,18%. O movimento [&#8230;]",
-    "published": "2026-11-06T20:32:40+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O dólar encerrou a sessão desta sexta-feira (6) acima dos R$ 5,50, alcançando o maior valor de fechamento desde 30 de dezembro de 2025. A divisa norte-americana fechou o dia cotada a R$ 5,5087, com alta de 0,37%, no mercado à vista. Já no acumulado da semana, a moeda registrou al",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Crise política no Paraguai ameaça atrasar revisão da tarifa de Itaipu",
-    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/crise-politica-no-paraguai-ameaca-atrasar-revisao-da-tarifa-de-itaipu.ghtml",
-    "description": "A mudança de governo no Paraguai pode paralisar a já complicada negociação da tarifa da Usina Hidrelétrica de Itaipu. O financiamento para a construção da usina foi oficialmente quitado em 28 de fevereiro de 2023, e a revisão da tarifa procura retirar da conta o custo do crédito e restringi-la ao custo da operação. Na prática, isso significa que a energia produzida pela hidrelétrica ficará mais barata. As projeções apontam para uma redução de cerca de US$ 19 por quilowatt/mês para um valor entre US$ 10 e US$ 12 por quilowatt/mês. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-06T20:31:16+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A mudança de governo no Paraguai pode paralisar a já complicada negociação da tarifa da Usina Hidrelétrica de Itaipu. O financiamento para a construção da usina foi oficialmente quitado em 28 de fevereiro de 2023, e a revisão da tarifa procura retirar da conta o custo do crédito ",
     "relevance": 5
   }
 ]
