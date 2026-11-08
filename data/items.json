@@ -1,5 +1,54 @@
 [
   {
+    "source": "Poder360",
+    "title": "Infra em 1 Minuto: Agentes do gás tentam pressionar ANP",
+    "link": "https://www.poder360.com.br/poder-infra/infra-em-1-minuto-agentes-do-gas-tentam-pressionar-anp/",
+    "description": "Pedro Rodrigues, do CBIE, critica movimento de empresas reguladas que ameaçam reduzir investimentos em resposta a ações da agência",
+    "published": "2026-11-08T09:00:12+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Pedro Rodrigues, do CBIE, critica movimento de empresas reguladas que ameaçam reduzir investimentos em resposta a ações da agência",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Lula terá que escolher entre Alcolumbre e Messias",
+    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/11/lula-tera-que-escolher-entre-alcolumbre-e-messias.ghtml",
+    "description": "A articulação para que Lula indique novamente, ainda este ano, Jorge Messias para a vaga de Luís Roberto Barroso no STF segue em andamento em Brasília, mas não deve prosperar.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-08T08:40:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A articulação para que Lula indique novamente, ainda este ano, Jorge Messias para a vaga de Luís Roberto Barroso no STF segue em andamento em Brasília, mas não deve prosperar.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cada",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Rio vira laboratório da nova política de segurança de Lula contra roubo de cargas e domínio de facções",
+    "link": "https://oglobo.globo.com/rio/noticia/2026/11/08/rio-vira-laboratorio-da-nova-politica-de-seguranca-de-lula-contra-roubo-de-cargas-e-dominio-de-faccoes.ghtml",
+    "description": "Antes mesmo de o Senado aprovar a PEC da Segurança Pública na semana passada, o Rio assumiu a posição de laboratório dos mecanismos previstos na proposta. A partir de acordos firmados entre o Ministério da Justiça e da Segurança Pública (MJSP) e o governo do estado, em setembro, foram estabelecidas ações integradas de inteligência e policiamento para proteger corredores viários e combater o roubo de cargas e veículos, com a participação das polícias Federal e Rodoviária Federal e as forças estaduais. Paralelamente, teve início uma articulação para tornar mais robusto o plano de recuperação de territórios dominados pelo crime organizado. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-08T08:30:00+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Antes mesmo de o Senado aprovar a PEC da Segurança Pública na semana passada, o Rio assumiu a posição de laboratório dos mecanismos previstos na proposta. A partir de acordos firmados entre o Ministério da Justiça e da Segurança Pública (MJSP) e o governo do estado, em setembro, ",
+    "relevance": 5
+  },
+  {
+    "source": "Estadão",
+    "title": "Agronegócio lidera percepção de sustentabilidade entre setores da economia",
+    "link": "https://www.estadao.com.br/economia/negocios/agronegocio-lidera-percepcao-sustentabilidade-economia/",
+    "description": "",
+    "published": "2026-11-08T08:30:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Agronegócio lidera percepção de sustentabilidade entre setores da economia",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Economia",
     "title": "Brasil pode perder seu maior comprador de soja? Entenda os planos da China e a disputa com os EUA",
     "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/08/brasil-pode-perder-seu-maior-comprador-de-soja-entenda-os-planos-da-china-e-a-disputa-com-os-eua.ghtml",
@@ -3843,75 +3892,15 @@
     "relevance": 5
   },
   {
-    "source": "Money Times",
-    "title": "Lula enfrenta pressão do mercado e defende responsabilidade fiscal com foco social",
-    "link": "https://www.moneytimes.com.br/lula-reitera-compromisso-com-responsabilidade-fiscal-e-social-minimiza-divida-publica-jcav/",
-    "description": "O presidente Luiz Inácio Lula da Silva disse nesta sexta-feira que seu governo tem responsabilidade fiscal, mas que também leva em conta a responsabilidade social, em meio a pressões pelo anúncio de medidas de ajuste e à queda de ativos brasileiros nos mercados financeiros após sua reeleição no final de outubro. Em discurso durante reunião [&#8230;]",
-    "published": "2026-11-06T19:03:06+00:00",
+    "source": "CNBC",
+    "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+    "link": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
+    "description": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
+    "published": "2026-11-06T19:05:00+00:00",
     "themes": [
       "Economia"
     ],
-    "summary": "O presidente Luiz Inácio Lula da Silva disse nesta sexta-feira que seu governo tem responsabilidade fiscal, mas que também leva em conta a responsabilidade social, em meio a pressões pelo anúncio de medidas de ajuste e à queda de ativos brasileiros nos mercados financeiros após s",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Professores indicam possíveis temas para redação do ENEM 2026",
-    "link": "https://valor.globo.com/patrocinado/dino/noticia/2026/11/06/professores-indicam-possiveis-temas-para-redacao-do-enem-2026-1.ghtml",
-    "description": "A poucos dias do primeiro domingo do Exame Nacional do Ensino Médio (ENEM) 2026, marcado para 8 de novembro, a pergunta que mobiliza estudantes de todo o Brasil é: qual será o tema da redação? Embora não exista uma maneira de antecipar a escolha da banca, professores de colégios de São Paulo, Rio de Janeiro e Minas Gerais identificam assuntos contemporâneos que merecem atenção e dão orientações para os candidatos nesta reta final.\nEntre as apostas dos quatro educadores consultados, três grandes questões se repetem: os impactos da inteligência artificial, os desafios da inclusão de pessoas neurodivergentes e as desigualdades relacionadas às questões ambientais. Saúde mental, envelhecimento populacional, segurança alimentar e transformações nas relações de trabalho também aparecem nas sugestões.\nAs indicações foram reunidas a partir das avaliações de Cristiane Imperador, coordenadora pedagógica do Ensino Médio do Colégio Espírito Santo, em São Paulo; Cristiane Lopes, coordenadora da área de linguagens do Colégio Imaculado Coração de Maria, no Rio de Janeiro; José Ricardo, professor de produção de texto do Colégio Sagrado Coração de Jesus, em Belo Horizonte; e Josiane Guedes Sales, professora de redação do Ensino Médio do Colégio Stella Matutina, em Juiz de Fora.\nApesar das diferentes apostas, os especialistas concordam em um ponto: mais importante do que tentar adivinhar o assunto é saber construir uma argumentação consistente e utilizar o repertório cultural de maneira adequada.\nOs temas que mais aparecem nas apostas dos professores\n1. Inteligência artificial e seus impactos na sociedade\nO avanço da inteligência artificial aparece nas sugestões dos quatro educadores, com diferentes possibilidades de abordagem. Cristiane Imperador, do Colégio Espírito Santo, destaca os desafios de utilizar a inteligência artificial como ferramenta de aprendizagem sem comprometer a autoria e a autonomia dos estudantes. A professora também propõe uma discussão sobre os vieses dos sistemas de IA e a invisibilidade de determinados conhecimentos e culturas.\nJá Cristiane Lopes, do Colégio Imaculado Coração de Maria, chama a atenção para as consequências éticas e sociais da tecnologia, incluindo transformações no mercado de trabalho e exclusão digital. Em Belo Horizonte, José Ricardo destaca a cidadania digital e o uso ético da inteligência artificial. Josiane Guedes Sales, de Juiz de Fora, também inclui os desafios éticos, sociais e econômicos da tecnologia entre suas apostas.\n2. Inclusão de pessoas neurodivergentes\nA inclusão educacional de pessoas neurodivergentes também aparece nas sugestões de professores de São Paulo e Minas Gerais. Para Cristiane Imperador, a discussão pode envolver a construção de uma educação capaz de reconhecer diferentes formas de aprender e produzir conhecimento.\nJosé Ricardo amplia a abordagem para os obstáculos enfrentados por pessoas neurodivergentes tanto na educação quanto no mercado de trabalho. Josiane Guedes Sales também destaca os desafios da inclusão de estudantes neurodivergentes ou com necessidades especiais na educação brasileira.\n3. Mudanças climáticas, racismo ambiental e desigualdade social\nAs questões ambientais são outro ponto de convergência entre os especialistas. Cristiane Lopes, do Rio de Janeiro, aponta mudanças climáticas, racismo ambiental e justiça climática como possibilidades, especialmente diante dos efeitos de secas e enchentes sobre populações vulneráveis.\nJosé Ricardo, de Belo Horizonte, também destaca a relação entre eventos climáticos extremos, desigualdade social e direitos humanos. Em Juiz de Fora, Josiane Guedes Sales aposta na persistência do racismo ambiental e em seus impactos sobre comunidades periféricas e tradicionais. A professora também inclui a gestão do lixo eletrônico entre os possíveis assuntos.\nSaúde mental, envelhecimento e trabalho também merecem atenção\nAlém dos temas recorrentes, os professores apresentam outras possibilidades. Cristiane Lopes destaca os desafios do envelhecimento populacional e a economia do cuidado, a saúde mental de jovens e adolescentes na era digital e a segurança alimentar.\nJosé Ricardo aponta a saúde mental e a precarização das novas relações de trabalho, incluindo discussões sobre jornadas, esgotamento profissional e trabalho por aplicativos. O professor também sugere atenção à preservação das línguas e culturas dos povos originários.\nJosiane Guedes Sales inclui os impactos do uso excessivo de telas e jogos eletrônicos por crianças e adolescentes e a pressão estética provocada por padrões irreais de beleza. Já Cristiane Imperador apresenta reflexões sobre a cultura da velocidade e seus efeitos sobre a atenção, a importância da inteligência emocional e o chamado letramento de futuros, relacionado à capacidade de imaginar e analisar diferentes possibilidades para o futuro.\nOs erros que podem comprometer a nota\nEntre os problemas mais comuns nas redações, os educadores destacam a argumentação superficial, o uso inadequado de repertórios e as propostas de intervenção pouco desenvolvidas. Josiane Guedes Sales chama a atenção para erros de ortografia e pontuação, cópia dos textos motivadores e propostas de intervenção genéricas.\nCristiane Lopes alerta para a fuga parcial do tema, quando o estudante aborda o assunto de maneira ampla, mas não desenvolve o recorte solicitado pela banca. A coordenadora também destaca a importância de apresentar os elementos necessários à proposta de intervenção: agente, ação, meio ou modo, efeito ou finalidade e detalhamento.\nPara José Ricardo, a construção de uma argumentação consistente é um dos desafios mais complexos da redação. Diferentemente de aspectos estruturais, a capacidade de argumentar exige um processo contínuo de leitura, reflexão e ampliação de conhecimentos.\nEmbora as apostas despertem curiosidade, os educadores reforçam que a preparação para a redação não deve depender da memorização de modelos prontos. A orientação final é que os estudantes aproveitem os últimos dias para consolidar o aprendizado, revisar os pontos de dificuldade e chegar à prova preparados para interpretar e discutir diferentes questões da sociedade brasileira.",
-    "published": "2026-11-06T19:01:48+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "A poucos dias do primeiro domingo do Exame Nacional do Ensino Médio (ENEM) 2026, marcado para 8 de novembro, a pergunta que mobiliza estudantes de todo o Brasil é: qual será o tema da redação? Embora não exista uma maneira de antecipar a escolha da banca, professores de colégios ",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/06/professores-indicam-possiveis-temas-para-redacao-do-enem-2026-1.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "Folha",
-    "title": "Exportação de petróleo mais do que dobra, e superávit comercial do Brasil cresce 39% em outubro",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/brasil-tem-superavit-comercial-de-us-93-bilhoes-em-outubro.shtml",
-    "description": "Impulsionada pelo salto nas exportações de petróleo, a balança comercial brasileira registrou superávit de US$ 9,3 bilhões (R$ 51,2 bilhões) em outubro, alta de 39,4% ante o mesmo período de 2025 e valor recorde para o mês na série histórica iniciada em 1989, em valores nominais.\nLeia mais (11/06/2026 - 15h51)",
-    "published": "2026-11-06T18:51:00+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Impulsionada pelo salto nas exportações de petróleo, a balança comercial brasileira registrou superávit de US$ 9,3 bilhões (R$ 51,2 bilhões) em outubro, alta de 39,4% ante o mesmo período de 2025 e valor recorde para o mês na série histórica iniciada em 1989, em valores nominais.",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/brasil/noticia/2026/11/06/exportacao-de-petroleo-bruto-mais-que-dobrou-em-outubro.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "O Globo",
-    "title": "TikTok avalia expandir projeto de data center no Nordeste do Brasil, diz agência",
-    "link": "https://oglobo.globo.com/economia/noticia/2026/11/06/tiktok-avalia-expandir-projeto-de-data-center-no-nordeste-do-brasil-diz-agencia.ghtml",
-    "description": "A ByteDance (proprietária do TikTok) estuda ampliar seu projeto de data center no Nordeste brasileiro, fortalecendo sua posição entre as principais construtoras de infraestrutura de computação na América Latina.\nCompra de aplicativo: New York Times negocia compra do Letterboxd, app de resenha de filmes, por US$ 330 milhões\nHora da largada: marca esportiva suíça On inaugura sua primeira loja no Rio. Saiba quando\nSegundo fontes consultadas pela Bloomberg, que falaram sob condição de anonimato, a gigante chinesa busca uma fornecedora para supervisionar a segunda fase do empreendimento no Porto do Pecém, no Ceará. A localização oferece benefícios fiscais específicos para a exportação de dados.\nSediada em Pequim, a empresa tenta manter a competitividade na região no momento em que países como Chile e Argentina também ampliam incentivos e infraestrutura para atrair investimentos no setor.\nA nova expansão pode superar o projeto de US$ 10 bilhões (cerca de R$ 54,9 bilhões) e 300 megawatts que já está em construção no Ceará. Paralelamente, a ByteDance avalia erguer um data center de porte similar fora do estado para atender ao mercado interno, uma vez que as instalações no Pecém exigem a exportação de dados para manter a isenção fiscal. A empresa não respondeu aos pedidos de comentário.\nBrasil ganha força como polo de data centers\nCom a crescente resistência de eleitores nos Estados Unidos à expansão de data centers, o Brasil desponta como um destino estratégico para esses aportes.\nFrasers Group:  Empresa britânica assume controle da Hugo Boss e transforma grife alemã em subsidiária\nDados da associação setorial Brasscom indicam que a capacidade instalada no país mais que dobrou desde 2022, ultrapassando 1 gigawatt. A entidade projeta um crescimento anual de aproximadamente 20% até 2031, o que quase triplicará a capacidade em relação aos patamares de 2025.\nAlém do ambiente regulatório, o Pecém destaca-se por estar em uma das regiões mais favoráveis do país para a geração de energias renováveis (eólica e solar), o que reduz a dependência das linhas de transmissão tradicionais do Sul. Soma-se a isso a proximidade com Fortaleza, principal hub de cabos de fibra óptica da América do Sul e ponto de chegada de diversos cabos submarinos cruciais para o tráfego internacional de dados.",
-    "published": "2026-11-06T18:50:21+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "A ByteDance (proprietária do TikTok) estuda ampliar seu projeto de data center no Nordeste brasileiro, fortalecendo sua posição entre as principais construtoras de infraestrutura de computação na América Latina.\nCompra de aplicativo: New York Times negocia compra do Letterboxd, a",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Economia",
-    "title": "Apple restringe sugestões de termos como 'Trump ditador' e 'Joe sonolento' no iPhone",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/06/apple-restringe-sugestoes-de-termos-como-trump-ditador-e-joe-sonolento-no-iphone.ghtml",
-    "description": "Uma pessoa usa um telefone para fotografar iPhones em exposição durante o evento da Apple.\nManuel Orbegozo/Arquivo/Reuters\nA Apple mantém uma lista não divulgada com dezenas de milhares de palavras e expressões em diferentes idiomas que o teclado do iOS não completa automaticamente nem permite digitar deslizando o dedo sobre as teclas, afirmou um pesquisador nesta sexta-feira (6).\nA lista não impede que os usuários de iPhone escrevam esses termos em e-mails e mensagens de texto. Na maioria dos casos, porém, as palavras incluídas nela não aparecem nas sugestões de preenchimento automático nem podem ser inseridas pela digitação por gestos.\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\nO pesquisador Derik Kauffman afirmou que a descoberta mostra como a Apple tenta antecipar o que centenas de milhões de usuários de iPhone querem escrever e, ao mesmo tempo, evitar sugestões consideradas ofensivas ou politicamente controversas. \nSegundo ele, esse mecanismo pode influenciar de forma discreta a maneira como as pessoas se comunicam.\n\"É uma forma muito sutil de censura\", disse Kauffman. \"Mas, na escala em que a Apple opera, basta uma intervenção pequena para produzir um grande impacto.\"\nAgora no g1\nSegundo Kauffman, que descobriu a lista recentemente e publicou em um site a relação dos termos, a maioria das palavras e expressões sinalizadas é vulgar, ofensiva ou relacionada a drogas, sexo ou violência. \nAlgumas, porém, têm conotação política, como \"dictator Trump\" (\"Trump ditador\") e \"sleepy Joe\" (\"Joe sonolento\").\nEm um e-mail, a Apple não respondeu diretamente às descobertas de Kauffman, como o tamanho e a composição da lista e os motivos para sinalizar determinadas expressões políticas. \nA empresa afirmou que os usuários de iPhone podem digitar palavras ou frases específicas e ignorar as sugestões automáticas. Segundo a Apple, o teclado foi configurado para evitar sugestões que possam ser consideradas inadequadas ou ofensivas.\nDe acordo com Kauffman, outras expressões que não aparecem nas sugestões automáticas do iOS incluem:\n\"Right wing conspiracy\" (\"conspiração da direita\");\n\"Tibetan independence\" (\"independência do Tibete\");\n\"United Ireland\" (\"Irlanda unificada\").\nA lista também varia de acordo com o idioma. Em hindi, por exemplo, o teclado não permite digitar por gestos \"Modi braggart\" (\"Modi fanfarrão\") ou \"Rahul is Pappu\" (\"Rahul é Pappu\"), provocações dirigidas, respectivamente, ao primeiro-ministro da Índia, Narendra Modi, e a seu principal adversário, Rahul Gandhi.\nKauffman afirmou que usuários do teclado em francês não conseguem digitar por gestos a expressão \"immigration too high\" (\"imigração alta demais\"). \nNo teclado em hebraico, o mesmo ocorre com \"occupied territories\" (\"territórios ocupados\").\n\"Todos os principais idiomas têm alguma versão disso\", afirmou o pesquisador.\nKauffman disse que é compreensível que a Apple tente evitar que os usuários enviem por engano mensagens obscenas ou expressões que possam provocar reações. Segundo ele, porém, há inconsistências na aplicação do recurso.\nComo exemplo, afirmou que é possível digitar por gestos \"read smut\" (\"ler pornografia\"), mas não \"read gay smut\" (\"ler pornografia gay\").\nÚltimo debate entre Donald Trump e o presidente Joe Biden\nReprodução/TV Globo\nComo a lista foi descoberta\nKauffman contou que encontrou a lista em setembro, depois de perceber falhas na digitação por gestos, recurso que permite escrever deslizando o dedo de uma letra para outra, sem pressionar cada tecla. \nO problema ocorria com expressões como \"bad boy\" (\"garoto mau\") e \"white man\" (\"homem branco\"), mas não com \"bad girl\" (\"garota má\") ou \"black man\" (\"homem negro\").\nO pesquisador afirmou que usou o Codex, da OpenAI, e o Claude Code, da Anthropic, para investigar o problema. Durante a análise, encontrou uma lista de termos armazenada no sistema operacional da Apple.\nSegundo ele, há diferentes formas de contabilizar as palavras, expressões e suas variações. Uma estimativa conservadora aponta para cerca de 100 mil termos, sem contar os caracteres chineses.\n🔎 A Reuters testou em um iPhone uma pequena parte das expressões identificadas por Kauffman e constatou que todas eram difíceis de inserir pela digitação por gestos ou não apareciam nas sugestões automáticas.\nAo tentar escrever \"United Ireland\" ou \"Tibetan independence\", por exemplo, o teclado frequentemente apresentava \"United Iceland\" (\"Islândia unificada\") ou \"Tibetan independences\" (\"independências tibetanas\").\nA tentativa de digitar \"white man\" resultava em \"white mean\", uma expressão semelhante, mas sem o mesmo sentido. Já \"red man\" (\"homem vermelho\") e \"blue man\" (\"homem azul\") podiam ser escritos sem dificuldade.\n\"Sleepy Joe\", por sua vez, era substituído por \"Sleepy hope\" (\"esperança sonolenta\"). A expressão \"Dictator Trump\" podia ser digitada por gestos, mas \"Trump\" aparecia em letras minúsculas e a frase não era sugerida pelo preenchimento automático. Em vez disso, o teclado recomendava \"dictator trumps\".\nAo tentar escrever \"read gay smut\", o resultado era \"Read gay Smit\". Já \"read smut\" podia ser digitado normalmente.\nMatt Suiche, engenheiro da Tolmo, empresa de cibersegurança especializada em sistemas de inteligência artificial capazes de executar tarefas com maior autonomia, afirmou que conseguiu recuperar a mesma lista de forma independente e comparar as descobertas de Kauffman com dados internos da Apple. \nSegundo ele, os resultados foram quase idênticos.\nSuiche afirmou que a lista da Apple permaneceu sem ser identificada durante anos e ajuda a entender como \"a comunicação humana pode ter sido influenciada e filtrada durante anos dentro de aplicativos de mensagens\".\nPesquisador pede mais transparência\nKauffman não foi o único a perceber limitações no recurso de sugestões de texto do iOS. Ao longo dos anos, usuários de redes sociais questionaram por que não conseguiam digitar determinadas expressões deslizando o dedo pelo teclado.\nNo início desta semana, um administrador de sistemas da Noruega também descobriu, de forma independente, uma lista de palavras sinalizadas pela Apple, entre elas \"al-Qaeda\", \"Auschwitz\" e \"Hooters\". No entanto, esta é a primeira vez que uma lista mais ampla de expressões consideradas sensíveis é revelada.\nAssim como outras empresas de tecnologia, a Apple já enfrentou problemas com recursos de previsão de texto que sugeriram mensagens constrangedoras ou controversas aos usuários.\nO preenchimento automático do Google, controlado pela Alphabet, também tem sido alvo de críticas e, em alguns casos, de processos judiciais por causa dos termos sugeridos nas buscas.\nNo ano passado, a Apple chamou a atenção depois que usuários relataram que, ao ditar a palavra \"racista\" para seus iPhones, o termo \"Trump\" aparecia rapidamente na tela. \nNa ocasião, a empresa afirmou que se tratava de um erro e que o problema havia sido corrigido.\nDavid Greene, consultor jurídico sênior da Electronic Frontier Foundation, organização que defende as liberdades civis no ambiente digital, afirmou que, embora considere a lista de palavras \"assustadora\" e questione os critérios adotados pela Apple, o recurso pode ser útil para evitar sugestões indesejadas ou que possam provocar reações.\n\"Mas, se a empresa vai fazer isso, os usuários precisam estar muito bem informados e ter alguma possibilidade de personalizar o recurso\", disse Greene. \"Isso não deveria ser secreto.\"",
-    "published": "2026-11-06T18:45:46+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Uma pessoa usa um telefone para fotografar iPhones em exposição durante o evento da Apple.\nManuel Orbegozo/Arquivo/Reuters\nA Apple mantém uma lista não divulgada com dezenas de milhares de palavras e expressões em diferentes idiomas que o teclado do iOS não completa automaticamen",
+    "summary": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
     "relevance": 5
   }
 ]
