@@ -1,5 +1,29 @@
 [
   {
+    "source": "InfoMoney",
+    "title": "Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel",
+    "link": "https://www.infomoney.com.br/mundo/brasileiros-nos-eua-rechacam-trump-e-votam-nos-democratas-aponta-atlasintel/",
+    "description": "A tendência foi revelada por uma pesquisa que mostrou como brasileiros e latinos em geral votaram nas eleições de meio de mandato da última terça-feira, 3\nThe post Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel appeared first on InfoMoney.",
+    "published": "2026-11-08T14:24:36+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A tendência foi revelada por uma pesquisa que mostrou como brasileiros e latinos em geral votaram nas eleições de meio de mandato da última terça-feira, 3\nThe post Brasileiros nos EUA rechaçam Trump e votam nos democratas, aponta AtlasIntel appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Otimismo com futuro é maior que em 2022, diz Quaest",
+    "link": "https://www.poder360.com.br/poder-governo/otimismo-com-futuro-e-maior-que-em-2022-diz-quaest/",
+    "description": "44% dizem estar otimistas com o Brasil, ante 41% depois da eleição de 2022; outros 48% dizem estar preocupados",
+    "published": "2026-11-08T14:14:44+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "44% dizem estar otimistas com o Brasil, ante 41% depois da eleição de 2022; outros 48% dizem estar preocupados",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "62% consideram errada fuga de Flávio para os EUA, diz Quaest",
     "link": "https://www.poder360.com.br/poder-congresso/62-consideram-errada-fuga-de-flavio-para-os-eua-diz-quaest/",
@@ -832,7 +856,13 @@
       "XP"
     ],
     "summary": "Seis em cada dez brasileiros repudiam a fuga de Flávio Bolsonaro (PL) para os Estados Unidos após a derrota na eleição presidencial e a postura golpista de questionar o resultado do segundo turno. A pesquisa inédita da Quaest “O Brasil depois das urnas”, à qual o GLOBO teve acess",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Money Times",
+        "link": "https://www.moneytimes.com.br/maioria-reprova-ida-de-flavio-aos-eua-cre-que-ele-fugiu-e-ve-eleicoes-limpas-diz-quaest-igdl/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3850,32 +3880,6 @@
       "Politica"
     ],
     "summary": "A Meta, dona de redes como Facebook e Instagram, suspendeu por tempo indeterminado a entrada em vigor de atualizações de seus termos comerciais. O adiamento ocorre três dias após a Justiça de São Paulo decidir, em caráter liminar, proibir que a Meta colete conteúdos jornalísticos",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "COP 31: Alemanha vai investir em fundo indígena brasileiro",
-    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/11/cop-31-alemanha-vai-investir-em-fundo-indigena-brasileiro.ghtml",
-    "description": "O Ministério alemão da Cooperação Econômica e do Desenvolvimento (BMZ), por meio do Banco de Desenvolvimento KfW, vai oficializar uma doação de 15 milhões de euros (cerca de R$ 93 milhões) ao Mecanismo Financeiro Indígena Vítuke.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-06T21:06:01+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O Ministério alemão da Cooperação Econômica e do Desenvolvimento (BMZ), por meio do Banco de Desenvolvimento KfW, vai oficializar uma doação de 15 milhões de euros (cerca de R$ 93 milhões) ao Mecanismo Financeiro Indígena Vítuke.  Matéria exclusiva para assinantes. Para ter acess",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Taxas dos DIs fecham em queda com política econômica no radar",
-    "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-fecham-em-queda-com-politica-economica-no-radar/",
-    "description": "Investidores ⁠seguem acompanhando as sinalizações sobre os possíveis rumos da economia no novo mandato do presidente Lula\nThe post Taxas dos DIs fecham em queda com política econômica no radar appeared first on InfoMoney.",
-    "published": "2026-11-06T21:02:50+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Investidores ⁠seguem acompanhando as sinalizações sobre os possíveis rumos da economia no novo mandato do presidente Lula\nThe post Taxas dos DIs fecham em queda com política econômica no radar appeared first on InfoMoney.",
     "relevance": 5
   }
 ]
