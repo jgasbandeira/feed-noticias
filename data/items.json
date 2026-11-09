@@ -1,5 +1,17 @@
 [
   {
+    "source": "Estadão",
+    "title": "Lula precisa convencer que compromisso fiscal vai além do discurso; leia análise",
+    "link": "https://www.estadao.com.br/economia/lula-precisa-convencer-que-compromisso-fiscal-vai-alem-do-discurso-leia-analise/",
+    "description": "",
+    "published": "2026-11-09T01:27:49+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Lula precisa convencer que compromisso fiscal vai além do discurso; leia análise",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Lula diz que ampliará política nacional de cuidados para idosos",
     "link": "https://www.poder360.com.br/poder-governo/lula-diz-que-ampliara-politica-nacional-de-cuidados-para-idosos/",
@@ -9,6 +21,18 @@
       "Politica"
     ],
     "summary": "Em pronunciamento de tom eleitoral, presidente retomou promessas de campanha, mas não explicou como financiará as medidas",
+    "relevance": 5
+  },
+  {
+    "source": "Estadão",
+    "title": "Fala de Lula tem 99% do discurso focado em gastos e 1% em responsabilidade fiscal, dizem economistas",
+    "link": "https://www.estadao.com.br/economia/fala-de-lula-tem-99-do-discurso-focado-em-gastos-e-1-em-responsabilidade-fiscal-dizem-economistas/",
+    "description": "",
+    "published": "2026-11-09T01:06:48+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Fala de Lula tem 99% do discurso focado em gastos e 1% em responsabilidade fiscal, dizem economistas",
     "relevance": 5
   },
   {
@@ -3878,30 +3902,6 @@
       "Economia"
     ],
     "summary": "O que significa contratar um serviço de faxina nos Estados Unidos? Para brasileiros que chegam ao país em busca de oportunidades no setor de limpeza, a resposta pode envolver algumas diferenças em relação aos hábitos do Brasil. Além de executar as tarefas, é preciso compreender o",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Obra de centro de processamento de dados para IA da Microsoft é invadido em Amsterdã; entenda protestos",
-    "link": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/11/07/obra-de-centro-de-processamento-de-dados-para-ia-da-microsoft-e-invadido-em-amsterda-entenda-protestos.ghtml",
-    "description": "Manifestantes invadiram um data center (centro de processamento de dados) da Microsoft em construção em Amsterdã, nos Países Baixos, na sexta (6). A informação foi confirmada pelas agências AFP e Associated Press.\nCentenas de ativistas ocuparam o canteiro de obras no distrito de Sloterdijk, juntando-se a um movimento que pretende ocupar centros de dados — responsáveis por processar operações de inteligência artificial — por toda a Europa durante dois dias. Manifestantes entraram em confronto com a polícia ao escalarem um guindaste e dispararem sinalizadores.\nUm dos membros do grupo Geef Tegengas (\"dar o troco\" ou \"contrariar\", no idioma local), Nathan Timmer, anunciou à rede local AT5 que os manifestantes ocupando o local tinham o intuito de paralisar as obras.\n— Não queremos que [o data center] seja construído. Ninguém precisa disso. A única coisa pra que isso será usado é para lixo gerado por IA. Guerra de inteligência artificial, vigilância de dados e genocídio. Não queremos isso — declarou.\nAos poucos, ativistas pró-Palestina se juntaram aos protestos, apesar da pauta ser outra, na capital neerlandesa. No fim da tarde de sexta, a polícia começou a retirar os manifestantes da obra da Microsoft, embora alguns tenham permanecido ainda, de acordo com a imprensa local.\nA polícia neerlandesa estima ter detido entre 150 a 200 pessoas por invasão do canteiro de obras durante os protestos. Já a Microsoft informou as agências de que estava ciente do protesto e disse compreender que as pessoas tenham opiniões \"fortes sobre o projeto\".\n— Respeitamos o seu direito de expressar estas visões pacificamente. No entanto, não toleramos quaisquer ações que sejam ilegais ou coloquem a segurança das pessoas em risco — ponderou um porta-voz da empresa à imprensa.\nOs centros de processamento de dados têm sido mal vistos em diversos países devido às enormes quantidades de energia e água que consomem para operar. Ativistas argumentam que o número destas estruturas, seja para armazenamento de dados em nuvem ou para IA, está aumentando mais rápido do que a consulta ao público e causando negligência do meio ambiente.\nO movimento \"Stop Dirty Data Centres\" reuniu grupos da sociedade civil em protestos e eventos na sexta e voltará a reuni-los neste sábado (7) em 15 países europeus, entre eles Irlanda, Polônia, Dinamarca, Finlândia, Espanha, Itália, Países Baixos, França e Reino Unido. \nNa Alemanha, uma dúzia de manifestantes se reuniu em frente a um destes centros na periferia de Berlim na sexta. Cerca de 100 pessoas também já protestou em frente ao parlamento polonês, representando as comunidades ao redor de Varsóvia afetadas pelos planos de construir novos centros na área.\nNa Itália, a região da Lombardia, onde ficam a maioria de suas infraestruturas digitais, é também onde se concentra a maior oposição à construção destes centros.",
-    "published": "2026-11-07T06:31:57+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Manifestantes invadiram um data center (centro de processamento de dados) da Microsoft em construção em Amsterdã, nos Países Baixos, na sexta (6). A informação foi confirmada pelas agências AFP e Associated Press.\nCentenas de ativistas ocuparam o canteiro de obras no distrito de ",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Com Enamed, governo amplia controle sobre cursos de Medicina em meio à expansão de novas vagas pelo setor privado",
-    "link": "https://oglobo.globo.com/brasil/educacao/noticia/2026/11/07/com-enamed-governo-amplia-controle-sobre-cursos-de-medicina-em-meio-a-expansao-de-novas-vagas-pelo-setor-privado.ghtml",
-    "description": "A abertura de novas faculdades de Medicina por grupos hospitalares e universidades avança no país, em meio a questionamentos sobre a qualidade da formação. Na sexta-feira, no mesmo dia em que o presidente Luiz Inácio Lula da Silva sancionou a lei que torna o Exame Nacional de Avaliação da Formação Médica (Enamed) requisito para que novos profissionais obtenham registro e possam exercer a profissão, o Ministério da Educação (MEC) autorizou o curso da Rede D’Or, no Rio de Janeiro. A faculdade terá 100 vagas anuais, mensalidades entre R$ 13 mil e R$ 14 mil e pretende selecionar os primeiros alunos ainda este ano, para iniciar as aulas em janeiro de 2027. A PUC-Rio também aguarda autorização para abrir sua graduação, enquanto hospitais e instituições de outras regiões têm projetos em andamento. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-07T06:30:01+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A abertura de novas faculdades de Medicina por grupos hospitalares e universidades avança no país, em meio a questionamentos sobre a qualidade da formação. Na sexta-feira, no mesmo dia em que o presidente Luiz Inácio Lula da Silva sancionou a lei que torna o Exame Nacional de Ava",
     "relevance": 5
   }
 ]
