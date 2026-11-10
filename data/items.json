@@ -1,5 +1,43 @@
 [
   {
+    "source": "O Globo",
+    "title": "Como a China consegue chips avançados da Nvidia apesar das restrições dos EUA?",
+    "link": "https://oglobo.globo.com/economia/noticia/2026/11/10/como-a-china-consegue-chips-avancados-da-nvidia-apesar-das-restricoes-dos-eua.ghtml",
+    "description": "O relacionamento extraconjugal admitido pelo presidente-executivo da Nvidia, Jensen Huang, com uma empresária chinesa suspeita de espionagem para Pequim trouxe novamente à tona uma questão estratégica para os Estados Unidos: como a China consegue acesso aos chips mais avançados de inteligência artificial (IA), apesar das restrições americanas à exportação desses componentes?\n'Calúnia sem fundamento': China chama de 'difamação' suspeita de espionagem contra CEO da Nvidia\nReação: Nvidia abre investigação após CEO confessar infidelidade com executiva apontada como espiã chinesa\nA empresária teria ligação com uma empresa de Singapura suspeita de contrabandear microchips para o mercado chinês. Além do comércio ilegal, empresas chinesas podem recorrer a centros de dados instalados em outros países para alugar capacidade de processamento de chips da Nvidia, sem necessariamente violar as regras de exportação americanas.\nO acesso a esses componentes é fundamental para a indústria chinesa de inteligência artificial, que disputa espaço com empresas americanas e desenvolve modelos cada vez mais avançados. Entenda como funciona esse mercado e quais são as alternativas encontradas por Pequim.\nPor que os chips são importantes?\nA Nvidia desenvolve componentes avançados criados originalmente para os gráficos em 3D dos videogames, chamados Unidades de Processamento Gráfico (GPUs).\nEssas unidades conseguem processar enormes volumes de dados e, por isso, também são utilizadas em larga escala para treinar e executar sistemas de inteligência artificial.\nO lançamento do ChatGPT, em 2022, revelou o potencial da tecnologia e desencadeou uma corrida de investimentos no setor. Com a explosão dos pedidos de chips, o valor de mercado da Nvidia disparou para US$ 4,5 trilhões. A empresa está entre as mais valiosas do mundo, ao lado da Apple.\nQuais chips têm restrições?\nWashington proíbe a exportação para a China dos processadores de ponta Blackwell e Rubin, sob a justificativa de que sistemas avançados de inteligência artificial podem ter aplicações militares.\nA política também busca preservar a liderança americana no setor. Jensen Huang, porém, tenta convencer o governo dos Estados Unidos a permitir a venda de chips para o mercado chinês. O executivo argumenta que as restrições favorecem o desenvolvimento de alternativas locais capazes de competir com a tecnologia americana.\nNeste ano, Washington flexibilizou os controles sobre os chips H200 da Nvidia, modelos menos poderosos que anteriormente também eram proibidos. Pelo acordo, os Estados Unidos ficam com 25% do valor das vendas.\nAs condições impostas pelo governo americano, no entanto, dificultaram a aprovação dos envios. A China, por sua vez, demonstrou relutância em comprar os componentes, diante do incentivo ao desenvolvimento de sua própria indústria.\nComo a China consegue os chips?\nOs lançamentos recentes de modelos de alto desempenho por empresas chinesas emergentes, como Moonshot AI, Z.ai e DeepSeek, aumentaram a pressão sobre as concorrentes americanas.\n— Os fornecedores chineses ainda utilizam os chips de última geração da Nvidia para treinar seus modelos — afirmou à AFP Lian Jye Su, analista da Omdia.\nUm dos caminhos é o aluguel de capacidade computacional em centros de dados instalados em outros países, frequentemente no Sudeste Asiático. Essa possibilidade explora uma brecha nas regras americanas: as restrições determinam para onde os chips podem ser exportados, mas não necessariamente quem pode utilizar a capacidade de processamento disponibilizada no exterior.\n— Os controles americanos restringem para onde um chip pode ser exportado, não quem o utiliza — explicou Stephen Wu, fundador do fundo de investimentos Carthage Capital.\nIsso significa que as GPUs da Nvidia podem estar, por exemplo, na Malásia, mas serem utilizadas por um cliente conectado a partir da China, \"em total conformidade com as regras\", afirmou Wu à AFP.\nO assessor da Casa Branca Michael Kratsios afirmou recentemente que a Moonshot AI teve acesso a chips de ponta da Nvidia na Tailândia.\nOutra possibilidade é o contrabando de componentes. Em dezembro, o veículo especializado em tecnologia The Information publicou que a DeepSeek havia desenvolvido seu novo modelo utilizando milhares de chips desmontados no exterior e levados para a China.\nNa ocasião, a DeepSeek não respondeu aos questionamentos sobre o assunto. A Nvidia afirmou ao The Information que não havia encontrado provas desse tipo de contrabando, que \"parece pouco verossímil\".\nWashington também acusa laboratórios chineses de inteligência artificial de treinar seus sistemas para imitar as capacidades dos modelos americanos.\nQuais são as alternativas chinesas?\nA principal concorrente chinesa da Nvidia é a Huawei, embora a empresa ainda esteja atrás da gigante americana no desenvolvimento de chips.\nAinda assim, reportagens apontam que a DeepSeek pretende treinar seu próximo modelo de inteligência artificial com componentes da Huawei.\n— Os chips fabricados na China estão melhorando rapidamente — afirmou o analista Lian Jye Su, acrescentando que novas parcerias podem surgir.\nEm setembro, a Huawei anunciou que seu chip de inteligência artificial de próxima geração estará pronto no primeiro trimestre de 2027, três trimestres antes do previsto.\n— Os chips da Nvidia tornam o trabalho de inteligência artificial de alto nível mais rápido e fácil, mas não são a única opção — avaliou Poe Zhao, fundador da publicação de análises Hello China Tech.\nO principal desafio, segundo ele, é o custo, porque \"treinar modelos com chips chineses geralmente exige mais tempo e mais trabalho de engenharia\".\nPara compensar a diferença de desempenho em relação aos componentes americanos, as empresas chinesas precisam utilizar mais chips nos sistemas de inteligência artificial, argumentou Stephen Wu.\n— Elas pagam por isso com maior consumo de energia e custos mais elevados, algo que podem bancar porque a eletricidade é barata na China e os chips recebem subsídios do Estado — acrescentou.",
+    "published": "2026-11-10T09:46:04+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O relacionamento extraconjugal admitido pelo presidente-executivo da Nvidia, Jensen Huang, com uma empresária chinesa suspeita de espionagem para Pequim trouxe novamente à tona uma questão estratégica para os Estados Unidos: como a China consegue acesso aos chips mais avançados d",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Bolsas asiáticas revertem perdas e sobem acompanhando Wall Street",
+    "link": "https://valor.globo.com/financas/noticia/2026/11/10/bolsas-asiaticas-revertem-perdas-e-sobem-acompanhando-wall-street.ghtml",
+    "description": "As bolsas asiáticas operaram em alta nesta terça-feira, acompanhando a recuperação em Wall Street após a forte onda de perdas da semana passada, enquanto os investidores aguardam os dados de inflação dos EUA referentes a outubro.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-10T09:36:22+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "As bolsas asiáticas operaram em alta nesta terça-feira, acompanhando a recuperação em Wall Street após a forte onda de perdas da semana passada, enquanto os investidores aguardam os dados de inflação dos EUA referentes a outubro.\n Matéria exclusiva para assinantes. Para ter acess",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Agenda econômica: ata do Copom e inflação dos EUA podem mexer com Bolsa e dólar nesta terça-feira (10)",
+    "link": "https://www.moneytimes.com.br/agenda-economica-ata-do-copom-e-inflacao-dos-eua-podem-mexer-com-bolsa-e-dolar-nesta-terca-feira-mlem/",
+    "description": "A agenda econômica desta terça-feira (10) é marcada por indicadores de inflação e mercado de trabalho que podem mexer com a Bolsa, o dólar e as expectativas para os juros no Brasil e nos Estados Unidos. O principal destaque é a divulgação da ata da última reunião do Comitê de Política Monetária (Copom), documento que [&#8230;]",
+    "published": "2026-11-10T09:30:00+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "A agenda econômica desta terça-feira (10) é marcada por indicadores de inflação e mercado de trabalho que podem mexer com a Bolsa, o dólar e as expectativas para os juros no Brasil e nos Estados Unidos. O principal destaque é a divulgação da ata da última reunião do Comitê de Pol",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Saiba quais ações estão na pauta do Congresso nesta 3ª feira",
     "link": "https://www.poder360.com.br/poder-congresso/saiba-quais-acoes-estao-na-pauta-do-congresso-nesta-3a-feira-4/",
@@ -1402,7 +1440,13 @@
       "Politica"
     ],
     "summary": "Vista do horizonte da cidade Shenzhen, na China.\nTingshu Wang/Reuters\nO superávit comercial da China ultrapassou US$ 1 trilhão nos primeiros dez meses do ano, à medida que a corrida global para construir infraestrutura de inteligência artificial impulsionou as vendas de produtos ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-china/china-supera-us-1-trilhao-em-superavit-com-avanco-da-ia/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3903,49 +3947,6 @@
       "XP"
     ],
     "summary": "A gestora Sparta, especializada em renda fixa corporativa e com R$ 23 bilhões sob gestão, avalia que o mercado de crédito privado brasileiro segue sem grandes gatilhos para sair da situação de compressão de spreads e preços caros das debêntures. Em carta mensal, a casa afirma que",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Petrobras pede período de transição para compreender as mudanças da reforma tributária",
-    "link": "https://valor.globo.com/empresas/noticia/2026/11/09/petrobras-pede-periodo-de-transicao-para-compreender-as-mudancas-da-reforma-tributaria.ghtml",
-    "description": "A presidente da Petrobras, Magda Chambriard, disse nesta segunda-feira (9) que a estatal levou ao Ministério da Fazenda dúvidas a respeito da reforma tributária, cuja implantação será feita de forma fracionada no país.\n\nSegundo ela, que participa de evento jurídico na Escola de Magistratura do Estado do Rio de Janeiro (Emerj), a empresa sugeriu que há muitas dúvidas e questionamentos sobre a reforma dos tributos, ao mesmo tempo que vários dispositivos entram em vigor a partir de 2027. Com isso, disse Chambriard, a estatal sugeriu à Pasta a adoção de um período de transição para que não incidisse a cobrança de multas até a compreensão das mudanças. \n\nA executiva não deu exemplos de quais dúvidas foram endereçadas, mas observou que questionamentos abrem espaço para riscos, especialmente quando se olha a operação da companhia em diferentes Estados do país. \n\n“Não sabemos direito o que vai acontecer [com a entrada em vigor da reforma tributária]. Estamos nos arriscando e o risco é precificado”, afirmou.\nMagda Chambriard, presidente da Petrobras, diz que, para se entender melhor as mudanças promovidas pela reforma, é necessário um período de transiçã \nLeo Pinheiro/Valor",
-    "published": "2026-11-09T16:30:16+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "A presidente da Petrobras, Magda Chambriard, disse nesta segunda-feira (9) que a estatal levou ao Ministério da Fazenda dúvidas a respeito da reforma tributária, cuja implantação será feita de forma fracionada no país.\n\nSegundo ela, que participa de evento jurídico na Escola de M",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Folha",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/petrobras-pede-ao-governo-periodo-sem-multas-na-reforma-tributaria.shtml"
-      }
-    ]
-  },
-  {
-    "source": "G1 - Economia",
-    "title": "Cadeira de R$ 100 mil, TVs e móveis: veja o que saiu no primeiro leilão do Master e o que vem no próximo",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/09/cadeira-de-r-100-mil-tvs-e-moveis-veja-o-que-saiu-no-primeiro-leilao-do-master-e-o-que-vem-no-proximo.ghtml",
-    "description": "Peças de luxo do Banco Master vão a leilão para pagar credores\nBens do Banco Master e do Will Bank estão sendo vendidos em dois leilões pela plataforma Kwara, em meio ao processo de liquidação extrajudicial das instituições financeiras. \nO primeiro evento, com 445 lotes de móveis, itens de decoração e eletrônicos, foi encerrado nesta segunda-feira (9), às 11h59. \nJá o segundo evento, intitulado \"Desativação de Banco Master e Will Bank (em Liquidação Extrajudicial) – Itens de Cozinha Industrial\", reúne 258 lotes focados em eletrodomésticos. O leilão está aberto até às 13h30 do dia 30 de novembro.  Para acessar, clique aqui.\nEntre os produtos oferecidos nos eventos estão cadeiras de escritório de marcas como Herman Miller e Haworth, televisores, notebooks, máquinas de café, adegas climatizadas, fornos industriais e equipamentos de refrigeração.\nPrimeiro leilão foi encerrado nesta segunda\nO primeiro evento, chamado de \"Desativação de Banco Master e Will Bank (em Liquidação Extrajudicial) – Móveis, Decoração e Eletrônicos\", reuniu 445 lotes. Os itens foram disponibilizados para lances na plataforma Kwara, e o leilão terminou nesta segunda-feira (9), às 11h59.\nEntre os produtos estavam cadeiras de escritório das marcas Herman Miller e Haworth, poltronas, sofás, mesas, estações de trabalho, televisores e notebooks.\nUm dos lotes, com aproximadamente 20 cadeiras Cosm Média, da Herman Miller, registrava valor de R$ 100.120. \nConjunto de 20 cadeiras Herman Miller.\nReprodução/Kwara\nJá uma caixa-bar da marca Artefacto aparecia com lance de R$ 42.600. Os valores são os registrados na plataforma durante o evento.\nCaixa Bar Pietra - Artefacto.\nReprodução/Kwara\nSegundo leilão começa em 30 de novembro\nO segundo leilão, intitulado \"Desativação de Banco Master e Will Bank (em Liquidação Extrajudicial) – Itens de Cozinha Industrial\", tem 258 lotes e encerra dia 30 de novembro, às 13h30.\nA lista inclui máquinas de café de grande escala, adegas climatizadas, batedeiras, chopeiras, fornos industriais, televisores, refrigeradores, lava-louças e equipamentos de videoconferência.\nEntre os itens anunciados estão uma máquina de café filtrado Bravilor Bonamat, um forno industrial Rational iCombi Pro, uma adega climatizada Art des Caves e um televisor LG de 86 polegadas.\nNa página do evento, alguns produtos já aparecem com valores registrados. A máquina de café Bravilor Bonamat, por exemplo, estava anunciada com valor de R$ 35.700. \nMáquina de Café Filtrado de Grande Escala Bravilor Bonamat.\nReprodução/Kwara\nO forno industrial Rational iCombi Pro aparecia por R$ 47.547,50, enquanto o televisor LG de 86 polegadas tinha valor de R$ 4.566,80.\nForno industrial Rational iCombi Pro.\nReprodução/Kwara\nOs interessados podem consultar a relação completa dos produtos, os valores e as regras de participação diretamente na plataforma Kwara. Para acessar o leilão, clique aqui.\nEntenda o caso Master, as acusações e as conversas de Vorcaro com Moraes\nComo evitar golpes em leilões\nVeja as principais dicas de como não cair em golpes:\nPesquise a reputação do site: consulte o histórico da plataforma em sites de defesa do consumidor, como o Reclame Aqui. Também verifique o portal Leilão Seguro, que mantém uma lista de sites de leilão falsos;\nLeia o edital: confira as condições da venda antes de dar um lance. Em leilões de logística reversa e desativação, os produtos são vendidos \"no estado em que se encontram\" e podem ter avarias, componentes ausentes ou defeitos não aparentes;\nCalcule o custo total: o valor do lance não é necessariamente o preço final. Pode haver comissão de 5% do leiloeiro e outras taxas administrativas, dependendo da plataforma;\nConfira a retirada: em geral, o produto não é entregue em casa. O arrematante é responsável por desmontar, embalar e transportar o item a partir do local indicado pela organizadora. Verifique no edital os prazos e horários de retirada, além de possíveis multas por atraso ou perda do lote;\nConfirme o registro do leiloeiro: verifique se o profissional está registrado na Junta Comercial do estado em que atua. O nome e a matrícula podem ser consultados no site do órgão;\nTenha atenção ao pagamento: em um leilão legítimo, o pagamento deve ser feito para a conta da pessoa jurídica organizadora ou diretamente para a conta do leiloeiro oficial. Evite PIX, TED ou depósitos para contas de terceiros ou CPFs desconhecidos.\nBanco Master: entenda como funcionavam as operações que levaram a uma fraude bilionária\nPeças de luxo do Banco Master vão a leilão para pagar credores\nJornal Nacional",
-    "published": "2026-11-09T16:29:51+00:00",
-    "themes": [
-      "XP"
-    ],
-    "summary": "Peças de luxo do Banco Master vão a leilão para pagar credores\nBens do Banco Master e do Will Bank estão sendo vendidos em dois leilões pela plataforma Kwara, em meio ao processo de liquidação extrajudicial das instituições financeiras. \nO primeiro evento, com 445 lotes de móveis",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "A sucessão de Ricardo Nunes e um aliado que já foi filiado ao PSOL",
-    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/11/a-sucessao-de-ricardo-nunes-e-um-aliado-que-ja-foi-filiado-ao-psol.ghtml",
-    "description": "Eleito pela primeira vez para a Câmara dos Deputados em outubro, o vereador de São Paulo Sidney Cruz (MDB) foi secretário municipal de Habitação do início do ano passado até abril deste ano e tem sido citado por aliados de prefeito Ricardo Nunes, seu correligionário, como um dos favoritos para ser candidato à sua sucessão. Beleza. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-09T16:29:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Eleito pela primeira vez para a Câmara dos Deputados em outubro, o vereador de São Paulo Sidney Cruz (MDB) foi secretário municipal de Habitação do início do ano passado até abril deste ano e tem sido citado por aliados de prefeito Ricardo Nunes, seu correligionário, como um dos ",
     "relevance": 5
   }
 ]
