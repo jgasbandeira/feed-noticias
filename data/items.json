@@ -23,7 +23,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O governo do presidente Luiz Inácio Lula da Silva vai prorrogar por mais 30 dias a desoneração de tributos federais sobre a gasolina e o etanol e a subvenção adicional paga aos produtores de etanol, segundo integrantes Executivo. A medida será formalizada em decreto assinado pelo",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/brasil/noticia/2026/11/09/governo-vai-prorrogar-desonerao-da-gasolina-e-etanol-por-30-dias-dizem-fontes.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -128,18 +134,6 @@
       "Politica"
     ],
     "summary": "O juiz da 22ª Vara Federal Cível da Justiça Federal do DF Frederico Botelho de Barros Viana suspendeu nesta segunda-feira (9) a eficácia de alguns dispositivos do decreto do governo de Luiz Inácio Lula da Silva (PT) que mudava as regras para o Programa de Alimentação do Trabalhad",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Nvidia e Jensen Huang são processados por supostas omissões com suspeita de espionagem chinesa",
-    "link": "https://valor.globo.com/empresas/noticia/2026/11/09/nvidia-e-jensen-huang-so-processados-por-supostas-omisses-com-suspeita-de-espionagem-chinesa.ghtml",
-    "description": "A Nvidia e seu CEO, Jensen Huang, são alvo de um processo protocolado nesta segunda-feira (9) numa proposta de ação coletiva que acusa a empresa e seu principal executivo de enganar acionistas ao ocultarem informações sobre os vínculos de Huang com uma suposta agente de inteligência chinesa.\n\nSegundo a ação apresentada em um tribunal federal de San Jose, Califórnia, os autores alegam que a empresa e o executivo induziram investidores ao erro ao não divulgarem a suposta relação de Huang com Alice Huang, ex-executiva da empresa singapuriana Megaspeed e que não possui parentesco com o executivo.\n\nA reclamação sustenta que a companhia também deixou de informar aos acionistas que o caso gerava preocupações de segurança nacional que poderiam ameaçar a reputação e as perspectivas de negócios da Nvidia.\n\nNo mês passado, o The New York Times publicou reportagem sobre o suposto relacionamento e informou que autoridades americanas concluíram que Alice Huang atuava como um ativo da inteligência chinesa.\n\nA Nvidia não respondeu imediatamente a pedidos de comentário.\n\nSegundo a ação judicial, Jensen Huang comunicou aos funcionários da companhia que havia sido infiel à esposa, mas sem fornecer detalhes sobre o relacionamento citado nas reportagens.\n\nHuang foi cofundador da Nvidia e liderou a companhia sediada em Santa Clara, Califórnia, durante sua ascensão à posição de maior fabricante de chips do mundo, tornando-se um dos símbolos mais conhecidos do “boom” da inteligência artificial.\n\nNo domingo (8), a Nvidia anunciou uma investigação interna sobre o caso.\n\nAs ações da companhia fecharam em queda de 4,3% nesta segunda-feira (9), o que reduziu seu valor de mercado em aproximadamente US$ 190 bilhões.\n\nO processo foi protocolado apenas cinco minutos após o fechamento do mercado americano.\n\nAções judiciais desse tipo são comuns após quedas inesperadas das ações, quando investidores alegam que informações relevantes não foram devidamente divulgadas ao mercado.\n\nOs acionistas, liderados por Mark Kistenmacher, buscam uma indenização ainda não especificada contra a Nvidia e Jensen Huang.\n\nJensen Huang, CEO da Nvidia\nJulia Demaree Nikhinson/AP Photo, File",
-    "published": "2026-11-09T23:03:25+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A Nvidia e seu CEO, Jensen Huang, são alvo de um processo protocolado nesta segunda-feira (9) numa proposta de ação coletiva que acusa a empresa e seu principal executivo de enganar acionistas ao ocultarem informações sobre os vínculos de Huang com uma suposta agente de inteligên",
     "relevance": 5
   },
   {
@@ -3277,6 +3271,24 @@
     ],
     "summary": "Presidente do partido cobra revisão de despesas e mudanças nas emendas parlamentares antes de definir o apoio da legenda ao quarto mandato do petista\nThe post Kassab condiciona aproximação do PSD com Lula a ajuste fiscal e corte de gastos appeared first on InfoMoney.",
     "relevance": 5
+  },
+  {
+    "source": "NeoFeed",
+    "title": "O “risco Jensen Huang”: como o caso com uma suposta espiã chinesa abala a Nvidia",
+    "link": "https://neofeed.com.br/negocios/o-risco-jensen-huang-como-o-caso-com-uma-suposta-espia-chinesa-abala-a-nvidia/",
+    "description": "Depois de fechar o pregão da última sexta-feira na Nasdaq com alta de 2,78% e um valor de mercado de US$ 4,5 trilhões, as ações da Nvidia, um dos grandes ícones por trás do boom da inteligência artificial (IA), registram queda próxima de 5% no pre-market desta segunda-feira, 9 de novembro. A queda nos papéis [&#8230;]\nO post O &#8220;risco Jensen Huang&#8221;: como o caso com uma suposta espiã chinesa abala a Nvidia apareceu primeiro em NeoFeed.",
+    "published": "2026-11-09T13:14:37+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Depois de fechar o pregão da última sexta-feira na Nasdaq com alta de 2,78% e um valor de mercado de US$ 4,5 trilhões, as ações da Nvidia, um dos grandes ícones por trás do boom da inteligência artificial (IA), registram queda próxima de 5% no pre-market desta segunda-feira, 9 de",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/empresas/noticia/2026/11/09/nvidia-e-jensen-huang-so-processados-por-supostas-omisses-com-suspeita-de-espionagem-chinesa.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
