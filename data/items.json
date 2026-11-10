@@ -1144,6 +1144,18 @@
     "relevance": 5
   },
   {
+    "source": "Folha",
+    "title": "Coautor da reforma tributária rejeita adiamento da CBS para 2028",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/coautor-da-reforma-tributaria-rejeita-adiamento-da-cbs-para-2028.shtml",
+    "description": "Os pedidos de adiamento da substituição do PIS/Cofins pela CBS (Contribuição sobre Bens e Serviços), marcada para 1º de janeiro de 2027, baseiam-se em uma compreensão equivocada do novo sistema tributário, afirma o professor da FGV Direito SP Eurico Marcos Diniz de Santi, um dos autores da proposta de emenda constitucional que deu origem à reforma tributária.\nLeia mais (11/10/2026 - 04h00)",
+    "published": "2026-11-10T07:00:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Os pedidos de adiamento da substituição do PIS/Cofins pela CBS (Contribuição sobre Bens e Serviços), marcada para 1º de janeiro de 2027, baseiam-se em uma compreensão equivocada do novo sistema tributário, afirma o professor da FGV Direito SP Eurico Marcos Diniz de Santi, um dos ",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Após Trump recuar, dono do UFC 'rejeita' cargo no governo dos EUA: 'Não quero me envolver'",
     "link": "https://oglobo.globo.com/mundo/noticia/2026/11/10/apos-trump-recuar-dono-do-ufc-rejeita-cargo-no-governo-dos-eua-nao-quero-me-envolver.ghtml",
@@ -2167,6 +2179,10 @@
       {
         "source": "Valor Econômico",
         "link": "https://valor.globo.com/empresas/noticia/2026/11/09/lucro-da-ecorodovias-cai-53percent-no-3o-trimestre.ghtml"
+      },
+      {
+        "source": "Money Times",
+        "link": "https://www.moneytimes.com.br/ecorodovias-ecor3-tem-lucro-de-r-407-milhoes-no-3o-trimestre-queda-de-53-fets/"
       }
     ]
   },
@@ -3930,18 +3946,6 @@
       "Politica"
     ],
     "summary": "Eleito pela primeira vez para a Câmara dos Deputados em outubro, o vereador de São Paulo Sidney Cruz (MDB) foi secretário municipal de Habitação do início do ano passado até abril deste ano e tem sido citado por aliados de prefeito Ricardo Nunes, seu correligionário, como um dos ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Começamos a ver pressão inflacionária em componentes sem relação com petróleo, diz Goolsbee, do Fed",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/09/comecamos-a-ver-pressao-inflacionaria-em-componentes-sem-relacao-com-petroleo-diz-goolsbee-do-fed.ghtml",
-    "description": "O presidente da distrital de Chicago do Federal Reserve (Fed), Austan Goolsbee, reiterou nesta segunda-feira (9) sua maior preocupação com o mandato de inflação e alertou que o banco central americano está começando a ver pressões inflacionárias em componentes sem relação com o choque do petróleo.\n\nA construção de data centers e o setor de serviços foram dois componentes que Goolsbee ressaltou entre aqueles que estão mostrando maiores pressões inflacionárias. O presidente da distrital de Chicago ainda alertou para os riscos de superaquecimento da economia americana em meio à construção da infraestrutura em inteligência artificial (IA), considerando os altos investimentos em estruturas físicas que podem, ou não, entregar os retornos esperados.\n\nSobre o outro lado do mandato, Goolsbee classificou o mercado de trabalho como estável e próximo dos patamares históricos relacionados ao pleno emprego. A atividade econômica, segundo ele, tem sido surpreendentemente forte. As declarações vão em linha com a avaliação da maior parte dos membros do Fed sobre a economia americana.\n\nAustan Goolsbee, presidente do Fed Chicago\nVincent Alban/Bloomberg",
-    "published": "2026-11-09T16:26:52+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O presidente da distrital de Chicago do Federal Reserve (Fed), Austan Goolsbee, reiterou nesta segunda-feira (9) sua maior preocupação com o mandato de inflação e alertou que o banco central americano está começando a ver pressões inflacionárias em componentes sem relação com o c",
     "relevance": 5
   }
 ]
