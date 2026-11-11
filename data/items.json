@@ -1,5 +1,17 @@
 [
   {
+    "source": "Financial Times",
+    "title": "Anthropic bankers prepare to increase IPO valuation to $1.5tn or more",
+    "link": "https://www.ft.com/content/68bcba57-0575-44ee-80f4-2e5ea23a431e?syn-25a6b1a6=1",
+    "description": "Claude maker’s listing price expected to rise after strong demand from investors",
+    "published": "2026-11-11T00:27:38+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Claude maker’s listing price expected to rise after strong demand from investors",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Cade aprova sem restrições compra do controle da Mills pela francesa Loxam",
     "link": "https://valor.globo.com/empresas/noticia/2026/11/10/cade-aprova-sem-restries-compra-do-controle-da-mills-pela-francesa-loxam.ghtml",
@@ -471,6 +483,10 @@
       {
         "source": "InfoMoney",
         "link": "https://www.infomoney.com.br/politica/governo-acerta-com-congresso-projeto-de-ajuste-fiscal-de-ate-r-80-bi-em-2027-diz-fonte/"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/noticia/2026/11/10/governo-medidas-de-ajuste-de-pelo-menos-r-50-bilhoes-em-2027.ghtml"
       }
     ]
   },
@@ -1010,6 +1026,18 @@
       "Economia"
     ],
     "summary": "Uma audiência pública na manhã desta terça-feira, em Laranjeiras, colocou em discussão o Projeto de Lei Complementar nº 87/2025 — de autoria de Carlo Caiado (PSD), Felipe Boró (PSD), Flávio Valle (PSD), Flavio Pato (PSD) e Luiz Ramos Filho (PSD) —, que permitiria, caso aprovado, ",
+    "relevance": 5
+  },
+  {
+    "source": "Financial Times",
+    "title": "Oil falls below $90 as Trump pulls back from threat to strike Iran",
+    "link": "https://www.ft.com/content/07bdb58c-4557-4def-b8cb-db9be304fd72?syn-25a6b1a6=1",
+    "description": "Falling crude prices have supported recovery in global stocks from last week’s sell-off",
+    "published": "2026-11-10T20:19:24+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Falling crude prices have supported recovery in global stocks from last week’s sell-off",
     "relevance": 5
   },
   {
@@ -4019,37 +4047,5 @@
     ],
     "summary": "Uma delegação da Comissão Parlamentar Antimáfia da Itália está nesta terça-feira no Ministério Público de São Paulo (MPSP) para discutir o fortalecimento da cooperação entre autoridades brasileiras e italianas no combate ao crime organizado transnacional. A visita faz parte de um",
     "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Viraram pechinchas? BBDC4, EQTL3 e FLRY3 entram no radar após repique do Ibovespa",
-    "link": "https://www.infomoney.com.br/mercados/viraram-pechinchas-bbdc4-eqtl3-e-flry3-entram-no-radar-apos-repique-do-ibovespa/",
-    "description": "Com Ibovespa em repique de alta no curto prazo, analista da XP vê oportunidades em Bradesco, Equatorial e Fleury e aponta níveis importantes para acompanhar os ativos.\nThe post Viraram pechinchas? BBDC4, EQTL3 e FLRY3 entram no radar após repique do Ibovespa appeared first on InfoMoney.",
-    "published": "2026-11-10T12:25:20+00:00",
-    "themes": [
-      "Mercado Financeiro",
-      "XP"
-    ],
-    "summary": "Com Ibovespa em repique de alta no curto prazo, analista da XP vê oportunidades em Bradesco, Equatorial e Fleury e aponta níveis importantes para acompanhar os ativos.\nThe post Viraram pechinchas? BBDC4, EQTL3 e FLRY3 entram no radar após repique do Ibovespa appeared first on Inf",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "PF determina que relatórios sobre ministros do STF e Vorcaro sejam “descritivos” e “sem juízo de valor”",
-    "link": "https://oglobo.globo.com/blogs/bela-megale/post/2026/11/pf-orienta-que-relatorios-sobre-ministros-do-stf-e-vorcaro-sejam-descritivos-e-sem-juizo-de-valor.ghtml",
-    "description": "A ordem dada pelo diretor-geral da Polícia Federal, Andrei Rodrigues, para que delegados da corporação refizessem os relatórios sobre a relação de ministros do Supremo Tribunal Federal (STF) com Daniel Vorcaro foi motivado por duas questões centrais.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-10T12:23:49+00:00",
-    "themes": [
-      "Politica",
-      "XP"
-    ],
-    "summary": "A ordem dada pelo diretor-geral da Polícia Federal, Andrei Rodrigues, para que delegados da corporação refizessem os relatórios sobre a relação de ministros do Supremo Tribunal Federal (STF) com Daniel Vorcaro foi motivado por duas questões centrais.  Matéria exclusiva para assin",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/politica/noticia/2026/11/10/pf-refaz-relatorios-sobre-ministros-do-stf-citados-no-celular-de-vorcaro.ghtml"
-      }
-    ]
   }
 ]
