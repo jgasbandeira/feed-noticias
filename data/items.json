@@ -1,5 +1,142 @@
 [
   {
+    "source": "InfoMoney",
+    "title": "Ibovespa fecha em alta, com fiscal e exterior; Petrobras cai mais de 3% com balanço",
+    "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-11112026/",
+    "description": "Índices nos EUA fecham em alta, com retomadas de ações de tecnologia\nThe post Ibovespa fecha em alta, com fiscal e exterior; Petrobras cai mais de 3% com balanço appeared first on InfoMoney.",
+    "published": "2026-11-11T21:24:41+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Índices nos EUA fecham em alta, com retomadas de ações de tecnologia\nThe post Ibovespa fecha em alta, com fiscal e exterior; Petrobras cai mais de 3% com balanço appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Dólar cai 0,43% e fecha em R$ 5,562; Ibovespa sobe 0,42%",
+    "link": "https://www.poder360.com.br/poder-economia/dolar-cai-043-e-fecha-em-r-5562-ibovespa-sobe-042/",
+    "description": "O mercado está de olho em um plano de ajuste fiscal de Lula; pacote pode ter impacto de até R$ 60 bilhões em 2027",
+    "published": "2026-11-11T21:24:40+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "O mercado está de olho em um plano de ajuste fiscal de Lula; pacote pode ter impacto de até R$ 60 bilhões em 2027",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Kepler Weber (KEPL3) vê lucro cair 74% no 3T26, mas avanço das agroindústrias ameniza impacto da crise no campo",
+    "link": "https://www.moneytimes.com.br/kepler-weber-kepl3-ve-lucro-cair-74-no-3t26-mas-avanco-das-agroindustrias-ameniza-impacto-da-crise-no-campo-pads/",
+    "description": "A Kepler Weber (KEPL3) encerrou o terceiro trimestre de 2026 com lucro líquido de R$ 13,4 milhões, queda de 74% em relação ao mesmo período do ano passado, em meio a um cenário ainda marcado por juros elevados, crédito restrito e menor capacidade de investimento dos produtores rurais. A receita líquida da fabricante de soluções [&#8230;]",
+    "published": "2026-11-11T21:18:30+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "A Kepler Weber (KEPL3) encerrou o terceiro trimestre de 2026 com lucro líquido de R$ 13,4 milhões, queda de 74% em relação ao mesmo período do ano passado, em meio a um cenário ainda marcado por juros elevados, crédito restrito e menor capacidade de investimento dos produtores ru",
+    "relevance": 5
+  },
+  {
+    "source": "Metro Quadrado",
+    "title": "O Paraguai tem oportunidades, mas não é o sonho americano",
+    "link": "https://metroquadrado.com/investimentos/opiniao-o-paraguai-tem-oportunidades-mas-nao-e-o-sonho-americano",
+    "description": "O Paraguai virou assunto recorrente entre os brasileiros, e tem estado sob os holofotes antes mesmo da crise bancária e política que culminou no impeachment do Presidente Santiago Peña.&nbsp; O país coleciona atrativos que justificam o interesse de empresários em investir na sua economia, transferir fábricas, investir ou mudar de endereço. Mas parte desse movimento está sendo acompanhada por uma narrativa que pode criar expectativas equivocadas e uma ilusão de caminho para a prosperidade.",
+    "published": "2026-11-11T21:16:00+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O Paraguai virou assunto recorrente entre os brasileiros, e tem estado sob os holofotes antes mesmo da crise bancária e política que culminou no impeachment do Presidente Santiago Peña.&nbsp; O país coleciona atrativos que justificam o interesse de empresários em investir na sua ",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Deputado do PT diz a ministro que ajuste fiscal não pode ser aprovado 'goela abaixo'",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/deputado-do-pt-diz-a-ministro-que-ajuste-fiscal-nao-pode-ser-goela-abaixo.shtml",
+    "description": "O deputado federal Lindbergh Farias (PT-RJ) disse ao ministro Bruno Moretti, do Planejamento, que o ajuste fiscal proposto pelo governo de Luiz Inácio Lula da Silva (PT) poderá rachar a base de sustentação no Congresso Nacional se a tramitação for \"goela abaixo\".\nLeia mais (11/11/2026 - 18h14)",
+    "published": "2026-11-11T21:14:00+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O deputado federal Lindbergh Farias (PT-RJ) disse ao ministro Bruno Moretti, do Planejamento, que o ajuste fiscal proposto pelo governo de Luiz Inácio Lula da Silva (PT) poderá rachar a base de sustentação no Congresso Nacional se a tramitação for \"goela abaixo\".\nLeia mais (11/11",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "TCU pede à Câmara aumento de penduricalhos para servidores de confiança; entenda o que muda",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/11/tcu-pede-a-camara-aumento-de-penduricalhos-para-servidores-de-confianca-entenda-o-que-diz-o-texto.ghtml",
+    "description": "O Tribunal de Contas da União (TCU) encaminhou ao Congresso Nacional uma proposta para reajustar os penduricalhos pagos a servidores que ocupam cargos e funções de confiança. Segundo estimativa da própria Corte, a medida terá impacto de R$ 27,7 milhões por ano caso seja aprovada.\nO projeto foi apresentado pelo TCU em julho, mas só protocolado no sistema da Câmara nessa terça-feira (10), segundo os registros legislativos.\n🔎 As gratificações são adicionais pagos a servidores que exercem funções de chefia, direção, coordenação ou assessoramento. Por permitirem que a remuneração ultrapasse, em alguns casos, o teto do funcionalismo, são frequentemente classificadas como \"penduricalhos\".\nEntre os aumentos propostos estão:\nNível 1: de R$ 1.554,42 para R$ 2.176,19 por mês;\nNível 8 (o mais elevado): de R$ 8.987,39 para R$ 12.132,98 por mês.\nAgora no g1\nNa justificativa enviada ao Congresso, o TCU afirma que a proposta decorre da necessidade de adequar sua estrutura de funções de confiança às exigências crescentes do trabalho de controle externo da administração pública federal.\nSegundo o projeto, há uma \"progressiva defasagem\" dos valores pagos atualmente quando comparados à complexidade das responsabilidades exercidas pelos servidores e aos padrões remuneratórios adotados por órgãos federais com estruturas semelhantes.\n\"Observa-se progressiva defasagem dos valores das funções de confiança quando comparados à complexidade das responsabilidades atualmente exercidas e aos padrões remuneratórios praticados em órgãos federais dotados de estruturas organizacionais equivalentes\", afirma o texto.\nA Corte de Contas também sustenta que a atualização das gratificações foi estruturada com base em critérios de governança institucional e tem o objetivo de fortalecer funções ligadas à supervisão de unidades técnicas, à coordenação de fiscalizações e à condução das atividades finalísticas da Corte.\nSenado aprova projeto que permite servidores do TCU receberem acima do teto do funcionalismo\nJornal Nacional/ Reprodução",
+    "published": "2026-11-11T21:13:40+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O Tribunal de Contas da União (TCU) encaminhou ao Congresso Nacional uma proposta para reajustar os penduricalhos pagos a servidores que ocupam cargos e funções de confiança. Segundo estimativa da própria Corte, a medida terá impacto de R$ 27,7 milhões por ano caso seja aprovada.",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Varejo em 2027: escala 5×2, reforma tributária e ajuste fiscal devem pressionar custos e margens, alerta especialista",
+    "link": "https://www.moneytimes.com.br/varejo-em-2027-escala-5x2-reforma-tributaria-e-ajuste-fiscal-devem-pressionar-custos-e-margens-alerta-especialista/",
+    "description": "O ano de 2027 promete trazer novos desafios para as empresas do varejo brasileiro. Com a transição da reforma tributária, as discussões sobre a escala de trabalho 5&#215;2 e a necessidade de um ajuste nas contas públicas, o setor pode enfrentar um período de maior pressão sobre custos e margens. Em entrevista ao Radar da [&#8230;]",
+    "published": "2026-11-11T21:10:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O ano de 2027 promete trazer novos desafios para as empresas do varejo brasileiro. Com a transição da reforma tributária, as discussões sobre a escala de trabalho 5&#215;2 e a necessidade de um ajuste nas contas públicas, o setor pode enfrentar um período de maior pressão sobre c",
+    "relevance": 5
+  },
+  {
+    "source": "Financial Times",
+    "title": "US tech stocks rally as AI trade revives",
+    "link": "https://www.ft.com/content/639de881-6017-454f-abfa-cfb191d1e7cd?syn-25a6b1a6=1",
+    "description": "Nasdaq erases last week’s losses as CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment",
+    "published": "2026-11-11T21:04:17+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Nasdaq erases last week’s losses as CoreWeave results and prospect of higher Anthropic IPO valuation boost sentiment",
+    "relevance": 5
+  },
+  {
+    "source": "Estadão",
+    "title": "Reforma tributária: Existe, sim, risco de aumento de impostos, diz tributarista",
+    "link": "https://www.estadao.com.br/economia/reforma-tributaria-existe-sim-risco-de-aumento-de-impostos-diz-tributarista/",
+    "description": "",
+    "published": "2026-11-11T21:03:04+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Reforma tributária: Existe, sim, risco de aumento de impostos, diz tributarista",
+    "relevance": 5
+  },
+  {
+    "source": "NeoFeed",
+    "title": "Na Vivo, salto de 30% no lucro puxa rali na B3",
+    "link": "https://neofeed.com.br/negocios/na-vivo-salto-de-30-no-lucro-puxa-rali-na-b3/",
+    "description": "As ações da Telefônica Brasil, dona da Vivo, fecharam em alta de 5,14%, a R$ 34,17, no pregão desta quarta-feira, 11 de novembro, com os investidores reagindo positivamente ao balanço do terceiro trimestre de 2027. O Ibovespa avançou 0,51%. A operadora encerrou o período com lucro líquido de R$ 2,46 bilhões, alta de 30,1% sobre [&#8230;]\nO post Na Vivo, salto de 30% no lucro puxa rali na B3 apareceu primeiro em NeoFeed.",
+    "published": "2026-11-11T21:02:41+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "As ações da Telefônica Brasil, dona da Vivo, fecharam em alta de 5,14%, a R$ 34,17, no pregão desta quarta-feira, 11 de novembro, com os investidores reagindo positivamente ao balanço do terceiro trimestre de 2027. O Ibovespa avançou 0,51%. A operadora encerrou o período com lucr",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "A forma como a China está produzindo e vendendo aço não é legítima, diz CEO da Gerdau",
+    "link": "https://valor.globo.com/empresas/noticia/2026/11/11/a-forma-como-a-china-esta-produzindo-e-vendendo-aco-nao-e-legitima-diz-ceo-da-gerdau.ghtml",
+    "description": "O CEO da Gerdau, Gustavo Werneck, afirmou que a defesa comercial segue como a frente de atuação mais importante para os próximos períodos do ponto de vista da agenda para competitividade do aço na América Latina. Para ele, porém, o tema não pode impedir que outros assuntos que afetam o setor sejam discutidos.\n\n“O mundo tem regras a serem seguidas. A forma como a China está produzindo e vendendo aço não é legítima”, afirmou durante painel do Alacero Summit, evento sobre aço na América Latina que está sendo realizado na Cidade do México. \n\nPara o executivo, embora haja essa percepção quanto à defesa comercial, é preciso avançar em outros assuntos. “No caso específico do Brasil, as medidas estão sendo implementadas ao longo dos anos. Podemos discutir se são efetivas ou não. São problemas graves históricos na América Latina que precisam ser resolvidos porque depois da defesa comercial a gente ainda tem muita coisa para fazer”, afirmou.\n\nEntre as medidas ele citou a adoção do teto de gastos em 2016, as reformas trabalhista e previdenciária e, mais recentemente, a reforma tributária. O executivo mencionou também as iniciativas do governo federal para tornar o gás natural do país mais competitivo para a indústria, em referência ao leilão promovido recentemente pela PPSA. Já sobre os gargalos, citou a falta de crescimento da demanda de aço na América Latina. \n\nArcelorMittal Brasil\nNa mesma ocasião, o presidente da ArcelorMittal Brasil, Jorge Oliveira, afirmou que as medidas adotadas para frear a entrada de aço de outros países, em especial da China, “não são suficientes”. \nEle afirmou que, embora as medidas antidumping adotadas pelo governo brasileiro tenham diminuído a entrada do aço chinês, houve uma estabilização e avanço de outros países sobre o mercado brasileiro. Ele citou especificamente Vietnam, Coreia do Sul e Egito, já que este último conta com isenções tarifárias por conta de acordos feitos com o Mercosul.\n\n*A repórter viajou a convite da Alacero",
+    "published": "2026-11-11T20:50:22+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O CEO da Gerdau, Gustavo Werneck, afirmou que a defesa comercial segue como a frente de atuação mais importante para os próximos períodos do ponto de vista da agenda para competitividade do aço na América Latina. Para ele, porém, o tema não pode impedir que outros assuntos que af",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Senado aprova projeto que impede bloqueio de recursos de fundo de telecomunicações",
     "link": "https://oglobo.globo.com/economia/noticia/2026/11/11/senado-aprova-projeto-que-impede-bloqueio-de-recursos-de-fundo-de-telecomunicacoes.ghtml",
@@ -3864,141 +4001,6 @@
       "Politica"
     ],
     "summary": "Este texto é da newsletter diária do Guga Chacra, com informações e análises exclusivas. Clique aqui para se inscrever.\nPassadas as eleições nos Estados Unidos e em Israel, voltou o debate sobre se serão retomados os ataques ao Irã. Antes das votações, a maior parte dos analistas",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "BTG Pactual abre inscrições para o AgroForum, evento online e gratuito sobre o agronegócio",
-    "link": "https://www.moneytimes.com.br/btg-pactual-abre-inscricoes-para-o-agroforum-evento-online-e-gratuito-sobre-o-agronegocio-lbrdjm051/",
-    "description": "Evento acontece no dia 16 de novembro e busca ser ponto de encontro entre produtores e investidores do agronegócio",
-    "published": "2026-11-11T12:00:00+00:00",
-    "themes": [
-      "Mercado Financeiro",
-      "XP"
-    ],
-    "summary": "Evento acontece no dia 16 de novembro e busca ser ponto de encontro entre produtores e investidores do agronegócio",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "PF x PF: disputa pelo comando do órgão e de investigações do Master e do INSS está por trás de crise interna",
-    "link": "https://g1.globo.com/politica/blog/andreia-sadi/post/2026/11/11/pf-x-pf-disputa-pelo-comando-do-orgao-e-de-investigacoes-do-master-e-do-inss-esta-por-tras-de-crise-interna.ghtml",
-    "description": "A crise interna na Polícia Federal em torno de um relatório com citações a ministros do Supremo Tribunal Federal (STF) tem, na avaliação de investigadores, um pano de fundo maior: uma disputa de poder e de influência sobre o comando de investigações sensíveis, entre elas as que envolvem o Banco Master e o INSS.\nSegundo relatos feitos à coluna, a avaliação na direção da PF é de que um grupo identificado com o bolsonarismo apostava na vitória de Flávio Bolsonaro na eleição presidencial e, com isso, numa mudança no comando da corporação. Com a derrota de Flávio, a disputa teria se deslocado para dentro da própria instituição.\nA leitura é de que esse grupo tenta agora ampliar sua influência sobre investigações estratégicas e desgastar a atual direção da PF.\nAgora no g1\nDo outro lado, integrantes do grupo ligado à Associação Nacional dos Delegados de Polícia Federal (ADPF) acusam o comando da corporação de proteger o ministro Alexandre de Moraes, próximo do diretor-geral da PF, Andrei Rodrigues. O grupo também aponta a proximidade de Andrei com o presidente Lula, responsável por sua indicação ao cargo.\nO novo capítulo dessa disputa é um relatório com referências a ministros do STF.\nDe acordo com a versão da cúpula da PF, a determinação do ministro Edson Fachin era clara: reunir todas as referências a integrantes do Supremo encontradas no material analisado e encaminhá-las à Corte, a quem caberia decidir sobre eventuais aprofundamentos das investigações.\nLEIA TAMBÉM\nPF vai refazer relatórios sobre ministros do STF citados no caso Master\nDiretor-geral da PF rompe com associação de delegados em meio a divergências políticas\nO documento deveria conter uma introdução com a identificação do material analisado, seguida das referências a cada ministro e dos respectivos registros. Ao final, a PF deveria apenas informar que permaneceria à disposição do Supremo para eventuais diligências.\nMas, segundo os relatos, os responsáveis pelo documento teriam recuperado informações de relatórios anteriores, como o do ministro Dias Toffoli e já rechaçado pelo STF, incluído referências a três  ministros- mas deixado de fora parte das citações identificadas. O relatório teria sido assinado e inserido no sistema sem consulta prévia à direção da corporação, contrariando a orientação recebida por Edson Fachin.\nNa avaliação de integrantes da cúpula da PF, a forma como o documento foi produzido alimenta a narrativa de que a atual direção tenta proteger Alexandre de Moraes, interpretação rejeitada internamente.\nA cúpula da PF sustenta que não cabe à Polícia Federal escolher quais ministros serão investigados. Essa decisão, segundo a direção da corporação, compete ao Supremo Tribunal Federal.\nA avaliação é de que a PF deve apresentar todas as informações encontradas, sem omissões ou seleções, para que o STF decida sobre a necessidade de aprofundar as apurações.\nPara a direção da PF, portanto, a controvérsia não se resume ao conteúdo de um relatório. O que estaria em jogo seria uma disputa interna por poder, influência e controle sobre os rumos de investigações de grande repercussão política, especialmente as relacionadas ao Master e ao INSS.\nNos bastidores, a avaliação é de que setores que esperavam assumir protagonismo numa eventual gestão Flávio Bolsonaro agora tentam disputar espaço e desgastar a atual cúpula da corporação.",
-    "published": "2026-11-11T11:59:17+00:00",
-    "themes": [
-      "Politica",
-      "XP"
-    ],
-    "summary": "A crise interna na Polícia Federal em torno de um relatório com citações a ministros do Supremo Tribunal Federal (STF) tem, na avaliação de investigadores, um pano de fundo maior: uma disputa de poder e de influência sobre o comando de investigações sensíveis, entre elas as que e",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Por que as ações da Nvidia podem estar baratas mesmo com maior escrutínio sobre Jensen Huang",
-    "link": "https://valor.globo.com/empresas/noticia/2026/11/11/por-que-as-aes-da-nvidia-podem-estar-baratas-mesmo-com-maior-escrutnio-sobre-jensen-huang.ghtml",
-    "description": "As ações da Nvidia vêm sofrendo fortes perdas em meio ao crescente escrutínio sobre seu diretor-presidente, Jensen Huang. Mas, segundo Wall Street, os papéis ainda estão baratos.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-11T11:55:11+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "As ações da Nvidia vêm sofrendo fortes perdas em meio ao crescente escrutínio sobre seu diretor-presidente, Jensen Huang. Mas, segundo Wall Street, os papéis ainda estão baratos.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu c",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Petrobras, Banco do Brasil, Fleury, Bradsaúde, GPA e mais ações para acompanhar hoje",
-    "link": "https://www.infomoney.com.br/mercados/petrobras-banco-do-brasil-fleury-bradsaude-gpa-e-mais-acoes-para-acompanhar-hoje/",
-    "description": "Confira os principais destaques desta quarta-feira (11)\nThe post Petrobras, Banco do Brasil, Fleury, Bradsaúde, GPA e mais ações para acompanhar hoje appeared first on InfoMoney.",
-    "published": "2026-11-11T11:54:54+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Confira os principais destaques desta quarta-feira (11)\nThe post Petrobras, Banco do Brasil, Fleury, Bradsaúde, GPA e mais ações para acompanhar hoje appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Fim da escala 6×1: Flávio Dino deve se pronunciar até sexta-feira",
-    "link": "https://www.infomoney.com.br/brasil/fim-da-escala-6x1-flavio-dino-deve-se-pronunciar-ate-sexta-feira/",
-    "description": "Ministro descarta suspender emenda à Constituição ou autorizar continuidade da jornada atual e diz que decisão vai remover inseguranças jurídicas\nThe post Fim da escala 6&#215;1: Flávio Dino deve se pronunciar até sexta-feira appeared first on InfoMoney.",
-    "published": "2026-11-11T11:53:36+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Ministro descarta suspender emenda à Constituição ou autorizar continuidade da jornada atual e diz que decisão vai remover inseguranças jurídicas\nThe post Fim da escala 6&#215;1: Flávio Dino deve se pronunciar até sexta-feira appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Balanço da CoreWeave anima mercado de semicondutores e ações saltam 13%; veja os melhores números",
-    "link": "https://www.moneytimes.com.br/balanco-da-coreweave-anima-mercado-de-semicondutores-e-acoes-saltam-13-veja-os-melhores-numeros-rens/",
-    "description": "A CoreWeave (NASDAQ: CRWV), empresa especializada em infraestrutura de nuvem voltada para inteligência artificial, publicou seu balanço referente ao terceiro trimester de 2026 (3T26) na noite de ontem (10) e ajudou a animar o setor de chips e semicondutores. A expansão dos negócios foi impulsionada pela alta demanda por capacidade computacional para inteligência artificial (IA). [&#8230;]",
-    "published": "2026-11-11T11:49:09+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A CoreWeave (NASDAQ: CRWV), empresa especializada em infraestrutura de nuvem voltada para inteligência artificial, publicou seu balanço referente ao terceiro trimester de 2026 (3T26) na noite de ontem (10) e ajudou a animar o setor de chips e semicondutores. A expansão dos negóci",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Fundo imobiliário anuncia saída de inquilina de galpão em Guarulhos; ativo representa 16,8% da receita do FII",
-    "link": "https://www.moneytimes.com.br/fundo-imobiliario-anuncia-saida-de-inquilina-de-galpao-em-guarulhos-ativo-representa-168-da-receita-do-fii-igdl/",
-    "description": "O fundo imobiliário Zavit Real Estate (ZAVI11) anunciou, por meio de fato relevante, que a atual inquilina de um de seus imóveis, localizado em Guarulhos (SP), decidiu não renovar o contrato de locação, que tem vencimento previsto para março de 2028. De acordo com o comunicado divulgado ao mercado, a desocupação, segundo o planejamento informado [&#8230;]",
-    "published": "2026-11-11T11:47:24+00:00",
-    "themes": [
-      "Fundos Imobiliarios"
-    ],
-    "summary": "O fundo imobiliário Zavit Real Estate (ZAVI11) anunciou, por meio de fato relevante, que a atual inquilina de um de seus imóveis, localizado em Guarulhos (SP), decidiu não renovar o contrato de locação, que tem vencimento previsto para março de 2028. De acordo com o comunicado di",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Espaçolaser (ESPA3) anuncia novo CFO; veja quem assume",
-    "link": "https://www.moneytimes.com.br/espacolaser-espa3-anuncia-novo-cfo-veja-quem-assume-lmrs/",
-    "description": "O conselho de administração da Espaçolaser (ESPA3) aprovou a eleição de Pedro Felipe Victorino Mendes Gonçalves para os cargos de diretor financeiro e de relações com investidores (RI), mostra fato relevante divulgado na noite de terça-feira (10). Ele substitui Magali Rogéria de Moura Leite, que vinha acumulando as funções desde a renúncia de Fabio Itikawa [&#8230;]",
-    "published": "2026-11-11T11:46:42+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O conselho de administração da Espaçolaser (ESPA3) aprovou a eleição de Pedro Felipe Victorino Mendes Gonçalves para os cargos de diretor financeiro e de relações com investidores (RI), mostra fato relevante divulgado na noite de terça-feira (10). Ele substitui Magali Rogéria de ",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Petrobras: ações em NY caem no pré-market após resultado, proventos e novas projeções",
-    "link": "https://www.infomoney.com.br/mercados/petrobras-petr3-petr4-desempenho-acoes-resultados-3t26-proventos-novas-projecoes/",
-    "description": "A Petrobras fechou o terceiro trimestre de 2026 com lucro líquido de R$ 39,7 bilhões, alta de 21,5%, mas provento menor e capex maior frustraram\nThe post Petrobras: ações em NY caem no pré-market após resultado, proventos e novas projeções appeared first on InfoMoney.",
-    "published": "2026-11-11T11:40:45+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A Petrobras fechou o terceiro trimestre de 2026 com lucro líquido de R$ 39,7 bilhões, alta de 21,5%, mas provento menor e capex maior frustraram\nThe post Petrobras: ações em NY caem no pré-market após resultado, proventos e novas projeções appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "BRB ajuíza ação contra sete ex-administradores ligados a escândalo do Master",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/11/brb-ajuiza-acao-contra-sete-ex-administradores-ligados-a-escandalo-do-master.ghtml",
-    "description": "O Banco de Brasília (BRB) informou que ajuizou ação de responsabilidade civil contra sete ex-administradores da instituição, após autorização concedida pelos acionistas em Assembleia Geral Extraordinária realizada em 24 de agosto. Segundo o banco distrital, a ação busca o ressarcimento de prejuízos relacionados a operações realizadas com o ecossistema Master/Reag.\n\nSão réus da ação os ex-administradores Paulo Henrique Bezerra Rodrigues Costa, Cristiane Maria Lima Bukowitz, Dario Oswaldo Garcia Júnior, Luana de Andrade Ribeiro, Diogo Ilário de Araújo Oliveira, José Maria Correa Dias Junior e Marcelo Talarico. “A ação foi fundamentada em apurações conduzidas pelo banco, além de documentos e informações encaminhados às autoridades competentes.”\n\nNa ação, o BRB requer a responsabilização civil dos ex-administradores por atos praticados no âmbito das operações que são objeto do processo. “Com a medida, o banco busca recompor seu patrimônio e resguardar os interesses de seus acionistas.”\n\nO banco diz que a atual administração promoveu a substituição integral da diretoria executiva, revisou estruturas e processos de controle, fortaleceu os mecanismos de governança e conformidade e implementou medidas para ampliar a supervisão e a gestão de riscos. “A ação judicial integra esse conjunto de iniciativas voltadas à apuração dos fatos, à responsabilização dos envolvidos e à recuperação de recursos para o patrimônio da instituição”.\n\nA demanda também contempla as empresas Allora S.A., Lenore S.A., Stanza S.A., Domani S.A., Chesapeake S.A. e Milano S.A., em relação às quais foram formulados pedidos de natureza patrimonial. Segundo elementos  da investigação conduzida pela Polícia Federal, referidos na ação, seis imóveis, localizados nos empreendimentos Heritage, Arbórea Itaim, One Sixty Cyrela by Yoo e Casa Lafer, em São Paulo (SP), e nos Residenciais Ennius Muniz e Valle dos Ipês, em Brasília (DF), de titularidade formal das referidas pessoas jurídicas, teriam sido destinados ao ex-CEO, Paulo Henrique Costa, e seus familiares como vantagem indevida no contexto das operações com o Banco Master.",
-    "published": "2026-11-11T11:39:55+00:00",
-    "themes": [
-      "XP"
-    ],
-    "summary": "O Banco de Brasília (BRB) informou que ajuizou ação de responsabilidade civil contra sete ex-administradores da instituição, após autorização concedida pelos acionistas em Assembleia Geral Extraordinária realizada em 24 de agosto. Segundo o banco distrital, a ação busca o ressarc",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Mercado deve reagir a plano de ajuste fiscal de Lula; petróleo e dólar sobem no exterior",
-    "link": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
-    "description": "Mercado deve reagir a plano de ajuste fiscal de Lula; petróleo e dólar sobem no exterior Liquidez tende a ser reduzida pelo feriado do Dia do Veterano nos EUA, o que mantém o mercado de Treasuries fechado nesta quarta-feira Manhã no mercado: Plano de ajuste fiscal pode dar apoio a ativos locais em dia de liquidez menor",
-    "published": "2026-11-11T11:37:01+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Mercado deve reagir a plano de ajuste fiscal de Lula; petróleo e dólar sobem no exterior Liquidez tende a ser reduzida pelo feriado do Dia do Veterano nos EUA, o que mantém o mercado de Treasuries fechado nesta quarta-feira Manhã no mercado: Plano de ajuste fiscal pode dar apoio ",
     "relevance": 5
   }
 ]
