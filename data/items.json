@@ -1,5 +1,42 @@
 [
   {
+    "source": "NeoFeed",
+    "title": "O IPO de US$ 1,4 trilhão da Anthropic é grande demais para fracassar?",
+    "link": "https://neofeed.com.br/negocios/o-ipo-de-us-14-trilhao-da-anthropic-e-grande-demais-para-fracassar/",
+    "description": "A oferta pública inicial de ações (IPO) da Anthropic chegou ao ponto do &#8220;too big to fail&#8221;? Com plano de levantar até US$ 90 bilhões, a dona do Claude terá de provar nos próximos dias que está grande demais para fracassar. Um bem-sucedido IPO da companhia, que deu início ao seu roadshow com investidores antes [&#8230;]\nO post O IPO de US$ 1,4 trilhão da Anthropic é grande demais para fracassar? apareceu primeiro em NeoFeed.",
+    "published": "2026-11-11T17:42:21+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A oferta pública inicial de ações (IPO) da Anthropic chegou ao ponto do &#8220;too big to fail&#8221;? Com plano de levantar até US$ 90 bilhões, a dona do Claude terá de provar nos próximos dias que está grande demais para fracassar. Um bem-sucedido IPO da companhia, que deu iníc",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Política de minerais críticos vai priorizar imãs, baterias e fertilizantes",
+    "link": "https://www.poder360.com.br/poder-infra/politica-de-minerais-criticos-vai-priorizar-imas-baterias-e-fertilizantes/",
+    "description": "Secretário de Mineração sinaliza cadeias que serão classificadas como prioritárias para liberação de instrumentos fiscais e de financiamento",
+    "published": "2026-11-11T17:33:32+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Secretário de Mineração sinaliza cadeias que serão classificadas como prioritárias para liberação de instrumentos fiscais e de financiamento",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "A conta da demora fiscal",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/solange-srour/2026/11/a-conta-da-demora-fiscal.shtml",
+    "description": "A demora na resposta ao desequilíbrio fiscal pode levar o Brasil a uma combinação de recessão e inflação alta em 2027. A economia já perdia dinamismo, e as perspectivas pioraram. A pressão não vem só da política monetária: a expansão dos gastos e do crédito subsidiado agravou a percepção de risco fiscal, elevou os juros longos e freou consumo e investimento.\nLeia mais (11/11/2026 - 14h30)",
+    "published": "2026-11-11T17:30:00+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "A demora na resposta ao desequilíbrio fiscal pode levar o Brasil a uma combinação de recessão e inflação alta em 2027. A economia já perdia dinamismo, e as perspectivas pioraram. A pressão não vem só da política monetária: a expansão dos gastos e do crédito subsidiado agravou a p",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Gilmar Mendes e Barroso elogiam decisão de Fachin de encerrar inquérito das 'fake news'",
     "link": "https://valor.globo.com/politica/noticia/2026/11/11/gilmar-mendes-e-barroso-elogiam-decisao-de-fachin-de-encerrar-inquerito-das-fake-news.ghtml",
@@ -73,7 +110,13 @@
       "Politica"
     ],
     "summary": "O empresário Ricardo Magro, ex-dono Refit, no Rio de Janeiro, voltou a ser alvo de operação sobre fraudes relacionadas à refinaria nesta quarta-feira (11). Ele e quatro parentes foram alvos de mandados de prisão preventiva no âmbito da Operação Charon, deflagrada pelo Ministério ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-seguranca-publica/saiba-quem-e-ricardo-magro-indicado-como-maior-fraudador-do-pais/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -1701,7 +1744,13 @@
       "Politica"
     ],
     "summary": "Isenção de Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU) foi o incentivo econômico mais frequentemente administrado por prefeituras em 2025. A informação consta da 22ª edição da Pesquisa de Informações Básicas Municipais (Munic 2025), divulgada nesta quarta-feir",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/brasil/ibge-isencao-de-iptu-foi-o-incentivo-economico-mais-usado-por-prefeituras-em-2025/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3890,43 +3939,6 @@
       "Politica"
     ],
     "summary": "A Procuradoria-Geral da República (PGR) considera possível encerrar, até o final do ano, a análise dos 104 casos derivados do inquéritos das fake news, após o arquivamento da chamada \"investigação matriz\" na segunda-feira. A projeção depende do ritmo do presidente do Supremo Trib",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Fora da comitiva de Lula na COP, Marina Silva tem presença incerta no próximo governo",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/11/11/fora-da-comitiva-de-lula-na-cop-marina-silva-tem-presenca-incerta-no-proximo-governo.ghtml",
-    "description": "A presença da ex-ministra do Meio Ambiente Marina Silva (Rede) no quarto mandato do presidente Luiz Inácio Lula da Silva (PT) é incerta. Ainda que a redução do desmatamento durante sua gestão tenha sido ressaltada durante o discurso de vitória do petista, no mês passado, as chances de retorno ao comando da pasta a partir do ano que vem são remotas. O cenário é derivado da pressão por troca na posição tanto em uma ala do governo Lula quanto no Congresso.\nOAB celebra fim do inquérito das fake news: 'Nenhuma investigação pode se prolongar indefinidamente'\nMovimentação: Cleitinho busca se aproximar de Lula e do PT em Minas após apoio a Flávio Bolsonaro na campanha\nMarina deixou o ministério do Meio Ambiente em abril para disputar o Senado em São Paulo, mas não foi eleita. Ela foi sucedida pelo aliado João Paulo Capobianco. A gestão teve índices positivos na redução do desmatamento: em 2026, a Amazônia teve o menor nível de devastação desde 1988, quando o monitoramento do Projeto de Monitoramento do Desmatamento na Amazônia Legal por Satélite (Prodes) foi iniciado. O Cerrado seguiu a tendência e alcançou a taxa mais baixa desde 2001, quando teve início a série histórica.\nOs resultados estão entre as bandeiras que o governo Lula leva para a 31ª edição da Conferência das Nações Unidas sobre Mudanças Climáticas (COP), na Turquia, nesta semana. O presidente participa do evento até hoje e levou uma comitiva composta por nomes como Capobianco, o deputado André Janones e o ministro de Minas e Energia, Alexandre Silveira (PSD), com quem a ala ambientalista do governo colecionou embates.\nMarina não foi convidada para a comitiva e está na conferência em agenda própria, como deputada e membro da comissão de meio ambiente e desenvolvimento sustentável da Câmara. Até o momento, não houve uma conversa da deputada com o presidente sobre seu eventual retorno no próximo mandato. Caso Marina não esteja à frente do ministério, esse seria o primeiro mandato de Lula sem ela à frente da pasta.\n— Eu encaro a política como um serviço. Quero ainda trabalhar muito pelas causas que eu acredito da forma como for mais adequada — afirmou Marina ontem, em entrevista ao SBT News, ao ser perguntada sobre seu papel no próximo governo.\nAmbientalistas ouvidos pelo GLOBO criticam a participação de Silveira na comitiva brasileira da COP31. O ministro entrou em conflito com as pastas do Meio Ambiente e da Fazenda na elaboração de um documento brasileiro voltado à transição energética. A formulação foi determinada por Lula após a presidência brasileira da COP30, em Belém, não conseguir que o afastamento dos combustíveis fósseis estivesse no documento final do evento.\n— O Ministério de Minas e Energia atrapalhou muito a formulação desse “mapa do caminho” nacional. A presença dele (Silveira) na COP31 se justifica pelo contexto global, mas enfraquece simbolicamente a posição de Lula no âmbito ambiental — diz Délcio Rodrigues, diretor do instituto ClimaInfo e coordenador do Observatório do Clima.\nProcurada, a pasta de Minas e Energia não respondeu.\nO governo Lula discute, porém, a possibilidade de concretizar uma promessa da agenda ambiental feita pelo presidente na campanha de 2022: a criação de uma autoridade climática. Marina é cotada para assumir o posto, caso ele saia do papel no próximo mandato. Já o ex-senador e engenheiro florestal Jorge Viana (PT) é um dos nomes no páreo para comandar a pasta do meio ambiente, uma vez que a permanência de Capobianco é vista internamente como pouco provável.\nA criação desta autoridade seria o último passo de um processo que depende da aprovação de um marco legal da emergência climática. Ao longo dos últimos meses, inclusive na campanha ao Senado, Marina tem dito que apresentaria o projeto. O mandato dela na Câmara vai até 31 de janeiro do ano que vem. Questionado sobre o tema, o governo Lula não se manifestou.\nRelação tensa\nNo Lula 3, Marina enfrentou dificuldades na relação com o Congresso e com alas do governo, sobretudo com Silveira e com o ex-ministro da Casa Civil Rui Costa (PT). Entre as derrotas da ex-ministra estão a flexibilização do licenciamento ambiental, os desdobramentos quanto à exploração de petróleo na Margem Equatorial e o avanço das obras de asfaltamento da rodovia BR-319, que liga Manaus a Porto Velho, contendo um dos trechos mais preservados da Amazônia.\nLevantamento do Observatório do Clima aponta que a nova composição parlamentar deverá reunir deputados e senadores ainda menos alinhados à agenda ambiental. O cenário preocupa entidades, que cobram a permanência do grupo político de Marina à frente da pasta.\n— Pela competência histórica e peso político no âmbito internacional, a ausência de Marina no ministério seria uma perda não só para o governo Lula, mas para todo o campo socioambiental — afirma Gabriela Nepomuceno, especialista em relações governamentais do Greenpeace Brasil.",
-    "published": "2026-11-11T06:30:01+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A presença da ex-ministra do Meio Ambiente Marina Silva (Rede) no quarto mandato do presidente Luiz Inácio Lula da Silva (PT) é incerta. Ainda que a redução do desmatamento durante sua gestão tenha sido ressaltada durante o discurso de vitória do petista, no mês passado, as chanc",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Relatórios do caso Master e choque com delegados expõem crise na PF e pressionam Andrei Rodrigues",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/11/11/relatorios-do-caso-master-e-choque-com-delegados-expoem-crise-na-pf-e-pressionam-andrei-rodrigues.ghtml",
-    "description": "A ordem para a “adequação” de relatórios da Polícia Federal sobre a conduta de ministros do Supremo Tribunal Federal (STF) no caso Master gerou uma guerra de versões e evidenciou um racha na corporação, agravados pelo afastamento de dois delegados das investigações. Ao conduzir uma reestruturação de diretorias e coordenadorias, o diretor-geral da PF, Andrei Rodrigues, passou a ser criticado publicamente por servidores. A crise interna escalou na terça-feira, quando se tornou pública a saída dele da Associação de Delegados da Polícia Federal (ADPF), que por sua vez apontou “interferência” do chefe nas apurações. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-11T06:30:01+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A ordem para a “adequação” de relatórios da Polícia Federal sobre a conduta de ministros do Supremo Tribunal Federal (STF) no caso Master gerou uma guerra de versões e evidenciou um racha na corporação, agravados pelo afastamento de dois delegados das investigações. Ao conduzir u",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Fogo amigo: enquanto Lula não confirma se Margareth Menezes ficará no MinC, setor se divide entre clamor por mudanças e apoio à ministra",
-    "link": "https://oglobo.globo.com/cultura/noticia/2026/11/11/fogo-amigo-enquanto-lula-nao-confirma-se-margareth-menezes-ficara-no-minc-setor-se-divide-entre-clamor-por-mudancas-e-apoio-a-ministra.ghtml",
-    "description": "A disputa por cargos e as especulações sobre nomes a comandar ministérios, comuns a cada novo ciclo presidencial (mesmo dentro de um contexto de reeleição), vêm movimentando a Cultura com uma celeridade e avidez raras até para pastas de maior orçamento e poder. As cobranças começaram em setembro — antes mesmo do segundo turno em que Luiz Inácio Lula da Silva derrotou Flávio Bolsonaro —, quando foi divulgado o manifesto “A Cultura está com Lula e pede mudanças”. Embora celebrasse a reconstrução do Ministério da Cultura (MinC) por Margareth Menezes, empossada em janeiro de 2023 após a gestão Bolsonaro (2019-2022), quando a pasta foi rebaixada à condição de secretaria, o documento, com mais de 700 signatários, reclamou avanços maiores, avaliando que as “políticas culturais atuais estão aquém da potência do setor e exigem um salto qualitativo urgente” e ser “preciso coragem, retomar o brilho de gestões anteriores, em que os diversos segmentos artísticos sentiam os avanços como palpáveis”.\nMais que humor: mostra 'Meme' chega ao CCBB do Rio após eleição marcada por disputa digital, reforçando poder político dos conteúdos virais\nMargareth Menezes: 'Esta gestão não apenas reconstruiu o MinC, como também promoveu avanços históricos'\nApós a eleição, no início deste mês, um novo abaixo-assinado, intitulado “Manifesto por mudanças na Cultura Lula 4”, ressaltou o endosso do segmento à campanha petista, embora frisando que o “apoio não se deu pelo resultado da atual gestão do MinC nesses quatro anos”. De forma mais enfática que a petição anterior, o último documento, atualmente com mais de 1.200 assinaturas, clama por uma “mudança profunda no Ministério da Cultura para a próxima gestão” e “uma renovação no comando e na condução da pasta, e também uma mudança estrutural na visão do Estado brasileiro sobre a cultura”.\nEntre os problemas apontados no texto, está a perda de “6,7 milhões de leitores em um intervalo de quatro anos” ou a média do cinema nacional que não atingiu “10% dos ingressos vendidos no Brasil, deixando o mercado ocupado pelo produto estrangeiro”. O documento foi subscrito por nomes como os atores Bruno Gagliasso, Caio Blat, Patrícia Pillar, Bete Mendes e Johnny Massaro — que, após a repercussão, disse em suas redes não ter dedicado “ao texto a atenção que deveria” e apoiou a ministra —; os cineastas Eryk Rocha, Jefferson De, Anna Muylaert , Laís Bodanzky e Lúcia Murat; os escritores Xico Sá, Fernando Morais, Eucanaã Ferraz e Ruth Rocha; os artistas visuais Paulo Bruscky, Paulo Nazareth e Nuno Ramos; além de entidades como o Movuca (Movimento Urgente de Trabalhadores da Cultura do Rio de Janeiro), Fórum Nacional de Dança e o Sated-MG (Sindicato dos Artistas e Técnicos em Espetáculos de Diversões).\n'Somos museus': Série estreia no Canal Futura e no Globoplay, destacando 60 instituições de todo o Brasil\nDiante da pressão sobre a ministra, apoiadores foram às redes sociais criticando os manifestos e seus signatários, levantando questões alheias à desaprovação da gestão, como supostos preconceitos regionais, raciais e de gênero em relação a Margareth Menezes. No dia 7, a cantora postou um vídeo em suas redes agradecendo a confiança do presidente e as manifestações de apoio, dizendo-se aberta às críticas, desde que feitas com respeito, e reconhecendo que ainda há mais a fazer. Até o momento, com mais de 38 mil curtidas, a publicação teve comentários de nomes como os escritores Itamar Vieira Junior e Conceição Evaristo; as cantoras Fafá de Belém, Teresa Cristina, Emanuelle Araujo, Maria Gadú, Luedji Luna e Buhr; as atrizes Camila Pitanga, Leticia Sabatella e Ana Beatriz Nogueira; os artistas visuais Ronald Duarte, Hal Wildson, Rosana Paulino, Renata Felinto e Manuela Navas. Margareth foi prestigiada também por mensagens de Caetano Veloso, Maria Bethânia, Daniela Mercury, Juliana Alves, Sandra de Sá e Olodum.\nEm resposta ao recente manifesto, o produtor cultural e curador Afonso Oliveira, idealizador do Festival Canavial, em Pernambuco, postou uma carta aberta em seu perfil no Instagram ao presidente, defendendo a permanência de Margareth e as marcas de sua gestão no MinC. Desde então, tem feito postagens diárias rebatendo pontos do texto crítico à gestão.\n— Primeiro, estranhei bastante esse manifesto ser divulgado logo após uma eleição muito dura, em que houve uma grande união contra o projeto de extrema direita. Me incomodou o tom autoritário, de exclusão total das pessoas que trabalham com a cultura popular, de falar de uma certa unanimidade do setor cultural brasileiro, como se ele fosse apenas formado por artistas convencionais — comenta Oliveira. — Falaram que queríamos cancelar o debate, mas queremos que ele seja ampliado. Que não se fale em “pulverização dos recursos” quando, pela primeira vez, eles chegam a cidades de cinco mil habitantes, como vi aqui na Zona da Mata pernambucana. Isso não é pulverizar, é compartilhar. E não acho que seja coincidência que aconteça quando é uma mulher negra, baiana, de terreiro, na pasta. Não vi essa mobilização contra as gestões da Marta Suplicy ou da Ana de Hollanda, que também foram muito criticadas.\nMas a contraofensiva aos manifestos críticos à atual gestão do MinC também acirrou os ânimos e expôs alguns dos seus signatários, como os cineastas Guto Parente, Rosemberg Cariry, e seu filho, Petrus Cariry, e Wolney Oliveira, tachados de “inimigos do MinC no Ceará” em uma publicação nas redes sociais.\n— A ideia da carta era abrir uma conversa, e acabou coincidindo com outras manifestações que geraram um ataque à ministra e ao MinC que eu não compactuo. O post do Instagram que cita meu nome e de vários outros cineastas e militantes da cultura cearense é superequivocado, feito totalmente fora contexto. Respeito muito tudo o que a ministra Margareth construiu no ministério — justifica o cineasta Wolney Oliveira.\nPostagem contra asrtistas cearenses que assinaram manifesto\nReprodução\nOutro incômodo veio com as acusações de racismo ou machismo dos que apontaram problemas na condução da pasta nos últimos quatro anos, por pessoalizar as críticas, incluindo nomes que historicamente militam nessas causas, a exemplo do cineasta Joel Zito Araújo, autor de longas como “A negação do Brasil” (2000) e “Raça” (2013).\n— Desde o primeiro manifesto, que circulou antes do final do primeiro turno, e que era de apoio à reeleição de Lula, já se pedia mudanças na Cultura. O MinC não pode ignorar que existe uma enorme insatisfação, de Norte a Sul, Leste a Oeste, com a atual gestão da Cultura — diz Joel Zito. — Esse último manifesto teve 1.200 assinaturas, com artistas reconhecidos e com o chão de fábrica da produção cultural de todas as áreas. E muitos artistas negros e negras de várias regiões estão entre os insatisfeitos. É um absurdo reduzir ou distorcer isso, tratando como se fosse uma reação à condição de mulher e de negra da ministra ou da secretária do audiovisual. O que precisa ser compreendido é que a Cultura precisa passar por mudanças, precisar avançar muito mais, sair de uma certa paralisia, em que a Ancine é o maior exemplo.\nEm nota pública, as entidades Conexão Audiovisual Centro-Oeste, Norte e Nordeste, Fórum Nacional de Dança, Movimento A Dança se Move (São Paulo), Movimento Hip Hop Organizado, Cooperativa Paulista de Teatro, Associação das Produtoras de Cinema e Audiovisual de Brasília, Associação Paulista de Cineastas e Movuca dizem que se solidarizam com os artistas que assinaram o manifesto pela mudança no Minc e estão sendo ameaçados.\nProcurado, o MinC informou que não se manifestaria.\nDefinições, só após volta de Lula\nMesmo a proximidade de Margareth Menezes e do secretário executivo do MinC, Márcio Tavares, com a primeira-dama, Janja Lula da Silva, não evitou especulações de outros nomes para o MinC, como o cantor Chico César, a presidente da Funarte e deputada federal Maria Marighella (PT-BA), o senador Randolfe Rodrigues (PT-AP) ou o ex-ministro Juca Ferreira. O prestígio da ministra foi ratificado em episódios como a sua participação na live da vitória de Lula com o deputado federal André Janones (Avante-MG), no dia 5, em que o presidente prometeu à cantora baiana que “a economia criativa será uma coisa muito forte, que irá impulsionar a economia brasileira”.\nNa mesma data, em que se comemora o Dia Nacional da Cultura, Margareth, Janja e Tavares assinaram o artigo “Mais cultura, mais diversidade, mais Brasil” publicado no GLOBO, destacando feitos da gestão, como os R$ 3,8 bilhões repassados aos 98% dos municípios que aderiram à Lei Paulo Gustavo; a previsão de até R$ 15 bilhões, em cinco ciclos, da Política Nacional Aldir Blanc; ou as linhas especiais da Lei Rouanet para atender Norte e Nordeste e projetos das favelas e de jovens.\nNenhum ministério deve ser definido pelo presidente até o fim de seu primeiro roteiro internacional após a reeleição, passando por Antália, na Turquia, para a Cúpula de Líderes da COP31, hoje e amanhã, seguido de participação na 49ª Reunião de Cúpula da Associação de Nações do Sudeste Asiático (Asean), em Manila, nas Filipinas — a volta está prevista para segunda-feira. Em entrevista ao GLOBO no dia 30, Margareth disse estar “à disposição do presidente” para seguir na pasta.\nUma ala defende mais entendimento no setor cultural, para que a gestão do MinC no quarto mandato de Lula seja aprimorada, independentemente do nome que ocupe a cadeira a partir de 2027. É o caso do artista visual e gestor cultural paulistano Ricardo Ribenboim, que assinou o manifesto de setembro, mas se solidarizou com a ministra em seu vídeo nas redes sociais.\n— É fundamental mantermos o diálogo, e que fique claro que Margareth não está sendo crucificada. Há todo um reconhecimento do trabalho de reconstrução do MinC, dos avanços na Região Norte, da ampliação dos pontos de cultura. Começou-se a falar em troca, e surgiram nomes como o do Juca (Ferreira), que fez um trabalho de excelência, o que não quer dizer que a Margareth também não tenha feito. E, caso fosse confirmada uma mudança, o setor gostaria de ser consultado — comenta Ribenboim. — Muitas coisas foram feitas e, obviamente, há muitas a fazer, como em qualquer gestão. São temas importantes, como os 2% do Orçamento (da União) para a Cultura, que defendo desde a época de Gilberto Gil no ministério, ou mais garantias para os trabalhadores do setor. Com diálogo podemos chegar a um cronograma de ação, dentro do projeto que foi vencedor nas eleições.",
-    "published": "2026-11-11T06:30:01+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "A disputa por cargos e as especulações sobre nomes a comandar ministérios, comuns a cada novo ciclo presidencial (mesmo dentro de um contexto de reeleição), vêm movimentando a Cultura com uma celeridade e avidez raras até para pastas de maior orçamento e poder. As cobranças começ",
     "relevance": 5
   }
 ]
