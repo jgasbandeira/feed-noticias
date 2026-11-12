@@ -1,5 +1,41 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Lucro da Yduqs cresce 20% no 3º trimestre",
+    "link": "https://valor.globo.com/empresas/noticia/2026/11/12/lucro-da-yduqs-cresce-20percent-no-3o-trimestre.ghtml",
+    "description": "A Yduqs registrou um lucro líquido de R$  117,6 milhões no terceiro trimestre, o que representa um incremento de 20,1% sobre um ano antes. Considerando o indicador ajustado, a companhia apurou uma queda de 10%, para R$ 138,9 milhões.\n\nO lucro antes de juros, impostos, depreciação e amortização (Ebitda) ajustado caiu 3,4%, para R$ 490,3 milhões, no trimestre. A margem do respectivo indicador teve redução de 1,9 ponto percentual, para 35,7%. A receita líquida ficou em R$ 1,3 bilhão, alta de 1,7%, entre julho e setembro. \n\nO fluxo de caixa livre da companhia subiu 11,7%, para R$ 350,1 milhões, entre julho e setembro, e as despesas gerais e comerciais subiram 1,4%, para R$ 530 milhões. \n\nNa Estácio, o volume de alunos da graduação caiu 6,6%, para 737,7 mil, devido ao desempenho negativo nas modalidades presencial (-1,4%) e digital (-20,7%). Já no semipresencial, houve expansão de 49,7%.\n\nA mensalidade média subiu 8% no presencial,  mas caiu 6,2% e 1,2% no semi e digital, respectivamente, para alunos veteranos. Entre os calouros, o tíquete subiu 8,1% nos cursos ministrados em sala de aula, 17,5% no semi e caiu 44,4% no EAD. \n\nNo braço de cursos de medicina, houve uma alta de 7,4% na graduação, para 11,3 mil alunos. O valor médio da mensalidade subiu 3,9%, para R$ 13,2 mil.\n\nNo Ibmec, o número de estudantes na graduação teve um incremento de 14%, para 7,8 mil.  O tíquete médio aumentou 4,4%, para R$ 4,3 mil.",
+    "published": "2026-11-12T22:22:52+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "A Yduqs registrou um lucro líquido de R$  117,6 milhões no terceiro trimestre, o que representa um incremento de 20,1% sobre um ano antes. Considerando o indicador ajustado, a companhia apurou uma queda de 10%, para R$ 138,9 milhões.\n\nO lucro antes de juros, impostos, depreciação",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Estoque de renda fixa na B3 supera R$ 10 tri pela primeira vez",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/estoque-de-renda-fixa-na-b3-supera-r-10-tri-pela-primeira-vez.shtml",
+    "description": "O estoque de renda fixa registrado na B3 superou pela primeira vez os R$ 10 trilhões no terceiro trimestre de 2026, segundo balanço da companhia divulgado na noite desta quinta-feira (12).\nLeia mais (11/12/2026 - 19h20)",
+    "published": "2026-11-12T22:20:00+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "O estoque de renda fixa registrado na B3 superou pela primeira vez os R$ 10 trilhões no terceiro trimestre de 2026, segundo balanço da companhia divulgado na noite desta quinta-feira (12).\nLeia mais (11/12/2026 - 19h20)",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Dona da Sadia minimiza impacto do fim da escala 6x1: só duas de 39 fábricas adotam modelo",
+    "link": "https://oglobo.globo.com/blogs/capital/post/2026/11/dona-da-sadia-minimiza-impacto-do-fim-da-escala-6x1-so-duas-de-39-fabricas-adotam-modelo.ghtml",
+    "description": "A MBRF, dona de marcas como Sadia e Perdigão, informou nesta quinta que o impacto financeiro do fim da escala de trabalho 6x1 deverá ser significativamente menor sobre a sua operação do que o estimado pelo BTG Pactual. Em relatório publicado em outubro, o banco calculou que a redução da jornada semanal poderia acrescentar R$ 824 milhões por ano aos custos da companhia, equivalente a 6,8% do Ebitda projetado para 2027. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-12T22:17:34+00:00",
+    "themes": [
+      "XP"
+    ],
+    "summary": "A MBRF, dona de marcas como Sadia e Perdigão, informou nesta quinta que o impacto financeiro do fim da escala de trabalho 6x1 deverá ser significativamente menor sobre a sua operação do que o estimado pelo BTG Pactual. Em relatório publicado em outubro, o banco calculou que a red",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Braga mantém proteções a gastos em relatório do ajuste fiscal de Lula",
     "link": "https://www.poder360.com.br/poder-congresso/braga-mantem-protecoes-a-gastos-em-relatorio-do-ajuste-fiscal-de-lula/",
@@ -84,6 +120,24 @@
       "Politica"
     ],
     "summary": "O STF (Supremo Tribunal Federal) rejeitou nesta quinta-feira (12) recursos que buscavam rever o alcance de um acordo firmado entre bancos e representantes de poupadores para compensar perdas provocadas pelos planos econômicos Bresser, Verão e Collor 1 e 2, nas décadas de 1980 e 1",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/noticia/2026/11/12/stf-rejeita-pedidos-para-reconhecer-perdas-com-planos-economicos-de-poupadores-que-nao-aderirem-a-acordo-com-bancos.ghtml"
+      }
+    ]
+  },
+  {
+    "source": "Estadão",
+    "title": "Senado aprova urgência para votar projeto de lei com ajuste fiscal que pode chegar a R$ 56 bilhões",
+    "link": "https://www.estadao.com.br/economia/senado-projeto-lei-ajuste-fiscal/",
+    "description": "",
+    "published": "2026-11-12T21:56:45+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Senado aprova urgência para votar projeto de lei com ajuste fiscal que pode chegar a R$ 56 bilhões",
     "relevance": 5
   },
   {
@@ -3945,66 +3999,5 @@
     ],
     "summary": "Fundada pelos empreendedores Gabriel Cantu e Lucas Bastianik, a empresa aposta em tecnologia proprietária e no conceito de “assessor aumentado” para democratizar o acesso a uma assessoria financeira de excelência\nThe post Claint estreia como 1ª assessoria​ ​da rede XP a nascer co",
     "relevance": 5
-  },
-  {
-    "source": "Folha",
-    "title": "Governo Lula estuda mudança de regras para cálculo do frete rodoviário",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/infraestrutura/2026/11/governo-lula-estuda-mudanca-de-regras-para-calculo-do-frete-rodoviario.shtml",
-    "description": "A fórmula usada para calcular o piso do frete rodoviário cobrado por motoristas de caminhão deve ser alterada. Conforme informações obtidas pela Folha, o tema é analisado por equipe técnica do Ministério dos Transportes, que deve apresentar proposta de alteração nas regras até o fim de novembro.\nLeia mais (11/12/2026 - 10h20)",
-    "published": "2026-11-12T13:20:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A fórmula usada para calcular o piso do frete rodoviário cobrado por motoristas de caminhão deve ser alterada. Conforme informações obtidas pela Folha, o tema é analisado por equipe técnica do Ministério dos Transportes, que deve apresentar proposta de alteração nas regras até o ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Orientação contábil atende 16,5 mil MEIs",
-    "link": "https://valor.globo.com/patrocinado/dino/noticia/2026/11/12/orientacao-contabil-atende-165-mil-meis-1.ghtml",
-    "description": "O programa MEI Conta com a Gente registrou mais de 16,5 mil atendimentos em 1.923 municípios desde seu lançamento, segundo balanço do Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte. A iniciativa amplia o acesso dos microempreendedores individuais a orientações contábeis e mostra que as dúvidas da categoria não se limitam à emissão de guias e ao pagamento mensal do DAS.\nA plataforma conecta MEIs a contadores parceiros da mesma região. O atendimento inicial é gratuito e pode tratar de formalização, regularização de pendências fiscais ou cadastrais, gestão do negócio, acesso ao crédito, oportunidades de mercado e questões legais e tributárias.\nCriado a partir de um acordo de cooperação entre o Ministério do Empreendedorismo, a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) e a Federação Nacional das Empresas de Serviços Contábeis (Fenacon), o programa combina atendimento automatizado e orientação profissional.\nDe acordo com as informações oficiais do programa, um assistente virtual fica disponível 24 horas para responder a questões mais simples. Quando a demanda exige análise específica, o usuário pode ser encaminhado a um contador.\nDúvidas do MEI ultrapassam o pagamento de impostos\nO regime do MEI simplificou a formalização e o recolhimento de tributos, mas essa facilidade não elimina as decisões necessárias para manter o negócio regular e financeiramente sustentável. Além de pagar o DAS e enviar a declaração anual, o microempreendedor precisa acompanhar faturamento, emissão de notas fiscais, separação entre contas pessoais e empresariais, contratação de funcionário e eventual ultrapassagem do limite permitido para a categoria.\nPendências também podem exigir procedimentos diferentes. Débitos ainda administrados pela Receita Federal, valores inscritos em Dívida Ativa e problemas cadastrais, por exemplo, não são resolvidos no mesmo ambiente. Sem orientação, o MEI pode pagar uma guia incorreta, perder um prazo ou acreditar que a regularização foi concluída quando ainda existem etapas pendentes.\nO acesso ao crédito traz outro conjunto de dúvidas. Antes de contratar uma linha de financiamento, o empreendedor precisa avaliar parcelas, juros e impacto sobre o caixa. A aprovação do crédito, isoladamente, não significa que a empresa terá condições de absorver a dívida.\nO próprio escopo do MEI Conta com a Gente reconhece essa variedade. A iniciativa inclui apoio à gestão, ao acesso ao crédito e à profissionalização do negócio, além das orientações fiscais e cadastrais.\nContabilidade passa a apoiar decisões do negócio\nA procura por orientação também acompanha uma mudança no papel da contabilidade entre os pequenos negócios. O apoio contábil deixa de ser procurado apenas quando surge uma obrigação ou pendência e passa a contribuir para decisões sobre custos, preços, capacidade de pagamento e crescimento.\nEsse acompanhamento permite identificar, por exemplo, quando o faturamento se aproxima do limite da categoria, se uma contratação cabe no orçamento ou se a margem do negócio está sendo consumida por despesas que o empreendedor ainda não monitora.\nA organização financeira entre pequenos empresários vem ganhando espaço justamente porque vender e manter o CNPJ ativo não garantem, por si só, um negócio saudável. O empresário também precisa entender quanto sobra das vendas e quais compromissos o caixa conseguirá cumprir.\nA EVER, contabilidade online voltada a micro e pequenos negócios, atua nesse modelo consultivo, conectando as informações contábeis à rotina financeira e às decisões do empreendedor. A proposta é utilizar os números da empresa para orientar a gestão, sem restringir o atendimento ao cumprimento de obrigações.\nPrograma deve ampliar rede de atendimento\nO Ministério do Empreendedorismo informa que os próximos passos do MEI Conta com a Gente incluem ampliar o número de atendimentos e de contadores parceiros, além de implementar módulos mais avançados de consultoria gratuita.\nPara acessar a plataforma, o microempreendedor pode entrar na página oficial do programa. Não há obrigação de contratar serviços depois da orientação inicial. Caso o MEI queira manter o acompanhamento com o profissional indicado, as condições são negociadas diretamente entre as partes.\nO alcance registrado pelo programa reforça a demanda por informações confiáveis e suporte acessível. Para o MEI, receber orientação no momento certo pode evitar que uma dúvida operacional se transforme em pendência fiscal, dívida ou limitação ao crescimento.",
-    "published": "2026-11-12T13:17:29+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O programa MEI Conta com a Gente registrou mais de 16,5 mil atendimentos em 1.923 municípios desde seu lançamento, segundo balanço do Ministério do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte. A iniciativa amplia o acesso dos microempreendedores individuais a ",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/12/orientacao-contabil-atende-165-mil-meis-1.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "O Globo",
-    "title": "Militar repreende secretário de Defesa dos EUA e assessores por risos durante visita ao Túmulo do Soldado Desconhecido; vídeo",
-    "link": "https://oglobo.globo.com/mundo/noticia/2026/11/12/militar-repreende-secretario-de-defesa-dos-eua-e-assessores-por-risos-durante-visita-ao-tumulo-do-soldado-desconhecido-video.ghtml",
-    "description": "Um guarda militar do Exército dos Estados Unidos repreendeu em voz alta o secretário de Defesa americano, Pete Hegseth, e um grupo de assessores que o acompanhavam durante uma visita ao Túmulo do Soldado Desconhecido — monumento em Arlington, na Virgínia, em homenagem aos mortos em combate que não puderam ser reconhecidos —, após risadas partirem do grupo durante uma foto em frente ao memorial solene. O Pentágono respaldou a postura do militar após o vídeo do momento viralizar nas redes sociais, afirmando que ele \"lembrou a todos de manter o decoro\".\nSob pressão: Republicanos da Câmara dos EUA votam para rejeitar processo de impeachment de secretário da Defesa\nQuer ler mais notícias de Mundo? Acompanhe o canal no WhatsApp\nPensa em morar fora? Veja guia interativo do GLOBO que reúne informações sobre 36 países\n— Todos os visitantes devem manter um ambiente de silêncio e respeito em todos os momentos — gritou o sentinela na direção de Hegseth, que estava acompanhado pela esposa e por assessores de alto escalão, após serem ouvidos rindo e conversando em voz alta enquanto posavam para fotos diante do monumento.\nInitial plugin text\nAs regras para as cerimônias no Cemitério Nacional de Arlington proíbem os visitantes de gritar ou fazer qualquer outro tipo de barulho \"excessivo\" ou \"irracionalmente alto\". O Túmulo do Soldado Desconhecido, em particular, é o repouso final de um soldado que morreu na Primeira Guerra Mundial. \nO momento captado por câmeras ocorreu enquanto o secretário de Defesa participava da tradicional cerimônia anual de colocação de coroas de flores em homenagem ao Dia dos Veteranos, no cemitério, ao lado do presidente Donald Trump. Sean Parnell, principal porta-voz do Pentágono, afirmou em comunicado que a reação dos sentinelas foi apropriada.\n— O secretário e todo o Departamento sempre honraram, e sempre honrarão, os sacrifícios feitos pelos homens e mulheres das nossas Forças Armadas para manter os EUA em segurança — disse Parnell. — Durante a homenagem a essa data solene, um soldado lembrou a todos, de maneira correta e respeitosa, que deveriam manter a compostura.\nInitial plugin text\nA guarda do túmulo é uma posição muito disputada dentro de uma unidade militar de elite, o 3º Regimento de Infantaria dos EUA, cujos integrantes permanecem de sentinela no local 24 horas por dia. A tradição de manter uma guarda permanente diante do túmulo começou há quase nove décadas. O regimento também é conhecido como \"A Velha Guarda\" (The Old Guard).\nHegseth estava acompanhado da esposa, Jennifer Hegseth, e de três assessores: Ricky Buria, Tami Radabaugh e Patrick Weaver. Não é a primeira controvérsia envolvendo questões de comportamento e decoro que envolve o presidente e integrantes de sua equipe no cemitério.\nEm 2024, ocorreu um confronto entre integrantes da equipe de campanha de Trump e um funcionário do cemitério por causa da realização de fotos e vídeos em uma área de sepultamento reservada a militares americanos mortos em guerras recentes. Na ocasião, um comunicado do cemitério afirmou que a legislação federal proíbe campanhas políticas e atividades relacionadas dentro de cemitérios do Exército.\nO Secretário de Defesa dos EUA, Pete Hegseth, e a Primeira Dama dos EUA, Melania Trump, abaixam a cabeça em oração durante uma cerimônia do Dia dos Veteranos.\nMANDEL NGAN / AFP\nTrump havia participado de uma cerimônia de colocação de coroa de flores em homenagem aos 13 militares americanos mortos em um atentado suicida durante a retirada dos EUA do Afeganistão. Imagens de Trump na cerimônia apareceram posteriormente em um vídeo publicado no TikTok por sua campanha.\nEm outro episódio, em 2017, durante seu primeiro mandato, Trump visitou o túmulo de um militar, filho de John F. Kelly, general aposentado do Corpo de Fuzileiros Navais, e disse: \"Eu não entendo. O que eles tinham a ganhar com isso?\".\nHegseth é veterano de combate e serviu na Guarda Nacional do Exército. Na terça-feira, o secretário de Defesa enfrentou uma tentativa de abertura de processo de impeachment no Congresso, que acabou sendo arquivada pelos republicanos da Câmara dos Representantes.\n'Um espetáculo político': Sob pressão, secretário de Defesa dos EUA rejeita processo de impeachment e se compara a Trump\nA pressão sobre o secretário de Defesa aumentou desde o resultado das eleições de meio de mandato da semana passada, influenciado, em parte, pela profunda insatisfação da população com a guerra contra o Irã. Apesar disso, Hegseth continua contando com o apoio de Trump.\nPouco depois da cerimônia de quarta-feira, Hegseth publicou nas redes sociais uma foto tirada no local do evento, na qual aparece ao lado da esposa.\n\"Feliz Dia dos Veteranos — aos nossos melhores americanos\", escreveu. \"Agradeço a Deus por nossos guerreiros, do passado e do presente\". (Com NYT e AFP)",
-    "published": "2026-11-12T13:17:12+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Um guarda militar do Exército dos Estados Unidos repreendeu em voz alta o secretário de Defesa americano, Pete Hegseth, e um grupo de assessores que o acompanhavam durante uma visita ao Túmulo do Soldado Desconhecido — monumento em Arlington, na Virgínia, em homenagem aos mortos ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "BB está atravessando o ciclo mais severo de sua história, diz presidente; ações desabam",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/12/bb-esta-atravessando-o-ciclo-mais-severo-de-sua-historia-diz-presidente-acoes-desabam.ghtml",
-    "description": "A presidente do Banco do Brasil (BB), Tarciana Medeiros, defendeu que a instituição “não se resume a um ciclo de inadimplência”, após o lucro líquido ajustado tombar 66,5% no terceiro trimestre de 2026, para R$ 1,27 bilhão. O resultado foi pressionado sobretudo pelo aumento das despesas com provisões para absorver perdas no crédito do agronegócio. Por volta das 10h15, as ações ordinária (ON) do BB (BBAS3) despencaram 11,49%, a R$ 14,95.\n\n“O Banco do Brasil não se resume a um ciclo de inadimplência. Somos e continuamos sendo o banco do agro brasileiro”, disse, em teleconferência de resultados. “Para aqueles que mantêm a relação de confiança conosco, é nosso compromisso com os nossos mais de 540 mil clientes produtores rurais que são tomadores de crédito do agro. 88% estão conosco há mais de 10 anos e 90% pagando suas obrigações em dia, e já desembolsamos mais de R$ 24,5 bilhões nessa nova safra.”\nLeia também: Banco do Brasil ainda não atingiu fundo do poço, dizem analistas\n\nSegundo Medeiros, o “resultado está bem abaixo do que se espera”, e o banco tem consciência disso. Para ela, a diversificação é uma vantagem competitiva importante da instituição, “principalmente quando o negócio bancário está sob pressão”.\n\nA executiva afirmou que o BB está “atravessando o ciclo mais severo” de sua história. “Já no primeiro trimestre de 2025, quando nós percebemos um desvio sem precedentes em nossa expectativa para pontualização no agro, optamos por suspender o ‘guidance’ (projeções). Quando o retomamos no segundo trimestre de 2025, apresentamos a vocês um diagnóstico completo do que víamos naquele momento. Como principal banco do agro brasileiro, fomos os primeiros a identificar esse movimento como atípico.”\n\nMedeiros também explicou que a inadimplência no agronegócio está “concentrada em clientes de médio e grande porte, em soja, milho e pecuária, principalmente no Centro-Oeste”. “No ano passado, eu comentei com vocês que essa inadimplência é recente, de clientes que sempre pagaram em dia. 85% desses clientes se tornaram inadimplentes a partir de 2024. Nossa resposta foi intensa. Adotamos a matriz de resiliência nas novas concessões, revisamos todo o ‘framework’ de garantias, agregamos alienação fiduciária e reformulamos completamente o nosso processo de cobrança e recuperação.” \n\nNa safra 2026/2027, afirmou, quase 80% possui alienação fiduciária. “Nós também atuamos fortemente nos programas de renegociação, oferecendo condições adequadas para os clientes que buscaram o banco, agindo de forma proativa e viabilizadora. E os números corroboram com as nossas ações”, acrescentou.\n\nSegundo ela, foram renegociados R$ 13,4 bilhões no âmbito da medida provisória (MP) 1.376. “Após duas excelentes oportunidades de renegociação, com recursos subsidiados e prazos de até dez anos que foram disponibilizados por meio das MPs 1.314 e 1.376, e com colheitas recordes em 2025 e 2026, mesmo assim, parte dos grandes e médios produtores optaram por não pagar e nem renegociar”, ponderou.\n\nO banco tem falado em risco moral em relação ao agronegócio. “O compasso de espera à frente das notícias sobre eventuais soluções milagrosas que nós monitorávamos desde o começo do ano se intensificou nos últimos três meses”, explicou Medeiros.“Para quem precisa, há solução. [...] Para quem não negocia e não paga, a resposta é a cobrança”, disse a presidente do BB. \n\nSegundo ela, o banco reforçou a judicialização dos casos e já enviou mais de 20 mil notificações extrajudiciais. Entre os produtores que receberam as notificações, 24% procuraram o banco para regularizar a situação.\n\nMedeiros também afirmou que o banco vai iniciar o processo de cessão de carteiras em perda para o mercado. Até então, essas operações eram feitas de forma massificada apenas para a Ativos S.A., empresa do próprio banco. “Esperamos que a gente ganhe tração muito rapidamente.”\nTarciana Medeiros, presidente do BB\nDivulgação",
-    "published": "2026-11-12T13:15:40+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A presidente do Banco do Brasil (BB), Tarciana Medeiros, defendeu que a instituição “não se resume a um ciclo de inadimplência”, após o lucro líquido ajustado tombar 66,5% no terceiro trimestre de 2026, para R$ 1,27 bilhão. O resultado foi pressionado sobretudo pelo aumento das d",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Folha",
-        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/parte-dos-produtores-nao-renegociou-esperando-solucao-melhor-do-congresso-diz-bb.shtml"
-      }
-    ]
   }
 ]
