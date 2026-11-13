@@ -1,5 +1,29 @@
 [
   {
+    "source": "Poder360",
+    "title": "Saiba como cada senador votou no pacote de ajuste fiscal de Lula",
+    "link": "https://www.poder360.com.br/poder-congresso/saiba-como-cada-senador-votou-no-pacote-de-ajuste-fiscal-de-lula/",
+    "description": "Projeto recebeu 45 votos favoráveis e 31 contrários; 5 senadores não registraram voto na proposta",
+    "published": "2026-11-13T01:02:59+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Projeto recebeu 45 votos favoráveis e 31 contrários; 5 senadores não registraram voto na proposta",
+    "relevance": 5
+  },
+  {
+    "source": "Estadão",
+    "title": "Brasil precisa de choque de credibilidade, e não voluntarismo nem redução forçada dos juros",
+    "link": "https://www.estadao.com.br/economia/fabio-giambiagi/brasil-precisa-de-choque-de-credibilidade-e-nao-voluntarismo-nem-reducao-forcada-dos-juros/",
+    "description": "",
+    "published": "2026-11-13T01:00:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Brasil precisa de choque de credibilidade, e não voluntarismo nem redução forçada dos juros",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Firjan vê ‘com forte preocupação’ projeto que altera arcabouço fiscal",
     "link": "https://valor.globo.com/brasil/noticia/2026/11/12/firjan-v-com-forte-preocupao-projeto-que-altera-arcabouo-fiscal.ghtml",
@@ -657,7 +681,13 @@
       "Economia"
     ],
     "summary": "Senado aprova urgência para votar projeto de lei com ajuste fiscal que pode chegar a R$ 56 bilhões",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/politica/noticia/2026/11/12/senado-federal-aprova-ajuste-fiscal-de-ate-r-60-bilhoes.ghtml"
+      }
+    ]
   },
   {
     "source": "Money Times",
@@ -2321,7 +2351,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Como uma traição envolveu o CEO da Nvidia em investigação de espionagem\nO agora ex-CEO da Nvidia, Jensen Huang, perdeu US$ 32,9 bilhões (cerca de R$ 181 bilhões) em patrimônio desde 1º de novembro, segundo o ranking de bilionários da revista Forbes. Com a queda, ele saiu da lista",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/noticia/2026/11/12/ex-ceo-da-nvidia-viu-fortuna-reduzir-em-mais-de-us-6-bilhoes-nesta-quinta-feira.ghtml"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -3981,30 +4017,6 @@
       "Politica"
     ],
     "summary": "O Departamento de Resolução e de Ação Sancionadora (Derad) do Banco Central formalizou nesta quinta-feira (12) o arquivamento do inquérito realizado em decorrência da decretação extrajudicial na CBSF Distribuidora de Títulos e Valores Mobiliários (DTVM), a antiga Reag Trust DTVM.",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "'A mentira está prevalecendo sobre a verdade': Alcolumbre defende fornecimento de Iphones no Senado",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/11/12/a-mentira-esta-prevalecendo-sobre-a-verdade-alcolumbre-defende-fornecimento-de-iphones-no-senado.ghtml",
-    "description": "O presidente do Senado, Davi Alcolumbre (União-AP), defendeu nesta quarta-feira a licitação que prevê o fornecimento de iPhones e outros smartphones para parlamentares e servidores da Casa. Durante sessão no plenário, ele rebateu críticas à contratação, estimada em R$ 6 milhões para quatro anos, e afirmou que os aparelhos não serão comprados, mas cedidos em regime de comodato.\n'Luxo corporativo' e 'Você paga, o Senado ganha': críticas a 'auxílio iPhone' unem governistas e bolsonaristas nas redes\nLeia mais: De ex-presidenciável a ministras do STJ, saiba quem são as mulheres cotadas ao STF pelo entorno de Lula\n— Não é compra de iPhone. A mentira está prevalecendo em cima da verdade. No nosso país, todos os órgãos do Brasil e todas as instituições deste Estado fazem comodato de aparelhos que têm aplicativos que possam, dentro do sistema operacional, servir aos servidores, aos consultores e aos senadores — declarou Alcolumbre.\nO esclarecimento foi feito após o senador Cleitinho (Republicanos-MG) pedir que o presidente da Casa cancelasse a licitação. Alcolumbre afirmou que o colega estava reproduzindo informações que não correspondem ao conteúdo da contratação e ressaltou que os parlamentares podem optar por não receber os aparelhos.\n — Aqueles senadores que não desejarem ter o comodato do iPhone estão aptos a devolver, diminuir o gabinete, não nomear todos os assessores e não utilizar toda a verba. Cabe a Vossas Excelências optar se vão ou não utilizar o que está à disposição do mandato de um senador da República — afirmou o presidente da Casa.\nDe acordo com o edital, a contratação prevê o fornecimento de 95 iPhones 18 Pro e outros 330 smartphones de modelos intermediários, além de serviços de telefonia e internet. O contrato estabelece, por escrito, que os modelos deve ser a \"última atualização da família Iphone Pro\". Os aparelhos deverão ser substituídos após dois anos de utilização. \nAparelho para referência, todavia deverá ser fornecida a última atualização da família “iPhone Pro”. Considerando que os novos modelos da Apple são lançados em setembro de cada ano e o fornecimento dos aparelhos vinculados ao contrato ocorrerão somente em janeiro de 2027, a tendência é que o aparelho a ser fornecido já seja o iPhone 18 Pro – 512 Gb, que deverá ser lançado em setembro de 2026. Isso se justifica em decorrência da necessidade de se manter a compatibilidade com plataformas e padrões já adotados pelo Senado Federal (utilização da mais recente atualização da família iPhone Pro) e com fulcro na alínea “b”, do inciso I, do art. 41, da Lei nº 14.133/2021.\nO valor estimado é de aproximadamente R$ 6 milhões para quatro anos, o equivalente a cerca de R$ 1,5 milhão por ano. A quantia, no entanto, ainda não é definitiva: o pregão adota como critério de julgamento o menor preço global. O contrato atual, em vigor desde 2022, tem custo anual de R$ 1,1 milhão.\nSegundo a justificativa publicada pelo Senado no Portal da Transparência, a escolha pelo comodato considera critérios de economicidade e eficiência. Nesse modelo, despesas relacionadas à obsolescência tecnológica, à manutenção e à substituição de aparelhos com defeito ficam abrangidas pela contratação. A Casa também afirma que as especificações técnicas buscam manter a compatibilidade com os sistemas e aplicativos utilizados desde 2022.\nCríticas à licitação\nA contratação provocou reações de parlamentares de diferentes campos políticos. A deputada federal Tabata Amaral (PSB-SP) pediu ao Tribunal de Contas da União (TCU) a suspensão da licitação e criticou o valor estimado e a previsão de substituição dos aparelhos a cada dois anos.\nA deputada eleita Ana Elisa (PT-MG) também questionou a medida e afirmou que parlamentares com salários elevados têm condições de comprar os próprios celulares. Na oposição, o deputado Nikolas Ferreira (PL-MG) anunciou que pretende recorrer à Justiça contra a licitação.",
-    "published": "2026-11-12T14:29:47+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O presidente do Senado, Davi Alcolumbre (União-AP), defendeu nesta quarta-feira a licitação que prevê o fornecimento de iPhones e outros smartphones para parlamentares e servidores da Casa. Durante sessão no plenário, ele rebateu críticas à contratação, estimada em R$ 6 milhões p",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Lula adota novo tom sobre indicação do STF e pode ceder a pressão contra Messias",
-    "link": "https://oglobo.globo.com/blogs/bela-megale/post/2026/11/lula-adota-novo-tom-sobre-indicacao-do-stf-e-pode-ceder-a-pressao-contra-messias.ghtml",
-    "description": "Depois de enviar o recado a ministros do Supremo Tribunal Federal (STF) de que indicaria novamente Jorge Messias para a Corte, o presidente Lula adotou um novo tom sobre o tema. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-12T14:28:27+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Depois de enviar o recado a ministros do Supremo Tribunal Federal (STF) de que indicaria novamente Jorge Messias para a Corte, o presidente Lula adotou um novo tom sobre o tema. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cad",
     "relevance": 5
   }
 ]
