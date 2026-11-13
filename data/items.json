@@ -1,5 +1,41 @@
 [
   {
+    "source": "InfoMoney",
+    "title": "Futuros de NY caem com incertezas sobre a Nvidia e inflação ao produtor no radar",
+    "link": "https://www.infomoney.com.br/mercados/futuros-de-ny-caem-com-incertezas-sobre-a-nvidia-e-inflacao-ao-produtor-no-radar/",
+    "description": "A divulgação do Índice de Preços ao Produtor (PPI) ganhou maior relevância após dados de preços ao consumidor acima do esperado na terça-feira\nThe post Futuros de NY caem com incertezas sobre a Nvidia e inflação ao produtor no radar appeared first on InfoMoney.",
+    "published": "2026-11-13T08:45:11+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "A divulgação do Índice de Preços ao Produtor (PPI) ganhou maior relevância após dados de preços ao consumidor acima do esperado na terça-feira\nThe post Futuros de NY caem com incertezas sobre a Nvidia e inflação ao produtor no radar appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Microsoft diz não haver indícios de ataque cibernético em falha global do Outlook",
+    "link": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/11/13/microsoft-diz-nao-haver-indicios-de-ataque-cibernetico-em-falha-global-do-outlook.ghtml",
+    "description": "A Microsoft informou nesta sexta-feira que não identificou indícios de atividade maliciosa relacionada à interrupção global de seu serviço de e-mail Outlook. A falha também afeta outros produtos da empresa, como a plataforma de comunicação Teams e o assistente de inteligência artificial Copilot.\nLeia mais: Mais da metade do ajuste de Lula virá do aumento de receitas sobre empresas: R$ 37,8 bi\nFim da escala 6x1: Dino nega pedido de empresários e mantém início da nova jornada para 16 de dezembro\n\"Até o momento, não temos conhecimento de nenhuma atividade maliciosa que esteja provocando este incidente. Continuaremos tratando o caso com urgência e prioridade até sua completa resolução\", afirmou a companhia em comunicado.\nO Outlook começou a apresentar instabilidade nesta quinta-feira. Segundo o site DownDetector, os registros de falhas atingiram o pico às 15h. Até o final da noite, usuários ainda enfrentavam dificuldades para acessar a plataforma. Outros serviços da empresa, como o Teams, também apresentaram instabilidade. \nNo X, antigo Twitter, um perfil da empresa confirmou a existência de problemas com o serviço. \"Embora estejamos trabalhando para mitigar o impacto, confirmamos que o problema pode afetar a conectividade do serviço Microsoft 365 para usuários em qualquer região\", publicou o perfil da empresa. \nInitial plugin text\nInicialmente, a empresa afirmou que os problemas estavam relacionados a uma parte da infraestrutura que enfrentava \"uma carga elevada em várias regiões\". Posteriormente, no entanto, a empresa se corrigiu e atribuiu a instabilidade a \"servidores que estão inesperadamente indisponíveis\", sobrecarregando o sistema. \n\"Estamos abrindo todas as vias disponíveis para restaurar o serviço, pois as ações tomadas até agora não forneceram o alívio esperado. Encontramos um processo central em servidores afetados que está ficando sobrecarregado, causando perda de capacidade\", publicou a Microsoft no início da noite. \n\"Para validar uma possível recuperação, estamos isolando uma porção de infraestrutura, reiniciando componentes afetados e reintroduzindo tráfego para confirmar que os serviços permanecem estáveis antes de aplicar a mudança de forma mais ampla', conclui a empresa na postagem. \nAté o final da noite, o problema não havia sido completamente resolvido. Por volta de 20h, a Microsoft publicou que alguns dos servidores afetados voltaram a operar, acrescentando que parte do  tráfego estava sendo \"redirecionando\" para rotas alternativas. Cerca de uma hora depois, a empresa avisou que os servidores que tinham retomado o funcionamento \"podem ficar novamente sem resposta assim que receberem tráfego\".\n\"Estamos analisando dados de diagnóstico para determinar o que está desencadeando esse comportamento. Em paralelo, estamos limitando temporariamente quais tipos de tráfego podem alcançar a infraestrutura afetada em algumas localidades\", diz o texto. \nO pico de falhas no Outlook aconteceu por volta das 15h, segundo o DownDetector, quando foram identificadas 7.941 ocorrências. Ao longo da tarde, foram mais de 130 mil registros de falhas na plataforma, com as reclamações caindo com o passar das horas. \nNas redes sociais, usuários relataram problemas com o serviço e brincaram com a situação. \"Gente o Outlook de vocês parou?\", perguntou um perfil no X, antigo Twitter, no início da tarde. Outro perfil comentou: \"O Outlook caindo bem antes de eu ter que entregar o trabalho que não fiz\".  Mais perfis brincaram com o episódio: \"O Outlook tá com uma pane geral, será que posso tirar o dia de folga?\", escreveu outro. \nO Microsoft Teams também apresentou instabilidade no decorrer desta quinta-feira. No início da tarde, o perfil da empresa no X publicou que usuários do programa enfrentavam dificuldades ao acessar o sistema. Cerca de uma hora depois, a Microsoft afirmou que o problema havia sido resolvido. \nO Teams e o Outlook não foram os únicos serviços da empresa a apresentarem  instabilidade. Segundo o Downdetector, também foram registradas falhas no assistente de IA da empresa, o Copilot, e a Microsoft Store.",
+    "published": "2026-11-13T08:42:08+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A Microsoft informou nesta sexta-feira que não identificou indícios de atividade maliciosa relacionada à interrupção global de seu serviço de e-mail Outlook. A falha também afeta outros produtos da empresa, como a plataforma de comunicação Teams e o assistente de inteligência art",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Na Baixada, Belford Roxo e São João de Meriti tem mais de um terço do território controlado pelo crime organizado",
+    "link": "https://oglobo.globo.com/rio/noticia/2026/11/13/na-baixada-belford-roxo-e-sao-joao-de-meriti-tem-mais-de-um-terco-do-territorio-controlado-pelo-crime-organizado.ghtml",
+    "description": "Dados divulgados pelo Instituto de Segurança Pública do Rio (ISP) revelam o mapa de divisão e disputa de territórios entre traficantes e milicianos na Baixada Fluminense. A região, com 3,4 milhões de moradores, tem mais de 1,1 milhão de pessoas morando em locais dominados pelo crime organizado. Dos 13 municípios, dois possuem mais de um terço da área controlada por bandidos: São João de Meriti e Belford Roxo. No entanto, o mapa do ISP mostra que fações diferentes atuam nesses locais. \nTerritórios onde atuam facções de tráfico ou milícias no Estado do Rio têm área maior do que o município de Nova Iguaçu\nOperação Refit: MPRJ mira pai, avô e tio de Ricardo Magro, suspeito de ser maior fraudador fiscal do país\nSão João de Meriti, é conhecida como cidade formigueiro das Américas por ter uma das maiores densidades populacionais. Os números do estudo revelam que o Comando Vermelho tem amplo domínio no controle territorial local e 1 a cada quatro moradores estão em algum local dominado pelos traficantes.\nSalvamento no mar: Velejador americano resgatado pela Marinha a 1,6 mil km da costa do Rio chega à cidade nesta quarta-feira\nNa vizinha Belford Roxo, o panorama é diferente: CV, milícias e Terceiro Comando Puro controlam 35% de toda a cidade. São 53 locais mapeados com 232, 6 mil moradores, cerca de 48% dos moradores do município. \nO domínio do CV na Baixada Fluminense é amplo, mas a região é a principal área de atuação de alguns grupos de milicianos fora da capital. Há cidades, como Japeri e Seropédica, onde foram mapeados apenas comunidades controladas pelo CV. \nMas Seropédica o panorama é o oposto: há domínio apenas de paramilitares. A cidade é conhecida por abrigar a Universidade Federal Rural do Rio e viveu recentemente uma guerra entre os milicianos. Em 2024, o estudante de biologia Bernardo Paraiso, de 24 anos, da Universidade Federal Rural, foi morto durante um tiroteio no Centro de Seropédica em um ataque entre grupos rivais. \nEx-deputado em Niterói: Bacellar ficará preso em cadeia destinada a idosos e criminosos sexuais\nCritérios do mapeamento\nPara medir com precisão a extensão dessas áreas, os pesquisadores do ISP Bárbara Caballero (diretora-presidente do instituto), Vanessa Campagnac, Vanessa Cortes e Luciano Gonçalves usaram informações das polícias Militar e Civil e da Operação Barricada Zero, dados coletados em sobrevoos com drones e ainda fizeram visitas de campo. Os limites de cada local foram desenhados a partir de critérios como barricadas, pontos de transbordo de carga, registros de disparos, circulação de homens armados e restrições ao trânsito da polícia. O grupo que atua em cada território foi indicado por policiais das respectivas regiões.\nPara além das câmeras, saiba como a Biblioteca Nacional e o Real Gabinete Português protegem itens raros de bandidos\nÉ a terceira vez, desde 2016, que o instituto mapeia a atuação de grupos criminosos no estado. Nas duas ocasiões anteriores, os levantamentos foram mantidos sob sigilo e não chegaram a ser divulgados. No primeiro, de 2016, os pesquisadores conseguiram identificar 843 regiões sob a atuação desses grupos, pouco mais da metade do total registrado em 2025. Já em 2019, 868 áreas foram catalogadas.\nA íntegra da nota do ISP:\n\"A publicação da Nota Técnica nº 3 entra no âmbito de entregas do novo Núcleo de Estudos ISPTerritórios, criado pela Portaria ISP nº 217, de 03 de novembro de 2026. A proposta objetiva atender a dois planos estratégicos do Estado do Rio: o Plano Estratégico de Reocupação Territorial (PERT), resultado das determinações do acórdão da Arguição de Descumprimento de Preceito Fundamental nº 635, a ADPF das Favelas, e o Plano Estratégico de Desenvolvimento Econômico e Social (PEDES), previsto na Constituição do Estado do Rio de Janeiro. Em particular, este trabalho permite mensurar os indicadores previstos nas diretivas da Missão 9 do Pedes, “Garantia da Segurança Pública nos Territórios”, para os anos de 2024 a 2031.\nÉ importante notar que os mapas de 2025 não são exatamente comparáveis com os de 2016 e 2019, já que em 2025 foi possível mapear territórios não identificados nos dois primeiros levantamentos, o que pode dar uma impressão falsa (ou pelo menos exagerada) sobre a expansão dos grupos criminosos. O mapa de 2025 apresenta 662 territórios que ainda não haviam sido mapeados pelo ISP em 2019, então não é possível afirmar se havia ou não atuação de algum grupo criminoso ali – mas em 2025, sim, havia. Além disso, não foi possível, em 2019, identificar o grupo em 268 territórios (o que foi feito em 2025), ainda que soubéssemos que já havia alguma atuação criminosa no local.\nIsso ocorre porque, em 2025, foram aprimorados os procedimentos de coleta de dados e ampliadas as fontes de informação utilizadas. Entre os novos recursos utilizados, podemos mencionar as atualizações registradas pelas polícias Militar e Civil no novo módulo editável do ISPGeo; as visitas de campo e os sobrevoos realizados com drones da Polícia Civil; e a incorporação das informações produzidas pelo Instituto no âmbito da Operação Barricada Zero.\"\nInitial plugin text",
+    "published": "2026-11-13T08:30:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Dados divulgados pelo Instituto de Segurança Pública do Rio (ISP) revelam o mapa de divisão e disputa de territórios entre traficantes e milicianos na Baixada Fluminense. A região, com 3,4 milhões de moradores, tem mais de 1,1 milhão de pessoas morando em locais dominados pelo cr",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Economia",
     "title": "‘Sobreviver ou pagar ao banco’: o que levou os produtores rurais à inadimplência recorde no Brasil",
     "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/13/o-que-levou-os-produtores-rurais-a-inadimplencia-recorde-no-brasil.ghtml",
@@ -1359,6 +1395,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/economia/noticia/2026/11/12/tesouro-nacional-comunica-acesso-indevido-a-dados-de-30-mil-cadastros-e-4-mil-chaves-pix.ghtml"
+      },
+      {
+        "source": "Money Times",
+        "link": "https://www.moneytimes.com.br/tesouro-nacional-identifica-vazamento-de-dados-de-30-mil-cadastros-fets/"
       }
     ]
   },
@@ -3478,7 +3518,13 @@
       "Economia"
     ],
     "summary": "A Confederação Nacional da Indústria (CNI) avalia que o projeto de ajuste fiscal em discussão no Senado transfere ao setor produtivo a maior parte do esforço para equilibrar as contas públicas. Em nota divulgada nesta quinta-feira, a entidade criticou a possibilidade de o governo",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-congresso/marinho-diz-que-governo-deu-calote-em-estados-com-ajuste-fiscal/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3968,55 +4014,5 @@
     ],
     "summary": "O preço do tomate subiu 19,57% em outubro e acumula alta de 89,76% em 2026, segundo o IPCA (Índice Nacional de Preços ao Consumidor Amplo), divulgado nesta quinta-feira (12) pelo IBGE (Instituto Brasileiro de Geografia e Estatística). O aumento é resultado principalmente da reduç",
     "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Ao vivo: STF julga fim de isenção de pena em crimes contra mulheres",
-    "link": "https://www.poder360.com.br/poder-justica/ao-vivo-stf-julga-fim-de-isencao-de-pena-em-crimes-contra-mulheres/",
-    "description": "Ministros analisam regra que impede a punição de determinados crimes patrimoniais cometidos entre cônjuges",
-    "published": "2026-11-12T17:00:46+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Ministros analisam regra que impede a punição de determinados crimes patrimoniais cometidos entre cônjuges",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/brasil/noticia/2026/11/12/stf-acaba-com-iseno-de-pena-em-crimes-patrimoniais-em-caso-de-violncia-domstica-e-familiar.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "O Globo",
-    "title": "O que o novo Senado tem a aprender com a História da instituiçao",
-    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/o-que-o-novo-senado-tem-a-aprender-com-a-historia-da-instituicao.ghtml",
-    "description": "Há instituições cuja dignidade depende, em cada geração, da qualidade dos que as representam. O Senado é uma delas.  Recordar seus grandes nomes, no Segundo Reinado e na República, significa reconhecer uma tradição que impõe responsabilidades aos senadores escolhidos na última eleição: a confiança das urnas exige preparo, independência de espírito, compostura e consciência do interesse nacional. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-12T16:57:52+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Há instituições cuja dignidade depende, em cada geração, da qualidade dos que as representam. O Senado é uma delas.  Recordar seus grandes nomes, no Segundo Reinado e na República, significa reconhecer uma tradição que impõe responsabilidades aos senadores escolhidos na última el",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Recorde de empresas em recuperação ou quebra 3T26: 14,5 mil",
-    "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/12/recorde-de-empresas-em-recuperacao-ou-quebra-3t26-145-mil-1.ghtml",
-    "description": "O número de empresas em recuperação judicial ou falência no Brasil chegou a 14.510 ao fim do 3º trimestre de 2026, o maior da série histórica da PreservaCred, com dados desde 2023. São 8.737 empresas em recuperação judicial e 5.773 em falência. O total é quase o dobro das 7.689 registradas no 2º trimestre de 2023. Só nos últimos doze meses, o total cresceu em 3.170 empresas, alta de 28% e o equivalente a quase nove empresas a mais por dia.\nOs números do período são do fechamento do 3º trimestre de 2026 feito pela PreservaCred a partir de informações oficiais do governo e da varredura e leitura dos processos deste tipo na Justiça.\nA PreservaCred monitora o mercado e emite alertas quando uma empresa entra em crise ou é afetada pela crise de outras. Além das devedoras, a plataforma identifica empresas incluídas nas listas de credores, que podem ter o caixa afetado pela suspensão ou renegociação dos valores a receber.\nDívidas, custos, juros e clientes que não pagam: os motivos da crise\nAo pedir recuperação judicial, as empresas explicam a crise como uma soma de fatores. Nos pedidos do 3º trimestre com motivo declarado, nove em cada dez citam o pagamento direto das dívidas e a falta de caixa. Quase sete em cada dez apontam custos altos e margens apertadas, e seis em cada dez, os juros e o custo do crédito.\nDentre todos os motivos, o que mais cresceu foi o atraso de clientes, de 19% para 37% em um ano. Na direção oposta, os efeitos da pandemia e os problemas de clima e safra perderam peso entre as justificativas. Os motivos são os alegados pelas próprias empresas nos documentos dos pedidos.\nEmpresas começaram a buscar proteção antes da recuperação judicial\nNo trimestre, os pedidos de recuperação judicial mantiveram o mesmo patamar do trimestre anterior. Foram registrados 252 pedidos de recuperação judicial no trimestre, que reuniram mais de mil empresas, já que um mesmo pedido pode incluir várias empresas de um grupo, e 749 pedidos do início do ano ao final do trimestre.\nO movimento que chama atenção está nos caminhos alternativos. Os pedidos de tutela cautelar, usada para obter proteção judicial provisória contra cobranças, em geral antes do pedido de recuperação, cresceram 40% em relação ao trimestre anterior, e, no mesmo período, outras cautelares já se transformaram em recuperação judicial. A recuperação extrajudicial, em que o plano negociado com os credores é levado à homologação da Justiça, ainda é pouco usada, mas também ganhou espaço.\nServiços lideram em número; no agro, a pressão é cinco vezes maior\nEm número de empresas, o setor de serviços ocupa o primeiro lugar, seguido do comércio e da indústria:\nTabela\nProporcionalmente ao tamanho de cada setor, porém, a agropecuária é a mais pressionada, com mais de cinco vezes a média nacional. Na construção, o número de empresas em recuperação judicial recuou no trimestre, mas o de empresas em falência subiu. \"Menos recuperação, sozinha, não quer dizer melhora\", aponta o fechamento.\nOnde a crise aperta mais\nSão Paulo lidera em número absoluto, com 4.405 empresas em recuperação judicial ou falência, seguido de Minas Gerais (1.434), Rio Grande do Sul (1.428) e Paraná (1.323). Considerado o número de empresas de cada estado, o quadro muda: Mato Grosso tem duas vezes e meia a proporção nacional, e Centro-Oeste e Sul são as regiões mais pressionadas. Em Mato Grosso do Sul, o número de empresas na condição mais que dobrou em um ano. Veja o mapa da crise.\nUma conta de mais de R$ 1 trilhão\nAs listas de credores de cerca de 3,8 mil processos, de diferentes anos, reunidas pela PreservaCred somam mais de R$ 1 trilhão em dívidas. Mais de seis em cada dez reais desse valor são devidos a fornecedores e demais credores sem garantia, os chamados quirografários. Credores com garantia real têm R$ 58 bilhões a receber; o Fisco, R$ 23 bilhões; e os trabalhadores, mais de R$ 18 bilhões.\nBancos e cooperativas de crédito aparecem nas listas de quase nove em cada dez processos e somam nelas mais de R$ 230 bilhões, cerca de um quinto do valor listado. Somados fundos de investimento, securitizadoras, distribuidoras de valores e seguradoras, o setor financeiro responde por quase um terço da dívida listada.\nQuem são as empresas em crise\nNão são empresas novatas. Na data do pedido, a empresa típica tem 12 anos e meio de existência; quase seis em cada dez têm dez anos ou mais, e três em cada dez já passaram dos 20 anos. Também não são, na maioria, empresas enquadradas como pequenos negócios: as que não são microempresas nem empresas de pequeno porte respondem por quase seis em cada dez das que estão em recuperação judicial.\nNa metade dos casos, a proteção judicial vem em menos de um mês\nNo histórico de processos de recuperação judicial com processamento deferido, metade recebeu a decisão em até 27 dias após o pedido, e um em cada quatro, em até 12 dias. A partir do deferimento, ficam suspensas por 180 dias as execuções relativas aos créditos sujeitos à recuperação, prazo que a lei permite prorrogar por igual período, uma única vez e em caráter excepcional.\nOs números de empresas consideram as matrizes, com microempresas e sem empresas baixadas. Todos os dados desta matéria podem ser consultados no painel de dados da PreservaCred, inclusive com maiores detalhes.\nO que dizem os especialistas\nPara a Ritus Partners, consultoria de execução operacional e financeira, o avanço das empresas em crise ocorre pelo erro de focar apenas na renegociação de dívidas e não focar na causa, que geralmente envolve a gestão e o modelo do negócio. \"Alongar a dívida dá tempo, mas é preciso corrigir o que consome caixa e compromete as margens. A reestruturação precisa focar apenas nas ações que fazem a diferença\", afirma Rodrigo Gallegos, sócio-fundador.\nRafael Pinto, também sócio-fundador, destaca focar no que importa: \"Saber quais produtos, contratos e clientes geram resultado ajuda a definir prioridades. O tempo da equipe não pode ser usado no que não gera resultado\".",
-    "published": "2026-11-12T16:57:15+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro",
-      "XP"
-    ],
-    "summary": "O número de empresas em recuperação judicial ou falência no Brasil chegou a 14.510 ao fim do 3º trimestre de 2026, o maior da série histórica da PreservaCred, com dados desde 2023. São 8.737 empresas em recuperação judicial e 5.773 em falência. O total é quase o dobro das 7.689 r",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/patrocinado/dino/noticia/2026/11/12/recorde-de-empresas-em-recuperacao-ou-quebra-3t26-145-mil-1.ghtml"
-      }
-    ]
   }
 ]
