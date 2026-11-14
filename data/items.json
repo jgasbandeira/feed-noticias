@@ -1,5 +1,17 @@
 [
   {
+    "source": "O Globo",
+    "title": "Microsoft afirma que serviços foram totalmente restabelecidos após pane global",
+    "link": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/11/14/microsoft-afirma-que-servicos-foram-totalmente-restabelecidos-apos-pane-global.ghtml",
+    "description": "A Microsoft informou na madrugada deste sábado, início da manhã no Brasil, que o acesso a seus principais softwares foi totalmente restabelecido, encerrando uma pane que paralisou repartições públicas, operadores do mercado financeiro e empresas em todo o mundo.\n“Todos os produtos estão operacionais”, informou a empresa em uma atualização na página de status de seus serviços. Segundo a Microsoft, o acúmulo de mensagens de e-mail pendentes foi processado, e o problema foi solucionado no Microsoft 365.\nA normalização incluiu o Outlook, o Teams e a ferramenta de inteligência artificial Copilot, cujos usuários enfrentaram problemas como convites de reuniões não recebidos e páginas da internet que não respondiam na sexta-feira. Interrupções anteriores raramente duraram mais do que algumas horas.\nA pane se espalhou pelo mundo, com relatos de problemas em mais de 70 países, segundo o Downdetector, que registrou centenas de milhares de reclamações.\nFuncionários de escritórios e órgãos governamentais de Tóquio a Londres e Nova York tiveram dificuldades para se adaptar à situação e, muitas vezes, recorreram a ferramentas analógicas do século 20, como telefone e, sim, papel. \nNos Estados Unidos, funcionários de empresas comemoraram a pane do Outlook como uma espécie de “dia de neve para adultos” — em referência aos dias em que escolas e escritórios fecham por causa de tempestades de neve. Enquanto isso, funcionários que utilizam o Google Workspace observaram com inveja os colegas que dependem do Outlook aproveitarem a folga.\nMas os executivos das empresas já contabilizavam os prejuízos. Algumas companhias, incluindo o grupo suíço de luxo Richemont e a fabricante americana de caminhões e ônibus Workhorse, foram obrigadas a adiar a divulgação de seus resultados financeiros. Serviços essenciais, como departamentos de polícia e hospitais, também foram afetados. O Serviço Nacional de Saúde do Reino Unido (NHS, na sigla em inglês), por exemplo, precisou remarcar alguns procedimentos, segundo pessoas familiarizadas com o assunto.\nA falha e o tempo necessário para encontrar uma solução representaram um revés para a Microsoft, cujo sistema operacional Windows e aplicativos de produtividade continuam sendo uma infraestrutura essencial na era da inteligência artificial. O pacote de softwares M365 da companhia tem mais de 450 milhões de usuários corporativos.\nMais uma vez, críticos apontaram os riscos de concentrar tanto poder em um único fornecedor, embora muitos reconheçam que abandonar os produtos onipresentes da Microsoft dificilmente será uma opção no curto prazo. Os investidores, em grande parte, não demonstraram preocupação com o episódio, e as ações da companhia tiveram pouca variação.\n“Não esperamos que o incidente altere de forma significativa a posição competitiva da Microsoft no curto prazo, considerando o alto custo e a complexidade de substituir fluxos de trabalho de produtividade profundamente incorporados às operações das empresas”, escreveu o analista Jason Ader, da William Blair & Co., em relatório. \n“No longo prazo, porém, o episódio pode tornar alguns clientes mais receptivos a alternativas, especialmente o Google Workspace e as novas ofertas de produtividade da Anthropic, apresentadas no início desta semana.”\nSegundo um porta-voz, o erro foi introduzido durante uma atualização da capacidade da rede. A resposta da empresa, detalhada em atualizações de hora em hora na página de status dos serviços, revelou algumas tentativas frustradas enquanto a Microsoft se esforçava para identificar a origem do problema.\nMais de mil engenheiros e outros funcionários participaram de videoconferências lideradas por Scott Guthrie, chefe da divisão de nuvem, e Charles Lamanna, responsável pelo pacote M365 e por outros aplicativos voltados ao ambiente de trabalho. As reuniões começaram na noite de quinta-feira e avançaram pela manhã de sexta-feira.\nPublicamente, a Microsoft afirmou que forneceria mais detalhes depois que a interrupção fosse encerrada e acrescentou que não havia indícios de atividade maliciosa. O episódio também não teve relação com inteligência artificial ou agentes de IA, segundo um porta-voz.\nSabemos que nossos clientes dependem de nossos serviços para realizar trabalhos importantes todos os dias e lamentamos o impacto que essas interrupções tiveram sobre aqueles que contam conosco”, afirmou Lamanna, em comunicado enviado por e-mail. “Nossas equipes estão analisando o que aconteceu e como podemos evitar problemas semelhantes no futuro.”",
+    "published": "2026-11-14T10:40:40+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A Microsoft informou na madrugada deste sábado, início da manhã no Brasil, que o acesso a seus principais softwares foi totalmente restabelecido, encerrando uma pane que paralisou repartições públicas, operadores do mercado financeiro e empresas em todo o mundo.\n“Todos os produto",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Dividendos da Petrobras, IPCA e IPO da Anthropic; veja os destaques da semana",
     "link": "https://www.infomoney.com.br/onde-investir/dividendos-da-petrobras-ipca-e-ipo-da-anthropic-veja-os-destaques-da-semana/",
@@ -2144,7 +2156,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O presidente do Supremo Tribunal Federal, Edson Fachin, suspendeu a contagem de prazos de processos em razão da pane global que derrubou o Outlook e outros programas da Microsoft por cerca de 18 horas. A decisão atende a um pedido do Conselho Federal da Ordem dos Advogados do Bra",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/stj-suspende-processos-sobre-extincao-antecipada-do-perse/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -4002,18 +4020,5 @@
         "link": "https://oglobo.globo.com/economia/noticia/2026/11/14/stf-caminha-para-manter-fim-da-escala-6x1-em-16-de-dezembro-veja-como-ficam-folgas-e-salario-por-hora.ghtml"
       }
     ]
-  },
-  {
-    "source": "NeoFeed",
-    "title": "“Pacote fiscal” enxuto e apressado reforça urgência por definição na Fazenda",
-    "link": "https://neofeed.com.br/experts/pacote-fiscal-enxuto-e-apressado-reforca-urgencia-por-definicao-na-fazenda/",
-    "description": "O presidente Luiz Inácio Lula da Silva vai marcar um gol de placa se for tão rápido para anunciar o ministro da Fazenda do seu quarto mandato quanto foi a equipe econômica em amarrar medidas fiscais que, em menos de três semanas pós-eleição, foram articuladas com senadores da base aliada e encaminhadas ao Congresso para [&#8230;]\nO post “Pacote fiscal” enxuto e apressado reforça urgência por definição na Fazenda apareceu primeiro em NeoFeed.",
-    "published": "2026-11-13T14:31:32+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O presidente Luiz Inácio Lula da Silva vai marcar um gol de placa se for tão rápido para anunciar o ministro da Fazenda do seu quarto mandato quanto foi a equipe econômica em amarrar medidas fiscais que, em menos de três semanas pós-eleição, foram articuladas com senadores da bas",
-    "relevance": 5
   }
 ]
