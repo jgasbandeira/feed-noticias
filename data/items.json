@@ -1,5 +1,18 @@
 [
   {
+    "source": "Estadão",
+    "title": "O futuro em 2 meses: para vencer o ceticismo na economia, o governo dependerá de 3 ações simultâneas",
+    "link": "https://www.estadao.com.br/economia/jose-roberto-mendonca-de-barros/o-futuro-em-2-meses-para-vencer-o-ceticismo-na-economia-o-governo-dependera-de-3-acoes-simultaneas/",
+    "description": "",
+    "published": "2026-11-14T20:00:00+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "O futuro em 2 meses: para vencer o ceticismo na economia, o governo dependerá de 3 ações simultâneas",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Política",
     "title": "Fux suspende julgamento sobre escala 5x2 e leva caso para plenário físico do STF",
     "link": "https://g1.globo.com/politica/politico/noticia/2026/11/14/fux-suspende-julgamento-sobre-escala-5x2-e-leva-caso-para-plenario-fisico-do-stf.ghtml",
@@ -23,7 +36,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O ministro Luiz Fux, do Supremo Tribunal Federal (STF), pediu destaque e interrompeu o julgamento do referendo da decisão do ministro Flávio Dino que manteve o calendário de implementação do fim da escala de trabalho 6x1 e estabeleceu regras de transição para a redução da jornada",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Folha",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/fux-interrompe-julgamento-virtual-da-escala-6x1-e-manda-caso-para-plenario-do-stf.shtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -505,7 +524,13 @@
       "Politica"
     ],
     "summary": "O ministro e decano do Supremo Tribunal Federal (STF), Gilmar Mendes, comentou a decisão da Justiça do DF que liberou a empreiteira OAS a devolução do dinheiro do triplex do Guarujá atribuído a Lula pela Operação Lava-Jato, posteriormente anuladas pela Corte. Em reação a um comen",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/11/14/gilmar-mendes-reage-a-criticas-de-moro-sobre-devolucao-de-dinheiro-do-leilao-do-triplex-a-oas-hipocrisia.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3945,24 +3970,6 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/13/transmaas-lanca-sistema-proprio-de-rastreio-de-cargas-1.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "Poder360",
-    "title": "Inquérito das fake news terminou no tempo certo, diz Gilmar",
-    "link": "https://www.poder360.com.br/poder-justica/inquerito-das-fake-news-terminou-no-tempo-certo-diz-gilmar/",
-    "description": "Ministro do STF afirma que investigação foi importante para proteger as instituições em períodos de tensão",
-    "published": "2026-11-13T16:25:23+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Ministro do STF afirma que investigação foi importante para proteger as instituições em períodos de tensão",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/politica/noticia/2026/11/13/gilmar-mendes-diz-que-arquivamento-do-inquerito-das-fake-news-ocorreu-no-tempo-certo.ghtml"
       }
     ]
   }
