@@ -1,5 +1,30 @@
 [
   {
+    "source": "Estadão",
+    "title": "Ministro faz defesa do projeto de ajuste fiscal em vídeo divulgado pelo governo",
+    "link": "https://www.estadao.com.br/economia/ministro-faz-defesa-do-projeto-de-ajuste-fiscal-em-video-divulgado-pelo-governo/",
+    "description": "",
+    "published": "2026-11-14T16:48:01+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Ministro faz defesa do projeto de ajuste fiscal em vídeo divulgado pelo governo",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Gilmar Mendes chama de “desfaçatez” fala de Moro sobre triplex",
+    "link": "https://www.poder360.com.br/poder-justica/gilmar-mendes-chama-de-desfacatez-fala-de-moro-sobre-triplex/",
+    "description": "Decano do STF rebate senador por atribuir a motivos formais e políticos a anulação da condenação de Lula no caso do Guarujá",
+    "published": "2026-11-14T16:40:56+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Decano do STF rebate senador por atribuir a motivos formais e políticos a anulação da condenação de Lula no caso do Guarujá",
+    "relevance": 5
+  },
+  {
     "source": "Folha",
     "title": "Governo federal vai cancelar financiamentos de prédios de luxo com crédito do Fundo Clima",
     "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/economia-sustentavel/2026/11/governo-federal-vai-cancelar-financiamentos-de-predios-de-luxo-com-credito-do-fundo-clima.shtml",
@@ -3966,30 +3991,6 @@
       "Economia"
     ],
     "summary": "Banco avalia reajuste das taxas diante da disponibilidade de recursos\nThe post Caixa estuda aumentar juros do financiamento imobiliário, diz vice-presidente appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Moretti e Motta se reúnem nesta 6ª feira para discutir ajuste fiscal",
-    "link": "https://www.poder360.com.br/poder-congresso/moretti-e-motta-se-reunem-nesta-6a-feira-para-discutir-ajuste-fiscal/",
-    "description": "Texto deve ser votado na Casa na 4ª feira (18.nov) e enfrenta resistência de uma ala dos deputados governistas",
-    "published": "2026-11-13T15:57:22+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Texto deve ser votado na Casa na 4ª feira (18.nov) e enfrenta resistência de uma ala dos deputados governistas",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Economia",
-    "title": "Outlook voltou: por que demorou para Microsoft resolver o problema?",
-    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/13/outlook-voltou-por-que-demorou-para-microsoft-resolver-o-problema.ghtml",
-    "description": "Como abrir o Microsoft Teams, Excel, Outlook (e até o LinkedIn) no teclado do Windows\nUnsplash/Hal Gatewood\nO serviço de e-mail Outlook começou a ser restabelecido após uma interrupção que já dura mais de 20 horas, mas alguns usuários ainda podem ter dificuldades para acessar suas contas ou receber mensagens, segundo a Microsoft.\nEm sua atualização mais recente, divulgada no fim da manhã desta sexta-feira (13), a empresa informou que a fila de e-mails pendentes foi significativamente reduzida e está se aproximando dos níveis normais.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\nA companhia, porém, alertou que alguns usuários ainda podem enfrentar problemas, uma vez que a recuperação completa ainda não foi concluída. A Microsoft também disse ter adotado medidas adicionais para restabelecer o restante da infraestrutura afetada.\nMas por que a interrupção demorou tanto para ser resolvida?\nAgora no g1\nO professor James Ferryman, da Universidade de Reading, no Reino Unido, diz que as informações divulgadas pela Microsoft dão algumas pistas.\nSegundo ele, a empresa relatou que os servidores responsáveis por estabelecer conexões seguras estavam ficando sobrecarregados — até que simplesmente deixaram de responder.\n\"O problema é que esse tipo de falha acaba se agravando em cadeia\", explica.\n\"Um servidor para de funcionar, suas tarefas são transferidas para outro, enquanto um número enorme de celulares e computadores continua tentando se reconectar.\"\nO problema, portanto, não termina quando a falha inicial é corrigida, segundo o especialista.\nOs servidores que continuam funcionando precisam absorver as tarefas dos equipamentos afetados e, ao mesmo tempo, lidar com as novas tentativas de conexão.\n\"Não é possível simplesmente reativar tudo de uma vez. É preciso restabelecer os serviços aos poucos\", diz Ferryman.\nIsso significa que a Microsoft precisa recuperar a infraestrutura gradualmente, controlando o volume de dispositivos que tentam se conectar para evitar uma nova sobrecarga.\nAs ações da Microsoft caíram 0,2% nas primeiras negociações nos Estados Unidos nesta sexta, o que sugere que os investidores não estão muito preocupados com o que a interrupção pode significar para a gigante de tecnologia.\nIsso parece notável, considerando o enorme nível de transtorno que a falha causou ao redor do mundo: bancos, compras, escolas e serviços médicos reportaram problemas. Mas os movimentos do preço das ações dependem das expectativas de lucro, e não do sentimento do público.\nAssim, para os investidores da Microsoft, há apenas duas grandes perguntas hoje: a empresa será responsabilizada por pagar indenizações em decorrência desse problema? E seus clientes cancelarão suas assinaturas dos serviços da companhia em massa como resposta ao incidente?\nO movimento das ações, ou a falta dele, indica que a maioria dos investidores acredita que a resposta para ambas as perguntas é \"não\", escreve Mitchell Labiak, repórter de Negócios da BBC. \nO que aconteceu e quais serviços foram afetados\nA interrupção começou na quinta-feira (12) e atingiu, além do Outlook, ferramentas como o aplicativo de mensagens Teams, o pacote Microsoft 365 (antigo Office) e o assistente de inteligência artificial Copilot.\nUm porta-voz da Microsoft disse à Reuters que os problemas se concentravam no Exchange Online, o serviço que gerencia as caixas de correio do Microsoft 365.\nEntre os problemas, os usuários não conseguiam visualizar determinados arquivos ou detalhes em seus aplicativos de calendário.\nAlguns usuários, contudo, conseguiram usar o Teams normalmente, tanto para enviar mensagens quanto para organizar reuniões e consultar calendários.\nA Microsoft negou que a falha em seus serviços seja provocada por um ataque cibernético e atribuiu o problema à \"sobrecarga elevada\" em sua infraestrutura.\nO termo faz referência a situações em que os serviços estão lidando com \"um volume de estresse\" muito maior do que o usual.\nNo caso da falha da Microsoft, um grande número de servidores ficou \"indisponível inesperadamente\", segundo a empresa, o que sobrecarregou os servidores restantes.\nAlém disso, foram impactados ainda serviços de IA com conexões com produtos da Microsoft.\nA OpenAI, responsável pelo ChatGPT, informou que estava investigando um problema com as integrações aos serviços da Microsoft, no qual novas conexões poderiam ser interrompidas, fazendo com que as ferramentas não funcionassem conforme o esperado.\nPor sua vez, a Anthropic afirmou ter identificado um problema com um provedor de nível superior que afeta sua conexão com o Microsoft 365.\nQuantas pessoas foram afetadas?\nA Microsoft não divulgou o número exato de pessoas afetadas, mas suas ferramentas contam com cerca de 430 milhões de usuários, inclusive por empresas em todo o mundo. \nDezenas de milhares de pessoas em mais de 70 países relataram problemas por meio da plataforma Downdetector — um número que, provavelmente, está bem abaixo da realidade.\nSegundo o site de monitoramento de falhas na internet, 140 mil relatos de problemas com o Outlook por volta das 15h (horário de Brasília) em 74 países na noite da quinta-feira (12/11).\nO número caiu para cerca de 34.490 no fim da tarde, segundo dados do site citados pela Reuters. Às 19h47, o site registrava, ainda, cerca de 13 mil relatos sobre o Microsoft 365 e 763 sobre o Teams.\nComo a Microsoft está tentando evitar que e-mails sejam perdidos?\nUma das medidas anunciadas pela empresa foi ampliar para 48 horas o período de espera para a entrega de mensagens que sofreram atrasos durante a interrupção.\nNa prática, esse prazo determina por quanto tempo o sistema tenta entregar um e-mail antes de considerá-lo definitivamente não entregue e devolver uma notificação ao remetente.\nCom a ampliação, a Microsoft busca preservar mensagens enviadas durante a falha, dando mais tempo para que sejam entregues quando os serviços estiverem normalizados.\nA empresa afirma que continuará monitorando a situação até a recuperação completa e que divulgará um relatório com a identificação das causas do incidente e as medidas adicionais de proteção adotadas.",
-    "published": "2026-11-13T15:57:18+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Como abrir o Microsoft Teams, Excel, Outlook (e até o LinkedIn) no teclado do Windows\nUnsplash/Hal Gatewood\nO serviço de e-mail Outlook começou a ser restabelecido após uma interrupção que já dura mais de 20 horas, mas alguns usuários ainda podem ter dificuldades para acessar sua",
     "relevance": 5
   }
 ]
