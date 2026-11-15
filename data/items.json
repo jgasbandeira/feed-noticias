@@ -1,5 +1,17 @@
 [
   {
+    "source": "Estadão",
+    "title": "Aversão do PT ao ajuste fiscal mostra a falta que faz uma direita democrática",
+    "link": "https://www.estadao.com.br/politica/diogo-schelp/aversao-do-pt-ao-ajuste-fiscal-mostra-a-falta-que-faz-uma-direita-democratica/",
+    "description": "",
+    "published": "2026-11-15T21:14:43+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Aversão do PT ao ajuste fiscal mostra a falta que faz uma direita democrática",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Sem alimentos, Unilever vai acelerar em beleza no país a partir de 2027",
     "link": "https://valor.globo.com/empresas/noticia/2026/11/15/sem-alimentos-unilever-vai-acelerar-em-beleza-no-pas-a-partir-de-2027.ghtml",
@@ -101,6 +113,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/economia/noticia/2026/11/15/correios-tem-prejuizo-de-r-19-bilhao-no-terceiro-trimestre.ghtml"
+      },
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/mercados/correios-tem-prejuizo-de-r-19-bilhao-no-terceiro-trimestre-alta-de-19-em-um-ano/"
       }
     ]
   },
@@ -189,7 +205,13 @@
       "Politica"
     ],
     "summary": "O presidente da Argentina, Javier Milei, confirmou no sábado (14) que disputará a reeleição em 2027 e prometeu aprofundar a abertura comercial do país e reduzir os impostos em US$ 500 bilhões (cerca de R$ 2,82 trilhões) até 2031, caso seja eleito para um segundo mandato.\n\nAs decl",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/mundo/milei-anuncia-intencao-de-disputar-reeleicao-a-presidencia-da-argentina-em-2027/"
+      }
+    ]
   },
   {
     "source": "Financial Times",
@@ -3880,19 +3902,6 @@
       "Mercado Financeiro"
     ],
     "summary": "O elenco de ‘Avenida Brasil 2’ apareceu reunido pela primeira vez nos bastidores, em meio às preparações, gravações e ações de pré-estreia que vêm movimentando a produção desde outubro.\nNa continuação criada e escrita por João Emanuel Carneiro e dirigida por Ricardo Waddington, a",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Bolsa sobe 0,66% e dólar segue em R$ 5,65 com ajuste fiscal em vista",
-    "link": "https://www.poder360.com.br/poder-economia/bolsa-sobe-066-e-dolar-segue-em-r-565-com-ajuste-fiscal-em-vista/",
-    "description": "Investidores se dividem sobre medidas econômicas do governo; moeda norte-americana se mantém no maior patamar desde junho de 2025",
-    "published": "2026-11-13T21:39:18+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Investidores se dividem sobre medidas econômicas do governo; moeda norte-americana se mantém no maior patamar desde junho de 2025",
     "relevance": 5
   }
 ]
