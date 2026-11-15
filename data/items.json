@@ -1,5 +1,30 @@
 [
   {
+    "source": "Poder360",
+    "title": "PIB paulista cresce 1,5% no acumulado de 2026",
+    "link": "https://www.poder360.com.br/poder-economia/pib-paulista-cresce-15-no-acumulado-de-2026/",
+    "description": "Agropecuária avançou 2,8% e serviços, 2,4%, segundo dados da Fundação Seade",
+    "published": "2026-11-15T18:05:20+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Agropecuária avançou 2,8% e serviços, 2,4%, segundo dados da Fundação Seade",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Milei confirma candidatura à reeleição em 2027",
+    "link": "https://valor.globo.com/mundo/noticia/2026/11/15/milei-confirma-candidatura-reeleio-em-2027.ghtml",
+    "description": "O presidente da Argentina, Javier Milei, confirmou no sábado (14) que disputará a reeleição em 2027 e prometeu aprofundar a abertura comercial do país e reduzir os impostos em US$ 500 bilhões (cerca de R$ 2,82 trilhões) até 2031, caso seja eleito para um segundo mandato.\n\nAs declarações foram feitas durante a inauguração de uma exposição sobre Manuel Belgrano, no Museu da Casa Rosada, em Buenos Aires, como parte da programação da Noite dos Museus.\n\n\"Para aqueles que duvidam que estou indo para a reeleição: sim, estou indo para a reeleição\", afirmou o presidente, ao apresentar suas metas para os próximos anos. As eleições presidenciais argentinas estão marcadas para o dia 24 de outubro de 2027.\n\nMilei prometeu ampliar as relações comerciais da Argentina para alcançar 90% dos países do mundo até 2031. Segundo ele, quando assumiu o governo, em dezembro de 2023, o país comercializava com cerca de 10% do planeta. Atualmente, esse percentual teria atingido 30% após a abertura de mais de 500 mercados, afirmou.\n\nO presidente citou os acordos comerciais com a União Europeia, a Associação Europeia de Livre Comércio (Efta, na sigla em inglês), Singapura e os Estados Unidos como exemplos dos avanços de sua política de abertura econômica. Também mencionou as negociações para uma eventual entrada argentina no bloco transpacífico.\n\nA redução tributária foi apresentada como uma das principais promessas de um eventual segundo mandato. \"Vamos continuar baixando impostos e, durante todo o período, se o cenário-base se confirmar, vamos devolver aos argentinos US$ 500 bilhões, ou seja, o equivalente ao que temos de dívida\", afirmou.\n\nO valor se refere à redução acumulada da carga tributária projetada pelo governo, e não a um pagamento direto aos contribuintes. Milei condicionou a promessa à manutenção de seu programa econômico e ao cumprimento das projeções oficiais para os próximos anos.\n\nA promessa de Milei ocorre em um cenário de resultados econômicos contraditórios. Desde que assumiu a Presidência, em dezembro de 2023, o ultraliberal conseguiu reduzir a inflação, que havia chegado a 211,4% em 12 meses naquele ano, e reverter o déficit das contas públicas. Em 2024, a inflação anual caiu para 117,8% e, em 2025, para 31,5%.\n\nO processo, porém, perdeu força em 2026. Depois de meses de desaceleração, os preços voltaram a acelerar e a inflação acumulada em 12 meses chegou a 33,1% em outubro, segundo o Indec, o instituto oficial de estatísticas argentino.\n\nA recuperação também não se traduziu em melhora generalizada das condições de vida. O desemprego chegou a 7,9% no segundo trimestre de 2026, ante 5,7% no fim de 2023. No mesmo período, o país perdeu mais de 240 mil empregos formais no setor privado. A pobreza, que havia alcançado 52,9% no primeiro semestre de 2024, recuou, mas voltou a subir e atingiu 32,3% na primeira metade deste ano.\n\nA recuperação também é desigual entre os setores. Enquanto energia, mineração e agronegócio apresentam perspectivas de expansão, indústria, comércio e construção enfrentam dificuldades. Em julho, a atividade econômica caiu 2,9% na comparação anual, segundo dados oficiais.\n\nÉ nesse contexto que a promessa de devolver US$ 500 bilhões em impostos ganha dimensão eleitoral. Milei tenta apresentar a redução da carga tributária como a próxima etapa de seu programa, depois do ajuste fiscal e do combate à inflação. O desafio será diminuir a arrecadação sem comprometer o equilíbrio das contas públicas, uma das principais conquistas que o presidente reivindica.\n\nA cifra se refere a uma redução acumulada de impostos até 2031, e não a pagamentos diretos aos contribuintes. Trata-se de uma projeção do presidente para um eventual segundo mandato, não de uma medida aprovada ou garantida.\n\nPresidente da Argentina, Javier Milei, discursa em cerimônia \nYara Nardi/Reuters",
+    "published": "2026-11-15T18:00:34+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O presidente da Argentina, Javier Milei, confirmou no sábado (14) que disputará a reeleição em 2027 e prometeu aprofundar a abertura comercial do país e reduzir os impostos em US$ 500 bilhões (cerca de R$ 2,82 trilhões) até 2031, caso seja eleito para um segundo mandato.\n\nAs decl",
+    "relevance": 5
+  },
+  {
     "source": "Financial Times",
     "title": "US and allies sign accord to protect AI supply chains from China",
     "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
@@ -3847,31 +3872,6 @@
       "Politica"
     ],
     "summary": "O presidente dos Estados Unidos Donald Trump está dando mais tempo às empresas de energia e às comercializadoras para transportar petróleo e outras commodities entre portos dos EUA em navios de bandeira estrangeira, ao renovar uma medida destinada a reduzir os custos dos combustí",
-    "relevance": 5
-  },
-  {
-    "source": "Folha",
-    "title": "Reforma da Previdência completa 7 anos e reacende debate sobre ajuste nas regras da aposentadoria do INSS",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/reforma-da-previdencia-completa-7-anos-e-reacende-debate-sobre-ajuste-nas-regras-da-aposentadoria-do-inss.shtml",
-    "description": "A reforma da Previdência completa sete anos nesta sexta-feira (13), com a necessidade de novo ajuste para tentar segurar o déficit crescente com o envelhecimento acelerado dos brasileiros, e segurados do INSS (Instituto Nacional do Seguro Social) enfrentando regras mais duras que impedem a aposentadoria.\nLeia mais (11/13/2026 - 17h47)",
-    "published": "2026-11-13T20:47:00+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "A reforma da Previdência completa sete anos nesta sexta-feira (13), com a necessidade de novo ajuste para tentar segurar o déficit crescente com o envelhecimento acelerado dos brasileiros, e segurados do INSS (Instituto Nacional do Seguro Social) enfrentando regras mais duras que",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Taxas dos DIs fecham em queda de olho em fiscal e dados",
-    "link": "https://www.infomoney.com.br/mercados/taxas-dos-dis-fecham-em-queda-de-olho-em-fiscal-e-dados/",
-    "description": "Pacote fiscal foi bem recebido pelo mercado quando foi inicialmente sinalizado, mas a dimensão das medidas desagradou os investidores\nThe post Taxas dos DIs fecham em queda de olho em fiscal e dados appeared first on InfoMoney.",
-    "published": "2026-11-13T20:45:58+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Pacote fiscal foi bem recebido pelo mercado quando foi inicialmente sinalizado, mas a dimensão das medidas desagradou os investidores\nThe post Taxas dos DIs fecham em queda de olho em fiscal e dados appeared first on InfoMoney.",
     "relevance": 5
   }
 ]
