@@ -1,5 +1,17 @@
 [
   {
+    "source": "G1 - Política",
+    "title": "Ajuste fiscal: Alckmin afirma que projeto do governo 'vai na direção correta' e diz esperar votação na Câmara nesta semana",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/15/ajuste-fiscal-alckmin-afirma-que-projeto-do-governo-vai-na-direcao-correta-e-diz-esperar-votacao-na-camara-nesta-semana.ghtml",
+    "description": "",
+    "published": "2026-11-15T15:23:09+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Ajuste fiscal: Alckmin afirma que projeto do governo 'vai na direção correta' e diz esperar votação na Câmara nesta semana",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Fusão com a Tesla pode ser o atalho da SpaceX para entrar no S&P 500",
     "link": "https://www.infomoney.com.br/mercados/fusao-com-a-tesla-pode-ser-o-atalho-da-spacex-para-entrar-no-sp-500/",
@@ -119,7 +131,13 @@
       "Politica"
     ],
     "summary": "O compromisso foi anunciado pelo primeiro-ministro canadense, Mark Carney, durante reunião com o presidente Luiz Inácio Lula da Silva (PT) nas Filipinas\nThe post Canadá anuncia aporte de US$ 400 mi para proteção de florestas após reunião com Lula appeared first on InfoMoney.",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Economia",
+        "link": "https://g1.globo.com/meio-ambiente/noticia/2026/11/15/canada-fundo-de-protecao-de-florestas-brasil.ghtml"
+      }
+    ]
   },
   {
     "source": "Money Times",
@@ -3638,24 +3656,6 @@
     "relevance": 5
   },
   {
-    "source": "O Globo",
-    "title": "Fachin defende a indicação de mulheres negras ao STF",
-    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/fachin-defende-a-indicacao-de-mulheres-negras-ao-stf.ghtml",
-    "description": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, afirmou que há magistradas negras à altura para ocupar uma vaga na mais alta Corte do país. Ele participou do Encontro Nacional de Juízas e Juízes Negros (ENAJUN).\n- Eu olhava o auditório e ouvia as manifestações das magistradas que me precederam e certamente me vinha à cabeça que quem dê direito para definir uma próxima vaga da Suprema Corte Brasileira que estivesse, saberia que há magistradas negras à altura desse lugar para honrar o Brasil. \nFachin posou ainda com membros do Instituto de Defesa da População Negra (IDPN), que levaram ao evento a obra do artista Airá O’Crespo que ilustra a campanha \"Por uma Ministra Negra no STF”, lançada em 2023 para cobrar a indicação de uma mulher negra, que seria a primeira da história da Corte. \nNo novo governo, o presidente Lula poderá indicar quatro ministros para o Supremo Tribunal Federal (STF) até o final do seu mandato.\nEm seu discurso, Fachin destacou que, para grande parte da população negra, a Justiça é a face mais visível do Estado quando este pune. E que \"precisa ser também a face que protege, que escuta e que repara\".  \n\"A presença de Fania Davis nesta edição nos lembra que a Justiça pode ser também restaurativa: capaz de reparar danos e vínculos, e não só de punir. Sabemos, igualmente, que nenhuma política de promoção do acesso será suficiente se entendermos que basta garantir a entrada. Cotas abrem o caminho; permanência, ascensão e pertencimento exigem outro compromisso, que é o tema deste encontro.  Combater a discriminação é dever institucional de todas e de todos, não fardo que se deixa aos que foram atingidos por ela\"",
-    "published": "2026-11-13T20:39:40+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, afirmou que há magistradas negras à altura para ocupar uma vaga na mais alta Corte do país. Ele participou do Encontro Nacional de Juízas e Juízes Negros (ENAJUN).\n- Eu olhava o auditório e ouvia as manifestações das m",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Poder360",
-        "link": "https://www.poder360.com.br/poder-justica/fachin-defende-indicacao-de-ministra-negra-para-o-stf/"
-      }
-    ]
-  },
-  {
     "source": "Bloomberg Línea",
     "title": "Stone corta projeção de lucro. Para analistas, inadimplência é o maior risco",
     "link": "https://www.bloomberglinea.com.br/negocios/stone-corta-projecao-de-lucro-para-analistas-inadimplencia-e-o-maior-risco/",
@@ -3757,6 +3757,28 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/13/brincar-livremente-favorece-autonomia-e-aprendizado-infantil-1.ghtml"
+      }
+    ]
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Fachin defende indicação de uma mulher negra para o STF",
+    "link": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/11/13/fachin-defende-indicacao-de-uma-mulher-negra-para-o-stf.ghtml",
+    "description": "Fachin defende indicação de uma mulher negra para o STF\nO presidente do Supremo Tribunal Federal (STF), Edson Fachin, foi aplaudido ao defender, nesta sexta-feira (13), no Rio de Janeiro, a indicação de uma mulher negra para a Corte. A declaração foi feita no encerramento do 9º Encontro Nacional de Juízas e Juízes Negros (Enajun). \n\"Eu olhava o auditório e eu via as manifestações das magistradas que me precederam e certamente me vinha à cabeça que quem dê direito para definir uma próxima vaga da Suprema Corte Brasileira aqui estivesse saberia que há magistradas negras à altura desse lugar para honrar o Brasil e o povo brasileiro\", disse, sendo ovacioado.\nA referência foi ao presidente Luiz Inácio Lula da Silva (PT), a quem cabe indicar um nome para o Supremo. A escolha precisa ser aprovada por pelo menos 41 dos 81 senadores. \nO STF nunca teve uma ministra negra. Cármen Lúcia é a única mulher entre os dez integrantes atuais do tribunal. \nVaga aberta desde outubro de 2025\nA cadeira está vaga desde a aposentadoria antecipada de Luís Roberto Barroso, em outubro de 2025. Lula indicou o advogado-geral da União, Jorge Messias, mas o Senado rejeitou o nome em abril deste ano, por 42 votos a 34. Foi a primeira vez em 132 anos que o Senado derrubou uma indicação para o Supremo. \nO encontro em que Fachin discursou reuniu magistrados para discutir formas de ampliar a presença de pessoas negras nos espaços de decisão do Judiciário. A programação começou na quarta-feira (11) e terminou nesta sexta no Centro Cultural da Justiça Federal, no Centro do Rio.\nRio sedia até amanhã encontro de juízas e juízes negros\nFachin discursou a favor da indicação de uma magistrada negra para o STF\nReprodução/TV Globo",
+    "published": "2026-11-13T20:10:44+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Fachin defende indicação de uma mulher negra para o STF\nO presidente do Supremo Tribunal Federal (STF), Edson Fachin, foi aplaudido ao defender, nesta sexta-feira (13), no Rio de Janeiro, a indicação de uma mulher negra para a Corte. A declaração foi feita no encerramento do 9º E",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/fachin-defende-a-indicacao-de-mulheres-negras-ao-stf.ghtml"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/fachin-defende-indicacao-de-ministra-negra-para-o-stf/"
       }
     ]
   },
@@ -3863,18 +3885,6 @@
       "Politica"
     ],
     "summary": "A Secretaria do Tesouro Nacional informou nesta sexta-feira (13) que mantém parte de seus sistemas fora do ar após um ataque hacker que expôs dados pessoais de usuários e beneficiários de pagamentos do governo federal. A previsão é que os serviços sejam normalizados até a manhã d",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Justiça nega liminar e mantém eleição do Vasco em modelo híbrido e sem biometria",
-    "link": "https://oglobo.globo.com/esportes/futebol/vasco/noticia/2026/11/13/justica-nega-liminar-e-mantem-eleicao-do-vasco-sem-biometria-facial.ghtml",
-    "description": "Em nota publicada nesta sexta-feira, o Vasco informou que sua eleição seguirá nas condições iniciais, em modelo híbrido e sem biometria facial, conforme convocação do clube. Segundo o comunicado, assinado por Alan Belaciano, presidente da Assembleia Geral, a Justiça negou um pedido de tutela de urgência do candidato Pedro Strozenberg, da chapa \"Vasco dos Vascaínos\", para que houvesse obrigatoriedade de biometria facial no pleito.\nStrozenberg defende a biometria facial como forma de \"garantir a identidade de quem está votando\" e afirma que a chapa já havia protocolado o pedido junto à Assembleia Geral no dia 20 de outubro, mas não obteve resposta. \"Diante da ausência de respostas, recorremos à Justiça. Estamos pedindo o mínimo: segurança, transparência e lisura eleitoral\", afirmou, em postagem na quarta-feira.\nA eleição do Vasco ocorre em modelo híbrido: os sócios podem votar presencialmente, na sede do Calabouço (Rio de Janeiro), ou por sistema online. Concorrem, neste sábado: Pedro Strozenberg (Vasco dos Vascaínos), Pedrinho (Sempre Vasco), Raul Lima Neto (O Vasco é pra quem acredita) e Sérgio Frias (O Vasco é eterno).\nVeja a nota do Vasco:\nA Assembleia Geral do Club de Regatas Vasco da Gama informa aos associados e à torcida vascaína que a Justiça indeferiu o pedido de tutela de urgência apresentado pelo candidato Pedro Strozenberg, da chapa Vasco dos Vascaínos, em ação que solicitava a obrigatoriedade de autenticação por biometria facial para o exercício do voto remoto na eleição presidencial do Clube.\nCom a decisão, ficam mantidas as condições estabelecidas no edital de convocação. Dessa forma, a Justiça reconhece a segurança do sistema de votação usado pelo clube.\nA Assembleia Geral Ordinária (AGO) Eleitoral será realizada neste sábado (14/11), conforme previsto, nas modalidades presencial e on-line. A votação presencial será realizada na sede do Calabouço, que funcionará exclusivamente para a votação, das 10h às 22h. A votação online seguirá os procedimentos e horários estabelecidos no edital de convocação.\nA Assembleia Geral reafirma seu compromisso com o cumprimento do Estatuto Social, com a transparência do processo eleitoral e com a garantia do direito de voto a todos os associados habilitados.\nAlan Belaciano\nPresidente da Assembleia Geral\nClub de Regatas Vasco da Gama",
-    "published": "2026-11-13T19:46:31+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Em nota publicada nesta sexta-feira, o Vasco informou que sua eleição seguirá nas condições iniciais, em modelo híbrido e sem biometria facial, conforme convocação do clube. Segundo o comunicado, assinado por Alan Belaciano, presidente da Assembleia Geral, a Justiça negou um pedi",
     "relevance": 5
   }
 ]
