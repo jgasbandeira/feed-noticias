@@ -1,5 +1,29 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Enem teve 36% de ausências no 2º dia: ministro anuncia mudanças para prova de 2028",
+    "link": "https://valor.globo.com/brasil/noticia/2026/11/15/enem-teve-36-pontos-percentuais-de-ausncias-no-2-dia-ministro-anuncia-mudanas-para-prova-de-2028.ghtml",
+    "description": "Após a conclusão do Exame Nacional do Ensino Médio (Enem), o ministro da Educação, Leonardo Barchini, afirmou neste domingo que o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) irá apresentar propostas de mudanças no exame nas próximas semanas. Hoje foi realizado o segundo dia de provas, com as questões de Matemática e Ciências da Natureza.\n\n“A gente esperou essa edição para falar sobre toda essa discussão em torno de mudanças na prova para 2028. Esperamos essa edição, que fizemos com muito sucesso, para que a gente possa a partir daqui seguir com mudanças. Eu ainda não vi as propostas, mas o Inep vai apresentar isso nas próximas semanas”, declarou o ministro.\n\nDe acordo com ele, segundo o balanço preliminar divulgado neste domingo (15), houve aumento de 42,4% no número de inscrições em relação a 2022. O percentual de ausentes no segundo dia da prova foi de 36%, enquanto no primeiro dia foi de 32%.\n\nDo total de inscrições, 39% eram alunos concluintes da escola pública, um aumento em relação aos 31% registrados em 2025. A projeção foi celebrada pelo ministro:\n\n“Registramos, pelas projeções, um aumento no percentual de estudantes concluintes da rede pública que fizeram o Enem, o que é muito importante. Isso se deve também a duas razões principais: primeiro, o aumento do número de locais de prova, além de todo o trabalho com esses estudantes e da inscrição automática. O aumento do número de locais de prova fez com que algo em torno de 85% dos estudantes concluintes fizessem a prova na própria escola”, declarou.\n\nDe acordo com Barchini, apenas algo em torno de 52% a 53% dos alunos concluintes da rede pública costumam realizar a prova. “Ainda é um índice muito baixo, por diversas razões. Uma delas é questão logística, de não conseguir fazer a prova na mesma cidade ou na mesma escola. Isso nós estamos corrigindo e melhoramos muito neste ano”, afirmou.\n\nSegundo ele, há uma participação recorde de estudantes fazendo a prova na mesma escola pública e de concluintes da escola pública fazendo o Enem. “Nosso esforço é, no ano que vem, aumentar ainda mais”, completou.\n\nEm relação às tentativas de ataques hacker ao site do Instituto Nacional de Estudos e Pesquisas em Educação (Inep), o ministro Leonardo Barchini afirmou que é normal que existam tentativas, mas que elas não comprometeram a segurança:\n\n“Obviamente, todos os sites do governo federal, e o Inep não é diferente, sofrem constantemente esse tipo de ataque, que são detectados. Há um escudo, tem todo um mecanismo de segurança cibernética que previne esse tipo de tentativa. E não foi diferente dessa vez, como em anos anteriores, em ocasiões anteriores. Não houve nenhuma decorrência grave com relação a isso”, afirmou.\n\nEm nota, o instituto negou comprometimento da segurança. “Tentativas de ataques cibernéticos são comuns na administração pública, e o Inep está alinhado às melhores práticas de segurança digital. O Instituto mantém monitoramento contínuo de seus sistemas e, em nenhum momento, houve risco de comprometimento da segurança das informações, seja antes ou durante a aplicação do Enem”, disse o Inep em nota.\n\nDe acordo com o ministro, foram registradas 1.683 ocorrências, incluindo eliminações, celulares que tocaram indevidamente, ou tentativas de ir ao banheiro sem a devida autorização. Segundo o ministro, nenhuma das ocorrências foi grave e ainda não houve nenhuma comunicação de ocorrência policial.\n\nO Exame Nacional do Ensino Médio foi instituído em 1998, com o objetivo de avaliar o desempenho escolar dos estudantes ao término da educação básica. Em 2009, passou a ser utilizado também como forma de acesso à educação superior. Em 2026, além de continuar sendo uma das principais portas de acesso à educação superior e um instrumento de certificação, o Enem passa a integrar o Saeb, consolidando-se como referência para aavaliação da qualidade do ensino médio em todo o país. \n\nAs notas do Enem podem ser utilizadas para acesso ao Sistema de Seleção Unificada (Sisu) e ao Programa Universidade para Todos (Prouni). Além disso, os participantes podem utilizar a nota para participar de processos relacionados ao Fundo de Financiamento Estudantil (Fies), conforme as regras vigentes.",
+    "published": "2026-11-15T23:15:23+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Após a conclusão do Exame Nacional do Ensino Médio (Enem), o ministro da Educação, Leonardo Barchini, afirmou neste domingo que o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) irá apresentar propostas de mudanças no exame nas próximas semanas. Hoje",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Receita do turismo receptivo da China pode chegar a US$ 470 bi até 2040",
+    "link": "https://www.poder360.com.br/poder-china/receita-do-turismo-receptivo-da-china-pode-chegar-a-us-470-bi-ate-2040/",
+    "description": "Participação do setor no PIB chinês deve mais que dobrar, impulsionada por acesso sem visto e voos internacionais",
+    "published": "2026-11-15T23:04:04+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Participação do setor no PIB chinês deve mais que dobrar, impulsionada por acesso sem visto e voos internacionais",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Inep deve apresentar nas próximas semanas propostas de mudanças para o Enem, diz ministro da Educação",
     "link": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2026/11/15/inep-deve-aposentar-nas-proximas-semanas-propostas-de-mudancas-para-o-enem-diz-ministro.ghtml",
@@ -189,6 +213,10 @@
       {
         "source": "InfoMoney",
         "link": "https://www.infomoney.com.br/mercados/correios-tem-prejuizo-de-r-19-bilhao-no-terceiro-trimestre-alta-de-19-em-um-ano/"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/brasil/noticia/2026/11/15/correios-tm-prejuzo-de-r-19-bilho-no-terceiro-trimestre.ghtml"
       }
     ]
   },
@@ -3736,6 +3764,18 @@
     ]
   },
   {
+    "source": "Folha",
+    "title": "Governo Lula retira subvenção extra de R$ 1,40 por litro de diesel importado",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-retira-subvencao-extra-de-r-140-por-litro-de-diesel-importado.shtml",
+    "description": "O governo de Luiz Inácio Lula da Silva (PT) decidiu retirar a subvenção extra de R$ 1,40 por litro de diesel importado. O benefício tinha validade por 30 dias desde 13 de outubro, e o Ministério da Fazenda informou nesta sexta-feira (13) que ele não será renovado.\nLeia mais (11/13/2026 - 19h55)",
+    "published": "2026-11-13T22:55:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O governo de Luiz Inácio Lula da Silva (PT) decidiu retirar a subvenção extra de R$ 1,40 por litro de diesel importado. O benefício tinha validade por 30 dias desde 13 de outubro, e o Ministério da Fazenda informou nesta sexta-feira (13) que ele não será renovado.\nLeia mais (11/1",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Gol tem dois voos programados para decolar dos EUA na noite desta sexta-feira",
     "link": "https://valor.globo.com/empresas/noticia/2026/11/13/gol-tem-dois-voos-programados-para-decolar-dos-estados-unidos-na-noite-desta-sexta-feira.ghtml",
@@ -3850,43 +3890,5 @@
         "link": "https://www.poder360.com.br/poder-partidos-politicos/presidente-do-pt-rebate-criticas-a-ajuste-fiscal-e-nega-cortes-sociais/"
       }
     ]
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Ações de companhias aéreas caem após suspensão nacional de voos nos EUA",
-    "link": "https://valor.globo.com/empresas/noticia/2026/11/13/aes-de-companhias-areas-caem-aps-suspenso-nacional-de-voos-nos-eua.ghtml",
-    "description": "A Administração Federal de Aviação americana (FAA) determinou uma suspensão temporária de decolagens em aeroportos de todo o país devido a “circunstâncias extraordinárias” e por razões de segurança.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-13T22:06:33+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A Administração Federal de Aviação americana (FAA) determinou uma suspensão temporária de decolagens em aeroportos de todo o país devido a “circunstâncias extraordinárias” e por razões de segurança.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da ma",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Tesouro suspende sistemas e tira dados fiscais do ar após ataque",
-    "link": "https://oglobo.globo.com/economia/noticia/2026/11/13/tesouro-suspende-sistemas-e-tira-dados-fiscais-do-ar-apos-ataque.ghtml",
-    "description": "A Secretaria do Tesouro Nacional mantém parte de seus sistemas e serviços fora do ar após um acesso indevido a dados pessoais em seu ambiente tecnológico. Segundo comunicado divulgado nesta sexta-feira, estão suspensas as ferramentas que publicam documentos, séries de dados e consultas no site do órgão e no portal Tesouro Transparente. A previsão é que voltem até a manhã de segunda-feira, dia 16.\nO Tesouro afirma que alguns serviços continuam desligados até que as verificações sejam concluídas e as vulnerabilidades identificadas sejam corrigidas. Segundo o órgão, isso não significa que todos esses sistemas tenham sido atingidos pelo incidente. A consulta interativa aos leilões de títulos públicos também está suspensa. Os resultados seguem disponíveis na página do Banco Central e nas portarias e nos resultados oficiais divulgados pelo Tesouro.\nAinda de acordo com a secretaria, os sistemas estruturantes, responsáveis pelas principais operações do Tesouro, funcionam normalmente. A gestão da Dívida Pública Federal também segue sem alteração, e não houve impacto financeiro.\nO acesso não autorizado foi identificado em 4 de novembro, mas só foi comunicado nesta semana. Atingiu cerca de 30 mil cadastros do e-Serviços, portal usado para solicitar e acompanhar serviços do órgão. O Tesouro alertou que os dados podem ser usados para tornar golpes mais convincentes. Por isso, recomendou atenção a contatos ou mensagens que peçam informações pessoais, senhas ou pagamentos.\nEm nota anterior, o Tesouro atribuiu a demora na comunicação ao tempo necessário para detectar e confirmar o incidente, fazer investigações internas e adotar medidas de contenção. O órgão diz que reforçou o monitoramento e abriu uma investigação técnica para apurar a origem e a extensão do acesso.\nNão é a primeira vez que o Tesouro sofre um incidente do tipo. Em agosto de 2021, a rede interna da secretaria foi alvo de um ataque de ransomware. Na ocasião, o Tesouro e a B3 informaram que as operações do Tesouro Direto não haviam sido afetadas.",
-    "published": "2026-11-13T21:59:56+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "A Secretaria do Tesouro Nacional mantém parte de seus sistemas e serviços fora do ar após um acesso indevido a dados pessoais em seu ambiente tecnológico. Segundo comunicado divulgado nesta sexta-feira, estão suspensas as ferramentas que publicam documentos, séries de dados e con",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Mercado Bitcoin anuncia retomada de saques e depósitos com Pix a partir de terça-feira (17)",
-    "link": "https://valor.globo.com/financas/criptomoedas/noticia/2026/11/13/mercado-bitcoin-anuncia-retomada-de-saques-e-depsitos-com-pix-a-partir-de-tera-feira-17.ghtml",
-    "description": "O Mercado Bitcoin programou para terça-feira (17) a retomada dos depósitos e saques em reais via Pix pelo aplicativo, como parte do restabelecimento dos serviços após o ataque hacker sofrido em 2 de novembro. Segundo atualização divulgada pela corretora nesta sexta-feira (13), os clientes precisarão realizar uma revalidação cadastral obrigatória no primeiro acesso. Os depósitos poderão ser feitos a partir de qualquer conta, enquanto os saques ficarão restritos a contas de mesma titularidade e CPF.\n\nA empresa também anunciou a liberação gradual de outras funcionalidades entre os dias 18 e 19 de novembro, incluindo produtos de Renda Fixa Digital, staking e Renda Passiva. A compra, venda e transferência de criptomoedas, porém, continuarão indisponíveis, assim como o cartão Mercado Bitcoin e a abertura de novas contas, ainda sem data definida para retorno.\n\nNa quarta-feira (18), os clientes poderão voltar a investir em novos ativos de Renda Fixa Digital pelo aplicativo. Segundo o Mercado Bitcoin, os investimentos dessa modalidade continuaram sendo atualizados durante a suspensão dos serviços, conforme as taxas contratadas e as regras de cada produto. Os pagamentos realizados pelos emissores nesse período serão creditados no saldo em reais dos clientes.\n\nNa Renda Variável Digital, os pagamentos efetuados desde a interrupção também serão creditados, enquanto a oferta de novos produtos será restabelecida em etapas posteriores.\n\nJá na quinta-feira (19), os produtos de staking e Renda Passiva voltarão ao aplicativo para consulta, com os saldos atualizados pelos rendimentos acumulados durante a paralisação. A exceção é o Ethereum (ETH), cujo serviço de staking foi temporariamente interrompido e não gerou remuneração nesse período. Novas aplicações e resgates dessas modalidades continuarão indisponíveis, com retomada prevista para uma etapa posterior.\n\nO CriptoCrédito também voltará a permitir pagamentos a partir de 19 de novembro, mas exclusivamente em reais. As parcelas de novembro permanecem com vencimento prorrogado para 1º de dezembro, sem juros adicionais ou custos extras. Pagamentos com criptomoedas, reforço de garantias e novas contratações continuarão suspensos.\n\nO Mercado Bitcoin ressaltou que as datas anunciadas podem sofrer alterações, uma vez que dependem da aprovação das atualizações do aplicativo pela App Store, da Apple, e pelo Google Play. Segundo a empresa, os demais serviços serão liberados conforme a conclusão de validações de segurança.\n\nA corretora suspendeu as operações após o ataque de 2 de novembro, que envolveu US$ 49,2 milhões em criptoativos. Desde segunda-feira (9), os clientes voltaram a ter acesso às contas pelo site, inicialmente apenas para consultar saldos e patrimônio.",
-    "published": "2026-11-13T21:57:26+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "O Mercado Bitcoin programou para terça-feira (17) a retomada dos depósitos e saques em reais via Pix pelo aplicativo, como parte do restabelecimento dos serviços após o ataque hacker sofrido em 2 de novembro. Segundo atualização divulgada pela corretora nesta sexta-feira (13), os",
-    "relevance": 5
   }
 ]
