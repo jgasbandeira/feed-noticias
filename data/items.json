@@ -1,5 +1,17 @@
 [
   {
+    "source": "Financial Times",
+    "title": "US and allies sign accord to protect AI supply chains from China",
+    "link": "https://www.ft.com/content/3c2197fc-9618-4838-91e6-522ce1a96a22?syn-25a6b1a6=1",
+    "description": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen",
+    "published": "2026-11-15T17:47:43+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Pact comes ahead of Donald Trump’s meeting with Xi Jinping at the Asia-Pacific Economic Cooperation forum in Shenzhen",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "El Niño deve pesar mais na inflação em 2027; veja o que pode ficar mais caro",
     "link": "https://www.infomoney.com.br/economia/el-nino-deve-pesar-mais-na-inflacao-em-2027-veja-o-que-pode-ficar-mais-caro/",
@@ -3860,18 +3872,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Pacote fiscal foi bem recebido pelo mercado quando foi inicialmente sinalizado, mas a dimensão das medidas desagradou os investidores\nThe post Taxas dos DIs fecham em queda de olho em fiscal e dados appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Financial Times",
-    "title": "Amazon revives deal with troubled data centre venture backed by Rick Perry",
-    "link": "https://www.ft.com/content/692fbfe8-da52-42c0-b436-9c4aff21fbdb?syn-25a6b1a6=1",
-    "description": "Tech giant agrees to be Fermi’s anchor tenant after failed talks and boardroom turmoil sent data centre group’s shares south",
-    "published": "2026-11-13T20:40:40+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Tech giant agrees to be Fermi’s anchor tenant after failed talks and boardroom turmoil sent data centre group’s shares south",
     "relevance": 5
   }
 ]
