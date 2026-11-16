@@ -1,5 +1,54 @@
 [
   {
+    "source": "Brazil Journal",
+    "title": "Na XP, despesa sobe e ‘new money’ desacelera; CEO vê negócio “cada vez mais acíclico”",
+    "link": "https://braziljournal.com/na-xp-despesa-sobe-e-new-money-desacelera-ceo-ve-negocio-cada-vez-mais-aciclico",
+    "description": "A XP reportou um terceiro tri praticamente em linha com as expectativas, com a receita e o lucro crescendo na comparação anual mesmo num cenário de turbulência nos mercados internacionais e locais. A captação líquida, no entanto, desacelerou em comparação ao tri anterior, enquanto as despesas subiram num ritmo acelerado, superando o crescimento das receitas e provocando uma desalavancagem operacional.&nbsp;",
+    "published": "2026-11-16T23:23:00+00:00",
+    "themes": [
+      "XP"
+    ],
+    "summary": "A XP reportou um terceiro tri praticamente em linha com as expectativas, com a receita e o lucro crescendo na comparação anual mesmo num cenário de turbulência nos mercados internacionais e locais. A captação líquida, no entanto, desacelerou em comparação ao tri anterior, enquant",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Alckmin minimiza reação negativa do mercado com pacote fiscal",
+    "link": "https://www.poder360.com.br/poder-economia/alckmin-minimiza-reacao-negativa-do-mercado-com-pacote-fiscal/",
+    "description": "Presidente interino foi questionado sobre mudanças em discussão na Câmara que podem desidratar proposta do governo, cuja economia estimada é de até R$ 60 bilhões",
+    "published": "2026-11-16T23:10:13+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Presidente interino foi questionado sobre mudanças em discussão na Câmara que podem desidratar proposta do governo, cuja economia estimada é de até R$ 60 bilhões",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Com caixa cheio, empresa de Lemann propõe redução de capital de R$ 100 mi e quer distribuir R$ 1,74 a acionista",
+    "link": "https://www.moneytimes.com.br/com-caixa-cheio-empresa-de-lemann-propoe-reducao-de-capital-de-r-100-mi-e-quer-distribuir-r-174-a-acionista/",
+    "description": "A São Carlos (SCAR3), empresa controlada pelo 5G de Jorge Paulo Lemann, Marcel Telles e Carlos Alberto Sicupira, aprovou a convocação de uma assembleia geral extraordinária para votar uma proposta de redução do capital social em R$ 100 milhões, sem cancelamento de ações, com restituição em dinheiro aos acionistas. Se aprovada, a medida reduzirá o [&#8230;]",
+    "published": "2026-11-16T23:08:40+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A São Carlos (SCAR3), empresa controlada pelo 5G de Jorge Paulo Lemann, Marcel Telles e Carlos Alberto Sicupira, aprovou a convocação de uma assembleia geral extraordinária para votar uma proposta de redução do capital social em R$ 100 milhões, sem cancelamento de ações, com rest",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Defesa de Vorcaro pede que Gilmar assuma decisões do caso Master",
+    "link": "https://www.poder360.com.br/poder-justica/defesa-de-vorcaro-pede-que-gilmar-assuma-decisoes-do-caso-master/",
+    "description": "Advogados contestam decisão de Fachin de manter investigação sob a presidência do STF e pedem que o fundador do Master seja solto, alegando tempo excessivo da prisão preventiva",
+    "published": "2026-11-16T23:07:41+00:00",
+    "themes": [
+      "Politica",
+      "XP"
+    ],
+    "summary": "Advogados contestam decisão de Fachin de manter investigação sob a presidência do STF e pedem que o fundador do Master seja solto, alegando tempo excessivo da prisão preventiva",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Economia circular movimenta até R$ 90,7 bilhões no Brasil, diz CNI",
     "link": "https://www.poder360.com.br/poder-sustentavel/economia-circular-movimenta-ate-r-907-bilhoes-no-brasil-diz-cni/",
@@ -9,6 +58,33 @@
       "Economia"
     ],
     "summary": "Estudo estima que setor represente até 10,3% do mercado de finanças sustentáveis do país",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "CVM coloca novamente em pauta julgamento de ex-CFO da Reag",
+    "link": "https://oglobo.globo.com/blogs/capital/post/2026/11/cvm-coloca-novamente-em-pauta-julgamento-de-ex-cfo-da-reag.ghtml",
+    "description": "A Comissão de Valores Mobiliários (CVM) marcou para esta terça-feira o julgamento de Fabiana Franco, ex-diretora financeira da Reag Investimentos, em um processo que apura atrasos na elaboração dos balanços financeiros da companhia de 2024 e dos trimestres de 2025. Em relatório divulgado pelo regulador, a área técnica contestou os argumentos apresentados pela executiva, que atribuiu as dificuldades a uma divergência sobre a necessidade de incluir determinados fundos de investimento nas contas da companhia. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-16T22:58:04+00:00",
+    "themes": [
+      "Mercado Financeiro",
+      "XP"
+    ],
+    "summary": "A Comissão de Valores Mobiliários (CVM) marcou para esta terça-feira o julgamento de Fabiana Franco, ex-diretora financeira da Reag Investimentos, em um processo que apura atrasos na elaboração dos balanços financeiros da companhia de 2024 e dos trimestres de 2025. Em relatório d",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Esteves, do BTG, diz que mercado mostra urgência do ajuste fiscal e Lula entregará o que se espera",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/esteves-do-btg-diz-que-mercado-mostra-urgencia-do-ajuste-fiscal-e-lula-entregara-o-que-se-espera.shtml",
+    "description": "O presidente do conselho de administração e sócio do BTG Pactual, André Esteves, disse que o mercado financeiro sinalizou nesta segunda-feira (16) que o país demanda urgência no equilíbrio das contas públicas.\nLeia mais (11/16/2026 - 19h55)",
+    "published": "2026-11-16T22:55:00+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro",
+      "XP"
+    ],
+    "summary": "O presidente do conselho de administração e sócio do BTG Pactual, André Esteves, disse que o mercado financeiro sinalizou nesta segunda-feira (16) que o país demanda urgência no equilíbrio das contas públicas.\nLeia mais (11/16/2026 - 19h55)",
     "relevance": 5
   },
   {
@@ -391,7 +467,13 @@
       "Politica"
     ],
     "summary": "A bancada do PT na Câmara dos Deputados deve declarar nesta terça-feira (17) voto a favor do projeto de ajuste fiscal proposto pelo ministro do Planejamento e Orçamento, Bruno Moretti, apesar das críticas feitas por parte dos petistas, de acordo com integrantes do partido.\nLeia m",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/noticia/2026/11/16/pt-da-camara-deve-apoiar-pacote-fiscal-de-lula-apesar-de-criticas-a-ajuste.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -653,7 +735,13 @@
       "Politica"
     ],
     "summary": "O Ministério da Fazenda estima que o projeto de lei que cria regras concorrenciais para plataformas digitais e big techs possa ter um impacto de entre R$ 15,3 bilhões e R$ 50,6 bilhões em redução de preços para diversos setores econômicos do Brasil, caso aprovado.\nLeia mais (11/1",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/11/16/regulacao-economica-de-big-techs-pode-cortar-custos-de-consumidores-e-empresas-em-ate-r-506-bi-por-ano-estima-fazenda.ghtml"
+      }
+    ]
   },
   {
     "source": "Metro Quadrado",
@@ -3892,81 +3980,6 @@
       "Politica"
     ],
     "summary": "Uma criança de quatro anos morreu, neste domingo, após ser jogada pela mãe do Viaduto Pedroso, localizado na região central de São Paulo, entre os bairros da Liberdade e da Bela Vista, de uma altura de cerca de 15 a 20 metros. A menina, identificada como Luna Luara Vitória Alves,",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Ao vivo: Durigan dá entrevista sobre operação Fronteira",
-    "link": "https://www.poder360.com.br/poder-governo/ao-vivo-durigan-da-entrevista-sobre-operacao-fronteira/",
-    "description": "Ministro da Fazenda apresenta resultados da edição de 2026 da ação da Receita Federal de vigilância e repressão ao contrabando",
-    "published": "2026-11-16T12:30:20+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Ministro da Fazenda apresenta resultados da edição de 2026 da ação da Receita Federal de vigilância e repressão ao contrabando",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Dólar hoje avança com dados domésticos e política fiscal em foco",
-    "link": "https://www.infomoney.com.br/mercados/dolar-hoje-avanca-com-dados-domesticos-e-politica-fiscal-em-foco/",
-    "description": "Mercado acompanha o retorno do presidente Luiz Inácio Lula da Silva ao Brasil, em meio à expectativa pela definição da equipe econômica e pelo anúncio de novas medidas de ajuste fiscal\nThe post Dólar hoje avança com dados domésticos e política fiscal em foco appeared first on InfoMoney.",
-    "published": "2026-11-16T12:28:21+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "Mercado acompanha o retorno do presidente Luiz Inácio Lula da Silva ao Brasil, em meio à expectativa pela definição da equipe econômica e pelo anúncio de novas medidas de ajuste fiscal\nThe post Dólar hoje avança com dados domésticos e política fiscal em foco appeared first on Inf",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Aos 84 anos, Benedita da Silva anuncia que não disputará novas eleições: 'Entrei com Lula, saio com ele'",
-    "link": "https://oglobo.globo.com/politica/noticia/2026/11/16/aos-84-anos-benedita-da-silva-anuncia-que-nao-disputara-novas-eleicoes-entrei-com-lula-saio-com-ele.ghtml",
-    "description": "Deputada federal pelo Rio de Janeiro, ex-governadora a ex-senadora Benedita da Silva (PT) afirmou que não disputará novas eleições. Em entrevista ao jornal Folha de S.Paulo, a primeira mulher negra a assumir o cargo Executivo do Palácio Guanabara em 2002 e a primeira senadora negra do Brasil, destacou que pretende descansar, mas participará de debates e caravanas da sigla. A petista também atribuiu a derrota na última disputa ao Senado à força do bolsonarismo. \nMinistério Público do DF investiga aumento de 600% em diárias de hotéis em Brasília para a posse de Lula\nDe definição de cargos a crise na PF, passando por críticas ao ajuste fiscal: os desafios de Lula na volta da Ásia\n— Eu entrei com Lula, saio com ele. Eu me candidatei ao Senado pela última vez — afirmou Benedita. \nAos 84 anos, Benedita concorreu ao cargo de senadora e foi derrotada pelos candidatos do PL, Carlos Portinho e Carlos Jordy. A política, que chegou a aparecer nas pesquisas Datafolha e Quaest à frente na disputa e foi derrotada, atribui a perda a força do bolsonarismo.\nA petista lembrou que trabalha desde os 7 anos e defendeu que precisa “dar uma parada”, mas vai manter sua caravana com mulheres e quilombolas.\n— O meu descanso não é sem projeto. Eu ainda não pensei porque quero realmente tirar um tempinho para descanso, que é uma coisa que também não dura muito. Pretendo ajudar muito o PT nos debates, nas discussões, voltar a fazer minhas caravanas. Eu também tenho caravana, não é só o Lula. Minha caravana com as mulheres, com os quilombolas. Trabalhar essa questão, para mim, é muito importante — destacou. \nA petista também afirmou houve avanços na representatividade racial na política, mas o racismo e o machismo persistem tanto na esquerda quanto na direita.\n— A nossa sociedade ainda não se livrou do machismo nem do racismo. E isso você vai para direita, você vai para esquerda, você vai encontrar — pontuou a petista.",
-    "published": "2026-11-16T12:24:16+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "Deputada federal pelo Rio de Janeiro, ex-governadora a ex-senadora Benedita da Silva (PT) afirmou que não disputará novas eleições. Em entrevista ao jornal Folha de S.Paulo, a primeira mulher negra a assumir o cargo Executivo do Palácio Guanabara em 2002 e a primeira senadora neg",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Pix completa 6 anos e deve movimentar US$ 203,4 bilhões no e-commerce em 2027, projeta Ebanx",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/16/pix-completa-6-anos-e-deve-movimentar-us-2034-bilhes-no-e-commerce-em-2027-projeta-ebanx.ghtml",
-    "description": "O Pix deve movimentar US$ 203,4 bilhões (ou cerca de R$ 1,155 trilhão) em compras online no Brasil em 2027, alta de 15% em relação aos US$ 177,2 bilhões (R$ 1,006 trilhão) estimados para este ano, segundo análise do Ebanx. Se confirmada, a projeção fará do sistema de pagamentos instantâneos o primeiro meio de pagamento do país a superar US$ 200 bilhões (cerca de R$ 1,136 trilhão) em transações no comércio eletrônico em um único ano. \n\nO sistema de pagamentos instantâneos brasileiro completa hoje seis anos. Segundo análise do Ebanx, 97% dos adultos do país, cerca de 170 milhões de pessoas, utilizam o Pix. A proporção é superior à dos que possuem cartão de crédito, de 65% da população. Os dados têm como base informações do Banco Central (BC), do Instituto Brasileiro de Geografia e Estatística (IBGE) e do Banco Mundial.\n\nJá as projeções para o comércio eletrônico tem como base informações da Payments and Commerce Market Intelligence (PCMI). A estimativa mantém a previsão de que o Pix alcance metade do volume do comércio eletrônico brasileiro em 2028.\n\nO Pix deverá responder por 48% do volume movimentado pelo e-commerce brasileiro em 2027, ante 46% em 2026. Na direção oposta, a participação dos cartões de crédito deve recuar de 44% para 42%, embora o volume transacionado por esse meio de pagamento também deva crescer, de US$ 168,7 bilhões para US$ 178,8 bilhões, uma alta de 6%.\n\nPara Sebastian Fantini, diretor de Produto do Ebanx, o crescimento do Pix no comércio eletrônico está relacionado à maior frequência de uso do sistema por consumidores que já incorporaram a ferramenta à rotina. “Praticamente todo adulto brasileiro já usa o Pix, então o crescimento que vemos agora vem de pessoas recorrendo a ele com mais frequência e para comprar mais produtos e serviços online”, afirma, em nota. \n\n“Um hábito tão disseminado como esse tem o poder de transformar todo o mercado. Depois de seis anos pagando de forma instantânea e sem nenhum custo, o brasileiro espera encontrar essa mesma experiência em todas as lojas do comércio digital”, acrescenta. \n\nDados internos do Ebanx também indicam que empresas que adicionam o Pix ao checkout no Brasil registram aumento de até 37% no volume total de pagamentos (TPV) e alcançam, em média, 25% mais clientes nos primeiros seis meses. Em seis anos de operação, o Ebanx afirma já ter processado pagamentos de 42% dos usuários do Pix.",
-    "published": "2026-11-16T12:23:08+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O Pix deve movimentar US$ 203,4 bilhões (ou cerca de R$ 1,155 trilhão) em compras online no Brasil em 2027, alta de 15% em relação aos US$ 177,2 bilhões (R$ 1,006 trilhão) estimados para este ano, segundo análise do Ebanx. Se confirmada, a projeção fará do sistema de pagamentos i",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Cosan (CSAN3), Nubank (NU), Correios e outros destaques desta segunda-feira (16)",
-    "link": "https://www.moneytimes.com.br/cosan-csan3-nubank-nu-correios-e-outros-destaques-desta-segunda-feira-mlem/",
-    "description": "Resultado do terceiro trimestre (3T26) da Cosan (CSAN3), licença do Banco Central para o Nubank (NU) e balanço dos Correios são alguns dos destaques corporativos desta segunda-feira (16). Confira os destaques Cosan (CSAN3) lucra R$ 190 milhões no 3T26, reduz dívida e anuncia troca de CEO para 2027 A Cosan (CSAN3) encerrou o terceiro trimestre [&#8230;]",
-    "published": "2026-11-16T12:19:53+00:00",
-    "themes": [
-      "Economia",
-      "XP"
-    ],
-    "summary": "Resultado do terceiro trimestre (3T26) da Cosan (CSAN3), licença do Banco Central para o Nubank (NU) e balanço dos Correios são alguns dos destaques corporativos desta segunda-feira (16). Confira os destaques Cosan (CSAN3) lucra R$ 190 milhões no 3T26, reduz dívida e anuncia troc",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Trump, Xi e Putin se preparam para cúpula trilateral histórica na Ásia",
-    "link": "https://valor.globo.com/mundo/noticia/2026/11/16/trump-xi-e-putin-se-preparam-para-cupula-trilateral-historica-na-asia.ghtml",
-    "description": "Os presidentes dos Estados Unidos, Donald Trump, da China, Xi Jinping, e da Rússia, Vladimir Putin, devem se reunir nesta quinta-feira na cidade de Shenzhen, no sul da China, em uma histórica cúpula trilateral que está sendo chamada de \"Yalta 2.0\".\n\nA referência é a conferência de 1945 na Crimeia, na qual o então presidente americano, Franklin D. Roosevelt, o primeiro-ministro britânico, Winston Churchill, e o líder soviético, Josef Stalin, definiram a ordem internacional após a Segunda Guerra Mundial.\n\nA reunião trilateral, e um encontro bilateral paralelo entre Trump e Xi, ocorrerão às margens da cúpula de líderes do Fórum de Cooperação Econômica Ásia-Pacífico (Apec), que será realizada entre quarta e quinta-feira em Shenzhen.\n\nEmbora poucos resultados concretos sejam esperados das reuniões, a imagem de Trump reunido com Xi e Putin repercutirá em todo o mundo, especialmente em um momento de diferentes de focos de tensão global, da Ucrânia a Taiwan, passando pelo Oriente Médio.\n\nNos últimos meses, tanto Trump quanto Putin haviam levantado publicamente a possibilidade de um encontro trilateral com Xi. Pequim inicialmente tratou a ideia com cautela, considerando que a imprevisibilidade dos líderes russo e americano poderiam ser um risco para o presidente chinês. Após semanas de negociações, porém, o governo da China decidiu levar a reunião adiante.\n\nTrump chegará ao encontro politicamente enfraquecido nos EUA, após a esmagadora derrota do Partido Republicano nas eleições de meio de mandato, mas ainda disposto a demonstrar seu poder no exterior. Além do revés nas urnas, a Casa Branca também está abalada pelo escândalo que custou a Jensen Huang o comando da Nvidia.\n\nUma pessoa a par das negociações disse ao jornal britânico Financial Times que China, Rússia e EUA decidiram realizar a reunião sem uma pauta previamente acordada, algo incomum para Xi, que costuma insistir que as conversas com líderes estrangeiros sigam um roteiro rigoroso.\n\nDesde a derrota eleitoral, os críticos de Trump passaram a ter mais voz nas discussões políticas americanas. Entre eles estão os que defendem uma postura mais dura em relação à China e afirmam que o presidente se aproximou demais de Xi. A saída de Huang, após a revelação de seu caso com uma mulher suspeita de espionar para a China, ampliou o escrutínio sobre seus vínculos com Trump e sobre seu papel como o mais incisivo defensor, no setor de IA, da venda de chips avançados à China.\n\nAs tentativas do líder republicano de agradar ao presidente russo e suas críticas ao presidente ucraniano, Volodymyr Zelensky, também provocaram reações negativas.\n\nO cenário pode enfraquecer a posição de Trump nas negociações com Xi e Putin, embora analistas acreditem que a fragilidade do presidente americano em Washington possa levá-lo a privilegiar  as negociações diplomáticas com outras potências, nas quais a Casa Branca tem mais controle e há muito em jogo.\n\nO presidente americano deve aproveitar a reunião trilateral para discutir a guerra no Irã, mas evitará tratar da Ucrânia, segundo uma autoridade de alto escalão do governo que falou a jornalistas sob condição de anonimato.\n\nTrump disse que pretende discutir a desnuclearização com os dois líderes, tema que tenta abordar com eles desde seu primeiro mandato, sem sucesso. A China há tempos resiste a negociações trilaterais sobre armas nucleares, pois seu arsenal é muito menor que o dos EUA e o da Rússia.\n\nJá a China quer evitar comparações com a Conferência de Yalta de 1945, da qual a China ficou de fora apesar de seu papel importante no combate ao Japão na Segunda Guerra Mundial. E também não quer se associar aos conflitos na Ucrânia e no Irã.\n\nO Ministério das Relações Exteriores da China afirmou hoje que a reunião trilateral desta semana entre os líderes de China, EUA e Rússia tem “importância histórica” e promoverá a paz e a estabilidade do mundo.\n\n“Eles trocarão opiniões em profundidade sobre a salvaguarda da paz mundial e a promoção da estabilidade estratégica nas relações entre as grandes potências, o que tem uma importância histórica”, afirmou a porta-voz da chancelaria chinesa, Mao Ning, a jornalistas.\n\n“Uma comunicação mais forte entre a China, a Rússia e os EUA, juntamente com a gestão de divergências e a estabilização das relações, atende aos interesses dos três países”, acrescentou a porta-voz.",
-    "published": "2026-11-16T12:19:43+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Os presidentes dos Estados Unidos, Donald Trump, da China, Xi Jinping, e da Rússia, Vladimir Putin, devem se reunir nesta quinta-feira na cidade de Shenzhen, no sul da China, em uma histórica cúpula trilateral que está sendo chamada de \"Yalta 2.0\".\n\nA referência é a conferência d",
     "relevance": 5
   }
 ]
