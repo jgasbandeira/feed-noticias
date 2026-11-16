@@ -2142,31 +2142,6 @@
     "relevance": 5
   },
   {
-    "source": "Poder360",
-    "title": "PGR mantém pedido de R$ 324 mi extras para bancar penduricalhos",
-    "link": "https://www.poder360.com.br/poder-justica/pgr-mantem-pedido-de-r-324-mi-extras-para-bancar-penduricalhos/",
-    "description": "Manifestação reforça pedido do governo para que STF esclareça como cumprir decisões sobre verbas remuneratórias",
-    "published": "2026-11-14T18:59:10+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Manifestação reforça pedido do governo para que STF esclareça como cumprir decisões sobre verbas remuneratórias",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Banco Central aprova compra do Banco Porto Real pelo Nubank",
-    "link": "https://www.poder360.com.br/poder-economia/banco-central-aprova-compra-do-banco-porto-real-pelo-nubank/",
-    "description": "Aquisição permitirá ao grupo incorporar licença bancária no Brasil e atender às regras para manter “bank” no nome",
-    "published": "2026-11-14T18:19:47+00:00",
-    "themes": [
-      "Economia",
-      "XP"
-    ],
-    "summary": "Aquisição permitirá ao grupo incorporar licença bancária no Brasil e atender às regras para manter “bank” no nome",
-    "relevance": 5
-  },
-  {
     "source": "O Globo",
     "title": "Fim da escala 6x1: Dino diz que negociação coletiva é 'melhor caminho' para transição da nova jornada",
     "link": "https://oglobo.globo.com/economia/noticia/2026/11/14/fim-da-escala-6x1-dino-diz-que-negociacao-coletiva-e-melhor-caminho-para-transicao-da-nova-jornada.ghtml",
@@ -3855,6 +3830,37 @@
       "Politica"
     ],
     "summary": "Falha na comunicação causa suspensão de decolagens em todos os aeroportos dos EUA\nA Agência Nacional de Aviação Civil (Anac) informou que está monitorando a situação dos voos paralisados nos EUA e recomenda aos passageiros que busquem as companhias aéreas para verificar a situaçã",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "BC aprova compra de banco pelo Nubank, que passará a ter licença bancária no Brasil",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/bc-aprova-compra-de-banco-pelo-nubank-que-passara-a-ter-licenca-bancaria-no-brasil.shtml",
+    "description": "O Nubank anunciou nesta sexta-feira (13) que o Banco Central aprovou a compra do Banco Porto Real de Investimentos. Com a aquisição, o banco digital terá licença bancária no Brasil, cumprindo a legislação que rege o uso da nomenclatura \"banco\" pelas instituições financeiras.\nLeia mais (11/13/2026 - 20h15)",
+    "published": "2026-11-13T23:15:00+00:00",
+    "themes": [
+      "Economia",
+      "XP"
+    ],
+    "summary": "O Nubank anunciou nesta sexta-feira (13) que o Banco Central aprovou a compra do Banco Porto Real de Investimentos. Com a aquisição, o banco digital terá licença bancária no Brasil, cumprindo a legislação que rege o uso da nomenclatura \"banco\" pelas instituições financeiras.\nLeia",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-economia/banco-central-aprova-compra-do-banco-porto-real-pelo-nubank/"
+      }
+    ]
+  },
+  {
+    "source": "Folha",
+    "title": "Governo Lula retira subvenção extra de R$ 1,40 por litro de diesel importado",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/governo-lula-retira-subvencao-extra-de-r-140-por-litro-de-diesel-importado.shtml",
+    "description": "O governo de Luiz Inácio Lula da Silva (PT) decidiu retirar a subvenção extra de R$ 1,40 por litro de diesel importado. O benefício tinha validade por 30 dias desde 13 de outubro, e o Ministério da Fazenda informou nesta sexta-feira (13) que ele não será renovado.\nLeia mais (11/13/2026 - 19h55)",
+    "published": "2026-11-13T22:55:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O governo de Luiz Inácio Lula da Silva (PT) decidiu retirar a subvenção extra de R$ 1,40 por litro de diesel importado. O benefício tinha validade por 30 dias desde 13 de outubro, e o Ministério da Fazenda informou nesta sexta-feira (13) que ele não será renovado.\nLeia mais (11/1",
     "relevance": 5
   }
 ]
