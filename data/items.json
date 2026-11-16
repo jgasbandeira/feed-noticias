@@ -25,16 +25,46 @@
     "relevance": 5
   },
   {
-    "source": "Poder360",
-    "title": "Mercado reduz projeção de inflação para 5,11% em 2026",
-    "link": "https://www.poder360.com.br/poder-economia/mercado-reduz-projecao-de-inflacao-para-511-em-2026/",
-    "description": "Boletim Focus eleva estimativa do dólar; projeção para a Selic se mantém inalterada e a do PIB cai",
-    "published": "2026-11-16T11:44:21+00:00",
+    "source": "Valor Econômico",
+    "title": "Pacote fiscal, formação da nova equipe econômica de Lula e Fed concentram as atenções",
+    "link": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
+    "description": "Pacote fiscal, formação da nova equipe econômica de Lula e Fed concentram as atenções Embora boa parte dos agentes financeiros considere tímida a proposta de redução de gastos de até R$ 60 bilhões, a avaliação geral é de que ela vai na direção correta Manhã no mercado: Retorno de Lula ao Brasil e ajuste fiscal concentram atenções; Fed e Nvidia ficam no radar",
+    "published": "2026-11-16T11:45:00+00:00",
     "themes": [
       "Economia"
     ],
-    "summary": "Boletim Focus eleva estimativa do dólar; projeção para a Selic se mantém inalterada e a do PIB cai",
+    "summary": "Pacote fiscal, formação da nova equipe econômica de Lula e Fed concentram as atenções Embora boa parte dos agentes financeiros considere tímida a proposta de redução de gastos de até R$ 60 bilhões, a avaliação geral é de que ela vai na direção correta Manhã no mercado: Retorno de",
     "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Boletim Focus: Estimativas para este ano de inflação e de crescimento do PIB  têm queda",
+    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/boletim-focus-estimativas-para-este-ano-de-inflacao-e-de-crescimento-do-pib-tem-queda.ghtml",
+    "description": "O mercado revisou para baixo a previsão para a inflação deste ano, de 5,22% para 5,11%. Para 2027, o movimento foi contrário, com alta de 4,90% para 5%. A projeção de crescimento do PIB foi ligeiramente reduzida, de 1,75% para 1,72% em 2026 e de 1,15% para 1,02% no próximo ano. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-16T11:44:34+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O mercado revisou para baixo a previsão para a inflação deste ano, de 5,22% para 5,11%. Para 2027, o movimento foi contrário, com alta de 4,90% para 5%. A projeção de crescimento do PIB foi ligeiramente reduzida, de 1,75% para 1,72% em 2026 e de 1,15% para 1,02% no próximo ano. M",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Mercado volta a elevar projeção para IPCA de 2027, apura Focus",
+    "link": "https://valor.globo.com/brasil/noticia/2026/11/16/mercado-volta-a-elevar-projecao-para-ipca-de-2027-apura-focus.ghtml",
+    "description": "A mediana das projeções dos economistas do mercado para a inflação oficial brasileira em 2026 recuou de 5,22% para 5,11%, de acordo com o relatório Focus, do Banco Central (BC), divulgado hoje com estimativas coletadas até a última sexta-feira. \n\nPara 2027, a mediana das expectativas para o Índice Nacional de Preços ao Consumidor Amplo (IPCA) subiu de 4,90% para 5,00%, na quinta alta seguida, e, para 2028 se manteve em 4%. O IPCA 12 meses suavizado subiu de 5,01% para 5,15%.\n\nPara a taxa básica de juros (Selic), a mediana das estimativas se manteve em 13,75% em 2026. Para 2027, subiu de 12,50% para 12,75%, e, para 2028, continuou em 11%.\nPIB\nA mediana das projeções dos economistas do mercado para o crescimento da economia brasileira em 2026 recuou de 1,75% para 1,72%, segundo o relatório Focus, do Banco Central (BC), divulgado hoje com estimativas coletadas até a última sexta-feira. \nPara 2027, a mediana das expectativas para a expansão do Produto Interno Bruto (PIB) caiu de 1,15% para 1,02% e, para 2028, continuou em 1,80%.\n\nCâmbio\nA mediana das projeções dos economistas do mercado para o dólar no fim de 2026 subiu de R$ 5,35 para R$ 5,40, segundo o relatório Focus, do Banco Central (BC), divulgado hoje com estimativas coletadas até a última sexta-feira. \nPara 2027, a mediana das expectativas para a moeda americana aumentou de R$ 5,40 para R$ 5,45, e, para 2028, aumentou de R$ 5,45 para R$ 5,48.\n\nUnsplash",
+    "published": "2026-11-16T11:43:01+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "A mediana das projeções dos economistas do mercado para a inflação oficial brasileira em 2026 recuou de 5,22% para 5,11%, de acordo com o relatório Focus, do Banco Central (BC), divulgado hoje com estimativas coletadas até a última sexta-feira. \n\nPara 2027, a mediana das expectat",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-economia/mercado-reduz-projecao-de-inflacao-para-511-em-2026/"
+      }
+    ]
   },
   {
     "source": "Money Times",
@@ -1042,6 +1072,18 @@
     "relevance": 5
   },
   {
+    "source": "Valor Econômico",
+    "title": "‘O desafio é adequar o negócio e acertar essa velocidade’",
+    "link": "https://valor.globo.com/carreira/noticia/2026/11/16/o-desafio-e-adequar-o-negocio-e-acertar-essa-velocidade.ghtml",
+    "description": "Para atuar em um setor como o automotivo, altamente regulado, que muda constantemente e corre contra o tempo para inovar e abrir novas frentes junto ao consumidor, é preciso gostar de conviver sob pressão. “É um setor que tem uma margem bastante reduzida em relação a outros, então a pressão faz parte do processo”, explica Ciro Possobom, CEO e presidente da Volkswagen no Brasil.\nPara imprimir na montadora a velocidade de adaptação que o mercado exige, o segredo, segundo ele, é ser muito organizado. “Se eu sou desorganizado, imagina o que acontece com a empresa?”, questiona. O executivo é o convidado deste último episódio da 11ª temporada do podcast “CBN Professional”, uma parceria do  Valor  com a rádio CBN, que volta em 2027.\nPossobom conta, em entrevista a Stela Campos, editora de Carreira do Valor e Thiago Barbosa, gerente de produtos digitais da CBN, que participa de até 70 reuniões por semana, com duração máxima de meia hora cada uma. “Eu nunca atraso”, ressalta. Sua pontualidade, conta, é reconhecida por todos na organização. “Se eu começo uma reunião às 10 horas, ela vai acabar às 10h30, porque às 10h31 já tem outra”. E acrescenta: “Se eu mudo minha agenda no meio, atrapalha toda a companhia”. Para ele, essa disciplina nos horários é um sinal de respeito. “Não é porque eu sou o presidente que eu tenho que ser melhor que alguém. Meu tempo é igual ao teu tempo, exatamente igual”, afirma.\nFormado em administração pela Universidade Federal do Paraná, Possobom sempre foi um entusiasta dos números. “O número é a minha grande base como executivo e me fez realmente entender de negócio”, diz. Ele sempre gostou de calcular os próximos passos na carreira e na vida. Planejou casar - está há 31 anos com a esposa -, ter dois filhos e, na carreira, buscar um novo desafio a cada três anos.\nRafaela Rezende, CEO da Decolar: \"O CEO que não domina a agenda é um resolvedor de problemas\"\nCEO e mulher trans, líder da McAfee no país ‘mudou tudo’ várias vezes e aponta o poder da transformação\nPaulo Correa, CEO da C&amp;A Brasil: \"Mobilizar equipes é um dos maiores ativos de um líder\"\nComeçou a vida profissional na área financeira. Ele conta que, embora atuasse no financeiro, sempre buscou conhecer todas as áreas, da produção aos recursos humanos. “O financeiro é sempre o cara que diz não para tudo”, diverte-se.\nCiro Possobom: “Não é porque eu sou o presidente que eu tenho que ser melhor que alguém. Meu tempo é igual ao teu”\nGabriel Reis/Valor\nEntrou para a Renault em 1999 e, alguns anos depois, seu projeto profissional começou a mudar. Não estava nos seus planos nem nos da família passar, ao todo, dez anos fora do Brasil, em diferentes períodos, dentro da aliança Renault-Nissan. “Morei duas vezes na França, uma vez no Japão, e isso foi me moldando como executivo, como profissional e como família também, porque ela sempre me acompanhou nesses movimentos todos”, conta. Sua primeira passagem por Paris foi de 2005 a 2008. Em 2012, foi para o Japão e, depois, voltou à França. Atuou como CFO da unidade de carros elétricos e baterias da Nissan em Yokohama e como vice-presidente de finanças na Renault em Paris. Em 2017, retornou ao Brasil para trabalhar na Nissan, no Rio de Janeiro.\nSua vivência internacional foi um dos diferenciais que contribuíram para seu ingresso, em 2019, na montadora alemã Volkswagen, como vice-presidente de finanças e estratégia de TI. Dois anos depois, assumiu como diretor de operações (COO) e, em 2023, como CEO e presidente, tornando-se o primeiro brasileiro a ocupar essa liderança na história da empresa, que atua há 73 anos no país. “Meu grande desafio no início foi a própria cultura, o jeito de fazer as coisas”, diz. “As pessoas estavam ali há muito tempo e eu tinha o meu jeito de fazer negócios”, lembra. Ele acredita que o grande ativo que o ajudou nesse nova etapa da carreira foi sua experiência multicultural e a capacidade de ver outras coisas e se adaptar a situações diferentes.\nMesmo sendo alguém que gosta de antecipar o que for possível, Possobom admite que o trabalho do CEO é muito diferente hoje e não há tanta previsibilidade. “Não adianta querer trabalhar como há cinco anos”, diz. Para ele, os últimos anos mudaram totalmente os negócios. “Falando apenas do automóvel, tivemos a chegada dos eletrificados, dos conectados, da direção autônoma, semi-autônoma e de toda a parte do entretenimento a bordo que não existiam no passado. Antigamente, você queria saber se o carro acelerava, do freio, do motor e da caixa de câmbio. Hoje você quer saber como ele se conecta com o seu celular, como é a tela, se é grande ou pequena”, observa. Seu desafio, diz, é fazer o negócio crescer nesse novo contexto. “Como você adapta uma empresa extremamente tradicional, como a Volkswagen, para esse novo mundo, com concorrentes chegando em uma velocidade diferente?”, pergunta.\nVelocidade, para ele, é a chave para obter sucesso no mercado atual. “O consumidor está mudando e as tecnologias que estão chegando são muito impressionantes”, diz. “O desafio que eu tenho hoje é adequar o negócio e acertar essa velocidade. A gente precisa arrumar a empresa, que ainda não está na velocidade que precisa.”\nEle lembra que o lançamento de um novo carro era planejado com cinco anos de antecedência. “A gente pensava: essa vai ser a tecnologia usada, esse vai ser o banco, o formato. Hoje não, tudo acelera muito rápido. O carro que você pensou há cinco, quatro anos não é bem o que o consumidor está esperando agora”, explica.\nPor isso, Possobom diz que nunca foi tão importante recrutar quem tem a habilidade de aprender rápido. “Você consegue perceber no dia a dia como a pessoa reage, quem é que gosta de uma novidade, que a pega e coloca no seu negócio”, diz.\nNo episódio completo, o executivo fala sobre os planos da montadora de lançar 17 novos veículos até 2028, com investimentos no país da ordem de R$ 16 bilhões, ingressando no mercado de híbridos e picapes. Ele está disponível no site da CBN, nas principais plataformas de streaming, como Spotify e Apple Podcasts, e nos canais do Valor e da CBN no YouTube.",
+    "published": "2026-11-16T08:00:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Para atuar em um setor como o automotivo, altamente regulado, que muda constantemente e corre contra o tempo para inovar e abrir novas frentes junto ao consumidor, é preciso gostar de conviver sob pressão. “É um setor que tem uma margem bastante reduzida em relação a outros, entã",
+    "relevance": 5
+  },
+  {
     "source": "Money Times",
     "title": "Lula quer ampliar relações comerciais com países da Asean",
     "link": "https://www.moneytimes.com.br/lula-quer-ampliar-relacoes-comerciais-com-paises-da-asean-fets/",
@@ -1526,7 +1568,13 @@
       "Politica"
     ],
     "summary": "Lula volta a defender o multilateralismo como caminho para a prosperidade e a paz\nO presidente Luiz Inácio Lula da Silva (PT) se reúne nesta segunda-feira (16) com o primeiro-ministro espanhol, Pedro Sánchez, em Madri, na Espanha. \nLula realiza sua primeira viagem internacional a",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/mundo/noticia/2026/11/16/lula-se-reune-com-pedro-sanchez-na-espanha-as-vesperas-de-eleicoes-no-pais.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3885,54 +3933,6 @@
       "Politica"
     ],
     "summary": "Bruno Moretti cita supersalários e benefícios fiscais; texto ainda tramita no Congresso e enfrenta desconfiança do mercado e de alas do governo\nThe post Em vídeo, ministro afirma que ajuste fiscal preserva direitos e combate privilégios appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Pela primeira vez em mais de 30 anos, democratas ganham o governo do Alasca",
-    "link": "https://oglobo.globo.com/mundo/noticia/2026/11/14/pela-primeira-vez-em-mais-de-30-anos-democratas-ganham-o-governo-do-alasca.ghtml",
-    "description": "O democrata Jonathan Kreiss-Tomkins, de 37 anos, venceu a disputa pelo governo do Alasca e encerrou um período de quase três décadas de domínio republicano no cargo. Ex-deputado estadual, ele derrotou três candidatos do Partido Republicano, entre eles Bernadette Wilson, apoiada pelo presidente dos Estados Unidos, Donald Trump. A vitória foi confirmada pela agência de notícias Associated Press (AP) na sexta-feira (13), dez dias depois do fechamento das urnas.\nVeja também: Trump, Putin e Xi Jinping se reunirão na China, na próxima semana; Irã será debatido, mas não Ucrânia \nCaos aéreo nos EUA: Mais de 12 mil voos foram cancelados entre sexta-feira e sábado\nKreiss-Tomkins será o governador mais jovem da história do Alasca e o primeiro democrata a assumir o cargo desde Tony Knowles, que governou o estado entre 1994 e 2002. Ele sucederá o republicano Mike Dunleavy, que permaneceu oito anos no posto. O resultado também representa mais um avanço dos democratas nas eleições de meio de mandato nos Estados Unidos, levando o partido a 30 governos estaduais.\nCampanha e propostas\nConhecido como JKT, Kreiss-Tomkins construiu sua campanha com viagens por diferentes regiões do Alasca e críticas à administração de Dunleavy. O democrata afirmou que o estado precisava mudar de direção e concentrou suas propostas em questões econômicas e na ampliação de serviços públicos.\nEntre as prioridades apresentadas estão a redução do custo de vida e das despesas com energia, o financiamento integral das escolas públicas e a proteção do programa de saúde Medicaid. Ele também defendeu que empresas dos setores de petróleo e gás paguem impostos estaduais sobre a renda corporativa.\nOutra proposta foi estabelecer uma suspensão temporária de novos projetos de centros de processamento de dados até que o Legislativo aprove regras para regulamentar esse tipo de empreendimento.\nDurante a campanha, Kreiss-Tomkins também criticou a deterioração do sistema de balsas do estado, que teve serviços reduzidos em diversas comunidades. A rede é fundamental para localidades do sudeste do Alasca que não possuem ligação por estradas e, em alguns casos, têm acesso limitado ao transporte aéreo.\nApesar das críticas aos republicanos, o democrata apresentou-se como um político disposto a negociar com diferentes correntes partidárias. Ele prometeu formar um gabinete com democratas, republicanos e independentes.\nComo foi a disputa\nA vitória foi construída também a partir de uma articulação entre os dois democratas que avançaram da eleição primária, realizada em agosto. Kreiss-Tomkins e o ex-senador estadual Tom Begich haviam combinado apoiar aquele que recebesse mais votos na primeira etapa.\nBegich, que terminou em segundo lugar, desistiu da disputa pouco depois da divulgação do resultado da primária, permitindo que apenas um democrata concorresse na eleição geral. A estratégia contribuiu para dividir o eleitorado republicano entre três candidatos.\nTrump tentou unificar o apoio do partido em torno de Bernadette Wilson, que também pediu que os outros dois republicanos abandonassem a disputa. O ex-prefeito de Anchorage Dave Bronson e o ex-procurador-geral do estado Treg Taylor, no entanto, mantiveram suas candidaturas.\nKreiss-Tomkins abriu vantagem expressiva após o dia da votação e ultrapassou a marca de 50% dos votos com 88% das cédulas apuradas, na quinta-feira. Com isso, garantiu a vitória sem a necessidade de uma nova rodada de redistribuição de votos.\nSistema eleitoral e cenário político\nO Alasca utiliza um modelo de votação por preferência, no qual os eleitores podem ordenar os candidatos de acordo com suas escolhas. Se nenhum deles alcançar mais de 50% dos votos na primeira contagem, o menos votado é eliminado e suas cédulas são redistribuídas conforme as preferências registradas pelos eleitores.\nA vitória de Kreiss-Tomkins ocorre em um cenário de dificuldades para os republicanos em diferentes partes dos Estados Unidos. Além do Alasca, os democratas conquistaram governos estaduais em redutos tradicionalmente republicanos, como Iowa, Geórgia, Ohio e Texas. Poucos dias antes, o partido também venceu uma disputa acirrada no Kansas, com a eleição da senadora estadual Cindy Holscher.\nNo Alasca, o custo de vida foi um dos fatores que pesaram no debate eleitoral. A localização remota de muitas comunidades exige o transporte de mercadorias por longas distâncias, enquanto diversas residências dependem de geradores movidos a diesel para obter eletricidade.\nO governador também exerce poderes relevantes no estado, incluindo a possibilidade de vetar trechos específicos de projetos de lei. Para derrubar vetos relacionados ao orçamento, o Legislativo precisa reunir três quartos dos votos. Dunleavy teve conflitos frequentes com os parlamentares em discussões sobre receitas estaduais e financiamento da educação.",
-    "published": "2026-11-14T17:41:43+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O democrata Jonathan Kreiss-Tomkins, de 37 anos, venceu a disputa pelo governo do Alasca e encerrou um período de quase três décadas de domínio republicano no cargo. Ex-deputado estadual, ele derrotou três candidatos do Partido Republicano, entre eles Bernadette Wilson, apoiada p",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/mundo/noticia/2026/11/14/alasca-elege-primeiro-governador-democrata-desde-1998-projeta-mdia-dos-eua.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "Poder360",
-    "title": "Mercado estima impacto do ajuste fiscal abaixo de R$ 60 bilhões",
-    "link": "https://www.poder360.com.br/poder-economia/mercado-estima-impacto-do-ajuste-fiscal-abaixo-de-r-60-bilhoes/",
-    "description": "Projeções variam de R$ 27,9 bilhões a R$ 56,1 bilhões em 2027; especialistas questionam dependência de receitas",
-    "published": "2026-11-14T17:00:33+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Projeções variam de R$ 27,9 bilhões a R$ 56,1 bilhões em 2027; especialistas questionam dependência de receitas",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/brasil/noticia/2026/11/16/eleicao-deixa-impacto-de-r-40-bi-para-2027-e-dificulta-o-ajuste-fiscal.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "Poder360",
-    "title": "Entenda como o pacote fiscal limita o crescimento dos gastos",
-    "link": "https://www.poder360.com.br/poder-economia/entenda-como-o-pacote-fiscal-limita-o-crescimento-dos-gastos/",
-    "description": "Texto-base aprovado no Senado também fixa prazo para discutir supersalários e permite despesas extras com investimentos",
-    "published": "2026-11-14T17:00:28+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Texto-base aprovado no Senado também fixa prazo para discutir supersalários e permite despesas extras com investimentos",
     "relevance": 5
   }
 ]
