@@ -1,5 +1,297 @@
 [
   {
+    "source": "Money Times",
+    "title": "Ajuste fiscal: Governo faz acordo com a Câmara para votar proposta ainda hoje sem novas alterações",
+    "link": "https://www.moneytimes.com.br/guimaraes-anuncia-acordo-com-motta-para-votar-plp-do-ajuste-ainda-hoje-sem-novas-alteracoes/",
+    "description": "O ministro da Secretaria de Relações Institucionais (SRI) da Presidência, José Guimarães, anunciou nesta terça-feira, 17, um acordo com o presidente da Câmara, Hugo Motta (Republicanos-PB), para votar o projeto de lei complementar (PLP) do ajuste fiscal ainda hoje. Além disso, Motta se comprometeu a deliberar o texto sem alterações a serem feitas pela Casa, [&#8230;]",
+    "published": "2026-11-17T15:27:24+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O ministro da Secretaria de Relações Institucionais (SRI) da Presidência, José Guimarães, anunciou nesta terça-feira, 17, um acordo com o presidente da Câmara, Hugo Motta (Republicanos-PB), para votar o projeto de lei complementar (PLP) do ajuste fiscal ainda hoje. Além disso, Mo",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "IPO da Anthropic: empresa indica precificação no topo da faixa ou até acima",
+    "link": "https://www.infomoney.com.br/mercados/ipo-da-anthropic-empresa-indica-precificacao-no-topo-da-faixa-ou-ate-acima/",
+    "description": "Dona do chatbot Claude atraiu demanda de investidores muito acima da oferta; operação pode levantar mais de US$ 90 bilhões e se tornar a maior abertura de capital da história\nThe post IPO da Anthropic: empresa indica precificação no topo da faixa ou até acima appeared first on InfoMoney.",
+    "published": "2026-11-17T15:21:02+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Dona do chatbot Claude atraiu demanda de investidores muito acima da oferta; operação pode levantar mais de US$ 90 bilhões e se tornar a maior abertura de capital da história\nThe post IPO da Anthropic: empresa indica precificação no topo da faixa ou até acima appeared first on In",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Nossa posição é de não adiar a reforma tributária, diz Durigan",
+    "link": "https://www.poder360.com.br/poder-economia/nossa-posicao-e-de-nao-adiar-a-reforma-tributaria-diz-durigan/",
+    "description": "Ministro da Fazenda declarou que “é preciso avançar no que é melhor para as empresas e para as pessoas”",
+    "published": "2026-11-17T15:20:51+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Ministro da Fazenda declarou que “é preciso avançar no que é melhor para as empresas e para as pessoas”",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Economia",
+    "title": "Ataque usa páginas de sites famosos para roubar criptomoedas e infectar celulares; entenda",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/ataque-usa-paginas-de-sites-famosos-para-roubar-criptomoedas-e-infectar-celulares.ghtml",
+    "description": "Ataque hacker afeta emissão de boletos de impostos em MG; sistema já foi restabelecido\nSites de algumas das maiores empresas do mundo foram usados em uma campanha de ataques cibernéticos que tentava roubar criptomoedas, capturar dados de cartões bancários e infectar iPhones. Entre as organizações afetadas estão Zoom, HSBC, Equifax, CNN, Salesforce e IKEA.\nSegundo a agência Reuters, códigos maliciosos foram direcionados aos visitantes de sites de 178 organizações de diferentes setores. A ação foi identificada por pesquisadores de segurança digital e explorava uma vulnerabilidade em uma plataforma usada pelas empresas para otimizar suas páginas na internet.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\n➡️ Os códigos tentavam substituir endereços de carteiras de criptomoedas pelos dos criminosos. \nNa prática, isso poderia fazer com que uma pessoa que estivesse realizando um pagamento ou transferência enviasse o dinheiro diretamente aos invasores, em vez de ao destinatário original.\nO ataque também buscava capturar informações de cartões de crédito digitadas pelos usuários, roubar cookies — pequenos arquivos que armazenam informações sobre a navegação e ajudam a manter sessões de usuários conectadas — e fazer capturas de tela.\nAlém disso, os criminosos tentavam instalar códigos capazes de explorar vulnerabilidades em aparelhos que utilizam o sistema operacional iOS, da Apple.\nA Reuters não conseguiu confirmar se os códigos tiveram sucesso em todos os casos nem quantos usuários podem ter sido afetados.\nComo o ataque aconteceu?\nA campanha explorou uma falha de segurança na Optimizely, plataforma utilizada por empresas para testar e aprimorar páginas e experiências de navegação em seus sites.\nDe acordo com o pesquisador de segurança Scott Helme, os códigos maliciosos foram inseridos em projetos de clientes da plataforma e passaram a atingir visitantes de páginas de 178 organizações.\nA própria Optimizely confirmou o incidente. Segundo a empresa, um invasor não autorizado explorou uma vulnerabilidade em seu serviço Experimentation para adicionar códigos JavaScript maliciosos a projetos de alguns clientes.\n🔍 JavaScript é uma linguagem de programação utilizada para adicionar funcionalidades e elementos interativos a páginas da internet. Nesse caso, os criminosos aproveitaram o acesso à plataforma para inserir comandos que poderiam executar ações sem o conhecimento dos visitantes.\nA empresa informou que corrigiu a vulnerabilidade, removeu os códigos inseridos nos projetos afetados, adotou medidas para proteger contas de usuários e implementou novas barreiras para impedir a distribuição de scripts não autorizados.\nQuais empresas foram afetadas?\nEntre as organizações cujos sites foram associados à campanha estão empresas de tecnologia, bancos, serviços financeiros e varejistas.\nA Salesforce, empresa americana de tecnologia, informou que estava investigando alterações não autorizadas nos scripts da Optimizely e desativou os códigos da plataforma por precaução.\nA Equifax, empresa americana de análise de crédito, também investigou o caso, deixou de utilizar a ferramenta e afirmou não ter encontrado evidências de comprometimento de seus sistemas.\nJá a IKEA, grande rede global de móveis, informou que estava apurando possíveis impactos em seus serviços digitais e clientes.\nO HSBC, tradicional banco britânico, afirmou que scripts não autorizados não estavam ativos em seus sites.\nApple, Zoom e CNN não responderam imediatamente aos pedidos de comentário da Reuters.\nO episódio reforça os riscos de segurança associados ao uso de ferramentas de terceiros em sites corporativos. Mesmo quando uma empresa mantém seus próprios sistemas protegidos, uma vulnerabilidade em um serviço externo integrado às suas páginas pode abrir espaço para ataques contra seus visitantes.\nAtaques a criptomoedas já causaram bilhões em prejuízos\nOs ataques contra carteiras e plataformas de criptomoedas continuam representando um risco para o setor. Segundo a empresa de inteligência em blockchain Chainalysis, mais de US$ 22,3 bilhões foram roubados em ataques envolvendo criptomoedas desde 2021.\nEm outubro, uma violação de segurança associada à Coreia do Norte resultou no roubo de US$ 6,3 bilhões da Binance, apontada como a maior exchange de criptomoedas do mundo.\nCybercrime; hacker; crimes digitais; crimes virtuais\nKevin Horvart/Unplash",
+    "published": "2026-11-17T15:18:19+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Ataque hacker afeta emissão de boletos de impostos em MG; sistema já foi restabelecido\nSites de algumas das maiores empresas do mundo foram usados em uma campanha de ataques cibernéticos que tentava roubar criptomoedas, capturar dados de cartões bancários e infectar iPhones. Entr",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "STJ dá prazo de 90 dias para Buzzi desocupar apartamento funcional após afastá-lo do cargo por acusação de importunação sexual",
+    "link": "https://oglobo.globo.com/politica/noticia/2026/11/17/stj-da-prazo-de-90-dias-para-buzzi-desocupar-apartamento-funcional-apos-afasta-lo-do-cargo-por-acusacao-de-importunacao-sexual.ghtml",
+    "description": "O ministro Luis Felipe Salomão, presidente do Superior Tribunal de Justiça, deu um prazo de 90 dias para que o ministro Marco Aurélio Buzzi desocupe o apartamento funcional que lhe foi cedido quando passou a integrar a Corte. A decisão está ligada à condenação do magistrado em razão de acusações de importunação sexual e assédio. Em agosto, o STJ impôs a Buzzi a pena de disponibilidade com proposta de perda do cargo, abrindo caminho para que o ministro seja excluído dos quadros da magistratura.\n\"Se o magistrado sancionado administrativamente com a pena de disponibilidade - ainda mais que houve, no caso, a indicação e a propositura de ação para perda do cargo -, então perde o direito ao recebimento de auxílio-moradia, pela mesma razão deve cessar o uso do imóvel funcional, mediante extinção da permissão\", destacou Salomão.\nSegundo despacho assinado nesta terça, Buzzi terá que entregar as chaves do imóvel à Secretaria de Administração do STJ para vistoria e conferência do mobiliário que seja de propriedade do Senado. O ministro também terá de devolver equipamentos e bens que estejam sob sua responsabilidade. A decisão segue sugestões da Diretoria-Geral do STJ, que vai barrar e ajustar acessos, credenciais e recursos da Corte a Buzzi.",
+    "published": "2026-11-17T15:16:43+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O ministro Luis Felipe Salomão, presidente do Superior Tribunal de Justiça, deu um prazo de 90 dias para que o ministro Marco Aurélio Buzzi desocupe o apartamento funcional que lhe foi cedido quando passou a integrar a Corte. A decisão está ligada à condenação do magistrado em ra",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Agro será um dos setores mais favorecidos com a reforma tributária, diz Durigan",
+    "link": "https://valor.globo.com/brasil/noticia/2026/11/17/agro-sera-um-dos-setores-mais-favorecidos-com-a-reforma-tributaria-diz-durigan.ghtml",
+    "description": "O ministro da Fazenda, Dario Durigan, disse nesta terça-feira que o agronegócio será um dos setores mais favorecidos com a reforma tributária, porque haverá isenção de impostos sobre o consumo para alimentos da cesta básica, inclusive carnes. Ele afirmou que é preciso avançar com a reforma com \"cuidado\", dentro de conformidade e transição para não impactar o fluxo de caixa das empresas.\nLeia também:\nNão há licença para 'gasto indiscriminado' pelos Três Poderes, diz Durigan\n'Adiar reforma tributária em 1 ano é tirar R$ 10 bi de pobres', diz secretário da Receita\n\"O nosso sistema tributário é o pior do mundo. Nós precisamos avançar, como temos avançado com o Congresso Nacional\", disse Durigan em audiência pública no Senado. Ele declarou que a alíquota de referência de 11,3% da Contribuição sobre Bens e Serviços (CBS) corresponde a alíquota máxima que será cobrada no tributo. Essa taxa é destinada aos brasileiros que não têm redução, isenção, benefício ou regime especial, segundo ele. O ministro disse que a alíquota média da economia será de 8,5% em 2027.\n\nDurigan citou lista de setores com benefícios: hotel, restaurante (-40%); locação (-70%); arte, cultura e imprensa (-60%); educação, esporte (-60%); profissional liberal (-30%). \"Ninguém aqui vai pagar, desses aqui, 11,3%. É a alíquota máxima. Quem tem qualquer regime diferenciado vai pagar menos. E as pessoas mais pobres vão pagar 0%\", disse.\n\nEle declarou que o ex-ministro da Economia Paulo Guedes apresentou um projeto de lei da CBS com alíquota prevista de 12%. O ministro afirmou que o governo não decidiu a alíquota \"sozinho\" e cumpriu à risca os trâmites sem \"manipulação\" em trabalho coordenado pelo secretário da Receita Federal, Robinson Barreirinhas.\n\nDurigan declarou que a alíquota de referência será revista anualmente, calculada com as bases de dados. \"Nós vamos ter oportunidade, de novo, sem mágica, sem marretada. A alíquota está alta? Ótimo, vamos revisitar. Tem uma lista aqui que o Barreirinhas está me passando de diminuição de base de cálculo, de isenção, de regime diferenciado\", disse. \"Inclusive, nós defendemos, para alguns casos, redução de regimes diferenciados\", acrescentou.\n\nOs senadores da Comissão de Assuntos Econômicos (CAE) convidaram o ministro da Fazenda; o secretário da Receita Federal, Robinson Barreirinhas; e o presidente do Tribunal de Contas da União, Vital do Rêgo Filho, para debater sobre o cálculo da alíquota de referência da CBS para 2027.\n\nSemanas atrás o TCU definiu em 11,3% a alíquota de referência da CBS. O percentual ficou acima das estimativas do mercado financeiro e surpreendeu tributaristas, como mostrou o Valor. Segundo o Ministério da Fazenda, a alíquota média efetiva do novo tributo federal ficará abaixo de 8,5% em 2027.\n\nA reforma tributária substitui cinco tributos sobre o consumo — PIS, Cofins, IPI, ICMS e ISS — por um IVA dual, formado pela CBS, de competência federal, e pelo IBS, de Estados e municípios. A CBS entra em vigor em 2027, enquanto o Imposto sobre Bens e Serviços (IBS), começará a ser implementado em 2029, de forma gradual, até 2033. A alíquota de referência do IBS que valerá a partir de 2029 será definida pelo TCU em 2028. No ano que vem, o tributo terá uma alíquota simbólica de 0,1%.\n\nWashington Costa/MF",
+    "published": "2026-11-17T15:16:36+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "O ministro da Fazenda, Dario Durigan, disse nesta terça-feira que o agronegócio será um dos setores mais favorecidos com a reforma tributária, porque haverá isenção de impostos sobre o consumo para alimentos da cesta básica, inclusive carnes. Ele afirmou que é preciso avançar com",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Estoques apertados e gasolina defasada: por que o BTG segue otimista com o etanol no curto prazo",
+    "link": "https://www.moneytimes.com.br/estoques-apertados-e-gasolina-defasada-por-que-o-btg-segue-otimista-com-o-etanol-no-curto-prazo-pads/",
+    "description": "O rali recente do etanol pode ainda não ter chegado ao fim. Após uma alta de 33% desde agosto, o combustível renovável segue com fundamentos favoráveis para avançar nos próximos meses, segundo avaliação dos analistas Thiago Duarte e Guilherme Guttilla, do BTG Pactual. A visão positiva do banco tem como base três fatores principais: estoques [&#8230;]",
+    "published": "2026-11-17T15:16:26+00:00",
+    "themes": [
+      "XP"
+    ],
+    "summary": "O rali recente do etanol pode ainda não ter chegado ao fim. Após uma alta de 33% desde agosto, o combustível renovável segue com fundamentos favoráveis para avançar nos próximos meses, segundo avaliação dos analistas Thiago Duarte e Guilherme Guttilla, do BTG Pactual. A visão pos",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Morre aos 95 anos Dan Carney, fundador da Pizza Hut que começou negócio com empréstimo da mãe",
+    "link": "https://oglobo.globo.com/gastronomia/noticia/2026/11/17/morre-aos-95-anos-dan-carney-fundador-da-pizza-hut-que-comecou-negocio-com-emprestimo-da-mae.ghtml",
+    "description": "Dan Carney, um dos fundadores da rede de pizzarias Pizza Hut, morreu aos 95 anos. O empresário estava cercado por familiares quando faleceu, na última sexta-feira, segundo comunicado publicado pela família em seu obituário. A causa da morte não foi informada. \nLeia também: Restaurante brasileiro Iara, com pratos inspirados na Amazônia, é destaque na revista americana 'The New Yorker'\nVeja mais: Encontros de chefs, festivais e eventos especiais movimentam Zona Sul\nCarney criou a rede em 1958, aos 26 anos, com o irmão Frank. Para abrir a primeira unidade, os dois conseguiram um empréstimo de US$ 600 da mãe — valor que corresponde a aproximadamente R$ 40,4 mil em poder de compra atual, considerando a inflação americana e a cotação do dólar. O restaurante foi instalado em um pequeno imóvel próximo à Universidade Estadual de Wichita, no Kansas, nos Estados Unidos.\nNa época, a pizza ainda era pouco conhecida entre os consumidores americanos. O negócio, porém, cresceu rapidamente. Em 1959, pouco mais de um ano depois da inauguração, os irmãos começaram a expandir a marca por meio de franquias. A rede chegou ao mercado internacional no fim da década de 1960 e, em 1971, já era considerada a maior cadeia de pizzarias do mundo em número de unidades e vendas.\nEm 1977, a PepsiCo comprou a Pizza Hut por US$ 300 milhões. Corrigido pela inflação americana e convertido pela cotação atual, o valor equivale a aproximadamente R$ 9,6 bilhões. A aquisição marcou uma nova fase da empresa, que continuou sua expansão sob o controle do grupo. Frank permaneceu na companhia como executivo e deixou o cargo de presidente em 1980.\nO primeiro restaurante da rede, em Wichita, foi preservado e transformado no Museu da Pizza Hut, aberto ao público em 2018. Na inauguração, Carney afirmou que o espaço representava a trajetória de empreendedorismo iniciada por ele e pelo irmão, além do trabalho dos franqueados que ajudaram a transformar o negócio em uma marca global.\nTrajetória além da rede de pizzarias\nNascido em Kansas City, no Missouri, Carney era um dos 12 filhos de uma família que tinha a fé e a vida comunitária como referências. Formou-se em administração de empresas pela Universidade Estadual de Wichita em 1953 e serviu por dois anos na Força Aérea americana, onde chegou ao posto de primeiro-tenente. Em 2004, mais de cinco décadas depois da primeira graduação, concluiu um mestrado.\nO empresário também se dedicou a iniciativas filantrópicas. Foi presidente do conselho da Cerebral Palsy Research Foundation of Kansas, organização voltada à pesquisa e ao apoio a pessoas com paralisia cerebral. Ao longo da vida, participou de mais de 30 conselhos de instituições beneficentes e religiosas.\nCarney se casou com Beverly Singleton em fevereiro de 1954. Os dois tiveram seis filhos e 12 netos. Beverly morreu em 1998. Em 2001, ele se casou com Gayla Coulter, com quem permaneceu até a morte.\nA Universidade Estadual de Wichita, onde Carney estudou e ajudou a construir sua trajetória empresarial, publicou uma homenagem nas redes sociais. A instituição destacou o compromisso do empresário com a comunidade acadêmica ao longo de mais de sete décadas e sua atuação como mentor de estudantes e profissionais.",
+    "published": "2026-11-17T15:16:24+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Dan Carney, um dos fundadores da rede de pizzarias Pizza Hut, morreu aos 95 anos. O empresário estava cercado por familiares quando faleceu, na última sexta-feira, segundo comunicado publicado pela família em seu obituário. A causa da morte não foi informada. \nLeia também: Restau",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Governo tenta conter ala do PT contrária ao ajuste fiscal",
+    "link": "https://www.poder360.com.br/poder-governo/governo-tenta-conter-ala-do-pt-contraria-ao-ajuste-fiscal/",
+    "description": "Planalto rebate críticas de petistas ao projeto, enquanto a bancada na Câmara apresenta propostas para taxar os mais ricos",
+    "published": "2026-11-17T15:15:04+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Planalto rebate críticas de petistas ao projeto, enquanto a bancada na Câmara apresenta propostas para taxar os mais ricos",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Reino Unido anuncia sanções contra empresas envolvidas na construção de assentamentos israelenses na Cisjordânia",
+    "link": "https://oglobo.globo.com/mundo/noticia/2026/11/17/reino-unido-anuncia-sancoes-contra-empresas-envolvidas-na-construcao-de-assentamentos-israelenses-na-cisjordania.ghtml",
+    "description": "O governo do Reino Unido anunciou um pacote de sanções contra oito empresas envolvidas na construção de assentamentos israelenses na Cisjordânia, ilegais pela lei internacional, e contra um grupo acusado de impedir a entrega de ajuda huimanitária na Faixa de Gaza. Segundo Londres, as ações, as primeiras desse tipo, visam manter aberta a porta para a solução de Dois Estados e para impedir o agravamento da crise em Gaza.\nPerto de deixar o poder: Líderes da oposição acusam premier de Israel de 'tentativa de golpe' após indícios de ação para incriminar árabes e alegar fraude eleitoral\nQuer morar fora? Veja guia interativo que reúne informações sobre 36 países\nQuer ler mais notícias de Mundo? Acompanhe o canal no WhatsApp\nAs oito empresas citadas na ordem ajudaram, de acordo com o Reino Unido, na construção, planejamento, e promoção de unidades residenciais e na implementação de obras de infraestrutura, como estradas, ruas e instalações públicas na Cisjordânia. As sanções preveem o congelamento de bens e limitações a linhas de financiamento em instituições britânicas, cujo impacto prático não é possível identificar de imediato. \nEssa é a primeira vez que empresas ligadas à infraestrutura dos assentamentos israelenses na Cisjordânia — declarados ilegais pela Corte Internacional de Justiça em 2024 — sofrem sanções no Ocidente, e o anúncio veio na reta final de apresentação de projetos para uma área conhecida como E1. Se implementados, apontam ativistas, especialistas e governos de todo o mundo, eles vão separar fisicamente Jerusalém Oriental do restante da Cisjordânia, inviabilizando um futuro Estado Palestino. Em setembro, 12 países, dentre eles o Reino Unido, anunciaram medidas para restringir o comércio de produtos vindos de assentamentos. \n“Proteger a solução de dois Estados é o norte da abordagem deste governo”, afirmou o chanceler britânico, Ed Miliband, em comunicado. “É por isso que minha mensagem sobre E1 é clara: não apresentem propostas, não construam e não lucrem com a destruição da solução de dois Estados.”\nDe acordo com a ONG Peace Now, há hoje 146 assentamentos “oficiais” (reconhecidos pelo governo israelense) e 422 comunidades criadas de forma irregular, mas toleradas pelas autoridades do país — pela lei internacional, todas são ilegais —, com uma população de mais de meio milhão de pessoas. \nNo ano passado: ONU inclui 68 novas empresas em lista de companhias supostamente ligadas a assentamentos israelenses na Cisjordânia\nDesde o início de 2023, quando o premier Benjamin Netanyahu retornou ao poder, o ritmo de avanço dos assentamentos disparou, agora incentivado por membros do Gabinete abertamente favoráveis aos colonos. Alguns deles, como o ministro das Finanças, Bezalel Smotrich, defendem a anexação completa da Cisjordânia, algo que nem o presidente dos EUA, Donald Trump, quis apoiar. \nAlém das construções, os ataques de colonos à população palestina se tornaram cada vez mais frequentes e mortais: desde outubro de 2023, após os ataques do Hamas contra Israel e o início da guerra em Gaza, mais de mil palestinos foram mortos no território, e dezenas de milhares foram forçados para fora de suas casas.\nA ordem do governo britânico também cita o grupo israelense Tzav 9, responsável por bloqueios de envios de ajuda humanitária à Faixa de Gaza. O grupo já figura em listas de sanções de outros países e instituições, como a União Europeia, desde 2024, e foi acusado de atacar comboios com alimentos e insumos básicos em estradas e portos. \n“Não ficaremos de braços cruzados enquanto aqueles que bloqueiam a ajuda — de que há uma necessidade desesperada — agravam o sofrimento intolerável dos civis em Gaza”, acrescentou Miliband. “O status quo na Cisjordânia e em Gaza é inaceitável.”\n‘Terrorismo judaico’: Generais que lutaram por Israel denunciam violência de colonos na Cisjordânia\nNo comunicado, Londres menciona o agravamento das condições em Gaza, sujeita a bombardeios diários — apesar de um cessar-fogo tecnicamente em vigor desde o ano passado — e a catástrofes naturais. Temporais recentes destruíram mais de quatro mil residências, em sua maioria tendas, e deixaram ao menos cinco mortos. De acordo com a ONU, há 150 mil tendas e 300 mil unidades de lonas de cobertura aguardando autorização das autoridades israelenses para entrar no território, que mencionam “questões de segurança” para os bloqueios e atrasos na liberação dos comboios. \nA relação do governo britânico com Israel se deteriorou após a chegada do Partido Trabalhista ao poder em 2024, e a posse do novo premier, Andy Burnham, não mudou os rumos diplomáticos ou o discurso sobre a situação no Oriente Médio. No comunicado, Miliband menciona a iminente criação de um novo Gabinete em Israel, no qual o atual premier, Benjamin Netanyahu, não deve ter espaço. \n“Estamos comprometidos em trabalhar de forma produtiva com um novo governo israelense e com a Autoridade [Nacional] Palestina (ANP) para promover uma paz e uma segurança duradouras, tanto para israelenses quanto para palestinos”, conclui. \nAs sanções foram recebidas positivamente pela ANP, que as chamou de “mensagem clara” para todos os envolvidos na construção de assentamentos na Cisjordânia. A ONG Peace Now disse que as medidas são resultado do sacrifício da posição internacional de Israel em troca de “uma perigosa visão messiânica”, e que está nítido que a política de assentamentos “terá seu preço”.",
+    "published": "2026-11-17T15:11:54+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "O governo do Reino Unido anunciou um pacote de sanções contra oito empresas envolvidas na construção de assentamentos israelenses na Cisjordânia, ilegais pela lei internacional, e contra um grupo acusado de impedir a entrega de ajuda huimanitária na Faixa de Gaza. Segundo Londres",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/mundo/noticia/2026/11/17/reino-unido-impe-sanes-a-empresas-de-israel-ligadas-a-assentamentos-na-cisjordnia.ghtml"
+      }
+    ]
+  },
+  {
+    "source": "O Globo",
+    "title": "Alerj aprova título de patrimônio para o Nilton Santos",
+    "link": "https://oglobo.globo.com/rio/bairros/tijuca-e-zona-norte/noticia/2026/11/17/alerj-aprova-titulo-de-patrimonio-para-o-nilton-santos.ghtml",
+    "description": "O Estádio Olímpico Nilton Santos, na Zona Norte do Rio, poderá ser declarado Patrimônio Cultural, Turístico e Imaterial do Estado do Rio de Janeiro. A proposta foi aprovada em segunda discussão pela Assembleia Legislativa do Estado do Rio de Janeiro (Alerj), no fim de outubro, e agora depende de sanção do governo estadual. O Projeto de Lei 2.287/23 é de autoria da deputada Verônica Lima (PT).\nEmbate: CPI da Educação Inclusiva provoca embate em Niterói: 'Esquerda que a direita gosta'\nVisual: Retirada de fiação dos postes revela fachadas e muda paisagem no Centro de Niterói; veja antes e depois\nInaugurado em junho de 2007, o estádio passou a ser a casa do Botafogo dois meses depois, quando o clube venceu a licitação promovida pela prefeitura. Conhecido popularmente como Engenhão, o equipamento esportivo recebeu o nome de Nilton Santos em homenagem ao ex-jogador do clube e da seleção brasileira, considerado um dos maiores laterais da história do futebol mundial.\nEm 2000, Nilton Santos foi eleito pela Fifa o melhor lateral-esquerdo de todos os tempos. Além de receber partidas de futebol, o estádio tem capacidade para cerca de 46 mil torcedores e conta com estrutura para diferentes modalidades esportivas, incluindo uma pista de atletismo. Em 2016, foi um dos principais palcos dos Jogos Olímpicos do Rio, sediando provas de atletismo e partidas de futebol.\nNa justificativa do projeto, Verônica Lima destaca a importância histórica e esportiva do equipamento, que também recebe grandes shows e eventos culturais. Para a deputada, o reconhecimento como patrimônio representa uma valorização da Zona Norte e da democratização do acesso ao esporte, à cultura e ao lazer.\n— Reconhecer o Estádio Nilton Santos como patrimônio é valorizar a Zona Norte e o acesso popular ao esporte. O futebol sempre foi uma paixão do nosso povo e precisa continuar perto de quem vive nas periferias. Também é uma homenagem à trajetória de Nilton Santos, um dos maiores nomes do futebol mundial, que revolucionou a posição de lateral e merece ser referência para as novas gerações.Além disso, o Engenhão democratiza o acesso à cultura. Ao receber grandes shows e eventos na Zona Norte, descentraliza a programação da cidade, movimenta a economia e gera oportunidades — afirma a parlamentar.\nA deputada também ressalta a importância da homenagem ao ex-jogador e o papel do estádio na descentralização da programação cultural da cidade. Segundo ela, a realização de grandes eventos na região movimenta a economia local e gera oportunidades para os moradores.\nInitial plugin text",
+    "published": "2026-11-17T15:11:16+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O Estádio Olímpico Nilton Santos, na Zona Norte do Rio, poderá ser declarado Patrimônio Cultural, Turístico e Imaterial do Estado do Rio de Janeiro. A proposta foi aprovada em segunda discussão pela Assembleia Legislativa do Estado do Rio de Janeiro (Alerj), no fim de outubro, e ",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "CEO interina, Colette Kress, estreia no cargo em divulgação dos balanços da Nvidia",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/ceo-interina-colette-kress-estreia-no-cargo-em-divulgacao-dos-balancos-da-nvidia.shtml",
+    "description": "A sucessora interina de Jensen Huang, Colette Kress, sairá pela primeira vez da sombra do desacreditado executivo da Nvidia nesta terça-feira (17), ao tentar tranquilizar Wall Street de que a fabricante de chips para inteligência artificial pode manter seu crescimento acelerado sem o fundador.\nLeia mais (11/17/2026 - 12h10)",
+    "published": "2026-11-17T15:10:00+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A sucessora interina de Jensen Huang, Colette Kress, sairá pela primeira vez da sombra do desacreditado executivo da Nvidia nesta terça-feira (17), ao tentar tranquilizar Wall Street de que a fabricante de chips para inteligência artificial pode manter seu crescimento acelerado s",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Alcolumbre participa de articulações para preservar pacote fiscal e busca rejeitar destaques, dizem aliados",
+    "link": "https://oglobo.globo.com/economia/noticia/2026/11/17/alcolumbre-participa-de-articulacoes-para-preservar-pacote-fiscal-e-busca-rejeitar-destaques-dizem-aliados.ghtml",
+    "description": "O presidente do Senado, Davi Alcolumbre (União-AP), participa das articulações para evitar mudanças no pacote de ajuste fiscal durante a votação dos destaques, prevista para esta terça-feira. Segundo aliados, Alcolumbre tem demonstrado otimismo com a possibilidade de rejeição das propostas de alteração e manutenção do texto aprovado na semana passada.\nNos últimos dias, o senador conversou com parlamentares de partidos do centrão, incluindo tanto aqueles que votaram a favor quanto os que se posicionaram contra o projeto. Procurado para comentar as articulações em torno do ajuste fiscal, Alcolumbre não se manifestou.\nNa quinta-feira, após a aprovação do texto-base, Alcolumbre justificou o adiamento da análise dos destaques afirmando que os senadores teriam mais tempo para reconsiderar suas posições.\n— Foi um longo dia de muitas negociações. Transferi (a análise dos) destaques porque nós estávamos também muito cansados. Até terça-feira, todos vão poder refletir para ver se mantêm ou retiram (o apoio aos destaques), para concluirmos essa votação e encaminharmos à Câmara dos Deputados — afirmou.\nA movimentação ocorre em meio aos esforços para preservar a economia estimada pelo governo com o pacote. A avaliação transmitida por interlocutores de Alcolumbre é de que há condições políticas para rejeitar os destaques e encaminhar o projeto à Câmara sem novas alterações. O resultado, no entanto, depende da votação em plenário.\nAlcolumbre e o presidente da Câmara, Hugo Motta (Republicanos-PB), atuam para acelerar a tramitação do pacote de ajuste fiscal no Congresso. A expectativa no Senado é concluir a votação dos destaques na tarde desta terça-feira, permitindo que a proposta siga imediatamente para a Câmara, onde poderá ser analisada ainda hoje. \nO presidente do Senado deve se encontrar com o presidente Luiz Inácio Lula da Silva (PT) nos próximos dias para discutir a indicação de um novo ministro ao Supremo Tribunal Federal (STF). A conversa ocorre em meio às articulações do Planalto para preencher a vaga aberta com a saída de Luís Roberto Barroso, após a rejeição do nome do advogado-geral da União, Jorge Messias, pelo Senado, em abril. Desta vez, o governo pretende alinhar previamente com Alcolumbre tanto a escolha do indicado quanto o calendário de votação. A expectativa é anunciar um nome ainda em novembro, para que a sabatina na Comissão de Constituição e Justiça (CCJ) ocorra no início de dezembro.\nNa semana passada, o Senado aprovou o texto-base do projeto por 45 votos a 31, mas deixou pendente a análise de quatro destaques que podem reduzir a economia estimada pelo governo em até R$ 56 bilhões para 2027. Como se trata de um projeto de lei complementar, são necessários 41 votos favoráveis para manter os dispositivos submetidos à votação separada. \nUm dos principais pontos de disputa é o dispositivo que reduz temporariamente os repasses previstos na Lei Kandir a estados e municípios. A medida enfrenta resistência de governadores e é vista pela oposição como uma oportunidade de atrair votos de senadores que apoiaram o texto-base, mas têm ressalvas à alteração nas transferências.",
+    "published": "2026-11-17T15:09:16+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O presidente do Senado, Davi Alcolumbre (União-AP), participa das articulações para evitar mudanças no pacote de ajuste fiscal durante a votação dos destaques, prevista para esta terça-feira. Segundo aliados, Alcolumbre tem demonstrado otimismo com a possibilidade de rejeição das",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Não queremos prejudicar empresas com reforma tributária, diz Durigan",
+    "link": "https://www.poder360.com.br/poder-economia/nao-queremos-prejudicar-empresas-com-reforma-tributaria-diz-durigan/",
+    "description": "Ministro da Fazenda afirmou que a reforma visa a melhorar a produtividade da economia brasileira",
+    "published": "2026-11-17T15:07:50+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Ministro da Fazenda afirmou que a reforma visa a melhorar a produtividade da economia brasileira",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Presidente do STJ dá prazo para Buzzi desocupar apartamento funcional e determina devolução de equipamentos",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/17/presidente-do-stj-da-prazo-para-buzzi-desocupar-apartamento-funcional-e-determina-devolucao-de-equipamentos.ghtml",
+    "description": "JO presidente do Superior Tribunal de Justiça (STJ), ministro Luis Felipe Salomão, determinou que o ministro afastado Marco Buzzi desocupe o apartamento funcional situado na Asa Sul, em Brasília, no prazo de 90 dias. \nAlém da devolução do imóvel, a decisão desta terça-feira (17) impõe a restituição de equipamentos, e bens públicos sob a responsabilidade do magistrado, bem como a adequação de credenciais e acessos institucionais.\nA nova determinação é um desdobramento da decisão do STJ de agosto em agosto, quando o Plenário da Corte decidiu punir Marco Buzzi e recomendou a perda do cargo após denúncias de assédio sexual. \nNa ocasião, a Corte entendeu que a gravidade das condutas atribuídas ao magistrado justificava a sanção disciplinar máxima que pode ser aplicada no âmbito administrativo.\nEm resultado inédito, ministro do STJ Marco Buzzi é condenado à perda do cargo\nNa semana passada, o Supremo Tribunal Federal (STF) manteve o afastamento cautelar de Buzzi do STJ, preservando o pagamento de seus vencimentos enquanto a ação que discute a perda definitiva do cargo não é julgada em definitivo pela Suprema Corte.\nMinistro Marco Buzzi do STJ\nGustavo Lima/STJ",
+    "published": "2026-11-17T15:06:53+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "JO presidente do Superior Tribunal de Justiça (STJ), ministro Luis Felipe Salomão, determinou que o ministro afastado Marco Buzzi desocupe o apartamento funcional situado na Asa Sul, em Brasília, no prazo de 90 dias. \nAlém da devolução do imóvel, a decisão desta terça-feira (17) ",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Bolsas em NY abrem majoritariamente em queda com techs em foco",
+    "link": "https://valor.globo.com/financas/noticia/2026/11/17/bolsas-em-ny-abrem-majoritariamente-em-queda-com-techs-em-foco.ghtml",
+    "description": "Os principais índices de ações de Nova York abriram majoritariamente em baixa nesta terça-feira. Há uma tentativa de recuperação no setor de tecnologia após a notícia de que a Anthropic, dona do Claude, pretende precificar sua oferta pública inicial de ações acima da faixa atualmente estabelecida, de US$ 70 a US$ 78 por ação. Por outro lado, ainda há cautela antes dos resultados trimestrais da Nvidia, que serão divulgados após o fechamento do mercado.\n\nPor volta das 11h35 (de Brasília), o índice Nasdaq, que concentra empresas de tecnologia e comunicação, rondava a estabilidade (+0,06%), aos 24.513,318 pontos, enquanto o Dow Jones tinha queda de 0,64%, aos 51.270,07 pontos, e o S&amp;P 500 cedia 0,22%, aos 7.400,11 pontos. Entre os destaques, o índice Filadélfia de semicondutores subia 0,54%, aos 9.662,44 pontos, após um forte tombo na véspera. As ações da Nvidia (-0,04%) seguiam estendendo as perdas recentes, mas a Marvell Technology (+2,44%), a Broadcom (+1,56%) e outras empresas do segmento eram destaque entre os ganhos da abertura.\n\nO subíndice de energia tinha valorização de 1,11%, liderando as altas nesta manhã, em linha com a alta dos preços do petróleo. Na temporada de balanços, as ações da Home Depot apresentavam perda de 2,22%, ficando entre as maiores perdas do Dow Jones e contribuindo para pressionar o desempenho do índice, após a empresa divulgar seus resultados trimestrais. A Disney subia 0,13%.",
+    "published": "2026-11-17T15:06:26+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Os principais índices de ações de Nova York abriram majoritariamente em baixa nesta terça-feira. Há uma tentativa de recuperação no setor de tecnologia após a notícia de que a Anthropic, dona do Claude, pretende precificar sua oferta pública inicial de ações acima da faixa atualm",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Campanha de Lula atinge limite de gastos e a de Flávio fica R$ 18,6 milhões abaixo do teto",
+    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/11/campanha-de-lula-atinge-limite-de-gastos-e-a-de-flavio-fica-r-186-milhoes-abaixo-do-teto.ghtml",
+    "description": "Acabou ontem o prazo do TSE para a prestação de contas final dos candidatos que participaram dos segundo turno das eleições. A campanha de Lula declarou R$ 133,38 milhões em despesas contratadas e pagas, além de ter repassado R$ 1,81 milhão para outros candidatos ou partidos. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-17T15:05:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Acabou ontem o prazo do TSE para a prestação de contas final dos candidatos que participaram dos segundo turno das eleições. A campanha de Lula declarou R$ 133,38 milhões em despesas contratadas e pagas, além de ter repassado R$ 1,81 milhão para outros candidatos ou partidos. Mat",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Reforma foi o maior ganho de produtividade em 40 anos, diz Durigan",
+    "link": "https://www.poder360.com.br/poder-economia/reforma-foi-o-maior-ganho-de-produtividade-em-40-anos-diz-durigan/",
+    "description": "Ministro chamou sistema tributário do Brasil de pior do mundo e defendeu alíquota de 11,3% fixada pelo TCU para a CBS",
+    "published": "2026-11-17T15:04:05+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Ministro chamou sistema tributário do Brasil de pior do mundo e defendeu alíquota de 11,3% fixada pelo TCU para a CBS",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Milhares de servidores públicos vão às ruas na França por salários maiores; cerca de 6 milhões foram convocados para greve",
+    "link": "https://oglobo.globo.com/mundo/noticia/2026/11/17/milhares-de-servidores-publicos-vao-as-ruas-na-franca-por-salarios-maiores-cerca-de-6-milhoes-foram-convocados-para-greve.ghtml",
+    "description": "Milhares de funcionários públicos protestaram na França, nesta terça-feira, para reivindicar salários maiores, em um momento em que o governo do presidente Emmanuel Macron busca aprovar um ajuste fiscal rigoroso para 2027 e enfrenta, desde setembro, outras demandas sociais. Os sindicatos convocaram a segunda greve de funcionários públicos em menos de um mês, após uma reunião na sexta-feira com o primeiro-ministro francês de centro-direita, Sébastien Lecornu, ter terminado sem o esperado anúncio de aumentos salariais gerais para os trabalhadores do setor público.\nContexto: Franceses voltam às ruas em protestos contra alta do custo de vida e a violência policial\nO GLOBO no Mundo: Receba as notícias internacionais direto no seu celular\nPensa em morar fora? Veja guia interativo do GLOBO que reúne informações sobre 36 países\n— É desolador pensar que os serviços públicos estão na linha de frente em todas as situações de crise, mas que os funcionários públicos são os mais maltratados entre os trabalhadores assalariados na França — disse à AFP Fabien Golfier, do sindicato FA-FP.\nA secretária-geral do sindicato francês Confederação Geral do Trabalho (CGT), Sophie Binet (7ª à esquerda), a porta-voz do sindicato estudantil Union Etudiante, Sabrine Kharbach (5ª à esquerda), a porta-voz do sindicato estudantil Union Nationale des Étudiants de France (UNEF), Manon Moret (8ª à esquerda), e o porta-voz do sindicato estudantil Union Syndicale Lycéenne (USL), Ryad Rani (à esquerda), participam de um dia de greves e manifestações no setor público em todo o país, motivadas pelo aumento do custo de vida, em Paris, no dia 17 de novembro de 2026\nDIMITAR DILKOFF / AFP\nCerca de 6 milhões de funcionários públicos foram convocados para a greve. As autoridades estimam que até 300 mil pessoas participem das manifestações, que já começaram a percorrer as ruas.\nInitial plugin text\nPara responder ao descontentamento social generalizado contra o aumento do custo de vida, o governo anunciou, na semana passada, um aumento do salário mínimo para 1.500 euros líquidos (R$ 9.462), a partir de dezembro.\nNo entanto, os sindicatos consideraram a medida insuficiente e esperavam, também, um aumento nos salários dos funcionários públicos.\nVeja também: Greve nacional leva quase 600 mil pessoas às ruas de várias cidades da França e fecha Torre Eiffel\nÀs manifestações desta terça-feira juntaram-se também os estudantes que, desde meados de setembro, reivindicam melhores condições de ensino.\nA cinco meses das eleições que definirão o sucessor de Macron, o governo encontra-se sob pressão para sanear os cofres públicos endividados. A Comissão Europeia instou a França, nesta terça, a reduzir o seu déficit e a sua dívida.",
+    "published": "2026-11-17T15:03:17+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Milhares de funcionários públicos protestaram na França, nesta terça-feira, para reivindicar salários maiores, em um momento em que o governo do presidente Emmanuel Macron busca aprovar um ajuste fiscal rigoroso para 2027 e enfrenta, desde setembro, outras demandas sociais. Os si",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Câmara vai pautar votação de ajuste fiscal nesta terça (17), afirma ministro",
+    "link": "https://www.infomoney.com.br/politica/camara-vai-pautar-votacao-de-ajuste-fiscal-nesta-terca-17-afirma-ministro/",
+    "description": "José Guimarães afirmou que presidente da Casa Baixa, Hugo Motta, firmou um compromisso com o governo para pautar texto após votação no Senado\nThe post Câmara vai pautar votação de ajuste fiscal nesta terça (17), afirma ministro appeared first on InfoMoney.",
+    "published": "2026-11-17T15:01:11+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "José Guimarães afirmou que presidente da Casa Baixa, Hugo Motta, firmou um compromisso com o governo para pautar texto após votação no Senado\nThe post Câmara vai pautar votação de ajuste fiscal nesta terça (17), afirma ministro appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "PF cria divisão para combater fraudes em competições esportivas",
+    "link": "https://www.poder360.com.br/poder-sportsmkt/pf-cria-divisao-para-combater-fraudes-em-competicoes-esportivas/",
+    "description": "Parceria com o Ministério do Esporte visa à integridade dos eventos e à prevenção de manipulações de resultados de jogos",
+    "published": "2026-11-17T15:00:56+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Parceria com o Ministério do Esporte visa à integridade dos eventos e à prevenção de manipulações de resultados de jogos",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Estrangeiros retiram R$ 85,1 milhões da B3 em 13 de novembro e completam 16 sessões de saques",
+    "link": "https://valor.globo.com/financas/noticia/2026/11/17/estrangeiros-retiram-r-851-milhes-da-b3-em-13-de-novembro-e-completam-16-sesses-de-saques.ghtml",
+    "description": "Os investidores estrangeiros retiraram R$ 85,1 milhões em recursos no segmento secundário da B3 (ações já listadas) em 13 de novembro, quando o Ibovespa subiu 0,66%. A sucessiva retirada, completando 16 pregões, leva o saldo da categoria a ficar negativo em R$ 5,5 bilhões no mês. No entanto, o saldo do ano permanece positivo em R$ 29,9 bilhões.  \n\nO investidor institucional, por sua vez, retirou R$ 15 milhões na mesma data, diminuindo o saldo positivo do mês para R$ 98,1 milhões. No acumulado do ano, porém, o saldo está negativo em R$ 48,8 bilhões.  \n\nJá o investidor individual aportou R$ 5,7 milhões no mesmo dia. No acumulado do mês, o saldo desse perfil de alocador está positivo em R$ 2,9 bilhões o e em R$ 18,1 bilhões no ano. As informações foram divulgadas pela B3.",
+    "published": "2026-11-17T15:00:09+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Os investidores estrangeiros retiraram R$ 85,1 milhões em recursos no segmento secundário da B3 (ações já listadas) em 13 de novembro, quando o Ibovespa subiu 0,66%. A sucessiva retirada, completando 16 pregões, leva o saldo da categoria a ficar negativo em R$ 5,5 bilhões no mês.",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Dólar em alta: 7 fatores que podem mudar a trajetória da moeda",
+    "link": "https://www.infomoney.com.br/mercados/dolar-em-alta-7-fatores-trajetoria-moeda/",
+    "description": "Juros americanos, contas públicas, commodities e fluxo estrangeiro estão entre os fatores que podem sustentar a valorização do dólar ou abrir espaço para uma correção\nThe post Dólar em alta: 7 fatores que podem mudar a trajetória da moeda appeared first on InfoMoney.",
+    "published": "2026-11-17T15:00:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Juros americanos, contas públicas, commodities e fluxo estrangeiro estão entre os fatores que podem sustentar a valorização do dólar ou abrir espaço para uma correção\nThe post Dólar em alta: 7 fatores que podem mudar a trajetória da moeda appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "É preciso enfrentar privilégios para organizar contas, diz Durigan",
     "link": "https://www.poder360.com.br/poder-economia/e-preciso-enfrentar-privilegios-para-organizar-contas-diz-durigan/",
@@ -10,6 +302,18 @@
       "Politica"
     ],
     "summary": "Ministro da Fazenda afirmou que reforma tributária trará justiça tributária e produtividade à economia nacional",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Enem 2026: quando sai o gabarito oficial?",
+    "link": "https://oglobo.globo.com/brasil/educacao/enem-e-vestibular/noticia/2026/11/17/enem-2026-quando-sai-o-gabarito-oficial.ghtml",
+    "description": "O gabarito oficial das provas do Enem 2026 está previsto para ser divulgado nesta quarta-feira (18), de acordo com ministro da Educação, Leonardo Barchini. As notas oficiais das provas serão publicadas em 18 de janeiro. \nCorretor de redação do Enem 2026: ferramenta estima a nota que você tirou\nCalculadora Enem 2026: veja como simular nota na prova\nOs candidatos que querem ter uma estimativa de como se saíram no exame antes da divulgação oficial pelo Inep podem conferir as respostas no gabarito extraoficial do Enem 2026, desenvolvido pelo O GLOBO em parceria com professores do Elite Rede de Ensino e da Amplia Plataforma de Ensino. Nos dois dias de prova, os docentes se reuniram em uma transmissão ao vivo para corrigir e comentar as questões. Com esta correção extraoficial, os candidatos podem conferir as respostas e verificar uma prévia de seu desempenho no exame.\nVale lembrar que o exame utiliza diferentes versões de cadernos para aumentar a segurança durante a aplicação. As questões são as mesmas, mas a ordem das perguntas e das alternativas muda entre as provas. Por isso, o candidato precisa identificar a cor do caderno recebido antes de conferir o gabarito.\nO Enem 2026 foi dividido em dois dias de aplicação, como de costume. No primeiro domingo, 8 de novembro, os candidatos fizeram as provas de Linguagens, Ciências Humanas e Redação. Já no segundo dia, em 15 de novembro, foram aplicadas 45 questões de Matemática e 45 de Ciências da Natureza. Nesta edição da prova, mais de 5 milhões de pessoas tiveram as inscrições confirmadas, sendo o maior registro desde 2020. \nGabarito Enem 2026, com correção extraoficial do 1° dia\nGabarito Enem 2026 prova branca: veja correção extraoficial do 1º dia\nGabarito Enem 2026 prova verde: veja correção extraoficial do 1º dia\nGabarito Enem 2026 prova azul: veja correção extraoficial do 1º dia\nGabarito Enem 2026 prova amarela: veja correção extraoficial do 1º dia\nGabarito Enem 2026, com correção extraoficial do 2° dia\nGabarito Enem 2026 prova amarela: veja correção extraoficial do 2º dia\nGabarito Enem 2026 prova verde: veja correção extraoficial do 2º dia\nGabarito Enem 2026 prova azul: veja correção extraoficial do 2º dia\nGabarito Enem 2026 prova cinza: veja correção extraoficial do 2º dia\nComo calcular a nota do Enem 2026?\nA nota do Enem é calculada por meio da Teoria de Resposta ao Item (TRI), metodologia que considera não apenas a quantidade de acertos, mas também o nível de dificuldade das questões e o padrão de respostas de cada participante. O método utilizado faz com que a prova de Matemática acabe tendo o maior peso entre as áreas de conhecimento com questões de múltipla escolha. \nPara ajudar os candidatos a estimar o desempenho, O GLOBO desenvolveu uma calculadora de nota do Enem. Após conferir o gabarito extraoficial, basta informar a quantidade de acertos para obter uma previsão da pontuação. Os participantes também podem consultar a ferramenta Simulador Sisu, que permite descobrir qual pontuação é necessária para concorrer a diferentes cursos e universidades, considerando os pesos adotados por cada instituição no Sisu.",
+    "published": "2026-11-17T14:55:04+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O gabarito oficial das provas do Enem 2026 está previsto para ser divulgado nesta quarta-feira (18), de acordo com ministro da Educação, Leonardo Barchini. As notas oficiais das provas serão publicadas em 18 de janeiro. \nCorretor de redação do Enem 2026: ferramenta estima a nota ",
     "relevance": 5
   },
   {
@@ -25,6 +329,34 @@
     "relevance": 5
   },
   {
+    "source": "O Globo",
+    "title": "Diretor-geral da PF diz a ministro da Justiça que dois delegados foram afastados do Caso Master por ‘quebra de confiança’ e relatórios fora do padrão determinado por Fachin",
+    "link": "https://oglobo.globo.com/politica/noticia/2026/11/17/diretor-geral-da-pf-diz-a-ministro-da-justica-que-dois-delegados-foram-afastados-do-caso-master-por-quebra-de-confianca-e-relatorios-fora-do-padrao-determinado-por-fachin.ghtml",
+    "description": "O diretor-geral da Polícia Federal, Andrei Rodrigues, afirmou em ofício enviado ao Ministério da Justiça que houve \"quebra na fundamental relação de confiança mútua\" com os  delegados que atuavam na coordenação dos casos Master e INSS. A justificativa foi dada para explicar a saída dos delegados Daniel Mostardeiro Cola e Wedson Cajé de cargos de chefia na Coordenação-Geral de Repressão à Corrupção e Crimes Financeiro, que passava por um processo de reestruturação. O afastamento deles, que atuavam no Caso Master, ocorreu dois dias depois de entregarem relatórios que mencionavam o suposto envolvimento de ministros do Supremo Tribunal Federal (STF) com o banqueiro Daniel Vorcaro. \n\"Em razão de critérios de conveniência e oportunidade administrativa, tendo em vista que a dinâmica de fatos recentes demonstrou que houve uma quebra na fundamental relação de confiança mútua que deve existir entre as funções de chefia direta e hierarquicamente relacionadas, optou-se por não se dar prosseguimento ao processo que designava os servidores Daniel Mostardeiro Cola e Wedson Cajé Lopes para as novas funções de confiança criadas\", escreveu Andrei no documento assinado na última sexta-feira. O teor do ofício foi revelado pelo jornal Valor Econômico e confirmado pelo GLOBO. \nO aviso de que os dois delegados não permaneceriam no posto abriu uma crise interna dentro da PF e levou Andrei a ser instado pelo ministro da Justiça, Wellington César Lima e Silva, a prestar esclarecimentos sobre a sua decisão. No documento, Andrei negou que tenha interferido nas investigações e explicou que houve uma divergência entre eles sobre a ordem dada para a produção dos relatórios.  \nNa visão do diretor-geral, a equipe entregou relatórios que não condiziam com a determinação do presidente do STF, Edson Fachin, de que fossem apresentadas \"todas as menções encontradas (sobre os ministros) sem exceção, acompanhadas de seu contexto, em caráter estritamente descritivo\". \nDiante dessa discordância, Andrei relatou que a diretoria diretamente subordinada a ele determinou o \"saneamento da diligência\". Em outras palavras, orientou a refazer os documentos. \n\"A equipe encarregada da providência apresentou relatórios em desacordo com o que fora estipulado (citando apenas três ministros do STF e não \"todas as menções encontradas sem exceção\" e contendo elementos que extrapolaram o \"caráter estritamente descritivo\"), resultando na determinação, mediante despacho fundamentado do Diretor de Investigação e Combate ao Crime Organizado e à Corrupção, para saneamento da diligência\", afirmou o diretor-geral. \nSegundo Andrei, essa providência foi adotada em caráter sigiloso e vazou \"indevidamente ao público\" por motivos \"ainda não esclarecidos\". \nPor fim, o diretor-geral da PF ressaltou que \"não houve qualquer avocação\" ou \"interferência em investigação criminal\" da sua parte. O ofício também ressalta que a não renomeação dos delegados em cargos de chefia não \"implicou em qualquer alteração\" nas equipes que tocam as investigações relacionadas ao Banco Master. \nOs relatórios que foram refeitos devem ser entregues nesta quarta-feira a Edson Fachin. Segundo apurou O GLOBO, a presidência do tribunal já foi informada sobre a previsão de entrega, e uma reunião foi solicitada para as 19h30, após a sessão do plenário.",
+    "published": "2026-11-17T14:53:55+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "XP"
+    ],
+    "summary": "O diretor-geral da Polícia Federal, Andrei Rodrigues, afirmou em ofício enviado ao Ministério da Justiça que houve \"quebra na fundamental relação de confiança mútua\" com os  delegados que atuavam na coordenação dos casos Master e INSS. A justificativa foi dada para explicar a saí",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "UBS deve aceitar derrota em disputa sobre exigências de capital na Suíça, dizem fontes",
+    "link": "https://valor.globo.com/financas/noticia/2026/11/17/ubs-deve-aceitar-derrota-em-disputa-sobre-exigncias-de-capital-na-sua-dizem-fontes.ghtml",
+    "description": "O UBS está prestes a aceitar a derrota em sua longa batalha para flexibilizar as regras suíças que visam limitar sua expansão internacional, afirmaram três pessoas a par do assunto. O desfecho ocorre após um debate acalorado que levantou dúvidas sobre o futuro do banco na Suíça.\n\nHá mais de dois anos, o UBS — um dos maiores bancos a atender pessoas de alto patrimônio no mundo — tenta amenizar as exigências governamentais criadas para conter seu tamanho e seu nível de risco, após a aquisição do Credit Suisse, seu rival que entrou em colapso em 2023. No entanto, com os parlamentares suíços preparando-se para aprovar as normas possivelmente já em dezembro, o UBS vê pouca margem de manobra, disseram as fontes à Reuters, acrescentando que o banco sediado em Zurique continuará pleiteando concessões.\n\nPor volta das 11h20 (de Brasília), as ações do banco caíam 1,73%, a 39,71 francos suíços, na bolsa de Zurique. \nLeia também: Ações do Deutsche Bank despencam após reportagens sobre interação do banco com oligarcas russos, Trump e Epstein\n\nO UBS planeja agora apresentar suas opções — incluindo a possibilidade de transferir suas operações para o exterior, caso as novas exigências de capital tornem a permanência inviável, segundo duas das fontes. Uma delas acrescentou que o banco deve abordar o tema no início de fevereiro, por ocasião da divulgação de seus resultados financeiros.\n\nEmbora um acordo de última hora ainda seja possível antes da finalização das regras nas próximas semanas, o UBS espera apenas concessões simbólicas, disseram as fontes.\n\n\"Não comentamos especulações ou opiniões expressas sobre tais assuntos\", afirmou um porta-voz do UBS.\n\nAs novas regras representam um revés para o CEO Sergio Ermotti, que declarou no mês passado que o UBS continuaria dialogando com o Parlamento, na esperança de encontrar uma solução que não sobrecarregasse excessivamente a maior instituição financeira da Suíça.\n\nO UBS adotou um tom combativo e sugeriu que alguns parlamentares estariam confusos quanto a questões técnicas. A estratégia, contudo, teve o efeito contrário, e os parlamentares aprovaram normas quase tão rigorosas quanto as que haviam sido propostas inicialmente.\n\nNo centro do debate está a exigência de que o UBS cubra 100% do valor de suas subsidiárias estrangeiras com capital principal (Common Equity Tier 1, ou CET 1), o que poderia obrigar o banco a reter uma parcela maior de seus lucros para fazer frente aos riscos. Isso comprometeria parte de seus ganhos e reduziria a margem para a recompra de ações. O UBS já recomprou bilhões de dólares em suas próprias ações e pretende continuar fazendo isso.\n\nAs novas normas de capital também tornam mais custosa a assunção de riscos em áreas como o banco de investimento, exigindo um colchão de capital maior do que o necessário para a gestão de recursos de clientes de alta renda.\n\nSegundo fontes, a administração do banco está se preparando para operar dentro dos limites estabelecidos por essas regras. Outra pessoa informou que os executivos já elaboraram uma lista de possíveis alvos de aquisição — empresas de pequeno e médio porte — nos Estados Unidos, um mercado fundamental para o UBS.\n\nNa Suíça, algumas autoridades defendem que o UBS — cujo balanço, que engloba investimentos e empréstimos, supera o tamanho da própria economia suíça — deveria moderar suas ambições no exterior.\n\nA Suíça viu-se obrigada a intervir para resgatar seus dois maiores bancos, tanto durante a crise financeira global de 2008 quanto, novamente, em 2023. O Fundo Monetário Internacional (FMI) também manifestou preocupações quanto ao porte do banco em relação ao país.\n\nA ministra das Finanças, Karin Keller-Sutter, minimizou a ameaça feita pelo UBS de deixar a Suíça. Um estudo realizado por seu ministério concluiu que uma eventual mudança para os Estados Unidos — considerada uma das principais alternativas para o UBS — não seria simples, em parte porque as regulamentações locais poderiam anular quaisquer eventuais benefícios.\n\nOs legisladores suíços fizeram algumas concessões. No mês passado, a câmara alta do Parlamento suavizou ligeiramente os critérios de ponderação ao aprovar uma proposta que estabelece uma meta de 90% para CET1; ainda assim, esse patamar permanece muito acima do nível que o UBS é obrigado a manter atualmente.\nSergio Ermotti, CEO do banco suíço UBS\nSteffen Schmidt/Keystone/AP",
+    "published": "2026-11-17T14:51:41+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "O UBS está prestes a aceitar a derrota em sua longa batalha para flexibilizar as regras suíças que visam limitar sua expansão internacional, afirmaram três pessoas a par do assunto. O desfecho ocorre após um debate acalorado que levantou dúvidas sobre o futuro do banco na Suíça.\n",
+    "relevance": 5
+  },
+  {
     "source": "Money Times",
     "title": "Wall Street opera em leve queda à espera do resultado da Nvidia e preços do petróleo",
     "link": "https://www.moneytimes.com.br/wall-street-opera-em-leve-queda-a-espera-do-resultado-da-nvidia-e-precos-do-petroleo-mlem/",
@@ -34,6 +366,41 @@
       "Mercado Financeiro"
     ],
     "summary": "As bolsas de Nova York operam em leve queda nesta terça-feira (17), refletindo a espera pelo resultado trimestral da Nvidia, que será divulgado após o fechamento dos mercados. Além disso, as preocupações envolvendo os preços do petróleo, que sobem em meio à avaliação dos riscos à",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Não há licença para 'gasto indiscriminado' pelos Três Poderes, diz Durigan",
+    "link": "https://valor.globo.com/brasil/noticia/2026/11/17/nao-ha-licenca-para-gasto-indiscriminado-pelos-tres-poderes-diz-durigan.ghtml",
+    "description": "O ministro da Fazenda, Dario Durigan, defendeu que o país deve ter \"disciplina fiscal\" e afirmou que não há licença para \"gasto indiscriminado\" por parte dos Três Poderes, ao comentar a revisão das despesas primárias do governo.\nLeia também:\nMetodologia de cálculo da CBS é consistente e não apresentou nenhuma fragilidade, diz presidente do TCU\nGuimarães diz que há acordo com Motta para votar ajuste fiscal na Câmara\n\"Aqui não há caminho mágico a ser resolvido. Não há 'posto Ipiranga' e não há licença para gasto indiscriminado do lado do Congresso, do Judiciário e do governo federal\", afirmou em audiência na Comissão de Assuntos Econômicos (CAE) do Senado Federal.\n\n“Não há mágica na economia, nós temos que ser todos responsáveis fiscalmente, inclusive o Supremo [Tribunal Federal]”, acrescentou o ministro.\n\nDurigan reiterou que o governo pretende entregar um “pequeno superávit” primário em 2027. “O mercado financeiro acha o suficiente? Não acha. Mas é o superávit construído na democracia, à luz do dia, enfrentando os privilégios, fazendo os cortes de gastos primários necessários”, disse. Segundo o ministro, esse é o caminho para o país organizar as contas públicas com justiça, democracia e transparência.\n\nA meta de resultado primário é de um superávit de 0,25% do Produto Interno Bruto (PIB) para este ano, com intervalo de tolerância de 0,25 ponto percentual do para cima e para baixo. A meta para 2026 é um superávit de R$ 34,3 bilhões, mas há uma margem de tolerância que admite déficit zero no ano.\n\nO ministro também reafirmou o compromisso de alcançar as metas de resultado primário previstas no Orçamento. “A gente promete um resultado gradual”, disse. A previsão, segundo ele, é registrar o primeiro superávit em 2027 e ampliar os resultados positivos em 2028, 2029 e 2030, perseguindo, com “disciplina fiscal”, os melhores resultados para o país.\n\n\n\nWashington Costa/MF\nO ministro reconheceu as dificuldades para avançar na implementação da reforma tributária sobre o consumo, mas defendeu a necessidade de seguir adiante com as mudanças para melhorar o sistema tributário do país.\n“Não podemos defender o atraso. É difícil avançar? Sem dúvida que é difícil”, disse. “Eu conclamo: nós precisamos avançar [na reforma tributária]. Precisamos dar um passo à frente. É difícil avançar, mas temos que ter homens e mulheres com hombridade para assumir essa responsabilidade, construir um sistema e criar programas de conformidade.”\nSegundo Durigan, a reforma tributária sobre o consumo representa o “maior ganho de produtividade e eficiência econômica adotado no país nos últimos 40 anos”. Ele também defendeu que a Receita Federal oriente os contribuintes \"antes de sair multando\" no caso de erros. Segundo ele, o governo tem pedido boa-fé dos empresários brasileiros.\nAlém de Durigan, a CAE convidou o secretário da Receita Federal, Robinson Barreirinhas, e o presidente do Tribunal de Contas da União, Vital do Rêgo Filho, para debater sobre o cálculo da alíquota de referência da Contribuição Social sobre Bens e Serviços (CBS) para 2027. \nSemanas atrás, o TCU definiu em 11,3% a alíquota de referência da CBS. O percentual ficou acima das estimativas do mercado financeiro e surpreendeu tributaristas, como mostrou o Valor. Segundo o Ministério da Fazenda, a alíquota média efetiva do novo tributo federal ficará abaixo de 8,5% em 2027.",
+    "published": "2026-11-17T14:48:13+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "O ministro da Fazenda, Dario Durigan, defendeu que o país deve ter \"disciplina fiscal\" e afirmou que não há licença para \"gasto indiscriminado\" por parte dos Três Poderes, ao comentar a revisão das despesas primárias do governo.\nLeia também:\nMetodologia de cálculo da CBS é consis",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-congresso/nao-ha-licenca-para-gasto-indiscriminado-dos-3-poderes-diz-durigan/"
+      }
+    ]
+  },
+  {
+    "source": "O Globo",
+    "title": "'Exército de Lula' perde 320 mil inscritos em meio à crise entre governistas e Janones contra 'esquerda revolucionária'",
+    "link": "https://oglobo.globo.com/blogs/sonar-a-escuta-das-redes/post/2026/11/exercito-de-lula-perde-320-mil-inscritos-em-meio-a-crise-entre-governistas-e-janones-contra-esquerda-revolucionaria.ghtml",
+    "description": "Criado durante a campanha para o segundo turno, o canal de WhatsApp \"Exército do Lula\" perdeu, segundo um levantamento feito pelo GLOBO, cerca de 328,5 mil apoiadores entre a sexta-feira da semana passada e esta terça-feira, em meio à divisão da base governista sobre a proposta de ajuste fiscal apresentada pelo Planalto. A redução no número de inscritos tem sido atribuída pelo deputado federal André Janones (Rede-MG) a um \"boicote\" puxado por perfis de \"extrema esquerda\" associados ao deputado federal recém-eleito Jones Manoel (PSOL-PE), que nega estar por trás do movimento. \n'Rejeitado': Mello Araújo recusou participar de 18 reuniões com secretários e o prefeito em 2026\n1 ano da prisão de Vorcaro: Caso Master tem avanço a passos lentos e delação parada\nUsado para a divulgação de materiais de campanha e de ações organizadas da militância pró-Lula, o canal chegou nas vésperas do segundo turno com mais de 10 milhões de seguidores. O grupo, no entanto, passou a perder seguidores após a defesa do governo à proposta de ajuste fiscal. No final da noite de sexta-feira, o canal tinha 10.051.421 inscritos, mas chegou na manhã desta terça-feira com 9.722.509 pessoas. Além disso, entre as reações aos posts feitos por Janones, têm prevalecido emojis de tesouras, em referência ao \"tesouraço\" proposto pelo senador Flávio Bolsonaro (PL), agora comparado por parte da esquerda às medidas propostas por Lula. \nO movimento foi atribuído por Janones a uma mobilização coordenada por perfis de \"extrema esquerda\", que, segundo o parlamentar, passaram a incentivar seguidores a abandonarem o canal. \"Tudo isso porque o presidente Lula cometeu o 'crime' de se concentrar e se dedicar à agenda internacional essa semana, ao invés de responder mentiras nas redes sociais, criadas por oportunidade que elegeram às custas dele, mas que na primeira oportunidade mostraram que a busca pelo like e pela mitada nas redes sociais estão acima do compromisso com o país\", escreveu Janones no X. \nO petista passou a semana passada fora do Brasil, em uma agenda internacional iniciada pela participação na COP31, realizada na Turquia, e, em seguida, viajou para as Filipinas e a Espanha. Durante as agendas, foi acompanhado por Janones, que documentou os passos do presidente. Na viagem, ele publicou no grupo fotos e vídeos de encontros de Lula com lideranças de outros países, como a Noruega e Cabo Verde, discursos do presidente e bastidores da rotina do petista, incluindo em momentos de descanso e almoço. \nJanones registra em canal de WhatsApp momento de encontro de Lula com José Maria Neves, presidente de Cabo Verde\nReprodução\n\"Finalizando o dia tranquilinho, após dar um show, ser tietado pelos maiores líderes do mundo e encher a gente de orgulho\", escreveu Janones no grupo ao compartilhar uma foto do presidente sentado no sofá e descalço ao lado de Celso Amorim, assessor especial da Presidência da República para Assuntos Internacionais\". \nFoto publicada por Janones em canal de WhatsApp mostra Lula descalço e sentado em sofá ao lado de Celso Amorim\nReprodução\nO clima no grupo, no entanto, mudou no final da semana passada após as primeiras reações críticas ao ajuste fiscal. Além da mensagem publicada no X, Janones escreveu no canal que era alvo de um boicote \"direcionado por um bando de radicais extremistas\". \"Assim como o presidente Lula e eu não parávamos na campanha para desmentir fake news da extrema direita, também não vamos interromper a nossa missão aqui, que visa levar bilhões para o Brasil, investimento, para esclarecer as mentiras desses 'revolucionários' de mentirinha, que na verdade só têm compromisso com o like\", também acrescentou Janones. \nJanones responde a críticas ao governo levantadas por 'revolucionários' da esquerda\nReprodução/Redes sociais\nNas redes sociais, perfis de apoiadores passaram a apontar que a fala do deputado havia sido uma indireta a Jones Manoel. O influenciador comunista e deputado federal recém-eleito por PE publicou na semana passada no X um vídeo que dizia que a proposta de ajuste fiscal poderia tirar até R$ 20 bilhões do SUS por representar um \"endurecimento do teto de gastos\". \nO posicionamento, por sua vez, virou alvo de críticas de seguidores, que o acusaram de tentar minar a gestão Lula poucas semanas após as eleições. Contas no X críticas a ele também passaram a acusá-lo de ter ligação com um canal de WhatsApp paralelo que orientava as reações com os emojis de tesoura aos posts no \"Exército do Lula\". A informação foi desmentida por ele nas redes e em um vídeo publicado no YouTube, no qual ele também respondeu a Janones. \n— André, você começou a dizer que a extrema-esquerda está fazendo vídeos para as pessoas saírem do Exército do Lula e comemorando quando isso acontece. Isso é mentira, ninguém viu esses vídeos. Tudo isso para negar que a saída das pessoas do canal foi consequência da própria política do Janones. As pessoas tinham expectativa de que aquela mobilização digital, combinada com as ruas, vista no segundo turno, ia conformar uma nova forma de governabilidade pautada na mobilização — disse Jones.",
+    "published": "2026-11-17T14:47:20+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro",
+      "XP"
+    ],
+    "summary": "Criado durante a campanha para o segundo turno, o canal de WhatsApp \"Exército do Lula\" perdeu, segundo um levantamento feito pelo GLOBO, cerca de 328,5 mil apoiadores entre a sexta-feira da semana passada e esta terça-feira, em meio à divisão da base governista sobre a proposta d",
     "relevance": 5
   },
   {
@@ -137,7 +504,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O ministro da Fazenda, Dario Durigan, afirmou que o enfrentamento de privilégios e a realização dos cortes de gastos considerados necessários são o \"único caminho\" para organizar as contas públicas do país. Segundo ele, embora o mercado financeiro considere insuficientes as medid",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Money Times",
+        "link": "https://www.moneytimes.com.br/durigan-caminho-de-equilibrar-contas-reduzindo-privilegios-e-o-unico-para-um-pais-mais-justo/"
+      }
+    ]
   },
   {
     "source": "Folha",
@@ -380,6 +753,10 @@
       {
         "source": "Poder360",
         "link": "https://www.poder360.com.br/poder-economia/cbs-em-113-e-por-excecoes-da-reforma-tributaria-diz-presidente-do-tcu/"
+      },
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/politica/adiar-reforma-tributaria-tiraria-r-10-bilhoes-dos-mais-pobres-diz-receita/"
       }
     ]
   },
@@ -3551,374 +3928,5 @@
         "link": "https://valor.globo.com/politica/noticia/2026/11/17/senado-vota-destaques-ao-projeto-de-ajuste-fiscal.ghtml"
       }
     ]
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Integrantes de partidos devem apresentar alternativas a ajuste fiscal que divide esquerda: 'Se podem negociar com o mercado, podem negociar com a gente', diz Lindbergh",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/16/partidos-alternativas-criticas-ajuste-fiscal.ghtml",
-    "description": "O ministro do Planejamento e Orçamento, Bruno Moretti\nFabio Rodrigues Pozzebom/Agência Brasil\nLideranças de PT, PCdoB e PSOL devem apresentar ao governo alternativas ao projeto de ajuste fiscal, que enfrenta resistência de setores da esquerda, segundo o deputado federal Lindbergh Farias (PT-RJ).\nAs propostas estão sendo debatidas desde a semana passada por parlamentares contrários a pontos da proposta para equilibrar as contas públicas. Nesta segunda-feira (16), o vice-líder do governo no Congresso participou de uma nova reunião com lideranças parlamentares para discutir o tema.\nAo g1, o deputado afirmou que espera uma negociação com o Executivo. “Se podem negociar com o mercado, podem negociar com a gente”, disse Lindbergh.\nAs medidas anunciadas pelo governo provocaram críticas de integrantes do próprio PT e reações no Congresso e nas redes sociais. A insatisfação chegou também ao canal de WhatsApp \"Exército do Lula\", que teve atuação expressiva na campanha de reeleição do presidente.\nO texto-base da proposta foi aprovado no Senado na semana passada, e a previsão é que entre na pauta de votações da Câmara nesta terça-feira (17).\nAntes da votação, a bancada do PT na Câmara deve se reunir com o ministro do Planejamento, Bruno Moretti, para discutir o assunto.\nTrava extra para gastos, mudanças no piso da saúde e corte em benefícios tributários: entenda ajuste fiscal aprovado pelo Senado\nAudiência Pública – Situação da BR-393 no trecho entre Jamapará (Sapucaia/RJ) e Volta Redonda/RJ. Dep. Lindbergh Farias (PT-RJ)\nVinicius Loures / Câmara dos Deputados\nSegundo Lindbergh, as alternativas que serão apresentadas buscam preservar as políticas sociais e aumentar a contribuição de setores de maior renda para o equilíbrio das contas públicas. O governo defende que o projeto que está em votação já preserva políticas sociais. \n“As medidas vão no sentido de evitar que o ajuste fiscal promova cortes em políticas sociais”, afirmou. Lindbergh disse que as propostas que deverão ser apresentadas também procuram taxar o “andar de cima”, incluindo bancos e investimentos.\nO deputado criticou a condução do projeto pelo governo e afirmou que a falta de discussão prévia agravou a resistência dentro da base.\n“Essa proposta do ajuste fiscal foi mal conduzida. Foi apresentada sem falar com ministros, líderes do governo, e aí depois quiseram votar em um dia só. Depois, piorou a tratativa quando tentaram desqualificar quem estava criticando a proposta”, declarou.\nO ministro do Planejamento e Orçamento, Bruno Moretti, defende o pacote e afirma que as medidas não preveem redução do salário mínimo nem o fim dos pisos constitucionais de saúde e educação, pontos que vem sendo questionados pelos críticos. \nNo domingo (15), o vice-presidente Geraldo Alckmin disse que o projeto de ajuste fiscal do governo é uma medida tomada \"na direção correta\". \n\"O governo não mexe na população mais pobre, estão preservados ganhos de natureza social e trabalha para superávit e não ter déficit nas contas publicas. É fundamental para baixar juros. Quem mais ganha com isso é população mais pobre\", disse Alckmin.\nNesta segunda-feira (16), o dólar fechou em alta de 2,15%, cotado a R$ 5,7767. Parte do mercado financeiro considera as medidas previstas no pacote fiscal do governo insuficientes para conter o avanço da dívida pública. Alckmin, por sua vez, afirmou que não há razão para oscilações no mercado e destacou que o Brasil tem segurança jurídica.\nAjuste divide a esquerda\nO projeto de ajuste fiscal defendido pelo governo do presidente Lula (PT) abriu uma disputa dentro da esquerda sobre os rumos da política econômica no próximo mandato. A divergência envolve integrantes do próprio PT, parlamentares de partidos aliados e movimentos sociais que apoiaram a reeleição do presidente.\nEnquanto a equipe econômica defende que as medidas são necessárias para equilibrar as contas e preservar as políticas sociais, críticos afirmam que novas restrições aos gastos podem comprometer serviços públicos e investimentos. Também questionam a falta de diálogo com a base e a velocidade da tramitação no Congresso.\nA deputada Erika Hilton (PSOL-SP) e a deputada federal eleita Ana Elisa (PT-MG) são dois dos nomes entre os que criticaram a proposta do governo. \n“É inaceitável que a Faria Lima exija que o governo Lula coloque em prática os planos de governo de Flávio Bolsonaro. [...] A responsabilidade fiscal é importante, mas isso não é um argumento válido pra sucatear a vida das pessoas\", afirmou Erika em publicação no X.\nA discussão ganhou força após o ministro do Planejamento, Bruno Moretti, afirmar, em entrevista ao jornal \"Folha de S.Paulo\" publicada no domingo (15), que uma parcela “sectária” da esquerda atrasa o combate a privilégios ao se opor ao projeto. Segundo o ministro, essa resistência beneficia setores que tentam escapar do ajuste.\nO deputado André Janones (Rede-MG), responsável pelo canal “Exército do Lula” no WhatsApp, também reagiu às críticas. Em uma mensagem, afirmou que o movimento contra o ajuste “não tem nada de orgânico” e “está sendo direcionado por um bando de radicais”.\n“E não deixamos de ser reféns da extrema direita pra ser refém desses pseudo-revolucionários de apartamento que nunca fizeram porra nenhuma pelo país”, escreveu Janones no \"Exército do Lula\".\nA insatisfação também apareceu no canal: seguidores passaram a usar o emoji de tesoura nas reações às publicações de Janones, em alusão à contenção de gastos prevista no pacote. Apesar das divergências entre parlamentares petistas, a direção nacional do PT declarou apoio às medidas encaminhadas ao Congresso.\nQuestionado pela reportagem sobre as declarações de Janones, Lindbergh afirmou que é amigo do deputado e que deve procurar o mineiro para uma conversa. O petista defendeu seu direito de criticar as medidas e disse que sua intenção é contribuir para que o governo dê certo.\nPara Lindbergh, o mercado financeiro está “tentando levar o governo Lula a uma recessão\". O parlamentar afirmou que sua preocupação é com os efeitos do ajuste em um cenário de desaceleração econômica.\nSenado aprova texto base do ajuste fiscal\nOutro embate com Janones\nEntre os críticos do ajuste também está o deputado federal eleito Jones Manoel (PSOL-PE), que argumenta que o endurecimento das regras fiscais pode comprometer políticas públicas. Nesta segunda-feira, ele afirmou ao UOL que foi colocado em uma disputa com Janones que não procurou.\nA pergunta foi feita ao deputado eleito depois que Jones publicou um vídeo em seu canal no Youtube em que afirmou que \"influencers governistas\" estariam acusando críticos a proposta de serem \"pautados pela mídia burguesa\". \"Começaram a me atacar dizendo que espalhei fake news\".\nAo comentar as críticas ao PLP 299/2026, o deputado eleito Jones Manoel (PSOL-PE) disse que o embate foi alimentado nas redes e afirmou não ter relação pessoal com Janones, apesar de já ter participado de eventos com ele. Os dois passarão a conviver como congressistas da mesma federação partidária.\n“Eu não critiquei em momento nenhum o André Janones. Ele fez um direcionamento de que as pessoas que estavam criticando o PLP eram mentirosos, eram a esquerda radical, a extrema esquerda. E as pessoas criaram uma polarização, Jones Manoel versus André Janones. Mas eu em momento nenhum citei o nome do deputado. Eu estou totalmente inocente nessa história, de uma disputa que eu não quero, que eu recuso e que eu não procurei em relação ao Janones”, disse.\nO que prevê o ajuste fiscal\nO projeto reúne restrições ao crescimento das despesas federais, mudanças no cálculo do piso da saúde e redução de benefícios tributários para empresas. O pacote anunciado pelo governo também inclui medidas contra supersalários no funcionalismo.\nEntre as mudanças está a possibilidade de limitar, em determinadas condições, o crescimento das despesas acima da inflação a 2%, abaixo do teto de 2,5% previsto no arcabouço fiscal. A proposta também amplia os mecanismos de bloqueio de recursos durante a execução do Orçamento.\nO texto-base foi aprovado pelo Senado na quinta-feira (12), por 45 votos a 31, mas ainda depende da votação dos destaques, prevista para esta terça-feira (17), antes de seguir à Câmara. O governo afirma que as medidas buscam equilibrar as contas e conter o avanço da dívida pública.\nEstudantes nas ruas\nA reação ao pacote também chegou à mobilização nas ruas. A UNE (União Nacional dos Estudantes) convocou atos em ao menos dez cidades para terça-feira (17), contra o ajuste fiscal.\nA organização do protesto foi criticada nas redes sociais. Em uma publicação na página da UNE no Instagram, perfis dizem que os atos contra o ajuste fiscal podem prejudicar o governo Lula e alimentando críticas de movimentos da Direita.  \nA presidente da UNE, Beatriz Borges, diz que é importante ressaltar que os atos não são contra o governo eleito. \"Estamos indo contra o mercado que mesmo tendo seu projeto econômico derrotado nas eleições, quer impor a sua vontade\", em alusão ao plano de governo do candidato derrotado Flávio Bolsonaro (PL).\n\"Nosso objetivo é alterar profundamente o PLP, retirando os mecanismos que aprofundam a austeridade e limitam a capacidade do Estado de investir no desenvolvimento do país. Reconhecemos que existem medidas positivas, como a determinação de enfrentamento da questão dos supersalários pelo Congresso Nacional e a revisão de benefícios fiscais. Não somos contra essas iniciativas. Mas não podemos aceitar os pontos do projeto que aprofundam a austeridade e limitam a capacidade do Estado de investir no povo\", afirma. \nQuestionada sobre os próximos passos caso o governo mantenha a proposta, Beatriz afirmou que a entidade acompanhará a tramitação, dialogará com parlamentares e seguirá mobilizando estudantes em todo o país. \n“Queremos que o Congresso retire os dispositivos que aprofundam a austeridade e que o governo assuma o compromisso de ampliar os investimentos públicos”, disse.",
-    "published": "2026-11-16T22:35:04+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O ministro do Planejamento e Orçamento, Bruno Moretti\nFabio Rodrigues Pozzebom/Agência Brasil\nLideranças de PT, PCdoB e PSOL devem apresentar ao governo alternativas ao projeto de ajuste fiscal, que enfrenta resistência de setores da esquerda, segundo o deputado federal Lindbergh",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Suspeito teria exigido milhões em criptomoedas para evitar ataques no Itaim Bibi",
-    "link": "https://www.infomoney.com.br/brasil/suspeito-teria-exigido-milhoes-em-criptomoedas-para-evitar-ataques-no-itaim-bibi/",
-    "description": "Entre os destinatários das cartas, de acordo com outras fontes ligadas à investigação, estão altos executivos do mercado financeiro e de bancos, empresários, além de proprietários de um shopping cente\nThe post Suspeito teria exigido milhões em criptomoedas para evitar ataques no Itaim Bibi appeared first on InfoMoney.",
-    "published": "2026-11-16T22:28:31+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Entre os destinatários das cartas, de acordo com outras fontes ligadas à investigação, estão altos executivos do mercado financeiro e de bancos, empresários, além de proprietários de um shopping cente\nThe post Suspeito teria exigido milhões em criptomoedas para evitar ataques no ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Fazenda prevê que regulamentação das ‘big techs’ pode gerar ganho de até 0,4% do PIB",
-    "link": "https://valor.globo.com/brasil/noticia/2026/11/16/fazenda-prev-que-regulamentao-das-big-techs-pode-gerar-ganho-de-at-04-pontos-percentuais-do-pib.ghtml",
-    "description": "O Ministério da Fazenda divulgou estudo que estima que a regulamentação das “big techs” pode gerar ganhos econômicos entre 0,1% e 0,4% do Produto Interno Bruto (PIB), o equivalente a R$ 70 a R$ 240 por habitante ao ano.\nSegundo o levantamento, elaborado pela Secretaria de Reformas Econômicas (SRE) e divulgado nesta segunda-feira (16), os benefícios potenciais para consumidores e empresas podem variar de R$ 15,3 bilhões a R$ 50,6 bilhões por ano.\n\nA estimativa considera exclusivamente os efeitos diretos de uma eventual redução de preços nos segmentos mais sujeitos a problemas concorrenciais, sem contabilizar outros benefícios, como estímulo à inovação, melhoria da qualidade dos serviços e ampliação das oportunidades de negócios.\nO estudo também dimensiona a presença das plataformas digitais na economia brasileira. Em 2025, o faturamento agregado dos 20 segmentos mapeados pela SRE foi estimado em R$ 410 bilhões, valor que corresponde a cerca de 3,2% do PIB. Entre as áreas analisadas, estão comércio eletrônico, serviços de pagamento, publicidade digital, computação em nuvem, aplicativos de transporte e inteligência artificial.\n\nComo mostrou o Valor, o projeto de regulamentação está previsto para votação na Câmara dos Deputados, nesta terça-feira (17). Em entrevista ao jornal, o relator da proposta, deputado Aliel Machado (PV-PR), afirmou que trabalha para conquistar o apoio de partidos do centro a fim de aprovar o texto. O parlamentar admitiu a possibilidade de ajustes pontuais, como ampliar a participação do colegiado do Conselho Administrativo de Defesa Econômica (Cade) em decisões atualmente atribuídas à superintendência-geral do órgão. Ele, no entanto, descartou mudanças que comprometam a lógica da proposta.\n\nMachado também criticou a falta de mobilização do governo na articulação política em torno do projeto, embora a proposta esteja entre as prioridades do Executivo para votação no Congresso Nacional. Já o líder do governo na Câmara, Paulo Pimenta (PT-RS), afirmou que tem conversado com o relator sobre o interesse do governo em levar o texto à votação.\n\n“Estamos discutindo com o deputado Aliel. Temos interesse que esse projeto seja pautado e vamos trabalhar no sentido de criar a condição necessária para que o projeto seja aprovado”, disse Pimenta.\n\nDe autoria do Executivo, o projeto prevê novos instrumentos para a atuação do Cade nos mercados digitais, com o objetivo de combater práticas anticoncorrenciais de plataformas, proteger a concorrência, reduzir barreiras à entrada e ampliar a liberdade de escolha.",
-    "published": "2026-11-16T22:27:46+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O Ministério da Fazenda divulgou estudo que estima que a regulamentação das “big techs” pode gerar ganhos econômicos entre 0,1% e 0,4% do Produto Interno Bruto (PIB), o equivalente a R$ 70 a R$ 240 por habitante ao ano.\nSegundo o levantamento, elaborado pela Secretaria de Reforma",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Alckmin diz não ver 'razão sólida' para oscilação do dólar se manter",
-    "link": "https://valor.globo.com/brasil/noticia/2026/11/16/alckmin-diz-nao-ver-razao-solida-para-oscilacao-do-dolar-se-manter.ghtml",
-    "description": "O presidente em exercício, Geraldo Alckmin, afirmou que os destaques propostos pelos senadores não devem esvaziar o projeto de lei complementar (PLP) de ajuste fiscal, que promove ajuste fiscal entre R$ 50 bilhões e R$ 60 bilhões, nos cálculos do governo federal, em 2027. Segundo ele, não há \"razão sólida\" para se manter a alta oscilação do dólar registrada nesta segunda-feira (16).\n\n\"A minha percepção é que não [há um esvaziamento do texto com os destaques propostos]. As alterações não alteram o foco da proposta para conter gastos e buscar equilíbrio das contas públicas\", afirmou Alckmin nesta tarde, em fala a jornalistas no Palácio do Planalto. \"Essas alterações não mudaram tanto o escopo [do projeto].\"\n\nO presidente em exercício defendeu que a proposta de cerca de R$ 60 bilhões traz uma mudança \"pequena\". \"Não há razão para o mercado ter essas oscilações. O Brasil é uma das maiores economias do mundo\", disse.\n\nA expectativa de Alckmin é que o PLP seja aprovado no Senado na terça-feira (17), e em seguida, ir à Câmara. \"Temos confiança de que, com um bom diálogo, a gente vai avançar\", comentou.\n\nA proposta vem sofrendo diversas críticas, em especial, da esquerda. Alckmin, porém, rebateu esses posicionamentos e disse ser \"natural\" que aconteçam debates, discussões e críticas. \"O objetivo é zerar o déficit e iniciar uma caminhada de superávit primário para derrubar a taxa de juros e o país poder crescer mais\", comentou.\n\nAs falas ocorreram após Alckmin ter se reunido, nesta tarde, com entidades que lançaram manifesto contra os supersalários e o ministro do Planejamento, Bruno Moretti. Segundo o presidente em exercício, a reunião foi \"proveitosa\".\n\nO texto do ajuste fiscal prevê que o Congresso terá até 120 dias, contados da publicação da lei complementar, para apreciar a regulamentação das verbas indenizatórias pagas fora do teto constitucional do funcionalismo. A economia obtida no Executivo federal poderá ser utilizada para reduzir o limite de despesas ou financiar investimentos e ações de segurança pública e atendimento socioeducativo. \n\nQuestionado, Alckmin evitou entrar em detalhes sobre a conversa, mas disse esperar que em 120 dias, como propõe o projeto, \"a gente tenha uma boa equação para que os recursos públicos sejam aplicados de forma transparente e, de outro lado, não criando grandes disparidades dentro do serviço público\".\n\nO presidente em exercício também foi questionado sobre as especulações envolvendo seu nome sobre uma possível ida ao Ministério da Fazenda no próximo governo Lula. \"Por que ministro e não presidente do Santos Futebol Clube?\", rebateu Alckmin.\n\nAlckmin \nCadu Gomes/VPR",
-    "published": "2026-11-16T22:27:02+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O presidente em exercício, Geraldo Alckmin, afirmou que os destaques propostos pelos senadores não devem esvaziar o projeto de lei complementar (PLP) de ajuste fiscal, que promove ajuste fiscal entre R$ 50 bilhões e R$ 60 bilhões, nos cálculos do governo federal, em 2027. Segundo",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Seu saldo é negativo em R$ 11 bi: BB (BBSA3) vê valor de mercado derreter e ação recuar para 2023; o que pode destravar ação?",
-    "link": "https://www.moneytimes.com.br/seu-saldo-e-negativo-em-r-11-bi-bb-bbsa3-ve-valor-de-mercado-derreter-e-acao-recuar-para-2023-o-que-pode-destravar-acao-rnda/",
-    "description": "O Banco do Brasil (BBAS3) perdeu cerca de R$ 11 bilhões em valor de mercado desde a divulgação dos resultados do terceiro trimestre, recebidos de forma bastante negativa pelos investidores. Nesta sessão, as ações voltaram a recuar mais de 1%, para R$ 14,95, menor cotação desde março de 2023. Os dados são da Elos Ayta. [&#8230;]",
-    "published": "2026-11-16T22:25:06+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "O Banco do Brasil (BBAS3) perdeu cerca de R$ 11 bilhões em valor de mercado desde a divulgação dos resultados do terceiro trimestre, recebidos de forma bastante negativa pelos investidores. Nesta sessão, as ações voltaram a recuar mais de 1%, para R$ 14,95, menor cotação desde ma",
-    "relevance": 5
-  },
-  {
-    "source": "Brazil Journal",
-    "title": "Não é um tesouraço. É um tributaço",
-    "link": "https://braziljournal.com/nao-e-um-tesouraco-e-um-tributaco",
-    "description": "O PLP do ajuste fiscal, concebido pela equipe econômica e aprovado a toque de caixa pelo Senado na semana passada, foi recebido como um passo correto – embora insuficiente – para a redução do déficit público. A parte do ‘insuficiente’ ficou evidente na reação do mercado até aqui, com o dólar fechando hoje a R$ 5,78 – um patamar não visto desde maio de 2025.",
-    "published": "2026-11-16T22:24:00+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O PLP do ajuste fiscal, concebido pela equipe econômica e aprovado a toque de caixa pelo Senado na semana passada, foi recebido como um passo correto – embora insuficiente – para a redução do déficit público. A parte do ‘insuficiente’ ficou evidente na reação do mercado até aqui,",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Perícia diz que 26 das 31 munições apreendidas na casa de contrarregra eram verdadeiras e seis de festim",
-    "link": "https://oglobo.globo.com/rio/noticia/2026/11/16/pericia-diz-que-26-das-31-municoes-apreendidas-na-casa-de-contrarregra-eram-verdadeiras-e-seis-de-festim.ghtml",
-    "description": "O resultado de uma perícia realizada por peritos do Instituto Carlos Éboli (ICE) apontou, nesta segunda-feira, que, das 31 munições de calibre .38 apreendidas na casa do contrarregra Josenildo Amarante Pereira, de 56 anos, conhecido como Magrão, durante uma operação da Polícia Civil, 26 eram verdadeiras e outras cinco de festim. O material foi apreendido por policiais junto com um simulacro de granada, uma faca, roupas camufladas, um celular, além de notas e duas carteiras de habilitação supostamente falsas, na última sexta-feira, em Duque de Caxias, na Baixada Fluminense.\nNa Baixada Fluminense: defesa entra com pedido de relaxamento de prisão de contrarregra detido com munições e notas suspeitas de falsificação\nLoirinho:  traficante do Comando Vermelho ostenta fuzil em vídeo na Lagoa Rodrigo de Freitas, Zona Sul do Rio\nPor conta do material apreendido, o contrarregra acabou sendo autuado em flagrante por suspeita de crimes de falsificação de documentos, moeda falsa e posse irregular de munição, durante uma ação da Polícia Civil na comunidade do Lixão, em Duque de Caxias. No sábado, após uma audiência de custódia, Josenildo teve a prisão em flagrante convertida em preventiva por uma juíza.\nContrarregra é preso durante operação em Duque de Caxias\nReprodução/ Redes Sociais\nA família e amigos do contrarregra alegaram que os materiais encontrados durante a ação em sua residência são cenográficos e destinados ao uso próprio em produções audiovisuais. Profissionais da área também saíram em defesa de Pereira.\nNa Zona Sudoeste do Rio: homem é preso após deixar coroas de flores com nomes de PMs vivos em batalhão de Jacarepaguá; polícia aponta ameaça do CV\nA prisão de Josenildo aconteceu durante uma operação da Polícia Civil para cumprir mandados de prisão e de busca e apreensão contra suspeitos de integrarem o Comando Vermelho (CV) e de estarem envolvidos na expansão territorial da facção em Duque de Caxias. A investigação identificou 30 integrantes da quadrilha e levou à expedição de 24 mandados de prisão e 35 de busca e apreensão.\nCrmes e mortes: assassinatos aumentam na Baixada Fluminense; mais de um milhão vivem em áreas controladas pelo crime na região\nApesar de não constar na lista nominal de suspeitos, o contrarregra teve a casa revistada pelos policiais. Segundo a Polícia Civil, o endereço era utilizado como comprovante de residência por uma pessoa procurada pela Justiça e, por isso, foi alvo de uma ordem de busca e apreensão. Já a defesa de Josenildo afirma que ele mora no local há 13 anos e não conhece a pessoa procurada.\nNesta segunda-feira, o advogado Marcos Vinicius Rayol Sola, responsável pela defesa de Josenildo, disse ter entrado com um pedido de relaxamento da prisão de seu cliente na 1ª Vara de Garantias do Tribunal de Justiça do Rio de Janeiro (TJRJ). Além disso, o advogado afirmou ter impetrado um habeas corpus no TJRJ, com pedido de liminar, para que o contrarregra seja colocado em liberdade imediatamente.\nApartamentos de R$ 43 milhões, Ferraris e Lamborghinis: o patrimônio de luxo de Ricardo Magro nos EUA\nSegundo o advogado, a prisão teria sido ilegal, já que o mandado de busca e apreensão indicava outro endereço, e não o do contrarregra. A Polícia Civil, no entanto, nega essa versão e afirma que havia uma ordem de busca e apreensão expedida para o local onde Josenildo foi preso em flagrante.\nSegundo dados que constam na ata da audiência de custódia, foram encontradas na residência de Magrão 31 munições de calibre .38, cédulas suspeitas de falsificação de moeda nacional e estrangeira, carteiras de habilitação com indícios de falsificação, vestimentas camufladas, um simulacro de granada, uma faca e um telefone celular.\nEm nota, a Delegacia de Repressão às Ações Criminosas Organizadas (Draco) informou que o preso foi localizado em um endereço onde estava sendo cumprido um mandado de busca e apreensão. No local, foram \"localizados documentos e dinheiros falsos, além de munição de arma de fogo\". Ainda de acordo com a delegacia, Magrão não teria apresentado qualquer documentação que comprovasse a \"legalidade dos materiais ou um contrato que apresentasse a ligação dele com uma empresa de cenografia\". A unidade afirmou ainda que, após a constatação da presença de nomes de pessoas reais em documentos falsos, ele foi autuado em flagrante.\nEm um trecho do despacho que justificou a conversão da prisão em flagrante em preventiva, a juíza responsável por analisar o caso na Central de Audiências de Custódia mencionou que a quantidade de munições encontradas na casa do contrarregra agravava a situação do suspeito.\n\"O periculum libertatis, definido como o risco provocado pela manutenção do custodiado em liberdade, está igualmente presente: trata-se de crimes concretamente graves, por meio dos quais o custodiado possuía 31 munições calibre .38, além de cédulas de moeda nacional e documentos com indícios de adulteração ou falsificação. A expressiva quantidade de munições apreendidas incrementa a gravidade concreta da conduta, na medida em que viabiliza a utilização de armamento na prática de ilícitos graves e potencializa o risco à integridade física de terceiros e à ordem pública\", escreveu a magistrada em um trecho da decisão.\nUma nota do Sindicato Interestadual dos Trabalhadores na Indústria Cinematográfica e do Audiovisual (STIC) foi divulgada nos perfis de pessoas que defendem a tese de que a prisão foi irregular. Segundo o comunicado, faz parte das atribuições do contrarregra a guarda, a conservação e a disposição de objetos de cena, conforme o decreto que regulamenta o setor.\nA entidade argumenta ainda que, em produções audiovisuais que retratam histórias policiais e de criminalidade, é \"comum um acervo de cédulas e documentos cenográficos, réplicas de armas, algemas e acessórios táticos de figurino\". O sindicato pontuou que a exposição de um trabalhador sem \"qualquer apuração\" fere o princípio da presunção de inocência. Por fim, o representante da categoria colocou-se à disposição do contrarregra e de sua família para a \"devida retratação\" e cobrou a realização de perícia técnica no material apreendido.\nAbaixo, a íntegra de uma nota da defesa do contrarregra, na qual o advogado Marcos Vinicius Rayol Sola informa ter pedido ao TJRJ que declare a ilegalidade da busca realizada na casa de Josenildo e de todo o material nela apreendido, com a consequente retirada dessas provas do processo.\n\"Além do pedido de liberdade apresentado ao Juízo da 1ª Vara das Garantias da Capital, que não foi apreciado até o fim do expediente desta segunda-feira, a defesa de Josenildo Amarante Pereira impetrou habeas corpus no Tribunal de Justiça do Estado do Rio de Janeiro, com pedido de liminar para que ele seja posto em liberdade imediatamente.\nNo habeas corpus, a defesa pediu também que o Tribunal declare a ilegalidade da busca realizada na casa de Josenildo e de todo o material nela apreendido, com a retirada dessas provas do processo.\nA decisão judicial que autorizou as buscas da operação não incluía o endereço dele e vedava expressamente buscas em endereços de terceiros. Por ora, a defesa ainda não tem informações sobre a Câmara Criminal para a qual o habeas corpus foi distribuído.\"\nInitial plugin text",
-    "published": "2026-11-16T22:18:42+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "O resultado de uma perícia realizada por peritos do Instituto Carlos Éboli (ICE) apontou, nesta segunda-feira, que, das 31 munições de calibre .38 apreendidas na casa do contrarregra Josenildo Amarante Pereira, de 56 anos, conhecido como Magrão, durante uma operação da Polícia Ci",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "UPDATE1: XP tem lucro líquido ajustado de R$ 1,382 bi, estável no tri, e anuncia proventos recordes para o ano",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/16/update1-xp-tem-lucro-lquido-ajustado-de-r-1382-bi-estvel-no-tri-e-anuncia-proventos-recordes-para-o-ano.ghtml",
-    "description": "A XP Inc. encerrou o terceiro trimestre de 2026 com lucro líquido ajustado de R$ 1,382 bilhão, praticamente estável em relação ao período de abril a junho (-0,14%), e com alta de 4% na comparação com o mesmo intervalo de 2025. O desempenho, segundo a administração, foi apoiado pela evolução dos ativos de clientes, expansão das receitas e diversificação dos negócios. \n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-16T22:16:47+00:00",
-    "themes": [
-      "XP"
-    ],
-    "summary": "A XP Inc. encerrou o terceiro trimestre de 2026 com lucro líquido ajustado de R$ 1,382 bilhão, praticamente estável em relação ao período de abril a junho (-0,14%), e com alta de 4% na comparação com o mesmo intervalo de 2025. O desempenho, segundo a administração, foi apoiado pe",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Portobello renegocia R$ 1 bilhão em dívidas e prevê conversão de parte em ações",
-    "link": "https://www.infomoney.com.br/business/portobello-renegocia-r-1-bilhao-em-dividas-e-preve-conversao-de-parte-em-acoes/",
-    "description": "As conversas em andamento preveem que 55% do valor (cerca de R$ 550 milhões) seja renegociado diretamente com os bancos, com postergação dos vencimentos e redução do custo médio\nThe post Portobello renegocia R$ 1 bilhão em dívidas e prevê conversão de parte em ações appeared first on InfoMoney.",
-    "published": "2026-11-16T22:13:05+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "As conversas em andamento preveem que 55% do valor (cerca de R$ 550 milhões) seja renegociado diretamente com os bancos, com postergação dos vencimentos e redução do custo médio\nThe post Portobello renegocia R$ 1 bilhão em dívidas e prevê conversão de parte em ações appeared firs",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "PicPay tem lucro de R$ 271 milhões no 3º trimestre e chega a 72 milhões de clientes",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/16/picpay-tem-lucro-de-r-271-milhes-no-3-trimestre-e-chega-a-72-milhes-de-clientes.ghtml",
-    "description": "O PicPay teve lucro ajustado de R$ 271,2 milhões no terceiro trimestre de 2026, com queda de 4,2% ante o segundo trimestre e alta de 157,3% ante o mesmo período do ano passado. A receita líquida foi de R$ 4,727 bilhões, com expansão de 14,7% e 73,1%, na mesma base de comparação. A fintech chegou a 72 milhões de clientes, com expansão de 2,3% e 9,7%, respectivamente.\nO lucro superou o “guidance” (projeção) que o próprio PicPay tinha dado para o segundo trimestre, que era de R$ 265 milhões. A carteira de crédito bateu R$ 35 bilhões, um crescimento de 9,6% em três meses e de 87,6% em um ano. A inadimplência subiu para 10,7%, de 9,8% no segundo trimestre e 6% no terceiro trimestre do ano passado. \n“Seguimos entregando crescimento com expansão de rentabilidade. Atingimos ou superamos todas as linhas do guidance e melhoramos a eficiência em 11 pontos percentuais em um ano. Em dois anos, mais do que dobramos a relação entre a receita que cada cliente gera e o custo de servi-lo, de 2,3 para 4,8 vezes”, afirma Eduardo Chedid, CEO do PicPay.\nSegundo ele, a queda no lucro ante o segundo trimestre aconteceu porque no período passado houve um efeito extraordinário da Lei do Bem, que reduziu a alíquota efetiva de imposto e, assim, elevou o resultado. “O lucro antes de imposto, que reflete melhor a operação, subiu 33% de um trimestre para o outro.”\nO PicPay disse que revisou sua política de write-off (baixa a prejuízo), com efeito a partir do quarto trimestre, exclusivamente para a carteira de empréstimo pessoal, reduzindo o prazo de baixa contábil de créditos inadimplentes de 360 para 120 dias.\nA revisão terá impacto não recorrente estimado em aproximadamente R$ 325 milhões no quarto trimestre de 2026. O grupo prevê lucro de R$ 733 milhões este ano, o que indica que, mesmo com esse feito, teria resultado positivo de cerca de R$ 10 milhões no quarto trimestre.\nAlém disso, com a nova política, o índice de inadimplência deve recuar para cerca de 6,8% no quarto trimestre e depois voltar a subir, se estabilizando em torno de 9,0% a partir do segundo trimestre de 2027. A empresa ressalta que revisão não altera as políticas de concessão, cobrança e recuperação, nem o apetite a risco. \n“A atualização da política de write-off torna nossos indicadores de qualidade da carteira mais aderentes à dinâmica atual do portfólio e mais representativos da performance operacional do negócio, além de nos colocar em linha com pares de mercado. Excluindo o efeito não recorrente, a companhia mantém a expectativa de lucro ajustado acima de R$ 1 bilhão em 2026”, afirma André Cazotto, vice-presidente financeiro. \n\nChedid ressalta que a atualização da política é apenas uma aceleração da contabilização da inadimplência e que não há uma piora adicional na qualidade dos ativos. “A inadimplência está vindo dentro do esperado. Sem dúvida o mercado está mais estressado, até por isso estamos sendo bastante conservadores na originação. Se não fosse isso, a gente poderia estar crescendo mais”.\n\nO PicPay diz ainda que o Desenrola teve um efeito positivo no custo do crédito, que ficou em 2,8%, abaixo do guidance, que ia de 3,9% a 4,1%. Ao mesmo tempo, como alguns clientes que já haviam sido baixados a prejuízo foram renegociados, eles voltam para o portfólio ativo e elevam o crédito em estágio 3 (de pior qualidade). “É claro que o programa é bom, mas teve esse efeito”, diz Cazotto.\nNa carteira, o PicPay afirma que o consignado privado foi um dos principais vetores de crescimento, cujo portfólio chegou a R$ 9 bilhões, com expansão anual de 25%. Desde o início da operação, a companhia já realizou 5 milhões de contratos e detém 7,3% de participação no mercado. A fintech diz que o risco do empregador segue bem diversificado, com contratos com 373 mil empresas. \nO índice de eficiência alcançou 42%, refletindo ganhos de escala, disciplina operacional e maior monetização da base de clientes. O ROE ajustado anualizado atingiu 18,5% no trimestre.",
-    "published": "2026-11-16T22:12:54+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O PicPay teve lucro ajustado de R$ 271,2 milhões no terceiro trimestre de 2026, com queda de 4,2% ante o segundo trimestre e alta de 157,3% ante o mesmo período do ano passado. A receita líquida foi de R$ 4,727 bilhões, com expansão de 14,7% e 73,1%, na mesma base de comparação. ",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Após críticas de governadores, relator de pacote fiscal diz que União poderá antecipar repasses se houver espaço no Orçamento",
-    "link": "https://oglobo.globo.com/economia/noticia/2026/11/16/apos-criticas-de-governadores-relator-de-pacote-fiscal-diz-que-uniao-podera-antecipar-repasses-se-houver-espaco-no-orcamento.ghtml",
-    "description": "O relator do pacote de ajuste fiscal no Senado, Eduardo Braga (MDB-AM), afirmou nesta segunda-feira que a União poderá antecipar os repasses aos estados caso haja espaço no Orçamento e negou que a proposta represente um corte definitivo de recursos destinados às unidades da federação.\nA declaração ocorre em meio à pressão de governadores, incluindo Tarcísio de Freitas (Republicanos-SP), que criticou a medida e alertou para o risco de judicialização. A oposição tenta derrubar o dispositivo durante a votação dos destaques ao projeto, prevista para esta terça-feira.\n— O que eu estou dizendo é que não se está cortando crédito, está adiando-se o pagamento — afirmou Braga.\nPelo texto aprovado na semana passada, os repasses da Lei Kandir, destinados a compensar estados e municípios por perdas de arrecadação decorrentes da desoneração das exportações, serão reduzidos de R$ 4 bilhões para R$ 1 bilhão anuais entre 2027 e 2030. A diferença de R$ 12 bilhões no período deverá ser quitada posteriormente pela União, com pagamentos previstos até 2037.\nA interpretação apresentada pelo relator é que o cronograma estabelece como os valores adiados deverão ser pagos até 2037, mas não impede que a União antecipe a quitação de parte da dívida caso haja disponibilidade de recursos no orçamento. O dispositivo determina que a diferença não transferida em cada exercício seja paga em parcelas anuais iguais, a partir do ano seguinte até 2037, sem prever expressamente a antecipação dos pagamentos.\n— No ano de 2027, teria um corte de R$ 3 bilhões, pagaria R$ 1 bilhão. Em 2028, melhorou a receita, melhorou o fluxo de pagamento, pode pagar R$ 2 bilhões, pode pagar R$ 3 bilhões, pode pagar R$ 4 bilhões, pode pagar quanto achar que o fluxo cabe. E assim ir recompondo. Portanto, não há calote — disse.\nDurante evento do mercado financeiro nesta segunda-feira, Tarcísio criticou o pacote por transferir parte do esforço fiscal da União para estados e municípios. Segundo o governador, aproximadamente R$ 8 bilhões da economia prevista pelo governo federal recairão sobre os entes federativos, considerando também mudanças nas compensações tributárias e previdenciárias.\n— Não está se atacando a questão estrutural do gasto, nem a questão estrutural da dívida. Você está, de certa forma, olhando apenas o cumprimento da meta fiscal de 2027. E parte dessa economia está sendo repassada para estados e municípios — afirmou Tarcísio.\nO governador também alertou para o risco de judicialização e para os efeitos das medidas sobre as finanças municipais.\n— Daqui a pouco os municípios que já estão estrangulados não vão ter como prestar os seus serviços. A gente está caminhando para um colapso, uma situação muito difícil — disse.\nA Lei Kandir foi objeto de um acordo homologado pelo Supremo Tribunal Federal (STF), que estabeleceu compensações da União aos estados pelas perdas decorrentes da desoneração do ICMS sobre exportações. Braga argumentou que o cronograma deve respeitar a capacidade de pagamento do governo federal.\n— Veja, a Lei Kandir acabou fazendo um acordo com o Supremo, mas tem um artigo na Constituição que remete todo e qualquer acordo à capacidade de pagamento do Estado. O Estado não tem fluxo de pagamento nesse momento para honrar o que foi estabelecido — declarou.\nO texto-base do ajuste fiscal foi aprovado pelo Senado na última quinta-feira, por 45 votos a 31, mas quatro destaques ficaram para esta terça-feira. A oposição, liderada por Rogério Marinho (PL-RN), busca apoio de bancadas estaduais para retirar dispositivos do relatório, enquanto o Planalto tenta preservar as medidas, cujo impacto fiscal é estimado pelo governo em até R$ 56,1 bilhões em 2027.",
-    "published": "2026-11-16T22:11:25+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O relator do pacote de ajuste fiscal no Senado, Eduardo Braga (MDB-AM), afirmou nesta segunda-feira que a União poderá antecipar os repasses aos estados caso haja espaço no Orçamento e negou que a proposta represente um corte definitivo de recursos destinados às unidades da feder",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Em derrota para Trump, juiz dos EUA rejeita novas regras de visto para estudantes estrangeiros e jornalistas",
-    "link": "https://oglobo.globo.com/mundo/noticia/2026/11/16/em-derrota-para-trump-juiz-dos-eua-rejeita-novas-regras-de-visto-para-estudantes-estrangeiros-e-jornalistas.ghtml",
-    "description": "Um juiz federal dos Estados Unidos anulou, na segunda-feira, as novas restrições ao tempo de permanência no país impostas pelo governo de Donald Trump a estudantes e jornalistas estrangeiros. O juiz federal de Boston, no nordeste do país, já havia suspendido, por tempo indeterminado, a entrada em vigor da medida, prevista para 15 de setembro, sem, contudo, se pronunciar sobre o mérito da questão.\nO GLOBO no Mundo: receba as notícias internacionais no seu WhatsApp\nQuer viver fora do Brasil? Guia completo de imigração reúne informações de 36 países com mais apelo para brasileiros\nVeja vídeo: Cidadã americana grávida é atingida por spray de pimenta e derrubada por agentes do ICE durante protesto nos EUA\nSegundo a regra, cidadãos estrangeiros portadores de visto de estudante não poderiam mais permanecer por mais de quatro anos em território americano. Já para os jornalistas estrangeiros, o tempo de permanência ficaria limitado a 240 dias, com a possibilidade de solicitar renovações por períodos equivalentes.\nNa decisão divulgada na segunda-feira, o magistrado anulou a regulamentação, publicada em julho no Registro Federal, o diário oficial dos Estados Unidos, por considerá-la \"arbitrária\". O governo poderá recorrer da decisão, que seria então encaminhada a um tribunal federal de apelações.\nO juiz acolheu os argumentos jurídicos apresentados por organizações que representam instituições de ensino superior, professores e sindicatos, entre eles uma entidade que reúne jornalistas e outros profissionais da comunicação.\n Entenda a polêmica\nEm julho, o governo Trump restringiu o tempo de permanência legal de estudantes e jornalistas estrangeiros no país, como uma nova forma de endurecimento da política migratória do presidente americano.  Segundo a normativa, os estrangeiros que tivessem visto de estudante não poderiam permanecer mais que quatro anos no território americano. \nA estadia para jornalistas estrangeiros seria limitada a 240 dias, cerca de oito meses, embora fosse possível solicitar prorrogações por períodos equivalentes. Já os jornalistas chineses estariam sujeitos a regras ainda mais restritivas, com vistos de no máximo 90 dias. \nAté então, os EUA concediam vistos pela duração do programa de estudos para os estudantes e de até cinco anos para jornalistas. \nPolítica anti-imigração de Trump: Cerca de 145 mil crianças e adolescentes americanos foram separados dos pais, aponta estudo\nO Departamento de Segurança Interna (DHS, na sigla em inglês) recebeu cerca de 22 mil comentários públicos quando propôs as normas para estudantes e jornalistas em agosto de 2025, mas fez poucas alterações no texto final.  \nO DHS disse, à época, que alguns estrangeiros prolongavam indefinidamente seus estudos para permanecer no país como \"estudantes eternos\". Segundo o órgão, o sistema de permanência por prazo indeterminado, em vigor desde o fim da década de 1970, dificultava a fiscalização dos beneficiários dos vistos. \nOs EUA receberam mais de 1,1 milhão de estudantes internacionais no ano acadêmico 2023-2024, mais que qualquer outro país. Em 2023, eles aportaram à economia americana mais de US$ 50 bilhões (R$ 242 bilhões, na cotação da época), segundo dados oficiais.",
-    "published": "2026-11-16T22:06:35+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "Um juiz federal dos Estados Unidos anulou, na segunda-feira, as novas restrições ao tempo de permanência no país impostas pelo governo de Donald Trump a estudantes e jornalistas estrangeiros. O juiz federal de Boston, no nordeste do país, já havia suspendido, por tempo indetermin",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Moraes autoriza compartilhamento de provas contra ex-comandante da Marinha com o STM",
-    "link": "https://www.infomoney.com.br/politica/moraes-autoriza-compartilhamento-de-provas-contra-ex-comandante-da-marinha-com-o-stm/",
-    "description": "Almir Garnier foi condenado a 24 anos de prisão pela Primeira Turma do STF \nThe post Moraes autoriza compartilhamento de provas contra ex-comandante da Marinha com o STM appeared first on InfoMoney.",
-    "published": "2026-11-16T22:02:36+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Almir Garnier foi condenado a 24 anos de prisão pela Primeira Turma do STF \nThe post Moraes autoriza compartilhamento de provas contra ex-comandante da Marinha com o STM appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "PT reunirá bancada e ouvirá sugestões ao ajuste fiscal",
-    "link": "https://www.poder360.com.br/poder-congresso/pt-reunira-bancada-e-ouvira-sugestoes-ao-ajuste-fiscal/",
-    "description": "Paulo Pimenta diz que ideias podem ser aprovadas sem a necessidade de o projeto retornar ao Senado; partido enfrenta resistência interna",
-    "published": "2026-11-16T22:00:41+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Paulo Pimenta diz que ideias podem ser aprovadas sem a necessidade de o projeto retornar ao Senado; partido enfrenta resistência interna",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/politica/noticia/2026/11/17/ajuste-fiscal-divide-bancada-do-pt-nas-redes-e-governo-reage-para-conter-fogo-amigo.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "De celular que vira relógio a pagamentos por reconhecimento da íris: brasileiros desenvolvem tecnologias nos EUA",
-    "link": "https://valor.globo.com/patrocinado/pressworks/noticia/2026/11/16/de-celular-que-vira-relogio-a-pagamentos-por-reconhecimento-da-iris-brasileiros-desenvolvem-tecnologias-nos-eua-1.ghtml",
-    "description": "Uma tecnologia que transforma um smartphone em relógio inteligente e permite conectá-lo a óculos de realidade aumentada. Outra que propõe realizar pagamentos por reconhecimento da íris ou impressão digital. Essas são as duas iniciativas desenvolvidas nos Estados Unidos pelo empreendedor brasileiro Rodrigo Pedroza, em parceria com Fernando Lopardo Paes, CIO e engenheiro de tecnologia.\nOs projetos fazem parte de uma estratégia de desenvolvimento tecnológico com foco no mercado internacional. As iniciativas são a HCELLVI, voltada à integração de dispositivos inteligentes, e a Safe Money, que busca simplificar pagamentos digitais por meio de identificação biométrica.\nNa HCELLVI, a proposta é reunir diferentes funcionalidades em um único ecossistema. O projeto prevê um smartphone dobrável que pode assumir o formato de relógio de pulso e se conectar a óculos inteligentes, permitindo acessar informações e recursos digitais em diferentes situações do dia a dia.\nJá a Safe Money aposta em uma nova experiência para pagamentos. A plataforma prevê utilizar reconhecimento da íris ou impressão digital para autenticar o usuário, além de permitir a conexão com diferentes contas financeiras por meio do Open Finance. A proposta também contempla pagamentos e conversões entre moedas.\n\"Estamos trabalhando em duas tecnologias com propostas diferentes, mas que têm algo em comum: tornar a tecnologia mais integrada à vida das pessoas. Na HCELLVI, queremos aproximar diferentes dispositivos em uma única experiência. Na Safe Money, buscamos simplificar a maneira como as pessoas acessam seus recursos e realizam pagamentos. São projetos com potencial internacional e que representam apenas o começo do que pretendemos desenvolver\", afirma Rodrigo Pedroza.\nA parceria reúne conhecimentos de engenharia, tecnologia e desenvolvimento de negócios. A HCELLVI mantém estrutura nos Estados Unidos, com profissionais de áreas como engenharia, propriedade intelectual, comunicação e design. Segundo Pedroza, os projetos também contam com aproximação de investidores e parceiros estratégicos americanos e chineses.\nO objetivo agora é avançar no desenvolvimento das soluções, ampliar as parcerias e estruturar os próximos passos para levar as tecnologias a outros mercados. A HCELLVI está em fase de pré-protótipo, enquanto a Safe Money permanece em etapa de conceito e desenvolvimento.\n\"Nosso plano é construir uma presença internacional e conectar profissionais, investidores e empresas que acreditem nessas iniciativas. Temos outras tecnologias sendo desenvolvidas e queremos ampliar essa atuação nos próximos anos. A ideia é transformar projetos em soluções que possam chegar a diferentes países\", conclui Pedroza.",
-    "published": "2026-11-16T21:59:55+00:00",
-    "themes": [
-      "Mercado Financeiro",
-      "XP"
-    ],
-    "summary": "Uma tecnologia que transforma um smartphone em relógio inteligente e permite conectá-lo a óculos de realidade aumentada. Outra que propõe realizar pagamentos por reconhecimento da íris ou impressão digital. Essas são as duas iniciativas desenvolvidas nos Estados Unidos pelo empre",
-    "relevance": 5
-  },
-  {
-    "source": "NeoFeed",
-    "title": "Varejo puxa crescimento da XP no trimestre",
-    "link": "https://neofeed.com.br/negocios/varejo-puxa-crescimento-da-xp-no-trimestre/",
-    "description": "A XP teve um lucro líquido ajustado de R$ 1,382 bilhão no terceiro trimestre de 2026. É uma alta de 4% sobre o mesmo período de 2025, mas o resultado ficou praticamente estável em relação ao segundo trimestre. A receita bruta cresceu 8%, para R$ 5,34 bilhões. A companhia atribuiu o resultado a duas linhas [&#8230;]\nO post Varejo puxa crescimento da XP no trimestre apareceu primeiro em NeoFeed.",
-    "published": "2026-11-16T21:59:41+00:00",
-    "themes": [
-      "XP"
-    ],
-    "summary": "A XP teve um lucro líquido ajustado de R$ 1,382 bilhão no terceiro trimestre de 2026. É uma alta de 4% sobre o mesmo período de 2025, mas o resultado ficou praticamente estável em relação ao segundo trimestre. A receita bruta cresceu 8%, para R$ 5,34 bilhões. A companhia atribuiu",
-    "relevance": 5
-  },
-  {
-    "source": "Financial Times",
-    "title": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade",
-    "link": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
-    "description": "US chip stocks fall as Nvidia sustains fresh bout of selling pressure",
-    "published": "2026-11-16T21:58:59+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "US chip stocks fall as Nvidia sustains fresh bout of selling pressure",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "DF pede que STF analise possível conflito de interesse de advogado de Vorcaro por atuação no BRB",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/16/df-pede-que-stf-analise-possvel-conflito-de-interesse-de-advogado-de-vorcaro-por-atuao-no-brb.ghtml",
-    "description": "A Procuradoria do Distrito Federal pediu na última sexta-feira (13) ao Supremo Tribunal Federal (STF) que analise um possível conflito de interesse envolvendo a atuação de um dos advogados do ex-banqueiro Daniel Vorcaro por ter atuado como conselheiro fiscal do BRB, o banco estatal de Brasília, e ter passado a defender Vorcaro em uma ação movida contra ele pelo próprio BRB. A ação pede o ressarcimento de valores do ex-banqueiro e de outras pessoas por operações financeiras que ocorreram justamente no período em que Engels Muniz era conselheiro fiscal do BRB.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-16T21:56:54+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "XP"
-    ],
-    "summary": "A Procuradoria do Distrito Federal pediu na última sexta-feira (13) ao Supremo Tribunal Federal (STF) que analise um possível conflito de interesse envolvendo a atuação de um dos advogados do ex-banqueiro Daniel Vorcaro por ter atuado como conselheiro fiscal do BRB, o banco estat",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Economia",
-    "title": "Alckmin diz que não há razão para mercado ter oscilações após pacote fiscal: 'Brasil tem segurança jurídica e está trabalhando'",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/16/alckmin-diz-que-nao-ha-razao-para-mercado-ter-oscilacoes-apos-pacote-fiscal-brasil-tem-seguranca-juridica-e-esta-trabalhando.ghtml",
-    "description": "O presidente em exercício, Geraldo Alckmin, afirmou nesta segunda-feira (16) que não há razão para as oscilações do mercado financeiro após o governo ter apresentado na semana passada pacote que reúne medidas para conter gastos e melhorar as contas públicas, com impacto estimado em até R$ 60 bilhões em 2027.\nNesta segunda, o dólar fechou em alta de 2,15%, cotado a R$ 5,7767. Na máxima do dia, chegou a R$ 5,7949, maior valor desde 17 de abril de 2025, quando encerrou a R$ 5,8042. O Ibovespa, principal índice da bolsa brasileira, caía 2,11% por volta das 17h, aos 168.827 pontos.\n\"Não há razão para o mercado ter essas oscilações. O Brasil é uma das maiores economias do mundo, tem reservas internacionais, inflação sob controle, segurança jurídica, então não há razão para essas oscilações. Acredito que serão passageiras e o Brasil está trabalhando para não ter déficit e fazer superávit primário\", afirmou Alckmin.\nAgora no g1\nO movimento reflete as preocupações dos investidores com as contas públicas brasileiras, após a aprovação do texto-base do projeto fiscal do governo na semana passada. Parte do mercado considera as medidas insuficientes para conter o avanço da dúvida pública.\nO cenário externo também pressionou os mercados brasileiros, em meio à maior cautela dos investidores. Eles estão menos dispostos a assumir riscos enquanto aguardam a divulgação de balanços de grandes empresas, especialmente da Nvidia.\nO projeto, apresentado pelo senador Jaques Wagner (PT-BA), teve seu texto-base aprovado pelo Senado, mas a votação ainda não foi concluída. Os senadores precisam analisar quatro destaques que podem alterar a proposta. Só depois o texto seguirá para a Câmara dos Deputados\nGeraldo Alckmin, vice-presidente da República.\nJúlio César Silva/MDIC",
-    "published": "2026-11-16T21:53:07+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O presidente em exercício, Geraldo Alckmin, afirmou nesta segunda-feira (16) que não há razão para as oscilações do mercado financeiro após o governo ter apresentado na semana passada pacote que reúne medidas para conter gastos e melhorar as contas públicas, com impacto estimado ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "PagBank lucra R$ 611 milhões no 3º trimestre, alta anual de 6,9%",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/16/pagbank-lucra-r-611-milhes-no-3-trimestre-alta-anual-de-69-pontos-percentuais.ghtml",
-    "description": "O PagBank teve lucro líquido ajustado de R$ 611 milhões no terceiro trimestre de 2026, alta de 6,1% em relação ao trimestre anterior e de 6,9% na comparação com o mesmo período de 2025. \n\nA receita totalizou R$ 5,087 bilhões, praticamente estável (+0,1%) na comparação trimestral e 0,4% menor em 12 meses. A receita líquida de intercâmbio (ex-ITC) soma R$ 3,424 bilhões, alta de 1,3% e 0,4%, nas mesmas bases de comparação. Na área de pagamentos, a receita somou R$ 2,533 bilhões, recuo trimestral de 0,9% e anual de 5,1%. Já em serviços bancários, foram R$ 891 milhões, altas de 8,2% e 20%, respectivamente. \n\nO volume de transações processadas (TPV) na área de adquirência do PagBank ficou em R$ 131,4 bilhões de julho a setembro, queda trimestral de 1,5% e alta anual de 1,2%.\n\nHá um ano, no terceiro trimestre de 2025, o TPV registrou uma inflexão e passou a apresentar queda na comparação anual. No primeiro trimestre deste ano, ficou estável e voltou a crescer no segundo trimestre. Agora, também apresenta expansão, embora em ritmo inferior ao do trimestre passado. \n\nSegundo o CEO do PagBank, Carlos Mauad, daqui para a frente, o ritmo de crescimento deve ser semelhante ao observado no segundo e no terceiro trimestres deste ano.\n\nA carteira de crédito do PagBank atingiu R$ 5,2 bilhões no terceiro trimestre de 2026, aumento de 2,7% em relação ao trimestre anterior e de 25,2% em 12 meses. A instituição tem a meta de alcançar R$ 25 bilhões em carteira de crédito até 2029. A inadimplência (NPL) acima de 90 dias ficou em 3,8% em setembro, ante 3,4% em junho e 2,6% em setembro de 2025. \n\nO PagBank afirma que o aumento da inadimplência está em linha com a evolução do mix de sua carteira de crédito. “Uma carteira que tem avançado em direção a um mix mais equilibrado. Vale lembrar, uma carteira que era sobretudo colateralizada lá atrás, principalmente as operações de [consignado] INSS e FGTS”, explicou o superintendente de relações com investidores do PagBank, Daniel Pioner. Ele acrescentou que, atualmente, 38% do portfólio corresponde a capital de giro e cartão de crédito. \n“Reflexo natural disso é um NPL que avança de maneira gradual, mas consistente com a própria evolução do mix.”\n\nPara Mauad, embora o aumento da inadimplência seja um movimento observado no mercado como um todo, o comportamento no PagBank tem características próprias. “A nossa evolução de inadimplência, ela tem uma característica um pouquinho diferente dos demais bancos, que acho que estão sofrendo com um elemento exógeno, que é a pressão macro criando uma deterioração no portfólio. O nosso tá mais associado ao mix.”\n\nA carteira expandida, que inclui também a antecipação de recebíveis, atingiu R$ 49,9 bilhões, queda de 4,7% no trimestre e alta de 1% no ano. As antecipações de recebíveis somaram R$ 44,7 bilhões no trimestre, recuo trimestral de 5,5% e anual de 1,3%. O volume de depósitos, por sua vez, totalizou R$ 42,8 bilhões, praticamente estável (-0,1%) no trimestre e 8,4% maior em 12 meses. \nGuidance\nO PagBank revisou sua projeção (“guidance”) para o lucro bruto em 2026, em razão da mudança na trajetória de queda da taxa Selic. Antes, a instituição previa crescimento entre 6% e 9% neste ano, em relação a 2025. Agora, a expectativa foi reduzida para a faixa de 3% a 5%.\nNo início do ano, a expectativa do PagBank era de que a Selic recuasse para 12,5% até o fim de 2026. Na última reunião do Comitê de Política Monetária (Copom) do Banco Central (BC), no início deste mês, a taxa foi mantida em 13,75%. Há apenas mais uma reunião do colegiado antes do fim do ano, em dezembro.\nO PagBank tem sensibilidade de aproximadamente R$ 350 milhões no lucro antes dos impostos (EBT) a cada 100 pontos-base de variação na Selic. “O ajuste são R$ 450 milhões, se a gente considerar esse delta de aproximadamente 130 pontos entre o que nós tínhamos como premissa para construção do ‘guidance’ versus o que está sendo observado neste ciclo monetário, que já está indo para o sexto ano da Selic acima de dois dígitos”, explicou o vice-presidente financeiro (CFO) do PagBank, Gustavo Sechin.\nAs demais projeções foram mantidas. A instituição estima crescimento anual de 9% a 13% no lucro por ação em 2026. Os investimentos (capex) devem ficar entre R$ 1,8 bilhão e R$ 2,0 bilhões, enquanto a carteira de crédito deve crescer de 25% a 35% neste ano.\nO PagBank também tem o objetivo de longo prazo de atingir uma carteira de crédito de R$ 25 bilhões em 2029. Até lá, a expectativa é de crescimento anual de 10% no lucro bruto e de 16% no lucro por ação — abaixo das estimativas para este ano, portanto, deve acelerar nos anos seguintes.",
-    "published": "2026-11-16T21:47:03+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O PagBank teve lucro líquido ajustado de R$ 611 milhões no terceiro trimestre de 2026, alta de 6,1% em relação ao trimestre anterior e de 6,9% na comparação com o mesmo período de 2025. \n\nA receita totalizou R$ 5,087 bilhões, praticamente estável (+0,1%) na comparação trimestral ",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Alckmin diz que não há razão para alta do dólar; moeda americana foi a R$ 5,77 com incerteza sobre ajuste fiscal",
-    "link": "https://oglobo.globo.com/economia/financas/noticia/2026/11/16/alckmin-diz-que-nao-ha-razao-para-alta-do-dolar-moeda-americana-foi-a-r-577-com-incerteza-sobre-ajuste-fiscal.ghtml",
-    "description": "O presidente em exercício, Geraldo Alckmin, disse nesta segunda-feira não haver razões para a disparada do dólar e afirmou que a oscilação será passageira. A moeda americana encerrou hoje no maior valor desde 17 de abril de 2025, aos R$ 5,77, em meio às incertezas sobre o ajuste fiscal no Brasil e à piora no cenário para a taxa de juros nos EUA. \n'Prévia' do PIB: IBC-Br cai 0,9% no trimestre e reforça desacelaração\nCrise da Nvidia: EUA vão limitar uso de chips americanos em data centers do Brasil e de outros quatro países\nA divisa avançou 2,1% nesta segunda-feira e chegou a alcançar a máxima de R$ 5,79. Dentre as 31 moedas mais negociadas no mundo, o real teve a maior desvalorização frente a moeda americana.\n– Não há razão para o mercado ter essas oscilações. O Brasil é uma das maiores economias do mundo, tem reservas internacionais, tem segurança jurídica. Não há razão para essas oscilações. Acredito que eles serão passageiras. (O governo) está trabalhando para não ter déficit e fazer superávit fiscal – disse o vice-presidente, depois de se reunir no Planalto com entidades que lançaram um manifesto contra os supersalários.\nAlckmin ainda acrescentou que o superávit servirá para reduzir a taxa de juros. \n– Esse é o caminho para reduzir a taxa de juros. E a redução da taxa de juros é fundamental para a economia crescer mais, gerar mais emprego, melhorar a renda da população e diminuir o endividamento.\nNovidade no pagamento instantâneo: Banco Central projeta Pix por aproximação off-line e integração internacional\nO presidente em exercício ainda afirmou não acreditar que o pacote de ajuste fiscal vá sofrer alterações no Congresso que o descaracterize. A proposta foi aprovada na semana passada no Senado, que deve votar os destaques nesta terça-feira. Em seguida, o texto seguirá para a Câmara.\n– A  minha percepção é que não. As alterações não alteram  o foco da proposta para conter gastos e para buscar equilíbrio das contas públicas. \nPela manhã, a informação de que o presidente do BNDES, Aloizio Mercadante, poderia ser nomeado ministro da Fazenda, que foi veiculada por alguns jornais, causou ruído no mercado. Mercadante negou a pretensão e disse que deseja permanecer no BNDES.\nA piora nas projeções de inflação (o Boletim Focus já prevê IPCA a 5% em 2027) e crescimento também contribuiu com o desempenho dos indicadores. A antecipação do usual movimento de remessas de recursos para o exterior também ajudou a pressionar o câmbio.\nPara analistas, o rebaixamento da avaliação dos papéis brasileiros pelo banco americano Morgan Stanley para o equivalente à venda, foi fator que contribuiu para a piora dos ativos. A Bolsa chegou a superar os 2% de queda perto das 17h, aos 168.963 pontos.\nA falta de perspectiva de ajuste fiscal para reduzir o avanço da trajetória da dívida pública contribui com a piora nos indicadores. Desde o dia seguinte ao resultado eleitoral, em 26 de outubro, o investidor estrangeiro já retirou R$ 13,5 bilhões do mercado acionário brasileiro, mais de 30% de tudo que havia aportado até a véspera do segundo turno, de R$ 40 bi.\nAndré Esteves, do BTG: 'Com dólar a R$ 5,80 toda a sociedade perde e não só o mercado financeiro'\nO mercado financeiro passou a estimar um cenário mais desafiador para a economia brasileira no ano que vem. Boletim Focus divulgado nesta segunda-feira mostrou que os agentes passaram a estimar a inflação alcançando 5%, dois pontos acima do centro da meta. A perspectiva para a Taxa Selic ao fim do ano que vem também subiu, de 12,5% para 12,75%. A previsão para o crescimento caiu, de 1,15% na semana passada para 1,02% nesta segunda-feira.\nAs estimativas para o câmbio subiram para este e o próximo ano. Agora, o mercado espera o dólar a R$ 5,40 no fim de 2026 e R$ 5,45 no fim do ano que vem. \nInitial plugin text",
-    "published": "2026-11-16T21:43:55+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O presidente em exercício, Geraldo Alckmin, disse nesta segunda-feira não haver razões para a disparada do dólar e afirmou que a oscilação será passageira. A moeda americana encerrou hoje no maior valor desde 17 de abril de 2025, aos R$ 5,77, em meio às incertezas sobre o ajuste ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "PGR se manifesta contra revogação da prisão de Paulo Henrique Costa, ex-presidente do BRB",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/16/pgr-se-manifesta-contra-revogao-da-priso-de-paulo-henrique-costa-ex-presidente-do-brb.ghtml",
-    "description": "O procurador-geral da República, Paulo Gonet, se manifestou, nesta segunda-feira (16), contra a revogação das prisões preventivas do ex-presidente do Banco de Brasília (BRB) Paulo Henrique Costa. O parecer foi enviado a Edson Fachin, presidente do Supremo Tribunal Federal (STF).\n\nNo mesmo documento, Gonet se manifesta contra a revogação da prisão do advogado Daniel Monteiro. Ele é apontado como um dos responsáveis por dar aparência de legalidade às operações fraudulentas envolvendo o Banco Master, de Daniel Vorcaro. Ele também é citado nas investigações como responsável pela “arquitetura societária e financeira destinada à aquisição e ocultação” de imóveis atribuídos a Costa.\n\nNo parecer, Gonet afirma que a decisão que decretou as prisões do ex-presidente do BRB e do advogado foi “adequadamente fundamentada” e apontou “indicativos do envolvimento dos investigados nas hipóteses criminais apuradas”.\n“Os elementos indiciários colhidos nas investigações revelam a efetiva participação de Paulo Henrique Costa, na condição de presidente do Banco de Brasília, nos fatos apurados. Mesmo diante de alertas emitidos pelos órgãos de controle interno da própria instituição, o investigado teria chancelado a aquisição, pelo BRB, de carteiras de crédito fictícias junto ao Banco Master”, diz a manifestação.\n\nJá sobre Monteiro, afirma o PGR, foram colhidos indícios de sua participação como “operador jurídico-financeiro da estrutura criminosa, especialmente na formalização das operações entre Master, Tirreno e BRB na ocultação do real beneficiário das aquisições imobiliárias, mediante a obtenção de proveito econômico expressivo”.\nDe acordo com as investigações da PF, foram identificados seis imóveis utilizados como vantagem indevida a Costa, avaliados em R$ 146 milhões. Monteiro teria obtido “proveito econômico próprio” de ao menos R$ 86 milhões para atuar na ocultação de imóveis atribuídos a Costa.\nPara Gonet, permanecem “inalteradas” as “bases fáticas que alicerçaram a decretação da prisão preventiva dos requerentes”. Ele citou como exemplo a necessidade de garantia da ordem pública e econômica, de aprofundamento das investigações e a aplicação da lei penal.\n“Os investigados não apresentaram elementos supervenientes que possam descredenciar os fundamentos do decreto prisional e, assim, justificar a revogação da prisão preventiva ou a substituição por medidas cautelares diversas”, sustentou.\n\nPor fim, o PGR se manifestou a favor de um pedido de Costa para conceder entrevista à Revista Piauí. Gonet afirmou que o ordenamento jurídico não proíbe “o exercício da liberdade de expressão por meio de entrevistas concedidas por pessoas em cumprimento de medida cautelar”.\nO Valor entrou em contato com as defesas de Paulo Henrique Costa e de Daniel Monteiro, mas não obteve resposta até a publicação desta reportagem.",
-    "published": "2026-11-16T21:43:30+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "XP"
-    ],
-    "summary": "O procurador-geral da República, Paulo Gonet, se manifestou, nesta segunda-feira (16), contra a revogação das prisões preventivas do ex-presidente do Banco de Brasília (BRB) Paulo Henrique Costa. O parecer foi enviado a Edson Fachin, presidente do Supremo Tribunal Federal (STF).\n",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Como plataformas estão incorporando serviços financeiros sem construir tudo do zero",
-    "link": "https://valor.globo.com/patrocinado/pressworks/noticia/2026/11/16/como-plataformas-estao-incorporando-servicos-financeiros-sem-construir-tudo-do-zero-1.ghtml",
-    "description": "Oferecer conta em dólar, cartão internacional ou pagamentos para o exterior deixou de ser exclusividade dos bancos. Empresas com grandes bases de clientes, membros ou parceiros, assim como fintechs e instituições de pagamento, têm recorrido a infraestruturas financeiras prontas, contratadas por API, para lançar produtos sem montar toda a operação internamente. É nesse mercado que atua a OZAV, infraestrutura financeira B2B que reúne, em uma única API, contas multimoeda, pagamentos internacionais, carteiras digitais, emissão de cartões e compliance.\nSegundo Ariel Fogelman, CEO e fundador da OZAV, o movimento tem duas origens. \"Empresas que já conquistaram uma base grande perceberam que essas pessoas precisam de conta, de cartão, de pagar e receber do exterior e de guardar valor em dólar. Se a empresa não oferece isso, alguém de fora oferece e fica com a relação e com a receita\", afirma. Para essas companhias, incorporar serviços financeiros é uma forma de reter clientes, aumentar o uso do produto e criar uma nova linha de receita com a própria marca.\nO segundo grupo é formado por quem já vive de serviços financeiros: fintechs, bancos digitais, instituições de pagamento e empresas que movimentam dinheiro entre países. Nesse caso, a questão é operar com mais eficiência. \"Essas empresas costumam trabalhar com uma colcha de retalhos de fornecedores: um para verificação de identidade, outro para monitoramento, outro para carteiras, outro para liquidez, um banco por país. Cada peça tem seu contrato, sua integração, sua fatura e seu ponto de falha\", explica Fogelman.\nTrês forças aceleram essa mudança. A primeira é o comportamento do cliente final, que espera resolver tudo no mesmo aplicativo, a qualquer hora e inclusive no fim de semana, algo que os trilhos bancários tradicionais não entregam. A segunda é a pressão por margem nos pagamentos internacionais, que obriga fintechs a reduzir o custo da própria operação e a ganhar com outros serviços, como contas, cartões, carteiras e compliance. A terceira é a regulação: o Banco Central criou regras específicas para ativos virtuais e restringiu a liquidação com stablecoins a empresas autorizadas, o que eleva o padrão de compliance exigido e torna mais caro operar sozinho.\nA diferença entre construir e contratar aparece no tempo e no custo. Pela experiência da OZAV, uma empresa que decide montar tudo internamente precisa integrar mais de vinte peças separadas, de verificação de identidade e listas de sanções a nós de blockchain, livro-razão, bancos correspondentes, provedores de liquidez, emissão de cartão e conciliação. O processo leva de dois a três anos, custa entre US$ 500 mil e US$ 3 milhões e exige mais de vinte contratos. Na OZAV, a integração técnica leva em média cerca de dez dias, e o cliente mais rápido integrou em dois. A entrada em produção tem variado de duas semanas a três meses, a depender mais do processo de decisão do cliente do que da tecnologia.\nA API é modular: a empresa liga apenas os serviços de que precisa e paga pelo que usa, com um único contrato, uma única chave de acesso e um único painel. Na grande empresa, a experiência e a marca ficam com ela, enquanto a operação regulada, a custódia e o compliance ficam com a OZAV. Para fintechs, a principal mudança é trocar dezenas de fornecedores por um só. \"Conectamos por trás da mesma API vários provedores de liquidez e bancos locais em cada país, com redundância contratada. Se um provedor falha ou fica mais caro, a operação é redirecionada sem que o cliente precise refazer a integração. Quando algo dá errado, há um interlocutor, e não vinte\", diz o CEO.\nO compliance roda dentro do fluxo. Cada transação passa por um mesmo motor de decisão, que aprova, bloqueia ou envia para revisão em tempo real. A OZAV desenvolveu um modelo próprio de inteligência artificial, específico para movimentação de dinheiro regulada, que decide se um cliente pode ser aprovado ou se uma transação pode seguir. \"Acreditamos que modelos genéricos vão perder espaço para modelos especializados por setor\", afirma Fogelman. Cerca de 5% das requisições na API da empresa já partem de agentes de IA, e não de pessoas.\nAs stablecoins, moedas digitais lastreadas em moeda forte, funcionam como o trilho dessa operação. \"Para nós, a stablecoin é o trilho, não um investimento. É o que torna possível oferecer uma conta em dólar ou um pagamento internacional sem a cadeia de bancos correspondentes, com custo menor e sem janela bancária\", explica. Na maior parte dos casos, o cliente final nem percebe a tecnologia: ele vê uma conta em dólar e um cartão com a marca da empresa. A OZAV não assume risco de preço com ativos voláteis, opera apenas stablecoins lastreadas em moeda forte dos emissores mais líquidos e mantém os recursos dos clientes segregados.\nAlém de fintechs e bancos digitais, a demanda vem de associações e empresas de proteção profissional, plataformas de benefícios e fidelidade, marketplaces, empresas de turismo, locadoras de veículos, grupos farmacêuticos e plataformas de conteúdo digital. Entre as aplicações mais procuradas estão pagamentos e recebimentos internacionais, contas em dólar, euro ou libra e cartões internacionais com a marca do cliente, carteiras digitais, gestão de tesouraria em moeda forte e compliance como serviço. Um dos clientes da OZAV, uma empresa de proteção profissional que já oferecia serviços em reais, contratou a infraestrutura para lançar uma conta em dólar e um cartão internacional com a própria marca.\nEm produção desde janeiro de 2026, a OZAV tem hoje 158 empresas integradas à sua API, contra 37 em julho, e opera em onze corredores: Brasil, Estados Unidos, Reino Unido, zona do euro, México, Argentina, China, Dubai, Singapura, Japão e Hong Kong. Até 30 de outubro, a plataforma liquidou R$ 278,5 milhões. Os próximos passos incluem concluir o processo de autorização junto ao Banco Central, avançar para registro no Canadá e expandir a operação pela América Latina e pela África, mercados que estão se dolarizando e ainda são mal atendidos pelos serviços financeiros internacionais.",
-    "published": "2026-11-16T21:41:19+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Oferecer conta em dólar, cartão internacional ou pagamentos para o exterior deixou de ser exclusividade dos bancos. Empresas com grandes bases de clientes, membros ou parceiros, assim como fintechs e instituições de pagamento, têm recorrido a infraestruturas financeiras prontas, ",
-    "relevance": 5
-  },
-  {
-    "source": "Folha",
-    "title": "PT deve declarar apoio a 'plano Moretti' apesar de críticas da sigla a ajuste",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/pt-deve-declarar-apoio-a-plano-moretti-apesar-de-criticas-da-sigla-a-ajuste.shtml",
-    "description": "A bancada do PT na Câmara dos Deputados deve declarar nesta terça-feira (17) voto a favor do projeto de ajuste fiscal proposto pelo ministro do Planejamento e Orçamento, Bruno Moretti, apesar das críticas feitas por parte dos petistas, de acordo com integrantes do partido.\nLeia mais (11/16/2026 - 18h39)",
-    "published": "2026-11-16T21:39:00+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "A bancada do PT na Câmara dos Deputados deve declarar nesta terça-feira (17) voto a favor do projeto de ajuste fiscal proposto pelo ministro do Planejamento e Orçamento, Bruno Moretti, apesar das críticas feitas por parte dos petistas, de acordo com integrantes do partido.\nLeia m",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/economia/noticia/2026/11/16/pt-da-camara-deve-apoiar-pacote-fiscal-de-lula-apesar-de-criticas-a-ajuste.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Fazenda diz estar em ‘tratativas preliminares’ sobre pedido do BB para flexibilizar regras para registro de crédito agro",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/16/fazenda-diz-estar-em-tratativas-preliminares-sobre-pedido-do-bb-para-flexibilizar-regras-para-registro-de-crdito-agro.ghtml",
-    "description": "O Ministério da Fazenda disse nesta segunda-feira (16) que recebeu uma proposta do Banco do Brasil para flexibilizar regras para contabilizar no balanço financeiro as perdas esperadas com calotes nas operações de crédito com o agronegócio. Segundo a pasta, o tema está em \"tratativas preliminares\" com o Banco Central.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-16T21:31:55+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O Ministério da Fazenda disse nesta segunda-feira (16) que recebeu uma proposta do Banco do Brasil para flexibilizar regras para contabilizar no balanço financeiro as perdas esperadas com calotes nas operações de crédito com o agronegócio. Segundo a pasta, o tema está em \"tratati",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Moedas Globais: força do dólar segue e DXY sobe a maior nível desde Dia da Libertação",
-    "link": "https://www.infomoney.com.br/mercados/moedas-globais-forca-do-dolar-segue-e-dxy-sobe-a-maior-nivel-desde-dia-da-libertacao/",
-    "description": "A divisa norte-americana também apresentou alta ante o dólar canadense com as negociações comerciais ainda empacadas entre os dois países\nThe post Moedas Globais: força do dólar segue e DXY sobe a maior nível desde Dia da Libertação appeared first on InfoMoney.",
-    "published": "2026-11-16T21:30:21+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "A divisa norte-americana também apresentou alta ante o dólar canadense com as negociações comerciais ainda empacadas entre os dois países\nThe post Moedas Globais: força do dólar segue e DXY sobe a maior nível desde Dia da Libertação appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo",
-    "link": "https://www.moneytimes.com.br/ibovespa-fecha-no-vermelho-com-incertezas-fiscais-e-queda-do-petroleo-davs/",
-    "description": "A aversão ao risco dominou os mercados nesta segunda-feira (16), e o Ibovespa (IBOV) não escapou do mau humor dos investidores. O principal índice da B3 passou todo o pregão no vermelho e recuou abaixo dos 169 mil pontos. A bolsa brasileira foi pressionada pela queda do petróleo, que fechou o dia com perdas de [&#8230;]",
-    "published": "2026-11-16T21:29:26+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A aversão ao risco dominou os mercados nesta segunda-feira (16), e o Ibovespa (IBOV) não escapou do mau humor dos investidores. O principal índice da B3 passou todo o pregão no vermelho e recuou abaixo dos 169 mil pontos. A bolsa brasileira foi pressionada pela queda do petróleo,",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "XP tem lucro líquido ajustado de R$ 1,38 bi no 3T26 e dará agrado bilionário para acionista",
-    "link": "https://www.moneytimes.com.br/xp-tem-lucro-liquido-ajustado-de-r-138-bi-no-3t26-e-dara-agrado-bilionario-para-acionista/",
-    "description": "A XP Inc. (XP) teve lucro líquido ajustado de R$1,38 bilhão no terceiro trimestre, alta de 4% em relação ao mesmo período do ano passado, de acordo com o balanço publicado nesta segunda-feira, que mostrou expansão de receita e na base de clientes. O resultado ficou praticamente em linha com a média das projeções de [&#8230;]",
-    "published": "2026-11-16T21:28:34+00:00",
-    "themes": [
-      "XP"
-    ],
-    "summary": "A XP Inc. (XP) teve lucro líquido ajustado de R$1,38 bilhão no terceiro trimestre, alta de 4% em relação ao mesmo período do ano passado, de acordo com o balanço publicado nesta segunda-feira, que mostrou expansão de receita e na base de clientes. O resultado ficou praticamente e",
-    "relevance": 5
   }
 ]
