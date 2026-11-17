@@ -74,18 +74,6 @@
     "relevance": 5
   },
   {
-    "source": "O Globo",
-    "title": "Dólar vai à maior cotação desde abril de 2025; relembre o que acontecia naquele dia",
-    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/dolar-vai-a-maior-cotacao-desde-abril-de-2025-relembre-o-que-acontecia-naquele-dia.ghtml",
-    "description": "O dólar fechou nesta segunda-feira em alta de 2,13%, cotado a R$ 5,7770, depois de se aproximar de R$ 5,80 durante o pregão. Foi a maior cotação de fechamento desde 17 de abril de 2025, quando a moeda encerrou o dia a R$ 5,8037.] Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-16T23:25:34+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O dólar fechou nesta segunda-feira em alta de 2,13%, cotado a R$ 5,7770, depois de se aproximar de R$ 5,80 durante o pregão. Foi a maior cotação de fechamento desde 17 de abril de 2025, quando a moeda encerrou o dia a R$ 5,8037.] Matéria exclusiva para assinantes. Para ter acesso",
-    "relevance": 5
-  },
-  {
     "source": "Brazil Journal",
     "title": "Na XP, despesa sobe e ‘new money’ desacelera; CEO vê negócio “cada vez mais acíclico”",
     "link": "https://braziljournal.com/na-xp-despesa-sobe-e-new-money-desacelera-ceo-ve-negocio-cada-vez-mais-aciclico",
@@ -221,6 +209,18 @@
       "Mercado Financeiro"
     ],
     "summary": "O governo do presidente Luiz Inácio Lula da Silva avalia a possibilidade de contestar as novas restrições anunciadas pelos Estados Unidos à venda de chips avançados de inteligência artificial para data centers instalados no Brasil. A medida, divulgada nesta segunda-feira, inclui ",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Dólar salta 2%, aos R$ 5,77, com cenário externo negativo e incerteza sobre ajuste fiscal; Bolsa cai 2%",
+    "link": "https://oglobo.globo.com/economia/financas/ao-vivo/ibovespa-hoje-acompanhe-bolsa-e-dolar.ghtml",
+    "description": "Dólar salta 2%, aos R$ 5,77, com cenário externo negativo e incerteza sobre ajuste fiscal; Bolsa cai 2% Perspectiva sobre juros mais altos nos EUA e indefinição sobre perfil da nova equipe econômica trazem nervosismo ao mercado",
+    "published": "2026-11-16T22:37:57+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Dólar salta 2%, aos R$ 5,77, com cenário externo negativo e incerteza sobre ajuste fiscal; Bolsa cai 2% Perspectiva sobre juros mais altos nos EUA e indefinição sobre perfil da nova equipe econômica trazem nervosismo ao mercado",
     "relevance": 5
   },
   {
@@ -560,20 +560,6 @@
         "link": "https://oglobo.globo.com/economia/noticia/2026/11/16/pt-da-camara-deve-apoiar-pacote-fiscal-de-lula-apesar-de-criticas-a-ajuste.ghtml"
       }
     ]
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Dólar dispara e fecha no maior nível desde abril de 2025 com política fiscal no foco; Ibovespa despenca e juros avançam",
-    "link": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
-    "description": "Dólar dispara e fecha no maior nível desde abril de 2025 com política fiscal no foco; Ibovespa despenca e juros avançam Agentes financeiros continuam a exigir prêmios de risco elevados diante das dúvidas em torno da sustentabilidade da dívida pública Juros futuros disparam em meio a desconfiança com política econômica do governo. Dólar dispara 2,15% com desconfiança sobre política fiscal e termina no maior nível desde abril de 2025. Nvidia puxa perdas em NY antes de balanço e Nasdaq cai mais de 2%. Ibovespa cede 1,8% com incerteza fiscal e rebaixamento de ações brasileiras . Petróleo tem forte queda com sinais de melhora na oferta",
-    "published": "2026-11-16T21:37:34+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Dólar dispara e fecha no maior nível desde abril de 2025 com política fiscal no foco; Ibovespa despenca e juros avançam Agentes financeiros continuam a exigir prêmios de risco elevados diante das dúvidas em torno da sustentabilidade da dívida pública Juros futuros disparam em mei",
-    "relevance": 5
   },
   {
     "source": "Valor Econômico",
@@ -1025,18 +1011,6 @@
     "relevance": 5
   },
   {
-    "source": "Poder360",
-    "title": "Dólar dispara e fecha a R$ 5,78, maior valor desde abril de 2025",
-    "link": "https://www.poder360.com.br/poder-economia/dolar-dispara-e-fecha-a-r-578-maior-valor-desde-abril-de-2025/",
-    "description": "Resistência do governo em cortar despesas e possível indicação de Mercadante para a Fazenda pressionaram o real",
-    "published": "2026-11-16T20:27:13+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Resistência do governo em cortar despesas e possível indicação de Mercadante para a Fazenda pressionaram o real",
-    "relevance": 5
-  },
-  {
     "source": "Valor Econômico",
     "title": "Iniciativa voltada às periferias diz que financiamento climático deve descentralizar recursos e decisões",
     "link": "https://valor.globo.com/brasil/noticia/2026/11/16/iniciativa-voltada-as-periferias-diz-que-financiamento-climatico-deve-descentralizar-recursos-e-decisoes.ghtml",
@@ -1071,19 +1045,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Sam Altman, presidente-executivo da OpenAI, disse acreditar que o setor de inteligência artificial vai superar as incertezas provocadas pela saída de Jensen Huang do comando da Nvidia na semana passada.\nSem acesso: EUA vão limitar uso de chips americanos em data centers do Brasil",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Dólar dispara 2,15% com desconfiança sobre política fiscal e termina no maior nível desde abril de 2025",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/16/dolar-dispara-215percent-com-desconfianca-sobre-politica-fiscal-e-termina-no-maior-nivel-desde-abril-de-2025.ghtml",
-    "description": "O dólar à vista exibiu intensa valorização nesta segunda-feira, tendo encerrado no maior nível em 19 meses em meio à preocupação crescente dos agentes financeiros com a perspectiva econômica brasileira, em especial a questão fiscal. Desde o começo da sessão, os agentes seguiram cautelosos com a moeda brasileira, que foi hoje a mais fraca entre as mais líquidas. O ambiente global também não é favorável, mas é o fator doméstico que forçou o movimento e conduziu a formação de preço nesta sessão.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-16T20:18:32+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O dólar à vista exibiu intensa valorização nesta segunda-feira, tendo encerrado no maior nível em 19 meses em meio à preocupação crescente dos agentes financeiros com a perspectiva econômica brasileira, em especial a questão fiscal. Desde o começo da sessão, os agentes seguiram c",
     "relevance": 5
   },
   {
@@ -1191,26 +1152,6 @@
     ],
     "summary": "Relatos de clientes com dificuldades em acessar serviços também cresceram no BofA e Wells Fargo, segundo o site Downdetector\nThe post Bancos ampliam queda em NY com relatos de problema técnico e pressionam Dow Jones appeared first on InfoMoney.",
     "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Dólar vai a R$ 5,77, maior valor desde abril de 2025, com incerteza sobre ajuste fiscal e cenário externo negativo",
-    "link": "https://oglobo.globo.com/economia/financas/noticia/2026/11/16/dolar-hoje-maior-valor-desde-abril-de-2025.ghtml",
-    "description": "O dólar comercial alcançou a máxima desde abril de 2025, aos R$ 5,77, em meio às incertezas sobre o ajuste fiscal no Brasil e à piora no cenário para a taxa de juros nos EUA. A moeda avançou 2,1% nesta segunda-feira e chegou a alcançar a máxima de R$ 5,79.\nNo Brasil, a demora do governo em adotar medidas de ajuste fiscal e em definir os nomes da equipe econômica contribuíram para ampliar as incertezas. \n'Prévia' do PIB: IBC-Br cai 0,9% no trimestre e reforça desacelaração\nCrise da Nvidia: EUA vão limitar uso de chips americanos em data centers do Brasil e de outros quatro países\nPela manhã, a informação de que o presidente do BNDES, Aloizio Mercadante, poderia ser nomeado ministro da Fazenda, que foi veiculada por alguns jornais, causou ruído no mercado. Mercadante negou a pretensão e disse que deseja permanecer no BNDES.\nA piora nas projeções de inflação (o Boletim Focus já prevê IPCA a 5% em 2027) e crescimento também contribuiu com o desempenho dos indicadores. A antecipação do usual movimento de remessas de recursos para o exterior também ajudou a pressionar o câmbio.\nPara analistas, o rebaixamento da avaliação dos papéis brasileiros pelo banco americano Morgan Stanley para o equivalente à venda, foi fator que contribuiu para a piora dos ativos. A Bolsa chegou a superar os 2% de queda perto das 17h, aos 168.963 pontos.\nDólar vai ao maior nível desde abril do ano passado\nO real foi a moeda que mais desvaloriza frente ao dólar nesta segunda-feira, na comparação com outras trinta moedas. Na avaliação de Ian Lima, gestor de renda fixa da Dahlia Capital, o somatório desses fatores contribuiu com a alta firme da divisa.\n— É um somatório do real mais fraco por sazonalidade de remessas, expectativa de queda de atividade combinada com inflação acelerando e, do outro lado, um dólar global mais forte por um Fed mais hawkish (combativo à inflação) — avalia Ian Lima, da Dahlia Capital.\nO mercado financiero passou a estimar mais três altas no juro dos EUA, em dezembro, janeiro e março. \nNovidade no pagamento instantâneo: Banco Central projeta Pix por aproximação off-line e integração internacional\nUm avanço dos juros lá tende a aumentar a rentabilidade dos títulos do Tesouro americano, considerado investimento seguro. Por isso, grande parte do capital global tende a caminhar para os EUA, drenando investimentos das outras geografias e elevando o valor do dólar.\nMais cedo, a divulgação de informações sobre a possível nomeação de Aloizio Mercadante, atual presidente do BNDES, ao comando da Fazenda, também contribuiu para a pressão no \ndólar. Na avaliação de Felipe Tavares, economista-chefe da corretora Monte Bravo, a informação sugeriu que as indicações ao Banco Central poderiam ter tom heterodoxo:\n— Fica um temor, porque o Mercadante tem histórico de pensamento econômico de ser crítico ao arcabouço ortodoxo que existe na Teoria Econômica. E isso sugere a indicação de uma conexão à ala mais ideológica. O temor, portanto, é que esse raciocínio poderia parecer no BC, com nomes mais heterodoxos — ele diz. \nO movimento, disse Tavares, contribuiu com o envio de remessas antecipadas das empresas locais às matrizes no exterior. \n— É padrão ter uma piora do real no fim do ano por causa da janela de repatriação, característico da nossa economia. O que acontece é que houve antecipação da janela pelo temor de desvalorização adicional — afirma.\nFiscal no radar\nA falta de perspectiva de ajuste fiscal para reduzir o avanço da trajetória da dívida pública contribui com a piora nos indicadores. Desde o dia seguinte ao resultado eleitoral, em 26 de outubro, o investidor estrangeiro já retirou R$ 13,5 bilhões do mercado acionário brasileiro, mais de 30% de tudo que havia aportado até a véspera do segundo turno, de R$ 40 bi.\nO ex-secretário do Tesouro e chefe de macroeconomia do ASA, Jeferson Bittencourt avalia que o mercado já começa a revisar as expectativas para não haver nenhum ajuste que inverta a trajetória de crescimento da dívida. O patamar atual de partida, ele diz, contribui com a adversidade maior:\n— O risco de aumentar a dívida em dois pontos a partir de 70% não é o mesmo risco de aumentar dois pontos a partir de 80%. Associo a um lago congelado: a borda é mais firme, mas a cada passo que você dá para o centro, fica mais arriscado dar o próximo passo — ele diz. Em setembro, a relação entre a dívida pública e tudo o que a economia produz alcançou 82,9%, o mais alto nível desde 2021, no auge da pandemia.\nJeferson chama a atenção para as taxas pagas pelos títulos do Tesouro, em torno de 7,5%, semelhante ao patamar da crise econômica de 2016. \nNatalia Gurushina, economista-chefe da gestora americana VanEck, disse que a alta nas expectativas de inflação para o ano que vem chamam a atenção. Para ela, “a leitura é negativa e aponta para as dúvidas do mercado quanto à capacidade do governo e do Banco Central de fazerem seu trabalho adequadamente”. A indicação do ministro da Fazenda, ela diz, será um marco importante para guiar as expectativas.\nO mercado financeiro passou a estimar um cenário mais desafiador para a economia brasileira no ano que vem. Boletim Focus divulgado nesta segunda-feira mostrou que os agentes passaram a estimar a inflação alcançando 5%, dois pontos acima do centro da meta. A perspectiva para a Taxa Selic ao fim do ano que vem também subiu, de 12,5% para 12,75%. A previsão para o crescimento caiu, de 1,15% na semana passada para 1,02% nesta segunda-feira.\nAs estimativas para o câmbio subiram para este e o próximo ano. Agora, o mercado espera o dólar a R$ 5,40 no fim de 2026 e R$ 5,45 no fim do ano que vem. \nInitial plugin text",
-    "published": "2026-11-16T20:00:44+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O dólar comercial alcançou a máxima desde abril de 2025, aos R$ 5,77, em meio às incertezas sobre o ajuste fiscal no Brasil e à piora no cenário para a taxa de juros nos EUA. A moeda avançou 2,1% nesta segunda-feira e chegou a alcançar a máxima de R$ 5,79.\nNo Brasil, a demora do ",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Poder360",
-        "link": "https://www.poder360.com.br/poder-economia/dolar-dispara-e-fecha-a-r-577-maior-valor-desde-abril-de-2025/"
-      }
-    ]
   },
   {
     "source": "Money Times",
@@ -3739,6 +3680,18 @@
     "relevance": 5
   },
   {
+    "source": "Folha",
+    "title": "Minerva aprova nova recompra de até 40,8 milhões de ações",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://aovivo.folha.uol.com.br/mercado/2026/10/25/6568-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post468057",
+    "description": "O conselho de administração da Minerva aprovou novo programa de recompra de até 40,86 milhões de ações, com prazo de vigência de 12 meses, segundo comunicado da companhia nesta segunda-feira (16).\nLeia mais (11/16/2026 - 10h20)",
+    "published": "2026-11-16T13:20:00+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "O conselho de administração da Minerva aprovou novo programa de recompra de até 40,86 milhões de ações, com prazo de vigência de 12 meses, segundo comunicado da companhia nesta segunda-feira (16).\nLeia mais (11/16/2026 - 10h20)",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Moraes nega visita de Marinho e Tereza Cristina a Bolsonaro",
     "link": "https://www.poder360.com.br/poder-justica/moraes-nega-visita-de-marinho-e-tereza-cristina-a-bolsonaro/",
@@ -3964,6 +3917,70 @@
       "Politica"
     ],
     "summary": "Presidente quer definir novo indicado ainda em novembro, após derrota de Jorge Messias no Senado\nThe post Quem Lula pode indicar ao STF? Veja os nomes e os bastidores da disputa appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Moraes nega pedido de Bolsonaro para receber Valdemar e os pré-candidatos à presidência do Senado Marinho e Tereza",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/16/moraes-nega-pedido-de-bolsonaro-para-receber-valdemar-e-os-pre-candidatos-a-presidencia-do-senado-marinho-e-tereza.ghtml",
+    "description": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), negou nesta segunda-feira (16) um pedido da defesa de Jair Bolsonaro para que o ex-presidente receba visitas dos senadores Rogério Marinho (PL-RN) e Tereza Cristina (PP-MS) na residência em que cumpre pena por tentativa de golpe.\nOs parlamentares foram ministros durante a gestão de Bolsonaro e indicam participação na disputa pela presidência do Senado para o biênio 2027–2028. \nMoraes também rejeitou outro pedido dos advogados do ex-presidente, que tentavam autorização para uma visita do presidente do PL, Valdemar Costa Neto.\nAo negar os pedidos, o ministro do STF disse não haver \"qualquer dúvida\" sobre a \"finalidade político-partidária\" das reuniões solicitadas. E lembrou que Bolsonaro, condenado por tentativa de golpe, está com os seus direitos políticos suspensos.\n\"A duração da suspensão dos direitos políticos somente cessará com a ocorrência da extinção da punibilidade, seja pelo integral cumprimento da pena, seja por qualquer outra das espécies previstas no Código Penal\", declarou Moraes.\nPara o ministro, a participação em reuniões e as decisões em assuntos relacionados a partidos, como articulações para candidatura ao comando do Senado, configuram \"atividade político-partidária\". \n\"Portanto, [essas atividades] integram o conjunto do que se denomina 'direitos políticos', estando, consequentemente, sujeitas à suspensão prevista na Constituição, na hipótese de o sentenciado estar no curso da execução de sua condenação criminal transitada em julgado\", afirmou.\nEm uma rede social, Tereza Cristina criticou a decisão de Moraes. \n\"Lamento ter sido impedida de visitar o presidente Jair Bolsonaro, de quem fui ministra. Temos uma relação próxima, há anos. É absurdo e arbitrário mantê-lo incomunicável. Pergunto: isso é Justiça? O Senado não vai se omitir para fiscalizar os Poderes\", disse.\nEleição para a presidência do Senado\nAlcolumbre, Rogério Marinho e Tereza Cristina devem disputar presidência do Senado em 2027\nA solicitação de aval para visita e a decisão de Moraes ocorrem em meio às articulações políticas para a eleição da Mesa Diretora do Senado, marcada para a primeira semana de fevereiro. O vencedor precisará reunir a maioria absoluta dos votos da Casa — ao menos 41 dos 81 senadores, em votação secreta.\nNo início do mês, a bancada do PL oficializou a pré-candidatura de Rogério Marinho, atual líder da Oposição no Senado. A legenda contará com 29 integrantes a partir de fevereiro de 2027, consolidando-se como a maior bancada da Casa.\nO principal adversário de Marinho na disputa é o atual presidente do Senado, Davi Alcolumbre (União Brasil-AP), que trabalha pela reeleição e reúne apoio de parcelas do centro e de aliados governistas.\nJá a senadora Tereza Cristina (PP-MS) também se movimenta para viabilizar sua candidatura no bloco partidário. Ao lançar seu nome, Marinho afirmou que ele e Tereza integram o mesmo campo político e devem atuar de forma coordenada.\nAlém de comandar o Senado e o Congresso, o presidente da Casa define a pauta de votações do plenário e tem a prerrogativa regimental de dar andamento ou arquivar pedidos de impeachment contra autoridades, incluindo ministros do STF e o procurador-geral da República.\nTereza Cristina e o então presidente Jair Bolsonaro, quando ela era ministra, em 2021\nAlan Santos/PR",
+    "published": "2026-11-16T12:43:31+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), negou nesta segunda-feira (16) um pedido da defesa de Jair Bolsonaro para que o ex-presidente receba visitas dos senadores Rogério Marinho (PL-RN) e Tereza Cristina (PP-MS) na residência em que cumpre pena por ten",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Economia",
+    "title": "Dólar dispara a R$ 5,77, maior nível desde abril de 2025; Ibovespa cai com dúvidas sobre pacote fiscal",
+    "link": "https://g1.globo.com/economia/noticia/2026/11/16/dolar-ibovespa.ghtml",
+    "description": "Entenda o que faz o preço do dólar subir ou cair\n \nO dólar fechou em alta de 2,15% nesta segunda-feira (16), cotado a R$ 5,7767. Na máxima do dia, chegou a R$ 5,7949, maior valor desde 17 de abril de 2025, quando encerrou a R$ 5,8042. O Ibovespa, principal índice da bolsa brasileira, caiu 1,83%, aos 169.295 pontos.\nO movimento reflete as preocupações dos investidores com as contas públicas brasileiras, após a aprovação do texto-base do projeto fiscal do governo na semana passada. Parte do mercado considera as medidas insuficientes para conter o avanço da dúvida pública.\nO cenário externo também pressionou os mercados brasileiros, em meio à maior cautela dos investidores. Eles estão menos dispostos a assumir riscos enquanto aguardam a divulgação de balanços de grandes empresas, especialmente da Nvidia.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\n▶️ No Brasil, as atenções continuaram voltadas à política fiscal. O pacote apresentado pelo governo na semana passada reúne medidas para conter gastos e melhorar as contas públicas, com impacto estimado em até R$ 60 bilhões em 2027.\nDe autoria do senador Jaques Wagner (PT-BA), o projeto teve seu texto-base aprovado pelo Senado, mas a votação ainda não foi concluída. Os senadores precisam analisar quatro destaques que podem alterar a proposta. Só depois o texto seguirá para a Câmara dos Deputados. Saiba mais.\nPara Bruno Perri, economista-chefe e sócio-fundador da Forum Investimentos, a postura do governo em relação às contas públicas e o conteúdo do pacote fiscal ainda alimentam a desconfiança dos investidores.\n\"Há uma resistência do governo em abraçar de forma mais firme essa agenda de ajuste das despesas, com o próprio partido do governo trazendo proposições no sentido de aumentar arrecadação, tributar dividendos e tributar rendimentos de patrimônios elevados, o que não ressoa bem\", diz.\n▶️ Nesta segunda-feira, rumores de que Aloizio Mercadante, presidente do BNDES, poderia assumir o Ministério da Fazenda no quarto mandato de Lula também repercutiram no mercado. Embora tenha negado interesse no cargo, Mercadante é visto por investidores como defensor de uma política econômica mais desenvolvimentista, o que gera preocupações sobre seu compromisso fiscal.\n▶️ Os investidores também repercutiram a decisão do Morgan Stanley de reduzir sua recomendação para as ações brasileiras, diante da desaceleração da economia, dos juros elevados e das preocupações com as contas públicas. O banco avalia que esse cenário limita o potencial de valorização da bolsa e projeta o Ibovespa em 160 mil pontos para 2027.\n▶️ Os dados do IBC-Br, divulgados nesta segunda-feira (16), indicaram retração da atividade econômica brasileira. O indicador do Banco Central, considerado uma prévia do PIB, caiu 0,9% no terceiro trimestre, após avançar 0,27% entre abril e junho. A agropecuária recuou 2%, a indústria caiu 1,1% e os serviços, 0,5%.\n▶️ No exterior, investidores acompanham a divulgação de balanços corporativos, com destaque para a Nvidia. As ações da empresa acumularam perdas na última semana por conta do escândalo envolvendo a saída de Jensen Huang do comando da empresa, em meio a uma investigação sobre suspeitas de espionagem chinesa.\n🔎 O mercado acompanha os desdobramentos da mudança de comando e seus possíveis impactos sobre a empresa e o setor. O resultado pode trazer novos sinais sobre as perspectivas da companhia e do setor de inteligência artificial. \n▶️ Os investidores também monitoraram os preços do petróleo, após a Agência Internacional de Energia (AIE) indicar excesso de oferta global, mesmo em meio à guerra no Oriente Médio. Por volta das 16h, o barril Brent, referência internacional, caía 3,59%, a US$ 92,40. Já o West Texas Intermediate (WTI), referência nos EUA, recuava 3,40% no mesmo horário, a US$ 85,55 por barril.\nVeja abaixo mais detalhes do dia nos mercados.\n💲Dólar\nVariação do dólar em 2026\nArte/g1\nAcumulado da semana: +2,15%;\nAcumulado do mês: +6,11%;\nAcumulado do ano: +5,25%.\n📈Ibovespa\nVariação do Ibovespa em 2026\nArte/g1\nAcumulado da semana: -1,90%\nAcumulado do mês: +0,75%;\nAcumulado do ano: +5%.\nMercado ainda vê desafios no ajuste fiscal\nO Senado aprovou, na semana passada, o texto-base de um pacote de medidas do governo federal para conter o crescimento dos gastos públicos e melhorar as contas do país.\nSegundo o Ministério do Planejamento, a proposta pode ter impacto de até R$ 60 bilhões em 2027: R$ 50 bilhões seriam destinados ao cumprimento das metas fiscais, enquanto outros R$ 10 bilhões abririam espaço no Orçamento para novas despesas, como o Pé-de-Meia Universitário.\nEntre as principais medidas estão:\nlimites mais rígidos para o crescimento dos gastos públicos;\npossibilidade de bloquear temporariamente determinadas despesas obrigatórias;\nredução de até 20% em alguns benefícios fiscais concedidos a empresas.\nO texto também prevê mudanças no cálculo dos recursos mínimos destinados à saúde e estabelece um prazo para a regulamentação dos chamados supersalários do funcionalismo público.\nA votação, porém, ainda não foi concluída. Quatro destaques ainda precisam ser analisados pelos senadores antes de o projeto seguir para a Câmara dos Deputados.\n🔎 O objetivo do governo é conter o crescimento da dívida pública sem comprometer políticas sociais. A aprovação do pacote também é considerada importante para que o Congresso avance na votação do Orçamento de 2027.\nDe olho na Nvidia\nOs resultados da Nvidia, previstos para serem divulgados nesta terça-feira (17), seguiram no centro das atenções dos mercados globais. \nOs números podem dar novas indicações sobre o desempenho da companhia em meio à crise que levou à saída de Jensen Huang, fundador e ex-presidente-executivo da empresa.\nO Conselho de Administração anunciou, na última quinta-feira (12), a saída de Huang dos cargos de presidente, diretor-executivo e integrante do colegiado. A decisão teve efeito imediato.\nO fundador da Nvidia admitiu ter sido infiel à esposa após a revelação de um relacionamento com Alice Huang, empresária chinesa suspeita de atuar em uma operação de espionagem ligada a Pequim. Apesar do sobrenome em comum, ela não tem parentesco com Jensen.\nTraição, espionagem e investigação: entenda o caso que expõe a Nvidia e seu CEO\nBolsas globais\nNos EUA, os principais índices de Wall Street fecharam em forte queda nesta segunda-feira, em meio às repercussões da renúncia de Jensen Huang, que abalou o entusiasmo dos investidores pelas ações ligadas à IA.\nO Dow Jones caiu 1,41%, enquanto o S&amp;P 500 recuou 1,91% e o Nasdaq Composite teve perdas de 2,49%.\nNa Ásia, as ações chinesas fecharam em queda, próximas do menor nível desde julho de 2025. O recuo foi puxado pelos papéis do setor de hardware, em meio às preocupações com a sustentabilidade da valorização das empresas ligadas à inteligência artificial.\nSinais de fraqueza da economia global também pesaram sobre os mercados, assim como as preocupações envolvendo a Nvidia.\nO SSEC, índice de Xangai, caiu 0,87%, enquanto o CSI 300, que reúne grandes empresas negociadas nas bolsas de Xangai e Shenzen, recuou 0,91%. Já o Nikkei, do Japão, teve perdas de 2,42% e o Kospi, da Coreia do Sul, desvalorizou 3,59%. Em Hong Kong, o índice Hang Seng subiu 0,49%.  \n* Com informações da agência de notícias Reuters.\nNotas de dólar.\nLuisa Gonzalez/ Reuters",
+    "published": "2026-11-16T12:38:41+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Entenda o que faz o preço do dólar subir ou cair\n \nO dólar fechou em alta de 2,15% nesta segunda-feira (16), cotado a R$ 5,7767. Na máxima do dia, chegou a R$ 5,7949, maior valor desde 17 de abril de 2025, quando encerrou a R$ 5,8042. O Ibovespa, principal índice da bolsa brasile",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/financas/noticia/2026/11/16/dolar-hoje-maior-valor-desde-abril-de-2025.ghtml"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-economia/dolar-dispara-e-fecha-a-r-577-maior-valor-desde-abril-de-2025/"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/financas/noticia/2026/11/16/dolar-dispara-215percent-com-desconfianca-sobre-politica-fiscal-e-termina-no-maior-nivel-desde-abril-de-2025.ghtml"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-economia/dolar-dispara-e-fecha-a-r-578-maior-valor-desde-abril-de-2025/"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/dolar-vai-a-maior-cotacao-desde-abril-de-2025-relembre-o-que-acontecia-naquele-dia.ghtml"
+      }
+    ]
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Quaest: 92% apoiam reduzir maioridade para 16 anos; 64% dizem ser a favor de pena de morte em casos de homicídio e estupro",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/16/quaest-ideologia.ghtml",
+    "description": "No Brasil, maioridade penal é de 18 anos, mas crianças podem ser responsabilizadas a partir dos 12, com internações em entidades como a Fundação Casa, em São Paulo\nFundação Casa/ BBC \nPesquisa Quaest divulgada nesta segunda-feira (16) mostra que 92% dos brasileiros apoiam a redução da maioridade penal de 18 para 16 anos e que 92% são favoráveis ao uso de câmeras no uniforme de policiais. Questionados sobre pena de morte, 64% dizem apoiar a medida em casos como os de homicídio e estupro. \nA redução da maioridade penal está em discussão no Congresso Nacional. \nInfográfico mostra dados da Quaest sobre a opinião dos brasileiros em relação à redução da maioridade penal em novembro de 2026\nArte/g1\nQuando o assunto é a facilitação de compra e posse de armas, 70% discordam e 28% concordam. Sobre liberação do uso e regulamentação do comércio da maconha, 71% dizem ser contra e 26% a favor. \nInfográfico mostra dados da Quaest sobre a opinião dos brasileiros em relação à pena de morte para crimes como homicídio e estupro em novembro de 2026.\nArte/g1\nA Quaest fez também perguntas sobre costumes e temas morais. Nessa área, 62% concordam que o homem deve ser o provedor da casa e 36% discordam. \nQuestionados se concordam que mulheres devem ter filhos para se sentirem realizadas, 59% discordam e 36% concordam. A maioria (77%) também discorda da afirmação de que \"homem que é homem não chora na frente dos outros\" - 21% concordam. \nAgora no g1\nQuando a pergunta é se mulher que faz aborto deve ser presa, 49% discordam e 45% concordam. \nEm relação à privatização de serviços de saúde e educação públicas, 64% dizem discordar e 28%, concordar.\nA pesquisa da Quaest foi realizada entre 30 de outubro e 2 de novembro de 2026, com 2.004 entrevistas domiciliares com eleitores brasileiros de 16 anos ou mais. A margem de erro é de 2 pontos percentuais, com nível de confiança de 95%.\nOpinião por segmento\nO apoio à redução da maioridade penal é maior entre bolsonaristas (98%) e menor entre a esquerda não lulista (86%). \nO mesmo acontece, com diferentes percentuais, em relação à pena de morte para crimes como homicídio e estupro. A medida é apoiada por 74% dos bolsonaristas e por 58% da esquerda não lulista. \nEm relação à liberação do uso e à regulamentação do comércio da maconha, são contrários 84% dos bolsonaristas e 58% da esquerda não lulista. \nA facilitação da compra e posse de armas tem concordância de 49% dos bolsonaristas e de apenas 13% entre a esquerda não lulista e entre lulistas. \nConservador ou progressista?\nAo serem questionados como se posicionam politicamente, 48% dos brasileiros dizem ser conservadores e 23% progressistas. Outros 28% dizem não ser nem progressistas nem conservadores. \nO conservadorismo é mais expressivo entre evangélicos (55%), moradores da região Sul (54%), homens (51%), pessoas com ensino fundamental (52%) e pessoas de 35 a 59 anos (49%). \nEntre eleitores do presidente Lula (PT), 41% se dizem conservadores. Entre quem vota na família Bolsonaro, o índice é de 69%.\nO pensamento progressista é mais comum entre pessoas com ensino superior (32%), moradores no Centro-Oeste e Norte (27%) e do Nordeste (25%), católicos (25%), mulheres (24%) e pessoas de 16 a 34 anos (24%).\nEntre lulistas, 29% se dizem progressistas e, entre bolsonaristas, 13%. \nIndependentes, esquerda e direita\nA maioria dos brasileiros diz ser independente (32%), ou seja, não se identifica com a esquerda nem com a direita, nem com Lula nem com os Bolsonaro. \nA direita não bolsonarista representa 21%; os lulistas, 19%; a esquerda não lulista, 14%; e os bolsonaristas, 12%.  \nDo ponto de vista ideológico, 39% dizem ser de centro, 34% de direita e 24% de esquerta.",
+    "published": "2026-11-16T12:15:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "No Brasil, maioridade penal é de 18 anos, mas crianças podem ser responsabilizadas a partir dos 12, com internações em entidades como a Fundação Casa, em São Paulo\nFundação Casa/ BBC \nPesquisa Quaest divulgada nesta segunda-feira (16) mostra que 92% dos brasileiros apoiam a reduç",
     "relevance": 5
   }
 ]
