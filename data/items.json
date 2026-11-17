@@ -1,5 +1,30 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "STF pode julgar fim da 6x1 ainda nesta semana",
+    "link": "https://valor.globo.com/legislacao/noticia/2026/11/16/stf-pode-julgar-fim-da-6x1-ainda-nesta-semana.ghtml",
+    "description": "O Supremo Tribunal Federal (STF) pode julgar ainda nesta semana as ações que tratam da transição para o fim da escala de trabalho 6x1. A análise depende que o relator, ministro Flávio Dino, libere o caso para julgamento e que o presidente da Corte, ministro Edson Fachin, inclua os processos na sessão desta quarta-feira. \n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-16T23:28:14+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "O Supremo Tribunal Federal (STF) pode julgar ainda nesta semana as ações que tratam da transição para o fim da escala de trabalho 6x1. A análise depende que o relator, ministro Flávio Dino, libere o caso para julgamento e que o presidente da Corte, ministro Edson Fachin, inclua o",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Dólar vai à maior cotação desde abril de 2025; relembre o que acontecia naquele dia",
+    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/dolar-vai-a-maior-cotacao-desde-abril-de-2025-relembre-o-que-acontecia-naquele-dia.ghtml",
+    "description": "O dólar fechou nesta segunda-feira em alta de 2,13%, cotado a R$ 5,7770, depois de se aproximar de R$ 5,80 durante o pregão. Foi a maior cotação de fechamento desde 17 de abril de 2025, quando a moeda encerrou o dia a R$ 5,8037.] Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-16T23:25:34+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O dólar fechou nesta segunda-feira em alta de 2,13%, cotado a R$ 5,7770, depois de se aproximar de R$ 5,80 durante o pregão. Foi a maior cotação de fechamento desde 17 de abril de 2025, quando a moeda encerrou o dia a R$ 5,8037.] Matéria exclusiva para assinantes. Para ter acesso",
+    "relevance": 5
+  },
+  {
     "source": "Brazil Journal",
     "title": "Na XP, despesa sobe e ‘new money’ desacelera; CEO vê negócio “cada vez mais acíclico”",
     "link": "https://braziljournal.com/na-xp-despesa-sobe-e-new-money-desacelera-ceo-ve-negocio-cada-vez-mais-aciclico",
@@ -3662,7 +3687,13 @@
       "Politica"
     ],
     "summary": "Ministro afirma que encontro caracterizaria uma possível negociação e articulação política envolvendo o ex-presidente",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/blogs/sonar-a-escuta-das-redes/post/2026/11/tereza-cristina-critica-decisao-de-moraes-que-nao-liberou-senadora-de-visitar-bolsonaro-absurdo-e-arbitrario.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3955,31 +3986,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Dólar abre em alta e beira R$ 5,70 Investidores ainda estão preocupados com o pacote fiscal, que terá seus destques votados no Senado nesta terça-feira",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Dólar tem alta firme e se aproxima de R$ 5,70 com piora no humor local e externo",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/16/dolar-tem-alta-firme-e-se-aproxima-de-r-570-com-piora-no-humor-local-e-externo.ghtml",
-    "description": "O câmbio doméstico mostra uma rodada adicional de desvalorização, em um movimento também observado no exterior. O real, contudo, se destaca entre os piores desempenhos do dia, no momento em que os agentes financeiros continuam a exigir prêmios de risco elevados diante das dúvidas em torno da sustentabilidade da dívida pública, o que tem deteriorado o sentimento dos investidores.\n\nPor volta de 9h25 (de Brasília), o dólar era negociado a R$ 5,6910 no mercado à vista, em alta de 0,64%, enquanto o dólar futuro para dezembro subia 0,38%, a R$ 5,7055. No mesmo horário, o índice DXY, que mede o desempenho da moeda americana frente a uma cesta de outras seis divisas principais, operava em alta de 0,05%, aos 103,467 pontos.",
-    "published": "2026-11-16T12:37:16+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "O câmbio doméstico mostra uma rodada adicional de desvalorização, em um movimento também observado no exterior. O real, contudo, se destaca entre os piores desempenhos do dia, no momento em que os agentes financeiros continuam a exigir prêmios de risco elevados diante das dúvidas",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Criança de quatro anos morre após mãe jogá-la de viaduto em São Paulo",
-    "link": "https://oglobo.globo.com/brasil/noticia/2026/11/16/crianca-de-quatro-anos-morre-apos-mae-joga-la-de-viaduto-em-sao-paulo.ghtml",
-    "description": "Uma criança de quatro anos morreu, neste domingo, após ser jogada pela mãe do Viaduto Pedroso, localizado na região central de São Paulo, entre os bairros da Liberdade e da Bela Vista, de uma altura de cerca de 15 a 20 metros. A menina, identificada como Luna Luara Vitória Alves, caiu na Avenida 23 de Maio. Ela foi socorrida pelo Serviço de Atendimento Móvel de Urgência (Samu) e encaminhada ao Hospital das Clínicas (HC), mas não resistiu devido aos ferimentos. A mãe da menor, identificada como Alessandra Vitória Alves da Silva, de 23 anos, foi presa em flagrante por homicídio pela Guarda Civil Metropolitana (GCM).\nAbstenção alta e prova difícil: saiba como foi o segundo dia do Enem 2026\nInep deve apresentar nas próximas semanas propostas de mudanças para o Enem, diz ministro da Educação\nO crime ocorreu por volta das 15h45. Guardas municipais que faziam patrulhamento próximo ao local da ocorrência foram acionados por testemunhas que presenciaram o ocorrido. Uma ambulância que estava parada perto do viaduto socorreu a menina, que estava em estado grave e a levou ao Hospital. \n“A autora estava com comportamento alterado e foi socorrida ao mesmo hospital, onde permaneceu sob escolta da GCM. O caso foi registrado como homicídio no 78° DP (Jardins)”, afirmou  Secretaria da Segurança Pública do Estado de São Paulo. A Polícia Civil informou que ela não tinha antecedentes criminais registrados.\nO local foi isolado para a realização da perícia técnica e câmeras de monitoramento teriam gravado o episódio. A Polícia ainda apura a motivação da mãe.",
-    "published": "2026-11-16T12:32:33+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Uma criança de quatro anos morreu, neste domingo, após ser jogada pela mãe do Viaduto Pedroso, localizado na região central de São Paulo, entre os bairros da Liberdade e da Bela Vista, de uma altura de cerca de 15 a 20 metros. A menina, identificada como Luna Luara Vitória Alves,",
     "relevance": 5
   }
 ]
