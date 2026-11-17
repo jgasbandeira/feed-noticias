@@ -1,5 +1,29 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Google oferecerá ao Japão acesso antecipado a novidades de IA para prevenir ataque cibernético",
+    "link": "https://valor.globo.com/empresas/noticia/2026/11/17/google-oferecer-ao-japo-acesso-antecipado-a-novidades-de-ia-para-prevenir-ataque-ciberntico.ghtml",
+    "description": "O Google oferecerá ao governo do Japão e aos principais provedores de infraestrutura acesso antecipado ao seu mais recente modelo de inteligência artificial, visando reforçar a cibersegurança em um momento em que o país enfrenta um aumento acentuado no número de ataques.\n\nO executivo-chefe ( CEO) do Google Cloud, Thomas Kurian, mencionou esse acesso ao “Nikkei Asia” durante uma visita ao Japão, nesta segunda-feira, para discutir a iniciativa com autoridades governamentais de alto escalão.\n\nA medida amplia o programa \"Fairwind\" do Google, lançado em setembro, por meio do qual a empresa disponibiliza acesso antecipado a modelos avançados de IA para fins de defesa cibernética.\n\nSegundo Kurian, esse acesso vinha sendo concedido, principalmente, a agências governamentais e empresas de segurança dos Estados Unidos. A participação de órgãos ou empresas japonesas ainda não havia sido divulgada publicamente.\n\nDe acordo com a Trend Micro, um número recorde de 233 ataques cibernéticos foi registrado no Japão no mês passado. Em 6 de novembro, o gabinete do governo japonês decidiu destinar 10 bilhões de ienes (US$ 62,6 milhões) provenientes de fundos de reserva no orçamento do ano fiscal de 2026 para o uso de IA na detecção de vulnerabilidades em sistemas governamentais críticos e no fortalecimento das defesas.\n\nAo comentar o aumento dos ataques cibernéticos em um cenário em que a IA se torna cada vez mais sofisticada, Kurian observou: \"Estamos vendo a situação se agravar muito rapidamente\". \"Mesmo que você fale inglês e não saiba japonês, agora é possível usar um modelo para redigir um e-mail que parece ter sido escrito por um falante nativo de japonês\", disse ele. \"Isso tem sido utilizado para “phishing” e outros tipos de falsificação de identidade.\"\n\nO programa Fairwind oferece aos parceiros acesso ao \"Gemini 4 Carbon for Cyber\", uma versão do modelo otimizada para aplicações de ciberdefesa, antes de seu lançamento para o público em geral. A Anthropic lançou um programa semelhante em abril.\n\nO modelo do Google estará disponível para o Escritório Nacional de Cibersegurança e a Agência Digital do Japão, entre outros órgãos. Também está prevista a sua disponibilização para empresas dos setores financeiro e de telecomunicações.\n\nSegundo o Synergy Research Group, o Google é o terceiro maior provedor de infraestrutura em nuvem do mundo, atrás da Amazon e da Microsoft, com uma participação de 16% no mercado no último trimestre. A empresa norte-americana busca aproveitar a crescente demanda por IA para ampliar sua fatia de mercado, além de adquirir empresas voltadas à segurança para competir de forma mais eficaz.\n\nSuas medidas de segurança utilizam tecnologia da Wiz, uma empresa norte-americana adquirida pelo Google em março por US$ 32 bilhões. O Google está lançando no Japão um novo serviço que detecta automaticamente vulnerabilidades em sistemas, chamado \"Scan for Japan\". Segundo Kurian, a ferramenta está sendo oferecida a \"entre 20 e 50 instituições governamentais críticas no Japão\".",
+    "published": "2026-11-17T05:02:38+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O Google oferecerá ao governo do Japão e aos principais provedores de infraestrutura acesso antecipado ao seu mais recente modelo de inteligência artificial, visando reforçar a cibersegurança em um momento em que o país enfrenta um aumento acentuado no número de ataques.\n\nO execu",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Eleitor idoso foi decisivo para a vitória de Lula",
+    "link": "https://valor.globo.com/politica/pergunte-aos-dados/post/2026/11/eleitor-idoso-foi-decisivo-para-a-vitoria-de-lula.ghtml",
+    "description": "O  perfil da queda na abstenção no segundo turno das últimas eleições presidenciais mostra o itinerário da derrota do senador Flávio Bolsonaro (PL-RJ) para o presidente Luiz Inácio Lula da Silva. De acordo com dados divulgados pelo Tribunal Superior Eleitoral (TSE) no último sábado, a incerteza em relação ao valor das aposentadorias foi o dado definitivo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-17T04:51:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O  perfil da queda na abstenção no segundo turno das últimas eleições presidenciais mostra o itinerário da derrota do senador Flávio Bolsonaro (PL-RJ) para o presidente Luiz Inácio Lula da Silva. De acordo com dados divulgados pelo Tribunal Superior Eleitoral (TSE) no último sába",
+    "relevance": 5
+  },
+  {
     "source": "Financial Times",
     "title": "Asian tech stocks follow Wall Street lower as Nvidia results loom",
     "link": "https://www.ft.com/content/4a3b9892-67c6-4177-8503-80c0a5eb3b60?syn-25a6b1a6=1",
@@ -3921,30 +3945,6 @@
       "Politica"
     ],
     "summary": "Bruno Moretti afirma que o texto é equilibrado e defende preservar a \"essência do projeto\" em discussão com o Congresso",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "“O presidente comprou a eleição no cartão de crédito e agora vai vir a fatura”, diz Tarcísio no AgroForum",
-    "link": "https://www.moneytimes.com.br/o-presidente-comprou-a-eleicao-no-cartao-de-credito-e-agora-vai-vir-a-fatura-diz-tarcisio-no-agroforum-rens/",
-    "description": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), fez um balanço da mais recente eleição brasileira, que reconduziu Luiz Inácio Lula da Silva (PT) à presidência da República e ampliou os poderes do campo da centro-direita no Congresso Nacional. &#8220;O Brasil é conservador, liberal e está preocupado com a iniciativa privada. Isso ficou evidente [&#8230;]",
-    "published": "2026-11-16T13:50:27+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O governador de São Paulo, Tarcísio de Freitas (Republicanos), fez um balanço da mais recente eleição brasileira, que reconduziu Luiz Inácio Lula da Silva (PT) à presidência da República e ampliou os poderes do campo da centro-direita no Congresso Nacional. &#8220;O Brasil é cons",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "GTA 6 está chegando: por que o lançamento pode ser um ponto de virada para as ações da Take-Two",
-    "link": "https://www.moneytimes.com.br/grand-theft-auto-vi-gta-vi-pode-ser-o-grande-catalisador-para-as-acoes-da-take-two-interactive-t1tw34-mlem/",
-    "description": "Finalmente chegamos à semana de um dos lançamentos mais aguardados da história do entretenimento: Grand Theft Auto VI (GTA 6), previsto para quinta-feira, 19 de novembro. Desenvolvido pela Rockstar Games, subsidiária da Take-Two Interactive (Nasdaq: TTWO &#124; B3: T1TW34), o jogo representa um marco para a companhia e um potencial catalisador para suas ações, que [&#8230;]",
-    "published": "2026-11-16T13:49:48+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Finalmente chegamos à semana de um dos lançamentos mais aguardados da história do entretenimento: Grand Theft Auto VI (GTA 6), previsto para quinta-feira, 19 de novembro. Desenvolvido pela Rockstar Games, subsidiária da Take-Two Interactive (Nasdaq: TTWO &#124; B3: T1TW34), o jog",
     "relevance": 5
   }
 ]
