@@ -1,5 +1,96 @@
 [
   {
+    "source": "Poder360",
+    "title": "Aneel tem maioria para recomendar saída da Enel de SP; diretor pede vista",
+    "link": "https://www.poder360.com.br/poder-energia/aneel-tem-maioria-para-recomendar-saida-da-enel-de-sp-diretor-pede-vista/",
+    "description": "Agência já tem 4 de 5 votos pela caducidade do contrato de concessão da distribuidora; palavra final é do Ministério de Minas e Energia",
+    "published": "2026-11-17T21:59:21+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Agência já tem 4 de 5 votos pela caducidade do contrato de concessão da distribuidora; palavra final é do Ministério de Minas e Energia",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Dólar segue em alta com ajuste fiscal no Congresso; Bolsa também sobe",
+    "link": "https://www.poder360.com.br/poder-economia/dolar-segue-em-alta-com-ajuste-fiscal-no-congresso-bolsa-tambem-sobe/",
+    "description": "Mercado local teve dia de recuperação, enquanto Wall Street registrou nova sessão com queda",
+    "published": "2026-11-17T21:51:47+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Mercado local teve dia de recuperação, enquanto Wall Street registrou nova sessão com queda",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Estudo do Senado mostra que saúde terá corte de R$ 9 bi em 2027",
+    "link": "https://www.poder360.com.br/poder-governo/estudo-do-senado-mostra-que-saude-tera-corte-de-r-9-bi-em-2027/",
+    "description": "Exclusão de receitas do petróleo do cálculo do piso da saúde reduz recursos previstos; Senado vota destaques do pacote fiscal amanhã (4ª feira)",
+    "published": "2026-11-17T21:50:47+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Exclusão de receitas do petróleo do cálculo do piso da saúde reduz recursos previstos; Senado vota destaques do pacote fiscal amanhã (4ª feira)",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "O Boticário tem meta de reciclar 45% das embalagens em 2030",
+    "link": "https://valor.globo.com/empresas/noticia/2026/11/17/o-boticario-tem-meta-de-reciclar-45percent-das-embalagens-em-2030.ghtml",
+    "description": "O Grupo Boticário pretende ampliar a parcela de resíduos de embalagens recolhidos e destinados à reciclagem de 39% para pelo menos 45% até 2030. A meta, segundo a companhia, faz parte da estratégia de economia circular da companhia, que completa 20 anos do \"Boti Recicla\", programa de logística reversa. Para os próximos anos, a empresa também estabeleceu o objetivo de incorporar 30% de conteúdo reciclado em suas embalagens.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-17T21:45:53+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O Grupo Boticário pretende ampliar a parcela de resíduos de embalagens recolhidos e destinados à reciclagem de 39% para pelo menos 45% até 2030. A meta, segundo a companhia, faz parte da estratégia de economia circular da companhia, que completa 20 anos do \"Boti Recicla\", program",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Economia",
+    "title": "Lucro da Nvidia dobra no 3º trimestre, para US$ 65,3 bilhões",
+    "link": "https://g1.globo.com/tecnologia/noticia/2026/11/17/balanco-nvidia.ghtml",
+    "description": "Jensen Huang, durante conferência da Nvidia em 17 de março de 2026, e GPU H200, uma das mais avançadas da empresa\nReuters/Carlos Barria; Divulgação\nA Nvidia informou nesta terça-feira (17) ter registrado lucro líquido de US$ 65,3 bilhões (R$ 377,8 bilhões) no trimestre encerrado em outubro. O resultado foi 105% melhor do que o registrado no mesmo período do ano anterior.\nO faturamento da empresa ficou em US$ 115,8 bilhões (R$ 669,9 bilhões), que representa uma alta de 103% ao mesmo trimestre em 2025. Do total, US$ 107,6 bilhões estão ligados à venda de equipamentos para data centers, segmento que cresceu 110% no período.\nLogo após a divulgação dos dados, as ações da Nvidia subiam cerca de 2% no after-market, período de negociações após o fechamento regular da Nasdaq, bolsa americana na qual a empresa é listada.\nEste é o primeiro balanço divulgado pela Nvidia após a renúncia de CEO Jensen Huang na última quinta-feira (12), em meio à polêmica que envolveu relacionamentos extraconjugais, suspeitas de espionagem chinesa e preocupações a exportação dos chips mais avançados da empresa.\nO executivo foi substituído interinamente por Colette Kress, que já ocupava o cargo de vice-presidente executiva e diretora financeira da Nvidia.",
+    "published": "2026-11-17T21:36:15+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Jensen Huang, durante conferência da Nvidia em 17 de março de 2026, e GPU H200, uma das mais avançadas da empresa\nReuters/Carlos Barria; Divulgação\nA Nvidia informou nesta terça-feira (17) ter registrado lucro líquido de US$ 65,3 bilhões (R$ 377,8 bilhões) no trimestre encerrado ",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/empresas/noticia/2026/11/17/nvidia-lucra-us-653-bi-no-3o-trimestre-fiscal-alta-de-105percent.ghtml"
+      }
+    ]
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Aneel forma maioria para recomendar a antecipação do fim do contrato de concessão da Enel em SP",
+    "link": "https://g1.globo.com/sp/sao-paulo/noticia/2026/11/17/aneel-forma-maioria-para-recomendar-o-encerramento-antecipado-da-concessao-da-enel-em-sp.ghtml",
+    "description": "Diretos da Aneel durante reunião pública nesta terça (17).\nReprodução\nA diretoria da Agência Nacional de Energia Elétrica (Aneel) formou maioria nesta terça-feira (17) para recomendar o encerramento antecipado da concessão da Enel Distribuição São Paulo, responsável pelo fornecimento de energia elétrica na capital paulista e em municípios da Região Metropolitana.\nA decisão, no entanto, não significa que a empresa perderá imediatamente o direito de operar o serviço. Com a conclusão da votação, a recomendação será encaminhada ao Ministério de Minas e Energia (MME), responsável por decidir se acata ou não a proposta de extinção da concessão.\nO terceiro voto favorável foi apresentado pelo diretor Gentil Nogueira de Sá, que havia pedido vista do processo em outubro para ter mais tempo de análise. Na retomada do julgamento nesta terça, ele acompanhou o entendimento da relatora do caso, Agnes Maria de Aragão da Costa, e votou pela caducidade do contrato.\nA diretoria colegiada da Aneel é composta por cinco integrantes. Com três votos favoráveis, o colegiado atingiu a maioria simples necessária para aprovar a recomendação.\nRecurso da Enel é rejeitado por unanimidade\nO processo foi instaurado em abril deste ano, após a agência apontar uma série de falhas na prestação do serviço pela concessionária, identificadas em fiscalizações. Entre os problemas analisados estão as dificuldades da empresa para responder a situações de emergência e restabelecer o fornecimento de energia após apagões.\nEm seu voto, acompanhado pela diretora Ludimila Lima da Silva, a relatora recomendou ao Ministério de Minas e Energia a caducidade da concessão — medida que representa a extinção antecipada do contrato.\n\"A recomendação de caducidade decorre da constatação de que todos os instrumentos regulatórios disponíveis à Aneel foram esgotados na tentativa de fazer com que a concessionária corrigisse as falhas ao atendimento em situações de emergência\", escreveu a diretora. \n🔎 Considerada uma medida extrema, a caducidade (ou extinção do contrato) pode ocorrer quando confirmado que a concessionária descumpre obrigações contratuais e não tem condições de manter a prestação de serviços à população.\nO contrato atual da Enel se encerra em 2028, mas a Prefeitura de São Paulo cobra uma reformulação nos critérios de avaliação da empresa antes que qualquer renovação seja considerada.\nEntenda o que acontece se o contrato da Enel em SP for encerrado\nA Enel detém uma concessão federal gerida pela Aneel para distribuir energia elétrica em 24 municípios da região metropolitana, incluindo a capital, atualmente atendendo cerca de 8 milhões de pessoas (leia mais abaixo).\nAo longo do processo, a Enel vem contestando as conclusões da fiscalização. A concessionária sustenta que sua resposta aos eventos climáticos vem melhorando e afirma que os indicadores de atendimento emergencial evoluíram nos últimos anos.\nSubestação da Enel no Cambuci, em São Paulo\nAmanda Perobelli/Reuters\nSucessão de apagões\nA situação da concessão da Enel SP vem sendo acompanhada pela Aneel desde 2023, período marcado por grandes interrupções no fornecimento de energia na Região Metropolitana de São Paulo.\nEntre os episódios que levaram ao aumento da fiscalização estão os apagões registrados após eventos climáticos extremos em novembro de 2023, outubro de 2024 e dezembro de 2025.\nEm outubro de 2024, um temporal atingiu a Grande São Paulo com rajadas de vento de até 107,6 km/h. A Enel informou que 3,1 milhões de clientes chegaram a ser afetados. Seis dias depois da tempestade, a concessionária anunciou que havia normalizado o atendimento das ocorrências relacionadas ao temporal.\nEm dezembro de 2025, um novo episódio provocou interrupções em larga escala. Rajadas chegaram a a 98,1 km/h e milhões de imóveis foram afetados.\nA fiscalização realizada depois desse episódio identificou problemas na gestão da crise, na mobilização das equipes, na disponibilidade de veículos e equipamentos, no planejamento de contingência e na manutenção preventiva da rede.\nEntre as falhas apontadas estavam a concentração de equipes no horário comercial, redução do efetivo durante a noite e a madrugada, uso insuficiente de veículos de grande porte, baixa resolutividade dos atendimentos e deficiências no controle da vegetação próxima à rede elétrica.\nDados analisados pela Aneel mostraram que, das 6.715 ocorrências de interrupção registradas em 10 de dezembro, 3.056 — o equivalente a 46% — demoraram mais de 24 horas para serem solucionadas. Essas ocorrências atingiram 759.304 unidades consumidoras.\nHouve casos em que o fornecimento só foi restabelecido quase seis dias depois. A interrupção mais longa registrada durou 142,8 horas.\nDescumprimento de compromissos\nEm agosto, ao analisar um recurso apresentado pela Enel, o diretor-geral da Aneel, Sandoval Feitosa, afirmou que a fiscalização da concessão vinha identificando problemas desde 2023.\n“Desde 2023, temos um conjunto de eventos envolvendo essa concessão. As áreas de fiscalização, que têm sua missão de acompanhar a prestação de serviço, ao longo de todos esses anos firmou um plano de resultados com a companhia — na sua grande maioria desrespeitados, não cumpridos, multas aplicadas, muitas delas não pagas pela empresa”, afirmou na ocasião.\nA Procuradoria Federal junto à Aneel também defendeu o prosseguimento do processo.\nSegundo parecer da Procuradoria, a análise não se restringe ao desempenho da empresa durante um único evento climático, mas considera um conjunto de falhas apontadas pela fiscalização.\nEntre os problemas citados estão o elevado tempo médio de atendimento a ocorrências emergenciais, interrupções superiores a 24 horas, deficiências no planejamento para eventos climáticos extremos e baixa produtividade das equipes responsáveis pela recomposição da rede.\nPedido de perícia rejeitado\nEm agosto, a diretoria da Aneel rejeitou um pedido da Enel para que fosse realizada uma perícia técnica independente antes da decisão sobre a concessão.\nA empresa alegava que o processo envolvia questões de alta complexidade técnica, incluindo aspectos meteorológicos, operacionais, estatísticos e regulatórios.\nA Aneel entendeu, porém, que os elementos técnicos reunidos durante a fiscalização eram suficientes para a análise e encerrou a fase de instrução do processo, abrindo prazo para as alegações finais da concessionária.\nA agência destacou ainda que a severidade dos eventos climáticos não estava em discussão. O ponto central do processo era avaliar se a distribuidora tinha estrutura operacional, planejamento e capacidade de resposta compatíveis com suas obrigações para garantir a prestação adequada do serviço.\nJustiça reconheceu falhas\nEm setembro, a Justiça de São Paulo reconheceu falhas da Enel na prestação do serviço durante o apagão provocado pelo evento climático de dezembro de 2025.\nA decisão apontou problemas na gestão da crise, na mobilização das equipes e na manutenção da rede elétrica.\nA Justiça rejeitou o argumento de que a intensidade do fenômeno climático seria suficiente para afastar a responsabilidade da concessionária. Segundo a decisão, tempestades, vendavais e ciclones fazem parte dos riscos previsíveis da atividade de distribuição de energia e a empresa deve manter infraestrutura e capacidade operacional para reduzir seus impactos.\nAinda cabe recurso da decisão.\nEnel contesta conclusões\nAo longo do processo, a Enel vem contestando as conclusões da fiscalização.\nA concessionária sustenta que sua resposta aos eventos climáticos vem melhorando e afirma que os indicadores de atendimento emergencial evoluíram nos últimos anos.\nSobre o evento de dezembro de 2025, a empresa afirmou que a atuação foi compatível com a magnitude do fenômeno e que os ventos fortes e prolongados foram o principal fator responsável pelos danos.\nA Enel também afirmou que conseguiu restabelecer o fornecimento para 2,5 milhões de unidades consumidoras em nove horas e que, em 24 horas, 80% dos clientes afetados já estavam com o serviço normalizado.\nA empresa sustenta ainda que dados da própria Aneel demonstram que seu desempenho em emergências é compatível com o de outras grandes distribuidoras submetidas a eventos climáticos de magnitude semelhante.",
+    "published": "2026-11-17T21:35:57+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Diretos da Aneel durante reunião pública nesta terça (17).\nReprodução\nA diretoria da Agência Nacional de Energia Elétrica (Aneel) formou maioria nesta terça-feira (17) para recomendar o encerramento antecipado da concessão da Enel Distribuição São Paulo, responsável pelo fornecim",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Israel elege aliado de Eisenkot para presidir Parlamento em disputa pelo poder com Netanyahu",
+    "link": "https://oglobo.globo.com/mundo/noticia/2026/11/17/israel-elege-aliado-de-eisenkot-para-presidir-parlamento-em-disputa-pelo-poder-com-netanyahu.ghtml",
+    "description": "O Parlamento de Israel elegeu nesta terça-feira Matan Kahana, aliado de Gadi Eisenkot, como novo presidente do Knesset, o Parlamento do país. A escolha ocorre em meio à tentativa de Eisenkot, líder do partido Yashar e ex-chefe do Estado-Maior das Forças de Defesa de Israel, de formar um novo governo e substituir o primeiro-ministro cessante, Benjamin Netanyahu. Em 8 de novembro, ele recebeu do presidente Isaac Herzog o mandato para formar o governo, após obter o apoio de 67 dos 120 parlamentares eleitos em 27 de outubro. Kahana ficará à frente da Casa, responsável por definir a agenda legislativa.\nEm comunicado, o Likud exigiu que os parlamentares se abstivessem de tomar \"medidas duras e unilaterais\" e de substituir o presidente do Parlamento \"num momento em que decorrem negociações para a formação de um governo de unidade nacional\".\nO partido de Netanyahu anunciou que indicará Ofir Katz como seu candidato à presidência da Câmara, mas Kahana é o favorito na próxima votação.\nNem Eisenkot nem Netanyahu conquistaram a maioria nas eleições, porém, Kahana pode facilmente atingir o limite de 61 votos na votação desta terça-feira, graças aos votos dos partidos árabe-israelenses, que obtiveram ganhos sem precedentes impulsionados pelo descontentamento contra Netanyahu, que governa em aliança com a extrema direita.\nOs partidos de Netanyahu e Eisenkot se reuniram no domingo para discutir a possibilidade de formar um governo de unidade, mas o encontro pareceu ser em grande parte uma formalidade, com ambos afirmando que deveriam ser primeiros-ministros.\nNetanyahu, que tem pressionado o presidente dos EUA, Donald Trump, a retomar a guerra contra o Irã, tem enfatizado a ameaça de Teerã ao insistir na necessidade de um governo de unidade nacional. \nPor sua vez, Eisenkot afirmou posteriormente que Netanyahu era inapto para \"permanecer no comando do governo por mais um minuto sequer\", após uma reportagem revelar que seus aliados tentaram fabricar alegações de fraude para incriminar parlamentares da minoria árabe.\nFim da era Netanyahu\nCaso Kahana assuma o cargo, espera-se que ele inicie já na quarta-feira o processo de desmantelamento de grande parte da agenda de Netanyahu, o primeiro-ministro que mais tempo serviu em Israel, tendo alternado entre mandatos ao longo de três décadas.\nEspera-se que o novo Parlamento tome medidas em primeiro lugar para revogar as amplas reformas que visavam reduzir a independência do Judiciário, reformas essas promovidas por Netanyahu, que se mostrou furioso com as acusações de corrupção que pesam contra ele e que podem levá-lo à prisão caso perca o poder.\nAs reformas judiciais iniciadas logo após o início do último mandato de Netanyahu, em dezembro de 2022, desencadearam alguns dos maiores protestos da História de Israel, levando dezenas de milhares de pessoas às ruas, com os liberais temendo uma erosão da democracia no país.\nO movimento, porém, acabou sendo ofuscado em 7 de outubro de 2023, quando militantes do Hamas realizaram o ataque mais mortal de todos os tempos contra Israel, que respondeu com uma ofensiva retaliatória implacável em Gaza.\nEisenkot também prometeu criar rapidamente uma comissão estatal de inquérito para investigar as falhas de segurança que levaram ao ataque de 7 de Outubro.\nNetanyahu, que construiu sua imagem prometendo garantir a segurança de Israel, recusou uma investigação independente, propondo, em vez disso, uma cujos membros seriam escolhidos por políticos.\nQuem é Kahana\nKahana, de 54 anos, assim como Eisenkot, é um veterano líder militar. Ele serviu em um governo não-Netanyahu de curta duração em 2021 e 2022 como ministro dos serviços religiosos, no qual entrou em conflito com judeus ultraortodoxos ao tentar reduzir o poder do Rabino-chefe.\nO próprio Kahana é religioso, o que faz parte dos esforços de Eisenkot para formar uma ampla coalizão que abrange desde liberais seculares a conservadores religiosos.\nNascido em Haifa, em 1972, Kahana cresceu em um moshav (comunidade rural cooperativa) religioso ao sul de Tel Aviv e estudou em Jerusalém. Ingressou nas Forças Armadas de Israel em 1990, servindo na unidade de elite Sayeret Matkal ao lado do ex-premier Naftali Bennett (2021-2022). \nEm 1994, transferiu-se para a Força Aérea, onde se tornou piloto de caça, comandou um esquadrão de F-16 e participou da Segunda Guerra do Líbano (2006) e de operações em Gaza. Aposentou-se em 2018, no posto de coronel, mas continuou voando como reservista até 2020.\nKahana foi eleito para o Knesset em 2019 pelo Yamina, de Bennett, e atuou como ministro de serviços religiosos no governo Bennett-Lapid. Depois, ingressou em um partido de centro-direita liderado por Benny Gantz. Na eleição do mês passado, ocupava o quinto lugar na lista do Yashar, partido de Eisenkot.\nCom AFP.",
+    "published": "2026-11-17T21:31:48+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O Parlamento de Israel elegeu nesta terça-feira Matan Kahana, aliado de Gadi Eisenkot, como novo presidente do Knesset, o Parlamento do país. A escolha ocorre em meio à tentativa de Eisenkot, líder do partido Yashar e ex-chefe do Estado-Maior das Forças de Defesa de Israel, de fo",
+    "relevance": 5
+  },
+  {
     "source": "NeoFeed",
     "title": "Por que o remédio fiscal do governo piorou a “febre” do mercado",
     "link": "https://neofeed.com.br/economia/por-que-o-remedio-fiscal-do-governo-piorou-a-febre-do-mercado/",
@@ -14,6 +105,55 @@
     "relevance": 5
   },
   {
+    "source": "O Globo",
+    "title": "Justiça concede liminar e manda soltar contrarregra preso com munições e notas suspeitas de falsificação",
+    "link": "https://oglobo.globo.com/rio/noticia/2026/11/17/justica-concede-liminar-e-manda-soltar-contrarregra-preso-com-municoes-e-notas-suspeitas-de-falsificacao.ghtml",
+    "description": "O desembargador Marcelo Castro Anátocles da Silva Ferreira, da 6ª Câmara Criminal do Tribunal de Justiça do Rio de Janeiro (TJRJ), concedeu liminar, nesta terça-feira, substituindo a prisão preventiva do contrarregra Josenildo Amarante Pereira, de 56 anos, conhecido como Magrão, por medidas cautelares. Entre elas estão o comparecimento em juízo cinco dias após a soltura e, posteriormente, de forma mensal, além da proibição de se ausentar da cidade onde reside por mais de oito dias sem autorização judicial.\nNa Baixada Fluminense: defesa entra com pedido de relaxamento de prisão de contrarregra detido com munições e notas suspeitas de falsificação\nArmamento do crime: fábrica clandestina de fuzis é localizada pelo Bope em operação no Complexo da Maré\nA mesma decisão determina a expedição de alvará de soltura e proíbe Josenildo de mudar de endereço sem comunicar o fato à Justiça. Magrão havia sido preso em flagrante na sexta-feira, dia 13, por suspeita de envolvimento em crimes de falsificação de documentos, moeda falsa e posse irregular de munição, durante uma ação da Polícia Civil na comunidade do Lixão, em Duque de Caxias.\nMaterial que foi apreendido pela polícia na casa de Josenildo\nReprodução\nNa ocasião, foram encontradas na residência do contrarregra 31 munições de calibre .38, cédulas suspeitas de falsificação de moeda nacional e estrangeira, carteiras de habilitação com indícios de falsificação, vestimentas camufladas, um simulacro de granada, uma faca e um telefone celular. No sábado, após uma audiência de custódia, Josenildo teve a prisão em flagrante convertida em preventiva por decisão judicial.\nVÍDEO: imagens mostram professor caído no chão sendo espancado mesmo após perder a consciência no Centro do Rio\nA Polícia Civil alegou que a prisão de Josenildo ocorreu durante uma operação para cumprir mandados de prisão e de busca e apreensão contra suspeitos de integrarem o Comando Vermelho (CV) e de estarem envolvidos na expansão territorial da facção em Duque de Caxias. A investigação identificou 30 integrantes da quadrilha e levou à expedição de 24 mandados de prisão e 35 de busca e apreensão.\nApesar de não constar na lista nominal de suspeitos, o contrarregra teve a casa revistada pelos policiais. Segundo a Polícia Civil, o endereço era utilizado como comprovante de residência por uma pessoa procurada pela Justiça e, por isso, foi alvo de uma ordem de busca e apreensão. Já a defesa de Josenildo afirma que ele mora no local há 13 anos e não conhece a pessoa procurada.\nFeriado da Consciência Negra: mais de 358 mil veículos devem circular pela Transolímpica; via tem serviços de conservação até quinta-feira\nFamiliares e amigos do contrarregra alegaram que os materiais encontrados durante a ação em sua residência são cenográficos e destinados ao uso próprio em produções audiovisuais. Profissionais da área também saíram em defesa de Pereira.\nApesar disso, o Ministério Público do Rio de Janeiro denunciou o contrarregra pelos crimes de falsificação de documentos, guarda de moeda falsa e posse irregular de munição.\nA liminar expedida pela 6ª Câmara Criminal do TJRJ atendeu a um pedido de habeas corpus impetrado pelo advogado Marcos Vinicius Rayol Sola, responsável pela defesa de Josenildo Amarante Pereira.\nSegundo a defesa, a casa do contrarregra não estava entre os endereços autorizados para o cumprimento de mandados de busca e apreensão. A diligência resultou na apreensão dos materiais que levaram à prisão em flagrante de Josenildo Pereira.\nInitial plugin text",
+    "published": "2026-11-17T21:30:03+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O desembargador Marcelo Castro Anátocles da Silva Ferreira, da 6ª Câmara Criminal do Tribunal de Justiça do Rio de Janeiro (TJRJ), concedeu liminar, nesta terça-feira, substituindo a prisão preventiva do contrarregra Josenildo Amarante Pereira, de 56 anos, conhecido como Magrão, ",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Uma semana após saída do CEO, Nvidia dobra receita no terceiro trimestre para US$ 115,8 bi",
+    "link": "https://oglobo.globo.com/economia/financas/noticia/2026/11/17/uma-semana-apos-saida-do-ceo-nvidia-dobra-receita-no-terceiro-trimestre-para-us-1158-bi.ghtml",
+    "description": "A receita da Nvidia dobrou para US$ 115,8 bilhões no terceiro trimestre fiscal - entre agosto e outubro - deste ano, em relação a igual período do ano anterior. Já em relação ao trimestre imediatamente anterior, o avanço foi de 20%. Este é o primeiro balanço financeiro divulgado pela companhia americana desde a saída do fundador Jensen Huang do comando, no último dia 12.\nO resultado veio acima do esperado. Analistas projetavam uma receita média de US$ 108,7 bilhões, praticamente o dobro do registrado um ano antes.\nA publicação do balanço ocorre em meio a uma crise de liderança na fabricante de chips, que se tornou peça central da expansão global da inteligência artificial. Huang esteve à frente da companhia por 33 anos e se tornou uma figura central na estratégia e na expansão da empresa americana. \n Dúvidas sobre o longo prazo\nO desempenho no trimestre mais recente está longe de ser o principal foco de Wall Street, já que as perspectivas de longo prazo estão em dúvida desde a destituição do CEO Jensen Huang na semana passada. Ainda assim, caso a Nvidia decepcione, a reação do mercado provavelmente será violenta.\n— É muito importante para o mercado como um todo que a Nvidia continue apresentando bom desempenho, mas as ações ainda carregarão esse peso — disse Zed Francis, diretor de investimentos da Convexitas, consultoria de investimentos de Chicago. —Será muito difícil para as ações atingirem novas máximas até termos mais clareza sobre essa questão.\nAs ações da Nvidia acumulam queda de 16% desde 8 de novembro, quando Huang revelou que manteve um relacionamento amoroso com uma mulher suspeita de ser espiã chinesa. Desde então, ele foi acusado de outros casos extraconjugais, incluindo um com uma mulher subordinada a ele.\nO conselho de administração da empresa o destituiu na quinta-feira e nomeou interinamente a diretora financeira, Colette Kress, para substituí-lo.\nAs ações já estavam sob pressão antes da divulgação das notícias sobre Huang, diante da crescente preocupação dos investidores com os trilhões de dólares gastos em infraestrutura de IA. Como fabricante de chips no centro dessa expansão, a Nvidia é uma das principais beneficiárias desses investimentos.\nAs ações caíram 10% em outubro, pior mês em quase um ano, e acumulam baixa de 35% desde a máxima de 6 de outubro, o que eliminou US$ 2 trilhões em valor de mercado no período.\nNvidia abre investigação após CEO confessar infidelidade com executiva apontada como espiã",
+    "published": "2026-11-17T21:28:08+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "A receita da Nvidia dobrou para US$ 115,8 bilhões no terceiro trimestre fiscal - entre agosto e outubro - deste ano, em relação a igual período do ano anterior. Já em relação ao trimestre imediatamente anterior, o avanço foi de 20%. Este é o primeiro balanço financeiro divulgado ",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "BC observa 'uso intensivo' de agentes de IA em ataques cibernéticos",
+    "link": "https://valor.globo.com/financas/noticia/2026/11/17/bc-observa-uso-intensivo-de-agentes-de-ia-em-ataques-ciberneticos.ghtml",
+    "description": "O nível de risco do sistema financeiro brasileiro aumentou significativamente nos últimos meses com a intensificação dos ataques cibernéticos e do uso de agentes de inteligência artificial (IA) por criminosos, avaliou Aristides Cavalcante, chefe do Departamento de Gestão Estratégica e Supervisão Especializada do Banco Central (BC).\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-17T21:26:44+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O nível de risco do sistema financeiro brasileiro aumentou significativamente nos últimos meses com a intensificação dos ataques cibernéticos e do uso de agentes de inteligência artificial (IA) por criminosos, avaliou Aristides Cavalcante, chefe do Departamento de Gestão Estratég",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "IPO de gigantes de IA testa apetite de investidores, enquanto cenário político nos EUA pode acelerar aquisições",
+    "link": "https://valor.globo.com/publicacoes/especiais/inteligencia-artificial/noticia/2026/11/17/ipo-de-gigantes-de-ia-testa-apetite-de-investidores-enquanto-cenario-politico-nos-eua-pode-acelerar-aquisicoes.ghtml",
+    "description": "A perspectiva de abertura de capital de gigantes da inteligência artificial, como Anthropic e OpenAI, enfrenta um mercado mais cauteloso. A Anthropic, por exemplo, chegou a ser associada a um valor de US$ 2 trilhões em uma eventual oferta que será realizada na quarta-feira (18), mas, na avaliação de um dos participantes, talvez precise aceitar uma cifra menor. Para companhias de outros portes, fusões e aquisições e operações no mercado privado podem oferecer alternativas ao IPO. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-17T21:25:55+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A perspectiva de abertura de capital de gigantes da inteligência artificial, como Anthropic e OpenAI, enfrenta um mercado mais cauteloso. A Anthropic, por exemplo, chegou a ser associada a um valor de US$ 2 trilhões em uma eventual oferta que será realizada na quarta-feira (18), ",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Ibovespa desidrata durante o dia mas fecha positivo; dólar sobe de novo",
     "link": "https://www.infomoney.com.br/mercados/ibovespa-hoje-bolsa-de-valores-ao-vivo-17112026/",
@@ -24,6 +164,18 @@
       "Mercado Financeiro"
     ],
     "summary": "Índices nos EUA terminam no vermelho antes do balanço trimestral de Nvidia\nThe post Ibovespa desidrata durante o dia mas fecha positivo; dólar sobe de novo appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Com Edson Celulari como embaixador, festival promove ações de incentivo à doação de sangue no Hemorio",
+    "link": "https://oglobo.globo.com/rio/noticia/2026/11/17/com-edson-celulari-como-embaixador-festival-promove-acoes-de-incentivo-a-doacao-de-sangue-no-hemorio.ghtml",
+    "description": "Com Edson Celulari como embaixador, o Festival do Bem promove, no próximo dia 25, uma série de atividades no Hemorio para estimular a doação de sangue. A ação, organizada pelo grupo artístico Conexão do Bem em referência ao Dia Nacional do Doador de Sangue, vai reunir artistas em um dia de ocupação cultural no hospital.\nLoirinho: Traficante que apareceu armado com fuzil na Lagoa tem 14 mandados de prisão em aberto e ao menos dez processos por roubo\nGovernador eleito: Douglas Ruas apresenta futuro secretário de Educação e anuncia meta de transformar 200 escolas do estado em unidades cívico-militares\nEntre as atividades estão karaokê na entrada da unidade, exibição de filmes na pediatria e em enfermarias adultas e um cortejo musical pelas dependências do hospital. Entre os artistas que já confirmaram presença estão Thais Belchior, Gabriel Godoy, Rafael Saraiva, Bella Camero, Carla Salle e Marcella Rica. A programação também inclui leitura e doação de livros infantis para crianças internadas. A iniciativa busca incentivar a doação de sangue e levar atividades culturais a pacientes, acompanhantes e profissionais de saúde.\nO Festival do Bem acontece neste ano no dia 25 de novembro, no Hemorio, organizado pelo grupo artístico Conexão do Bem\nThiago Santos/Divulgação\nO Festival do Bem está entre os cinco eventos de doação de sangue mais importantes do Hemorio. Em 2025, a iniciativa contou com mais de 15 artistas, entre eles Letícia Spiller, Letícia Colin, Agatha Moreira, Rodrigo Simas, Jonathan Azevedo, Sophia Abrahão e Júlia Rabello. A mobilização alcançou mais de 8 milhões de pessoas e registrou mais de 1 milhão de visualizações nos stories dos artistas e da iniciativa Conexão do Bem.\n73ª DP: Delegacia comandada por futuro secretário de Segurança ficou em último em ranking de produtividade investigativa do Rio\nCriada em 2012, a Conexão do Bem realiza apresentações musicais e teatrais em hospitais públicos do Rio de Janeiro. Idealizado pelo ator, diretor criativo e roteirista Felipe Haiut, o grupo já realizou atividades no Instituto Nacional de Traumatologia e Ortopedia (INTO), no Hospital Municipal do Andaraí, no Hospital Federal da Lagoa, no Hemorio, no HUPE e em unidades do Instituto Nacional de Câncer (INCA). Ele é formado pelos artistas Laura Araújo, Mag Pastori, Nina da Costa Reis, Pedro Nêgo, Hugo Germano, Dom Yuri, Angelíq e Natan Garcia, com direção de produção de Roberta Brisson.\nConexão do Bem – Temporada 2026\nPeríodo: agosto a dezembro de 2026\nAções: 35 apresentações\nLocais: sete instituições públicas do Rio de Janeiro\nFestival do Bem: 25 de novembro, no Hemorio (na Rua Frei Caneca 8, no Centro do Rio)\nMais no Instagram @conexaodobem\nAcesse aqui a campanha de financiamento coletivo\nInitial plugin text",
+    "published": "2026-11-17T21:22:17+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Com Edson Celulari como embaixador, o Festival do Bem promove, no próximo dia 25, uma série de atividades no Hemorio para estimular a doação de sangue. A ação, organizada pelo grupo artístico Conexão do Bem em referência ao Dia Nacional do Doador de Sangue, vai reunir artistas em",
     "relevance": 5
   },
   {
@@ -60,6 +212,19 @@
       "Mercado Financeiro"
     ],
     "summary": "O setor de tecnologia passou por mais um forte ajuste de posições e derrubou as bolsas americanas nesta terça-feira. O sentimento de cautela predominou antes do resultado trimestral da Nvidia, que sai nesta noite, e deu continuidade à tendência de queda dos últimos dias, embora o",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Cientistas entregam a Lula plano que prevê 3% do PIB investido em pesquisa e inovação até 2040",
+    "link": "https://oglobo.globo.com/brasil/noticia/2026/11/17/cientistas-entregam-a-lula-plano-que-preve-3percent-do-pib-investido-em-pesquisa-e-inovacao-ate-2040.ghtml",
+    "description": "As duas principais agremiações acadêmicas do Brasil divulgaram hoje um plano de desenvolvimento econômico que prevê o país elevando seu investimento em ciência e tecnologia de 1,19% para 3,0% do PIB em uma década e meia.\nBatizado de \"Projeto Brasil 2040\", o plano foi um pedido que o presidente Luiz Inácio Lula da Silva fez à Sociedade Brasileira para o Progresso da Ciência (SBPC) e para a Academia Brasileira de Ciência (ABC) em julho.\nNo documento de cem páginas, especialistas recrutados pelas duas entidades apontam como seria possível atingir um patamar maior de investimento em ciência. O objetivo é que o Brasil se equipare a países desenvolvidos e países emergentes que tiveram sucesso em usar pesquisa e inovação para alavancar suas economias.\nSegundo os autores do projeto, o Brasil precisa recuperar o ritmo de crescimento em produção científica que já teve antes de 2015, porque nos últimos anos o desempenho foi ruim, com o número de trabalhos científicos caindo 4,3%.\nEsse número afeta a capacidade dos países de aumentar sua produtividade da economia, afirmam os autores, e um dos principais problemas é a falta de investimento público e privado.\n\"O atual 1,19% do PIB do Brasil investido em pesquisa e inovação corresponde a menos da metade da média da OCDE, que era de aproximadamente 2,7% do PIB em 2023, e a cerca de um quarto da intensidade coreana, de 5,0%. Israel investe 6,3% e a China 2,6%\", pontua o relatório.\nPara que a meta proposta pelos cientistas seja cumprida, seria preciso elevar o dispndio anual do país em pesquisa e desenvolvimento dos atuais R$ 155 bilhões para R$ 882 bilhões em 15 anos.\nSegundo a cientista de computação Francilene Garcia, presidente da SBPC, isso é necessário porque o Brasil está entrando num momento em que a capacidade científica se torna vital para sua economia, por isso é preciso que o poder público implemente com urgência um plano de longo prazo para o setor.\n— Daqui a um pouco mais de uma década, por conta do envelhecimento da população projetado pela curva de crescimento demográfico, nós vamos ter que ter um modelo de desenvolvimento de um país que passe a depender de produtividade mais intensa — afirma. — E não se cria mais produtividade sem conhecimento e sem investimento em ciência, pesquisa e desenvolvimento tecnológico.\nPara ajudar a turbinar a produção científica brasileira, o plano prevê uma série de fontes alternativas de recursos que somem ao Fundo Nacional de Desenvolvimento Científico e Tecnológico (FNDCT) que hoje é o principal mecanismo de financiamento federal para ciência, com volume de cerca de R$ 20 bilhões.\nO plano dos cientistas ainda inclui uma proposta de vinculação de 10% das receitas do Fundo Social do Pré-Sal ao FNDCT; a aplicação de uma parcela das receitas do Sistema Brasileiro de Comércio de Emissões (SBCE), o mercado regulado de carbono, para projetos de CT&amp;I em descarbonização e o aprimoramento da Lei do Bem, o principal instrumento de incentivo fiscal no Brasil para estimular pesquisa, desenvolvimento e inovação no setor privado.\nUm pedido da SBPC e ABC para que seja aumentada de 50% para 60% a parcela de investimentos a fundo perdido pelo FNDCT, porém, já esbarra na atual proposta de ajuste fiscal que o governo tenta aprovar no Congresso, o plano de lei complementar 299.\n— Pelo que está sendo proposto no PLP 299, nós já vimos que há uma fragilidade de assegurar que a missão do FNDCT seja cumprida e que ele não seja contingenciado — afirma Garcia. — Um dos gatilhos fiscais previstos retira já em 2027 em torno de R$ 400 milhões do recurso não reembolsável do FNDCT.\nOs autores do Projeto Brasil 2040 afirmam, porém, que o plano é compatível com uma política fiscal responsável, mas que é preciso encontrar uma solução para o investimento privado em ciência na situação atual.\n— Com os juros altos do jeito que estão, ninguém investe em inovação, porque inovação envolve risco. É algo arriscado por natureza — diz a biomédica Helena Nader, presidente da ABC. — Por isso que em todos os países que tiveram sucesso, o estágio inicial de investimento envolveu o Estado, via subsídios ou outros mecanismos.\nO plano dos cientistas prevê, porém, que até 2040, se for criado um círculo virtuoso de investimento, a maior parte do volume de recursos investido saia do setor privado.\nAlém de tratar de recursos, o Projeto Brasil 2040 ainda propõe metas para aumentar a parcela de alunos de pós-graduação com bolsa de estudos dos atuais 50% para 70% até 2034. Os autores afirmam que o plano pode ser acelerado caso haja um investimento maior em áreas menos desenvolvidas do país, com uma cota de 30% dos recursos federais injetados nas regões Norte, Nordeste e Centro-Oeste até 2027.\nNo documento entregue a Lula, o plano é todo estruturado de forma que o país busque protegê-lo de descontinuidade política uma vez que seja implementado, e evitar que possa ser simplesmente cancelado pelo próximo governo de ocasião.\n— Se houver um pacto reconhecendo que ele é valioso para o futuro do país, a gente vai ter que ter um diálogo para criação de uma Proposta de Emenda Constitucional (PEC), que possa dar institucionalidade a ele — diz Garcia.\nEsse é um instrumento que tem sido buscado já por outros setores da sociedade que buscam incidir sobre planejamento de longo prazo do governo. Militares articularam, por exemplo, a criação da PEC 55/2023, que estabeleceria um piso de 2% do PIB para orçamento do Ministério da Defesa.\nA SBPC e a ABC dizem que não foram recebidas ainda por Lula para obter algum tipo de retorno sobre o plano. O Projeto Brasil 2040 foi entregue ao presidente em setembro, e foi divulgado só agora porque as entidades esperavam uma reunião no planalto que ainda não aconteceu. Nesta semana, a presidência confirmou o recebimento formalmente e pediu cópias atualizadas do documento para distribuir entre ministérios.\nGarcia diz que está otimista com a recepção do plano por autoridades públicas e diz que espera dar início a um debate sobre o projeto mesmo em meio à negociação sobre ajuste fiscal que acontece agora.\n— A gente não está propondo a criação de nenhum novo imposto, muito pelo contrário — diz. — A gente está propondo ampliar a nossa capacidade de integrar e dar continuidade ao desenvolvimento científico com as frentes que a gente tem, especialmente o FNDCT, e algumas outras que a gente recomenda.",
+    "published": "2026-11-17T21:12:14+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "As duas principais agremiações acadêmicas do Brasil divulgaram hoje um plano de desenvolvimento econômico que prevê o país elevando seu investimento em ciência e tecnologia de 1,19% para 3,0% do PIB em uma década e meia.\nBatizado de \"Projeto Brasil 2040\", o plano foi um pedido qu",
     "relevance": 5
   },
   {
@@ -331,6 +496,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/politica/noticia/2026/11/17/nikolas-ameaca-deixar-pl-caso-legenda-apoie-reeleicao-de-hugo-motta-para-presidencia-da-camara.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/11/17/nikolas-ferreira-diz-que-pode-deixar-pl-se-partido-apoiar-reeleicao-de-motta-na-camara.ghtml"
       }
     ]
   },
@@ -408,7 +577,17 @@
       "Politica"
     ],
     "summary": "Por falta de acordo entre governo e oposição, o Senado adiou para esta quarta-feira a votação dos quatro destaques ao texto-base do projeto de ajuste fiscal proposto pelo governo de Luiz Inácio Lula da Silva, a pedido do relator Eduardo Braga (MDB-AM). \nOs requerimentos que seria",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/11/17/falta-de-acordo-sobre-compensacao-no-plp-do-ajuste-fiscal-levou-ao-adiamento-da-votacao.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/11/17/motta-evita-fixar-data-para-votar-pacote-fiscal-apos-senado-adiar-analise-dos-destaques.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -1789,6 +1968,10 @@
       {
         "source": "Poder360",
         "link": "https://www.poder360.com.br/poder-economia/tributaria-pode-provocar-pequeno-impacto-na-inflacao-diz-durigan/"
+      },
+      {
+        "source": "Estadão",
+        "link": "https://www.estadao.com.br/economia/durigan-reforma-tributaria-pode-ter-pequeno-impacto-na-inflacao-mas-mercado-vai-ajustar-precos/"
       }
     ]
   },
@@ -2448,7 +2631,13 @@
       "Politica"
     ],
     "summary": "Planalto rebate críticas de petistas ao projeto, enquanto a bancada na Câmara apresenta propostas para taxar os mais ricos",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/financas/noticia/2026/11/17/ibovespa-tem-alta-timida-com-plp-do-ajuste-fiscal-no-radar.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3959,176 +4148,6 @@
       "Mercado Financeiro"
     ],
     "summary": "O Irã disparou drones contra um sistema de radar militar dos EUA no Bahrein nesta terça-feira, enquanto as tensões no Golfo continuavam elevadas, apesar das negociações entre Teerã e Omã sobre a proteção dos corredores marítimos no Estreito de Ormuz, após quase nove meses de guer",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Ibovespa Futuro amplia perdas após tombo na véspera, em meio a temores fiscais",
-    "link": "https://www.infomoney.com.br/mercados/ibovespa-futuro-amplia-perdas-apos-tombo-na-vespera-em-meio-a-temores-fiscais/",
-    "description": "Em meio a temores com indefinições do quadro fiscal do país, os senadores devem agora analisar emendas que ainda podem modificar seu conteúdo\nThe post Ibovespa Futuro amplia perdas após tombo na véspera, em meio a temores fiscais appeared first on InfoMoney.",
-    "published": "2026-11-17T12:05:30+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Em meio a temores com indefinições do quadro fiscal do país, os senadores devem agora analisar emendas que ainda podem modificar seu conteúdo\nThe post Ibovespa Futuro amplia perdas após tombo na véspera, em meio a temores fiscais appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Santos anuncia patrocínio da Transtec World sem logo no uniforme",
-    "link": "https://www.poder360.com.br/poder-sportsmkt/santos-anuncia-patrocinio-da-transtec-world-sem-logo-no-uniforme/",
-    "description": "Parceria com empresa de logística prevê ações de divulgação e experiências para clientes; valores não foram informados",
-    "published": "2026-11-17T12:01:36+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Parceria com empresa de logística prevê ações de divulgação e experiências para clientes; valores não foram informados",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Economia",
-    "title": "Dólar oscila na abertura, à espera de balanço da Nvidia e de olho em dados dos EUA",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/17/dolar-ibovespa.ghtml",
-    "description": "Entenda o que faz o preço do dólar subir ou cair\n \nO dólar abriu a sessão desta terça-feira (17) com volatilidade e marcava uma leve alta de 0,02% perto das 9h, cotado a R$ 5,7778. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. \nO balanço da Nvidia fica no centro das atenções nesta terça, em meio polêmicas envolvendo a empresa e dúvidas sobre o setor de inteligência artificial. Investidores ainda acompanham dados econômicos dos Estados Unidos e seguem atentos aos sinais sobre as políticas econômica e fiscal do governo no próximo mandato.\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\n▶️ O balanço da Nvidia está entre os destaques da sessão. Previsto para ser divulgado após o fechamento dos mercados, a expectativa é que o resultado traga novos sinais sobre o futuro da companhia e sobre os impactos do escândalo envolvendo a saída de Jensen Huang do comando da empresa, em meio a uma investigação sobre suspeitas de espionagem chinesa, no setor.\n▶️ Na agenda do dia, diversos dados econômicos dos EUA ficam no radar. Além de indicadores sobre vendas no varejo, produção industrial e e preços de exportação e importação, o mercado também acompanha a divulgação do relatório semanal ADP, que mostra a evolução do emprego no setor privado do país.\n▶️ No Brasil, a política fiscal continua sob os holofotes, em meio a dúvidas sobre o comprometimento do governo com o controle das contas públicas e o pacote fiscal. Saiba mais.\nVeja abaixo mais detalhes do dia nos mercados.\n💲Dólar\nVariação do dólar em 2026\nArte/g1\nAcumulado da semana: +2,15%;\nAcumulado do mês: +6,11%;\nAcumulado do ano: +5,25%.\n📈Ibovespa\nVariação do Ibovespa em 2026\nArte/g1\nAcumulado da semana: -1,90%\nAcumulado do mês: +0,75%;\nAcumulado do ano: +5%.\nMercado ainda vê desafios no ajuste fiscal\nO Senado aprovou, na semana passada, o texto-base de um pacote de medidas do governo federal para conter o crescimento dos gastos públicos e melhorar as contas do país.\nSegundo o Ministério do Planejamento, a proposta pode ter impacto de até R$ 60 bilhões em 2027: R$ 50 bilhões seriam destinados ao cumprimento das metas fiscais, enquanto outros R$ 10 bilhões abririam espaço no Orçamento para novas despesas, como o Pé-de-Meia Universitário.\nEntre as principais medidas estão:\nlimites mais rígidos para o crescimento dos gastos públicos;\npossibilidade de bloquear temporariamente determinadas despesas obrigatórias;\nredução de até 20% em alguns benefícios fiscais concedidos a empresas.\nO texto também prevê mudanças no cálculo dos recursos mínimos destinados à saúde e estabelece um prazo para a regulamentação dos chamados supersalários do funcionalismo público.\nA votação, porém, ainda não foi concluída. Quatro destaques ainda precisam ser analisados pelos senadores antes de o projeto seguir para a Câmara dos Deputados.\n🔎 O objetivo do governo é conter o crescimento da dívida pública sem comprometer políticas sociais. A aprovação do pacote também é considerada importante para que o Congresso avance na votação do Orçamento de 2027.\nDe olho na Nvidia\nOs resultados da Nvidia, previstos para serem divulgados nesta terça-feira (17), estão no centro das atenções dos mercados globais. \nOs números podem dar novas indicações sobre o desempenho da companhia em meio à crise que levou à saída de Jensen Huang, fundador e ex-presidente-executivo da empresa.\nO Conselho de Administração anunciou, na última quinta-feira (12), a saída de Huang dos cargos de presidente, diretor-executivo e integrante do colegiado. A decisão teve efeito imediato.\nO fundador da Nvidia admitiu ter sido infiel à esposa após a revelação de um relacionamento com Alice Huang, empresária chinesa suspeita de atuar em uma operação de espionagem ligada a Pequim. Apesar do sobrenome em comum, ela não tem parentesco com Jensen.\nNesta terça-feira, a companhia anunciou que criou um novo comitê no nível do conselho administrativo para supervisionar suas políticas de segurança nacional, a conformidade com as normas de controle de exportação e a gestão de riscos comerciais globais.\nTraição, espionagem e investigação: entenda o caso que expõe a Nvidia e seu CEO\nOutro fator que ainda segue no radar e que pode ter novos impactos no setor de tecnologia é a decisão anunciada na véspera pelo presidente americano, Donald Trump. O republicano publicou uma norma que impõe novas restrições à exportação de chips avançados de IA para data centers instalados fora dos EUA. \nA medida busca impedir que empresas chinesas utilizem data centers em outros países para acessar esses componentes e treinar seus próprios modelos de IA.\nA norma também inclui o Brasil entre os países sujeitos às novas exigências, ao lado de Cingapura, Tailândia, Malásia e Indonésia. Com isso, a exportação de determinados chips avançados dos Estados Unidos para esses países passa a depender de autorização do governo americano. Entenda como a medida afeta o Brasil.\nBolsas globais\nNa Ásia, investidores repercutiram o impacto das restrições mais rígidas dos EUA ao acesso da China a chips avançados de IA, enquanto aguardavam os resultados da Nvidia e novos sinais sobre o futuro do setor.\nO SSEC, índice de Xangai, caiu 0,5%, enquanto o CSI 300, que reúne grandes empresas negociadas nas bolsas de Xangai e Shenzen, recuou 0,1%. Já o Nikkei, do Japão, teve perdas de 1,34% e o Kospi, da Coreia do Sul, desvalorizou 2,59%. Em Hong Kong, o índice Hang Seng registrou queda de 1,03%.  \n* Com informações da agência de notícias Reuters.\nDólar.\nCris Faga/Dragonfly/Estadão Conteúdo",
-    "published": "2026-11-17T12:00:34+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Entenda o que faz o preço do dólar subir ou cair\n \nO dólar abriu a sessão desta terça-feira (17) com volatilidade e marcava uma leve alta de 0,02% perto das 9h, cotado a R$ 5,7778. Já as negociações do Ibovespa, principal índice da bolsa brasileira, começam às 10h. \nO balanço da ",
-    "relevance": 5
-  },
-  {
-    "source": "Folha",
-    "title": "Grupo de investidores negocia aporte maior pela SAF do Fluminense em nova proposta",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/grupo-de-investidores-negocia-aporte-maior-pela-saf-do-fluminense-em-nova-proposta.shtml",
-    "description": "O grupo que negocia a compra da SAF (Sociedade Anônima do Futebol) do Fluminense -que inclui nomes como o do banqueiro André Esteves, do BTG Pactual- deve aumentar o valor da proposta em dinheiro diante da maior necessidade de recursos para reequilibrar as finanças do clube.\nLeia mais (11/17/2026 - 09h00)",
-    "published": "2026-11-17T12:00:00+00:00",
-    "themes": [
-      "Mercado Financeiro",
-      "XP"
-    ],
-    "summary": "O grupo que negocia a compra da SAF (Sociedade Anônima do Futebol) do Fluminense -que inclui nomes como o do banqueiro André Esteves, do BTG Pactual- deve aumentar o valor da proposta em dinheiro diante da maior necessidade de recursos para reequilibrar as finanças do clube.\nLeia",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Confiança de investidores da Alemanha cresce mais que o esperado em novembro, diz ZEW",
-    "link": "https://www.infomoney.com.br/economia/confianca-de-investidores-da-alemanha-cresce-mais-que-o-esperado-em-novembro-diz-zew/",
-    "description": "Indicador de instituto de pesquisa econômica ficou em 35,6 pontos ante 28,1 no mês anterior; pedidos a fábricas e queda recente do petróleo ajudaram no sentimento mais otimista\nThe post Confiança de investidores da Alemanha cresce mais que o esperado em novembro, diz ZEW appeared first on InfoMoney.",
-    "published": "2026-11-17T11:59:15+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Indicador de instituto de pesquisa econômica ficou em 35,6 pontos ante 28,1 no mês anterior; pedidos a fábricas e queda recente do petróleo ajudaram no sentimento mais otimista\nThe post Confiança de investidores da Alemanha cresce mais que o esperado em novembro, diz ZEW appeared",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Ajuste fiscal de Lula e balanço da Nvidia concentram as atenções dos investidores",
-    "link": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
-    "description": "Ajuste fiscal de Lula e balanço da Nvidia concentram as atenções dos investidores Proposta em tramitação no Congresso, porém, ainda é considerada insuficiente pelos agentes financeiros, que cobram medidas estruturais para conter o avanço da dívida pública Manhã no mercado: Desconfiança com IA e política fiscal no Brasil impõem cautela antes do balanço da Nvidia",
-    "published": "2026-11-17T11:59:06+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Ajuste fiscal de Lula e balanço da Nvidia concentram as atenções dos investidores Proposta em tramitação no Congresso, porém, ainda é considerada insuficiente pelos agentes financeiros, que cobram medidas estruturais para conter o avanço da dívida pública Manhã no mercado: Descon",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados",
-    "link": "https://www.infomoney.com.br/politica/lara-resende-volta-a-defender-corte-da-selic-e-critica-galipolo-por-juros-elevados/",
-    "description": "Economista rebate críticas à proposta de redução dos juros e afirma que política do Banco Central agrava endividamento de empresas, famílias e governo\nThe post Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados appeared first on InfoMoney.",
-    "published": "2026-11-17T11:56:06+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "Economista rebate críticas à proposta de redução dos juros e afirma que política do Banco Central agrava endividamento de empresas, famílias e governo\nThe post Lara Resende volta a defender corte da Selic e critica Galípolo por juros elevados appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "UNE realiza atos em 13 cidades contra ajuste fiscal de Lula",
-    "link": "https://www.poder360.com.br/poder-congresso/une-realiza-atos-em-13-cidades-contra-ajuste-fiscal-de-lula/",
-    "description": "Organização cobra mais investimentos públicos; mobilização é feita em meio a críticas de aliados do presidente à proposta",
-    "published": "2026-11-17T11:54:28+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Organização cobra mais investimentos públicos; mobilização é feita em meio a críticas de aliados do presidente à proposta",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Nova regra amplia poderes da Susep para punir irregularidades e eleva parâmetro de multas para R$ 35 milhões",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/17/nova-regra-amplia-poderes-da-susep-para-punir-irregularidades-e-eleva-parmetro-de-multas-para-r-35-milhes.ghtml",
-    "description": "A Superintendência de Seguros Privados (Susep) terá, a partir de 2027, instrumentos mais amplos para fiscalizar e punir irregularidades nos mercados de seguros, capitalização, resseguros e previdência privada. Na sexta-feira (13), foi publicada uma resolução do Conselho Nacional de Seguros Privados (CNSP) que estabelece um novo regime administrativo sancionador. Um dos principais pontos da atualização é o aumento do limite de referência das multas, que passa a ser de R$ 35 milhões. O prazo máximo de inabilitação também foi ampliado, de dez para 20 anos. \n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-17T11:53:34+00:00",
-    "themes": [
-      "XP"
-    ],
-    "summary": "A Superintendência de Seguros Privados (Susep) terá, a partir de 2027, instrumentos mais amplos para fiscalizar e punir irregularidades nos mercados de seguros, capitalização, resseguros e previdência privada. Na sexta-feira (13), foi publicada uma resolução do Conselho Nacional ",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Governo do Rio sanciona leis que permitem renegociar dívidas com descontos de até 70% e punem grandes devedores",
-    "link": "https://oglobo.globo.com/rio/noticia/2026/11/17/governo-do-rio-sanciona-leis-que-permitem-renegociar-dividas-com-descontos-de-ate-70percent-e-punem-grandes-devedores.ghtml",
-    "description": "O governo do Rio sancionou duas leis que endurecem as regras contra grandes devedores de impostos e permitem a renegociação de dívidas com descontos de até 70% sobre multas, juros e encargos. Publicadas nesta terça-feira, as medidas têm potencial de aumentar a arrecadação estadual em mais de R$ 1 bilhão em 2027, segundo estimativa do Executivo.\nLoirinho: Traficante que apareceu armado com fuzil na Lagoa tem 14 mandados de prisão em aberto e ao menos dez processos por roubo\nGovernador eleito: Douglas Ruas apresenta futuro secretário de Educação e anuncia meta de transformar 200 escolas do estado em unidades cívico-militares\nAs normas foram sancionadas pelo governador em exercício, desembargador Ricardo Couto. Uma delas estabelece critérios para identificar o chamado devedor contumaz, contribuinte que deixa de pagar impostos de forma reiterada. A outra cria mecanismos para facilitar a recuperação de créditos tributários e não tributários por meio de acordos com o estado.\nPela nova legislação, empresas com dívidas fiscais irregulares a partir de R$ 15 milhões, cujo valor supere o próprio patrimônio, poderão ser enquadradas como devedoras contumazes, desde que atendam aos demais critérios legais de inadimplência reiterada. Nesses casos, poderão perder benefícios fiscais, ficar impedidas de participar de licitações e de firmar contratos com o poder público.\n73ª DP: Delegacia comandada por futuro secretário de Segurança ficou em último em ranking de produtividade investigativa do Rio\nAntes da aplicação das restrições, o contribuinte deverá ser notificado e terá prazo de 30 dias para regularizar a situação ou apresentar defesa. A legislação estadual segue parâmetros da Lei Complementar federal 225/2026.\nRenegociação com descontos\nA segunda lei estabelece regras para a negociação de dívidas com o estado. Os acordos poderão contemplar créditos considerados irrecuperáveis ou de difícil recuperação, disputas tributárias de pequeno valor e questões jurídicas que envolvam controvérsias relevantes e disseminadas.\nOs descontos poderão chegar a 65% sobre multas, juros e acréscimos legais, com parcelamento em até 120 meses. Para pessoas físicas, microempresas, empresas de pequeno porte e empresas em recuperação judicial, os benefícios poderão alcançar 70% de desconto e prazo de pagamento de até 145 meses, conforme as condições legais.\nMagrão: Perícia diz que 26 das 31 munições apreendidas na casa de contrarregra eram verdadeiras, e cinco, de festim\nA legislação também autoriza o uso de precatórios e créditos acumulados de ICMS para compensar débitos. Os descontos, no entanto, não poderão atingir o valor principal do tributo.\nNem todas as dívidas poderão ser renegociadas. Ficam excluídos os créditos de ICMS ainda não inscritos em dívida ativa, multas penais e débitos apurados no regime do Simples Nacional. A legislação também estabelece restrições para devedores contumazes.\nEntenda o que muda com as duas leis\nLei do Devedor Contumaz\nQuem pode ser enquadrado? Empresas que deixam de pagar impostos de forma reiterada e injustificada, com dívidas fiscais irregulares de pelo menos R$ 15 milhões, superiores ao próprio patrimônio. A legislação também estabelece critérios de reincidência, como a falta de recolhimento de ICMS por quatro períodos consecutivos ou seis alternados em 12 meses.\nConsulta é gratuita: Estado do Rio lança mapa público com dados de ciência e tecnologia dos 92 municípios\nQuais são as punições? Perda de benefícios fiscais, impedimento de participar de licitações e restrições para contratar com o poder público.\nA empresa pode se defender? Sim. Terá 30 dias após a notificação para regularizar a situação ou apresentar defesa. Atrasos isolados ou situações justificadas não caracterizam automaticamente o devedor contumaz.\n Lei da Transação Tributária\nQuem pode negociar? Contribuintes com dívidas consideradas de difícil recuperação, disputas de pequeno valor ou controvérsias jurídicas relevantes. Os acordos poderão ocorrer por adesão a editais ou propostas individuais.\nQuais são os descontos? Até 65% sobre multas, juros e encargos, com parcelamento em até 120 meses (dez anos). Pessoas físicas, microempresas, empresas de pequeno porte e empresas em recuperação judicial poderão ter descontos de até 70% e prazo de até 145 meses (pouco mais de 12 anos), conforme os requisitos legais.\nAlvo de críticas: Modelo que levou Paraná ao topo do Ideb combina bônus para gestores e ensino digital\nO desconto vale sobre todo o débito? Não. O valor original do imposto não pode ser reduzido. Por exemplo, numa dívida de R$ 1 milhão em impostos e R$ 500 mil em multas e juros, um desconto de 65% sobre os encargos reduziria o total de R$ 1,5 milhão para R$ 1,175 milhão, caso o débito se enquadre nas regras.\nÉ possível usar créditos para quitar dívidas? Sim. A lei permite utilizar precatórios e créditos acumulados de ICMS para compensar débitos, respeitados os limites legais.\n'Nossa ação tem trazido incômodo', diz comandante sobre ameaças a policiais do 18ºBPM; após coroas de flores, Gardênia Azul tem operação\nQuem fica de fora? Dívidas de ICMS não inscritas em dívida ativa, multas penais e débitos apurados pelo Simples Nacional. Devedores contumazes também enfrentam restrições à concessão de descontos.\nQuando começa a valer? A lei de transação tributária prevê entrada em vigor 30 dias após a publicação. A aplicação dos benefícios dependerá de regulamentação e das condições de cada modalidade de negociação.",
-    "published": "2026-11-17T11:51:58+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O governo do Rio sancionou duas leis que endurecem as regras contra grandes devedores de impostos e permitem a renegociação de dívidas com descontos de até 70% sobre multas, juros e encargos. Publicadas nesta terça-feira, as medidas têm potencial de aumentar a arrecadação estadua",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/brasil/noticia/2026/11/17/governo-do-rio-sanciona-leis-para-combater-devedores-contumazes-e-renegociar-dvidas-tributrias.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Zona do euro deve crescer de forma moderada; França tem a projeção mais fraca",
-    "link": "https://www.infomoney.com.br/economia/zona-do-euro-deve-crescer-de-forma-moderada-franca-tem-a-projecao-mais-fraca/",
-    "description": "Comissão Europeia estima que crescimento médio do PIB nos 21 países que adotam o euro como moeda será de 1,2% em 2026 e 2027; França deve crescer 0,4% e 0,6%, respectivamente\nThe post Zona do euro deve crescer de forma moderada; França tem a projeção mais fraca appeared first on InfoMoney.",
-    "published": "2026-11-17T11:50:34+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Comissão Europeia estima que crescimento médio do PIB nos 21 países que adotam o euro como moeda será de 1,2% em 2026 e 2027; França deve crescer 0,4% e 0,6%, respectivamente\nThe post Zona do euro deve crescer de forma moderada; França tem a projeção mais fraca appeared first on ",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Torcedor é condenado por insultos racistas a Mbappé na Espanha",
-    "link": "https://oglobo.globo.com/esportes/noticia/2026/11/17/torcedor-e-condenado-por-insultos-racistas-a-mbappe-na-espanha.ghtml",
-    "description": "A Justiça espanhola condenou um torcedor do Oviedo a onze meses de prisão por insultos racistas contra o atacante francês Kylian Mbappé, do Real Madrid, durante uma partida da LaLiga disputada em 24 de agosto de 2025, no estádio Carlos Tartiere, em Oviedo. O condenado não precisará cumprir a pena em regime de prisão, desde que permaneça por dois anos sem frequentar estádios onde sejam realizadas competições oficiais.\nVeja mais: Brasileirão tem decisões a quatro rodadas do fim, com briga pelo título, por vaga na Libertadores e contra o rebaixamento\nNovo gigante do futebol europeu: Sérvia constrói estádio de R$ 2,8 bilhões com jardins suspensos e capacidade para 52 mil pessoas\nO Real Madrid informou nesta terça-feira, em comunicado, que o torcedor \"foi condenado por um crime de ódio\". A Audiência Provincial das Astúrias também determinou o pagamento de uma multa, cujo valor não foi divulgado pelo clube.\nEm fevereiro, o Ministério Público havia pedido um ano de prisão e uma multa de quase 3 mil euros por gritos e \"gestos de desprezo de caráter racista\".\nImitações de macacos\nSegundo o Ministério Público, o torcedor imitou gestos de primatas e reproduziu sons associados a macacos durante a partida.\n\"Essas manifestações de desprezo consistiram em imitar os gestos feitos por primatas e reproduzir, aos gritos, os sons 'uh, uh, uh', onomatopeia que imita o som emitido pelos macacos\", detalhou a acusação.\nO episódio foi denunciado pela LaLiga e pelo Real Madrid. Foi a primeira vez, desde sua chegada ao clube espanhol, em meados de 2024, que Mbappé foi vítima de um incidente desse tipo. Seu companheiro de equipe, o brasileiro Vinícius Júnior, já sofreu episódios semelhantes em outras ocasiões.\nA decisão se soma a outras condenações por insultos racistas contra jogadores do Real Madrid em Valência, Mallorca e Valladolid, lembrou o clube.\nNo ano passado, cinco torcedores do Real Valladolid foram condenados por um tribunal por crime de ódio após insultarem Vinícius durante uma partida em 2022. Foi a primeira decisão desse tipo na Espanha relacionada a um episódio ocorrido em um estádio de futebol.\nNo comunicado, o Real Madrid reafirmou \"seu compromisso de combater o racismo e erradicar qualquer comportamento racista no futebol e no esporte\".",
-    "published": "2026-11-17T11:48:58+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A Justiça espanhola condenou um torcedor do Oviedo a onze meses de prisão por insultos racistas contra o atacante francês Kylian Mbappé, do Real Madrid, durante uma partida da LaLiga disputada em 24 de agosto de 2025, no estádio Carlos Tartiere, em Oviedo. O condenado não precisa",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Japão tem recorde de emissão de títulos corporativos para investidor de varejo",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/17/japao-tem-recorde-de-emissao-de-titulos-corporativos-para-investidor-de-varejo.ghtml",
-    "description": "A emissão de títulos corporativos voltados a investidores de varejo no Japão atingiu um recorde em 2026, impulsionada por conglomerados de tecnologia como SoftBank e Rakuten, em um cenário onde a alta das taxas de juros atrai investidores em busca de rendimentos maiores.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-17T11:48:07+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "A emissão de títulos corporativos voltados a investidores de varejo no Japão atingiu um recorde em 2026, impulsionada por conglomerados de tecnologia como SoftBank e Rakuten, em um cenário onde a alta das taxas de juros atrai investidores em busca de rendimentos maiores.\n Matéria",
     "relevance": 5
   }
 ]
