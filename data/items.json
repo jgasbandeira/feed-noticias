@@ -12,6 +12,30 @@
     "relevance": 5
   },
   {
+    "source": "O Globo",
+    "title": "Leilão do BC pode dar alívio ao dólar, mas cenário externo será decisivo, avalia economista",
+    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/leilao-do-bc-pode-dar-alivio-ao-dolar-mas-cenario-externo-sera-decisivo-avalia-economista.ghtml",
+    "description": "Após o dólar alcançar uma nova máxima em 19 meses nesta terça-feira, a R$ 5,78, o Banco Central anunciou que realizará intervenções no mercado de câmbio e que poderá ofertar até US$ 1 bilhão no total.  Para o economista André Galhardo, da Análise Econômica, a atuação do BC foi tardia. Na avaliação dele, a autoridade monetária demorou demais para começar a intervir no mercado. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-18T01:17:52+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Após o dólar alcançar uma nova máxima em 19 meses nesta terça-feira, a R$ 5,78, o Banco Central anunciou que realizará intervenções no mercado de câmbio e que poderá ofertar até US$ 1 bilhão no total.  Para o economista André Galhardo, da Análise Econômica, a atuação do BC foi ta",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Lula se reúne com Rui Costa, Camilo Santana, Rafael Fonteles e Edinho Silva para discutir formação do governo",
+    "link": "https://oglobo.globo.com/politica/noticia/2026/11/17/lula-se-reune-com-rui-costa-camilo-santana-rafael-fonteles-e-edinho-silva-para-discutir-formacao-do-governo.ghtml",
+    "description": "O presidente Luiz Inácio Lula da Silva deu início às discussões para formação do governo do seu quarto mandato ao se reunir na noite desta terça-feira no Palácio da Alvorada com o ex-ministro da Casa Civil e senador eleito Rui Costa (PT-BA), com governador reeleito do Piauí, Rafael Fonteles, com o ex-ministro da Educação e senador Camilo Santana (PT-CE) e com o presidente do PT, Edinho Silva.\nCosta e Fonteles desembarcaram em Brasília nesta terça-feira. O encontro, com os auxiliares, que integraram a coordenação da campanha no segundo turno, durou mais de quatro horas.\nEdinho recebeu de Lula a missão de conversar com presidentes de partidos que possam indicar nomes para compor o ministério do quarto mandato. Na reunião, o dirigente informaria ao presidente as pretensões de cada legenda.\nDesde que foi reeleito, Lula não tem dado pistas sobre nomes que integrarão o primeiro escalão, mas deixou para retomar as conversas sobre o assunto após a viagem que fez para Turquia, Filipinas e Espanha. A maior expectativa está nas definições dos futuros ministros da Fazenda e da Casa Civil. O novo ministério da Segurança Pública também tem sido cobiçado por ser considerado a principal novidade da quarta gestão do petista.\nFonteles, Costa e o senador Camilo Santana, que também está em Brasília, foram três dos nomes mais próximos de Lula durante o segundo turno e atuaram como coordenadores da estratégia vencedora na eleição.\nSenador pelo Ceará e ex-ministro da Educação, Camilo vem sendo citado como favorito para assumir a Casa Civil, enquanto Costa é considerado nome forte para ministérios na área de infraestrutura ou de segurança pública.\nNome que despontou como favorito para a Fazenda logo após o segundo turno, Fonteles, submergiu nos últimos dias depois que aliados identificaram um excesso de exposição do seu nome, o que poderia incomodar Lula. O governador do Piauí também não foi chamado para a reunião de economistas convocada pelo presidente no Alvorada.\nDentro do PT, a possibilidade de Fonteles assumir a Fazenda passou a ser questionada diante do potencial impacto político de sua saída do governo estadual, para o qual foi reeleito com 70% dos votos. Considerado um reduto petista, o estado não elegeu nenhum deputado federal do PL e tampouco reelegeu Ciro Nogueira, presidente do PP, para o Senado. A avaliação de aliados é que a saída antecipada do governador poderia abrir um vácuo político no estado, criando espaço para a articulação da direita.",
+    "published": "2026-11-18T01:17:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O presidente Luiz Inácio Lula da Silva deu início às discussões para formação do governo do seu quarto mandato ao se reunir na noite desta terça-feira no Palácio da Alvorada com o ex-ministro da Casa Civil e senador eleito Rui Costa (PT-BA), com governador reeleito do Piauí, Rafa",
+    "relevance": 5
+  },
+  {
     "source": "Folha",
     "title": "Antes do ministro da Fazenda, é preciso definir o ministério da inteligência",
     "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/viniciustorres/2026/11/antes-do-ministro-da-fazenda-e-preciso-definir-o-ministerio-da-inteligencia.shtml",
@@ -145,7 +169,13 @@
       "Politica"
     ],
     "summary": "A Câmara dos Deputados aprovou nesta terça-feira (17) uma MP (medida provisória) que libera cerca de R$ 6,5 bilhões em crédito extraordinário para ajudar empresas brasileiras afetadas pelas tarifas impostas pelo governo do presidente Donald Trump e pela guerra no Oriente Médio.\nL",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/noticia/2026/11/17/camara-aprova-mp-de-r-65-bilhoes-para-credito-a-exportadores-afetados-pelo-tarifaco.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -2345,6 +2375,10 @@
       {
         "source": "G1 - Política",
         "link": "https://g1.globo.com/politica/noticia/2026/11/17/fachin-diz-que-stf-pode-julgar-ainda-neste-ano-acoes-contra-lei-da-dosimetria-se-moraes-liberar-caso.ghtml"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/fachin-diz-que-stf-pode-julgar-lei-da-dosimetria-ainda-neste-ano/"
       }
     ]
   },
@@ -4138,37 +4172,6 @@
       "Politica"
     ],
     "summary": "O mercado aumentou em R$ 320,9 milhões a sua estimativa para o déficit primário do governo federal deste ano, e também elevou a projeção de 2027. É o que mostra o Prisma Fiscal de novembro, divulgado nesta terça-feira (17) pelo Ministério da Fazenda e baseado em estimativas de in",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Ibovespa recupera os 170 mil pontos de olho no ajuste fiscal; 5 coisas para saber antes de investir hoje (17)",
-    "link": "https://www.moneytimes.com.br/ibovespa-recupera-os-170-mil-pontos-de-olho-no-ajuste-fiscal-5-coisas-para-saber-antes-de-investir-hoje-17-davs/",
-    "description": "Em dia de agenda econômica doméstica esvaziada, o Ibovespa (IBOV) inicia o pregão desta terça-feira (17) em ritmo de recuperação. Após fortes perdas da véspera, o principal índice da B3 opera em alta e volta a alcançar os 170 mil pontos. Os investidores ainda monitoram a votação do pacote de medidas fiscais do governo, que [&#8230;]",
-    "published": "2026-11-17T13:36:43+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Em dia de agenda econômica doméstica esvaziada, o Ibovespa (IBOV) inicia o pregão desta terça-feira (17) em ritmo de recuperação. Após fortes perdas da véspera, o principal índice da B3 opera em alta e volta a alcançar os 170 mil pontos. Os investidores ainda monitoram a votação ",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/financas/noticia/2026/11/17/ibovespa-sobe-em-recuperacao-com-apoio-de-petrobras-de-olho-em-ajuste-fiscal.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "O Globo",
-    "title": "Trump diz que Kim Jong-un 'gostaria' de encontrá-lo na China durante cúpula da Apec, mas Pequim nega ter informações",
-    "link": "https://oglobo.globo.com/mundo/noticia/2026/11/17/trump-diz-que-kim-jong-un-gostaria-de-encontra-lo-na-china-durante-cupula-da-apec-mas-pequim-nega-ter-informacoes.ghtml",
-    "description": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta terça-feira que o líder norte-coreano, Kim Jong-un, \"gostaria\" de se encontrar com ele durante a cúpula da Cooperação Econômica Ásia-Pacífico (Apec), que começa nesta semana em Shenzhen, no sul da China, embora o Ministério das Relações Exteriores de Pequim tenha indicado que não tinha informações sobre tal encontro. A possibilidade de uma reunião entre os dois, que já se encontraram três vezes durante o primeiro mandato do americano, foi mencionada por Trump enquanto ele também manifestava interesse em realizar uma conversa bilateral com o presidente russo, Vladimir Putin, à margem do evento.\nContexto: Com encontro trilateral previsto com Xi e Putin, Trump vai à Ásia para mostrar força sobre agenda externa e reafirmar autoridade\nO GLOBO no Mundo: Receba as notícias internacionais direto no seu celular\nPensa em morar fora? Veja guia interativo do GLOBO que reúne informações sobre 36 países\n— Ele gostaria, sim. Vamos ver o que acontece — disse Trump a jornalistas em Manila, nas Filipinas, antes de seguir para a China. \nNa véspera, o presidente americano já havia mencionado a possibilidade de encontrar Kim durante sua passagem pelo país asiático, mas reconheceu que a realização da reunião dependeria de Pequim.\n— Não tenho informações sobre esse assunto — declarou o porta-voz do Ministério das Relações Exteriores chinês, Guo Jiakun, durante uma entrevista coletiva, um dia antes da chegada prevista de Trump a Shenzhen.\nInitial plugin text\nAlém de Kim, Trump também demonstrou interesse em se reunir separadamente com Putin durante a cúpula. Questionado por jornalistas em Manila, à margem de uma reunião dos líderes dos países integrantes da aliança de segurança Quad — EUA, Índia, Japão e Austrália —, sobre a possibilidade de uma conversa bilateral com o presidente russo na China, o americano respondeu:\n— Se houver oportunidade, eu faria isso.\nDonald Trump se reúne com líderes da Índia, Japão e Austrália em primeiro compromisso na Ásia\nA cúpula da Apec permitirá ainda um encontro trilateral entre os presidentes da China, Rússia e EUA, conforme confirmado pelas três potências.\nTsunami democrata: negros e latinos põem Sul e Sudoeste dos EUA em disputa para 2028\nKim visita estação de esqui\nEnquanto Trump sinalizava a possibilidade de um novo encontro, a imprensa estatal norte-coreana divulgou imagens de Kim durante uma visita a uma zona turística próxima à fronteira com a China. O líder norte-coreano viajou ao local no domingo e na segunda-feira, acompanhado pela família e por autoridades do Partido dos Trabalhadores.\nFotografias divulgadas pela Agência Central de Notícias da Coreia (KCNA, na sigla em inglês) mostram Kim sorrindo, com um cigarro na mão e óculos escuros, sentado em uma poltrona em uma estação de esqui. Sua mulher, Ri Sol Ju, aparece em pé atrás dele.\nEntenda: Derrotada nas eleições, direita cristã vê influência entre republicanos ameaçada e busca se reorganizar para 2028\nEmbora a visita tenha ocorrido em uma região próxima à China, que recebe a cúpula da Apec, especialistas avaliam que é improvável que a viagem tenha sido uma preparação para um encontro com Trump. A distância em linha reta entre a estação de esqui em Samjiyon e Shenzhen é superior a 2.500 quilômetros.\n— O relato da KCNA não contém nenhuma mensagem direcionada aos EUA, e não há sinais de preparativos para um encontro — disse à AFP Hong Min, pesquisador sênior do Instituto Coreano para a Unificação Nacional. — Portanto, é difícil interpretar a visita de Kim como uma preparação para qualquer reunião entre Coreia do Norte e EUA nesta semana.\nRepresentatividade importa: conheça a luta de 150 anos que levou à eleição de cinco governadores e três senadores negros na onda democrata nos EUA\nTrump e Kim se encontraram três vezes durante o primeiro mandato do americano: em Singapura, em junho de 2018; em Hanói, em fevereiro de 2019; e na Zona Desmilitarizada entre as duas Coreias, em junho de 2019.\nOs encontros ocorreram depois que Trump chamou Kim de \"homem-foguete\" (rocket man, em inglês), durante um discurso em 2017.\nEm agosto deste ano, o presidente americano afirmou que esperava se reunir com o líder norte-coreano ainda em 2026, na tentativa de retomar a relação que, segundo ele, construiu com Kim durante seu primeiro mandato.\n(Com AFP)",
-    "published": "2026-11-17T13:33:43+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O presidente dos Estados Unidos, Donald Trump, afirmou nesta terça-feira que o líder norte-coreano, Kim Jong-un, \"gostaria\" de se encontrar com ele durante a cúpula da Cooperação Econômica Ásia-Pacífico (Apec), que começa nesta semana em Shenzhen, no sul da China, embora o Minist",
     "relevance": 5
   }
 ]
