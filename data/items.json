@@ -930,18 +930,6 @@
     "relevance": 5
   },
   {
-    "source": "Money Times",
-    "title": "Ibovespa recupera fôlego e encerra sessão no azul em meio à alta do petróleo",
-    "link": "https://www.moneytimes.com.br/ibovespa-recupera-folego-e-encerra-sessao-no-azul-em-meio-a-alta-do-petroleo-davs/",
-    "description": "A bolsa brasileira entrou em ritmo de recuperação nesta terça-feira (17), e o Ibovespa (IBOV) até tentou recuperar os 171 mil pontos, mas perdeu o fôlego ao longo do pregão. O principal índice da B3 fechou o dia com alta de 0,31%, aos 169.816,64 pontos. Apesar da valorização do Ibovespa, o clima ainda é de [&#8230;]",
-    "published": "2026-11-17T21:58:12+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "A bolsa brasileira entrou em ritmo de recuperação nesta terça-feira (17), e o Ibovespa (IBOV) até tentou recuperar os 171 mil pontos, mas perdeu o fôlego ao longo do pregão. O principal índice da B3 fechou o dia com alta de 0,31%, aos 169.816,64 pontos. Apesar da valorização do I",
-    "relevance": 5
-  },
-  {
     "source": "O Globo",
     "title": "Morre Wataru Ogawa, sobrevivente da bomba atômica de Nagasaki que vivia em Santa Catarina",
     "link": "https://oglobo.globo.com/brasil/noticia/2026/11/17/morre-wataru-ogawa-sobrevivente-da-bomba-atomica-de-nagasaki-que-vivia-em-santa-catarina.ghtml",
@@ -965,6 +953,26 @@
     ],
     "summary": "A Nvidia (NVDA) entregou um terceiro trimestre fiscal de 2027 acima das expectativas do mercado, reforçando o apetite global por infraestrutura de inteligência artificial. Apesar disso, a ação subia pouco after-market de Nova York. Por volta das 18h50, o papel tinha alta de 2%. A",
     "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Ibovespa encerra em alta, mas cautela com cenário fiscal limita recuperação",
+    "link": "https://www.infomoney.com.br/mercados/ibovespa-sobe-mas-investidor-segue-cauteloso-a-espera-de-definicoes-do-governo-lula/",
+    "description": "Investidores acompanham nesta terça-feira a eventual conclusão da votação do projeto de ajuste fiscal no Senado, que deve voltar para a Câmara dos Deputados\nThe post Ibovespa encerra em alta, mas cautela com cenário fiscal limita recuperação appeared first on InfoMoney.",
+    "published": "2026-11-17T21:52:50+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Investidores acompanham nesta terça-feira a eventual conclusão da votação do projeto de ajuste fiscal no Senado, que deve voltar para a Câmara dos Deputados\nThe post Ibovespa encerra em alta, mas cautela com cenário fiscal limita recuperação appeared first on InfoMoney.",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Money Times",
+        "link": "https://www.moneytimes.com.br/ibovespa-recupera-folego-e-encerra-sessao-no-azul-em-meio-a-alta-do-petroleo-davs/"
+      }
+    ]
   },
   {
     "source": "Poder360",
