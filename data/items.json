@@ -1,6 +1,18 @@
 [
   {
     "source": "Poder360",
+    "title": "Câmara deve votar ajuste fiscal mesmo sem acordo, diz Randolfe",
+    "link": "https://www.poder360.com.br/poder-congresso/camara-deve-votar-ajuste-fiscal-mesmo-sem-acordo-diz-randolfe/",
+    "description": "Acolumbre sinaliza que irá conversar com Motta para pautar o texto na Casa Baixa; deputado viaja para o Gilmarpalooza na Argentina",
+    "published": "2026-11-18T02:24:38+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Acolumbre sinaliza que irá conversar com Motta para pautar o texto na Casa Baixa; deputado viaja para o Gilmarpalooza na Argentina",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
     "title": "UNE protesta contra ajuste fiscal, mas reafirma apoio a Lula",
     "link": "https://www.poder360.com.br/poder-brasil/une-protesta-contra-ajuste-fiscal-mas-reafirma-apoio-a-lula/",
     "description": "Presidente da UNE diz que ato busca pressionar governo a ampliar investimentos em saúde e educação; manifestação foi realizada na Faria Lima, em São Paulo",
@@ -402,7 +414,13 @@
       "XP"
     ],
     "summary": "O procurador-geral da República, Paulo Gonet, se manifestou nesta terça-feira (17) a favor do pedido da Polícia Federal (PF) para que o inquérito de \"Dark Horse\", filme sobre o ex-presidente Jair Bolsonaro, seja prorrogado pelo prazo de 90 dias. O senador Flávio Bolsonaro (PL-RJ)",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/pgr-e-a-favor-de-prorrogar-de-investigacao-do-caso-dark-horse/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -4155,18 +4173,6 @@
       "Economia"
     ],
     "summary": "O movimento acontece desde setembro, segundo o Citi, e o carry trade não seria o suficiente para sustentar a moeda brasileira\nThe post Citi projeta que real seguirá com desvalorização, mas vê dólar a R$ 5,50 em 2027 appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Com Estado organizado, crime vai ser cada vez menos bem-sucedido, diz diretora do BC",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/17/com-estado-organizado-crime-vai-ser-cada-vez-menos-bem-sucedido-diz-diretora-do-bc.ghtml",
-    "description": "Para combater o crime organizado, o Estado também precisa se organizar, avalia a diretora de cidadania e supervisão de conduta do Banco Central (BC), Izabela Correa. Segundo ela, há um movimento “muito intenso” na indústria financeira e no regulador para conter o crime organizado, com o fortalecimento da governança dentro das instituições financeiras e no próprio BC.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-17T13:48:07+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Para combater o crime organizado, o Estado também precisa se organizar, avalia a diretora de cidadania e supervisão de conduta do Banco Central (BC), Izabela Correa. Segundo ela, há um movimento “muito intenso” na indústria financeira e no regulador para conter o crime organizado",
     "relevance": 5
   }
 ]
