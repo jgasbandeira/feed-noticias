@@ -1,6 +1,18 @@
 [
   {
     "source": "Money Times",
+    "title": "Bolsa opera amanhã (20)? Veja o funcionamento da B3, bancos e outros serviços no feriado",
+    "link": "https://www.moneytimes.com.br/ibovespa-opera-amanha-funcionamento-da-bolsa-de-bancos-servicos-feriado-da-consciencia-negra-mlem/",
+    "description": "O feriado nacional da Consciência Negra, nesta sexta-feira (20), altera o funcionamento de bancos, Bolsa de Valores (B3), Correios, INSS e outros serviços em todo o Brasil. Enquanto algumas atividades serão suspensas, outras, como o Pix, operam normalmente. Bancos funcionam no feriado? Correios fazem entregas? Segundo a Federação Brasileira de Bancos (Febraban), as agências bancárias [&#8230;]",
+    "published": "2026-11-19T09:45:00+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "O feriado nacional da Consciência Negra, nesta sexta-feira (20), altera o funcionamento de bancos, Bolsa de Valores (B3), Correios, INSS e outros serviços em todo o Brasil. Enquanto algumas atividades serão suspensas, outras, como o Pix, operam normalmente. Bancos funcionam no fe",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
     "title": "Agenda econômica: o que pode mexer com a Bolsa e o dólar nesta quinta-feira (19)",
     "link": "https://www.moneytimes.com.br/agenda-economica-o-que-pode-mexer-com-a-bolsa-e-o-dolar-nesta-quinta-feira-mlem-3/",
     "description": "Após uma quarta-feira (18) marcada pela divulgação da ata do Federal Reserve (Fed), os investidores acompanham uma agenda econômica mais diversificada nesta quinta-feira (19), com eventos relevantes no Brasil, nos Estados Unidos, na Europa e na China. No Brasil, o destaque é a reunião do Conselho Monetário Nacional (CMN), órgão responsável por definir, entre outras [&#8230;]",
@@ -2679,7 +2691,13 @@
       "Economia"
     ],
     "summary": "O petróleo fechou em queda nesta terça-feira (18), em meio às perspectivas de recuperação da oferta, que prevaleceram sobre as preocupações geopolíticas, apesar da nova onda de ataques no Oriente Médio. A commodity também foi pressionada pela alta do dólar, que subiu forte hoje e",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/mercados/dolar-alta-minerio-petroleo-queda-real/"
+      }
+    ]
   },
   {
     "source": "G1 - Política",
@@ -3938,18 +3956,6 @@
       "XP"
     ],
     "summary": "O diretor da Polícia Federal, Andrei Rodrigues vai entregar hoje ao STF os relatórios finais sobre os ministros citados no celular de Daniel Vorcaro. Tenho a impressão de que o ministro Edson Fachin pode pedir os três relatórios iniciais rejeitados pelo diretor da PF, a não ser q",
-    "relevance": 5
-  },
-  {
-    "source": "Estadão",
-    "title": "Veremos Copom sereno por mais tempo, mas não se descarta alta de juro em 2027, diz ex-diretor do BC",
-    "link": "https://www.estadao.com.br/economia/copom-alta-juro-2027-reinaldo-le-grazie/",
-    "description": "",
-    "published": "2026-11-18T17:17:43+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Veremos Copom sereno por mais tempo, mas não se descarta alta de juro em 2027, diz ex-diretor do BC",
     "relevance": 5
   }
 ]
