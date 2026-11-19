@@ -1,5 +1,31 @@
 [
   {
+    "source": "Poder360",
+    "title": "Governo Lula tenta preservar acordo do ajuste fiscal na Câmara",
+    "link": "https://www.poder360.com.br/poder-governo/governo-lula-tenta-preservar-acordo-do-ajuste-fiscal-na-camara/",
+    "description": "Planalto tenta preservar texto aprovado no Senado, com Guimarães cobrando rapidez e Moretti e Sidônio na articulação da proposta",
+    "published": "2026-11-19T00:01:03+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Planalto tenta preservar texto aprovado no Senado, com Guimarães cobrando rapidez e Moretti e Sidônio na articulação da proposta",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Motta marca para próxima segunda-feira votação de pacote fiscal na Câmara",
+    "link": "https://oglobo.globo.com/economia/noticia/2026/11/18/motta-marca-para-proxima-segunda-feira-votacao-de-pacote-fiscal-na-camara.ghtml",
+    "description": "O presidente da Câmara, Hugo Motta (Republicanos-PB), marcou para a próxima segunda-feira a votação do projeto de ajuste fiscal, que deve gerar uma economia de cerca de R$ 50 bilhões, e foi apresentado pelo governo do presidente Luiz Inácio da Silva. A iniciativa foi aprovada pelo Senado nesta quinta-feira. \nSe não for alterado pelos deputados, o projeto segue para a sanção de Lula. O relator na Câmara é o deputado Mauro Benevides Filho (União-CE), que disse que não vai alterar o texto vindo do Senado.\nO texto é considerado crucial pela equipe econômica do governo para atender o equilíbrio fiscal. \nA iniciativa, que foi protocolada no Senado na semana passada, é de autoria do senador Jaques Wagner (PT-BA) e teve a relatoria do líder do MDB no Senado, Eduardo Braga (AM). O texto foi elaborado pela equipe econômica do governo federal. O ministro do Planejamento, Bruno Moretti, tem sido o principal porta-voz do texto.\nEntre as principais medidas previstas estão mudanças nas regras de contingenciamento de despesas, permitindo que o governo bloqueie gastos para perseguir o centro da meta fiscal, e não apenas o limite inferior da margem de tolerância. \nO texto também prevê uma nova rodada de redução de benefícios tributários, ampliando de 10% para 20% o corte linear de incentivos fiscais, além de estabelecer limites para compensações tributárias.\nNa terça-feira, mesmo com as críticas de setores do petismo, vocalizadas principalmente pelo deputado Lindbergh Farias (PT-RJ), a bancada do PT na Câmara decidiu que vai orientar a favor do projeto.\nA proposta tem medidas que devem ajudar a equipe econômica no esforço de alcançar o centro da meta de resultado primário a partir do ano que vem, em vez de apenas ficar dentro da margem de tolerância. Nesse aspecto, a estimativa é de obter uma economia de R$ 45,1 bilhões a R$ 56,1 bilhões em 2027.",
+    "published": "2026-11-18T23:50:39+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O presidente da Câmara, Hugo Motta (Republicanos-PB), marcou para a próxima segunda-feira a votação do projeto de ajuste fiscal, que deve gerar uma economia de cerca de R$ 50 bilhões, e foi apresentado pelo governo do presidente Luiz Inácio da Silva. A iniciativa foi aprovada pel",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Política",
     "title": "Fachin vai encaminhar relatórios da PF sobre ministros citados em mensagens de Vorcaro para PGR",
     "link": "https://g1.globo.com/politica/noticia/2026/11/18/fachin-relatorios-da-pf-sobre-ministros-citados-em-mensagens-de-vorcaro-pgr.ghtml",
@@ -52,7 +78,13 @@
       "Economia"
     ],
     "summary": "Hugo Motta anunciou há pouco que vai convocar uma sessão extraordinária para a próxima segunda-feira, para que a Câmara comece a discutir e apreciar o projeto de fiscal do governo, aprovado pelo Senado nesta quarta-feira. Matéria exclusiva para assinantes. Para ter acesso complet",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/11/18/motta-convocara-sessao-extraordinaria-para-votar-projeto-do-ajuste-fiscal-na-proxima-segunda-feira.ghtml"
+      }
+    ]
   },
   {
     "source": "Folha",
@@ -141,7 +173,13 @@
       "Politica"
     ],
     "summary": "O relator do projeto de lei complementar (PLP) do ajuste fiscal no Senado, Eduardo Braga (MDB-AM), afirmou que, com as mudanças acatadas por ele durante a votação do texto, a economia viabilizada pelo PLP cai de R$ 56 bilhões para R$ 50 bilhões. O plenário da Casa concluiu a vota",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-congresso/impacto-do-ajuste-fiscal-caiu-de-r-56-bi-para-r-50-bi-diz-braga/"
+      }
+    ]
   },
   {
     "source": "G1 - Economia",
@@ -168,7 +206,13 @@
       "Politica"
     ],
     "summary": "O Senado aprovou nesta quarta-feira um projeto de lei que estabelece novas regras para o compartilhamento de postes de energia elétrica por empresas de internet e telecomunicações. A proposta determina a regularização de instalações clandestinas em até cinco anos, estabelece limi",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/11/18/senado-aprova-novas-regras-para-compartilhamento-de-postes-entre-empresas-de-energia-e-teles.ghtml"
+      }
+    ]
   },
   {
     "source": "Financial Times",
@@ -2745,6 +2789,10 @@
       {
         "source": "Valor Econômico",
         "link": "https://valor.globo.com/politica/noticia/2026/11/18/pf-entrega-ao-stf-todos-os-relatorios-sobre-ministros-da-corte-citados-no-caso-master.ghtml"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/fachin-vai-enviar-a-pgr-relatorios-sobre-ministros-do-stf-e-master/"
       }
     ]
   },
@@ -2977,6 +3025,18 @@
       "Politica"
     ],
     "summary": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), reverteu a decisão do Tribunal Superior Eleitoral (TSE) que havia aberto caminho para manter o mandato de deputadas eleitas em uma chapa com fraude à cota de gênero, caso elas não tenham envolvimento com irregular",
+    "relevance": 5
+  },
+  {
+    "source": "CNBC",
+    "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+    "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+    "description": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
+    "published": "2026-11-18T15:13:39+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
     "relevance": 5
   },
   {
@@ -4034,42 +4094,6 @@
       "Politica"
     ],
     "summary": "Mesmo com a consolidação da política de cotas nos últimos anos, a distância proporcional entre brancos e negros com ensino superior completo aumentou no país em uma década, segundo dados divulgados nesta quarta-feira pelo Instituto Brasileiro de Geografia e Estatística (IBGE).  E",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Sete em cada dez pessoas assassinadas em 2024 foram homens pretos ou pardos; jovens são as principais vítimas",
-    "link": "https://oglobo.globo.com/brasil/noticia/2026/11/18/sete-em-cada-dez-pessoas-assassinadas-em-2024-foram-homens-pretos-ou-pardos-jovens-sao-as-principais-vitimas.ghtml",
-    "description": "Aproximadamente sete a cada dez (71,3%) brasileiros assassinados em 2024 foram homens pretos ou pardos. O dado faz parte da terceira edição do estudo Desigualdades Sociais por Cor ou Raça no Brasil, do Instituto Brasileiro de Geografia e Estatística (IBGE), divulgado nesta quarta-feira.\nAo todo, foram registrados 42,6 mil homicídios naquele ano. O número de casos envolvendo homens pretos ou pardos é quase quatro vezes maior do que as ocorências contra homens brancos (18,4%) em 2024. \nTambém houve diferença por cor ou raça entre as mulheres: pretas ou pardas corresponderam a 5,8% dos homicídios e as brancas, 2,5%.\n\nA pesquisa traz dados do Sistema de Informação sobre Mortalidade (SIM), do Ministério da Saúde. Os resultados apontam o acesso desigual de distintos grupos populacionais a bens e serviços básicos, assim como violação de direitos, assegurados pela Constituição.\nDesigualdade racial\nOs dados também revelam que a violência atinge com mais gravidade os homens jovens de 15 a 29 anos, principalmente pretos ou pardos (105,5 mortes por 100 mil habitantes). Esse número é 3,2 vezes maior do que a taxa observada entre os homens brancos da faixa etária (33,2 por 100 mil) em 2024.\nA pesquisa também aponta que a diferença nas taxas de homicídios entre brancos e pardos — de 2,9 vezes em 2024 — aumentou ao longo da série histórica, uma vez que em 2012 era de 2,4.\nTaxa de homicídio\nEditoria de Arte",
-    "published": "2026-11-18T13:00:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Aproximadamente sete a cada dez (71,3%) brasileiros assassinados em 2024 foram homens pretos ou pardos. O dado faz parte da terceira edição do estudo Desigualdades Sociais por Cor ou Raça no Brasil, do Instituto Brasileiro de Geografia e Estatística (IBGE), divulgado nesta quarta",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Homens brancos concentram vitórias para cargos eletivos no país, mostra IBGE",
-    "link": "https://valor.globo.com/brasil/noticia/2026/11/18/homens-brancos-concentram-vitorias-para-cargos-eletivos-no-pais-mostra-ibge.ghtml",
-    "description": "As eleições locais e nacionais em 2022 e 2024 mostraram alta concentração de homens brancos eleitos no país. A conclusão é da pesquisa “Desigualdades Sociais por Cor ou Raça no Brasil”, divulgada nesta quarta-feira (18) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).\nAs pessoas  brancas foram maioria de prefeitos eleitos, representando 70,2% em 2016; 67,1% em 2020; e 65,9% em 2024. Desse total, 57,1% dos eleitos em 2024 foram homens brancos, enquanto 8,8% foram mulheres brancas.\nOs homens pardos foram 24% dos prefeitos eleitos há dois anos, enquanto as mulheres pardas foram 4% do total. Os homens pretos representaram 2% e as mulheres pretas, 0,4%. A seguir, os homens e mulheres amarelos e os homens indígenas tiveram o mesmo percentual, de 0,1% dos prefeitos eleitos, enquanto as mulheres indígenas foram 0% no arredondamento estatístico — apenas uma prefeita indígena foi eleita no país em 2024.\n\nO IBGE destacou que há “um pouco menos” de concentração racial e por sexo para vereadores, com relativo aumento de mulheres eleitas, que passaram de 13,5% em 2016 para 16,1% em 2020 e 18,1 % em 2024. Também cresceram os eleitos de cor ou raça preta (respectivamente 5,0%, 6,2% e 6,9% nos três anos) e parda (37,1%, 38,6% e 38,9%).\nA desigualdade ficou mais marcada na eleição de deputados e deputadas estaduais e federais. Nas eleições de 2022, 2,4% das pessoas eleitas para os legislativos estaduais eram mulheres pretas e 4,6% mulheres pardas. Também em 2022, foram 2,5% de mulheres pretas e 3,1% de mulheres pardas eleitas deputadas federais.",
-    "published": "2026-11-18T13:00:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "As eleições locais e nacionais em 2022 e 2024 mostraram alta concentração de homens brancos eleitos no país. A conclusão é da pesquisa “Desigualdades Sociais por Cor ou Raça no Brasil”, divulgada nesta quarta-feira (18) pelo Instituto Brasileiro de Geografia e Estatística (IBGE).",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "IBGE: Medicina é o curso com mais alunos brancos, e Pedagogia tem maioria de pretos e pardos; veja outras formações",
-    "link": "https://oglobo.globo.com/brasil/noticia/2026/11/18/ibge-medicina-e-o-curso-com-mais-alunos-brancos-e-pedagogia-tem-maioria-de-pretos-e-pardos-veja-outras-formacoes.ghtml",
-    "description": "O curso de Medicina tem a maior proporção de alunos brancos no país, enquanto o de Pedagogia é o que mais reúne estudantes pretos e pardos. É o que mostra a terceira edição do estudo Desigualdades Sociais por Cor ou Raça no Brasil, divulgado nesta quarta-feira pelo Instituto Brasileiro de Geografia e Estatística (IBGE).  Os dados consideram apenas a modalidade presencial. \nApesar das cotas: cresce distância entre brancos e negros com ensino superior na última década\nPolítica: homens brancos são maioria dos eleitos entre prefeitos, vereadores, deputados, senadores e governadores\nEnsino: Desigualdade racial resiste mesmo entre alunos de escola privada e com alta renda\nDistância aumentou: Pardos têm três vezes mais risco de serem vítimas de homicídio do que brancos\nO levantamento foi feito com informações do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep) e do Censo do Ensino Superior 2024. Os pesquisadores agruparam os dez cursos com maior quantidade de matrículas para mensurar a representação por cor e raça entre os alunos. \nVeja os números abaixo:\n\nOs cursos com mais brancos\nOs dados revelam que seis em cada dez (61,2%) matriculados em Medicina na modalidade presencial são brancos. Por outro lado, 3,1% são pretos, 23,2% pardos, 1,6% amarelos e 0,4% indígenas. Já 10,5% preferiram não declarar.\nBanco Mundial: Proporção de pretos e pardos abaixo da linha de extrema pobreza é o dobro da de brancos\nMobilidade: Maior parte dos brasileiros que vivem deslocamentos longos para o trabalho são pretos, pardos e indígenas\nOs cursos de Veterinária (56,2%), Odontologia (52,5%), Computação (51,2%) e Psicologia (50,7%) também têm mais da metade dos matriculados brancos. \nMaioria de pretos e pardos\nO estudo mostra que apenas dois dos dez cursos possuem maior quantidade de alunos que se autodeclaram como pretos ou pardos do que os que se dizem brancos: Pedagogia e Enfermagem.\nPedagogia: 51,9% são pretos ou pardos, enquanto 36% se declaram brancos.\nEnfermagem: 43,3% são pretos ou pardos, enquanto 40,3% se declaram brancos.\nQuadro de professores\nQuanto aos docentes em exercício no ensino superior, a pesquisa mostra a persistência da desigualdade racial, apesar da ocorrência de uma queda em pouco mais de uma década. Em 2010, havia 4,11 docentes brancos para cada docente preto ou pardo. Quatorze anos depois, esse índice foi de 2,7.\nDesigualdade entre brasileiros com ensino superior: homens brancos ganham o dobro por hora que mulheres pretas, diz IBGE\nJovens são mais vítimas: Sete em cada dez pessoas assassinadas em 2024 foram homens pretos ou pardos",
-    "published": "2026-11-18T13:00:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O curso de Medicina tem a maior proporção de alunos brancos no país, enquanto o de Pedagogia é o que mais reúne estudantes pretos e pardos. É o que mostra a terceira edição do estudo Desigualdades Sociais por Cor ou Raça no Brasil, divulgado nesta quarta-feira pelo Instituto Bras",
     "relevance": 5
   }
 ]
