@@ -1,5 +1,30 @@
 [
   {
+    "source": "Estadão",
+    "title": "Empresa de genro de Trump investe US$ 33,5 milhões no Nubank",
+    "link": "https://www.estadao.com.br/economia/negocios/empresa-de-genro-de-trump-investe-us-335-milhoes-no-nubank/",
+    "description": "",
+    "published": "2026-11-19T00:44:18+00:00",
+    "themes": [
+      "XP"
+    ],
+    "summary": "Empresa de genro de Trump investe US$ 33,5 milhões no Nubank",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Motta afirma que Câmara iniciará discussão do 'plano Moretti' na próxima segunda (23)",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/motta-afirma-que-camara-iniciara-discussao-do-plano-moretti-na-proxima-segunda-23.shtml",
+    "description": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), afirmou nesta quarta-feira (18) que convocará uma sessão extraordinária para a próxima segunda-feira (23) para iniciar as discussões sobre o \"plano Moretti\", pacote de ajuste fiscal do governo Lula (PT).\nLeia mais (11/18/2026 - 21h02)",
+    "published": "2026-11-19T00:02:00+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "O presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), afirmou nesta quarta-feira (18) que convocará uma sessão extraordinária para a próxima segunda-feira (23) para iniciar as discussões sobre o \"plano Moretti\", pacote de ajuste fiscal do governo Lula (PT).\nLeia mai",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Governo Lula tenta preservar acordo do ajuste fiscal na Câmara",
     "link": "https://www.poder360.com.br/poder-governo/governo-lula-tenta-preservar-acordo-do-ajuste-fiscal-na-camara/",
@@ -65,6 +90,10 @@
       {
         "source": "G1 - Política",
         "link": "https://g1.globo.com/politica/noticia/2026/11/18/motta-convoca-sessao-para-votar-ajuste-fiscal-na-segunda-feira.ghtml"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-congresso/camara-inicia-votacao-de-ajuste-fiscal-na-2a-feira/"
       }
     ]
   },
@@ -193,7 +222,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O Tribunal de Contas da União (TCU) manteve os Correios na lista de alto risco da administração pública federal diante do \"severo agravamento\" da situação econômico-financeira da estatal, que acumula prejuízos líquidos nos últimos anos. A lista é divulgada a cada dois anos.\n\"A ma",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/noticia/2026/11/18/tcu-mantem-correios-em-lista-de-alto-risco-e-aponta-retrocesso.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -4070,30 +4105,6 @@
       "Politica"
     ],
     "summary": "As pessoas pretas e pardas são maioria entre os trabalhadores desocupados e subutilizados do país, recebem menos por hora trabalhada, estão mais expostas à pobreza e continuam sendo as principais vítimas da violência letal no Brasil. É o que mostra a terceira edição do estudo \"De",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Pardos têm três vezes mais risco de serem vítimas de homicídio do que brancos; distância aumentou em uma década",
-    "link": "https://oglobo.globo.com/brasil/noticia/2026/11/18/pardos-tem-tres-vezes-mais-risco-de-serem-vitimas-de-homicidio-do-que-brancos-distancia-aumentou-em-uma-decada.ghtml",
-    "description": "Uma pessoa parda tem três vezes mais risco de ser vítimas de homicídio do que uma branca. É o que mostra a terceira edição do estudo Desigualdades Sociais por Cor ou Raça no Brasil, do Instituto Brasileiro de Geografia e Estatística (IBGE), divulgado nesta quarta-feira.\nA pesquisa traz dados de 2024 do Sistema de Informação sobre Mortalidade (SIM), do Ministério da Saúde. Os resultados apontam o acesso desigual de distintos grupos populacionais a bens e serviços básicos, assim como violação de direitos, assegurados pela Constituição.\nOs dados apontam que a diferença nas taxas de homicídios entre brancos e pardos — de 2,9 vezes em 2024 — aumentou ao longo da série histórica, uma vez que em 2012 era de 2,4.\nTaxa de homicídio\nEditoria de Arte\nO estudo aponta que 71,3% dos 42,6 mil homicídios ocorridos no país em 2024 tiveram como vítimas homens pretos ou pardos. O total é quase quatro vezes maior do que os registros de assassinatos de homens brancos (18,4%). \nTambém houve diferença por cor ou raça entre as mulheres: pretas ou pardas corresponderam a 5,8% dos homicídios e as brancas, 2,5%.\n\nSegundo o IBGE, a taxa de homicídio — mortes por 100 mil habitantes — representa \"um indicador amplamente utilizado para medir a incidência de violência física, em sua forma mais extrema, nos países, regiões e grupos populacionais\".",
-    "published": "2026-11-18T13:00:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Uma pessoa parda tem três vezes mais risco de ser vítimas de homicídio do que uma branca. É o que mostra a terceira edição do estudo Desigualdades Sociais por Cor ou Raça no Brasil, do Instituto Brasileiro de Geografia e Estatística (IBGE), divulgado nesta quarta-feira.\nA pesquis",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "IBGE: apesar das cotas, cresce distância entre brancos e negros com ensino superior na última década",
-    "link": "https://oglobo.globo.com/brasil/noticia/2026/11/18/ibge-apesar-das-cotas-cresce-distancia-entre-brancos-e-negros-com-ensino-superior-na-ultima-decada.ghtml",
-    "description": "Mesmo com a consolidação da política de cotas nos últimos anos, a distância proporcional entre brancos e negros com ensino superior completo aumentou no país em uma década, segundo dados divulgados nesta quarta-feira pelo Instituto Brasileiro de Geografia e Estatística (IBGE).  Essa diferença, que era de 12 pontos percentuais em 2016, alcançou 14,6 em 2025. \nEm dez anos, diz o estudo, houve avanço na proporção de pessoas com ensino superior nos três segmentos da sociedade. Em 2016, 19% da população branca tinha ensino superior. Isso cresceu 7,3 pontos e chegou a 26,3% em 2025.  Já a variação de pretos foi de 7% para 11,7% — um aumento de 4,7 pontos. E, entre pardos, de 7,1% para12,2% — subindo apenas 5,1 pontos no período. \nVeja os dados:\n\n \nRedução da desigualdade no ensino básico\nA pesquisa indica, por outro lado, uma redução da distância no ensino básico. A diferença no segmento sem instrução ou com fundamental incompleto, que variava entre 12,6 e 12,9 pontos percentuais em 2016, passou para a casa de 8,6 a 8,7. \nJá na parcela da população com ensino médio completo ou superior incompleto, houve uma inversão. Em 2016, eram 35,1% da população branca, enquanto 31,9% e 30,9% dos pretos e pardos, respectivamente, estavam nessa faixa de instrução. Cerca de uma década depois, em 2025, ocupavam este nível 37,6% dos brancos, 40,4% dos pretos e 38,9% dos pardos. \nOs dados estão presentes na terceira edição do estudo Desigualdades Sociais por Cor ou Raça no Brasil, do IBGE. A pesquisa aponta o acesso desigual de distintos grupos populacionais a bens e serviços básicos, assim como violação de direitos, assegurados pela Constituição. São utilizados dados da Pesquisa Nacional por Amostra de Domicílios Contínua.",
-    "published": "2026-11-18T13:00:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Mesmo com a consolidação da política de cotas nos últimos anos, a distância proporcional entre brancos e negros com ensino superior completo aumentou no país em uma década, segundo dados divulgados nesta quarta-feira pelo Instituto Brasileiro de Geografia e Estatística (IBGE).  E",
     "relevance": 5
   }
 ]
