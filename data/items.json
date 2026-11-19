@@ -99,6 +99,18 @@
     "relevance": 5
   },
   {
+    "source": "Financial Times",
+    "title": "Hong Kong trading house Jardines weighs first private equity fund",
+    "link": "https://www.ft.com/content/82e63f96-3a5e-47d1-9fca-9f3401903abe?syn-25a6b1a6=1",
+    "description": "194-year-old conglomerate is transitioning from owner-operator of Asian businesses to investment group",
+    "published": "2026-11-19T03:02:33+00:00",
+    "themes": [
+      "Asset"
+    ],
+    "summary": "194-year-old conglomerate is transitioning from owner-operator of Asian businesses to investment group",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Quem é Xangô, orixá que ganhou escultura no Supremo Tribunal Federal",
     "link": "https://oglobo.globo.com/brasil/noticia/2026/11/19/quem-e-xango-orixa-que-ganhou-escultura-no-supremo-tribunal-federal.ghtml",
@@ -3021,7 +3033,13 @@
       "XP"
     ],
     "summary": "O então CEO do Banco Master, Daniel Vorcaro, tratou em novembro de 2024 com uma diretora da instituição financeira sobre presentear os filhos do diretor-geral da Polícia Federal (PF), Andrei Rodrigues, com ingressos para o Grande Prêmio São Paulo de Fórmula 1 daquele ano. Meses a",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/politica/ao-vivo/diretor-pf-andrei-rodrigues-senado-crise-policia-federal-troca-delegados.ghtml"
+      }
+    ]
   },
   {
     "source": "Financial Times",
@@ -4037,18 +4055,6 @@
       "Politica"
     ],
     "summary": "O Simulador do Sisu 2026 é uma ferramenta do GLOBO que ajuda a descobrir se a sua nota no Exame Nacional de Ensino Médio (Enem) é suficiente para conseguir o curso que você sonha no Sistema de Seleção Unificada (Sisu). A ferramenta informa a nota de corte de todos os cursos do an",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Conversa com Lula faz Andrei mudar de posição e confirmar presença no Senado",
-    "link": "https://g1.globo.com/politica/blog/gerson-camarotti/post/2026/11/18/conversa-com-lula-faz-andrei-mudar-de-posicao-e-confirmar-presenca-no-senado.ghtml",
-    "description": "Depois de ter negado que iria nesta quarta-feira (18) a uma audiência com comissões do Senado, o diretor da Polícia Federal, Andrei Rodrigues, mudou de posição. A mudança ocorreu após reunião com o presidente Luiz Inácio Lula da Silva na noite de terça-feira (17). \nA decisão de comparecimento foi confirmada ao Senado, que também ouvirá o ministro da Justiça, Wellington Lima e Silva, sobre a decisão da PF de refazer relatórios com citações a ministros do Supremo Tribunal Federal (STF) no caso Master. \nAndrei também será questionado sobre as mudanças dos delegados que fizeram os relatórios originais com citações aos ministros do STF Alexandre de Moraes, Dias Toffoli e Nunes Marques. \nNo Palácio do Planalto, a avaliação é a de que Andrei deve dar as explicações ao Senado, sobretudo, para tirar, da Polícia Federal, a crise do caso Master no STF.\nAndrei Rodrigues nega crise e reforça autonomia da Polícia Federal\nO presidente Lula queria ouvir do próprio Andrei as explicações sobre o episódio, por isso o convocou para a reunião na noite desta terça. \nA avaliação de um interlocutor do petista é que o movimento da PF no caso acabou desgastando a própria imagem do governo. \nAndrei Rodrigues, diretor-geral da PF, em imagem de arquivo\nAndressa Anholete/Agência Senado",
-    "published": "2026-11-18T14:02:20+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Depois de ter negado que iria nesta quarta-feira (18) a uma audiência com comissões do Senado, o diretor da Polícia Federal, Andrei Rodrigues, mudou de posição. A mudança ocorreu após reunião com o presidente Luiz Inácio Lula da Silva na noite de terça-feira (17). \nA decisão de c",
     "relevance": 5
   }
 ]
