@@ -685,6 +685,18 @@
     "relevance": 5
   },
   {
+    "source": "Money Times",
+    "title": "IPO da Anthropic não conseguiu animar Wall Street, e bolsas de NY fecham em forte queda",
+    "link": "https://www.moneytimes.com.br/ipo-da-anthropic-nao-conseguiu-animar-wall-street-e-bolsas-de-ny-fecham-em-forte-queda-davs/",
+    "description": "A gigantesca oferta pública inicial (IPO) da Anthropic não conseguiu reacender o entusiasmo em relação à inteligência artificial (IA) e animar Wall Street. As bolsas de Nova York fecharam a sessão desta quinta-feira (19) em forte queda. Com a aversão ao risco dominando os mercados, o S&#38;P 500 registrou a quinta sessão consecutiva de perdas. [&#8230;]",
+    "published": "2026-11-19T21:48:00+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A gigantesca oferta pública inicial (IPO) da Anthropic não conseguiu reacender o entusiasmo em relação à inteligência artificial (IA) e animar Wall Street. As bolsas de Nova York fecharam a sessão desta quinta-feira (19) em forte queda. Com a aversão ao risco dominando os mercado",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Dinâmica do mercado pode forçar BC e Tesouro a atuarem de forma coordenada para reduzir turbulência, diz ex-coordenador da dívida",
     "link": "https://oglobo.globo.com/economia/fabio-graner/post/2026/11/dinamica-do-mercado-pode-forcar-bc-e-tesouro-a-atuarem-de-forma-coordenada-para-reduzir-turbulencia-diz-ex-coordenador-da-divida.ghtml",
@@ -2603,6 +2615,10 @@
       {
         "source": "Valor Econômico",
         "link": "https://valor.globo.com/empresas/noticia/2026/11/19/aes-da-nvidia-no-conseguem-superar-ressaca-aps-sada-de-huang-e-estreia-da-anthropic-no-ajuda.ghtml"
+      },
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/empresas/noticia/2026/11/19/acoes-da-anthropic-estreiam-em-alta-de-34percent-na-nasdaq-cotadas-a-us-11150.ghtml"
       }
     ]
   },
@@ -3955,19 +3971,6 @@
       "XP"
     ],
     "summary": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa\nThe post Renda Fixa Hoje: CDBs pagam até 16,59% ao ano na XP; veja outros rendimentos appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Ibovespa pode subir 20%, mas Itaú BBA não vê motivos para comprar; banco rebaixa bolsa para neutra",
-    "link": "https://www.moneytimes.com.br/ibovespa-pode-subir-20-mas-itau-bba-nao-ve-motivos-para-comprar-banco-rebaixa-bolsa-para-neutra-miql/",
-    "description": "A bolsa brasileira está barata em relação à sua média histórica, mas isso não foi suficiente para manter o país entre as principais apostas do Itaú BBA na América Latina. O banco rebaixou a recomendação para as ações brasileiras de overweight (equivalente à compra) para neutra, diante da piora das perspectivas para a economia, da [&#8230;]",
-    "published": "2026-11-19T13:48:02+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "A bolsa brasileira está barata em relação à sua média histórica, mas isso não foi suficiente para manter o país entre as principais apostas do Itaú BBA na América Latina. O banco rebaixou a recomendação para as ações brasileiras de overweight (equivalente à compra) para neutra, d",
     "relevance": 5
   }
 ]
