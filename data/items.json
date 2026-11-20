@@ -1,5 +1,66 @@
 [
   {
+    "source": "Financial Times",
+    "title": "Anthropic’s Wall Street stimulus fades",
+    "link": "https://www.ft.com/content/4f7cf30e-5c9a-489f-bd01-2283a6c9d0e9?syn-25a6b1a6=1",
+    "description": "Shares of some banks and private capital groups tying their fortunes to AI have fallen this year",
+    "published": "2026-11-20T05:00:26+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Shares of some banks and private capital groups tying their fortunes to AI have fallen this year",
+    "relevance": 5
+  },
+  {
+    "source": "Financial Times",
+    "title": "Oil loses grip on bond markets as inflation ‘virus’ spreads",
+    "link": "https://www.ft.com/content/562e278e-1e12-49d2-b7f7-91a289ffd660?syn-25a6b1a6=1",
+    "description": "Tight correlation between crude prices and borrowing costs has broken down",
+    "published": "2026-11-20T05:00:26+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Tight correlation between crude prices and borrowing costs has broken down",
+    "relevance": 5
+  },
+  {
+    "source": "Financial Times",
+    "title": "Rejoining the EU would boost UK economy twice as much as Swiss-style deal",
+    "link": "https://www.ft.com/content/22c052bf-a9dc-49f3-a18b-02b5dc490635?syn-25a6b1a6=1",
+    "description": "Much of the benefit would come from a rebound in business investment, which was damaged by Brexit-related uncertainty",
+    "published": "2026-11-20T05:00:17+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Much of the benefit would come from a rebound in business investment, which was damaged by Brexit-related uncertainty",
+    "relevance": 5
+  },
+  {
+    "source": "Financial Times",
+    "title": "China prepares to restart US private equity investments after pullback",
+    "link": "https://www.ft.com/content/73e7d386-c5d1-4422-8abb-adbfaf92aa0d?syn-25a6b1a6=1",
+    "description": "Beijing’s flagship sovereign wealth fund leading push for special terms to protect against disaster scenarios to unlock funding",
+    "published": "2026-11-20T05:00:07+00:00",
+    "themes": [
+      "Asset"
+    ],
+    "summary": "Beijing’s flagship sovereign wealth fund leading push for special terms to protect against disaster scenarios to unlock funding",
+    "relevance": 5
+  },
+  {
+    "source": "G1 - Economia",
+    "title": "Dívidas viraram uma bola de neve? Entenda os riscos da inadimplência e como sair dela",
+    "link": "https://g1.globo.com/g1-explica/noticia/2026/11/20/dividas-viraram-uma-bola-de-neve-entenda-os-riscos-da-inadimplencia-e-como-sair-dela.ghtml",
+    "description": "Dívida e inadimplência: entenda a diferença e como escapar da bola de neve\nTer dívidas faz parte da vida financeira da maioria das pessoas. O problema começa quando elas deixam de ser pagas e viram inadimplência — sinal de que a dívida cresceu além da capacidade de pagamento, seja por juros altos, prazos curtos, imprevistos ou queda de renda.\nEsse desequilíbrio já afeta mais do que as famílias. Com muitos atrasos, a inadimplência tende a encarecer o crédito, desacelerar a economia e dificultar contratações. \nSair desse ciclo exige estratégia, como priorizar dívidas caras, renegociar e evitar novos compromissos. \nNeste vídeo, você vai entender os riscos da inadimplência e como escapar da bola de neve. Toda semana, o g1 Explica simplifica a economia, o mercado financeiro e a educação financeira, mostrando como tudo isso afeta o seu bolso.",
+    "published": "2026-11-20T05:00:00+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Dívida e inadimplência: entenda a diferença e como escapar da bola de neve\nTer dívidas faz parte da vida financeira da maioria das pessoas. O problema começa quando elas deixam de ser pagas e viram inadimplência — sinal de que a dívida cresceu além da capacidade de pagamento, sej",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Reconfiguração partidária exige nova estratégia de Lula",
     "link": "https://oglobo.globo.com/blogs/vera-magalhaes/coluna/2026/11/reconfiguracao-partidaria-exige-nova-estrategia-de-lula.ghtml",
@@ -3910,67 +3971,6 @@
       "Economia"
     ],
     "summary": "Quase todos os principais bancos da zona do euro apresentam deficiências na forma como gerenciam sua segurança cibernética, afirmou o Banco Central Europeu (BCE) nesta quinta-feira, acrescentando que os órgãos de supervisão darão atenção especial aos ataques baseados em inteligên",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Ao vivo: BNDES apresenta resultados do 3º trimestre de 2026",
-    "link": "https://www.poder360.com.br/poder-economia/ao-vivo-bndes-apresenta-resultados-do-3o-trimestre-de-2026/",
-    "description": "Banco é presidido por Aloizio Mercadante, cotado para assumir o Ministério da Fazenda no próximo governo Lula",
-    "published": "2026-11-19T14:00:01+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Banco é presidido por Aloizio Mercadante, cotado para assumir o Ministério da Fazenda no próximo governo Lula",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Nagel, do BCE, diz que alta dos juros em dezembro enviaria sinal claro de controle da inflação",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/19/nagel-do-bce-diz-que-alta-dos-juros-em-dezembro-enviaria-sinal-claro-de-controle-da-inflao.ghtml",
-    "description": "Um novo aumento dos juros na zona do euro pelo Banco Central Europeu (BCE) em dezembro enviaria um sinal firme do compromisso da autoridade monetária em controlar a inflação, disse o presidente do banco central da Alemanha, Bundesbank, e integrante do conselho do BCE, Joachim Nagel.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-19T13:58:30+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Um novo aumento dos juros na zona do euro pelo Banco Central Europeu (BCE) em dezembro enviaria um sinal firme do compromisso da autoridade monetária em controlar a inflação, disse o presidente do banco central da Alemanha, Bundesbank, e integrante do conselho do BCE, Joachim Nag",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Morre Paulo Gallotti, ministro aposentado do STJ, aos 81 anos",
-    "link": "https://www.poder360.com.br/poder-justica/morre-paulo-gallotti-ministro-aposentado-do-stj-aos-81-anos/",
-    "description": "Juiz integrou a Corte de 1999 a 2009 e presidiu entidades de classe; velório foi realizado em Florianópolis",
-    "published": "2026-11-19T13:51:20+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Juiz integrou a Corte de 1999 a 2009 e presidiu entidades de classe; velório foi realizado em Florianópolis",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Do tomate à carne: o que está por trás da alta e da queda dos preços dos alimentos",
-    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/do-tomate-a-carne-o-que-esta-por-tras-da-alta-e-da-queda-dos-precos-dos-alimentos.ghtml",
-    "description": "O tomate virou o assunto do momento. Com uma alta de quase 90% no ano e o quilo na faixa dos R$ 20 — em alguns locais, beirando os R$ 30 —, ele se tornou a face mais visível de uma inflação de alimentos que cresce bem acima do IPCA e tende a acelerar sob o impacto do El Niño. A inflação do grupo Alimentação e bebidas acumulada em 2026 até outubro (último dado divulgado pelo IBGE) é de 5,46%, enquanto o IPCA é de 4,10%. A alta da alimentação no domicílio, que tem maior peso no orçamento das famílias mais pobres, é ainda maior: 5,81%. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-19T13:49:35+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O tomate virou o assunto do momento. Com uma alta de quase 90% no ano e o quilo na faixa dos R$ 20 — em alguns locais, beirando os R$ 30 —, ele se tornou a face mais visível de uma inflação de alimentos que cresce bem acima do IPCA e tende a acelerar sob o impacto do El Niño. A i",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Renda Fixa Hoje: CDBs pagam até 16,59% ao ano na XP; veja outros rendimentos",
-    "link": "https://www.infomoney.com.br/onde-investir/renda-fixa-hoje-confira-as-taxas-de-cdbs-lcis-e-lcas-na-xp-nesta-quinta-feira-19/",
-    "description": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa\nThe post Renda Fixa Hoje: CDBs pagam até 16,59% ao ano na XP; veja outros rendimentos appeared first on InfoMoney.",
-    "published": "2026-11-19T13:48:58+00:00",
-    "themes": [
-      "Mercado Financeiro",
-      "XP"
-    ],
-    "summary": "Conheça as taxas de investimentos prefixados, pós-fixados e híbridos em renda fixa\nThe post Renda Fixa Hoje: CDBs pagam até 16,59% ao ano na XP; veja outros rendimentos appeared first on InfoMoney.",
     "relevance": 5
   }
 ]
