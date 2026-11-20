@@ -1,5 +1,29 @@
 [
   {
+    "source": "Folha",
+    "title": "Ações da Anthropic caem enquanto temores sobre o boom da IA dominam os mercados",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/acoes-da-anthropic-caem-enquanto-temores-sobre-o-boom-da-ia-dominam-os-mercados.shtml",
+    "description": "As ações da Anthropic caíram 6% nas negociações do pré-mercado nesta sexta-feira (20), apagando parte dos ganhos de sua estreia espetacular, enquanto os temores dos investidores sobre a durabilidade do boom da IA continuavam a dominar os mercados acionários globais.\nLeia mais (11/20/2026 - 08h48)",
+    "published": "2026-11-20T11:48:00+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "As ações da Anthropic caíram 6% nas negociações do pré-mercado nesta sexta-feira (20), apagando parte dos ganhos de sua estreia espetacular, enquanto os temores dos investidores sobre a durabilidade do boom da IA continuavam a dominar os mercados acionários globais.\nLeia mais (11",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Ressaca do IPO? Ações da Anthropic caem 6% e colocam em xeque apetite por IA",
+    "link": "https://www.moneytimes.com.br/queda-da-anthropic-apos-estreia-no-mercado-traz-choque-de-realidade-para-setor-de-ia-igdl/",
+    "description": "As ações da Anthropic caíam 6% nas negociações pré-mercado nesta sexta-feira (20), registrando uma retração após uma forte estreia na bolsa que levou o laboratório de IA ao ranking das empresas mais valiosas dos EUA, mas não conseguiu reavivar o entusiasmo dos investidores pelo setor. Amplamente vista como um indicador do setor de IA, a [&#8230;]",
+    "published": "2026-11-20T11:45:51+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "As ações da Anthropic caíam 6% nas negociações pré-mercado nesta sexta-feira (20), registrando uma retração após uma forte estreia na bolsa que levou o laboratório de IA ao ranking das empresas mais valiosas dos EUA, mas não conseguiu reavivar o entusiasmo dos investidores pelo s",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Lagarde diz que Europa deve enfrentar riscos antes que eles se concretizem",
     "link": "https://valor.globo.com/financas/noticia/2026/11/20/lagarde-diz-que-europa-deve-enfrentar-riscos-antes-que-eles-se-concretizem.ghtml",
@@ -22,6 +46,19 @@
       "Economia"
     ],
     "summary": "Stedile defende mudança geracional na Esplanada: “Quando o PT, a CUT e o MST foram fundados, éramos jovens. Agora, estamos acomodados”",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Caso Master: Mendonça pede a Fachin para abrir sigilo de relatório da PF sobre menções ao seu nome no celular de Vorcaro",
+    "link": "https://oglobo.globo.com/politica/noticia/2026/11/20/caso-master-mendonca-pede-a-fachin-para-abrir-sigilo-de-relatorio-da-pf-sobre-mencoes-ao-seu-nome-no-celular-de-vorcaro.ghtml",
+    "description": "O ministro André Mendonça, do Supremo Tribunal Federal, pediu ao presidente da Corte, Edson Fachin, que torne público o relatório da Polícia Federal sobre suas citações no caso Master. Em ofício enviado a Fachin nesta sexta, Mendonça diz \"renunciar expressamente\" ao sigilo das informações contidas no documento.\nO relatório sobre Mendonça foi enviado à Procuradoria-Geral da República para manifestação, assim como os documentos que citam os ministros Alexandre de Moraes, Dias Toffolli e Kassio Nunes Marques. \nAo todo, a PF elaborou dez relatórios, cada um referente a um ministro, mas Fachin determinou o arquivamento de seis deles por entender que não apresentavam relevância jurídica suficiente para justificar novos encaminhamentos.\nO presidente do Supremo abriu um procedimento na Corte para cada um dos relatórios enviados à PGR e impôs sigilo aos processos. Apesar do segredo, Fachin enviou uma cópia das referências aos ministros aos seus respectivos gabinetes. Cada magistrado recebeu apenas a documentação relativa ao seu próprio caso.\nAgora, caberá à PGR apontar se considera necessária a abertura de investigações, a realização de novas diligências ou o arquivamento dos documentos. O prazo inicial determinado por Fachin para as manifestações é de 15 dias, mas ele pode acabar se estendendo.\nOs documentos foram produzidos pela PF a pedido feito no mês passado por Fachin, que determinou a elaboração de relatórios estritamente descritivos sobre menções aos ministros no caso Master, acompanhadas de seus contextos, mas sem juízo de valor por parte dos investigadores. \nO objetivo do ministro é pôr fim a uma crise institucional que afeta o STF há quase um ano, desde as primeiras revelações relacionadas ao suposto envolvimento de magistrados com Vorcaro.",
+    "published": "2026-11-20T11:16:10+00:00",
+    "themes": [
+      "Politica",
+      "XP"
+    ],
+    "summary": "O ministro André Mendonça, do Supremo Tribunal Federal, pediu ao presidente da Corte, Edson Fachin, que torne público o relatório da Polícia Federal sobre suas citações no caso Master. Em ofício enviado a Fachin nesta sexta, Mendonça diz \"renunciar expressamente\" ao sigilo das in",
     "relevance": 5
   },
   {
@@ -543,7 +580,13 @@
       "Politica"
     ],
     "summary": "A menos de um mês da entrada em vigor da nova jornada de trabalho, o presidente Luiz Inácio Lula da Silva publicou ontem o decreto que regulamenta o fim da escala 6x1, mas o texto deixa em aberto pontos centrais da transição para o modelo 5x2, como a aplicação dos dois dias de de",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/legislacao/noticia/2026/11/20/decreto-do-fim-da-escala-6-x-1-nao-regula-tres-pontos-principais-dizem-especialistas.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -847,6 +890,18 @@
       "Economia"
     ],
     "summary": "Much of the benefit would come from a rebound in business investment, which was damaged by Brexit-related uncertainty",
+    "relevance": 5
+  },
+  {
+    "source": "Financial Times",
+    "title": "Why Britons can feel smugger than the French",
+    "link": "https://www.ft.com/content/b9b16f2f-f88e-454e-aa85-c131256310fe?syn-25a6b1a6=1",
+    "description": "It’s not a competition, but if it were, the UK economy would be winning",
+    "published": "2026-11-20T05:00:17+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "It’s not a competition, but if it were, the UK economy would be winning",
     "relevance": 5
   },
   {
@@ -3834,56 +3889,6 @@
       "Economia"
     ],
     "summary": "O objetivo do leilão de US$ 1 bilhão realizado pelo Banco Central no início da tarde desta quinta-feira (19) foi garantir o funcionamento do mercado, que apresentou desequilíbrios de liquidez que impediam a correta formação de preços.\n Matéria exclusiva para assinantes. Para ter ",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Economia",
-    "title": "Ministro afirma que pacote fiscal dará segurança ao mercado, mas admite possíveis novas medidas para cumprir metas",
-    "link": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/11/19/moreti-fiscal-mercado.ghtml",
-    "description": "Pacote fiscal dará segurança ao mercado, afirma Bruno Moretti\nUm dia depois de o Senado concluir a votação do pacote de ajuste fiscal do governo, o ministro do Planejamento e Orçamento, Bruno Moretti, defendeu que as medidas darão mais segurança ao mercado sobre o cumprimento das metas fiscais, mas admitiu que o governo poderá adotar novas ações para equilibrar as contas públicas.\nEm entrevista à GloboNews nesta quinta-feira (19), Moretti afirmou que o governo trabalha com a expectativa de que o projeto gere uma economia de aproximadamente R$ 50 bilhões em 2027 e nos anos seguintes. Segundo ele, o conjunto de medidas permitirá ao país buscar o centro da meta fiscal no próximo ano e avançar no controle da dívida pública.\n🗒️ Tem alguma sugestão de reportagem? Mande para o g1\nA declaração ocorre em meio às dúvidas de agentes do mercado financeiro sobre a capacidade do pacote de conter o crescimento da dívida. Embora a aprovação no Senado tenha representado uma vitória política para o governo, economistas consideram que as medidas ainda são limitadas diante do tamanho do desafio fiscal.\n\"Isso nos dá segurança de deixar as contas no azul, com o orçamento equilibrado\", afirmou Moretti.\nO que muda com o pacote fiscal? O projeto reúne medidas para reduzir gastos públicos, limitar benefícios tributários e ampliar os mecanismos de bloqueio de despesas. A intenção do governo é abrir espaço no Orçamento e ajudar a cumprir as metas fiscais. O texto ainda precisa ser aprovado pela Câmara.\nGoverno prevê estabilização da dívida em até três anos\nQuestionado sobre a diferença entre as projeções do governo e as expectativas do mercado para a trajetória da dívida pública, Moretti afirmou que a expectativa oficial é de estabilização nos próximos dois a três anos.\n\"O relevante é que os agentes econômicos saibam e tenham confiança de que a trajetória da dívida vai se estabilizar ao longo do tempo\", afirmou.\nQual será o maior desafio da economia para o próximo governo? g1 ouviu mais de 20 economistas\n➡️ O ministro, no entanto, não apresentou uma estimativa de quanto a dívida bruta representará do Produto Interno Bruto (PIB) em cada ano nem detalhou quando ela começaria a cair.\nMoretti também afirmou que o alcance do projeto vai além do próximo ano e que as medidas devem dar ao governo instrumentos para manter as contas públicas sob controle nos anos seguintes.\n\"É um instrumento não para fechar o orçamento do ano que vem, como alguns disseram apenas, mas para que a gente possa dar a quem estiver à frente desse assunto nos próximos anos instrumentos para cumprir as metas\", declarou.\nGoverno não descarta novos ajustes \nAo ser questionado se o governo pretende ampliar o ajuste fiscal, Moretti afirmou que o assunto ainda está em discussão e que eventuais propostas adicionais serão debatidas com o Presidente Lula.\nO ministro evitou antecipar quais medidas poderiam ser adotadas, mas reforçou que o governo está disposto a agir caso considere necessário para cumprir o planejamento fiscal.\n\"Se forem necessárias medidas adicionais para que esse cenário seja efetivo, nós as faremos\", afirmou.\nEle também disse que o governo pretende chegar ao fim de um eventual próximo mandato de Lula com superávit primário em torno de 1,5% do PIB.\nO que é superávit primário?  É quando o governo arrecada mais do que gasta, sem contar os juros da dívida pública. A diferença positiva representa uma economia que ajuda a pagar os juros e a controlar o endividamento do país.\nEmendas parlamentares entram no ajuste\nMoretti também comentou a possibilidade de restringir o crescimento das emendas parlamentares como parte do esforço fiscal.\nSegundo ele, o projeto amplia o conjunto de despesas que podem ser bloqueadas ou contingenciadas para ajudar o governo a cumprir a meta fiscal, incluindo emendas parlamentares impositivas.\nNa entrevista, Moretti mencionou ainda a proposta do governo de implementar a tarifa zero no transporte público aos fins de semana e feriados. \nSegundo ele, a ideia é reservar R$ 12 bilhões já previstos no Orçamento para emendas impositivas para financiar a medida, sem criar uma nova despesa para os cofres públicos.\nPacote fiscal segue para a Câmara\nO Senado concluiu na quarta-feira (18) a votação do projeto de ajuste fiscal (PLP 299/2026). A proposta foi aprovada em turno suplementar por 69 votos a favor e dois contrários e agora segue para análise da Câmara dos Deputados.\nDurante a votação, os senadores rejeitaram três destaques da oposição que tentavam alterar pontos do texto.\nUm deles propunha reduzir de 2% para 0,6% o limite de crescimento real das despesas públicas. \nOs outros buscavam retirar o teto para pagamentos de compensações previdenciárias e impedir mudanças nas regras de utilização de créditos tributários.\nJá um destaque sobre os repasses previstos na Lei Kandir foi retirado após um acordo. A lei, de 1996, isentou as exportações de produtos do ICMS e prevê compensações da União a estados e municípios pelas perdas de arrecadação. \nO projeto original reduzia de R$ 4 bilhões para R$ 1 bilhão o valor anual desses repasses entre 2027 e 2030. Após a negociação, o piso foi elevado para R$ 2 bilhões por ano, com previsão de pagamento das diferenças até 2030.\n➡️ Com as mudanças negociadas durante a tramitação, a estimativa de impacto fiscal do projeto ficou em cerca de R$ 50 bilhões em 2027, abaixo dos R$ 56 bilhões inicialmente projetados pelo relator, senador Eduardo Braga (MDB-AM).\nO governo agora tenta garantir que a Câmara aprove o texto sem mudanças de mérito, para acelerar a tramitação e permitir que a proposta siga para sanção do presidente Lula.\n* Colaborou Ismael Jales",
-    "published": "2026-11-19T16:05:13+00:00",
-    "themes": [
-      "Economia",
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Pacote fiscal dará segurança ao mercado, afirma Bruno Moretti\nUm dia depois de o Senado concluir a votação do pacote de ajuste fiscal do governo, o ministro do Planejamento e Orçamento, Bruno Moretti, defendeu que as medidas darão mais segurança ao mercado sobre o cumprimento das",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Dólar nas alturas: Banco Central intervém em leilão de US$ 1 bilhão",
-    "link": "https://www.moneytimes.com.br/dolar-nas-alturas-banco-central-intervem-em-leilao-de-us-1-bilhao/",
-    "description": "O Banco Central vendeu US$ 1 bilhão em leilão à vista realizado no início da tarde desta quinta-feira, conforme comunicado publicado pela autarquia. A taxa de corte do leilão foi de 5,860000 e foram aceitas cinco propostas. As propostas do leilão, convocado durante momento de pressão no mercado de câmbio, foram acolhidas entre 12h03 e [&#8230;]",
-    "published": "2026-11-19T16:04:46+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O Banco Central vendeu US$ 1 bilhão em leilão à vista realizado no início da tarde desta quinta-feira, conforme comunicado publicado pela autarquia. A taxa de corte do leilão foi de 5,860000 e foram aceitas cinco propostas. As propostas do leilão, convocado durante momento de pre",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Pressa para votar pacote fiscal busca evitar paralisia da máquina pública neste fim de ano e viabilizar ajustes no Orçamento para 2027",
-    "link": "https://oglobo.globo.com/economia/fabio-graner/post/2026/11/pressa-para-votar-pacote-fiscal-busca-evitar-paralisia-da-maquina-publica-neste-fim-de-ano-e-viabilizar-ajustes-no-orcamento-para-2027.ghtml",
-    "description": "A pressa do governo em concluir a votação do projeto de lei complementar que traz medidas para melhorar as contas públicas até a próxima segunda-feira tem, entre outros motivos, uma preocupação em evitar uma paralisia da máquina pública no fim deste ano.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-19T16:03:49+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "A pressa do governo em concluir a votação do projeto de lei complementar que traz medidas para melhorar as contas públicas até a próxima segunda-feira tem, entre outros motivos, uma preocupação em evitar uma paralisia da máquina pública no fim deste ano.  Matéria exclusiva para a",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Economia",
-    "title": "Anthropic: fortunas de fundadores disparam e somam R$ 817,5 bilhões com estreia na bolsa; veja ranking",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-fortunas-de-fundadores-disparam-apos-estreia-na-bolsa-veja-ranking.ghtml",
-    "description": "Dario Amodei, CEO da Anthropic\nReuters/Carlos Barria\nOs sete cofundadores da Anthropic, criadora do chatbot de inteligência artificial (IA) Claude, viram suas fortunas crescerem 40,2% e atingirem, juntas, US$ 139,5 bilhões (R$ 817,5 bilhões) nesta quinta-feira (19). A alta ocorreu com a estreia da empresa na Nasdaq, bolsa americana que reúne gigantes da tecnologia.\nCom a oferta pública inicial de ações (IPO, na sigla em inglês), a Anthropic alcançou uma avaliação de mercado de US$ 1,5 trilhão (cerca de R$ 8,8 trilhões).\n📱Favorite o g1 no Google e acompanhe as principais notícias do dia\nNa véspera, os patrimônios dos sete somavam US$ 99,5 bilhões (R$ 583,1 bilhões). O aumento conjunto foi de US$ 40 bilhões (R$ 234,4 bilhões), segundo os valores estimados pela Forbes.\nA fortuna do CEO Dario Amodei saltou de US$ 14,1 bilhões (R$ 82,6 bilhões), na véspera, para US$ 19,8 bilhões (R$ 116 bilhões). O avanço de 40,4% fez o executivo passar da 210ª para a 140ª posição no ranking de bilionários da revista. (Veja o top 10 mais abaixo)\nAnthropic estreia na bolsa avaliada em US$ 1,5 trilhão\nJá Daniela Amodei, cofundadora e presidente da Anthropic, viu sua fortuna crescer de US$ 14,2 bilhões (R$ 83,2 bilhões) para US$ 19,8 bilhões (R$ 116 bilhões), uma alta de 39,4%. Com isso, passou da 203ª para a 138ª colocação na lista.\nOs outros cinco cofundadores também registraram aumento no patrimônio. E a explicação é simples: quanto mais a empresa vale, maior é o valor da participação de cada um e, consequentemente, de suas fortunas, segundo os cálculos da Forbes.\nApós o IPO, o maior patrimônio individual entre eles é o de Tom Brown, com uma fortuna estimada em US$ 20,1 bilhões (R$ 117,8 bilhões). Veja abaixo:\nTom Brown, cofundador e diretor de capacidade computacional\nFortuna em 18/11: US$ 14,3 bilhões\nPosição em 18/11: 197ª\nFortuna em 19/11: US$ 20,1 bilhões\nPosição em 19/11: 131ª\nAlta da fortuna: 40,6%\nChristopher Olah, cofundador e líder de pesquisas sobre interpretabilidade da IA\nFortuna em 18/11: US$ 14,2 bilhões\nPosição em 18/11: 203ª\nFortuna em 19/11: US$ 20 bilhões\nPosição em 19/11: 133ª\nAlta da fortuna: 40,8%\nDario Amodei, cofundador e CEO\nFortuna em 18/11: US$ 14,1 bilhões\nPosição em 18/11: 210ª\nFortuna em 19/11: US$ 19,8 bilhões\nPosição em 19/11: 140ª\nAlta da fortuna: 40,4%\nJared Kaplan, cofundador e diretor científico\nFortuna em 18/11: US$ 14,2 bilhões\nPosição em 18/11: 203ª\nFortuna em 19/11: US$ 19,9 bilhões\nPosição em 19/11: 135ª\nAlta da fortuna: 40,1%\nJack Clark, cofundador e diretor de benefício público\nFortuna em 18/11: US$ 14,2 bilhões\nPosição em 18/11: 203ª\nFortuna em 19/11: US$ 19,9 bilhões\nPosição em 19/11: 136ª\nAlta da fortuna: 40,1%\nSam McCandlish, cofundador e arquiteto-chefe\nFortuna em 18/11: US$ 14,3 bilhões\nPosição em 18/11: 197ª\nFortuna em 19/11: US$ 20 bilhões\nPosição em 19/11: 132ª\nAlta da fortuna: 39,9%\nDaniela Amodei, cofundadora e presidente\nFortuna em 18/11: US$ 14,2 bilhões\nPosição em 18/11: 203ª\nFortuna em 19/11: US$ 19,8 bilhões\nPosição em 19/11: 138ª\nAlta da fortuna: 39,4%\nA Anthropic, criadora do Claude, foi fundada em 2021 por sete ex-funcionários da concorrente OpenAI. Hoje, eles têm entre 34 e 43 anos. O mais novo é Christopher Olah, enquanto Dario Amodei, CEO da companhia, é o mais velho do grupo.\nVEJA OS PERFIS DE CADA UM:\nQuem são os sete jovens fundadores da Anthropic que estão prestes a se tornarem multibilionários\nO maior IPO da história?\nA Anthropic faz nesta quinta-feira (19) a maior estreia de uma empresa na bolsa de valores da história. A criadora do Claude movimentou US$ 107 bilhões (R$ 629 bilhões) com a venda de ações, superando os US$ 85,7 bilhões (R$ 504,1 bilhões) captados pela SpaceX em junho.\nA empresa arrecadou US$ 81,3 bilhões (R$ 478,3 bilhões) com a venda de 980 milhões de ações, a um preço médio de US$ 83 (R$ 488) por papel. Além disso, levantou outros US$ 26 bilhões com a venda de ações para grandes investidores, como Google, Nvidia e AMD.\nFundada em 2021 e comandada por Dario Amodei, a Anthropic se tornou uma das principais concorrentes da OpenAI, criadora do ChatGPT.\nO crescimento da empresa acompanha a expansão do mercado de inteligência artificial, mas também aumenta a atenção dos investidores sobre os custos da tecnologia.\nSegundo documentos apresentados para a abertura de capital, a Anthropic assumiu compromissos de quase US$ 900 bilhões com empresas como Amazon e Google para garantir a infraestrutura necessária ao funcionamento de seus sistemas de inteligência artificial.\nTop 10 mais ricos do mundo\nApesar do crescimento das fortunas dos cofundadores da Anthropic, os valores ainda estão muito distantes dos patrimônios dos 10 maiores bilionários do planeta.\nO ranking é liderado por Elon Musk, dono da Tesla e da SpaceX, seguido por Jeff Bezos, fundador da Amazon, e Larry Page, cofundador do Google.\nVeja abaixo:\nElon Musk (Tesla e SpaceX): US$ 918 bilhões\nJeff Bezos (Amazon): US$ 389,6 bilhões\nLarry Page (Google): US$ 243,7 bilhões\nSergey Brin (Google): US$ 224,3 bilhões\nMark Zuckerberg (Meta, dona do Facebook): US$ 214,7 bilhões\nMichael Dell (Dell Technologies): US$ 205,9 bilhões\nSteve Ballmer (Microsoft): US$ 160,9 bilhões\nWarren Buffett (Berkshire Hathaway): US$ 158,1 bilhões\nLarry Ellison (Oracle): US$ 156,8 bilhões\nAmancio Ortega (Inditex, dona da Zara): US$ 148,2 bilhões\nLogo da Anthropic em ilustração feita em junho de 2026.\nDado Ruvic/Reuters",
-    "published": "2026-11-19T16:02:12+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Dario Amodei, CEO da Anthropic\nReuters/Carlos Barria\nOs sete cofundadores da Anthropic, criadora do chatbot de inteligência artificial (IA) Claude, viram suas fortunas crescerem 40,2% e atingirem, juntas, US$ 139,5 bilhões (R$ 817,5 bilhões) nesta quinta-feira (19). A alta ocorre",
     "relevance": 5
   }
 ]
