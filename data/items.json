@@ -1,5 +1,56 @@
 [
   {
+    "source": "Folha",
+    "title": "Bolsas de Tóquio e Seul caem após Anthropic não conseguir dissipar temores sobre a IA",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bolsas-de-toquio-e-seul-caem-apos-anthropic-nao-conseguir-dissipar-temores-sobre-a-ia.shtml",
+    "description": "As bolsas de Tóquio e Seul fecharam esta sexta-feira (20) em queda, em linha com Wall Street, onde a estreia bem-sucedida do gigante americano Anthropic no mercado acionário não conseguiu dissipar as preocupações com a inteligência artificial.\nLeia mais (11/20/2026 - 07h58)",
+    "published": "2026-11-20T10:58:00+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "As bolsas de Tóquio e Seul fecharam esta sexta-feira (20) em queda, em linha com Wall Street, onde a estreia bem-sucedida do gigante americano Anthropic no mercado acionário não conseguiu dissipar as preocupações com a inteligência artificial.\nLeia mais (11/20/2026 - 07h58)",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "OAB discorda de Dino e pede que STF julgue Van Hattem presencialmente",
+    "link": "https://www.poder360.com.br/poder-justica/oab-discorda-de-dino-e-pede-que-stf-julgue-van-hattem-presencialmente/",
+    "description": "Entidade quer reverter decisão do ministro e assegurar manifestação dos advogados em tempo real",
+    "published": "2026-11-20T10:45:55+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Entidade quer reverter decisão do ministro e assegurar manifestação dos advogados em tempo real",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "O caso Braskem na CVM",
+    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/11/o-caso-braskem-na-cvm.ghtml",
+    "description": "O processo na CVM que trata da apuração de responsabilidade de 33 administradores da Braskem pelos danos atribuídos à exploração de sal-gema em Maceió foi distribuído para o presidente da autarquia, Otto Lobo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-20T10:21:01+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "O processo na CVM que trata da apuração de responsabilidade de 33 administradores da Braskem pelos danos atribuídos à exploração de sal-gema em Maceió foi distribuído para o presidente da autarquia, Otto Lobo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o ",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "'Fora da Bolha': O papel da esquerda em um governo de esquerda e o racha no PL de Nikolas",
+    "link": "https://oglobo.globo.com/politica/noticia/2026/11/20/fora-da-bolha-o-papel-da-esquerda-em-um-governo-de-esquerda-e-o-racha-no-pl-de-nikolas.ghtml",
+    "description": "As críticas da esquerda ao ajuste fiscal do governo Lula (PT) e os impasses na escolha dos novos titulares dos ministérios após a reeleição do presidente foram assuntos do episódio desta semana do Fora da Bolha, videocast semanal do GLOBO sobre política. O programa também discutiu a busca de Lula por apoio dos partidos do Centrão, em meio a movimentos do bolsonarismo na Câmara e no Senado, além da queda de braço envolvendo a indicação da cadeira vaga desde o ano passado no Supremo Tribunal Federal (STF).\nLeia também: Governo Lula avalia integrar Direitos Humanos ao Ministério da Justiça em novo desenho da Esplanada\n1 ano de caso Master: Da prisão de Vorcaro aos impactos no STF, veja a linha do tempo da crise\nOs participantes divergiram sobre as críticas feitas tanto pela esquerda, quanto pelo mercado financeiro em relação ao ajuste fiscal proposto pelo Planalto. O pacote foi aprovado pelo Senado e deve ser votado pela Câmara na semana que vem:\n— Qual é o papel da esquerda em um governo de esquerda? Quando você fala de movimento social e partido político, acho muito salutar ter a divergência. A esquerda tem direito de influir no debate e tentar trazer o governo para a esquerda. O problema é que as pessoas hoje em dia gravam vídeos para discordar do governo, em vez de fazer a divergência em reuniões internas — afirmou o editor de Política do GLOBO Thiago Prado.\nAssista ao programa:\nTodas as sextas-feiras pela manhã o videocast é publicado no site do GLOBO, no canal do jornal no YouTube e nas principais plataformas de áudio. Com participação da colunista Vera Magalhães, dos editores executivos Flávia Barbosa e Paulo Celso Pereira e do editor de Política e Brasil, Thiago Prado, o programa reúne análises e bastidores da política brasileira contados de forma direta e descontraída.",
+    "published": "2026-11-20T10:15:10+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro",
+      "XP"
+    ],
+    "summary": "As críticas da esquerda ao ajuste fiscal do governo Lula (PT) e os impasses na escolha dos novos titulares dos ministérios após a reeleição do presidente foram assuntos do episódio desta semana do Fora da Bolha, videocast semanal do GLOBO sobre política. O programa também discuti",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Depois de Musk dizer que não é mais 'MAGA', Trump defende empresário: \"Ele tem boas intenções\"",
     "link": "https://oglobo.globo.com/mundo/noticia/2026/11/20/depois-de-musk-dizer-que-nao-e-mais-maga-trump-defende-empresario-ele-tem-boas-intencoes.ghtml",
@@ -3837,56 +3888,6 @@
       "Economia"
     ],
     "summary": "A valorização do dólar frente ao real ganhou fôlego nesta semana, com a divisa já registrando alta de mais de 3%",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Pacote fiscal ‘tímido’ impede avanço do Ibovespa",
-    "link": "https://www.infomoney.com.br/mercados/pacote-fiscal-timido-impede-avanco-do-ibovespa/",
-    "description": "No Brasil, a agenda de indicadores está esvaziada, o que dá espaço para maior volatilidade\nThe post Pacote fiscal &#8216;tímido&#8217; impede avanço do Ibovespa appeared first on InfoMoney.",
-    "published": "2026-11-19T15:56:41+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "No Brasil, a agenda de indicadores está esvaziada, o que dá espaço para maior volatilidade\nThe post Pacote fiscal &#8216;tímido&#8217; impede avanço do Ibovespa appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Ouro oscila perto da mínima em 14 meses com temor de Fed mais duro",
-    "link": "https://www.infomoney.com.br/mercados/ouro-oscila-perto-da-minima-em-14-meses-com-temor-de-fed-mais-duro/",
-    "description": "Membros do Fed sinalizaram que os aumentos das taxas de juros provavelmente se estenderão até o próximo ano\nThe post Ouro oscila perto da mínima em 14 meses com temor de Fed mais duro appeared first on InfoMoney.",
-    "published": "2026-11-19T15:53:15+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Membros do Fed sinalizaram que os aumentos das taxas de juros provavelmente se estenderão até o próximo ano\nThe post Ouro oscila perto da mínima em 14 meses com temor de Fed mais duro appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Estou muito confortável na presidência do BNDES, diz Mercadante",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/19/estou-muito-confortvel-na-presidncia-do-bndes-diz-mercadante.ghtml",
-    "description": "O presidente do Banco Nacional de Desenvolvimento Econômico e Social (BNDES), Aloizio Mercadante, reiterou que não será ministro da Fazenda, nem do Planejamento, e que está “confortável” no comando do banco de fomento. \n\n\"Sou presidente do BNDES e estou muito confortável nessa função, principalmente com os resultados que nós estamos apresentando, isso nos motiva muito a seguir adiante com esse projeto\", disse, durante coletiva para apresentar os resultados do banco no ano até setembro.\n\nSobre comandar a Fazenda no quarto mandato do presidente Luiz Inácio Lula da Silva (PT), a partir de 2027, afirmou: \"Vi que o meu nome estava em primeiro na aposta para virar ministro da Fazenda, eu não posso ser ministro da Fazenda e também não irei para o Ministério do Planejamento.\"\nO presidente do BNDES, Aloizio Mercadante\nTomaz Silva/Agência Brasil",
-    "published": "2026-11-19T15:52:32+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O presidente do Banco Nacional de Desenvolvimento Econômico e Social (BNDES), Aloizio Mercadante, reiterou que não será ministro da Fazenda, nem do Planejamento, e que está “confortável” no comando do banco de fomento. \n\n\"Sou presidente do BNDES e estou muito confortável nessa fu",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Economia",
-    "title": "Anthropic estreia na Nasdaq com IPO recorde de US$ 81 bilhões e testa apetite de investidores por IA",
-    "link": "https://g1.globo.com/economia/noticia/2026/11/19/anthropic-estreia-na-nasdaq-investidores.ghtml",
-    "description": "Anthropic estreia na bolsa avaliada em US$ 1,5 trilhão\nA Anthropic, empresa americana responsável pelo desenvolvimento do chatbot Claude, estreou na bolsa Nasdaq nesta quinta-feira (19) com uma oferta pública inicial de ações (IPO, na sigla em inglês) avaliada em US$ 81 bilhões (R$ 481 bilhões). \nA operação é considerada um marco para o setor de inteligência artificial (IA) e coloca à prova o apetite dos investidores por empresas que desenvolvem a tecnologia.\n🗒️Tem alguma sugestão de reportagem? Mande para o g1\nA companhia vendeu 980 milhões de ações por US$ 83 (R$ 493) cada, acima da faixa inicial de US$ 70 (R$ 415,8) a US$ 78 (R$ 463,3) estabelecida para a oferta - no fechamento de mercado, a empresa finalizou o dia a US$ 97,17 (R$ 577) por ação.Com isso, alcançou uma avaliação de mercado de US$ 1,5 trilhão.\n🔎 O que é uma oferta pública de ações? É quando uma empresa oferece parte de seu capital a investidores, que podem comprar pequenas fatias do negócio por meio de ações. No caso da Anthropic, a operação marcou sua estreia na bolsa e abriu espaço para captar dinheiro no mercado.\nO valor captado pode chegar a US$ 93,5 bilhões (R$ 555,3 bilhcaso os bancos responsáveis pela operação exerçam integralmente a opção de compra de ações adicionais.\nO CEO da Anthropic, Dario Amodei, e a presidente e cofundadora da Anthropic, Daniela Amodei, celebram ao lado da CEO da Nasdaq, Adena Friedman, enquanto a Anthropic, PBC (ANT) realiza sua oferta pública inicial (IPO) no NASDAQ MarketSite, em Nova York, EUA, em 19 de novembro de 2026.\nREUTERS/Brendan McDermid\nA estreia acontece em um momento de maior cautela dos investidores em relação ao setor. Nas últimas semanas, cresceram as preocupações sobre os custos elevados para desenvolver modelos de inteligência artificial e a capacidade das empresas de transformar esses investimentos em lucros.\nIPO coloca o setor de inteligência artificial à prova\nA operação da Anthropic é acompanhada de perto pelo mercado porque a empresa é uma das principais desenvolvedoras de inteligência artificial do mundo e deve se tornar uma referência para futuras ofertas de ações no setor.\n🔍 A concorrente OpenAI, responsável pelo ChatGPT, também estaria avaliando uma possível entrada na bolsa em 2027.\nA demanda pelos papéis da Anthropic foi forte antes da estreia. Negociações realizadas fora do mercado oficial, conhecidas como mercado cinza, indicavam que as ações poderiam subir cerca de 26% em relação ao preço definido no IPO, segundo corretoras ouvidas pela Reuters.\nA oferta também ocorre em meio a uma recuperação das ações de tecnologia nos Estados Unidos. Na abertura dos negócios desta quinta-feira, o índice Nasdaq subia mais de 1%.\nInvestidores avaliam se os gastos com IA vão dar retorno\nApesar do entusiasmo com a estreia, o setor enfrenta questionamentos sobre a sustentabilidade do crescimento.\nO desenvolvimento de sistemas avançados de inteligência artificial exige investimentos bilionários em chips, centros de dados e infraestrutura de computação. Parte dos investidores teme que os gastos cresçam mais rapidamente do que a capacidade das empresas de gerar receitas e lucros.\nUm dos pontos de atenção é a chamada circulação de recursos dentro do próprio setor. Acordos entre desenvolvedoras de IA, fabricantes de chips, empresas de computação em nuvem e investidores levantam dúvidas sobre quanto do crescimento é sustentado por uma demanda efetiva e quanto depende de investimentos entre empresas do mesmo ecossistema.\nA Anthropic, por exemplo, tem quase US$ 900 bilhões em compromissos de capacidade computacional com parceiros como Amazon e Google, segundo informações citadas pela Reuters.\nA empresa também alertou, em seu prospecto de abertura de capital, que a inteligência artificial pode apresentar comportamentos imprevisíveis e avançar mais rapidamente do que os mecanismos de supervisão.\nFundadores podem se tornar bilionários\nA estreia na bolsa também deve criar uma nova onda de milionários e bilionários ligados ao setor de inteligência artificial.\nCom base no preço de US$ 83 por ação, o presidente-executivo da Anthropic, Dario Amodei, e seus seis cofundadores, que juntos detêm cerca de 10% da companhia, passaram a ter participações avaliadas em quase US$ 150 bilhões, segundo cálculos da Reuters.\nA operação também representa um grande negócio para os bancos responsáveis pela oferta. Goldman Sachs e Morgan Stanley lideraram a operação, que deve render aos coordenadores cerca de US$ 550 milhões em taxas, de acordo com documentos regulatórios.\nTimes Square e The NASDAQ MarketSite, no dia em que a Anthropic, PBC (ANT) realiza sua oferta pública inicial (IPO), em Nova York, EUA, 19 de novembro de 2026.\nREUTERS/Mike Segar",
-    "published": "2026-11-19T15:51:37+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Anthropic estreia na bolsa avaliada em US$ 1,5 trilhão\nA Anthropic, empresa americana responsável pelo desenvolvimento do chatbot Claude, estreou na bolsa Nasdaq nesta quinta-feira (19) com uma oferta pública inicial de ações (IPO, na sigla em inglês) avaliada em US$ 81 bilhões (",
     "relevance": 5
   }
 ]
