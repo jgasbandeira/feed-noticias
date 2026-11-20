@@ -1,6 +1,18 @@
 [
   {
     "source": "Financial Times",
+    "title": "So, Anthropic is finally a public company. What now?",
+    "link": "https://www.ft.com/content/017044a9-76dc-4cb4-9259-a844a96f2757",
+    "description": "A blockbuster IPO postmortem",
+    "published": "2026-11-20T05:19:35+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A blockbuster IPO postmortem",
+    "relevance": 5
+  },
+  {
+    "source": "Financial Times",
     "title": "Anthropic’s Wall Street stimulus fades",
     "link": "https://www.ft.com/content/4f7cf30e-5c9a-489f-bd01-2283a6c9d0e9?syn-25a6b1a6=1",
     "description": "Shares of some banks and private capital groups tying their fortunes to AI have fallen this year",
@@ -3959,18 +3971,6 @@
       "Economia"
     ],
     "summary": "A expansão das redes sociais e do uso de telas entre crianças e adolescentes exige uma resposta conjunta de famílias, escolas e plataformas digitais para proteger o desenvolvimento infantil. A avaliação foi unânime entre os participantes do painel \"Infância hackeada – O que as re",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Quase todos os bancos da zona do euro enfrentam riscos tecnológicos, diz BCE",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/19/quase-todos-os-bancos-da-zona-do-euro-enfrentam-riscos-tecnolgicos-diz-bce.ghtml",
-    "description": "Quase todos os principais bancos da zona do euro apresentam deficiências na forma como gerenciam sua segurança cibernética, afirmou o Banco Central Europeu (BCE) nesta quinta-feira, acrescentando que os órgãos de supervisão darão atenção especial aos ataques baseados em inteligência artificial (IA) nos próximos dois anos.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-19T14:01:23+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Quase todos os principais bancos da zona do euro apresentam deficiências na forma como gerenciam sua segurança cibernética, afirmou o Banco Central Europeu (BCE) nesta quinta-feira, acrescentando que os órgãos de supervisão darão atenção especial aos ataques baseados em inteligên",
     "relevance": 5
   }
 ]
