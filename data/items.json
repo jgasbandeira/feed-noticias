@@ -2382,7 +2382,13 @@
       "Mercado Financeiro"
     ],
     "summary": "A tão aguardada oferta pública inicial (IPO, em inglês) da Anthropic, criadora do Claude, oficialmente aconteceu nesta quinta-feira (19). Sob o código ANT na Nasdaq e pelo BDR ANTH34 na B3, a oferta da companhia foi precificada em US$ 83 por ação. Com a abertura do mercado norte-",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/empresas/noticia/2026/11/19/acoes-da-anthropic-estreiam-em-alta-de-34percent-na-nasdaq-cotadas-a-us-11150.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3907,6 +3913,10 @@
       {
         "source": "NeoFeed",
         "link": "https://neofeed.com.br/negocios/anthropic-passa-no-teste-do-ipo-e-acoes-disparam-na-estreia-na-nasdaq/"
+      },
+      {
+        "source": "Folha",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/acoes-da-anthropic-estreiam-com-alta-de-mais-de-30-na-nasdaq.shtml"
       }
     ]
   },
