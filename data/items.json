@@ -1,5 +1,18 @@
 [
   {
+    "source": "O Globo",
+    "title": "Polícia trata morte de tio e sobrinho no Tatuapé, em SP, como possível execução",
+    "link": "https://oglobo.globo.com/brasil/noticia/2026/11/20/policia-trata-morte-de-tio-e-sobrinho-no-tatuape-em-sp-como-possivel-execucao.ghtml",
+    "description": "A Polícia Civil de São Paulo investiga a morte de dois homens em um restaurante no Tatuapé, Zona Leste da capital paulista, como possível execução. O caso ocorreu na noite de quinta-feira (19) e até o momento ninguém foi preso pelo crime.\nOs dois eram tio e sobrinho e foram identificados como Ramon Santos de Souza, de 34 anos de idade, e Luiz André de Souza dos Santos, de 20 anos de idade. Segundo a polícia, Ramon tinha possível envolvimento com tráfico de drogas no estado da Bahia. \nDocumentos da Justiça mostram que, em 2024, Ramon foi denunciado pelo Ministério Público da Bahia por supostamente controlar a distribuição do tráfico de cocaína na região da Chapada Diamantina, em cidades como Seabra, e foi apontado como membro da facção Bonde do Maluco. \nEm junho de 2026 o Tribunal de Justiça da Bahia o absolveu em um dos processos a qual ele responde por insuficiência de provas. Ramon era alvo, no entanto, de outras ações criminais na qual era acusado de atuar no tráfico naquela região.\nAlvejado ao lado do sobrinho\nRamon estava ao lado de Luiz André em um bar na Rua Coelho Lisboa, no Tatuapé, bairro da Zona Leste da capital paulista. A Polícia Militar foi acionada às 18h01 após relatos de disparos de arma de fogo no local. \nSegundo as informações apuradas, as vítimas ocupavam uma mesa na área externa do bar, ao lado de duas mulheres, quando os atiradores chegaram de surpresa. Com o barulho dos disparos, quem estava no local saiu correndo. Para a equipe, uma amiga relatou que os dois homens eram traficantes de drogas. O Corpo de Bombeiros e o Samu (Serviço de Atendimento Móvel de Urgência) também foram acionados, mas as equipes só puderam confirmar as mortes. \nDe acordo com a Secretaria de Segurança Pública, o caso foi registrado como homicídio no 30º DP do Tatuapé e segue sob investigação no Departamento Estadual de Homicídios e de Proteção à Pessoa (DHPP).",
+    "published": "2026-11-20T23:53:56+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "A Polícia Civil de São Paulo investiga a morte de dois homens em um restaurante no Tatuapé, Zona Leste da capital paulista, como possível execução. O caso ocorreu na noite de quinta-feira (19) e até o momento ninguém foi preso pelo crime.\nOs dois eram tio e sobrinho e foram ident",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Nvidia tem maior sequência de quedas desde 2008",
     "link": "https://www.poder360.com.br/poder-economia/nvidia-tem-maior-sequencia-de-quedas-desde-2008/",
@@ -239,6 +252,20 @@
       "Politica"
     ],
     "summary": "Dados do Ministério da Saúde mostram mulheres pretas têm menor proporção de gestações acompanhadas de consultas de pré-natal, enquanto seus bebês apresentam maiores proporções de prematuridade e de baixo peso ao nascer, em comparação aos filhos de mulheres brancas.\n🔎O levantament",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Em queda livre: Ibovespa em dólar (EWZ) despenca mais de 3% — e a culpa não é só do governo",
+    "link": "https://www.moneytimes.com.br/em-queda-livre-ibovespa-em-dolar-ewz-despenca-mais-de-3-e-a-culpa-nao-e-so-do-governo/",
+    "description": "O iShares MSCI Brazil ETF (EWZ), principal fundo de índice de ações brasileiras negociado nos Estados Unidos (EUA) e conhecido como uma espécie de &#8220;Ibovespa em dólar&#8220;, despencou mais de 3% nesta sexta-feira (20), dia em que os mercados brasileiros permaneceram fechados por conta do feriado da Consciência Negra. O índice encerrou a sessão com [&#8230;]",
+    "published": "2026-11-20T21:28:06+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro",
+      "XP"
+    ],
+    "summary": "O iShares MSCI Brazil ETF (EWZ), principal fundo de índice de ações brasileiras negociado nos Estados Unidos (EUA) e conhecido como uma espécie de &#8220;Ibovespa em dólar&#8220;, despencou mais de 3% nesta sexta-feira (20), dia em que os mercados brasileiros permaneceram fechado",
     "relevance": 5
   },
   {
@@ -3608,6 +3635,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/politica/noticia/2026/11/20/caso-master-apos-liberar-relatorio-de-mendonca-a-pedido-fachin-deve-manter-sob-sigilo-mencoes-a-outros-ministros.ghtml"
+      },
+      {
+        "source": "G1 - Política",
+        "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/20/fachin-retira-sigilo-de-relatorio-da-pf-com-11-conversas-que-citam-andre-mendonca-no-caso-master.ghtml"
       }
     ]
   },
@@ -3959,32 +3990,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Principal índice da B3 recuou a 166.376 pontos; alta do dólar e dos juros futuros pressionou o mercado acionário",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Moretti diz que supersalários serão regulamentados em 60 dias",
-    "link": "https://www.poder360.com.br/poder-economia/moretti-diz-que-supersalarios-serao-regulamentados-em-60-dias/",
-    "description": "Prazo começa a contar depois da sanção do pacote de ajuste fiscal; ministro defende combate a privilégios no funcionalismo",
-    "published": "2026-11-19T21:33:08+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "Prazo começa a contar depois da sanção do pacote de ajuste fiscal; ministro defende combate a privilégios no funcionalismo",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Novo Bonde São Paulo: empreendimento de R$ 2,8 bilhões vai conectar polos da região central",
-    "link": "https://oglobo.globo.com/conteudo-de-marca/acontece-em-sp/metropole/noticia/2026/11/19/novo-bonde-sao-paulo-empreendimento-de-r-28-bilhoes-vai-conectar-polos-da-regiao-central.ghtml",
-    "description": "São Paulo se prepara para resgatar uma parte de sua história e, ao mesmo tempo, dar um passo em direção ao futuro. Quase seis décadas após a desativação da última linha de bondes, em 1968, a cidade vai receber um novo sistema de transporte coletivo, agora com tecnologia moderna e propulsão elétrica. A Prefeitura de São Paulo autorizou, neste mês de novembro, o início da implantação do Bonde São Paulo, sistema de Veículo Leve Elétrico (VLE) que vai interligar polos de trabalho, comércio, serviços, cultura e lazer da região central da cidade.\nCom investimento estimado em R$ 2,8 bilhões, o projeto tem potencial para atender mais de 120 mil pessoas por dia, sem emissão de poluentes durante a operação. A expectativa é que contribua ainda para retirar de circulação cerca de 11 mil veículos na região central. O VLE terá duas linhas, 37 estações e 17,4 quilômetros de extensão, além de conexões com cinco terminais de ônibus, oito estações de metrô, duas estações da Companhia Paulista de Trens Metropolitanos (CPTM). Está prevista também a integração com o BRT da Radial Leste e a futura Linha Celeste do metrô.\nAnunciado oficialmente em 13 de novembro, o Bonde São Paulo integra o conjunto de iniciativas da Prefeitura voltadas à melhoria da mobilidade e à requalificação urbana da região central. A implantação será dividida em quatro fases, com conclusão prevista para março de 2029. A Linha Sibipiruna, identificada pela cor vermelha, terá 6,3 quilômetros de extensão e 14 estações. Já a Linha Jequitibá, azul, contará com 23 estações e percursos de 6,2 quilômetros no sentido anti-horário e 4,9 quilômetros no sentido horário.\nSegundo o secretário municipal de Mobilidade Urbana e Transporte, Celso Caldeira, a primeira fase, correspondente ao primeiro anel da Linha Sibipiruna, ficará pronta em dezembro de 2027. A segunda etapa tem conclusão prevista para junho de 2028. O primeiro anel da Linha Jequitibá, que corresponde à terceira fase, deverá ser concluído em dezembro de 2028. Por fim, a quarta e última etapa, que é o anel interno da Jequitibá, está programada para ser entregue em março de 2029.\nHistória, cultura e atividade econômica\nMais do que aproximar geograficamente bairros do Centro, o Bonde São Paulo deverá facilitar o acesso a diferentes locais que marcam a história e a diversidade da capital. Entre as regiões que serão conectadas estão áreas de forte identidade cultural e econômica, como a Liberdade, onde há presença de comunidades imigrantes asiáticas; o Bom Retiro, conhecido pelas lojas de roupas e pela diversidade cultural; e a Zona Cerealista, tradicional polo de comércio de alimentos. O VLE também atenderá áreas do entorno da Praça da República.\nO trajeto do novo sistema de transporte inclui pontos de referência da região central, como o Triângulo Histórico, o Mercado Municipal, a Rua 25 de Março, a Sala São Paulo, o Theatro Municipal e a Biblioteca Mário de Andrade. O traçado prevê ainda conexões com espaços públicos e áreas de convivência, como o Vale do Anhangabaú, o Parque da Luz, o Largo do Paissandu, o Largo do Arouche, a Praça da Sé e o Parque Dom Pedro II.\nA conexão entre esses pontos poderá estimular novos roteiros para quem visita São Paulo, além de facilitar a circulação de consumidores e trabalhadores. De acordo com estimativa da Subprefeitura da Sé, responsável pela administração de oito distritos — Bela Vista, Bom Retiro, Cambuci, Consolação, Liberdade, República, Sé e Santa Cecília —, cerca de 2 milhões de pessoas circulam diariamente por esse território.\nPara o diretor-presidente da SP Urbanismo, Pedro Fernandes, o projeto do VLE representa uma oportunidade de associar a memória da cidade a uma nova etapa de desenvolvimento urbano. \n– O Bonde São Paulo projeta um futuro muito mais interessante com essa integração que temos visto na região central, juntando o setor econômico, os comerciantes, o Governo do Estado e a Prefeitura, tudo isso de uma forma muito interessante para promover um futuro muito mais integrado e conectado – afirma.\nImagens de simulação VLE\nDivulgação\nMobilidade integrada e valorização do Centro\nAo projeto do VLE, somam-se outras iniciativas para estimular a circulação de moradores, trabalhadores e turistas no centro de São Paulo e reduzir a poluição atmosférica. Entre as ações previstas estão a implantação de 30 mil metros quadrados de áreas verdes, com o plantio de mais de mil árvores; a ampliação e reforma de 200 mil metros quadrados de calçadas; e a implantação de mais de 30 quilômetros de ciclovias integradas. \nAs intervenções também buscam melhorar as condições de acessibilidade e segurança viária. A Prefeitura estima que o conjunto de medidas contribua para reduzir em 20 mil toneladas as emissões anuais de CO₂.\nO Bonde São Paulo foi desenvolvido a partir de estudos de viabilidade, avaliação de alternativas tecnológicas, propostas funcionais e análises urbanísticas conduzidas pela Secretaria Municipal de Urbanismo e Licenciamento (SMUL) e pela São Paulo Urbanismo (SP Urbanismo). O empreendimento também exigiu a definição das condições institucionais, jurídicas e econômico-financeiras necessárias à implantação, operação e manutenção do sistema, em articulação com a Secretaria Municipal de Mobilidade Urbana e Transporte (SMT), a SPTrans e outros órgãos municipais.\nA tecnologia escolhida é a Digital Rail Transit (DRT), que utiliza veículos elétricos articulados sobre pneus, com sistema de guiamento digital e trilhos virtuais magnéticos. A solução dispensa a instalação de trilhos metálicos convencionais nas vias e demanda menos intervenções na infraestrutura viária. Os veículos serão equipados com assistentes de condução, câmeras com visão de 360 graus e sistemas que monitoram o funcionamento de seus componentes.\nA circulação em pista exclusiva é outro recurso previsto para dar mais fluidez aos deslocamentos. \n– Por circular em uma pista segregada, o VLE tem mais facilidade para se deslocar e fica menos tempo parado em congestionamentos. Com isso, o tempo de viagem é reduzido, que é justamente o que a população deseja – resume o diretor-presidente da Ambiental Transportes Urbanos, Harald Zwetkoff.",
-    "published": "2026-11-19T21:32:44+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "São Paulo se prepara para resgatar uma parte de sua história e, ao mesmo tempo, dar um passo em direção ao futuro. Quase seis décadas após a desativação da última linha de bondes, em 1968, a cidade vai receber um novo sistema de transporte coletivo, agora com tecnologia moderna e",
     "relevance": 5
   }
 ]
