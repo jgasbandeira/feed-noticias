@@ -1,5 +1,29 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Decisão sobre segundo turno no Rio segue aberta e pode gerar desgaste institucional, avaliam especialistas",
+    "link": "https://valor.globo.com/politica/noticia/2026/11/21/decisao-sobre-segundo-turno-no-rio-segue-aberta-e-pode-gerar-desgaste-institucional-avaliam-especialistas.ghtml",
+    "description": "A realização de uma eleição de segundo turno na disputa pelo governo do Rio de Janeiro ainda segue aberta com recursos pendentes no Supremo Tribunal Federal (STF). Porém, o prazo até a eleição suplementar marcada para 6 de dezembro é considerado apertado e uma eventual postergação da definição para 2027 pode gerar graves desgastes institucionais.  Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-21T10:14:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A realização de uma eleição de segundo turno na disputa pelo governo do Rio de Janeiro ainda segue aberta com recursos pendentes no Supremo Tribunal Federal (STF). Porém, o prazo até a eleição suplementar marcada para 6 de dezembro é considerado apertado e uma eventual postergaçã",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "CDR aprova ampliação de áreas de livre comércio no Acre",
+    "link": "https://www.poder360.com.br/poder-congresso/cdr-aprova-ampliacao-de-areas-de-livre-comercio-no-acre/",
+    "description": "Medida busca estimular o desenvolvimento econômico e a geração de emprego e renda em cidades acreanas",
+    "published": "2026-11-21T10:10:31+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Medida busca estimular o desenvolvimento econômico e a geração de emprego e renda em cidades acreanas",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "IPO histórico da Anthropic, Nvidia e balanços na B3; veja os destaques da semana",
     "link": "https://www.infomoney.com.br/onde-investir/ipo-historico-da-anthropic-nvidia-e-balancos-na-b3-veja-os-destaques-da-semana/",
@@ -3953,36 +3977,6 @@
       "Mercado Financeiro"
     ],
     "summary": "A Apple está desenvolvendo seu próprio agente autônomo de inteligência artificial capaz de realizar tarefas em nome dos usuários, visando entrar em um mercado em rápido crescimento que já está sendo explorado por empresas como Anthropic, OpenAI, Meta e Alphabet,, entre outras.\nA ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "China mantém taxas de juros de referência inalteradas",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/19/china-mantm-taxas-de-juros-de-referncia-inalteradas.ghtml",
-    "description": "A China manteve suas taxas de juros de referência inalteradas na sexta-feira, como vem ocorrendo há mais de um ano, uma vez que a redução das margens financeiras líquidas desencorajou as instituições a diminuir os custos dos empréstimos, apesar da fraca demanda por crédito.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-20T01:32:26+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "A China manteve suas taxas de juros de referência inalteradas na sexta-feira, como vem ocorrendo há mais de um ano, uma vez que a redução das margens financeiras líquidas desencorajou as instituições a diminuir os custos dos empréstimos, apesar da fraca demanda por crédito.\n Maté",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/economia/na-china-pboc-mantem-taxas-de-juros-de-referencia-pelo-18o-mes-consecutivo/"
-      }
-    ]
-  },
-  {
-    "source": "Bloomberg Línea",
-    "title": "Brasil tem chance de atrair capital, mas precisa fazer ‘lição’ de casa, diz BofA",
-    "link": "https://www.bloomberglinea.com.br/brasil/brasil-tem-chance-de-atrair-capital-mas-precisa-fazer-licao-de-casa-diz-bofa/",
-    "description": "O banco trabalha com um patamar de dólar de R$ 5,85 para o final de 2027",
-    "published": "2026-11-20T01:14:58+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O banco trabalha com um patamar de dólar de R$ 5,85 para o final de 2027",
     "relevance": 5
   }
 ]
