@@ -1,5 +1,17 @@
 [
   {
+    "source": "Poder360",
+    "title": "Protestos na França reúnem 150 mil, dizem organizadores",
+    "link": "https://www.poder360.com.br/poder-internacional/protestos-na-franca-reunem-150-mil-dizem-organizadores/",
+    "description": "Ministério do Interior francês contabilizou 82.500 manifestantes; mobilização perde força em 6º sábado consecutivo de atos",
+    "published": "2026-11-21T23:21:10+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Ministério do Interior francês contabilizou 82.500 manifestantes; mobilização perde força em 6º sábado consecutivo de atos",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Flamengo, decacampeão brasileiro de 2026: a campanha em desenhos, do primeiro tropeço ao título sobre o Palmeiras",
     "link": "https://oglobo.globo.com/esportes/especial/flamengo-decacampeao-brasileiro-de-2026-a-campanha-em-desenhos-do-primeiro-tropeco-ao-titulo-sobre-o-palmeiras.ghtml",
@@ -3959,23 +3971,5 @@
     ],
     "summary": "O presidente Lula tem demonstrado irritação com as especulações sobre a composição de seu novo governo, especialmente quando o assunto é o Ministério da Fazenda. Apesar disso, aliados do petista avaliam que o governador do Piauí, Rafael Fonteles (PT), voltou a ganhar força para a",
     "relevance": 5
-  },
-  {
-    "source": "Folha",
-    "title": "Bolsas de Tóquio e Seul caem após Anthropic não conseguir dissipar temores sobre a IA",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/bolsas-de-toquio-e-seul-caem-apos-anthropic-nao-conseguir-dissipar-temores-sobre-a-ia.shtml",
-    "description": "As bolsas de Tóquio e Seul fecharam esta sexta-feira (20) em queda, em linha com Wall Street, onde a estreia bem-sucedida do gigante americano Anthropic no mercado acionário não conseguiu dissipar as preocupações com a inteligência artificial.\nLeia mais (11/20/2026 - 07h58)",
-    "published": "2026-11-20T10:58:00+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "As bolsas de Tóquio e Seul fecharam esta sexta-feira (20) em queda, em linha com Wall Street, onde a estreia bem-sucedida do gigante americano Anthropic no mercado acionário não conseguiu dissipar as preocupações com a inteligência artificial.\nLeia mais (11/20/2026 - 07h58)",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/financas/noticia/2026/11/20/bolsas-da-europa-tem-queda-forte-com-pressao-sobre-acoes-de-ia-apos-estreia-da-anthropic.ghtml"
-      }
-    ]
   }
 ]
