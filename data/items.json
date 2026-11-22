@@ -1,5 +1,30 @@
 [
   {
+    "source": "Folha",
+    "title": "A infraestrutura invisível",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/ana-paula-vescovi/2026/11/a-infraestrutura-invisivel.shtml",
+    "description": "Quando economistas discutem os obstáculos ao crescimento brasileiro, a conversa quase sempre chega aos mesmos lugares: juros altos, carga tributária, baixa produtividade, desequilíbrio fiscal e deficiência da infraestrutura. Raramente chega ao sistema de Justiça.\nLeia mais (11/21/2026 - 23h00)",
+    "published": "2026-11-22T02:00:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Quando economistas discutem os obstáculos ao crescimento brasileiro, a conversa quase sempre chega aos mesmos lugares: juros altos, carga tributária, baixa produtividade, desequilíbrio fiscal e deficiência da infraestrutura. Raramente chega ao sistema de Justiça.\nLeia mais (11/21",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Pesquisa Focus e a política monetária",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/samuelpessoa/2026/11/pesquisa-focus-e-a-politica-monetaria.shtml",
+    "description": "A pesquisa Focus, conduzida semanalmente pelo BC (Banco Central), coleta, entre os economistas do mercado, a previsão da inflação e de outras variáveis econômicas importantes. As previsões são feitas para diversos horizontes.\nLeia mais (11/21/2026 - 23h00)",
+    "published": "2026-11-22T02:00:00+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "A pesquisa Focus, conduzida semanalmente pelo BC (Banco Central), coleta, entre os economistas do mercado, a previsão da inflação e de outras variáveis econômicas importantes. As previsões são feitas para diversos horizontes.\nLeia mais (11/21/2026 - 23h00)",
+    "relevance": 5
+  },
+  {
     "source": "G1 - Economia",
     "title": "Brasil recebe 7,5 milhões de turistas estrangeiros e supera meta do ano com dois meses de antecedência",
     "link": "https://g1.globo.com/jornal-nacional/noticia/2026/11/21/brasil-recebe-75-milhoes-de-turistas-estrangeiros-e-supera-meta-do-ano-com-dois-meses-de-antecedencia.ghtml",
@@ -3922,37 +3947,6 @@
       "Mercado Financeiro"
     ],
     "summary": "As ações da Anthropic caíram 6% nas negociações do pré-mercado nesta sexta-feira (20), apagando parte dos ganhos de sua estreia espetacular, enquanto os temores dos investidores sobre a durabilidade do boom da IA continuavam a dominar os mercados acionários globais.\nLeia mais (11",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "Ressaca do IPO? Ações da Anthropic caem 6% e colocam em xeque apetite por IA",
-    "link": "https://www.moneytimes.com.br/queda-da-anthropic-apos-estreia-no-mercado-traz-choque-de-realidade-para-setor-de-ia-igdl/",
-    "description": "As ações da Anthropic caíam 6% nas negociações pré-mercado nesta sexta-feira (20), registrando uma retração após uma forte estreia na bolsa que levou o laboratório de IA ao ranking das empresas mais valiosas dos EUA, mas não conseguiu reavivar o entusiasmo dos investidores pelo setor. Amplamente vista como um indicador do setor de IA, a [&#8230;]",
-    "published": "2026-11-20T11:45:51+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "As ações da Anthropic caíam 6% nas negociações pré-mercado nesta sexta-feira (20), registrando uma retração após uma forte estreia na bolsa que levou o laboratório de IA ao ranking das empresas mais valiosas dos EUA, mas não conseguiu reavivar o entusiasmo dos investidores pelo s",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Poder360",
-        "link": "https://www.poder360.com.br/poder-economia/acoes-da-anthropic-caem-85-no-2o-dia-depois-de-ipo-recorde/"
-      }
-    ]
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Lagarde diz que Europa deve enfrentar riscos antes que eles se concretizem",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/20/lagarde-diz-que-europa-deve-enfrentar-riscos-antes-que-eles-se-concretizem.ghtml",
-    "description": "A presidente do Banco Central Europeu (BCE), Christine Lagarde, defendeu que a Europa adote uma postura mais preventiva diante de ameaças, em vez de agir apenas após o surgimento de crises, e criticou a demora em enfrentar desafios que se desenvolvem gradualmente. Ela não comentou sobre política monetária.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-20T11:24:34+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "A presidente do Banco Central Europeu (BCE), Christine Lagarde, defendeu que a Europa adote uma postura mais preventiva diante de ameaças, em vez de agir apenas após o surgimento de crises, e criticou a demora em enfrentar desafios que se desenvolvem gradualmente. Ela não comento",
     "relevance": 5
   }
 ]
