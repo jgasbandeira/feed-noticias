@@ -1,6 +1,81 @@
 [
   {
     "source": "Poder360",
+    "title": "Saiba quais ações estão na pauta da Câmara nesta 2ª feira",
+    "link": "https://www.poder360.com.br/poder-congresso/saiba-quais-acoes-estao-na-pauta-da-camara-nesta-2a-feira/",
+    "description": "Casa analisa ajuste fiscal, reparação pela Chacina de Acari, monitoramento de agressores e racismo nas escolas",
+    "published": "2026-11-23T09:15:52+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Casa analisa ajuste fiscal, reparação pela Chacina de Acari, monitoramento de agressores e racismo nas escolas",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Governo Lula: leia a agenda de ministros do governo nesta 2ª feira",
+    "link": "https://www.poder360.com.br/poder-governo/governo-lula-leia-a-agenda-de-ministros-do-governo-nesta-2a-feira-12/",
+    "description": "Ministros têm reuniões no Planalto e compromissos em áreas como economia, saúde, cultura e turismo",
+    "published": "2026-11-23T09:15:48+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Ministros têm reuniões no Planalto e compromissos em áreas como economia, saúde, cultura e turismo",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Agenda de Lula: leia os compromissos do presidente 2ª feira",
+    "link": "https://www.poder360.com.br/poder-governo/agenda-de-lula-leia-os-compromissos-do-presidente-2a-feira-2/",
+    "description": "Presidente recebe José Múcio e comandantes das Forças Armadas e se reúne com Miriam Belchior no Planalto",
+    "published": "2026-11-23T09:15:29+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Presidente recebe José Múcio e comandantes das Forças Armadas e se reúne com Miriam Belchior no Planalto",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Bolsas da Ásia fecham mistas após novas medidas para conter turbulência ligada à IA",
+    "link": "https://www.moneytimes.com.br/bolsas-da-asia-fecham-mistas-apos-novas-medidas-para-conter-turbulencia-ligada-a-ia-fets/",
+    "description": "As bolsas asiáticas fecharam sem direção única nesta segunda-feira (23), enquanto reguladores e operadores de mercado da China, da Coreia do Sul e de Taiwan reforçaram medidas para conter a turbulência provocada pela onda global de vendas de ações ligadas à inteligência artificial (IA). A queda de papéis de grandes empresas do setor pressionou parte [&#8230;]",
+    "published": "2026-11-23T09:13:00+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "As bolsas asiáticas fecharam sem direção única nesta segunda-feira (23), enquanto reguladores e operadores de mercado da China, da Coreia do Sul e de Taiwan reforçaram medidas para conter a turbulência provocada pela onda global de vendas de ações ligadas à inteligência artificia",
+    "relevance": 5
+  },
+  {
+    "source": "Estadão",
+    "title": "São os juros da dívida, não o BPC, mercadistas",
+    "link": "https://www.estadao.com.br/economia/claudio-considera/sao-os-juros-da-divida-nao-o-bpc-mercadistas/",
+    "description": "",
+    "published": "2026-11-23T09:11:40+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "São os juros da dívida, não o BPC, mercadistas",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Com estresse fiscal, Risco Brasil atinge maior nível desde junho de 2025",
+    "link": "https://www.poder360.com.br/poder-economia/com-estresse-fiscal-risco-brasil-atinge-maior-nivel-desde-junho-de-2025/",
+    "description": "Indicador chega a 175,36 pontos-base; investidores questionam alcance do ajuste e trajetória da dívida pública",
+    "published": "2026-11-23T09:00:22+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Indicador chega a 175,36 pontos-base; investidores questionam alcance do ajuste e trajetória da dívida pública",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
     "title": "Saiba quais indicadores e balanços saem nesta semana",
     "link": "https://www.poder360.com.br/poder-economia/saiba-quais-indicadores-e-balancos-saem-nesta-semana-15/",
     "description": "Prévia da inflação, contas públicas e dados de atividade no exterior marcam a agenda de 23 a 27 de novembro",
@@ -24,6 +99,32 @@
     "relevance": 5
   },
   {
+    "source": "Bloomberg Línea",
+    "title": "Economia vai desacelerar mais e pesar nos balanços, diz chefe de research do BTG Pactual",
+    "link": "https://www.bloomberglinea.com.br/negocios/economia-vai-desacelerar-mais-e-pesar-nos-balancos-diz-chefe-de-research-do-btg-pactual/",
+    "description": "Carlos Sequeira aponta à Bloomberg Línea inflação pressionada e juros altos prolongados como freio para as companhias abertas, após um 3º trimestre em que Petrobras e Vale frustraram e resultados fracos superaram os fortes pela 1ª vez desde 2024",
+    "published": "2026-11-23T09:00:01+00:00",
+    "themes": [
+      "Economia",
+      "XP"
+    ],
+    "summary": "Carlos Sequeira aponta à Bloomberg Línea inflação pressionada e juros altos prolongados como freio para as companhias abertas, após um 3º trimestre em que Petrobras e Vale frustraram e resultados fracos superaram os fortes pela 1ª vez desde 2024",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Tempo real: Ibovespa acompanha Boletim Focus e PMI dos EUA; veja os destaques desta segunda-feira (23)",
+    "link": "https://www.moneytimes.com.br/tempo-real-23-11-2026-davs/",
+    "description": "Resumo: O Ibovespa (IBOV) volta de um feriado prolongado de olho na divulgação do Boletim Focus, que trará as projeções dos economistas consultados pelo Banco Central (BC) para a economia brasileira. No exterior, o destaque do dia fica por conta do Índice de Gerentes de Compras (PMI) composto, industrial e de serviços de novembro da [&#8230;]",
+    "published": "2026-11-23T09:00:00+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Resumo: O Ibovespa (IBOV) volta de um feriado prolongado de olho na divulgação do Boletim Focus, que trará as projeções dos economistas consultados pelo Banco Central (BC) para a economia brasileira. No exterior, o destaque do dia fica por conta do Índice de Gerentes de Compras (",
+    "relevance": 5
+  },
+  {
     "source": "Money Times",
     "title": "Trump atribui queda da bolsa à vitória democrata e diz que Irã intensificou ataques",
     "link": "https://www.moneytimes.com.br/trump-atribui-queda-da-bolsa-a-vitoria-democrata-e-diz-que-ira-intensificou-ataques-fets/",
@@ -33,6 +134,18 @@
       "Politica"
     ],
     "summary": "O presidente dos Estados Unidos, Donald Trump, atribuiu neste domingo (22) a queda das bolsas americanas à vitória dos democratas nas eleições legislativas e afirmou que o resultado eleitoral também estimulou a intensificação dos ataques iranianos. Em publicação na Truth Social, ",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Comparecimento às urnas renovou prova de vida de 22,4 milhões de beneficiários da Previdência",
+    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/11/comparecimento-as-urnas-renovou-prova-de-vida-de-224-milhoes-de-beneficiarios-da-previdencia.ghtml",
+    "description": "Pouco mais de 22,4 milhões beneficiários da Previdência Social tiveram prova de vida renovada por meio do comparecimento às urnas nos dois turnos das eleições deste ano, segundo dados inéditos da Dataprev. O número exato foi de 22.459.022 eleitores. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-23T08:53:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Pouco mais de 22,4 milhões beneficiários da Previdência Social tiveram prova de vida renovada por meio do comparecimento às urnas nos dois turnos das eleições deste ano, segundo dados inéditos da Dataprev. O número exato foi de 22.459.022 eleitores. Matéria exclusiva para assinan",
     "relevance": 5
   },
   {
@@ -784,7 +897,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O presidente dos Estados Unidos, Donald Trump, já lucrou centenas de milhões de dólares com sua criptomoeda $TRUMP. Mas, durante um jantar realizado no domingo (22) para os maiores detentores do token, afirmou que seu apoio à moeda tem como objetivo fortalecer a competitividade e",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Money Times",
+        "link": "https://www.moneytimes.com.br/trump-organiza-jantar-esvaziado-para-investidores-de-moeda-meme-trump-que-atinge-minima-recorde-fets/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -2270,7 +2389,13 @@
       "Mercado Financeiro"
     ],
     "summary": "A votação do pacote fiscal na Câmara dos Deputados, prevista para acontecer a partir desta segunda-feira (23), é um dos principais focos da política nesta semana. A montagem do primeiro escalão do próximo governo do presidente Luiz Inácio Lula da Silva e a indicação de uma vaga p",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/mercados/camara-ajuste-fiscal-petrobras-plano-negocios-agenda-23112026/"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -3697,129 +3822,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Presidente diz que live será para explicar ações desde a vitória eleitoral e apresentar planos para o futuro",
-    "relevance": 5
-  },
-  {
-    "source": "Money Times",
-    "title": "XP: Temporada de balanços do 3T26 é fraca, e cenário macro ofusca resultados",
-    "link": "https://www.moneytimes.com.br/xp-temporada-de-balancos-do-3t26-e-fraca-e-cenario-macro-ofusca-resultados/",
-    "description": "A temporada de balanços do terceiro trimestre de 2026 foi fraca, embora os resultados agregados tenham ficado próximos das estimativas, avalia a XP. O principal sinal de alerta veio do Ebitda: apenas 19% das empresas acompanhadas pela corretora superaram as projeções, menor proporção desde o início da série histórica, no terceiro trimestre de 2021. A [&#8230;]",
-    "published": "2026-11-21T12:49:43+00:00",
-    "themes": [
-      "XP"
-    ],
-    "summary": "A temporada de balanços do terceiro trimestre de 2026 foi fraca, embora os resultados agregados tenham ficado próximos das estimativas, avalia a XP. O principal sinal de alerta veio do Ebitda: apenas 19% das empresas acompanhadas pela corretora superaram as projeções, menor propo",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Governo quer assinar autonomia de estatal de transportes ainda em 2026",
-    "link": "https://www.poder360.com.br/poder-governo/governo-quer-assinar-autonomia-de-estatal-de-transportes-ainda-em-2026/",
-    "description": "Infra S.A. apresentou em setembro plano para deixar de depender do Tesouro até 2031; ministro pretende oficializar contrato em dezembro",
-    "published": "2026-11-21T12:30:41+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Infra S.A. apresentou em setembro plano para deixar de depender do Tesouro até 2031; ministro pretende oficializar contrato em dezembro",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Economia alemã volta a crescer, mas temores permanecem",
-    "link": "https://www.poder360.com.br/brasil/economia-alema-volta-a-crescer-mas-temores-permanecem/",
-    "description": "Economistas alertam para atraso nas reformas, deficits na produtividade e alto endividamento público, apesar de melhora da perspectiva",
-    "published": "2026-11-21T12:30:13+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Economistas alertam para atraso nas reformas, deficits na produtividade e alto endividamento público, apesar de melhora da perspectiva",
-    "relevance": 5
-  },
-  {
-    "source": "Folha",
-    "title": "Reforma tributária exige notas fiscais de locação, voos e imóveis em 2027",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/reforma-tributaria-exige-notas-fiscais-de-locacao-voos-e-imoveis-em-2027.shtml",
-    "description": "Condomínios, companhias aéreas e locadores de veículos e imóveis estão entre os contribuintes e as entidades que passarão a emitir notas fiscais com a implementação da reforma tributária em 2027. A entrega também será obrigatória para operações com bens imateriais, como direitos autorais e licenciamento de marcas e softwares, para alienação de imóveis e para profissionais com renda a partir de determinados patamares.\nLeia mais (11/21/2026 - 09h27)",
-    "published": "2026-11-21T12:27:00+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Condomínios, companhias aéreas e locadores de veículos e imóveis estão entre os contribuintes e as entidades que passarão a emitir notas fiscais com a implementação da reforma tributária em 2027. A entrega também será obrigatória para operações com bens imateriais, como direitos ",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Presidente do Conselho Europeu propõe cobrar imposto de big techs para financiar orçamento do bloco",
-    "link": "https://oglobo.globo.com/economia/noticia/2026/11/21/presidente-do-conselho-europeu-propoe-cobrar-imposto-de-big-techs-para-financiar-orcamento-do-bloco.ghtml",
-    "description": "O presidente do Conselho Europeu, o português António Costa, propôs neste sábado (21) um imposto sobre as maiores empresas de tecnologia do mundo para financiar o orçamento plurianual da União Europeia (UE) para o período de 2028 a 2034, ao apresentar um novo plano de gastos.\n'Os EUA amam vocês!’: Trump cortejou o presidente Filipino em busca de acordo comerciais\nDe olho na China: Trump ameaça taxar empresas que construírem data centers fora dos EUA\nA minuta apresentada por Costa prevê que as \"big techs\" fiquem sujeitas a \"uma contribuição anual equivalente a 3% do faturamento líquido anual proveniente de publicidade online, serviços de intermediação digital e dados gerados pelos usuários\", de acordo com documentos divulgados pelo Conselho Europeu.\nA iniciativa provavelmente enfrentará resistência do presidente dos Estados Unidos, Donald Trump, cuja administração tem reagido duramente às multas e medidas adotadas pela UE contra as grandes empresas de tecnologia nas áreas de concorrência e regulação de conteúdo.\nTabaco na mira\nO projeto também inclui planos para criar uma taxa sobre resíduos eletrônicos e aumentar os impostos sobre o tabaco.\nO presidente do Conselho também propôs cortes de 204 bilhões de euros (R$ 1,33 trilhão) ao projeto de orçamento apresentado pela Comissão Europeia, o braço executivo da UE, em um momento em que o bloco busca chegar a um acordo sobre suas finanças de longo prazo antes do fim do ano.\nDurante uma entrevista coletiva em Bruxelas, Costa disse achar \"que a proposta pode nos aproximar de um acordo final\". No entanto, a proposta foi rejeitada pela França poucos instantes após ser apresentada. O governo francês a classificou como \"muito decepcionante\".\n— Não atinge os objetivos previstos, especialmente no que diz respeito à Política Agrícola Comum (PAC) e, em particular, à garantia das ajudas à renda dos agricultores — avaliou a Presidência francesa.\nCosta, que representa os 27 Estados-membros do bloco, busca alcançar um acordo até o fim do ano equilibrando as contribuições nacionais com novas fontes de receita para a UE.",
-    "published": "2026-11-21T12:16:20+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O presidente do Conselho Europeu, o português António Costa, propôs neste sábado (21) um imposto sobre as maiores empresas de tecnologia do mundo para financiar o orçamento plurianual da União Europeia (UE) para o período de 2028 a 2034, ao apresentar um novo plano de gastos.\n'Os",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "União Europeia quer taxar big techs para financiar orçamento",
-    "link": "https://oglobo.globo.com/economia/negocios/noticia/2026/11/21/uniao-europeia-quer-taxar-big-techs-para-financiar-orcamento.ghtml",
-    "description": "A União Europeia apresentou um plano para taxar as gigantes da internet, conhecidas como big techs. A medida integra um pacote de novas fontes de arrecadação para o orçamento de 2028 a 2034, que prevê uma redução de € 204 bilhões (US$ 224 bilhões) em relação ao plano orçamentário original.\nO presidente do Conselho Europeu, António Costa, apresentou uma minuta que prevê a cobrança   anual  de 3% do faturamento líquido anual proveniente de publicidade on-line, serviços de intermediação digital e dados gerados  de grandes empresas de tecnologia  com faturamento anual de pelo menos € 50 milhões em atividades digitais na União Europeia e faturamento global superior a € 750 milhões. \nO tema será debatido na próxima semana em Bruxelas.   Costa busca um acordo até o fim deste ano, antes da realização de várias eleições importantes no bloco, incluindo na França e na Polônia, que podem afetar as negociações orçamentárias. \nA Comissão Europeia, braço executivo da UE, inicialmente propôs um orçamento de € 2 trilhões (US$ 2,2 trilhões), com bilhões de euros destinados à defesa e à competitividade, além dos gastos tradicionais com subsídios agrícolas e fundos de desenvolvimento. Também propôs € 60 bilhões em novos impostos anuais sobre uma parcela da arrecadação dos países com o tabaco, um imposto corporativo fixo para grandes empresas e uma cobrança sobre aparelhos eletrônicos descartados e não recolhidos, entre outras medidas.\nA proposta apresentada neste sábado é a mais recente tentativa de Bruxelas de alcançar um acordo, depois que a iniciativa anterior da Irlanda, que atualmente exerce a presidência rotativa da UE, foi criticada por ainda ser grande demais e por outros países por ser pequena demais.\n— Este é um orçamento à altura de nossas ambições — disse Costa em entrevista coletiva em Bruxelas. — Esta proposta é adequada para enfrentar os desafios que nossas sociedades estão enfrentando.\nDepois de um eventual acordo entre os países da União Europeia, é preciso que o tema passe pelo Parlamento Europeu.  \n A taxação das bigs techs pela UE ganhou força desde o ano passado, após  o presidente dos Estados Unidos, Donald Trump, disse que as regulações digitais no exterior seriam injustas. Na ocasião, a porta-voz da Comissão Europeia, Paula Pinho,  disse que \"é direito soberano da UE e de seus Estados-membros regular\"  as atividades econômicas no bloco. \nTrump há muito critica as regulações europeias de tecnologia e sobre concorrência que afetam gigantes americanos como o Google (da Alphabet), a Apple (fabricante do iPhone), e a Meta (dona de WhatsApp, Facebook e Instagram). Os EUA também pressionaram recentemente a Comissão Europeia a suavizar seu Código de Práticas para a Inteligência Artificial.",
-    "published": "2026-11-21T12:15:54+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A União Europeia apresentou um plano para taxar as gigantes da internet, conhecidas como big techs. A medida integra um pacote de novas fontes de arrecadação para o orçamento de 2028 a 2034, que prevê uma redução de € 204 bilhões (US$ 224 bilhões) em relação ao plano orçamentário",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Defesa Civil do RS pede doações para município afetado por temporal que deixou três mortos: ‘situação ainda está bem crítica’",
-    "link": "https://oglobo.globo.com/brasil/noticia/2026/11/21/defesa-civil-do-rs-pede-doacoes-para-municipio-afetado-por-temporal-que-deixou-tres-mortos-situacao-ainda-esta-bem-critica.ghtml",
-    "description": "Após uma tempestade com ventos de até 114 km/h atingir, nesta sexta-feira, o município de Tupanciretã, localizado no noroeste do Rio Grande do Sul, e deixar três mortos, a Defesa Civil estadual reforçou o pedido de doações de água, alimentos para consumo imediato (que não necessitem preparo, por exemplo biscoitos e barra de cereal), equipamentos de proteção individual (como luvas) e itens de higiene e limpeza para a cidade. Segundo o órgão, a situação ainda está “bem crítica” e o estado continua sob alerta amarelo para tempestade, granizo e vento neste sábado. A Defesa Civil confirmou que 60 pessoas ficaram feridas, aproximadamente 7 mil residências tiveram os telhados danificados na cidade e 15.114 moradores foram afetados. Devido à intensidade da chuva, 33 cidades tiveram danos humanos ou materiais no estado.\nTemporal causado por supercélula em Tupanciretã (RS) deixa três mortos, 60 feridos e cerca de 5 mil casas destelhadas\nDisponibilização de seringas em festas gera discussão sobre ações para redução de danos no uso de drogas\nSegundo a Defesa Civil, todas as equipes do órgão de outros munícipios prestam suporte à população afetada de Tupanciretã, com apoio das Forças Armadas e de voluntários. Moradores receberam atendimentos e foram encaminhados para abrigos. A população afetada que permaneceu em suas moradias também recebeu suporte, com lonas, telhas, alimentação e água.\n— Nós fazemos um apelo muito importante para você que quer exercer a solidariedade, encaminhe suas doações para os municípios próximos, conforme a própria prefeitura aqui de Tupanciretã solicitou. Você também pode encaminhar as doações aos municípios de Júlio de Castilhos, Cruz Alta e Santa Maria. A situação aqui ainda está bem crítica — destacou a tenente da Defesa Civil, Sabrina Ribas, na madrugada deste sábado.\nSegundo Ribas, muitos locais do município Tupanciretã se encontram com cabos rompidos, árvores e postes caídos e difícil circulação, tanto de veículos quanto de pessoas a pé. A Defesa Civil solicita que os moradores não se desloquem até a cidade nesse momento mais crítico pois ainda existem riscos.\nO ministro da Integração e do Desenvolvimento Regional (MIDR), Waldez Góes, chegou ao município neste sábado, acompanhado do secretário Nacional de Proteção e Defesa Civil, Wolnei Wolff, para realizar visita técnica às áreas mais atingidas pelo temporal e alinhar as ações de resposta do Governo Federal.  A Defesa Civil Nacional também disponibilizou equipes para atuar na ocorrência.\n“Desde as primeiras ocorrências do desastre, o MIDR presta auxílio imediato para agilizar o reconhecimento federal de situação de emergência. A Defesa Civil Nacional orientou o município a decretar emergência para iniciar imediatamente a liberação de recursos para socorro das vítimas”, destaca o Ministério da Integração e do Desenvolvimento Regional.\nInitial plugin text\nO governador do estado, Eduardo Leite, afirmou, na noite desta sexta-feira, que está trabalhando junto com o prefeito de Tupanciretã, mobilizando comandantes da Defesa Civil, da Brigada Militar, Corpos Bombeiros, o Comando Militar do Sul e o Exército Brasileiro. A prioridade era o reabastecimento da água, que estava em estado crítico. A previsão era que até este sábado a companhia de energia reestabelecesse o fornecimento da energia na cidade.\n— A preocupação agora é acolher e abrigar as pessoas que precisam desse abrigamento. Tem um abrigo já disponível para a cerca de 400 pessoas, mobilização de alimentos, de colchões, cobertores, toda essa estrutura para dar o acolhimento devido a essas fam, sendo garantido aqui pelo estado e pelas equipes ao lado do município. Estamos atuando em todas as frentes, garantindo lugar de atendimento às pessoas impactadas, com o atendimento hospitalar, acolhimento e estrutura disponibilizada para restabelecer a normalidade, abastecimento de água e energia — explicou Leite.\nVídeos mostram destruição após tempestade que deixou ao menos um morto em cidade do RS\nO governador determinou a liberação imediata de R$ 7 milhões para ações emergenciais no município. O dinheiro deverá ser utilizado na contratação de maquinário e outras medidas necessárias. O governador se deslocou para Tupanciretã no início da tarde, enquanto o vice-governador Gabriel Souza já acompanhava as operações no local. Um Gabinete Regionalizado de Crise foi instalado para coordenar a resposta do poder público",
-    "published": "2026-11-21T12:15:37+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Após uma tempestade com ventos de até 114 km/h atingir, nesta sexta-feira, o município de Tupanciretã, localizado no noroeste do Rio Grande do Sul, e deixar três mortos, a Defesa Civil estadual reforçou o pedido de doações de água, alimentos para consumo imediato (que não necessi",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Política",
-    "title": "Defesa de Bolsonaro pede a Moraes  autorização para visitas diárias de filhos durante internação",
-    "link": "https://g1.globo.com/politica/noticia/2026/11/21/defesa-de-bolsonaro-pede-a-moraes-autorizacao-para-visitas-diarias-de-filhos-durante-internacao.ghtml",
-    "description": "A defesa de Jair Bolsonaro pediu ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorização para que três de seus filhos — Carlos, Jair Renan e a filha menor de idade — possam visitá-lo diariamente enquanto durar sua internação no Hospital DF Star, em Brasília.\n\"Diante da nova circunstância e considerando o período de internação hospitalar, requer, em caráter de urgência, seja autorizado o ingresso de seus filhos Carlos Nantes Bolsonaro e Jair Renan Bolsonaro, bem como de sua filha, para que possam visitá-lo diariamente, enquanto perdurar a internação\", afirma a defesa no pedido enviado a Moraes.\nBolsonaro deu entrada no Hospital DF Star na tarde desta sexta-feira após apresentar um quadro de dor e distensão abdominal. \nEle deixou sua residência em Brasília, onde cumpre prisão domiciliar humanitária desde março deste ano, sob escolta da Polícia Militar do Distrito Federal (PMDF), após avaliação do cardiologista Brasil Caiado.\nDe acordo com a equipe médica, exames identificaram uma obstrução parcial no intestino delgado associada a aderências na parede abdominal, sequelas das cirurgias realizadas desde a facada sofrida em setembro de 2018.\nSegundo boletim médico e informações repassadas por Brasil Caiado nesta sexta-feira, o ex-presidente está estável, consciente e recebendo medicação.",
-    "published": "2026-11-21T12:14:12+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A defesa de Jair Bolsonaro pediu ao ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), autorização para que três de seus filhos — Carlos, Jair Renan e a filha menor de idade — possam visitá-lo diariamente enquanto durar sua internação no Hospital DF Star, em Brasíli",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/politica/noticia/2026/11/21/defesa-de-bolsonaro-pede-autorizacao-para-entrada-de-filhos-de-ex-presidente-no-hospital-durante-internacao.ghtml"
-      },
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/politica/noticia/2026/11/21/moraes-autoriza-visita-de-filhos-de-bolsonaro-em-hospital-durante-internacao.ghtml"
-      },
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/politica/noticia/2026/11/21/moraes-autoriza-visitas-de-filhos-de-bolsonaro-ao-hospital-mas-veda-celular.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "Financial Times",
-    "title": "Traders start to move US copper to China as Trump tariff fears ease",
-    "link": "https://www.ft.com/content/b84dbcb1-f216-422e-89c7-f203e0ab2757?syn-25a6b1a6=1",
-    "description": "Acute Chinese shortage and high local premium create lucrative arbitrage",
-    "published": "2026-11-21T12:00:08+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Acute Chinese shortage and high local premium create lucrative arbitrage",
     "relevance": 5
   }
 ]
