@@ -1,5 +1,17 @@
 [
   {
+    "source": "Financial Times",
+    "title": "Tech stock sell-off deepens in Asia",
+    "link": "https://www.ft.com/content/0f5a7285-fbf1-4120-86df-c9cca29644fc?syn-25a6b1a6=1",
+    "description": "A more than 3% slide in Korea follows Friday’s heavy Wall Street declines",
+    "published": "2026-11-23T01:37:46+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "A more than 3% slide in Korea follows Friday’s heavy Wall Street declines",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Petróleo abre semana em queda após elevação dos estoques nos EUA",
     "link": "https://valor.globo.com/financas/noticia/2026/11/22/petrleo-abre-semana-em-queda-aps-elevao-dos-estoques-nos-eua.ghtml",
@@ -3807,23 +3819,5 @@
     ],
     "summary": "Queda dos títulos reflete a turbulência nos mercados globais e a preocupação dos investidores com as eleições de 2027",
     "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Conmebol admite que havia recursos da entidade depositados em banco paraguaio que quebrou",
-    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/11/conmebol-admite-que-havia-recursos-da-entidade-depositados-em-banco-paraguaio-que-quebrou.ghtml",
-    "description": "Na reunião de hoje do conselho da Conmebol, ocorrida na Colômbia, o presidente da confederação, Alejandro Dominguez, admitiu que havia recursos da entidade depositados no Ueno Bank, o banco paraguaio que quebrou e causou a renúncia do presidente do país, Santiago Peña.\nO paraguaio Dominguez, ligado ao grupo político de Peña, garantiu que conseguirá o ressarcimento do dinheiro depositado. \nDurante o encontro, Dominguez fez uma conferência por vídeo com Gianni Infantino. Disse ao presidente da Fifa que a Conmebol o apoiará na eleição para a presidência da entidade, marcada para março de 2027. Beleza. A CBF deve, de fato, apoiá-lo. Mas prefere cultivar o seu canal direto com Infantino.",
-    "published": "2026-11-20T20:26:17+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Na reunião de hoje do conselho da Conmebol, ocorrida na Colômbia, o presidente da confederação, Alejandro Dominguez, admitiu que havia recursos da entidade depositados no Ueno Bank, o banco paraguaio que quebrou e causou a renúncia do presidente do país, Santiago Peña.\nO paraguai",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "G1 - Economia",
-        "link": "https://g1.globo.com/economia/noticia/2026/11/20/conmebol-recursos-banco-ueno.ghtml"
-      }
-    ]
   }
 ]
