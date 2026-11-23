@@ -1,5 +1,43 @@
 [
   {
+    "source": "Brazil Journal",
+    "title": "OPINIÃO. Ainda dá para apostar tudo no CDI?",
+    "link": "https://braziljournal.com/opiniao-ainda-da-para-apostar-tudo-no-cdi",
+    "description": "Parece que a história não foi exatamente assim – mas seria chato demais estragar uma boa anedota com uma correção histórica. Então, neste caso, preferimos acreditar na versão. Durante a aproximação entre Estados Unidos e China, no início dos anos 1970, Henry Kissinger teria perguntado a Zhou Enlai sobre os efeitos da Revolução Francesa. O primeiro-ministro chinês teria respondido de bate-pronto: “Ainda é cedo demais para avaliar.”",
+    "published": "2026-11-23T09:50:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Parece que a história não foi exatamente assim – mas seria chato demais estragar uma boa anedota com uma correção histórica. Então, neste caso, preferimos acreditar na versão. Durante a aproximação entre Estados Unidos e China, no início dos anos 1970, Henry Kissinger teria pergu",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "Após Master, CGU apura evolução patrimonial de funcionários do BC",
+    "link": "https://www.poder360.com.br/poder-governo/apos-master-cgu-apura-evolucao-patrimonial-de-funcionarios-do-bc/",
+    "description": "Ministro afirma que BC vem colaborando com investigação da Controladoria; 2 servidores foram afastados por relação com Vorcaro",
+    "published": "2026-11-23T09:46:50+00:00",
+    "themes": [
+      "Politica",
+      "XP"
+    ],
+    "summary": "Ministro afirma que BC vem colaborando com investigação da Controladoria; 2 servidores foram afastados por relação com Vorcaro",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "China lamenta fracasso da COP31, mas diz que transição verde é 'irreversível'",
+    "link": "https://oglobo.globo.com/mundo/clima-e-ciencia/noticia/2026/11/23/china-lamenta-fracasso-da-cop31-mas-diz-que-transicao-verde-e-irreversivel.ghtml",
+    "description": "A China manifestou decepção nesta segunda-feira com o fracasso da COP31 em chegar a um acordo sobre o combate às mudanças climáticas, após divergências sobre os combustíveis fósseis. Apesar da falta de consenso, o governo chinês afirmou que a transição mundial para uma economia verde e de baixo carbono continua sendo \"irreversível\".\nContexto: COP31 prorroga negociações em meio a impasses sobre combustíveis fósseis e financiamento climático\nO GLOBO no Mundo: Receba as notícias internacionais direto no seu celular\nPensa em morar fora? Veja guia interativo do GLOBO que reúne informações sobre 36 países\nA conferência da ONU terminou no domingo, na Turquia, sem uma decisão política. A proposta de texto final foi rejeitada pela União Europeia, pelo Reino Unido, pelo Panamá, por Vanuatu e por outros países em desenvolvimento porque não incluía uma menção explícita ao abandono dos combustíveis fósseis. Índia, China, Arábia Saudita, Japão e Venezuela, por outro lado, consideraram o documento favorável, segundo fontes a par das negociações.\nA última versão da proposta fazia uma breve referência à COP de Dubai, em 2023, quando foi acordado, pela primeira vez, o abandono dos combustíveis fósseis, mas não mencionava diretamente esses recursos.\n— Expressamos nossa decepção, mas consideramos que a confiança no processo multilateral não deve ser perdida — declarou o porta-voz do Ministério das Relações Exteriores da China, Guo Jiakun, em uma entrevista coletiva.\nO porta-voz insistiu que \"a tendência mundial de transição verde e de baixo carbono é irreversível\". Guo também afirmou que \"a China fez esforços consideráveis para favorecer o sucesso desta conferência\" e que a delegação do país desempenhou \"um papel construtivo e de liderança\", com participação ativa em todos os aspectos das negociações.\nLimites do consenso\nCom 1,4 bilhão de habitantes, a China continua sendo a maior emissora mundial de gases de efeito estufa, à frente dos Estados Unidos, da Índia e da União Europeia.\nPara muitos observadores, o fracasso da COP31 expõe as limitações de um sistema que exige o consenso de quase 200 países para a adoção de qualquer decisão.\n— Um mecanismo no qual todos os países precisam concordar com cada vírgula não é adequado para uma emergência climática — afirmou Nikki Reisch, diretora do programa de Clima e Energia do Centro de Direito Ambiental Internacional.\nMarcado pela ausência dos Estados Unidos, após a retirada do país das negociações climáticas durante o governo de Donald Trump, o desfecho da COP31 lembrou o fracasso da COP15, realizada em Copenhague, em 2009.",
+    "published": "2026-11-23T09:16:18+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "A China manifestou decepção nesta segunda-feira com o fracasso da COP31 em chegar a um acordo sobre o combate às mudanças climáticas, após divergências sobre os combustíveis fósseis. Apesar da falta de consenso, o governo chinês afirmou que a transição mundial para uma economia v",
+    "relevance": 5
+  },
+  {
     "source": "Poder360",
     "title": "Saiba quais ações estão na pauta da Câmara nesta 2ª feira",
     "link": "https://www.poder360.com.br/poder-congresso/saiba-quais-acoes-estao-na-pauta-da-camara-nesta-2a-feira/",
@@ -916,7 +954,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Por duas semanas, Venus acreditou ter feito um bom investimento. Em 11 de julho, o chinês de 26 anos, morador de Hangzhou, aplicou 100 mil USDG — uma stablecoin atrelada ao dólar — em um produto de renda fixa de alta rentabilidade da BitMart, corretora de criptomoedas sediada no ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-internacional/trump-reune-investidores-de-sua-criptomoeda-apos-queda-de-valor/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3780,48 +3824,6 @@
       "Mercado Financeiro"
     ],
     "summary": "Integrantes da equipe econômica do governo Lula começaram a discutir nomes para substituir Tarciana Medeiros na presidência do Banco do Brasil (BBAS3), em meio à deterioração dos resultados financeiros da instituição e à forte desvalorização de suas ações. Segundo informações da ",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Sarampo: Virgínia registra 1º morte, e total nos EUA sobe para 12 neste ano",
-    "link": "https://oglobo.globo.com/saude/noticia/2026/11/21/sarampo-virginia-registra-1o-morte-e-total-nos-eua-sobe-para-12-neste-ano.ghtml",
-    "description": "O estado americano de Virgínia registrou sua primeira morte associada ao sarampo, elevando para 12 o número de óbitos no país durante o surto em andamento neste ano. Nesta semana, os Estados Unidos perderam o certificado de eliminação do vírus após manter surtos ativos por mais de 12 meses e bater recorde de casos desde 1991.\nO Departamento de Saúde da Virgínia informou na sexta-feira que a morte ocorreu em uma criança pequena, com menos de cinco anos. Até 19 de novembro, o estado havia registrado um total de 220 casos, a maioria entre pessoas não vacinadas e concentrada principalmente na região central da Virgínia. A Pensilvânia registrou oito mortes. Wisconsin contabilizou duas, e Nova York, uma.\nA autoridade sanitária da Virgínia afirmou que não divulgará mais detalhes sobre a morte para respeitar a privacidade do paciente e não informou em qual condado ocorreu o óbito.\nNo início desta semana, a Organização Pan-Americana da Saúde anunciou que os Estados Unidos perderam seu status de eliminação do sarampo, mantido por muito tempo. A doença vem se espalhando rapidamente pelo país à medida que as taxas de vacinação diminuíram desde a pandemia. Na sexta-feira, os Centros de Controle e Prevenção de Doenças (CDC) registraram 5.838 infecções neste ano — o maior número em três décadas.\nA imunização contra sarampo, caxumba e rubéola é uma das mais eficazes disponíveis. Após duas doses, sua eficácia na prevenção da infecção é de 97%. No ano letivo de 2025-2026, a Virgínia registrou uma cobertura vacinal de 93,6%, segundo o CDC. O índice está abaixo do patamar de 95% necessário para a imunidade coletiva, que protege pessoas que não podem ser imunizadas, incluindo bebês.\nPessoas com sarampo frequentemente apresentam erupções cutâneas, além de febre alta, tosse, coriza e olhos vermelhos, segundo o CDC. Entre as complicações estão inchaço cerebral e pneumonia. Uma em cada mil pessoas infectadas tem probabilidade de morrer.\nQuem pode se vacinar contra o sarampo no Brasil?\nA vacina tríplice viral, que protege contra sarampo, rubéola e caxumba, é aplicada em duas doses, a primeira aos 12 meses de idade e a segunda aos 15. O PNI oferece ainda a proteção de forma gratuita para pessoas de até 59 anos que não tenham sido vacinadas.\nNo entanto, em algumas localidades, o Ministério da Saúde orientou, neste ano, a aplicação de uma “dose zero” da vacina para os bebês entre os 6 a 11 meses de vida, que não substitui as duas aplicações futuras.\nSão eles: São Paulo, Guarulhos, São Bernardo do Campo e Santo André, no estado paulista, e Tabatinga, Atalaia do Norte, Benjamin Constant e Tabatinga, no Amazonas, incluindo os Distritos Sanitários Especiais Indígenas (DSEIs) Alto Rio Solimões, Alto Rio Juruá, Vale do Javari, Alto Rio Purus, Médio Rio Solimões e Afluentes, Cuiabá, Mato Grosso do Sul, Vilhena, Porto Velho e Alto Rio Negro.",
-    "published": "2026-11-21T13:05:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O estado americano de Virgínia registrou sua primeira morte associada ao sarampo, elevando para 12 o número de óbitos no país durante o surto em andamento neste ano. Nesta semana, os Estados Unidos perderam o certificado de eliminação do vírus após manter surtos ativos por mais d",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Exército do Lula perde 1,4 milhão de seguidores desde o 2º turno",
-    "link": "https://www.poder360.com.br/poder-governo/exercito-do-lula-perde-14-milhao-de-seguidores-desde-o-2o-turno/",
-    "description": "Evasão ocorre após discussão entre André Janones, criador do canal, e uma ala da esquerda sobre o pacote de ajuste fiscal do governo",
-    "published": "2026-11-21T13:03:48+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Evasão ocorre após discussão entre André Janones, criador do canal, e uma ala da esquerda sobre o pacote de ajuste fiscal do governo",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/politica/exercito-do-lula-perde-14-milhao-de-seguidores-apos-disputa-sobre-ajuste-fiscal/"
-      }
-    ]
-  },
-  {
-    "source": "Poder360",
-    "title": "Ao vivo: Lula faz live com Janones neste sábado",
-    "link": "https://www.poder360.com.br/poder-governo/ao-vivo-lula-faz-live-com-janones-neste-sabado/",
-    "description": "Presidente diz que live será para explicar ações desde a vitória eleitoral e apresentar planos para o futuro",
-    "published": "2026-11-21T13:00:37+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "Presidente diz que live será para explicar ações desde a vitória eleitoral e apresentar planos para o futuro",
     "relevance": 5
   }
 ]
