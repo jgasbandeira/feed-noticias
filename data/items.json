@@ -1,6 +1,18 @@
 [
   {
     "source": "Folha",
+    "title": "Trump ganhou até US$ 15 milhões com ações da Nvidia após retorno de Huang",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/negocios/2026/11/trump-ganhou-ate-us-15-milhoes-com-acoes-da-nvidia-apos-retorno-de-huang.shtml",
+    "description": "As ações da Nvidia detidas por Donald Trump valorizaram-se em até US$ 15 milhões nesta segunda-feira (23), depois que os papéis dispararam com a notícia inesperada da recondução de Jensen Huang ao cargo de CEO.\nLeia mais (11/23/2026 - 23h00)",
+    "published": "2026-11-24T02:00:00+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "As ações da Nvidia detidas por Donald Trump valorizaram-se em até US$ 15 milhões nesta segunda-feira (23), depois que os papéis dispararam com a notícia inesperada da recondução de Jensen Huang ao cargo de CEO.\nLeia mais (11/23/2026 - 23h00)",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
     "title": "Veja como votou cada deputado no plano Moretti, aprovado pela Câmara",
     "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/veja-como-votou-cada-deputado-no-plano-moretti-aprovado-pela-camara.shtml",
     "description": "A Câmara dos Deputados aprovou nesta segunda-feira (23), por 353 votos a 128, o texto-base do chamado plano Moretti, projeto de ajuste do governo de Luiz Inácio Lula da Silva (PT) para melhorar a situação das contas públicas.\nLeia mais (11/23/2026 - 22h50)",
@@ -630,7 +642,13 @@
       "Mercado Financeiro"
     ],
     "summary": "A área econômica selecionou nomes \"amigáveis ao mercado\" para sugerir ao presidente Luiz Inácio Lula da Silva (PT) como opções para as diretorias do Banco Central, disse fonte do governo. \"Estamos num esforço de diminuir a temperatura, ajustar as expectativas\", afirmou.  \n\nAssim,",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Folha",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/lula-e-aconselhado-pela-area-economica-a-indicar-nomes-para-bc-que-nao-afrontem-o-mercado.shtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -2525,7 +2543,13 @@
       "XP"
     ],
     "summary": "O relatório da Polícia Federal (PF) sobre o envolvimento do ministro Alexandre de Moraes com Daniel Vorcaro enviado ao presidente do Supremo Tribunal Federal (STF), Edson Fachin, não inclui nem os contratos firmados pelo Banco Master com o escritório comandado pela mulher do mini",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-justica/pf-omite-contratos-da-mulher-de-moraes-e-47-mensagens-de-vorcaro/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -2958,6 +2982,10 @@
       {
         "source": "G1 - Política",
         "link": "https://g1.globo.com/politica/votacoes-no-congresso/noticia/2026/11/23/projeto-de-ajuste-fiscal-como-votaram-os-deputados-e-partidos.ghtml"
+      },
+      {
+        "source": "Estadão",
+        "link": "https://www.estadao.com.br/economia/veja-como-votou-cada-deputado-no-projeto-de-ajuste-fiscal-do-governo-lula/"
       }
     ]
   },
@@ -4114,23 +4142,5 @@
     ],
     "summary": "O Ministério da Defesa do Japão informou às principais empresas do setor que as encomendas de armamentos a partir do ano fiscal de 2027 deverão ser significativamente menores do que o previsto inicialmente. O governo discute limitar o crescimento dos gastos militares.\n Matéria ex",
     "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Instituto Cyrela celebra 15 anos e 150 mil beneficiados",
-    "link": "https://valor.globo.com/patrocinado/dino/noticia/2026/11/23/instituto-cyrela-celebra-15-anos-e-150-mil-beneficiados-1.ghtml",
-    "description": "O Instituto Cyrela, responsável pelas iniciativas de responsabilidade social do Grupo Cyrela, comemora 15 anos de atuação em 2026. A organização já beneficiou mais de 150 mil pessoas durante sua trajetória, e destinou aproximadamente R$ 100 milhões a projetos sociais.\nO Instituto Cyrela desenvolve e apoia iniciativas voltadas à educação, à qualificação profissional e ao desenvolvimento das comunidades. São diversas ações que compartilham a mesma essência e estão conectadas pelo seu principal propósito: fazer o bem.\nPara celebrar a data e homenagear quem contribuiu para os 15 anos de história do Instituto Cyrela, foi promovido um encontro no Welucci The One, em São Paulo. A celebração reuniu parceiros, colaboradores e lideranças, entre eles Elie Horn e Efraim Horn.\nAmpliando o alcance da celebração, o encontro teve transmissão ao vivo para todas as regionais da Cyrela, permitindo que colaboradores de diferentes localidades acompanhassem esse momento tão significativo.\nAo longo de seus 15 anos, a instituição consolidou uma atuação baseada em parcerias com organizações sociais, instituições de ensino e diferentes públicos ligados à construção civil. A proposta é ampliar o alcance dos investimentos sociais e gerar resultados duradouros para as comunidades beneficiadas.\n\"Celebrar os 15 anos do Instituto Cyrela é reconhecer a força de uma jornada construída por muitas pessoas e agradecer a todos que contribuíram para que mais de 150 mil pessoas fossem beneficiadas. É uma alegria olhar para essa trajetória e renovar nosso compromisso com a transformação social e com a construção de um futuro melhor\", afirma Aron Zylberman, Diretor Executivo do Instituto Cyrela.",
-    "published": "2026-11-23T12:40:32+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "O Instituto Cyrela, responsável pelas iniciativas de responsabilidade social do Grupo Cyrela, comemora 15 anos de atuação em 2026. A organização já beneficiou mais de 150 mil pessoas durante sua trajetória, e destinou aproximadamente R$ 100 milhões a projetos sociais.\nO Instituto",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "O Globo",
-        "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/23/instituto-cyrela-celebra-15-anos-e-150-mil-beneficiados-1.ghtml"
-      }
-    ]
   }
 ]
