@@ -1,5 +1,17 @@
 [
   {
+    "source": "Folha",
+    "title": "Mendonça manda soltar ex-número 2 da Previdência e mais 3 investigados no caso do INSS",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/mendonca-manda-soltar-ex-numero-2-da-previdencia-e-mais-3-investigados-no-caso-do-inss.shtml",
+    "description": "O ministro André Mendonça, do STF (Supremo Tribunal Federal), determinou nesta segunda-feira (23) a soltura de quatro investigados no esquema de fraudes do INSS (Instituto Nacional do Seguro Social). Entre os beneficiados, está Adroaldo Portal, ex-secretário-executivo do Ministério da Previdência Social.\nLeia mais (11/23/2026 - 22h17)",
+    "published": "2026-11-24T01:17:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O ministro André Mendonça, do STF (Supremo Tribunal Federal), determinou nesta segunda-feira (23) a soltura de quatro investigados no esquema de fraudes do INSS (Instituto Nacional do Seguro Social). Entre os beneficiados, está Adroaldo Portal, ex-secretário-executivo do Ministér",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Dirigente do Fed é investigada por possível violação de período de silêncio",
     "link": "https://valor.globo.com/financas/noticia/2026/11/23/dirigente-do-fed-e-investigada-por-possivel-violacao-de-periodo-de-silencio.ghtml",
@@ -2212,7 +2224,13 @@
       "Politica"
     ],
     "summary": "Protagonismo do ministro do Planejamento nas negociações, distância de Durigan e apoio de Alckmin colocam disputa pela Fazenda em evidência\nThe post Por que o ajuste fiscal virou “Plano Moretti” e o que isso revela sobre Lula 4 appeared first on InfoMoney.",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Folha",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/tarcisio-critica-plano-moretti-e-diz-que-ajuste-fiscal-do-governo-lula-nao-ataca-a-raiz-do-problema.shtml"
+      }
+    ]
   },
   {
     "source": "Poder360",
@@ -4077,18 +4095,6 @@
       "Politica"
     ],
     "summary": "Redes de apoio voltadas às mulheres vêm ganhando espaço no agronegócio brasileiro. Com troca de experiências e formação técnica, esses grupos dão visibilidade ao trabalho feminino e estimulam sua presença nos negócios e nos espaços de decisão.\nUma das iniciativas é a Comissão Nac",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Irã diz que usará todos seus recursos para enfrentar bloqueio naval dos EUA",
-    "link": "https://valor.globo.com/mundo/noticia/2026/11/23/ir-diz-que-usar-todos-seus-recursos-para-enfrentar-bloqueio-naval-dos-eua.ghtml",
-    "description": "O Irã usará todos os seus recursos para enfrentar o bloqueio naval imposto pelos Estados Unidos, afirmou o porta-voz do Ministério das Relações Exteriores iraniano, Esmaeil Baghaei, em uma entrevista coletiva semanal nesta segunda-feira (23).\nLeia também:\nTrump ameaça retomar ataques contra o Irã em 2027 se negociações fracassarem\nDefesas aéreas do Bahrein interceptam ataques do Irã; instalação industrial é atingida\nExportações globais de petróleo atingem recorde apesar do bloqueio de Ormuz\n\nO bloqueio americano às exportações de petróleo relacionadas ao Irã foi imposto em 13 de abril, suspenso em junho, depois que Washington chegou a um entendimento preliminar com Teerã, e restabelecido em 14 de julho, após o colapso do acordo.\n\n\"Definitivamente não vamos tolerar isso [o bloqueio] e usaremos todos os nossos recursos para enfrentar essa agressão americana\", afirmou Baghaei.\n\n\"O bloqueio naval [...] é considerado uma agressão militar\", acrescentou. \"O Irã tem o direito de usar qualquer recurso disponível para se defender nesse sentido.\"\n\nO TankerTrackers.com informou na semana passada que um petroleiro estava carregando petróleo bruto iraniano no Golfo por meio de uma transferência entre navios e poderia se tornar a primeira embarcação a conseguir exportar petróleo bruto do país desde que Washington restabeleceu o bloqueio, em julho.\n\nBaghaei afirmou nesta segunda-feira que os relatos sobre navios iranianos carregando petróleo são \"especulações\".\n\nAs exportações visíveis de petróleo bruto iraniano caíram para perto de zero nos últimos meses devido ao bloqueio. O Irã afirma controlar a passagem pelo estratégico Estreito de Ormuz e que só voltará a abri-lo quando Washington cumprir suas condições, incluindo a interrupção das hostilidades, o fim do bloqueio e a suspensão das sanções.\n\n\"Se o outro lado [EUA] cumprir as condições relacionadas, poderemos executar nossos compromissos no menor prazo possível\", afirmou Baghaei, referindo-se à reabertura do estreito.",
-    "published": "2026-11-23T12:31:39+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O Irã usará todos os seus recursos para enfrentar o bloqueio naval imposto pelos Estados Unidos, afirmou o porta-voz do Ministério das Relações Exteriores iraniano, Esmaeil Baghaei, em uma entrevista coletiva semanal nesta segunda-feira (23).\nLeia também:\nTrump ameaça retomar ata",
     "relevance": 5
   }
 ]
