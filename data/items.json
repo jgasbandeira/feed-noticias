@@ -1,5 +1,179 @@
 [
   {
+    "source": "InfoMoney",
+    "title": "Reforma tributária não muda rota da Amazon, que ampliará centros logísticos em 2027",
+    "link": "https://www.infomoney.com.br/business/reforma-tributaria-nao-muda-rota-da-amazon-que-ampliara-centros-logisticos-em-2027/",
+    "description": "Diretor de Operações da Amazon no Brasil, Ricardo Pagani, diz que companhia historicamente estruturou sua malha logística com foco na proximidade ao consumidor, e não em incentivos fiscais\nThe post Reforma tributária não muda rota da Amazon, que ampliará centros logísticos em 2027 appeared first on InfoMoney.",
+    "published": "2026-11-25T19:00:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Diretor de Operações da Amazon no Brasil, Ricardo Pagani, diz que companhia historicamente estruturou sua malha logística com foco na proximidade ao consumidor, e não em incentivos fiscais\nThe post Reforma tributária não muda rota da Amazon, que ampliará centros logísticos em 202",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Dados da Nielsen trazem boas notícias para ações de Assaí, Grupo Mateus e GPA",
+    "link": "https://www.infomoney.com.br/mercados/dados-da-nielsen-trazem-boas-noticias-para-acoes-de-assai-grupo-mateus-e-gpa/",
+    "description": "Vendas em supermercados e hipermercados, lojas de atacarejo e farmácias cresceram mais de 6% ao ano\nThe post Dados da Nielsen trazem boas notícias para ações de Assaí, Grupo Mateus e GPA appeared first on InfoMoney.",
+    "published": "2026-11-25T18:49:08+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Vendas em supermercados e hipermercados, lojas de atacarejo e farmácias cresceram mais de 6% ao ano\nThe post Dados da Nielsen trazem boas notícias para ações de Assaí, Grupo Mateus e GPA appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Não existe bala de prata: a IA só transforma o jurídico quando a operação é redesenhada em torno dela",
+    "link": "https://valor.globo.com/patrocinado/pressworks/noticia/2026/11/25/nao-existe-bala-de-prata-a-ia-so-transforma-o-juridico-quando-a-operacao-e-redesenhada-em-torno-dela-1.ghtml",
+    "description": "Por Fernando Kalil\nQuem circulou pela Fenalaw deste ano saiu com a sensação de que todo problema jurídico já tem uma ferramenta de inteligência artificial à venda. Há muitas boas. Mas, depois de dois anos testando dezenas delas, cheguei a uma conclusão menos confortável: nenhuma, sozinha, muda um negócio. O que muda é redesenhar a operação inteira a partir da tecnologia. Foi essa escolha que me fez deixar de chamar a PJUS Addebitare, internamente, de empresa de precatórios. Hoje nos vemos como uma empresa de tecnologia, AI-first, que aprende com mais de 15 anos de experiência no mercado de créditos judiciais.\nNão é uma troca de rótulo. É uma mudança na forma de trabalhar, e acredito que ela vale para qualquer operação jurídica de grande volume.\nO teto era o tempo do advogado\nO mercado em que atuamos é grande e fragmentado. Segundo o CNJ, há mais de R$ 330 bilhões em precatórios aguardando pagamento no país. Cada um desses créditos tramita em um de dezenas de tribunais (27 tribunais de Justiça, seis tribunais regionais federais, 24 tribunais regionais do trabalho), em primeira e segunda instâncias, cada qual com seu sistema eletrônico. O desafio de escala, portanto, não é só volume. É diversidade.\nAté 2025, avaliar um precatório era trabalho artesanal. Um assistente buscava os autos tribunal por tribunal; o advogado lia centenas de páginas, respondia às perguntas que definem o risco do crédito e emitia um parecer. O limite ficava em torno de 20 pareceres por advogado por mês. Encontrar créditos nunca foi o problema; o gargalo era o tempo gasto para juntarmos os documentos e ler. Na ponta, isso significava uma fila de cerca de duas semanas para uma resposta, sentida sobretudo pelo credor, que já esperou anos pelo pagamento.\nFerramenta pronta não muda o fluxo\nO caminho mais comum é escolher uma ferramenta e colocá-la nas mãos da equipe. Funciona, mas o ganho é incremental: a tarefa fica mais rápida, e o fluxo de trabalho continua o mesmo. Ser technology-first é inverter a pergunta. Em vez de \"onde encaixo a IA no que já faço?\", passamos a perguntar, etapa por etapa, \"qual é o papel da IA neste processo, qual é o papel do código e qual é o papel do advogado?\".\nEssa resposta não se compra pronta, porque depende do conhecimento jurídico específico de cada negócio. O tipo de risco que uma empresa aceita assumir ao comprar um crédito é diferente do de outra empresa com atividade parecida. O que transforma não é uma ferramenta, e sim várias delas combinadas em um processo revisto, com método próprio.\nO advogado ensina, a máquina executa, o advogado decide\nNa prática, isso reorganizou a equipe jurídica em dois papéis: quem ensina e quem decide. Os advogados que ensinam gravam o próprio trabalho, com consentimento e por meio de uma extensão no navegador, para registrar como consultam cada sistema de tribunal. Esse caminho vira um mapa, o mapa vira um programa testado em processos reais, e o programa passa a coletar os dados sozinho. Já são cerca de 450 programas desse tipo, e a maior parte dos advogados não precisa mais entrar em sites de tribunal para buscar documentos.\nA leitura segue a mesma lógica. Um processo de precatório pode somar mais de duas mil páginas, entre fase de conhecimento, cumprimento de sentença e o próprio precatório. Um ambiente de análise desenvolvido internamente mapeia as peças, monta um plano de leitura e distribui as perguntas entre agentes de IA que trabalham em paralelo. Cada resposta traz o trecho e a página que a sustentam, e um programa sem IA confere o formato e a evidência antes de registrá-la. O que não se sustenta volta para revisão humana. É um equilíbrio entre fluxos agênticos, em que o modelo planeja dentro de limites, e fluxos determinísticos, em que o código conduz os passos.\nNada entra em uso sem calibração. Advogados seniores resolvem casos reais que viram gabarito; cada nova versão do método é comparada a esse gabarito, pergunta a pergunta, e só é adotada se melhorar o resultado. E nenhuma decisão de compra deixa de passar por um advogado. Technology-first não significa human-last: a palavra final continua sendo de quem tem formação para dá-la.\nSalto de magnitude, não de margem\nNos fluxos que já operam nesse modelo, ainda sem cobrir toda a operação, o prazo de análise caiu de duas semanas para cerca de duas horas, e o advogado que participou da calibração passou a produzir aproximadamente dez vezes mais. Nossa meta para 2027 é que nenhum material chegue ao advogado sem antes ter sido lido, organizado e conferido por IA. Quando uma operação é redesenhada, o ganho deixa de ser de 20% ou 30% e passa a ser de uma ordem de grandeza.\nO resultado mais importante, porém, está do outro lado da mesa. Para quem tem um crédito a receber do poder público, a espera é parte do problema. Uma resposta rápida, clara e padronizada muda a experiência de quem decide antecipar, ou não, um dinheiro que já demorou demais a chegar. O conhecimento, antes concentrado em alguns pareceristas especializados em determinados tribunais, passa a ser registrado e melhorado a cada análise.\nUma mudança de comportamento\nNada disso é simples. Estamos há dois anos nessa jornada, envolvendo mais de 100 advogados e cerca de 300 pessoas, e o trabalho é contínuo: correção do advogado, novos testes, nova versão, medição, e de novo. Não há solução pronta que dispense essa construção.\nEstou convencido de que o mercado jurídico vive uma transformação substancial, e não pontual. Nos próximos anos, os ganhos de escala vão se medir em múltiplos, não em percentuais. Eles virão das organizações que tiverem coragem de redesenhar seus processos a partir da tecnologia, mantendo o profissional no centro. Inteligência artificial em primeiro lugar; o ser humano sempre no controle.\nFernando Kalil é CEO da PJUS Addebitare, empresa especializada na aquisição de créditos judiciais, parceira da XP Asset.",
+    "published": "2026-11-25T18:42:31+00:00",
+    "themes": [
+      "Asset",
+      "XP"
+    ],
+    "summary": "Por Fernando Kalil\nQuem circulou pela Fenalaw deste ano saiu com a sensação de que todo problema jurídico já tem uma ferramenta de inteligência artificial à venda. Há muitas boas. Mas, depois de dois anos testando dezenas delas, cheguei a uma conclusão menos confortável: nenhuma,",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Justiça do Trabalho  julga na sexta-feira desembargador afastado por denúncias de assédio moral",
+    "link": "https://oglobo.globo.com/blogs/bela-megale/post/2026/11/justica-do-trabalho-julga-na-sexta-feira-desembargador-afastado-por-denuncias-de-assedio-moral.ghtml",
+    "description": "O Conselho Superior da Justiça do Trabalho (CSJT) julga, nesta sexta-feira (27), o processo administrativo disciplinar contra o desembargador Roberto Norris, do Tribunal Regional do Trabalho da 1ª Região (TRT-1), no Rio de Janeiro. Afastado cautelarmente das funções desde setembro de 2025, o magistrado é acusado de praticar assédio moral contra servidores de seu gabinete ao longo de mais de uma década.\nO vice-presidente do Sindicato dos Servidores das Justiças Federais no Estado do Rio de Janeiro (Sisejufe), Ricardo Quiroga, afirma que o julgamento pode representar um marco no combate ao assédio moral no Judiciário.\n— O Sisejufe e os servidores do TRT estão acompanhando de perto esse caso. Esperamos que, depois de todo esse tempo que durou o processo, ocorra um ponto de virada, um paradigma. A partir do momento em que se pune os agressores exemplarmente, outras vítimas passam a denunciar. As políticas do Conselho Nacional de Justiça  e do CSJT de combate a assédios e a todo tipo de violência laboral precisam ser aplicadas sem distinção, sob pena de virarem letra morta — afirma Quiroga.\nComo mostrou a coluna, Norris foi afastado em setembro de 2025 após uma sindicância que reuniu depoimentos de servidores e ex-servidores de seu gabinete e documentos sobre denúncias de assédio moral desde 2013. Entre os casos estão cobranças excessivas de metas, exposição vexatória de funcionários, ameaças de difamação e pressão para que servidores não tirassem licenças médicas.\nA investigação também identificou elevada rotatividade de funcionários no gabinete. Cerca de 40 servidores passaram pelo setor entre 2011 e 2024, além de registros de afastamentos por adoecimento psicológico e psiquiátrico.\nEm dezembro de 2025, o CSJT rejeitou, por maioria, um pedido de esclarecimento apresentado pelo desembargador contra a abertura do processo disciplinar e seu afastamento. Na ocasião, o corregedor-geral da Justiça do Trabalho, ministro José Roberto Pimenta, destacou que laudos médicos apontavam impactos relevantes na saúde mental dos servidores, associados ao ambiente de trabalho considerado hostil.\nO processo é relatado pela conselheira Maria Helena Mallmann.\nNorris nega as acusações. Em manifestação à coluna em setembro de 2025, afirmou que o procedimento seria uma represália do setor médico do TRT-RJ por ter denunciado licenças médicas que considerava fraudulentas. Segundo o desembargador, o tribunal regional havia encaminhado o caso para arquivamento antes de o processo ser requisitado pela Corregedoria da Justiça do Trabalho.",
+    "published": "2026-11-25T18:40:12+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O Conselho Superior da Justiça do Trabalho (CSJT) julga, nesta sexta-feira (27), o processo administrativo disciplinar contra o desembargador Roberto Norris, do Tribunal Regional do Trabalho da 1ª Região (TRT-1), no Rio de Janeiro. Afastado cautelarmente das funções desde setembr",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Análise: Washington amplia o alcance das tarifas e exporta incerteza",
+    "link": "https://valor.globo.com/brasil/noticia/2026/11/25/analise-washington-amplia-o-alcance-das-tarifas-e-exporta-incerteza.ghtml",
+    "description": "A política comercial de Donald Trump está produzindo um efeito que vai além do aumento das barreiras às importações: a incerteza sobre as condições de acesso ao mercado americano passou a fazer parte das relações econômicas dos Estados Unidos com seus parceiros. A nova rodada de investigações comerciais anunciada nesta quarta-feira amplia esse ambiente ao colocar sob questionamento políticas industriais de grandes economias, inclusive de países que mantêm relações estratégicas com Washington. Para o Brasil, o movimento tem uma particularidade: além dos efeitos indiretos dessa ofensiva, o país continua submetido a um contencioso bilateral específico. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-25T18:39:10+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "A política comercial de Donald Trump está produzindo um efeito que vai além do aumento das barreiras às importações: a incerteza sobre as condições de acesso ao mercado americano passou a fazer parte das relações econômicas dos Estados Unidos com seus parceiros. A nova rodada de ",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Oposição de Israel avança com investigação sobre ataque do Hamas de 7 de outubro",
+    "link": "https://valor.globo.com/mundo/noticia/2026/11/25/oposio-de-israel-avana-com-investigao-sobre-ataque-do-hamas-de-7-de-outubro.ghtml",
+    "description": "O Parlamento de Israel, controlado pela oposição, deu nesta quarta-feira (25) o aval inicial para uma investigação independente sobre o ataque do Hamas de 7 de outubro de 2023, à qual o primeiro-ministro Benjamin Netanyahu se opõe, mas que foi prometida por adversários que tentam tirá-lo do poder.\nLeia também:\nEisenkot enfrenta obstáculo para formar governo em Israel após recuo da esquerda\nCom qualquer líder em Israel, plano de 2 Estados é quase inviável hoje\nAtaques israelenses matam funcionário de agência da ONU e outras 2 pessoas em Gaza\nA votação desta quarta-feira foi a primeira das quatro necessárias para aprovar uma lei que estabeleça uma comissão estatal para investigar as falhas de Israel que antecederam o dia mais letal de sua história.\n\nO Parlamento também votou a favor de um projeto de lei que estabeleceria limites para os mandatos dos primeiros-ministros e os impediria de exercer o cargo enquanto fossem alvo de acusações criminais formais, medidas aparentemente direcionadas a Netanyahu, o líder israelense há mais tempo no poder, que enfrenta acusações de corrupção que nega.\n\nNetanyahu permanece no cargo interinamente após sua coalizão perder a maioria parlamentar nas eleições do mês passado.\n\nEm um pronunciamento televisionado, Netanyahu afirmou que o projeto de lei era “um instrumento de eliminação política” utilizado no Irã e em várias ditaduras.\n\n“Não existe nada parecido em nenhuma democracia”, disse Netanyahu.\n\nSeus adversários assumiram o controle da pauta do Legislativo, embora o líder oposicionista Gadi Eisenkot, encarregado pelo presidente de Israel de formar um novo governo, tenha enfrentado dificuldades até agora para reunir uma nova coalizão governista capaz de tirar Netanyahu do poder.\nPessoas carregam bandeiras de Israel ao passar por uma instalação que marca o terceiro aniversário do ataque do Hamas em 7 de outubro de 2023\nOded Balilty/AP\n\n‘Revelaremos a verdade’\nPesquisas indicaram amplo apoio popular à criação de uma comissão estatal para investigar a maior falha de segurança do país em décadas.\n\n“Pelas famílias enlutadas, pelos sobreviventes do cativeiro e por aqueles que não voltaram vivos para nós, revelaremos a verdade e tomaremos todas as medidas para evitar o próximo desastre”, afirmou Eisenkot em uma publicação nas redes sociais.\n\nO bloco de Eisenkot, formado por partidos de oposição liderados por judeus, contou com o apoio de legendas que representam a minoria árabe para aprovar o projeto de lei que estabelece a investigação. Ao todo, 65 parlamentares votaram a favor e 50 votaram contra.\n\nNetanyahu se opõe a uma investigação independente e, em vez disso, tem exigido uma investigação com poderes conferidos pelo governo, que daria aos parlamentares a autoridade para escolher os integrantes da comissão e ao gabinete o poder de definir seu mandato. Críticos, entre eles Eisenkot, descrevem a proposta como uma tentativa de Netanyahu de encobrir a verdade.\n\nNão houve comentários imediatos de Netanyahu ou de seu gabinete sobre o projeto de lei para iniciar uma investigação. Uma aliada próxima de Netanyahu, a ministra dos Transportes, Miri Regev, afirmou que o “projeto de lei não levará a uma análise das falhas que ocorreram”, mas, em vez disso, irá “investigar nossos soldados corajosos e heroicos”.\n\nMilitantes liderados pelo Hamas mataram 1.200 pessoas e fizeram mais de 250 reféns no ataque ao sul de Israel em 7 de outubro de 2023. Isso desencadeou a ofensiva militar israelense em Gaza, que matou mais de 74 mil palestinos e provocou o deslocamento interno de quase toda a população de 2 milhões de habitantes.\nPrimeiro-ministro interno de Israel, Benjamin Netanyahu, se opõe às investigações sobre o 7 de Outubro\nAbir Sultan/Pool Photo via AP\n\n\nIndefinição do próximo governo\nA coalizão de Netanyahu, formada por partidos de extrema direita e ultraortodoxos, perdeu sua maioria parlamentar nas eleições de 27 de outubro, ficando reduzida a 53 das 120 cadeiras do Knesset, embora seu partido de direita, o Likud, continue sendo a maior legenda.\n\nO bloco de Eisenkot, formado por parlamentares de direita, esquerda e centro de partidos liderados por judeus, conquistou apenas 48 cadeiras. A maioria desses grupos se recusou até agora a formar uma coalizão com partidos liderados por árabes, que conquistaram um recorde de 19 cadeiras. Eisenkot tem até 6 de dezembro para formar uma coalizão, com a possibilidade de uma prorrogação de 14 dias.\n\nAté agora, os parlamentares árabes têm votado com Eisenkot e seus aliados em propostas legislativas, permitindo que eles façam avançar projetos de lei no Parlamento e definam suas prioridades, incluindo a eleição, na semana passada, de um integrante do partido Yashar, de Eisenkot, para a presidência do Knesset.\n\nCaso Eisenkot não consiga formar um governo, Netanyahu provavelmente terá a próxima oportunidade. Se nenhum governo puder ser formado, novas eleições serão realizadas.",
+    "published": "2026-11-25T18:38:52+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O Parlamento de Israel, controlado pela oposição, deu nesta quarta-feira (25) o aval inicial para uma investigação independente sobre o ataque do Hamas de 7 de outubro de 2023, à qual o primeiro-ministro Benjamin Netanyahu se opõe, mas que foi prometida por adversários que tentam",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Segurar dólares à força pode sair pela culatra: o alerta do UBS WM para o Brasil não seguir o caminho de Argentina e Venezuela",
+    "link": "https://www.moneytimes.com.br/segurar-dolares-a-forca-pode-sair-pela-culatra-o-alerta-do-ubs-wm-para-o-brasil-nao-seguir-o-caminho-de-argentina-e-venezuela-miql/",
+    "description": "Restringir a saída de dólares pode parecer uma solução para conter a desvalorização do real. Se enviar dinheiro ao exterior ficar mais caro ou burocrático, a tendência seria reduzir a saída de recursos e aliviar a pressão sobre o câmbio. Mas, na avaliação do UBS Global Wealth Management, essa estratégia pode produzir o efeito contrário: [&#8230;]",
+    "published": "2026-11-25T18:37:00+00:00",
+    "themes": [
+      "Economia",
+      "Asset"
+    ],
+    "summary": "Restringir a saída de dólares pode parecer uma solução para conter a desvalorização do real. Se enviar dinheiro ao exterior ficar mais caro ou burocrático, a tendência seria reduzir a saída de recursos e aliviar a pressão sobre o câmbio. Mas, na avaliação do UBS Global Wealth Man",
+    "relevance": 5
+  },
+  {
+    "source": "Money Times",
+    "title": "Governo nega que vá ‘salvar’ BRB por meio da Caixa",
+    "link": "https://www.moneytimes.com.br/governo-nega-que-va-salvar-brb-por-meio-da-caixa/",
+    "description": "O secretário do Tesouro Nacional, Rogério Ceron, negou nesta terça-feira (25) que exista qualquer movimento do governo federal para federalizar ou socorrer o Banco de Brasília (BSLI3) por meio da Caixa Econômica Federal. Segundo Ceron, não há discussões em andamento para que a Caixa assuma o controle da instituição financeira controlada pelo Distrito Federal. &#8220;Não [&#8230;]",
+    "published": "2026-11-25T18:33:44+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O secretário do Tesouro Nacional, Rogério Ceron, negou nesta terça-feira (25) que exista qualquer movimento do governo federal para federalizar ou socorrer o Banco de Brasília (BSLI3) por meio da Caixa Econômica Federal. Segundo Ceron, não há discussões em andamento para que a Ca",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Prédios construídos para habitação popular que funcionavam como hospedagem temporárias são interditados na Vila Mariana",
+    "link": "https://oglobo.globo.com/brasil/sao-paulo/noticia/2026/11/25/predios-construidos-para-habitacao-popular-que-funcionavam-como-hospedagem-temporarias-sao-interditados-na-vila-mariana.ghtml",
+    "description": "Quem passa pelas movimentadas ruas Tomás Carvalhal e Cubatão, na Vila Mariana, na zona sul de São Paulo, vê prédios novos com placas de \"interditado por atividade irregular\". Antes, o vai-e-vem de pessoas chegando com malas era constante, mas há meses os edifícios estão fechados por determinação da prefeitura. O motivo: os locais, que se autodenominavam hotéis, na verdade eram apartamentos destinados a pessoas de baixa renda usados para locação temporária, em plataformas como Airbnb e Booking. Agora, estão vazios e sem previsão de uso.\nA prefeitura já havia multado a Cozzy Studios, responsável pelos edifícios, em R$ 224,8 mil e mais recentemente cassou os “habite-se”, autorização municipal para que um imóvel seja ocupado após a construção. No site, a empresa informou que encerrou suas atividades e que os clientes devem entrar em contato para pedidos de reembolso.\nDesde 2025, a prefeitura vem fiscalizando e multando construtoras por fraudes em habitações de interesse social (HIS) e de mercado popular (HMP) em São Paulo. Isso porque, desde 2014, unidades que têm essa classificação recebem incentivos financeiros da prefeitura, como isenção de outorga urbanística,  para construir moradias para um público-alvo específico: famílias que ganham entre 1 e 10 salários mínimos, a depender do tipo. \nNa prática, porém, muitas dessas unidades acabaram vendidas para investidores, com o objetivo de locação temporária em plataformas digitais, com conivência das construtoras e corretoras responsáveis pela venda. A gestão vinha notificando e multando as incorporadoras que não conseguiam comprovar o cumprimento das regras, mas a interdição completa dos imóveis que funcionam irregularmente como verdadeiros hotéis é uma medida mais recente. \nEdifício com habitações destinadas a quem ganha até 10 salários mínimos, na Rua Tomás Carvalhal, Vila Mariana, era usado como hotel\nHyndara Freitas/O GLOBO\nOs prédios interditados na Vila Mariana são da Cozzy Studios, que sempre se apresentou como um hotel em suas comunicações nas redes sociais. No edifício que fica na Rua Tomás Carvalhal, há ao todo 91 unidades classificadas como Habitação de Mercado Popular (HMP), que deveria ser destinada a quem ganha de 6 a 10 salários mínimos, e 19 unidades classificadas como não-residenciais, voltadas a serviços de hospedagem. Pela lei, somente essas 19 é que poderiam funcionar como hotel, mas a Secretaria Municipal de Urbanismo e Licenciamento (SMUL) constatou que o prédio inteiro era usado para este fim. \nSegundo o processo de fiscalização, somente depois que começou a ser fiscalizada pela prefeitura, em maio, é que a Cozzy começou a publicar anúncios em seus perfis na internet afirmando que algumas unidades eram classificadas como HMP. Em uma vistoria, fiscais da prefeitura constataram que o prédio tem entrada única, e todos os apartamentos têm as mesmas características, tamanho e acabamentos e mobiliários semelhantes, com a mesma identificação. No local, não foi identificada nenhuma referência de que parte dos apartamentos era destinado a um público com faixa de renda específica e não para hotelaria. \nO outro edifício interditado fica na Rua Cubatão, que tem 80 unidades classificadas como HMP, e mais de uma dezena classificadas como não-residencial. Também neste prédio, todos os apartamentos eram usados como hotel, segundo as vistorias feitas pela prefeitura, mas o local sequer tinha licença de funcionamento para esta atividade. \nA empresa acionou a Justiça por meio de um mandado de segurança em maio, quando houve as primeiras notificações determinando a suspensão do Habite-se dos edifícios, mas depois de ter a liminar não concedida, a Cozzy desistiu da ação. O GLOBO entrou em contato com a empresa para entender o que será feito com os edifícios, mas não recebeu retorno até o fechamento desta reportagem. \nDez anos sem fiscalização\nReportagem do GLOBO publicada em agosto mostrou como a cidade passou dez anos sem fiscalizar a política pública de incentivos para as incorporadoras construírem unidades para a população de baixa renda. O Ministério Público (MP-SP) passou a investigar o tema em 2022.\nFoi só em 2024, uma década após a aprovação do Plano Diretor que instituiu os incentivos para a construção dos imóveis, que a prefeitura abriu os primeiros processos para fiscalizar e punir as construtoras suspeitas de terem vendido as unidades HIS e HMP para pessoas com renda acima da permitida em lei. Em janeiro de 2025 vieram as primeiras multas e, de lá para cá, foram R$ 44,1 milhões em autuações por irregularidade, segundo a Secretaria Municipal de Habitação (Sehab), a diferentes empresas. O universo total de imóveis que foram vendidos para pessoas fora da renda permitida ainda é desconhecido.\nA pasta está fiscalizando 190.776 unidades habitacionais classificadas como HIS ou HMP e, até o momento, 45 processos foram finalizados com a sanção de 709 unidades autuadas. A prefeitura afirmou, em nota, que visa \"garantir que os imóveis subsidiados pelo município cumpram estritamente o seu papel social e a legislação\". Em agosto, o Airbnb começou a remover os anúncios de unidades com as restrições de renda de sua plataforma.",
+    "published": "2026-11-25T18:32:53+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Quem passa pelas movimentadas ruas Tomás Carvalhal e Cubatão, na Vila Mariana, na zona sul de São Paulo, vê prédios novos com placas de \"interditado por atividade irregular\". Antes, o vai-e-vem de pessoas chegando com malas era constante, mas há meses os edifícios estão fechados ",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "PT oferece Transportes e Previdência ao MDB, que tenta renegociar",
+    "link": "https://www.poder360.com.br/poder-governo/pt-oferece-transportes-e-previdencia-ao-mdb-que-tenta-renegociar/",
+    "description": "Partido quer incluir em pacote o ministério das Cidades, atualmente sob seu controle",
+    "published": "2026-11-25T18:31:47+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Partido quer incluir em pacote o ministério das Cidades, atualmente sob seu controle",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Encontro de Lula com Trabuco pode ter sido de aconselhamento, mas aliados não descartam convite para a Fazenda",
+    "link": "https://valor.globo.com/financas/noticia/2026/11/25/encontro-de-lula-com-trabuco-pode-ter-sido-de-aconselhamento-mas-aliados-nao-descartam-convite-para-a-fazenda.ghtml",
+    "description": "Em meio à expectativa pelo anúncio do novo ministro da Fazenda, o nome do presidente do conselho de administração do Bradesco, Luiz Carlos Trabuco Cappi, passou a circular nesta quarta-feira (25) como cotado para a pasta, depois que veio à tona uma reunião dele com o presidente Luiz Inácio Lula da Silva na segunda-feira (23), fora da agenda oficial, no Palácio da Alvorada. Amigo e conselheiro de longa data de Lula, não há confirmação se Trabuco foi convidado pelo presidente para assumir a Fazenda, ou se ocorrendo o convite, ele aceitou. \nLeia também: Visto no mercado como cotado à Fazenda, Trabuco participa de solenidade na Câmara\n\nUm dos aliados mais próximos do presidente não descartou que Lula possa ter convidado Trabuco para assumir a política fiscal do próximo governo, mas ressalvou que o encontro também pode ter sido de aconselhamento e análise da atual conjuntura política e econômica. Além da amizade que remonta ao primeiro mandato do petista, Trabuco é membro do Conselho de Desenvolvimento Econômico Social Sustentável do governo, o Conselhão.\n\nEste aliado ressaltou, contudo, que se houve o convite, foi precedido de uma sondagem, porque um político com a experiência de Lula, caminhando para o quarto mandato presidencial, não se reuniria com o candidato a ministro para ouvir um \"não\". Argumentou que, naturalmente, sobre ministério, Lula se reúne com o interlocutor para consumar o fato e tratar das tarefas do futuro auxiliar. \n\nUma fonte do mercado financeiro disse ao Valor que, até onde se tem conhecimento, o executivo tem afirmado aos interlocutores que não teria interesse em assumir o ministério. Nesta hipótese, assim como em 2014, Trabuco poderia indicar ou respaldar nomes para a função. Procurado por meio da assessoria, Trabuco não quis comentar. \n\nEste aliado próximo do presidente lembrou que, em 2014, Lula atuou como interlocutor da então presidente reeleita Dilma Rousseff para sondar o executivo para assumir o Ministério da Fazenda do segundo mandato da petista. Na ocasião, Trabuco declinou do convite, mas foi um dos padrinhos da indicação do economista Joaquim Levy para a missão de equilibrar as contas públicas. Egresso do mercado financeiro, Levy foi bombardeado pelo PT durante toda a gestão, e deixou o ministério antes de completar um ano no cargo. \n\nEm contrapartida, o mesmo aliado de Lula observou que pode ter sido apenas mais uma das reuniões que o petista vem fazendo, desde a vitória, para consultar economistas sobre o cenário fiscal e monetário. Além de ouvir, com frequência, os ministros da Fazenda, Dario Durigan, do Planejamento, Bruno Moretti, da Gestão e Inovação, Esther Dweck, o presidente do Banco Nacional de Desenvolvimento Econômico e Social (BNDES), Aloizio Mercadante, e o presidente do Banco Central, Gabriel Galípolo, o presidente tem se consultado com especialistas de visões distintas da economia, liberais e heterodoxos.  \n\nAliados e auxiliares presidenciais ouvidos pelo Valor observaram que a definição sobre o novo ministro da Fazenda vem sendo mantida em sigilo absoluto por Lula, e pelos poucos confidentes que compartilham da informação. O Valor apurou que Lula pretende anunciar o nome até o dia 2, a fim de que o novo titular da pasta conduza, junto ao Congresso, a discussão sobre o novo pacote fiscal, que deve ser enviado ao Legislativo na forma de proposta de emenda constitucional (PEC). Além de Trabuco, continuam cotados para o cargo o vice-presidente Geraldo Alckmin, o governador reeleito do Piauí, Rafael Fonteles (PT), e o próprio Durigan. \nO presidente do conselho de administração do Bradesco, Luiz Carlos Trabuco Cappi\nCarol Carquejeiro/Valor",
+    "published": "2026-11-25T18:25:13+00:00",
+    "themes": [
+      "Economia",
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "Em meio à expectativa pelo anúncio do novo ministro da Fazenda, o nome do presidente do conselho de administração do Bradesco, Luiz Carlos Trabuco Cappi, passou a circular nesta quarta-feira (25) como cotado para a pasta, depois que veio à tona uma reunião dele com o presidente L",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Após tombo na véspera, ações da Vale passam por correção e sobem mais de 3%",
+    "link": "https://valor.globo.com/financas/noticia/2026/11/25/aps-tombo-na-vspera-aes-da-vale-passam-por-correo-e-sobem-mais-de-3-pontos-percentuais.ghtml",
+    "description": "Um dia após terminar o pregão com queda de 5,51%, os papéis da Vale passam por um pregão de correção e sobem mais de 3%, ampliando os ganhos durante a tarde. A intensificação da alta é alimentada pela virada positiva de pares globais, como a BHP Group e a Rio Tinto.  \n\nPor volta das 15h15, as ações da Vale subiam 3,12%, a R$ 56,92, sendo que tocaram os R$ 57,03, na máxima intradiária. No mesmo horário, os recibos de ações negociados nos EUA (ADRs) da mineradora ganhavam 4,38%, enquanto os da BHP tinham alta de 0,40% e os da Rio Tinto se valorizavam 1,09%.  \n\nNo horário acima, o Ibovespa subia 1,36%, aos 166.314 pontos.",
+    "published": "2026-11-25T18:24:44+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Um dia após terminar o pregão com queda de 5,51%, os papéis da Vale passam por um pregão de correção e sobem mais de 3%, ampliando os ganhos durante a tarde. A intensificação da alta é alimentada pela virada positiva de pares globais, como a BHP Group e a Rio Tinto.  \n\nPor volta ",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Gravações e disputas por propina: quem é o chinês por trás do esquema que envolve MC Ryan SP",
+    "link": "https://oglobo.globo.com/brasil/noticia/2026/11/25/gravacoes-e-disputas-por-propina-quem-e-o-chines-por-tras-do-esquema-que-envolve-mc-ryan-sp.ghtml",
+    "description": "Apontado pela Polícia Federal como o principal articulador em território brasileiro de uma organização criminosa transnacional que movimentou mais de R$ 3,2 bilhões, o chinês Sun Chunyang ocupava uma posição estratégica na engrenagem de lavagem de dinheiro e golpes digitais investigada pela Operação Narco Fluxo. O grupo utilizava uma estrutura internacional de empresas e instituições de pagamento para movimentar o dinheiro fruto do tráfico de drogas, apostas ilegais e rifas digitais. \nUma das principais peças dessa engrenagem era a Golden Cat Processamento de Pagamento Ltda., fintech que concentrava valores arrecadados por plataformas clandestinas de apostas e viabilizava remessas ao exterior.  A companhia era administrada por Sun.\nConhecido pelos apelidos de \"Roberto\" e \"Tom\", Sun era responsável por estruturar empresas de fachada, contratar advogados e contadores e articular contatos com agentes públicos para proteger as atividades do grupo. Subordinado ao líder estrangeiro Yuqi Cheng, conhecido como \"Gavin\", Sun também participava da administração e da distribuição dos recursos.\nMensagens, gravações e comprovantes financeiros extraídos dos dispositivos apreendidos pela PF revelam, porém, que a organização estava longe de funcionar sem conflitos. Os registros mostram disputas internas pela divisão do dinheiro, atrasos nos pagamentos de \"laranjas\", tentativas de ocultar provas e até suspeitas de que integrantes desviavam parte dos recursos destinados ao pagamento de propina.\nEm outubro de 2025, por exemplo, Sun gravou secretamente uma reunião virtual da cúpula da organização. Durante o encontro, o investigado José Vieira da Silva Junior afirmou que cerca de R$ 2 bilhões haviam sido lavados por meio de contas laranjas.  \nEm outro episódio, diante da ameaça de um integrante de revelar detalhes da suposta lavagem bilionária, Sun e seus advogados discutiram a possibilidade de acionar policiais civis cooptados pela rede para intimidar o integrante.\nAs disputas também envolviam a divisão dos recursos destinados ao pagamento de servidores públicos. Em dezembro de 2025, Sun informou a Gavin que precisava de R$ 60 mil para pagar propina a servidores do Banco Central do Brasil em troca de informações sigilosas.\nO cruzamento de mensagens e comprovantes financeiros feitos pela investigação identificaram uma transferência de R$ 30 mil para uma conta do núcleo do grupo que receberia os pagamentos. A PF sustenta que os outros R$ 30 mil teriam sido retidos e divididos secretamente entre Sun e um advogado, sem o conhecimento de Gavin.\nA manutenção da estrutura de empresas de fachada também provocava conflitos. Segundo a decisão judicial, a organização desembolsava mais de R$ 100 mil por mês com escritórios de contabilidade para apresentar declarações acessórias de empresas inativas, sem registrar movimentação comercial. O objetivo era \"evitar o pagamento de tributos\" e \"evitar a baixa automática perante os órgãos públicos\", mantendo as sociedades disponíveis para utilização futura.\nParte dessa estrutura dependia de pessoas que emprestavam seus nomes para figurar formalmente como responsáveis pelas empresas, os chamados laranjas. Em troca, recebiam pagamentos mensais. Os atrasos, porém, provocavam cobranças e ameaças.\nEm um caso, por exemplo, uma dessas pessoas deixou de receber sua mensalidade e tentou obstruir o esquema. Em determinado momento, Sun precisou com urgência da assinatura dessa pessoa em procurações e documentos bancários, e ela se recusou a assinar qualquer papel até que os valores atrasados fossem quitados. Uma \"greve de caneta\", como descreveram os investigadores.\nNão era a primeira vez que Sun aparecia em investigações no Brasil. Em 2024, ele foi alvo da Operação Desfortuna, da Polícia Civil do Rio de Janeiro, que investigou a promoção irregular de jogos de azar on-line, como o Jogo do Tigrinho. Dois anos antes, durante a CPI da Manipulação de Partidas de Futebol, Sun e Hao foram citados em discussões sobre o mercado clandestino de apostas, mas não foram convocados a depor.\nSun foi alvo de um mandado de prisão da Justiça Federal em abril, no âmbito da Operação Narco Fluxo, e chegou a ser preso.\nA reportagem não conseguiu contato com o advogado de Sun e não localizou as defesas de Yuqi Cheng, de José Vieira da Silva Junior e da Golden Cat. \nAlvo de ações judiciais no Brasil e de reclamações em sites de defesa do consumidor, e empresa Golden Cat não constituiu advogados em processos encontrados pelo GLOBO.",
+    "published": "2026-11-25T18:22:34+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Apontado pela Polícia Federal como o principal articulador em território brasileiro de uma organização criminosa transnacional que movimentou mais de R$ 3,2 bilhões, o chinês Sun Chunyang ocupava uma posição estratégica na engrenagem de lavagem de dinheiro e golpes digitais inves",
+    "relevance": 5
+  },
+  {
+    "source": "O Globo",
+    "title": "Alcolumbre faz afagos a Tereza Cristina e promete atender a demandas da bancada feminina em meio à disputa pelo Senado",
+    "link": "https://oglobo.globo.com/politica/noticia/2026/11/25/alcolumbre-faz-afagos-a-tereza-cristina-e-promete-atender-a-demandas-da-bancada-feminina-em-meio-a-disputa-pelo-senado.ghtml",
+    "description": "Em meio às articulações pela reeleição à presidência do Senado, Davi Alcolumbre (União-AP) fez elogios à senadora Tereza Cristina (PP-MS), uma de suas adversárias na disputa pelo comando da Casa, durante um café da manhã com a bancada feminina nesta quarta-feira. Segundo participantes do encontro, Alcolumbre chamou Tereza de grande senadora e de quadro importante da Casa, reconheceu a legitimidade de sua candidatura e disse que seguirá comprometido com as pautas das mulheres mesmo se deixar a presidência.\nÀ mesa, Alcolumbre falou abertamente sobre sua candidatura à reeleição, mas, segundo a senadora Eliziane Gama (PSD-MA), não chegou a pedir apoio às colegas. Tereza também tomou a palavra e fez uma intervenção mais ampla, sem entrar na disputa pelo comando da Casa.\n— Todos sabem que o presidente concorre à reeleição e isso fica implícito no debate — afirmou Eliziane.\nO encontro também serviu para as parlamentares apresentarem suas reivindicações para a próxima legislatura. A partir de fevereiro, elas formarão a maior bancada feminina da história do Senado, com 18 integrantes, e querem que esse peso se reflita na distribuição de relatorias, inclusive de medidas provisórias e de projetos econômicos e tributários.\n— Ele disse que é candidato à presidência do Senado, mas que, mesmo que não fosse eleito, se comprometeria com a pauta feminina. Nós pedimos para estar nas relatorias de pautas além do feminino, como MPs — disse Marília Campos (PT-MG).\nA líder da bancada feminina, Professora Dorinha Seabra (União-TO), afirmou que Alcolumbre prometeu dar andamento às propostas defendidas pelo grupo se permanecer no comando da Casa.\n— Ele se comprometeu, inclusive, com a regularidade desse momento com as senadores. E ele foi muito transparente, até porque colocou a legitimidade, e a senadora Tereza Cristina esteve junto. Não é campanha. Campanha ele está fazendo individualmente — afirmou Dorinha.\nOs afagos vieram depois de Tereza recusar um convite de Alcolumbre para relatar a Lei de Diretrizes Orçamentárias (LDO). A senadora quis evitar que a indicação fosse lida como sinal de um entendimento com o presidente da Casa que pudesse levar à sua saída da disputa. Alcolumbre acabou escolhendo Eduardo Gomes (PL-TO) para a função.\nTereza mantém a candidatura mesmo depois de a federação União-PP formalizar apoio à reeleição de Alcolumbre, a despeito de sua filiação ao PP. Aliados dela e de Rogério Marinho (PL-RN), que também disputa o posto, defendem que a direita chegue à eleição com um só nome. Há um entendimento de que os dois devem evitar concorrer um contra o outro, mas o critério para definir quem segue na disputa continua em aberto.\nDuas senadoras do DF ficaram de fora do café presencial. A ex-primeira-dama e senadora eleita Michelle Bolsonaro (PL-DF), cujo apoio é disputado por Tereza e Marinho, acompanha o marido, internado em Brasília. Damares Alves (Republicanos-DF) também não foi por causa de exames médicos e participou por videochamada.\nBancada quer mais espaço nas relatorias\nAs senadoras defenderam que as demandas da bancada feminina sejam levadas em conta na distribuição de relatorias, além das indicações partidárias.\n— Nós, mulheres, temos pautas ligadas à questão da violência contra a mulher, à questão da saúde, mas nós também temos interesse em discutir sobre questão tributária, financiamento, relatorias de medidas provisórias, de textos importantes — afirmou Dorinha.\nTambém estiveram na conversa a reforma do Código Civil, o Código Eleitoral, o combate à violência política contra a mulher e o fim da reeleição para presidente da República. Preocupadas com os efeitos do voto distrital misto sobre a representação feminina, as senadoras pediram para participar desde já das discussões sobre mudanças no sistema eleitoral, em curso na Câmara. Elas querem evitar que uma eventual proposta chegue ao Senado com pouco tempo para debate.\nDorinha também cobrou que o Orçamento preveja recursos para as políticas voltadas às mulheres.\n— Quando a gente fala que o tema e a questão das mulheres são importantes, mas, quando a gente olha o Orçamento, não vê a presença do recurso, isso não se traduz como prioridade — disse.\nAlcolumbre se comprometeu ainda a realizar encontros regulares entre a presidência do Senado e a bancada feminina.",
+    "published": "2026-11-25T18:21:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Em meio às articulações pela reeleição à presidência do Senado, Davi Alcolumbre (União-AP) fez elogios à senadora Tereza Cristina (PP-MS), uma de suas adversárias na disputa pelo comando da Casa, durante um café da manhã com a bancada feminina nesta quarta-feira. Segundo particip",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Fluxo cambial registra saída de US$ 1,535 bilhão na semana de 16 a 19 de novembro",
     "link": "https://valor.globo.com/financas/noticia/2026/11/25/fluxo-cambial-registra-saida-de-us-1535-bilhao-na-semana-de-16-a-19-de-novembro.ghtml",
@@ -57,6 +231,18 @@
       "Economia"
     ],
     "summary": "O mercado brasileiro de produtos digitais está trocando volume por valor. Na Eduzz, ecossistema com soluções focadas em empreendedores digitais pela qual mais de 140 mil produtores já fizeram pelo menos uma venda, segundo a empresa, o ticket mediano gira em torno de R$ 60 nos inf",
+    "relevance": 5
+  },
+  {
+    "source": "Financial Times",
+    "title": "Billionaire financier Todd Boehly strikes deal for Lukoil assets",
+    "link": "https://www.ft.com/content/643dc287-d112-4715-bdf1-aa49b98a4af7?syn-25a6b1a6=1",
+    "description": "Boehly’s Eldridge will swap Russia-listed shares in Lukoil and other businesses for the oil company’s international business",
+    "published": "2026-11-25T18:03:33+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Boehly’s Eldridge will swap Russia-listed shares in Lukoil and other businesses for the oil company’s international business",
     "relevance": 5
   },
   {
@@ -2126,6 +2312,10 @@
       {
         "source": "Valor Econômico",
         "link": "https://valor.globo.com/politica/noticia/2026/11/25/comissao-do-orcamento-aprova-relatorio-que-preve-ganho-liquido-de-r-176-bilhoes-na-arrecadacao-em-2027.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/noticia/2026/11/25/comissao-do-orcamento-aprova-relatorio-que-preve-r-176-bilhoes-a-mais-em-receitas-liquidas-para-2027.ghtml"
       }
     ]
   },
@@ -2217,6 +2407,10 @@
       {
         "source": "Poder360",
         "link": "https://www.poder360.com.br/brasil/governo-prorrogara-subvencao-ao-diesel-por-mais-1-mes-diz-moretti/"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-governo/governo-prorrogara-subvencao-ao-diesel-por-mais-1-mes-diz-moretti/"
       }
     ]
   },
@@ -3764,211 +3958,6 @@
       "Politica"
     ],
     "summary": "Roberto Alvo afirma à Bloomberg Línea que a depreciação do real e o ruído fiscal pós-eleição não alteraram, por ora, os planos para o país; companhia anunciará nas próximas semanas o destino da segunda leva de aviões regionais, que chega em dezembro e no início de 2027",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Real segue pressionado por fiscal, mas bancões veem espaço para alta em 2027; entenda",
-    "link": "https://www.infomoney.com.br/mercados/dolar-cambio-real-segue-pressionado-por-fiscal-mas-bancoes-veem-espaco-para-alta-em-2027-entenda/",
-    "description": "Depois de se encaminhar para um fim de 2026 entre as moedas emergentes mais pressionadas, o real entra em 2027 carregando uma combinação incomum de riscos e oportunidades\nThe post Real segue pressionado por fiscal, mas bancões veem espaço para alta em 2027; entenda appeared first on InfoMoney.",
-    "published": "2026-11-25T09:00:00+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Depois de se encaminhar para um fim de 2026 entre as moedas emergentes mais pressionadas, o real entra em 2027 carregando uma combinação incomum de riscos e oportunidades\nThe post Real segue pressionado por fiscal, mas bancões veem espaço para alta em 2027; entenda appeared first",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "A pasta para a qual Alexandre Silveira deve ir no Lula 4",
-    "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/11/a-pasta-para-a-qual-alexandre-silveira-deve-ir-no-lula-4.ghtml",
-    "description": "São razoáveis as chances de Alexandre Silveira deixar o Ministério de Minas e Energia e ir parar na Agricultura. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-25T08:52:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "São razoáveis as chances de Alexandre Silveira deixar o Ministério de Minas e Energia e ir parar na Agricultura. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Dow Jones futuro cai antes de inflação dos EUA e em meio a temor de novas tarifas",
-    "link": "https://www.infomoney.com.br/mercados/dow-jones-futuro-cai-antes-de-inflacao-dos-eua-e-em-meio-a-temor-de-novas-tarifas/",
-    "description": "Investidores aguardam o índice PCE de outubro e monitoram notícias de que Washington anunciará novas tarifas sobre parceiros como China e União Europeia\nThe post Dow Jones futuro cai antes de inflação dos EUA e em meio a temor de novas tarifas appeared first on InfoMoney.",
-    "published": "2026-11-25T08:49:22+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "Investidores aguardam o índice PCE de outubro e monitoram notícias de que Washington anunciará novas tarifas sobre parceiros como China e União Europeia\nThe post Dow Jones futuro cai antes de inflação dos EUA e em meio a temor de novas tarifas appeared first on InfoMoney.",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/financas/noticia/2026/11/25/juros-futuros-longos-recuam-em-linha-com-exterior-em-dia-de-dados-de-inflacao-nos-eua.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "Estadão",
-    "title": "Preocupação fiscal cresce e bancos de NY à Faria Lima reduzem recomendação de Brasil nas carteiras",
-    "link": "https://www.estadao.com.br/economia/preocupacao-fiscal-cresce-e-bancos-de-ny-a-faria-lima-reduzem-recomendacao-de-brasil-nas-carteiras/",
-    "description": "",
-    "published": "2026-11-25T08:30:00+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Preocupação fiscal cresce e bancos de NY à Faria Lima reduzem recomendação de Brasil nas carteiras",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "PIB da Alemanha cresce 0,1% no 3º tri, abaixo da estimativa inicial",
-    "link": "https://www.poder360.com.br/poder-economia/pib-da-alemanha-cresce-01-no-3o-tri-abaixo-da-estimativa-inicial/",
-    "description": "Resultado representa desaceleração em relação ao 1º semestre; exportações e investimentos em máquinas recuaram no período",
-    "published": "2026-11-25T08:17:02+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Resultado representa desaceleração em relação ao 1º semestre; exportações e investimentos em máquinas recuaram no período",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/economia/economia-da-alemanha-cresce-01-no-terceiro-trimestre-abaixo-da-previa/"
-      },
-      {
-        "source": "InfoMoney",
-        "link": "https://www.infomoney.com.br/economia/pib-eua-terceiro-trimestre-2026-segunda-estimativa/"
-      },
-      {
-        "source": "Money Times",
-        "link": "https://www.moneytimes.com.br/pib-dos-eua-cresce-43-no-terceiro-trimestre-acima-da-estimativa-inicial/"
-      }
-    ]
-  },
-  {
-    "source": "Money Times",
-    "title": "Projeto de regulação das big techs será votado na próxima semana",
-    "link": "https://www.moneytimes.com.br/projeto-de-regulacao-das-big-techs-sera-votado-na-proxima-semana-fets/",
-    "description": "O Projeto de Lei 4675/2025, conhecido como PL dos Mercados Digitais, vai entrar na pauta de votação do plenário da Câmara dos Deputados na próxima semana, informou o relator da matéria, deputado Aliel Machado (PV-PR). Em pronunciamento nesta terça-feira (24), Machado afirmou que o calendário foi definido diretamente com o presidente da Casa, Hugo Motta [&#8230;]",
-    "published": "2026-11-25T08:09:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O Projeto de Lei 4675/2025, conhecido como PL dos Mercados Digitais, vai entrar na pauta de votação do plenário da Câmara dos Deputados na próxima semana, informou o relator da matéria, deputado Aliel Machado (PV-PR). Em pronunciamento nesta terça-feira (24), Machado afirmou que ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Prêmio Médias de Valor revela as vencedoras da edição 2026",
-    "link": "https://valor.globo.com/empresas/noticia/2026/11/25/premio-medias-de-valor-revela-as-vencedoras-da-edicao-2026.ghtml",
-    "description": "Evento de premiação reuniu 200 convidados na noite de terça-feira (24) no Hotel Rosewood, na capital paulista\nKeiny Andrade\nO Prêmio Médias de Valor revelou as 20 empresas vencedoras de 2026 na terça-feira (24), em uma celebração no Hotel Rosewood, em São Paulo, para 200 convidados. A premiação avaliou os negócios inscritos por sua excelência em quatro temas: liderança, estratégia, processos e resultados. \nA iniciativa, criada pelo Valor  e por Pequenas Empresas & Grandes Negócios, conta com pesquisa da Fundação Dom Cabral (FDC) e é apresentada pelo Itaú Unibanco.\nPaulo Marinho, diretor-presidente da Globo: “São histórias construídas ao longo de diferentes gerações”\nKeiny Andrade\nPaulo Marinho, diretor-presidente da Globo e vice-presidente de Empresas de Mídia da holding do Grupo Globo, abriu o evento e parabenizou os empreendedores. “São histórias construídas ao longo de diferentes gerações, transformações tecnológicas, mudanças de comportamento e ciclos da economia brasileira”, afirmou.\nEdição 2026 do Prêmio Médias de Valor teve palestra de Artur Grymbaum, vice-presidente do conselho do Boticário\nKeiny Andrade\nA comemoração teve palestra de Artur Grynbaum, vice-presidente do conselho do Boticário. As 20 vencedoras, em ordem alfabética, são: Aeromot, AG TaxTech, Agrominas, Alctel Telecom, Apetit Serviços de Alimentação, Bibi, Buschle & Lepper, Deal Group, Estante Mágica, Grupo IAG Saúde, ília, Meireles e Freitas, Naturágua, Opus Construtech, Prática, Rhopen, Somai Alimentos, TSA, Spassu e Tutiplast. Veja a cobertura completa no site do Valor e no caderno especial que circula amanhã (26).",
-    "published": "2026-11-25T08:00:02+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Evento de premiação reuniu 200 convidados na noite de terça-feira (24) no Hotel Rosewood, na capital paulista\nKeiny Andrade\nO Prêmio Médias de Valor revelou as 20 empresas vencedoras de 2026 na terça-feira (24), em uma celebração no Hotel Rosewood, em São Paulo, para 200 convidad",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Ajuste fiscal deve ser insuficiente para redução expressiva de juros, diz Mello, da SulAmérica",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/25/ajuste-fiscal-deve-ser-insuficiente-para-reducao-expressiva-de-juros-diz-mello-da-sulamerica.ghtml",
-    "description": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-25T08:00:01+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Modernizar o Estado passa por atacar privilégios",
-    "link": "https://valor.globo.com/impresso/noticia/2026/11/25/modernizar-o-estado-passa-por-atacar-privilegios.ghtml",
-    "description": "O combate a privilégios no setor público, como os supersalários concentrados sobretudo no Judiciário, precisa integrar a agenda de modernização do Estado brasileiro, segundo especialistas. Embora a medida tenha impacto fiscal limitado, é importante para reduzir distorções, recuperar a confiança da sociedade e dar legitimidade à agenda fiscal. Também é importante que uma reforma administrativa aborde a estrutura das carreiras e a eficiência dos serviços públicos. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-25T08:00:01+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O combate a privilégios no setor público, como os supersalários concentrados sobretudo no Judiciário, precisa integrar a agenda de modernização do Estado brasileiro, segundo especialistas. Embora a medida tenha impacto fiscal limitado, é importante para reduzir distorções, recupe",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Promessas compram tempo; mercados aguardam entregas",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/25/promessas-compram-tempo-mercados-aguardam-entregas.ghtml",
-    "description": "É amplamente documentado na literatura econômica que as intervenções no mercado de câmbio, quando têm como finalidade segurar o preço de uma moeda, costumam ser malsucedidas. Funcionam, é verdade, para comprar tempo. Quando os fundamentos subjacentes que levaram à depreciação da moeda não mudam, os níveis indesejados acabam sendo testados novamente pelos investidores. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-25T08:00:01+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "É amplamente documentado na literatura econômica que as intervenções no mercado de câmbio, quando têm como finalidade segurar o preço de uma moeda, costumam ser malsucedidas. Funcionam, é verdade, para comprar tempo. Quando os fundamentos subjacentes que levaram à depreciação da ",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Ajuste de contas para os fundos de investimento",
-    "link": "https://valor.globo.com/financas/coluna/ajuste-de-contas-para-os-fundos-de-investimento.ghtml",
-    "description": "Existem no Brasil cerca de 34 mil fundos de investimento, de acordo com dados da Anbima, a associação que representa o setor. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-25T08:00:01+00:00",
-    "themes": [
-      "XP"
-    ],
-    "summary": "Existem no Brasil cerca de 34 mil fundos de investimento, de acordo com dados da Anbima, a associação que representa o setor. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Promessas compram tempo; mercados aguardam entregas",
-    "link": "https://valor.globo.com/financas/intraday/post/2026/11/promessas-compram-tempo-mercados-aguardam-entregas.ghtml",
-    "description": "É amplamente documentado na literatura econômica que as intervenções no mercado de câmbio, quando têm como finalidade segurar o preço de uma moeda, costumam ser malsucedidas. Funcionam, é verdade, para comprar tempo. Quando os fundamentos subjacentes que levaram à depreciação da moeda não mudam, os níveis indesejados acabam sendo testados novamente pelos investidores. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-25T08:00:01+00:00",
-    "themes": [
-      "Economia",
-      "Mercado Financeiro"
-    ],
-    "summary": "É amplamente documentado na literatura econômica que as intervenções no mercado de câmbio, quando têm como finalidade segurar o preço de uma moeda, costumam ser malsucedidas. Funcionam, é verdade, para comprar tempo. Quando os fundamentos subjacentes que levaram à depreciação da ",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Entenda como o dólar ao redor de R$ 6 encarece comida, eletrônicos e passagens aéreas",
-    "link": "https://www.infomoney.com.br/economia/dolar-a-6-reais-impacto-inflacao-precos/",
-    "description": "Alta da moeda americana em novembro chega primeiro aos alimentos no supermercado e deve ter efeito mais amplo sobre os preços em 2027, explica economista da FGV\nThe post Entenda como o dólar ao redor de R$ 6 encarece comida, eletrônicos e passagens aéreas appeared first on InfoMoney.",
-    "published": "2026-11-25T08:00:00+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Alta da moeda americana em novembro chega primeiro aos alimentos no supermercado e deve ter efeito mais amplo sobre os preços em 2027, explica economista da FGV\nThe post Entenda como o dólar ao redor de R$ 6 encarece comida, eletrônicos e passagens aéreas appeared first on InfoMo",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Congresso vê espaço para votar nova rodada de ajuste fiscal do governo ainda neste ano, mas proposta deve sofrer resistências",
-    "link": "https://oglobo.globo.com/economia/noticia/2026/11/25/congresso-ve-espaco-para-votar-nova-rodada-de-ajuste-fiscal-do-governo-ainda-neste-ano-mas-proposta-deve-sofrer-resistencias.ghtml",
-    "description": "A possibilidade de o governo do presidente Luiz Inácio Lula da Silva apresentar um novo pacote de ajuste fiscal ainda neste ano foi vista com bons olhos por parte do Congresso, mas deve enfrentar resistências em setores da oposição e em parte da base aliada. Após o governo conseguir a aprovação de um projeto no Congresso, com impacto estimado de até R$ 56 bilhões em 2027, o governo tem indicado nos bastidores a intenção de avançar em mais medidas com foco em gastos obrigatórios, mas ainda não decidiu o momento nem qual a dimensão de um novo pacote para melhorar a trajetória das contas públicas. A expectativa é que as mudanças sejam enviadas via  Proposta de Emenda à Constituição (PEC).\nAlém do calendário apertado, a indefinição sobre quem comandará o Ministério da Fazenda no próximo mandato de Lula é apontada como um obstáculo. Relator na Câmara do pacote fiscal sancionado nesta terça-feira, o deputado Mauro Benevides (União Brasil-CE) avalia que o presidente precisaria definir o futuro titular da pasta antes de encaminhar novas medidas ao Congresso.\n— Se o projeto que vier tiver o aval do novo ministro da Fazenda, aí é para passar mesmo — afirmou.\nAs conversas ocorrem em meio à avaliação de parlamentares de que as medidas aprovadas até agora não são suficientes para dar sustentação ao Orçamento de 2027. Nesta terça-feira, Lula sancionou o projeto de lei complementar (PLP) de ajuste fiscal aprovado pelo Congresso, que reúne medidas de contenção de despesas e aumento de arrecadação, com impacto estimado pela equipe econômica de R$ 45,1 bilhões a R$ 56,1 bilhões nas contas públicas do próximo ano.\nUm dos defensores da apresentação de uma nova proposta é o senador Eduardo Braga (MDB-AM), relator do pacote fiscal no Senado e também responsável pela relatoria do Orçamento de 2027. Durante as negociações do projeto sancionado nesta terça-feira, Braga já vinha defendendo a necessidade de medidas adicionais de ajuste, inclusive por meio de uma Proposta de Emenda à Constituição (PEC), para viabilizar as contas públicas do próximo ano.\nComo revelou o colunista Thomas Traumann, do GLOBO, a segunda etapa do ajuste deve reduzir o ritmo de crescimento dos gastos obrigatórios da União para o mesmo índice do arcabouço fiscal.\nAs medidas fariam com que o salário mínimo, as aposentadorias e os investimentos públicos fossem corrigidos pela inflação mais 2%. Com este novo texto, os gastos obrigatórios com saúde e educação e as emendas parlamentares também ficarão nesse limite, que hoje não é colocado sobre essas despesas.\nSe confirmado um pacote nessa direção, parte da bancada do PT já se movimenta para se colocar contrária à iniciativa. O deputado Lindbergh Farias (PT-RJ), que antagonizou com o ministro do Planejamento, Bruno Moretti, durante as discussões do primeiro pacote, evitou criticar o governo e disse duvidar que o Palácio do Planalto articule medidas que limitem o crescimento desses gastos.\n— Tem que saber direito o que é. Duvido que o governo coloque isso de mexer no piso de educação e saúde — afirmou ele.\nPor outro lado, mesmo entre integrantes da oposição, há quem considere que o calendário não é um impeditivo para a votação, desde que o Executivo encaminhe uma proposta bem estruturada e haja entendimento político em torno das medidas.\nO senador Esperidião Amin (PP-SC) avalia positivamente a possibilidade de o governo apresentar um novo pacote fiscal.\n— Você tem que celebrar se o governo apresentar mais um pacote ou dois para reduzir e buscar o equilíbrio. Isso é sinal de que o governo reconhece que precisa melhorar — afirmou.\nQuestionado sobre a possibilidade de aprovação de novas medidas ainda neste ano, Amin fez referência ao New Deal, programa de recuperação econômica implementado nos Estados Unidos na década de 1930.\n— Claro que dá. Quando a gente quer resolver e tem a solução, fica mais fácil. Para fazer o bem, nunca é tarde e o tempo nunca é curto — disse.\nJá o senador Rogério Marinho (PL-RN) afirmou que aguardará o envio do texto pelo governo antes de se posicionar sobre a proposta. O parlamentar, que é candidato à presidência do Senado e líder da oposição, indicou que os parlamentares bolsonaristas irão adotar a mesma estratégia feita na votação do projeto. A ideia é tentar mudar o texto caso haja medidas que revejam isenções e que mirem na alta da arrecadação.\nNa base governista, o senador Humberto Costa (PT-PE) avalia que há ambiente político para a discussão de novas medidas ainda neste ano, mas acredita que uma eventual proposta enfrentará resistência da oposição, independentemente do conteúdo apresentado pelo Executivo.\n— Se for minimamente conversado, tem clima. Mas óbvio que eles (oposição) devem se opor — afirmou.\nA discussão sobre uma nova rodada de ajuste fiscal também encontra abertura entre os presidentes das duas Casas legislativas. Nesta terça-feira, o presidente do Senado, Davi Alcolumbre (União Brasil-AP), sinalizou disposição para avançar sobre o tema, condicionando a discussão de uma eventual PEC a um entendimento entre os líderes partidários.\n— Se conversar com os líderes partidários e todos estiverem dispostos a fazer pelo país, independentemente do que tiver na redação do texto, vamos trabalhar — afirmou.\nAlcolumbre tem contribuído para o avanço de pautas prioritárias do governo nesta reta final do ano legislativo. Além de ter articulado a votação do pacote fiscal no Senado, o presidente da Casa também conduziu, no início de novembro, a aprovação da PEC da Segurança Pública, uma das principais apostas do Executivo na área.\nNa Câmara, o presidente da Casa, Hugo Motta (Republicanos-PB), também defendeu, após a conclusão da votação do pacote fiscal nesta segunda-feira, que o governo avance em novas medidas ainda neste ano.\n— Espero que o governo possa se conscientizar de que é necessário, ainda neste ano, tomarmos mais algumas medidas no que diz respeito à economia do país. Não estou aqui defendendo que se corte dos mais pobres, mas que tenhamos condições econômicas mais saudáveis — afirmou Motta.\nO pacote sancionado nesta terça-feira é considerado pelo governo fundamental para viabilizar o Orçamento do próximo ano, quando a meta fiscal é de superávit de 0,5% do Produto Interno Bruto (PIB), equivalente a R$ 73,2 bilhões.\nEntre as medidas que podem integrar uma nova PEC está o combate aos supersalários do funcionalismo público. O tema tem sido objeto de conversas de bastidores entre o Executivo e os demais Poderes, especialmente o Judiciário.",
-    "published": "2026-11-25T08:00:00+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "A possibilidade de o governo do presidente Luiz Inácio Lula da Silva apresentar um novo pacote de ajuste fiscal ainda neste ano foi vista com bons olhos por parte do Congresso, mas deve enfrentar resistências em setores da oposição e em parte da base aliada. Após o governo conseg",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Polícia prende condenado por roubo que mudou precedente do STF sobre apreensão de celulares",
-    "link": "https://oglobo.globo.com/rio/noticia/2026/11/25/policia-prende-condenado-por-roubo-que-mudou-precedente-do-stf-sobre-apreensao-de-celulares.ghtml",
-    "description": "Condenado por um roubo ocorrido em maio de 2013 na Tijuca, na Zona Norte do Rio, Guilherme Carvalho Farias foi preso este mês por policiais da 37ª DP (Ilha do Governador). Uma prisão que passaria despercebida, não fosse ele protagonista do processo que levou o Supremo Tribunal Federal (STF) a estabelecer os parâmetros constitucionais para o acesso policial a dados armazenados em aparelhos celulares, o chamado Tema 977.\nA prisão foi efetuada em São Cristóvão pelos policiais civis da delegacia, em cumprimento a mandado de prisão expedido pela 35ª Vara Criminal da Capital, expedido este mês após comunicação do Supremo Tribunal Federal. Guilherme deverá cumprir pena remanescente de sete anos de reclusão, em regime fechado, pelo crime de roubo.\n— Foi o próprio preso quem informou aos policiais civis, durante o cumprimento do mandado de prisão, que seu caso havia alcançado repercussão nacional no Supremo Tribunal Federal. Após consultas aos sistemas, constatamos que, de fato, se tratava do caso concreto que deu origem ao Tema 977 de repercussão geral, estabelecendo um novo entendimento do STF sobre o acesso a dados de aparelhos celulares nas investigações criminais — destacou o delegado Felipe Santoro, titular da 37ª DP e responsável pela operação que culminou na prisão de Guilherme.\nMudou a jurisprudência\nEm maio de 2013, durante a fuga após o roubo, Guilherme deixou cair seu próprio aparelho celular, que foi recolhido pela vítima e entregue à Polícia Civil. A partir da análise da agenda telefônica, dos registros de chamadas e das fotografias armazenadas no aparelho, policiais conseguiram identificar e prender o autor do crime.\nGuilherme foi condenado em primeira instância, mas depois absolvido pelo Tribunal de Justiça do Rio, que considerou ilícita a prova obtida mediante acesso ao aparelho celular sem prévia autorização judicial.\nO Ministério Público recorreu ao STF, dando origem ao ARE 1.042.075/RJ, submetido à sistemática da repercussão geral sob o Tema 977. Em 25 de junho de 2025, o Plenário do Supremo, por unanimidade, reconheceu a licitude da prova produzida pela polícia e restabeleceu a sentença condenatória.\nSob a relatoria do ministro Dias Toffoli, a Suprema Corte estabeleceu parâmetros para o acesso aos dados de aparelhos celulares encontrados fortuitamente em locais de crimes ou apreendidos no contexto de investigações criminais, conciliando a eficiência da atividade policial com a proteção dos direitos fundamentais à intimidade, à privacidade e aos dados pessoais.\nO STF reconheceu a possibilidade de acesso aos dados de aparelhos celulares encontrados fortuitamente, independentemente de prévia autorização judicial, quando a finalidade exclusiva for esclarecer a autoria do crime ou identificar o proprietário do dispositivo, desde que a medida seja posteriormente justificada.\n— Sempre que verifico um mandado de prisão, procuro conhecer as circunstâncias e a origem do processo que motivou a expedição da ordem judicial. Nesse caso específico, a coincidência foi ainda mais interessante, pois eu já havia estudado o Tema 977 e buscado informações sobre o caso concreto que deu origem ao precedente, sem imaginar que nossa equipe seria responsável pelo cumprimento do mandado de prisão justamente do caso — afirmou Santoro.",
-    "published": "2026-11-25T08:00:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Condenado por um roubo ocorrido em maio de 2013 na Tijuca, na Zona Norte do Rio, Guilherme Carvalho Farias foi preso este mês por policiais da 37ª DP (Ilha do Governador). Uma prisão que passaria despercebida, não fosse ele protagonista do processo que levou o Supremo Tribunal Fe",
     "relevance": 5
   }
 ]
