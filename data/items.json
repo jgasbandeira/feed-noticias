@@ -1,5 +1,17 @@
 [
   {
+    "source": "G1 - Política",
+    "title": "Governo reduz contenção de despesas no Orçamento para R$ 12,6 bilhões",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/24/governo-reduz-contencao-no-orcamento-para-r-126-bilhoes.ghtml",
+    "description": "A equipe econômica reduziu a contenção de gastos do orçamento deste ano, passando de R$ 16,1 bilhões para 12,6 bilhões. Desse total, R$ 304,3 milhões estão bloqueados e R$ 12,3 bilhões congelados.\nA informação consta no relatório de receitas e despesas do quinto bimestre, divulgado pelos Ministérios da Fazenda e do Planejamento.\n🔎 Um bloqueio no orçamento é como um \"freio de emergência\" temporário nas finanças do governo e acontece quando os gastos obrigatórios, como pagamento de aposentadorias, sobem mais do que o esperado. Quando isso acontece, o governo precisa reter parte do dinheiro de gastos não essenciais, como obras, para não ultrapassar o limite de gastos permitido.\nAgora no g1\nA redução foi possível porque o governo conseguiu aprovar um projeto de ajuste das contas públicas que permitiu retirar do cálculo para fins de meta fiscal R$ 10,5 bilhões referentes aos subsídios aos combustíveis para atenuar efeitos por causa da guerra no Oriente Médio.\nA proposta aprovada pelo Congresso e sancionada pelo presidente Luiz Inácio Lula da Silva (PT), prevê uma flexibilização das regras fiscais para permitir gastos com subsídios ao diesel, que estão sendo feitos pela guerra no Oriente Médio.\nO projeto autoriza o governo a desconsiderar até R$ 10,5 bilhões em despesas extraordinárias para estabilizar os preços do combustível na meta fiscal de 2026. Os recursos estão relacionados à concessão de subvenções econômicas a produtores e importadores de diesel.\nA exclusão das despesas da meta fiscal não significa que os gastos deixarão de existir ou de afetar as contas públicas. A medida apenas permite que sejam desconsiderados na avaliação do cumprimento da meta fiscal.\nEsplanada dos Ministérios, em Brasília\nTV Globo/Reprodução",
+    "published": "2026-11-25T02:38:46+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "A equipe econômica reduziu a contenção de gastos do orçamento deste ano, passando de R$ 16,1 bilhões para 12,6 bilhões. Desse total, R$ 304,3 milhões estão bloqueados e R$ 12,3 bilhões congelados.\nA informação consta no relatório de receitas e despesas do quinto bimestre, divulga",
+    "relevance": 5
+  },
+  {
     "source": "Folha",
     "title": "Fux encerra contrato do BRB com TJ-BA e fala em descumprimento de exigências",
     "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://c-level.folha.uol.com.br/financas/2026/11/fux-encerra-contrato-do-brb-com-tj-ba-e-fala-em-descumprimento-de-exigencias.shtml",
@@ -94,7 +106,13 @@
       "Economia"
     ],
     "summary": "O sucesso de uma empresa não deve ser motivo para acomodação. Pelo contrário, manter-se relevante ao longo do tempo exige propósito, inquietude, coragem e \"sola de sapato\" para ouvir o consumidor e enxergar oportunidades mesmo quando o negócio já apresenta bons resultados. Esta f",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/economia/negocios/noticia/2026/11/24/proposito-inquietude-e-coragem-como-o-grupo-boticario-se-reinventou-ao-longo-de-quase-cinco-decadas.ghtml"
+      }
+    ]
   },
   {
     "source": "Folha",
@@ -3958,18 +3976,6 @@
       "Politica"
     ],
     "summary": "Um dia após uma composição se chocar com um pedaço do teto que caiu na Central do Brasil e causar pânico entre usuários, o Metrô Rio voltou a apresentar problemas nesta terça-feira. Uma composição precisou ser evacuada na estação Saara/Presidente Vargas, no sentido Jardim Oceânic",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "J.P. Morgan rebaixa recomendação para M. Dias Branco de neutra para venda e corta preço-alvo de R$ 21,50 para R$ 16",
-    "link": "https://valor.globo.com/empresas/noticia/2026/11/24/jp-morgan-rebaixa-recomendacao-para-m-dias-branco-de-neutra-para-venda-e-corta-preco-alvo-de-r-2150-para-r-16.ghtml",
-    "description": "O J.P. Morgan rebaixou a recomendação para as ações da M. Dias Branco de neutra para venda na segunda-feira (23), para refletir um cenário de custos mais elevados e demanda enfraquecida. O banco também cortou o preço-alvo atribuído aos papéis de R$ 21,50 para R$ 16.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-24T13:08:40+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "O J.P. Morgan rebaixou a recomendação para as ações da M. Dias Branco de neutra para venda na segunda-feira (23), para refletir um cenário de custos mais elevados e demanda enfraquecida. O banco também cortou o preço-alvo atribuído aos papéis de R$ 21,50 para R$ 16.\n Matéria excl",
     "relevance": 5
   }
 ]
