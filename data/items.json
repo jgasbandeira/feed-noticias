@@ -1,5 +1,18 @@
 [
   {
+    "source": "CNBC",
+    "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
+    "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
+    "description": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
+    "published": "2026-11-26T01:34:58+00:00",
+    "themes": [
+      "Economia",
+      "Asset"
+    ],
+    "summary": "The AI boom could trigger a recession, but data centers remain an attractive investment opportunity, a hedge fund manager said.",
+    "relevance": 5
+  },
+  {
     "source": "Folha",
     "title": "Confederações empresariais pedem ao STF o adiamento da reforma tributária",
     "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/confederacoes-empresariais-pedem-ao-stf-o-adiamento-da-reforma-tributaria.shtml",
@@ -3703,7 +3716,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Embraer anuncia implantação de nova subsidiária na Índia\nDivulgação/Embraer\nAs ações da Embraer caíam mais de 7% as 11h desta quarta-feira (25), em reação à proposta do governo dos Estados Unidos de aplicar novas tarifas sobre produtos brasileiros.\nA medida prevê uma tarifa adici",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Folha",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/acoes-da-embraer-caem-mais-de-6-apos-anuncio-de-tarifa-dos-eua-sobre-avioes-brasileiros.shtml"
+      }
+    ]
   },
   {
     "source": "G1 - Economia",
@@ -3935,24 +3954,5 @@
     ],
     "summary": "O percentual foi revisado para cima em 0,9 ponto percentual em relação à 1ª estimativa, de 3,4%, segundo o BEA",
     "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Ram Charan é confirmado no Senior Experience 2027",
-    "link": "https://oglobo.globo.com/patrocinado/dino/noticia/2026/11/25/ram-charan-e-confirmado-no-senior-experience-2027-1.ghtml",
-    "description": "Um dos maiores pensadores da gestão empresarial no mundo estará em breve no Brasil para um encontro com líderes e C-levels brasileiros. Dr. Ram Charan, conselheiro de CEOs globais, autor de best-sellers e ex-professor de Harvard, é a atração internacional do Senior Experience 2027 (SXP 27), evento promovido pela multinacional de tecnologia Senior Sistemas. Em sua 3ª edição, o evento acontece no dia 18 de março, no Transamerica Expo Center, em São Paulo, com expectativa de reunir cerca de três mil participantes.\nConsiderado pela revista Fortune o consultor mais influente do mundo em atividade, o indiano dedica seis décadas ao aconselhamento de líderes e conselhos de administração de algumas das maiores companhias globais, incluindo Toyota e Bank of America. Com MBA e doutorado pela Harvard Business School, é autor de mais de 36 livros, que somam mais de 4 milhões de exemplares vendidos em ao menos 25 idiomas. Entre suas obras estão \"The Leadership Pipeline: How to Build the Leadership Powered Company\", publicado no Brasil como o \"Pipeline de Liderança\" e \"Execution: The Discipline of Getting Things Done\", vendido no Brasil sob o título \"Execução: A disciplina para atingir resultados\", que permaneceu por mais de 150 semanas na lista de best-sellers do jornal norte-americano The New York Times.\nA mais recente obra do Dr. Ram Charan é o livro \"China's 90% Model: China Has America by the Throat — Here's How to Fight Back and WIN\" (em tradução livre: \"O Modelo dos 90% da China: A China tem os Estados Unidos pelo pescoço. Veja como reagir e vencer\"), lançado em 2026.\nA presença do Dr. Ram Charan na plenária do SXP 27 reforça o papel do evento como fonte de conhecimento e de referências estratégicas para líderes de negócio e de gestão de pessoas, que buscam subsídios para a tomada de decisões diante das profundas mudanças nos modelos de negócios, nas relações de trabalho e na aplicação da inteligência artificial mundo afora.\n\"A cada edição, o Senior Experience busca colocar diferentes perspectivas em contato. Trazemos debates sobre as mudanças em curso e exploramos um ambiente para que as pessoas possam discutir, questionar e encontrar caminhos para transformá-las em ações aplicáveis para seus negócios\", afirma Jean Paul Vieira, CPMO da Senior Sistemas.\nLideranças de mercado no palco\nA programação terá cerca de 70 palestrantes distribuídos em sete palcos simultâneos, somando 50 horas de conteúdo. De acordo com a Senior, a grade do evento tem como mote central \"Gestão e Pessoas: potencialize o ilimitado\", que converge em três grandes trilhas de conteúdo: gestão, pessoas e tecnologia.\nEntre os assuntos de destaque estão estratégias de crescimento, competitividade, cultura organizacional, desenvolvimento de lideranças e aplicações da inteligência artificial nos negócios.\nAlém do Dr. Ram Charan, estão confirmados nomes como Alessandro Jannuzzi, vice-presidente de Estratégia e Engenharia de Soluções da Microsoft Brasil; Arlan Roque, diretor de Expansão e B2B da Cacau Show; Alexandre Kavinski, líder de Inovação e IA da WPP Media Brasil; Borja Castelar, ex-diretor do LinkedIn na América Latina; Ebiliane Lima, líder do hub de inovação do Grupo Silvio Santos; e Carlênio Castelo Branco, CEO da Senior Sistemas.\nO evento também contará com mais de 30 espaços destinados a demonstrações de tecnologias para gestão empresarial e gestão de pessoas, experiências e networking. Entre as marcas já confirmadas estão Oracle, BTG Pactual Empresas, Onfly, IOB e Control iD. Em suas duas primeiras edições, o Senior Experience já somou mais de 150 palestrantes, 4,5 mil lideranças participantes, 110 horas de conteúdo simultâneo e 8 mil metros quadrados dedicados à experiência.\nIngressos à venda\nOs ingressos para o Senior Experience 2027 já estão disponíveis no site oficial do evento, que também reúne informações sobre os palestrantes e as modalidades de participação.\nServiço - Senior Experience 2027\nData: 18 de março de 2027\nLocal: Transamerica Expo Center, São Paulo (SP)\nInformações e ingressos: Senior Experience 2027",
-    "published": "2026-11-25T14:01:00+00:00",
-    "themes": [
-      "Mercado Financeiro",
-      "XP"
-    ],
-    "summary": "Um dos maiores pensadores da gestão empresarial no mundo estará em breve no Brasil para um encontro com líderes e C-levels brasileiros. Dr. Ram Charan, conselheiro de CEOs globais, autor de best-sellers e ex-professor de Harvard, é a atração internacional do Senior Experience 202",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/patrocinado/dino/noticia/2026/11/25/ram-charan-e-confirmado-no-senior-experience-2027-1.ghtml"
-      }
-    ]
   }
 ]
