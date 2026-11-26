@@ -123,6 +123,19 @@
     "relevance": 5
   },
   {
+    "source": "Valor Econômico",
+    "title": "Ibovespa dispara e dólar e juros futuros despencam com chance de Trabuco na Fazenda e novas medidas fiscais",
+    "link": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
+    "description": "Ibovespa dispara e dólar e juros futuros despencam com chance de Trabuco na Fazenda e novas medidas fiscais IPCA-15 abaixo do previsto também anima o mercado doméstico, em dia de feriado nos EUA Sonho distante, mercado vê rápida mudança de humor com Trabuco na Fazenda. Juros futuros despencam com expectativas sobre governo e IPCA-15. Dólar tem forte queda e toca os R$ 5,75 com melhora de expectativas sobre o governo",
+    "published": "2026-11-26T13:12:40+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro"
+    ],
+    "summary": "Ibovespa dispara e dólar e juros futuros despencam com chance de Trabuco na Fazenda e novas medidas fiscais IPCA-15 abaixo do previsto também anima o mercado doméstico, em dia de feriado nos EUA Sonho distante, mercado vê rápida mudança de humor com Trabuco na Fazenda. Juros futu",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "Manoel Flores negocia retorno ao futebol brasileiro pelo Corinthians",
     "link": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/11/manoel-flores-negocia-retorno-ao-futebol-brasileiro-pelo-corinthians.ghtml",
@@ -2398,19 +2411,6 @@
     "relevance": 5
   },
   {
-    "source": "O Globo",
-    "title": "Master: A reação de Fachin à versão de Andrei sobre omissões em relatórios da PF",
-    "link": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/11/master-a-reacao-de-fachin-a-versao-de-andrei-sobre-omissoes-em-relatorios-da-pf.ghtml",
-    "description": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, optou por não responder às afirmações do diretor-geral da Polícia Federal (PF), Andrei Rodrigues, segundo as quais a corporação teria cumprido diretrizes de Fachin ao omitir dos relatórios informações públicas sobre a ligação entre os ministros da Corte e Daniel Vorcaro, como 47 mensagens enviadas a Alexandre de Moraes, os contratos do Master com a mulher dele, Viviane, e a compra de cotas da família Toffoli no resort Tayayá. A interlocutores que o questionaram, porém, o dirigente do STF deu uma versão diferente sobre a encomenda que ele próprio fez ao chefe da PF. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-26T06:30:01+00:00",
-    "themes": [
-      "Politica",
-      "XP"
-    ],
-    "summary": "O presidente do Supremo Tribunal Federal (STF), Edson Fachin, optou por não responder às afirmações do diretor-geral da Polícia Federal (PF), Andrei Rodrigues, segundo as quais a corporação teria cumprido diretrizes de Fachin ao omitir dos relatórios informações públicas sobre a ",
-    "relevance": 5
-  },
-  {
     "source": "Valor Econômico",
     "title": "Apesar de ambiente turbulento, bolsa brasileira pode ganhar peso nas carteiras globais",
     "link": "https://valor.globo.com/financas/intraday/post/2026/11/apesar-de-ambiente-turbulento-bolsa-brasileira-pode-ganhar-peso-nas-carteiras-globais.ghtml",
@@ -3117,19 +3117,6 @@
       "Politica"
     ],
     "summary": "O ministro da Economia da Argentina, Luis Caputo, afirmou que a definição de recessão é \"quase arbitrária\" durante uma entrevista nesta quarta-feira (25), um dia após vir a público que a atividade econômica do país caiu pelo segundo trimestre consecutivo (o que caracteriza esse q",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Defesa de Vorcaro questiona distribuição de pedido sobre o Master a Nunes Marques e pede que análise fique com Gilmar",
-    "link": "https://valor.globo.com/financas/noticia/2026/11/25/defesa-de-vorcaro-questiona-distribuio-de-pedido-sobre-o-master-a-nunes-marques-e-pede-que-anlise-fique-com-gilmar.ghtml",
-    "description": "A defesa do ex-banqueiro Daniel Vorcaro, dono do Master, questionou nesta quarta-feira (25) a distribuição de um pedido ao ministro Kassio Nunes Marques, do Supremo Tribunal Federal (STF), e sustentou que o caso deve ser remetido a Gilmar Mendes. \n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-26T00:06:01+00:00",
-    "themes": [
-      "Politica",
-      "XP"
-    ],
-    "summary": "A defesa do ex-banqueiro Daniel Vorcaro, dono do Master, questionou nesta quarta-feira (25) a distribuição de um pedido ao ministro Kassio Nunes Marques, do Supremo Tribunal Federal (STF), e sustentou que o caso deve ser remetido a Gilmar Mendes. \n Matéria exclusiva para assinant",
     "relevance": 5
   },
   {
@@ -3899,5 +3886,28 @@
     ],
     "summary": "Ao menos 30 pessoas morreram e outras 15 ficaram feridas após um veículo que transportava produtos derivados de petróleo tombar e pegar fogo no Grande Anel Viário do Cairo, no Egito, nesta quarta-feira (25). Segundo o site indiano de notícias Mashabel India, o incêndio de grandes",
     "relevance": 5
+  },
+  {
+    "source": "G1 - Política",
+    "title": "Caso Master: defesa de Vorcaro pede que Nunes Marques deixe relatoria de ação no STF contra Fachin",
+    "link": "https://g1.globo.com/politica/noticia/2026/11/25/defesa-de-vorcaro-pede-troca-de-kassio-na-relatoria-da-acao-contra-fachin.ghtml",
+    "description": "Agora no g1\nA defesa de Daniel Vorcaro, ex-dono do Banco Master, pediu nesta quarta-feira (4) que o ministro Kassio Nunes Marques, do Supremo Tribunal Federal (STF), deixe a relatoria da ação que tenta tirar do presidente do STF, ministro Edson Fachin, a análise de questões urgentes do caso Master. \nOs advogados afirmam que o pedido que questiona a atuação de Fachin deve ser analisado pelo ministro Gilmar Mendes, o mais antigo ministro do tribunal.\nA defesa argumenta que não há preferência para que Nunes Marques seja o relator dessa ação. A definição do ministro como relator decorre do critério de prevenção, regra que vincula um magistrado a processos posteriores sobre o mesmo tema ou contexto. \nSegundo a área técnica do STF, a distribuição seguiu o seguinte caminho:\nmarço: Nunes Marques foi sorteado relator de um pedido envolvendo Vorcaro, que tramitava em segredo de Justiça e não partiu da defesa do ex-banqueiro. O processo foi arquivado em junho, mas gerou prevenção para casos correlatos;\n4 de outubro: um pedido de revogação da prisão de Vorcaro, também protocolado por terceiros e não pela defesa técnica, foi distribuído por prevenção ao ministro. O caso segue sem decisão;\n23 de novembro: em razão da relatoria anterior, um mandado de segurança apresentado pelos advogados de Vorcaro foi encaminhado a Nunes Marques. O pedido ainda não foi analisado e não há prazo para decisão.\nSegundo os advogados, não pode ser aplicada a prevenção porque os pedidos anteriores não são da defesa técnica de Vorcaro e não há conexão entre as demandas. \nNunes Marques\nReprodução\nApontam ainda que os pedidos anteriores não deveriam nem ser analisados já que não são da defesa constituída. \nNo mandado de segurança apresentado enviado a Nunes Marques nesta segunda-feira (23), a defesa de Daniel Vorcaro diz que, na sua avaliação, Edson Fachin não tem competência para decidir sobre medidas urgentes do caso Master, que deveriam ser analisados por Gilmar Mendes.\nNa semana passada, Fachin manteve a prisão de Vorcaro ao entender que há risco de interferência nas investigações. \nA defesa afirma que não existem fundamentos para a manutenção da medida e que a prisão preventiva não pode ser utilizada como antecipação de pena.",
+    "published": "2026-11-25T21:12:56+00:00",
+    "themes": [
+      "Politica",
+      "XP"
+    ],
+    "summary": "Agora no g1\nA defesa de Daniel Vorcaro, ex-dono do Banco Master, pediu nesta quarta-feira (4) que o ministro Kassio Nunes Marques, do Supremo Tribunal Federal (STF), deixe a relatoria da ação que tenta tirar do presidente do STF, ministro Edson Fachin, a análise de questões urgen",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/financas/noticia/2026/11/25/defesa-de-vorcaro-questiona-distribuio-de-pedido-sobre-o-master-a-nunes-marques-e-pede-que-anlise-fique-com-gilmar.ghtml"
+      },
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/11/master-a-reacao-de-fachin-a-versao-de-andrei-sobre-omissoes-em-relatorios-da-pf.ghtml"
+      }
+    ]
   }
 ]
