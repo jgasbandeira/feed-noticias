@@ -1,5 +1,67 @@
 [
   {
+    "source": "Poder360",
+    "title": "Comissão eleva estimativa de receita do Orçamento de 2027 em R$ 37,1 bi",
+    "link": "https://www.poder360.com.br/poder-congresso/comissao-eleva-estimativa-de-receita-do-orcamento-de-2027-em-r-371-bi/",
+    "description": "Texto incorpora impacto de royalties do petróleo, estreia da reforma tributária e queda na previsão do PIB de 2,5% para 1,8%",
+    "published": "2026-11-26T02:15:49+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Texto incorpora impacto de royalties do petróleo, estreia da reforma tributária e queda na previsão do PIB de 2,5% para 1,8%",
+    "relevance": 5
+  },
+  {
+    "source": "Valor Econômico",
+    "title": "Banco da Coreia sobe juros em 0,25 ponto percentual, para 3,25% ao ano",
+    "link": "https://valor.globo.com/financas/noticia/2026/11/25/banco-da-coreia-sobe-juros-em-025-ponto-percentual-para-325-pontos-percentuais-ao-ano.ghtml",
+    "description": "O Banco da Coreia (BoK, banco central da Coreia do Sul) elevou a taxa referencial de juros pela terceira vez este ano, em um cenário em que a inflação permanece bem acima da meta e o crescimento econômico acelerado leva a uma nova revisão para cima de suas projeções.\n Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+    "published": "2026-11-26T02:00:34+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O Banco da Coreia (BoK, banco central da Coreia do Sul) elevou a taxa referencial de juros pela terceira vez este ano, em um cenário em que a inflação permanece bem acima da meta e o crescimento econômico acelerado leva a uma nova revisão para cima de suas projeções.\n Matéria exc",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Veja como investir o 13º salário com cenário de juros altos e despesas de início de ano",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/veja-como-investir-o-13o-salario-com-cenario-de-juros-altos-e-despesas-de-inicio-de-ano.shtml",
+    "description": "O pagamento da primeira parcela do 13º, que será depositada na conta dos trabalhadores até o dia 30 de novembro, é a oportunidade de organizar as contas de início do ano e também investir no futuro, independentemente do montante -aproveitando especialmente uma Selic mantida em 13,75% ao ano.\nLeia mais (11/25/2026 - 23h00)",
+    "published": "2026-11-26T02:00:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O pagamento da primeira parcela do 13º, que será depositada na conta dos trabalhadores até o dia 30 de novembro, é a oportunidade de organizar as contas de início do ano e também investir no futuro, independentemente do montante -aproveitando especialmente uma Selic mantida em 13",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Produtos que podem ser atingidos por novas tarifas representam 7% das exportações aos EUA",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/produtos-que-podem-ser-atingidos-por-novas-tarifas-representam-7-das-exportacoes-aos-eua.shtml",
+    "description": "Os novos itens de comércio que podem ser taxados pelos Estados Unidos representam 7% do total das exportações do Brasil para os americanos, de acordo com dados da Comex, a base de dados sobre comércio exterior do Mdic (Ministério do Desenvolvimento, Indústria, Comércio e Serviços).\nLeia mais (11/25/2026 - 23h00)",
+    "published": "2026-11-26T02:00:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Os novos itens de comércio que podem ser taxados pelos Estados Unidos representam 7% do total das exportações do Brasil para os americanos, de acordo com dados da Comex, a base de dados sobre comércio exterior do Mdic (Ministério do Desenvolvimento, Indústria, Comércio e Serviços",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Previdência privada mantém vantagem tributária, mas disputa espaço com Tesouro",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/previdencia-privada-mantem-vantagem-tributaria-mas-disputa-espaco-com-tesouro.shtml",
+    "description": "Com a alta de juros, planos de previdência privada disputam espaço com investimentos como o Tesouro Direto, com produtos voltados para quem poupa para a aposentadoria.\nLeia mais (11/25/2026 - 23h00)",
+    "published": "2026-11-26T02:00:00+00:00",
+    "themes": [
+      "Economia",
+      "Mercado Financeiro",
+      "XP"
+    ],
+    "summary": "Com a alta de juros, planos de previdência privada disputam espaço com investimentos como o Tesouro Direto, com produtos voltados para quem poupa para a aposentadoria.\nLeia mais (11/25/2026 - 23h00)",
+    "relevance": 5
+  },
+  {
     "source": "CNBC",
     "title": "Where the market may be mispricing risk most: AI boom, volatility, high-yield bonds",
     "link": "https://www.cnbc.com/2026/11/26/mispricing-risk-fund-managers-ai-volatility.html",
@@ -3892,67 +3954,6 @@
       "Politica"
     ],
     "summary": "Ministro cita ‘dever cumprido’ e promete orçamento no azul no Lula 4 em meio à preocupação fiscal",
-    "relevance": 5
-  },
-  {
-    "source": "Valor Econômico",
-    "title": "Augustos Advogados: eficiência tributária e controladoria em cenário de crise",
-    "link": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/11/25/augustos-advogados-eficiencia-tributaria-e-controladoria-em-cenario-de-crise-1.ghtml",
-    "description": "Em um cenário de crise econômica, marcado pela pressão sobre as margens de lucro e pela necessidade de preservar recursos, a eficiência tributária ganha relevância na gestão empresarial. A revisão das obrigações fiscais, o fortalecimento da controladoria e a administração de débitos passam a integrar as estratégias de companhias que buscam manter a capacidade operacional sem comprometer a segurança jurídica de suas decisões.\nCom 18 anos de trajetória, o Augustos Advogados direciona sua atuação tributária ao desenvolvimento de soluções jurídicas e ao apoio jurídico-contábil para empresas que precisam reorganizar compromissos fiscais, avaliar riscos e melhorar a gestão financeira.\nSob a liderança técnica do advogado Filipe Augusto de Souza (OAB/MG 118.603), o escritório reúne uma equipe especializada em gestão e reestruturação de passivos tributários, com atendimento presencial em Minas Gerais e atuação digital em âmbito nacional.\nEm períodos de retração da atividade econômica, a redução das receitas pode dificultar o cumprimento de obrigações assumidas em momentos de maior estabilidade. Nesse contexto, o acúmulo de débitos fiscais tende a pressionar o fluxo de caixa, restringir investimentos e dificultar o acesso ao crédito. A gestão do passivo exige, portanto, uma análise que considere tanto a legislação quanto a real capacidade financeira e contábil da empresa.\nO trabalho desenvolvido pelo escritório contempla o diagnóstico da situação fiscal, a análise de autos de infração, a defesa em execuções fiscais e a avaliação de alternativas legais para regularização de débitos. Essa atuação ocorre de forma integrada à controladoria das empresas, considerando a origem das obrigações, os prazos, os reflexos nos demonstrativos financeiros e os impactos diretos sobre o caixa.\nA eficiência tributária não se resume à redução de despesas com impostos. Envolve a organização dos procedimentos internos, o alinhamento entre as áreas jurídica e contábil, o cumprimento rigoroso das obrigações acessórias e a identificação de inconsistências que possam gerar cobranças indevidas ou contingências futuras. O suporte jurídico-contábil preventivo permite que decisões relacionadas à tributação sejam incorporadas à rotina da controladoria, em vez de ocorrerem apenas diante de dificuldades financeiras.\nO Augustos Advogados conta também com a Tax Recovery Brasil, unidade de inteligência tributária com mais de dez anos de atuação. A estrutura é dedicada à revisão de recolhimentos, à identificação de possíveis créditos e à gestão de passivos fiscais. O trabalho cruza a documentação contábil e fiscal das empresas com as normas aplicáveis às respectivas atividades econômicas, oferecendo subsídios técnicos seguros para a escrituração e para os controles internos.\nA revisão tributária pode identificar valores recolhidos indevidamente ou em montante superior ao devido nos cinco anos anteriores, observados os prazos legais e as condições de cada hipótese. Quando comprovada a existência de créditos, a utilização dos mecanismos de restituição ou compensação depende do atendimento aos requisitos previstos na legislação e do devido respaldo contábil, sem garantia prévia de recuperação de recursos.\nOutra frente de análise envolve a avaliação de modalidades de parcelamento e transação tributária, quando disponíveis e aplicáveis. A escolha dessas alternativas requer atenção aos encargos, às condições de adesão, aos reflexos no balanço patrimonial e à capacidade de pagamento ao longo do período contratado. Com o apoio da controladoria e da assessoria jurídico-contábil, a regularização é estruturada de modo a evitar que novos compromissos financeiros agravem o desequilíbrio que se pretende solucionar.\nGraduado em Direito pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG), Filipe Augusto de Souza cursou o programa de mestrado da Faculdade Mineira de Direito, com estudos em Direito Tributário Sancionador, Planejamento Tributário e Teoria Geral do Direito Tributário. Sua experiência acadêmica inclui atividades de docência, produção de artigos e participação em obras coletivas.\nA integração entre conhecimento jurídico, práticas contábeis e análise financeira permite avaliar com precisão os efeitos das decisões tributárias sobre a continuidade dos negócios. Para empresas submetidas a restrições orçamentárias, a previsibilidade das obrigações fiscais aliada a uma controladoria estruturada contribui para a definição de prioridades, a organização do capital de giro e o planejamento de investimentos, respeitando os limites estabelecidos pela legislação.\nNesse ambiente, a gestão tributária e o apoio jurídico-contábil assumem uma dimensão estratégica. A atuação especializada busca transformar informações fiscais e contábeis em elementos de apoio à tomada de decisão, com atenção à conformidade, à prevenção de litígios e à sustentabilidade financeira das organizações. A adoção de medidas depende sempre da análise individualizada de cada empresa.\nMais informações nos sites www.augustosadvogados.com.br e www.taxrecoverybrasil.com.br.",
-    "published": "2026-11-25T14:10:42+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Em um cenário de crise econômica, marcado pela pressão sobre as margens de lucro e pela necessidade de preservar recursos, a eficiência tributária ganha relevância na gestão empresarial. A revisão das obrigações fiscais, o fortalecimento da controladoria e a administração de débi",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Conheça a vacina contra o câncer da Fiocruz com a Universidade de Oxford, prevista para testes no ano que vem",
-    "link": "https://oglobo.globo.com/saude/noticia/2026/11/25/conheca-a-vacina-contra-o-cancer-da-fiocruz-com-a-universidade-de-oxford-prevista-para-testes-no-ano-que-vem.ghtml",
-    "description": "Nesta semana, o ministro da Saúde, Alexandre Padilha, anunciou que o Brasil pretende iniciar um estudo clínico de uma vacina terapêutica contra o câncer no primeiro semestre do ano que vem. Os testes vão ser conduzidos por meio de uma parceria entre instituições ligadas à Aliança Brasileira de Pesquisa em Câncer com a Universidade de Oxford, no Reino Unido.\nPadilha disse que \"a expectativa é que, no primeiro semestre de 2027, possamos realizar o estudo clínico com Oxford, a Fiocruz, o A.C. Camargo e várias instituições do SUS que atuam no cuidado ao câncer, avaliando a tecnologia em pacientes brasileiros e adaptando-a à realidade do país”. O ministro e a pasta não detalharam, no entanto, qual vacina está sendo avaliada para testes no Brasil.\nAo GLOBO, a Fiocruz explicou que a parceria de Oxford com as instituições brasileiras é focada no desenvolvimento de uma dose contra o vírus Epstein-Barr (EBV) \"associado a alguns tipos de câncer, incluindo o linfoma de Hodkin\". \"Diferentemente das vacinas profiláticas tradicionais, que têm o objetivo de impedir a infecção, a base desta iniciativa é ampliar respostas imunológicas específicas tendo como alvo células tumorais\", esclarece.\nDe acordo com a fundação, a abordagem, ainda em fase inicial, envolverá duas frentes tecnológicas de ponta da Fiocruz. Uma é a plataforma ChAdOx, que utiliza um adenovírus para transportar o material que estimula o sistema imune. Essa é a tecnologia utilizada na vacina da AstraZeneca contra a Covid-19, que foi produzida na Fiocruz.\nJá a segunda plataforma é a de RNA mensageiro (mRNA), tecnologia inovadora que funciona como um manual de instruções e utiliza o próprio organismo como \"fábrica\" do material que, posteriormente, será reconhecido pelas células de defesa. A estratégia também foi usada contra o coronavírus.\n\"Enquanto a primeira poderá produzir os lotes do futuro candidato vacinal para estudos clínicos a partir da técnica de vetor viral, a segunda abordagem tem foco na avaliação de candidatos vacinais baseados em mRNA, em parceria com INCA e outros hospitais. A expectativa é de que, após o avanço das etapas da parceria, e mediante aprovação regulatória pela Anvisa, os estudos clínicos com pacientes possam ser realizados no Brasil\", diz a Fiocruz.\nA iniciativa integra a Aliança Brasileira de Pesquisa em Câncer, liderada pelo Ministério da Saúde, que envolve uma rede de hospitais e instituições como o Instituto Nacional de Câncer (Inca), o Centro Nacional de Pesquisa em Energia e Materiais (CNPEM) e o CT Vacinas, além da Fiocruz, por meio de Bio-Manguinhos.\n\"A ação é mais uma frente de fortalecimento do Sistema Único de Saúde (SUS) envolvendo a capacidade de desenvolvimento e inovação de produtos estratégicos para atendimento das necessidades da população\", diz a Fiocruz.\nComo as vacinas para câncer funcionam\nEssas vacinas são terapêuticas, ou seja, são criadas para auxiliar o tratamento de pacientes que já têm um diagnóstico de câncer ou evitar uma recorrência da doença. É diferente da vacina contra o HPV, por exemplo, que já é disponível no SUS e que previne a ocorrência de um primeiro tumor.\nEsses novos imunizantes buscam estimular o sistema imunológico a reconhecer as células cancerígenas e, dessa forma, atacarem a doença. Isso porque o câncer tem uma característica de conseguir “se esconder” das células de defesa do corpo, um dos motivos pelos quais o organismo não consegue eliminá-lo sozinho.\nNeste mês, resultados de uma vacina terapêutica contra o câncer na fase final dos estudos clínicos para tratamento da leucemia mieloide aguda (LMA), um dos tipos mais comuns e agressivos de câncer no sangue, mostraram que a dose aumentou a sobrevida dos pacientes e reduziu em 41% o risco de morte. A aplicação direciona o sistema imune para reconhecer e atacar a proteína WT1, encontrada em mais de 95% dos casos de LMA.\nO imunizante, chamado galinpepimut-S, ou GPS, foi desenvolvido por pesquisadores do Memorial Sloan Kettering Cancer Center (MSK), nos Estados Unidos, e licenciado para a farmacêutica SELLAS Life Sciences Group, que conduziu os testes. A expectativa da SELLAS é submeter a dose para aprovação para uso nos EUA no primeiro semestre de 2027.\nOutra dose avançada, também na etapa final dos estudos, é a contra o melanoma, tipo mais agressivo de câncer de pele, desenvolvida pelo laboratório americano Moderna. Essa aplicação tem o diferencial de ser individualizada: os pesquisadores identificam quais os melhores alvos do câncer de cada paciente e desenvolvem uma dose específica para atacar aquele tumor.\nAlém disso, a dose da Moderna, assim como outras oncológicas em desenvolvimento pela farmacêutica americana e pela alemã BioNTech, utilizam a tecnologia de RNA mensageiro, que é facilmente adaptável e se mostrou altamente eficaz com as vacinas contra a Covid-19. Nos testes de fase 3, a vacina cortou pela metade o risco de morte ou recorrência do melanoma.\nA iniciativa integra a Aliança Brasileira de Pesquisa em Câncer, liderada pelo Ministério da Saúde, envolvendo uma vasta rede de hospitais e instituições como o Instituto Nacional de Câncer (Inca), o Centro Nacional de Pesquisa em Energia e Materiais (CNPEM) e o CT Vacinas, além da Fiocruz, por meio de Bio-Manguinhos. A ação é mais uma frente de fortalecimento do Sistema Único de Saúde (SUS) envolvendo a capacidade de desenvolvimento e inovação de produtos estratégicos para atendimento das necessidades da população.",
-    "published": "2026-11-25T14:09:06+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Nesta semana, o ministro da Saúde, Alexandre Padilha, anunciou que o Brasil pretende iniciar um estudo clínico de uma vacina terapêutica contra o câncer no primeiro semestre do ano que vem. Os testes vão ser conduzidos por meio de uma parceria entre instituições ligadas à Aliança",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Moretti diz que sem subvenção de combustíveis haveria superávit já este ano",
-    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/moretti-diz-que-sem-subvencao-de-combustiveis-haveria-superavit-ja-este-ano.ghtml",
-    "description": "O ministro do Planejamento, Bruno Moretti, diz que sem o programa de subvenção de combustíveis, criado para reduzir o impacto da alta do petróleo, diante da Guerra do Irã, o governo já teria superávit neste ano. O programa já consumiu R$ 75 bilhões. A projeção para este ano é de um resultado de -0,5% efetivo. Moretti ponderou que apesar do alto custo, a retirada do programa poderia ter efeitos ainda mais severos sobre a economia brasileira. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-25T14:07:38+00:00",
-    "themes": [
-      "Economia",
-      "Politica"
-    ],
-    "summary": "O ministro do Planejamento, Bruno Moretti, diz que sem o programa de subvenção de combustíveis, criado para reduzir o impacto da alta do petróleo, diante da Guerra do Irã, o governo já teria superávit neste ano. O programa já consumiu R$ 75 bilhões. A projeção para este ano é de ",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Governo Trump quer taxa açúcar e etanol do Brasil; veja as alegações",
-    "link": "https://oglobo.globo.com/economia/noticia/2026/11/25/governo-trump-quer-taxa-acucar-e-etanol-do-brasil-veja-as-alegacoes.ghtml",
-    "description": "O representante comercial dos EUA, Jamieson Greer, disse nesta quarta-feira que vai propor a taxação de açúcar e aeronaves brasileiras, com base em investigações sobre \"práticas comerciais prejudiciais\" ao mercado americano\". \nEm nota, o Escritório do Representante Comercial dos Estados Unidos (USTR) disse que a proposta é taxar as aeronaves, hoje isentas, em 10% e tributar alguns tipos de açúcar bruto e refinado exportado para os EUA acima das cotas acordadas entre os dois países. O órgão não informou qual seria o percentual a ser aplicado ao açúcar. \nAs aeronaves acabadas são o quarto principal produto da pauta de exportações brasileiras para os Estados Unidos. No caso dos aviões, a medida afeta diretamente a Embraer. As ações da companhia estão caindo quase 10% hoje por causa disso. \nEm paralelo, o governo dos EUA está propondo uma nova leva de tarifas de importação sobre produtos de 14 países, entre elas China e União Europeia, em uma iniciativa para reconstruir a \"muralha tarifária\" global do presidente Donald Trump, considerada inconstitucional pela Suprema Corte.\n\"O Brasil continua exportando volumes significativos de açúcar acima das cotas e aeronaves acabadas para os Estados Unidos, produtos que atualmente estão isentos da medida. A imposição de uma tarifa adicional específica sobre as importações de açúcar brasileiro e de uma tarifa adicional de 10% sobre as exportações brasileiras de aeronaves acabadas tem como objetivo levar o Brasil à mesa de negociações\", disse Greer em comunicado.\n“Após mais de um ano de negociações, o Brasil não fez nenhum progresso significativo para resolver as práticas comerciais prejudiciais que comprometem a competitividade dos agricultores, trabalhadores, inovadores e empresas americanas”, afirmou o embaixador.\nA proposta tem como base uma investigação no âmbito da Seção 301 que foi anunciada em 26 de julho de 2026. O objetivo, segundo o USTR, é trazer o Brasil à mesa de negociações. O órgão fará audiência e empresas e representantes brasileiros poderão participar. \nSolicitações para participação a audiência devem ser feitas até 7 de dezembro de 2026.\nComentários por escrito poderão ser apresentados até 30 de dezembro de 2026.\nA data da audiência foi marcada para 14 de janeiro de 2027.\nEntenda o caso\nPor determinação do presidente americano, Donald Trump, em 15 de julho de 2025, o USTR iniciou uma investigação no âmbito da Seção 301 da Lei de Comércio de 1974 para apurar atos, políticas e práticas do governo brasileiro relacionados a várias áreas, incluindo o Pix e comércio digital. \nNa mesma investigação, também estavam na mira aplicação de medidas de combate à corrupção, proteção da propriedade intelectual, acesso ao mercado de etanol, e desmatamento ilegal.\nNa mesma data, o USTR solicitou consultas com o governo brasileiro. As consultas foram realizadas em 15 e 16 de abril de 2026. Em 1º de junho, o órgão concluiu que \"determinados atos, políticas e práticas do Brasil relacionados a essas áreas são desarrazoados e prejudicam ou restringem o comércio dos Estados Unidos, sendo, portanto, passíveis de medidas de retaliação com base na Seção 301(b) da Lei de Comércio\".\nComo consequência dessa decisão, o USTR propôs medidas de resposta e convidou o público a apresentar comentários por escrito até 1º de julho de 2026. O USTR recebeu, analisou e avaliou mais de 360 manifestações escritas. Nos dias 6 e 7 de julho, também realizou uma audiência pública sobre as medidas propostas no âmbito da investigação, na qual 77 pessoas prestaram depoimento.\nTarifa de 25%\nEm 20 de julho de 2026, por determinação do presidente Donald Trump, o USTR adotou a decisão definitiva de impor uma tarifa de 25% sobre determinados produtos brasileiros.\nDesde então, alega o órgão comercial americano, \"o Brasil respondeu tomando medidas jurídicas para retaliar os Estados Unidos e proteger os atos, políticas e práticas que são objeto da investigação\". A lei em que se baseou a investigação permite mudar uma medida já em vigor.\nDe acordo com nota disponível no site do USTR, a proposta anunciada hoje vai em duas frentes: elevar as tarifas sobre as importações de determinados tipos de açúcar bruto e refinado que excedam as cotas de importação, de forma não discriminatória. \nO açúcar, diz a nota, é uma commodity negociada globalmente , e o Brasil é o maior produtor e exportador mundial do produto. A aplicação da taxa visa impedir que exportadores brasileiros de açúcar ocupem mercados de outros países produtores.\nEm segundo lugar, o USTR \"está considerando retirar a isenção atualmente concedida às aeronaves acabadas no âmbito das medidas adotadas com base na Seção 301 e impor uma tarifa de 10% sobre o valor dessas importações provenientes do Brasil.\"",
-    "published": "2026-11-25T14:07:17+00:00",
-    "themes": [
-      "Mercado Financeiro"
-    ],
-    "summary": "O representante comercial dos EUA, Jamieson Greer, disse nesta quarta-feira que vai propor a taxação de açúcar e aeronaves brasileiras, com base em investigações sobre \"práticas comerciais prejudiciais\" ao mercado americano\". \nEm nota, o Escritório do Representante Comercial dos ",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "PIB dos EUA cresce 4,3% no 3º trimestre, diz 2ª estimativa",
-    "link": "https://www.poder360.com.br/poder-economia/pib-dos-eua-cresce-43-no-3o-trimestre-diz-2a-estimativa/",
-    "description": "O percentual foi revisado para cima em 0,9 ponto percentual em relação à 1ª estimativa, de 3,4%, segundo o BEA",
-    "published": "2026-11-25T14:03:48+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O percentual foi revisado para cima em 0,9 ponto percentual em relação à 1ª estimativa, de 3,4%, segundo o BEA",
     "relevance": 5
   }
 ]
