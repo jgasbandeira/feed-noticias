@@ -1,5 +1,53 @@
 [
   {
+    "source": "Poder360",
+    "title": "França tem alto gasto social com piora em deficit e dívida",
+    "link": "https://www.poder360.com.br/poder-economia/franca-tem-alto-gasto-social-com-piora-em-deficit-e-divida/",
+    "description": "Proteção social no país custa 32% do PIB ante 27% da média europeia; dívida pública atinge 115% do Produto Interno Bruto e país é palco de protestos de rua por mais benefícios e acesso a serviços públicos",
+    "published": "2026-11-26T09:00:09+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Proteção social no país custa 32% do PIB ante 27% da média europeia; dívida pública atinge 115% do Produto Interno Bruto e país é palco de protestos de rua por mais benefícios e acesso a serviços públicos",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "De 2002 a 2026, o que mudou na Carta ao Povo Brasileiro do PT?",
+    "link": "https://www.infomoney.com.br/politica/de-2002-a-2026-o-que-mudou-na-carta-ao-povo-brasileiro-do-pt/",
+    "description": "Documento que ajudou Lula a conquistar a confiança do mercado há 24 anos ganha nova versão, agora em meio à disputa sobre o ajuste fiscal e as prioridades do quarto mandato\nThe post De 2002 a 2026, o que mudou na Carta ao Povo Brasileiro do PT? appeared first on InfoMoney.",
+    "published": "2026-11-26T09:00:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Documento que ajudou Lula a conquistar a confiança do mercado há 24 anos ganha nova versão, agora em meio à disputa sobre o ajuste fiscal e as prioridades do quarto mandato\nThe post De 2002 a 2026, o que mudou na Carta ao Povo Brasileiro do PT? appeared first on InfoMoney.",
+    "relevance": 5
+  },
+  {
+    "source": "Financial Times",
+    "title": "Global stocks steady after volatile US trading over AI risks",
+    "link": "https://www.ft.com/content/6e217409-9fbb-456c-b405-2eb15bb69679?syn-25a6b1a6=1",
+    "description": "Tech shares hit this month by fears over whether an AI boom can be sustained",
+    "published": "2026-11-26T08:31:48+00:00",
+    "themes": [
+      "Mercado Financeiro"
+    ],
+    "summary": "Tech shares hit this month by fears over whether an AI boom can be sustained",
+    "relevance": 5
+  },
+  {
+    "source": "Estadão",
+    "title": "Qual é o efeito de um dólar num patamar mais alto para a economia brasileira?",
+    "link": "https://www.estadao.com.br/economia/efeito-dolar-alto-economia-brasileira/",
+    "description": "",
+    "published": "2026-11-26T08:30:00+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "Qual é o efeito de um dólar num patamar mais alto para a economia brasileira?",
+    "relevance": 5
+  },
+  {
     "source": "Valor Econômico",
     "title": "Confiança do consumidor alemão medida pelo GfK sobe para -30,2, mas segue baixa",
     "link": "https://valor.globo.com/mundo/noticia/2026/11/26/confianca-do-consumidor-alemao-medida-pelo-gfk-sobe-para-302-mas-segue-baixa.ghtml",
@@ -2845,6 +2893,10 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/politica/noticia/2026/11/25/fora-do-lula-4-haddad-vai-lecionar-em-pos-graduacao-na-usp-em-2027.ghtml"
+      },
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-educacao/fernando-haddad-dara-aulas-em-pos-graduacao-da-usp-em-2027/"
       }
     ]
   },
@@ -3630,7 +3682,13 @@
       "Mercado Financeiro"
     ],
     "summary": "O nome de Luiz Carlos Trabuco Cappi, presidente do Conselho de Administração do Bradesco (BBDC4), ganhou força nos bastidores de Brasília para assumir o Ministério da Fazenda no quarto mandato do presidente Luiz Inácio Lula da Silva (PT). A possibilidade de o banqueiro comandar a",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/11/26/trabuco-reune-se-com-lula-e-ganha-forca-para-comandar-ministerio-da-fazenda.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3810,55 +3868,6 @@
       "Politica"
     ],
     "summary": "O secretário-executivo do Ministério da Fazenda, Rogério Ceron, afirmou que o governo caminha para encerrar o exercício com déficit primário em torno de 0,5% do Produto Interno Bruto (PIB) e chega à reta final do ano com segurança em relação ao cumprimento dos resultados fiscais.",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Novo índice mede desigualdade racial no acesso à riqueza e aponta distância da paridade no Brasil",
-    "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/novo-indice-mede-desigualdade-racial-no-acesso-a-riqueza-e-aponta-distancia-da-paridade-no-brasil.ghtml",
-    "description": "Os indicadores macroeconômicos mostram que a população negra tem renda inferior à branca, mesmo quando ocupa os mesmos cargos. Também revelam que, embora a maioria dos empreendedores seja negra, seus rendimentos são menores que os dos brancos. Agora, um novo índice vai acompanhar a distribuição da riqueza no Brasil e como ela chega especificamente à população preta e parda. A proposta é oferecer uma nova perspectiva para analisar a economia brasileira, deslocando o olhar da participação da população negra na atividade econômica para sua efetiva capacidade de gerar, acessar e acumular prosperidade. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-25T17:32:05+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Os indicadores macroeconômicos mostram que a população negra tem renda inferior à branca, mesmo quando ocupa os mesmos cargos. Também revelam que, embora a maioria dos empreendedores seja negra, seus rendimentos são menores que os dos brancos. Agora, um novo índice vai acompanhar",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Lula 4: o que já se sabe da agenda fiscal e o que o governo ainda precisa responder",
-    "link": "https://www.infomoney.com.br/economia/lula-4-o-que-ja-se-sabe-da-agenda-fiscal-e-o-que-o-governo-ainda-precisa-responder/",
-    "description": "Ajuste de até R$ 56 bilhões já é lei, mas a segunda etapa, focada em gastos obrigatórios, segue sem formato definido; JPMorgan vê dívida em alta até 2028\nThe post Lula 4: o que já se sabe da agenda fiscal e o que o governo ainda precisa responder appeared first on InfoMoney.",
-    "published": "2026-11-25T17:30:52+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "Ajuste de até R$ 56 bilhões já é lei, mas a segunda etapa, focada em gastos obrigatórios, segue sem formato definido; JPMorgan vê dívida em alta até 2028\nThe post Lula 4: o que já se sabe da agenda fiscal e o que o governo ainda precisa responder appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "Poder360",
-    "title": "Ao vivo: TCU analisa dragagem de canal do porto de Santos",
-    "link": "https://www.poder360.com.br/poder-infra/ao-vivo-tcu-analisa-dragagem-de-canal-do-porto-de-santos/",
-    "description": "Relator do processo é o ministro Rodrigo Pacheco e envolve possíveis irregularidades em licitação",
-    "published": "2026-11-25T17:30:06+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Relator do processo é o ministro Rodrigo Pacheco e envolve possíveis irregularidades em licitação",
-    "relevance": 5
-  },
-  {
-    "source": "G1 - Economia",
-    "title": "EUA querem mudar taxação sobre açúcar brasileiro; veja como pode ficar",
-    "link": "https://g1.globo.com/economia/agronegocios/noticia/2026/11/25/eua-querem-mudar-taxacao-sobre-acucar-brasileiro-veja-como-pode-ficar.ghtml",
-    "description": "EUA propõem novas tarifas contra Brasil e 14 economias\nO governo dos Estados Unidos propôs nesta quarta-feira (25) aumentar a tributação sobre o açúcar importado do Brasil e cobrar uma tarifa adicional de 10% sobre aeronaves brasileiras.\nAlém das medidas contra o Brasil, o Escritório do Representante Comercial dos EUA (USTR, na sigla em inglês) anunciou novas tarifas sobre produtos de 14 parceiros comerciais. Segundo o órgão, o objetivo é combater o que considera um \"excesso estrutural de capacidade industrial\".\n🗒️ Tem alguma sugestão de reportagem? Envie para o g1\nEm relação ao açúcar, o governo americano propôs uma nova tarifa sobre o produto bruto e refinado que excederem as cotas estabelecidas pelos EUA. Atualmente, a cota para o Brasil é de 100 mil toneladas por ano.\nA nova taxa seria aplicada a todos os países exportadores sujeitos à medida, e não apenas ao Brasil.\nSegundo o representante comercial americano, Jamieson Greer, que anunciou a medida, ela busca impedir que o açúcar brasileiro entre no mercado americano por meio de outros países para evitar a cobrança.\n“A mudança proposta daria mais margem para negociar a eliminação dos atos, políticas e práticas irrazoáveis do Brasil e estabelecer condições mais equilibradas para empresas e trabalhadores americanos”, afirmou o funcionário.\nComo é hoje\nAtualmente, a tributação do açúcar brasileiro importado pelos EUA funciona da seguinte forma:\na importação dentro da cota de 100 mil toneladas tem uma taxa de 25%. Essa porcentagem foi anunciada em julho e passou a valer para diversos produtos brasileiros. \nas vendas para os EUA que excedem a cota têm tarifa de 37,5%, resultado da soma dos 25% da tarifa adicional com 12,5% de outras tarifas decorrentes de negociações comerciais com o país.\n Como pode ficar\nA proposta altera medidas definidas após uma investigação do USTR, que resultou na aplicação de uma tarifa adicional de 25% sobre produtos brasileiros em julho.\nEssa investigação levou um ano, com base na Seção 301 da Lei de Comércio de 1974, mecanismo que permite ao governo americano apurar e combater possíveis barreiras comerciais em outros países.\nNo processo, o governo de Donald Trump afirma que o Brasil adota práticas que \"oneram ou restringem\" o comércio com os EUA, citando temas como o sistema de pagamentos PIX, o acesso ao comércio de etanol, o desmatamento ilegal e a pirataria. \nCaso a proposta anunciada por Greer nesta quarta-feira entre em vigor, a tarifa de 25% deixaria de ser aplicada e seria substituída por uma cobrança em dólares por kg de açúcar comercializado. Veja o detalhamento na tabela mais abaixo.\nA nova taxa seria aplicada apenas às vendas que excedessem a cota.\nPara a União da Indústria de Cana-de-Açúcar e Bioenergia (Unica), ainda não está claro como ficaria a tarifa sobre os produtos dentro da cota. A entidade disse que está avaliando o impacto da proposta e não quis enviar um posicionamento ao g1.\nVeja como é e como vai ficar a tarifa do açúcar\nO g1 também procurou a Organização de Associações de Produtores de Cana do Brasil (Orplana), o Ministério da Agricultura e a Confederação da Agricultura e Pecuária do Brasil (CNA), mas não teve um retorno até a última atualização desta reportagem.\nLeia também: Ações da Embraer caem mais de 7% após EUA proporem tarifa sobre aviões brasileiros\nQual a importância dos EUA para o açúcar brasileiro\nEm valor, os Estados Unidos não estão entre os principais clientes do complexo sucroalcooleiro brasileiro, categoria formada por açúcar, etanol, bioenergia e subprodutos.\nSegundo dados do Ministério da Agricultura de janeiro a outubro de 2026, os EUA ficaram em 22º lugar no ranking de clientes do setor, com compras totalizando cerca de US$ 147 milhões, ou mais de R$ 863 milhões.\nEntre os produtos brasileiros vendidos aos EUA, o complexo sucroalcooleiro ficou em 9º lugar em valor exportado.\nEm volume, os EUA compraram 235,2 mil toneladas, de um total de 24,9 milhões de toneladas embarcadas pelo Brasil ao exterior.\nQuais são os próximos passos?\nAs novas tarifas sobre o açúcar ainda não entraram em vigor. O governo americano abriu uma consulta pública para receber manifestações sobre as mudanças propostas.\nQuem quiser participar da audiência pública deverá enviar o pedido de inscrição e um resumo do depoimento até 7 de dezembro de 2026.\nO prazo para o envio de comentários por escrito termina em 30 de dezembro de 2026.\nA audiência pública está marcada para 14 de janeiro de 2027.\nO governo americano ainda não informou quando as novas tarifas poderão entrar em vigor.\nSaiba mais:\nEUA propõem novas tarifas sobre 14 países para combater 'excesso de capacidade industrial'\nTarifas de Trump e crise da IA provocam dia de queda em Wall Street",
-    "published": "2026-11-25T17:25:14+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "EUA propõem novas tarifas contra Brasil e 14 economias\nO governo dos Estados Unidos propôs nesta quarta-feira (25) aumentar a tributação sobre o açúcar importado do Brasil e cobrar uma tarifa adicional de 10% sobre aeronaves brasileiras.\nAlém das medidas contra o Brasil, o Escrit",
     "relevance": 5
   }
 ]
