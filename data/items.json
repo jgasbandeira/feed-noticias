@@ -1,6 +1,31 @@
 [
   {
     "source": "Poder360",
+    "title": "Bradesco, de Trabuco, tem 3º maior juro dentre os 5 bancões",
+    "link": "https://www.poder360.com.br/poder-economia/bradesco-de-trabuco-tem-3o-maior-juro-dentre-os-5-bancoes/",
+    "description": "Entre 31 instituições financeiras, banco do futuro ministro da Fazenda está em 8º lugar no ranking das maiores taxas de juros",
+    "published": "2026-11-27T01:45:44+00:00",
+    "themes": [
+      "Economia",
+      "Politica"
+    ],
+    "summary": "Entre 31 instituições financeiras, banco do futuro ministro da Fazenda está em 8º lugar no ranking das maiores taxas de juros",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
+    "title": "PSD quer manter Agricultura, retomar Pesca e ficar com Cidades no Lula 4",
+    "link": "https://www.poder360.com.br/partidos-politicos/psd-quer-manter-agricultura-retomar-pesca-e-ficar-com-cidades-no-lula-4/",
+    "description": "Partido de Kassab pretende preservar espaço na Esplanada no 4º mandato de Lula; MDB também disputa o comando do Ministério das Cidades",
+    "published": "2026-11-27T01:38:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Partido de Kassab pretende preservar espaço na Esplanada no 4º mandato de Lula; MDB também disputa o comando do Ministério das Cidades",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
     "title": "Ala econômica exalta escolha de Trabuco, mas há resistência no PT",
     "link": "https://www.poder360.com.br/poder-governo/ala-economica-exalta-escolha-de-trabuco-mas-ha-resistencia-no-pt/",
     "description": "Congressistas do partido veem com ressalva nome do banqueiro para chefiar o Ministério da Fazenda",
@@ -521,7 +546,13 @@
       "Economia"
     ],
     "summary": "Lula dá choque de credibilidade na economia com a indicação de Luiz Carlos Trabuco para a Fazenda",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Poder360",
+        "link": "https://www.poder360.com.br/poder-congresso/flavio-critica-lula-apos-convite-a-trabuco-para-a-fazenda/"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -2353,7 +2384,13 @@
       "Mercado Financeiro"
     ],
     "summary": "Luiz Carlos Trabuco, presidente do conselho de administração do Bradesco, voltou aos holofotes do mercado nesta semana em meio a rumores de que o presidente Luiz Inácio Lula da Silva estaria sondando o executivo para assumir o Ministério da Fazenda a partir de 2027. A especulação",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "O Globo",
+        "link": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/11/como-o-mercado-deve-reagir-a-confirmacao-de-trabuco-na-fazenda.ghtml"
+      }
+    ]
   },
   {
     "source": "InfoMoney",
@@ -4202,37 +4239,6 @@
       "Economia"
     ],
     "summary": "O varejo está entre os setores da economia brasileira mais expostos aos efeitos do fim da escala 6x1, mas o impacto sobre os resultados das companhias pode variar substancialmente. Num exercício em que consideram um aumento de 5% nas despesas com pessoal, sem repasse dos custos a",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Alckmin diz que tarifa sobre aviões proposta pelos EUA e 'descabida' e governo vai atuar para revertê-la",
-    "link": "https://oglobo.globo.com/economia/noticia/2026/11/26/alckmin-diz-que-tarifa-sobre-avioes-proposta-pelos-eua-e-descabida-e-governo-vai-atuar-para-reverte-la.ghtml",
-    "description": "O vice-presidente Geraldo Alckmin afirmou nesta quinta-feira que a tarifa sobre aviões proposta pelos Estados Unidos é 'descabida' e o governo vai atuar para revertê-la. A taxa, que hoje não existe, iria a 10%.\n— Isso é totalmente descabido, porque não há tarifa no mundo para o setor aeronáutico. Vamos trabalhar para reverter.  É uma tradição você não ter tarifa num setor tão estratégico quanto é o setor aeronáutico — disse Alckmin.\nO vice participou de um evento da Latam na Base Aérea de Brasília. A companhia fez o primeiro voo com um avião produzido pela Embraer, empresa que será afetada pela tarifa, caso ela entre em vigor.\nO representante de Comércio dos Estados Unidos (USTR, na sigla em inglês), Jamieson Greer, afirmou ontem que vai propor a taxação do açúcar e de aeronaves do Brasil, com base em investigações sobre “práticas comerciais prejudiciais” ao mercado americano. \nO objetivo é aumentar a pressão para que o país elimine práticas e políticas consideradas danosas ao comércio exterior dos EUA.\nReação: Governo Lula diz que proposta de Trump de nova taxação é 'inaceitável' e tem Pix como foco\nTarifaço: EUA bloqueiam pedido do Brasil para instalar painel na OMC\nA proposta inclui taxar as aeronaves brasileiras, hoje isentas, em 10%, além de tributar alguns tipos de açúcar bruto e refinado exportados para os EUA acima das cotas acordadas entre os países. No caso do açúcar refinado, a tarifa por quilo subiria cerca de 68%; a do cru, 30%.\nAs aeronaves acabadas são o quarto principal produto da pauta de exportações brasileiras para os EUA. No caso dos aviões, a medida afeta diretamente a Embraer. As ações da companhia chegaram a cair quase 10% com a notícia, fechando em baixa de 4%.\nOs aviões brasileiros ficaram de fora da sobretaxa de 25% imposta pelo governo Donald Trump em julho deste ano a parte das exportações do país. Com a nova proposta, as aeronaves produzidas no Brasil perderiam a isenção e ficariam mais caras para os compradores americanos.\nA medida ainda não tem data para entrar em vigor. O governo americano prevê uma consulta pública em janeiro de 2027 para receber manifestações de empresas e outros interessados antes de tomar uma decisão sobre a cobrança de novas tarifas.\nPressão contra o pix\nEm nota, o Palácio do Planalto expressou “indignação” com as declarações de Greer. “Fica evidente que a nova recomendação é feita como o objetivo de pressionar o governo para que haja alterações em medidas regulatórias nacionais relacionadas ao sistema de pagamentos Pix, comércio digital, acordos preferenciais, dentre outros”, diz o comunicado.\nO governo brasileiro afirmou que pretende manter as negociações com os Estados Unidos, mas não descartou recorrer à Organização Mundial do Comércio (OMC) e adotar medidas de reciprocidade caso as novas tarifas sejam implementadas.\nDo lado americano, a justificativa para a proposta de novas tarifas é de que, após mais de um ano de negociações, o Brasil não teria avançado de forma satisfatória na solução dos problemas comerciais apontados por Washington.\nOs complementos foram redigidos com base nos materiais enviados, sem reproduzir os textos. Eu também ajustaria a frase sobre o açúcar na matéria original para deixar claro que, diferentemente da taxação sobre os aviões brasileiros, o aumento das tarifas sobre o açúcar também atingiria outros países exportadores.",
-    "published": "2026-11-26T14:27:21+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "O vice-presidente Geraldo Alckmin afirmou nesta quinta-feira que a tarifa sobre aviões proposta pelos Estados Unidos é 'descabida' e o governo vai atuar para revertê-la. A taxa, que hoje não existe, iria a 10%.\n— Isso é totalmente descabido, porque não há tarifa no mundo para o s",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/brasil/noticia/2026/11/26/governo-lula-deve-consultar-setores-e-buscar-alternativas-aps-novas-tarifas-propostas-pelos-eua.ghtml"
-      }
-    ]
-  },
-  {
-    "source": "O Globo",
-    "title": "A mulher que ganhou força no governo Lula para vaga no STF",
-    "link": "https://oglobo.globo.com/blogs/bela-megale/post/2026/11/a-mulher-que-ganhou-forca-no-governo-lula-para-vaga-no-stf.ghtml",
-    "description": "Integrantes do governo Lula avaliam que cresceram as chances de a jurista Edilene Lobo ser indicada ao Supremo Tribunal Federal (STF) para a vaga aberta com a aposentadoria de Luís Roberto Barroso. Diante das resistências enfrentadas pelo advogado-geral da União, Jorge Messias, no Senado e no próprio STF, ministros palacianos passaram a atuar nos bastidores em favor do nome de Edilene. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-26T14:23:25+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Integrantes do governo Lula avaliam que cresceram as chances de a jurista Edilene Lobo ser indicada ao Supremo Tribunal Federal (STF) para a vaga aberta com a aposentadoria de Luís Roberto Barroso. Diante das resistências enfrentadas pelo advogado-geral da União, Jorge Messias, n",
     "relevance": 5
   }
 ]
