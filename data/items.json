@@ -156,6 +156,10 @@
       {
         "source": "Valor Econômico",
         "link": "https://valor.globo.com/politica/noticia/2026/11/26/no-x-durigan-deseja-bom-trabalho-a-trabuco-e-coloca-equipe-a-disposicao-para-transicao-na-fazenda.ghtml"
+      },
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/politica/durigan-cita-haddad-e-deseja-bom-trabalho-a-trabuco-na-fazenda/"
       }
     ]
   },
@@ -1138,6 +1142,19 @@
     "relevance": 5
   },
   {
+    "source": "Valor Econômico",
+    "title": "Governo Lula deve consultar setores e buscar alternativas, após novas tarifas propostas pelos EUA",
+    "link": "https://valor.globo.com/brasil/noticia/2026/11/26/governo-lula-deve-consultar-setores-e-buscar-alternativas-aps-novas-tarifas-propostas-pelos-eua.ghtml",
+    "description": "O governo do presidente Luiz Inácio Lula da Silva (PT) deve dar início a uma força-tarefa para consultar setores e buscar alternativas diante da possibilidade de os Estados Unidos aplicarem uma tarifa adicional de 10% sobre a importação de aviões brasileiros. Apesar de a aplicação da Lei da Reciprocidade não estar descartada, auxiliares de Lula defendem que a gestão petista retome as discussões sobre eventuais acordos ou medidas de retaliação após a posse do novo Congresso americano.\nA avaliação interna é que o diálogo com os Estados Unidos nos últimos meses para uma negociação em torno das tarifas já foram excessivos e não tiveram resultados concretos, já que o país insiste na sobretaxa. Dessa forma, com um olhar mais pragmático, a gestão Lula estabeleceu como prioridade no curto prazo fazer consultas aos setores afetados e procurar alternativas, de maneira semelhante à postura adotada após o tarifaço de julho de 2025.\nA ideia é que o Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Mdic) ouça a Embraer para listar as demandas do setor, já que a possibilidade das novas tarifas inclui uma alíquota de 10% sobre aeronaves prontas.\nDe forma paralela a essas consultas, auxiliares de Lula defendem que o Executivo brasileiro espere o novo Parlamento americano tomar posse para tentar construir uma saída acordada com o país sobre a eventual tarifa. A leitura de parte do Palácio do Planalto é que adotar qualquer medida de reciprocidade no momento pode prejudicar ainda mais o Brasil por uma reação americana. \nHá a expectativa de que seja possível fazer um acordo entre os países a partir do ponto de convergência que o Brasil deve ter com o Congresso americano, e explorar quais as possibilidades de atuar para reduzir efeitos do Executivo. Há uma defesa, inclusive, que o governo brasileiro procure lideranças na nova legislatura para debater o tema. \nNão há perspectiva de uma reunião bilateral nem telefonema entre o presidente dos EUA, Donald Trump, e o presidente Lula nos próximos dias. Contudo, como ambos devem ir à cúpula de líderes do G20 em Miami, no próximo mês, não está descartado um encontro.\nParte do governo acredita que esse novo anúncio dos Estados Unidos possa ser uma reação ao Brasil por conta das ações no âmbito da Organização Mundial do Comércio (OMC) e do discurso de Lula de aplicação da Lei da Reciprocidade.\nMesmo assim, fontes defendem que a relação entre os países tende a se normalizar. Nesse contexto, por exemplo, está a indicação de Daniel Perez para a embaixada no Brasil. A gestão Lula acredita que a concessão do “agrément”, autorização necessária para que um embaixador seja aceito pelo país onde servirá, deve ocorrer ainda este ano.\nEm outra frente, auxiliares de Lula também acreditam que Trump deve ser convidado para a posse presidencial do petista, marcada para 5 de janeiro. Segundo esses interlocutores, diferente do presidente da Argentina, Javier Milei, o americano não teceu críticas pessoais a Lula, e os conflitos entre Brasil e Estados Unidos fazem parte das relações geopolíticas. Como mostrou o Valor, o governo brasileiro decidiu que não convidará o chefe do Executivo argentino para o evento.",
+    "published": "2026-11-26T21:24:47+00:00",
+    "themes": [
+      "Politica",
+      "Mercado Financeiro"
+    ],
+    "summary": "O governo do presidente Luiz Inácio Lula da Silva (PT) deve dar início a uma força-tarefa para consultar setores e buscar alternativas diante da possibilidade de os Estados Unidos aplicarem uma tarifa adicional de 10% sobre a importação de aviões brasileiros. Apesar de a aplicaçã",
+    "relevance": 5
+  },
+  {
     "source": "O Globo",
     "title": "'Fora da Bolha': Lula escanteia Haddad, Trabuco na Fazenda e uma mulher negra no Supremo",
     "link": "https://oglobo.globo.com/politica/noticia/2026/11/26/fora-da-bolha-lula-escanteia-haddad-trabuco-na-fazenda-e-uma-mulher-negra-no-supremo.ghtml",
@@ -1457,6 +1474,14 @@
       {
         "source": "O Globo",
         "link": "https://oglobo.globo.com/economia/noticia/2026/11/26/governo-confirma-luiz-trabuco-como-ministro-da-fazenda.ghtml"
+      },
+      {
+        "source": "Folha",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/veja-dez-desafios-para-luiz-carlos-trabuco-na-fazenda-do-governo-lula-4.shtml"
+      },
+      {
+        "source": "Folha",
+        "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/trabuco-futuro-ministro-da-fazenda-sempre-se-esquivou-de-criticas-ao-governo-lula.shtml"
       }
     ]
   },
@@ -4228,17 +4253,5 @@
         "link": "https://g1.globo.com/economia/noticia/2026/11/26/durigan-diz-que-discutira-novas-medidas-fiscais-com-lula-mostrar-claramente-o-caminho-para-2027.ghtml"
       }
     ]
-  },
-  {
-    "source": "O Globo",
-    "title": "Fim da escala 6x1: do Magalu ao grupo Petz Cobasi, as varejistas mais expostas",
-    "link": "https://oglobo.globo.com/blogs/capital/post/2026/11/fim-da-escala-6x1-do-magalu-ao-grupo-petz-cobasi-as-varejistas-mais-expostas.ghtml",
-    "description": "O varejo está entre os setores da economia brasileira mais expostos aos efeitos do fim da escala 6x1, mas o impacto sobre os resultados das companhias pode variar substancialmente. Num exercício em que consideram um aumento de 5% nas despesas com pessoal, sem repasse dos custos aos consumidores, os analistas do Citi calculam que o lucro do Magazine Luiza seria 40% menor, enquanto o da Renner encolheria 5%. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-26T14:28:18+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "O varejo está entre os setores da economia brasileira mais expostos aos efeitos do fim da escala 6x1, mas o impacto sobre os resultados das companhias pode variar substancialmente. Num exercício em que consideram um aumento de 5% nas despesas com pessoal, sem repasse dos custos a",
-    "relevance": 5
   }
 ]
