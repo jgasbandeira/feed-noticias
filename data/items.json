@@ -1,5 +1,17 @@
 [
   {
+    "source": "Valor Econômico",
+    "title": "Mais de 1,1 mil imigrantes da África chegam à Grécia; dois são encontrados mortos",
+    "link": "https://valor.globo.com/mundo/noticia/2026/11/28/mais-de-11-mil-imigrantes-da-frica-chegam-grcia-dois-so-encontrados-mortos.ghtml",
+    "description": "Mais de 1.100 migrantes oriundos do norte da África chegaram às ilhas de Creta e Gavdos, na Grécia, entre sexta-feira (27) e sábado (28), de acordo com dados da Guarda Costeira do país. As autoridades também informaram ter encontrado os corpos de duas pessoas em um trecho rochoso da costa de Gavdos.\n\nLeia também:\nMigração desacelera nos países ricos, o que agrava os desafios fiscais deles\nPaíses da UE anunciam plano para enviar migrantes com visto negado a Ruanda\nTrump pressiona México a barrar migrantes\nSegundo a Guarda Costeira, as autoridades gregas e a agência europeia de controle de fronteiras, Frontex, realizaram operações de resgate de imigrantes que viajavam em embarcações nas proximidades das duas ilhas desde as primeiras horas de sexta-feira.\n\nEm uma das operações, 41 sobreviventes foram resgatados em Gavdos, dos quais quatro precisaram ser encaminhados a um hospital na vizinha ilha de Creta. As circunstâncias das duas mortes relatadas ainda não foram esclarecidas, mas, conforme informações divulgadas pela imprensa local, a embarcação em que as vítimas viajavam aparentemente se chocou contra rochas ao chegar à ilha.\n\nA travessia marítima entre a Líbia e o litoral sul da Grécia se tornou uma das principais rotas de entrada na Europa para imigrantes que fogem de conflitos e da pobreza na África, na Ásia e no Oriente Médio.\n\nO percurso, entretanto, é marcado pelo risco de naufrágios e pelas condições adversas, como as tempestades enfrentadas com frequência pelos imigrantes durante a viagem. Ainda neste mês, os corpos de 22 pessoas foram encontrados em duas embarcações que seguiam da Líbia em direção ao sul da Grécia.\n\nO aumento do fluxo migratório para o território grego ocorre apesar da dura política adotada pelo governo do primeiro-ministro Kyriakos Mitsotaki. Hoje, a Grécia está entre cinco países da União Europeia (UE) que pretendem criar um centro em Ruanda para receber, a partir de 2027, solicitantes de asilo cujos pedidos tenham sido rejeitados, em uma tentativa de desencorajar a chegada de mais imigrantes ao continente.\n\nA iniciativa, da qual também participam Áustria, Dinamarca, Alemanha e Países Baixos, tem sido alvo de críticas de organizações de defesa dos direitos humanos.",
+    "published": "2026-11-28T17:30:43+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Mais de 1.100 migrantes oriundos do norte da África chegaram às ilhas de Creta e Gavdos, na Grécia, entre sexta-feira (27) e sábado (28), de acordo com dados da Guarda Costeira do país. As autoridades também informaram ter encontrado os corpos de duas pessoas em um trecho rochoso",
+    "relevance": 5
+  },
+  {
     "source": "InfoMoney",
     "title": "Eleição na Espanha pode destituir um herói da esquerda global",
     "link": "https://www.infomoney.com.br/business/global/eleicao-na-espanha-pode-destituir-um-heroi-da-esquerda-global/",
@@ -22,6 +34,24 @@
       "Politica"
     ],
     "summary": "A prestação de contas da campanha que elegeu Guilherme Derrite (PP) ao Senado por São Paulo recebeu parecer contrário da área técnica do Tribunal Regional Eleitoral de São Paulo (TRE-SP) e do Ministério Público Eleitoral. Os órgãos recomendaram a desaprovação das contas, após ide",
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/politica/noticia/2026/11/28/tre-sp-e-ministerio-publico-recomendam-rejeicao-das-contas-de-campanha-de-derrite.ghtml"
+      }
+    ]
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Rial iraniano cai para cerca de 3 milhões por dólar por pressão de sanções e bloqueio",
+    "link": "https://www.infomoney.com.br/mercados/rial-iraniano-cai-para-cerca-de-3-milhoes-por-dolar-por-pressao-de-sancoes-e-bloqueio/",
+    "description": "O Irã enfrenta um ⁠dos ‌piores surtos de inflação das últimas décadas, impulsionado pela guerra no ⁠Irã, que já dura nove meses\nThe post Rial iraniano cai para cerca de 3 milhões por dólar por pressão de sanções e bloqueio appeared first on InfoMoney.",
+    "published": "2026-11-28T17:07:08+00:00",
+    "themes": [
+      "Economia"
+    ],
+    "summary": "O Irã enfrenta um ⁠dos ‌piores surtos de inflação das últimas décadas, impulsionado pela guerra no ⁠Irã, que já dura nove meses\nThe post Rial iraniano cai para cerca de 3 milhões por dólar por pressão de sanções e bloqueio appeared first on InfoMoney.",
     "relevance": 5
   },
   {
@@ -58,7 +88,13 @@
       "Politica"
     ],
     "summary": "O primeiro-ministro de Israel, Benjamin Netanyahu, ofereceu neste sábado (28) ao seu principal adversário político, Gadi Eisenkot, a possibilidade de assumir inicialmente o comando do governo em um acordo de revezamento no cargo. Pela proposta, Netanyahu ocuparia a posição de pri",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/mundo/noticia/2026/11/28/netanyahu-sugere-sistema-de-rodizio-no-comando-de-israel-e-diz-que-aceita-que-eisenkot-seja-primeiro-ministro.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -70,7 +106,13 @@
       "Politica"
     ],
     "summary": "O promotor de Justiça Lincoln Gakiya, um dos principais nomes do combate ao Primeiro Comando da Capital (PCC), afirmou que terá prazer em conversar com Geraldo Alckmin caso seja procurado pelo vice-presidente para integrar a equipe do futuro Ministério da Segurança Pública. Cotad",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "InfoMoney",
+        "link": "https://www.infomoney.com.br/mercados/gakiya-diz-que-aceitaria-conversar-com-alckmin-sobre-integrar-ministerio-da-seguranca/"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -2808,7 +2850,13 @@
       "Politica"
     ],
     "summary": "Surpreendidos com a escolha de Luiz Carlos Trabuco para comandar o Ministério da Fazenda no próximo governo Lula, parlamentares do PL e bolsonaristas de outras siglas têm recorrido a ironias em público e à torcida pelo “quanto pior, melhor” nos bastidores. Matéria exclusiva para ",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/tudo-sobre/politica/noticia/2026/11/28/veja-quem-sao-os-ministros-escolhidos-por-lula-para-o-novo-governo.ghtml"
+      }
+    ]
   },
   {
     "source": "Valor Econômico",
@@ -3976,35 +4024,5 @@
     ],
     "summary": "Aliados do presidente Lula (PT) traduzem o convite ao banqueiro Luiz Carlos Trabuco, 75, como um gesto de conciliação possível entre a necessidade de ajuste fiscal e de manutenção de políticas sociais. Um auxiliar do presidente ressalta que a opção pelo presidente do conselho de ",
     "relevance": 5
-  },
-  {
-    "source": "NeoFeed",
-    "title": "OPINIÃO: O cisne negro em Brasília",
-    "link": "https://neofeed.com.br/insiders/opiniao-o-cisne-negro-em-brasilia/",
-    "description": "O ministro que não se pode demitir. Não previ. Começo por aí porque tenho cobrado coerência de outros analistas em público, e seria feio não reconhecer: Luiz Carlos Trabuco na Fazenda não estava no meu cenário, nem no rodapé dele, nem na lista das coisas improváveis. Para mim foi um cisne negro. E dos bons. [&#8230;]\nO post OPINIÃO: O cisne negro em Brasília apareceu primeiro em NeoFeed.",
-    "published": "2026-11-27T15:35:56+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "O ministro que não se pode demitir. Não previ. Começo por aí porque tenho cobrado coerência de outros analistas em público, e seria feio não reconhecer: Luiz Carlos Trabuco na Fazenda não estava no meu cenário, nem no rodapé dele, nem na lista das coisas improváveis. Para mim foi",
-    "relevance": 5
-  },
-  {
-    "source": "O Globo",
-    "title": "Flávio Bolsonaro é alvo de pedido para que Dino bloqueie R$ 79 milhões em emendas indicadas após fuga aos EUA",
-    "link": "https://oglobo.globo.com/blogs/bela-megale/post/2026/11/flavio-bolsonaro-e-alvo-de-pedido-para-que-dino-bloqueie-r-79-milhoes-em-emendas-indicadas-apos-fuga-aos-eua.ghtml",
-    "description": "A deputada federal Fernanda Melchionna (PSOL-RS) acionou o ministro do Supremo Tribunal Federal (STF) Flávio Dino para tentar barrar R$ 79,3 milhões em emendas parlamentares apresentadas pelo senador Flávio Bolsonaro (PL-RJ) ao Orçamento de 2027. A parlamentar questiona a legalidade das indicações de recursos públicos feitas pelo filho do ex-presidente Jair Bolsonaro após sua saída do país, em meio ao descumprimento de medidas cautelares impostas pelo Supremo Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-    "published": "2026-11-27T15:35:38+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "A deputada federal Fernanda Melchionna (PSOL-RS) acionou o ministro do Supremo Tribunal Federal (STF) Flávio Dino para tentar barrar R$ 79,3 milhões em emendas parlamentares apresentadas pelo senador Flávio Bolsonaro (PL-RJ) ao Orçamento de 2027. A parlamentar questiona a legalid",
-    "relevance": 5,
-    "related": [
-      {
-        "source": "Valor Econômico",
-        "link": "https://valor.globo.com/politica/noticia/2026/11/27/dino-manda-suspender-imediatamente-emendas-de-flavio-bolsonaro-indicadas-apos-ele-deixar-o-brasil.ghtml"
-      }
-    ]
   }
 ]
