@@ -1,6 +1,42 @@
 [
   {
     "source": "Poder360",
+    "title": "Comissão aprova regras de enfrentamento ao bullying",
+    "link": "https://www.poder360.com.br/?p=2651521",
+    "description": "O projeto segue em análise na Câmara dos Deputados; texto autoriza a adoção de medidas não punitivas aos autores da violência",
+    "published": "2026-11-28T10:20:54+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "O projeto segue em análise na Câmara dos Deputados; texto autoriza a adoção de medidas não punitivas aos autores da violência",
+    "relevance": 5
+  },
+  {
+    "source": "InfoMoney",
+    "title": "Resiliência do mercado de fundos marca contagem regressiva para o “Oscar das Assets”",
+    "link": "https://www.infomoney.com.br/onde-investir/outliers-infomoney-industria-fundos-captacao-2026/",
+    "description": "A dois meses da cerimônia, setor soma R$ 251,7 bilhões em captação líquida nos nove primeiros meses de 2026, segundo a Anbima, segundo melhor resultado para o período em cinco anos\nThe post Resiliência do mercado de fundos marca contagem regressiva para o &#8220;Oscar das Assets&#8221; appeared first on InfoMoney.",
+    "published": "2026-11-28T10:05:00+00:00",
+    "themes": [
+      "XP"
+    ],
+    "summary": "A dois meses da cerimônia, setor soma R$ 251,7 bilhões em captação líquida nos nove primeiros meses de 2026, segundo a Anbima, segundo melhor resultado para o período em cinco anos\nThe post Resiliência do mercado de fundos marca contagem regressiva para o &#8220;Oscar das Assets&",
+    "relevance": 5
+  },
+  {
+    "source": "Folha",
+    "title": "Bradesco, sob Trabuco, levou banco privado à favela, lembra fundador do G10 Favelas",
+    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/painelsa/2026/11/bradesco-sob-trabuco-levou-banco-privado-a-favela-lembra-fundador-do-g10-favelas.shtml",
+    "description": "Há cerca de um mês, Gilson Rodrigues, fundador do G10 Favelas, encontrou-se com o presidente do conselho do Bradesco, Luiz Carlos Trabuco Cappi. Para ele, é uma surpresa que agora o banqueiro tenha sido anunciado para o Ministério da Fazenda, já que, à época, a facilidade de acesso e as conversas com ele não davam pistas sobre esse destino.\nLeia mais (11/28/2026 - 07h00)",
+    "published": "2026-11-28T10:00:00+00:00",
+    "themes": [
+      "Politica"
+    ],
+    "summary": "Há cerca de um mês, Gilson Rodrigues, fundador do G10 Favelas, encontrou-se com o presidente do conselho do Bradesco, Luiz Carlos Trabuco Cappi. Para ele, é uma surpresa que agora o banqueiro tenha sido anunciado para o Ministério da Fazenda, já que, à época, a facilidade de aces",
+    "relevance": 5
+  },
+  {
+    "source": "Poder360",
     "title": "Flávio manda Dino “tirar a veste de militante” após suspensão de emendas",
     "link": "https://www.poder360.com.br/poder-justica/flavio-manda-dino-tirar-a-veste-de-militante-apos-suspensao-de-emendas/",
     "description": "Dos EUA, senador reagiu à decisão de ministro do STF, estar no pleno exercício do seu mandato e afirmou que vai “notificar” Fachin",
@@ -208,7 +244,13 @@
       "Politica"
     ],
     "summary": "Ex-secretário de Política Econômica do Ministério da Fazenda e ex-diretor do Banco Central, Fabio Kanczuk avalia que a nomeação de Trabuco é “melhor do que as alternativas” anteriormente ventiladas e que agora há esperança de um ajuste fiscal. Matéria exclusiva para assinantes. P",
-    "relevance": 5
+    "relevance": 5,
+    "related": [
+      {
+        "source": "Valor Econômico",
+        "link": "https://valor.globo.com/financas/intraday/post/2026/11/trabuco-e-o-banqueiro-mais-socialista-que-conheci-na-vida-diz-ex-diretor-do-bradesco.ghtml"
+      }
+    ]
   },
   {
     "source": "O Globo",
@@ -3994,42 +4036,5 @@
         "link": "https://www.infomoney.com.br/mercados/por-que-petrobras-petr4-recua-em-dia-de-euforia-no-ibovespa/"
       }
     ]
-  },
-  {
-    "source": "Folha",
-    "title": "Meirelles vê semelhanças entre Trabuco na Fazenda e sua ida ao BC, e diz que novo ministro precisará de firmeza",
-    "link": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/11/meirelles-ve-semelhancas-entre-trabuco-na-fazenda-e-sua-ida-ao-bc-e-diz-que-novo-ministro-precisara-de-firmeza.shtml",
-    "description": "Ao escolher Luiz Carlos Trabuco para o Ministério da Fazenda, o governo Lula repete um movimento conhecido dos brasileiros, o de levar um banqueiro com décadas de experiência no mercado financeiro para um posto-chave na equipe econômica de um governo de esquerda. A nomeação foi oficializada nesta quinta-feira (26).\nLeia mais (11/27/2026 - 10h32)",
-    "published": "2026-11-27T13:32:00+00:00",
-    "themes": [
-      "Politica",
-      "Mercado Financeiro"
-    ],
-    "summary": "Ao escolher Luiz Carlos Trabuco para o Ministério da Fazenda, o governo Lula repete um movimento conhecido dos brasileiros, o de levar um banqueiro com décadas de experiência no mercado financeiro para um posto-chave na equipe econômica de um governo de esquerda. A nomeação foi o",
-    "relevance": 5
-  },
-  {
-    "source": "InfoMoney",
-    "title": "Os limites de Trabuco na Fazenda: até onde Lula aceitará mexer nos gastos sociais?",
-    "link": "https://www.infomoney.com.br/politica/os-limites-de-trabuco-na-fazenda-ate-onde-lula-aceitara-mexer-nos-gastos-sociais/",
-    "description": "Novo ministro já defendeu revisão da proteção social e da Previdência, enquanto presidente resiste a mudanças nos benefícios e nas despesas obrigatórias\nThe post Os limites de Trabuco na Fazenda: até onde Lula aceitará mexer nos gastos sociais? appeared first on InfoMoney.",
-    "published": "2026-11-27T13:30:00+00:00",
-    "themes": [
-      "Politica"
-    ],
-    "summary": "Novo ministro já defendeu revisão da proteção social e da Previdência, enquanto presidente resiste a mudanças nos benefícios e nas despesas obrigatórias\nThe post Os limites de Trabuco na Fazenda: até onde Lula aceitará mexer nos gastos sociais? appeared first on InfoMoney.",
-    "relevance": 5
-  },
-  {
-    "source": "CNBC",
-    "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
-    "link": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
-    "description": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
-    "published": "2026-11-27T13:29:43+00:00",
-    "themes": [
-      "Economia"
-    ],
-    "summary": "The extreme market gyrations and the drama surrounding Nvidia this past week have highlighted the dilemma facing Federal Reserve Chairman Kevin Warsh.",
-    "relevance": 5
   }
 ]
